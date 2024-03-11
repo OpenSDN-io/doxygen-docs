@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.opensdn.io
+port=29418
+project=opensdn-io/doxygen-docs.git
+defaultbranch=master
