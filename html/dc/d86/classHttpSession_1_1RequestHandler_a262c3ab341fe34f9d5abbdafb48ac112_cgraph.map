@@ -1,0 +1,11 @@
+<map id="HttpSession::RequestHandler::Run" name="HttpSession::RequestHandler::Run">
+<area shape="rect" id="node2" href="$d5/d1b/classHttpRequest.html#ac0e4199e3290f59a5a27eaf9ba4ddc5a" title="HttpRequest::ToString" alt="" coords="308,5,471,32"/>
+<area shape="rect" id="node3" href="$d5/d1b/classHttpRequest.html#a5347a6a86c9de072c7edefa7dc78c7f5" title="HttpRequest::Event" alt="" coords="316,56,463,83"/>
+<area shape="rect" id="node4" href="$dd/dab/classHttpServer.html#a6cbc3d720b2f2eb1cb012fd37e57440c" title="HttpServer::GetHandler" alt="" coords="302,107,477,133"/>
+<area shape="rect" id="node5" href="$d5/d1b/classHttpRequest.html#a7f90ab416608b192eeebdb136ac54e21" title="HttpRequest::UrlPath" alt="" coords="311,157,468,184"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="296,208,483,235"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#a958ab293b94f91a7461891fc49019e0d" title="BitIsSet" alt="" coords="564,157,636,184"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="531,208,669,235"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="717,208,904,235"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="952,208,1096,235"/>
+</map>

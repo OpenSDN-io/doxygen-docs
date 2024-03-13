@@ -1,0 +1,28 @@
+var structAs4PathSpec =
+[
+    [ "PathSegment", "d2/d8a/structAs4PathSpec_1_1PathSegment.html", "d2/d8a/structAs4PathSpec_1_1PathSegment" ],
+    [ "As4PathSpec", "d5/dfd/structAs4PathSpec.html#a8b3ba12ed66e9781e32a26a7be429ff0", null ],
+    [ "As4PathSpec", "d5/dfd/structAs4PathSpec.html#ac1077aaf83aafbf224f7690a5142e3f1", null ],
+    [ "As4PathSpec", "d5/dfd/structAs4PathSpec.html#a0f8dcc3b57c1dc54b0d8fe47555c1f7e", null ],
+    [ "~As4PathSpec", "d5/dfd/structAs4PathSpec.html#a2b2c475a6890d6f394a20c6cab78b102", null ],
+    [ "Add", "d5/dfd/structAs4PathSpec.html#a7086fa4b6416432395a9ea7bfa42c3bf", null ],
+    [ "Add", "d5/dfd/structAs4PathSpec.html#a7a1d1ad3a40d5e789aa730a73eeba040", null ],
+    [ "AsIsPrivate", "d5/dfd/structAs4PathSpec.html#ae87c14b562da76e31bf9f27ec3122287", null ],
+    [ "AsLeftMost", "d5/dfd/structAs4PathSpec.html#a7a1238ab86ef05abfe86146d3bb91a34", null ],
+    [ "AsLeftMostMatch", "d5/dfd/structAs4PathSpec.html#a3adbabbf05532f63987f4101f0e4e5d9", null ],
+    [ "AsLeftMostPublic", "d5/dfd/structAs4PathSpec.html#a7b9b9e7aa60a4f2c3553750fd0b0bf45", null ],
+    [ "AsPathLoop", "d5/dfd/structAs4PathSpec.html#ac6afe3b16d772e8424726f3805361efa", null ],
+    [ "CompareTo", "d5/dfd/structAs4PathSpec.html#a4d6014bfed42394adb56bfd4777db59e", null ],
+    [ "EncodeLength", "d5/dfd/structAs4PathSpec.html#ac6a66f279bb7b8a297068a5cb27c0fcd", null ],
+    [ "RemovePrivate", "d5/dfd/structAs4PathSpec.html#ac65845a4a2ecf25af7f5bc965d1abb88", null ],
+    [ "Replace", "d5/dfd/structAs4PathSpec.html#a5afc7e14333d90f5125c84e13013023a", null ],
+    [ "ToCanonical", "d5/dfd/structAs4PathSpec.html#a7d8ecb804f63d98f2d43da41cf342c68", null ],
+    [ "ToString", "d5/dfd/structAs4PathSpec.html#ad9f7e29ad40b2837fd7cf44726de5574", null ],
+    [ "kFlags", "d5/dfd/structAs4PathSpec.html#adce4e348bab01d8994297922b96bc421", null ],
+    [ "kMaxPrivateAs", "d5/dfd/structAs4PathSpec.html#abbcc84a3c2fd049f6ac022d3298482cd", null ],
+    [ "kMaxPrivateAs4", "d5/dfd/structAs4PathSpec.html#a7ae3b1cf02460bbaa5140c09e20b3f2f", null ],
+    [ "kMinPrivateAs", "d5/dfd/structAs4PathSpec.html#afc3dffd0fd96bb19a3923ce0a98860d7", null ],
+    [ "kMinPrivateAs4", "d5/dfd/structAs4PathSpec.html#a951e8ada9052dccc5fc63b3d43093a88", null ],
+    [ "kSize", "d5/dfd/structAs4PathSpec.html#a323b109b3107cfc46a5e814bb45867fe", null ],
+    [ "path_segments", "d5/dfd/structAs4PathSpec.html#a4ab6c8efcf5fb638f51290d29de4fd64", null ]
+];

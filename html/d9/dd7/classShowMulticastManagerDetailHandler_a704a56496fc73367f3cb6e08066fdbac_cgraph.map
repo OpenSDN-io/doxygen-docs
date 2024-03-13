@@ -1,0 +1,20 @@
+<map id="ShowMulticastManagerDetailHandler::FillMulticastPartitionInfo" name="ShowMulticastManagerDetailHandler::FillMulticastPartitionInfo">
+<area shape="rect" id="node2" href="$d3/db0/classErmVpnTable.html#aba27ca2b85b2761cca8ba22def07d44c" title="ErmVpnTable::GetTreeManager" alt="" coords="295,5,516,32"/>
+<area shape="rect" id="node3" href="$d3/dbd/classMcastTreeManager.html#a04dece1ec3d386c461f96dbb626a978b" title="McastTreeManager::GetPartition" alt="" coords="291,56,519,83"/>
+<area shape="rect" id="node4" href="$d9/dd7/classShowMulticastManagerDetailHandler.html#ad53562469f658a0b43d7d7f057d5b3c8" title="ShowMulticastManagerDetail\lHandler::FillMulticastTreeInfo" alt="" coords="300,107,511,149"/>
+<area shape="rect" id="node5" href="$da/da9/classMcastSGEntry.html#a48bbe029f1f5e1a390cb2b2f245c4db9" title="McastSGEntry::group" alt="" coords="614,39,770,65"/>
+<area shape="rect" id="node6" href="$da/da9/classMcastSGEntry.html#ab5203ab415b18991d5236baf1b98a96e" title="McastSGEntry::source" alt="" coords="611,89,773,116"/>
+<area shape="rect" id="node7" href="$da/da9/classMcastSGEntry.html#ae5bb7074612023680d8ef448f1c3dc23" title="McastSGEntry::IsTreeBuilder" alt="" coords="591,140,793,167"/>
+<area shape="rect" id="node13" href="$d9/dd7/classShowMulticastManagerDetailHandler.html#a30571931a2e362ea8d7f6b9740dd2b38" title="ShowMulticastManagerDetail\lHandler::FillMulticastForwarderInfo" alt="" coords="568,293,816,334"/>
+<area shape="rect" id="node8" href="$d2/d07/classMcastManagerPartition.html#a6731492ef834f6987f427705e881c167" title="McastManagerPartition\l::server" alt="" coords="884,74,1055,115"/>
+<area shape="rect" id="node12" href="$db/d26/classBgpServer.html#ab6b6aac7c5171d46d4e24bb9225aa500" title="BgpServer::bgp_identifier" alt="" coords="876,140,1063,167"/>
+<area shape="rect" id="node9" href="$d3/dbd/classMcastTreeManager.html#a21de1839fa1cafbaa94461d056a9f70c" title="McastTreeManager::table" alt="" coords="1123,56,1307,83"/>
+<area shape="rect" id="node10" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="1149,107,1280,133"/>
+<area shape="rect" id="node11" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="1355,107,1530,133"/>
+<area shape="rect" id="node14" href="$d6/dc4/classMcastForwarder.html#adc6b5280e788d77255e6a15e44a64c76" title="McastForwarder::address" alt="" coords="1123,273,1307,300"/>
+<area shape="rect" id="node15" href="$d6/dc4/classMcastForwarder.html#a2a36df8b15b3edf00b33fe34375cbfee" title="McastForwarder::label" alt="" coords="1132,328,1297,355"/>
+<area shape="rect" id="node16" href="$d6/dc4/classMcastForwarder.html#a98e7fa925eef187ab57bfd31eb0e28e3" title="McastForwarder::label\l_block" alt="" coords="887,410,1052,451"/>
+<area shape="rect" id="node17" href="$dc/d2b/classLabelBlock.html#a162f5a1bab81fff9219b70a793198530" title="LabelBlock::ToString" alt="" coords="893,476,1046,503"/>
+<area shape="rect" id="node18" href="$d6/dc4/classMcastForwarder.html#a33108121e2a2d59b8162ad50a2d91137" title="McastForwarder::router_id" alt="" coords="874,191,1065,217"/>
+<area shape="rect" id="node19" href="$d9/dd7/classShowMulticastManagerDetailHandler.html#a05d478fbb8f3541ce4052b8354d99a8b" title="ShowMulticastManagerDetail\lHandler::FillMulticastLinkInfo" alt="" coords="864,293,1075,334"/>
+</map>

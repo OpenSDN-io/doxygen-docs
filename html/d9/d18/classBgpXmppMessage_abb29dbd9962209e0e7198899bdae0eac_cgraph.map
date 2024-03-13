@@ -1,0 +1,11 @@
+<map id="BgpXmppMessage::GetVirtualNetwork" name="BgpXmppMessage::GetVirtualNetwork">
+<area shape="rect" id="node2" href="$d0/da7/classRibOutAttr.html#ab4957791e0f95fb9a8fe62f35144fbd9" title="RibOutAttr::nexthop_list" alt="" coords="288,5,467,32"/>
+<area shape="rect" id="node3" href="$d0/da7/classRibOutAttr.html#ac6a3b600a406645e921d9cccb0990e03" title="RibOutAttr::vrf_originated" alt="" coords="283,56,472,83"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="545,157,743,184"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a37e0385c3de8bc8ca5eed32de4675af6" title="RoutingInstance::GetVirtual\lNetworkName" alt="" coords="803,198,1003,239"/>
+<area shape="rect" id="node6" href="$d9/d18/classBgpXmppMessage.html#a4c0b3b2d2a5764a0945d1ef1e4346410" title="BgpXmppMessage::GetVirtual\lNetwork" alt="" coords="269,234,485,275"/>
+<area shape="rect" id="node7" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a333b0bfd98002fb68b76581e70fb9857" title="RibOutAttr::NextHop\l::origin_vn_index" alt="" coords="567,325,721,366"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="548,391,740,417"/>
+<area shape="rect" id="node9" href="$d2/d72/classRoutingInstanceMgr.html#a33835f2e211792023ac475558b123895" title="RoutingInstanceMgr\l::GetVirtualNetworkByVnIndex" alt="" coords="533,259,755,301"/>
+<area shape="rect" id="node10" href="$d2/d72/classRoutingInstanceMgr.html#a4888d37f82fbff52bebe8f3e570a68e8" title="RoutingInstanceMgr\l::GetInstanceByVnIndex" alt="" coords="813,263,992,305"/>
+</map>

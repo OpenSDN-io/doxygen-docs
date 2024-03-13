@@ -1,0 +1,18 @@
+<map id="etcdserverpb::CompactionRequest::descriptor" name="etcdserverpb::CompactionRequest::descriptor">
+<area shape="rect" id="node2" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a6ce441eda8c1dce9c0d3c035cbe0b02f" title="protobuf_auth_2eproto\l::protobuf_AssignDescriptorsOnce" alt="" coords="248,183,491,225"/>
+<area shape="rect" id="node3" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af3605c13a6de55b312a72aaff28d9cae" title="protobuf_auth_2eproto\l::protobuf_AssignDescriptors" alt="" coords="539,150,749,191"/>
+<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a1949c0db63bd6592edc652fa4a0fcddb" title="protobuf_auth_2eproto\l::AddDescriptors" alt="" coords="797,146,968,187"/>
+<area shape="rect" id="node5" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a658033a9628e602a7cb6f12988bfc112" title="protobuf_auth_2eproto\l::AddDescriptorsImpl" alt="" coords="1016,145,1187,186"/>
+<area shape="rect" id="node6" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a84a2f5664b0a5b802c1b144f776d84a3" title="protobuf_auth_2eproto\l::InitDefaults" alt="" coords="1271,70,1441,111"/>
+<area shape="rect" id="node16" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a5bc5cd120b59d31ce726162fac28e05e" title="protobuf_auth_2eproto\l::GOOGLE_PROTOBUF_ATTRIBUTE\l_SECTION_VARIABLE" alt="" coords="1235,136,1477,192"/>
+<area shape="rect" id="node17" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a8faa32273d5e1b720be85672c2235b22" title="protobuf_auth_2eproto\l::protobuf_RegisterTypes" alt="" coords="1265,217,1447,258"/>
+<area shape="rect" id="node7" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a47c4cea6947e0bc0b80b235df23b579c" title="protobuf_auth_2eproto\l::InitDefaultsUser" alt="" coords="1525,9,1696,50"/>
+<area shape="rect" id="node10" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title="protobuf_auth_2eproto\l::InitDefaultsPermission" alt="" coords="1973,71,2152,113"/>
+<area shape="rect" id="node13" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#ac397a7f7e7715ed3105bf8c991d94f87" title="protobuf_auth_2eproto\l::InitDefaultsRole" alt="" coords="1525,129,1696,170"/>
+<area shape="rect" id="node8" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a32c5b68d2d08d7a69243e7c086fc51bb" title="protobuf_auth_2eproto\l::InitDefaultsUserImpl" alt="" coords="1744,9,1915,50"/>
+<area shape="rect" id="node9" href="$d5/da5/classauthpb_1_1User.html#a0892df9e59986477ce05bfa9daad4172" title="authpb::User::InitAsDefault\lInstance" alt="" coords="1963,6,2162,47"/>
+<area shape="rect" id="node11" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title="protobuf_auth_2eproto\l::InitDefaultsPermissionImpl" alt="" coords="2211,71,2418,113"/>
+<area shape="rect" id="node12" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title="authpb::Permission\l::InitAsDefaultInstance" alt="" coords="2467,71,2637,113"/>
+<area shape="rect" id="node14" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a22c69b8ef8df989ed953fe0689007e2a" title="protobuf_auth_2eproto\l::InitDefaultsRoleImpl" alt="" coords="1744,129,1915,170"/>
+<area shape="rect" id="node15" href="$d6/d92/classauthpb_1_1Role.html#a40e453018b7c6124fe1cf16a7e62cf82" title="authpb::Role::InitAsDefault\lInstance" alt="" coords="1965,137,2161,178"/>
+</map>

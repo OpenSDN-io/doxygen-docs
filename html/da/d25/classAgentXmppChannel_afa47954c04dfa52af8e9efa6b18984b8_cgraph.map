@@ -1,0 +1,51 @@
+<map id="AgentXmppChannel::AddRoute" name="AgentXmppChannel::AddRoute">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="887,698,1062,725"/>
+<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#a78c6041d5719cf86dbcc3ca883a0fc08" title="AgentXmppChannel::GetVnList" alt="" coords="281,1325,503,1352"/>
+<area shape="rect" id="node4" href="$da/d25/classAgentXmppChannel.html#af39767ba27c71134efe2fdc93bb3f1e7" title="AgentXmppChannel::IsEcmp" alt="" coords="289,1376,495,1402"/>
+<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#adc79d8f699e044c8d39b61b290728a95" title="AgentXmppChannel::AddInet\lEcmpRoute" alt="" coords="573,262,782,303"/>
+<area shape="rect" id="node18" href="$da/d25/classAgentXmppChannel.html#a5319237962822b821ddb351ee4747058" title="AgentXmppChannel::AddRemote\lRoute" alt="" coords="275,1259,509,1300"/>
+<area shape="rect" id="node6" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="1179,371,1362,412"/>
+<area shape="rect" id="node7" href="$dc/d5b/classVxlanRoutingManager.html#a2722350adb0570b4b967aa8ef8799b9c" title="Checks whether VxLAN routing manager is enabled or not. " alt="" coords="893,952,1057,994"/>
+<area shape="rect" id="node10" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="893,146,1057,187"/>
+<area shape="rect" id="node11" href="$da/d25/classAgentXmppChannel.html#adfa11fedb5b105967f4f3d624c075f9a" title="AgentXmppChannel::Prefix\lToRouteTable" alt="" coords="877,80,1073,122"/>
+<area shape="rect" id="node12" href="$dd/dec/controller__peer_8cc.html#afe2c857f8001b02826951384ef28f8e6" title="GetEcmpHashFieldsToUse" alt="" coords="879,378,1070,405"/>
+<area shape="rect" id="node13" href="$da/d25/classAgentXmppChannel.html#a195d1b646f6855ab54932aa5f6132490" title="AgentXmppChannel::BuildEcmpData" alt="" coords="845,277,1104,304"/>
+<area shape="rect" id="node15" href="$df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title="ControllerEcmpRoute\l::cloned_local_path_list" alt="" coords="887,211,1062,252"/>
+<area shape="rect" id="node16" href="$da/dcd/classInetUnicastAgentRouteTable.html#a8c692171779be622d4c994c6e56a223b" title="InetUnicastAgentRouteTable\l::AddClonedLocalPathReq" alt="" coords="872,835,1077,876"/>
+<area shape="rect" id="node17" href="$da/dcd/classInetUnicastAgentRouteTable.html#a60a38caf1f92e66664443a3ba09bad1c" title="InetUnicastAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="872,535,1077,576"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1211,901,1331,928"/>
+<area shape="rect" id="node9" href="$dc/dff/classOperDB.html#a010101c0d735082d10e628e2fa414785" title="OperDB::vxlan_routing\l_manager" alt="" coords="1186,1011,1355,1052"/>
+<area shape="rect" id="node14" href="$da/d25/classAgentXmppChannel.html#a877ec6876d2e69de6bbafca91140f8bc" title="AgentXmppChannel::BuildTagList" alt="" coords="1152,153,1389,180"/>
+<area shape="rect" id="node19" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="612,1186,743,1213"/>
+<area shape="rect" id="node20" href="$df/def/classVNController.html#a76a5b4d8d801fd28ddeb4de8aa611421" title="VNController::GetTypeBitmap" alt="" coords="571,1237,784,1264"/>
+<area shape="rect" id="node21" href="$da/d25/classAgentXmppChannel.html#ab2a1d060775460d51aa36c0a86fd3a9a" title="AgentXmppChannel::GetBgp\lPeerName" alt="" coords="574,1288,781,1330"/>
+<area shape="rect" id="node22" href="$da/d25/classAgentXmppChannel.html#af109c739db9af946b12044106103f5db" title="AgentXmppChannel::AddFabric\lVrfRoute" alt="" coords="566,918,789,959"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a47214d1ad68af041dc81f89f4d8d6641" title="Agent::fabric_policy\l_vrf_name" alt="" coords="602,1354,753,1395"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="911,1018,1038,1045"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#ad578ca8e357b54b21d99684a5cf36587" title="Agent::vhost_prefix" alt="" coords="603,1420,751,1446"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#ab420841596b0862202674b24fe805466" title="Agent::vhost_prefix_len" alt="" coords="590,1470,765,1497"/>
+<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="614,1521,741,1548"/>
+<area shape="rect" id="node29" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="578,1572,777,1598"/>
+<area shape="rect" id="node30" href="$d1/d05/classControllerVmRoute.html#abf722fc3652777c4dbc56babc91ee46a" title="ControllerVmRoute::\lMakeControllerVmRoute" alt="" coords="587,1623,767,1664"/>
+<area shape="rect" id="node31" href="$d3/d08/classTunnelType.html#a87a695aed53488469e2ee6e394d3c35d" title="TunnelType::NativeType" alt="" coords="590,1689,765,1716"/>
+<area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a809ef2c3eb911e300fb623d99ea11836" title="Agent::mpls_table" alt="" coords="607,1740,747,1766"/>
+<area shape="rect" id="node33" href="$df/dd0/classMplsTable.html#ab2832528f492ba8f436e54270bbab1e8" title="MplsTable::FindMplsLabel" alt="" coords="585,1790,770,1817"/>
+<area shape="rect" id="node34" href="$df/de8/classMplsLabel.html#a120304e249c7b7391d2448a966d21f95" title="MplsLabel::nexthop" alt="" coords="603,1841,751,1868"/>
+<area shape="rect" id="node35" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="607,1892,747,1918"/>
+<area shape="rect" id="node36" href="$dc/dff/classOperDB.html#a8174ef6fcba26d06051a4b0500765b19" title="OperDB::global_system\l_config" alt="" coords="590,1943,765,1984"/>
+<area shape="rect" id="node37" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="575,2008,780,2050"/>
+<area shape="rect" id="node38" href="$d4/d57/classAgentRoute.html#ab443fc903c24dca978371900e47ec724" title="AgentRoute::GetLocalVmPortPath" alt="" coords="558,2074,797,2101"/>
+<area shape="rect" id="node39" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="603,2125,752,2152"/>
+<area shape="rect" id="node40" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="583,2176,772,2202"/>
+<area shape="rect" id="node41" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="619,2226,736,2253"/>
+<area shape="rect" id="node42" href="$d4/d3d/classAgentPath.html#aad0e484a258c7d3bd11ce6a63c841094" title="AgentPath::GetActiveLabel" alt="" coords="580,2277,775,2304"/>
+<area shape="rect" id="node43" href="$de/d30/classInterfaceNH.html#ab050a0a3921fc822bee0b811e33bc44d" title="InterfaceNH::GetIfUuid" alt="" coords="592,2328,763,2354"/>
+<area shape="rect" id="node44" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="615,2378,740,2405"/>
+<area shape="rect" id="node24" href="$da/d25/classAgentXmppChannel.html#afbf198d75bac796b0102df5999d72b69" title="AgentXmppChannel::sequence\l_number" alt="" coords="864,1070,1085,1111"/>
+<area shape="rect" id="node45" href="$da/dcd/classInetUnicastAgentRouteTable.html#aa5193d2f8947c642fcca0cb0c8eabd5f" title="InetUnicastAgentRouteTable\l::AddLocalVmRouteReq" alt="" coords="575,2430,780,2471"/>
+<area shape="rect" id="node46" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="596,2496,759,2522"/>
+<area shape="rect" id="node47" href="$da/dcd/classInetUnicastAgentRouteTable.html#a9e6c968a7a2a0fc3ccea90ef74a93386" title="InetUnicastAgentRouteTable\l::AddInetInterfaceRouteReq" alt="" coords="575,480,780,522"/>
+<area shape="rect" id="node48" href="$d0/d47/classVlanNH.html#a054a89039f461e91fbb85a9d5c34551b" title="VlanNH::GetIfUuid" alt="" coords="607,546,748,573"/>
+<area shape="rect" id="node49" href="$d0/d47/classVlanNH.html#aa2a1d2015d578871299951f0a4a9641a" title="VlanNH::GetVlanTag" alt="" coords="601,648,754,674"/>
+<area shape="rect" id="node50" href="$da/dcd/classInetUnicastAgentRouteTable.html#af0474c7963776b4d7ad68308e161da2c" title="InetUnicastAgentRouteTable\l::AddVlanNHRouteReq" alt="" coords="575,800,780,842"/>
+</map>

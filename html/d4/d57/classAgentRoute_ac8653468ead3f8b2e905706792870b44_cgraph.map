@@ -1,0 +1,14 @@
+<map id="AgentRoute::RemovePath" name="AgentRoute::RemovePath">
+<area shape="rect" id="node2" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="549,5,648,32"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html#a264132d02c781dbbd1750e1fdf35b5dd" title="Route::Sort" alt="" coords="307,64,400,91"/>
+<area shape="rect" id="node7" href="$dc/d2b/classAgentRouteTable.html#a2059cd7df3c2f2543082778c2276da40" title="AgentRouteTable::PathSelection" alt="" coords="240,151,467,177"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a6c75aa6244c8b97c31b2ec04b6f56503" title="DBEntryBase::set_last\l_update_at_to_now" alt="" coords="515,57,682,98"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#ada948255e0ae0365b546086a1565d325" title="DBEntryBase::set_last\l_change_at_to_now" alt="" coords="515,122,682,163"/>
+<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="755,69,909,96"/>
+<area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#ab2a6966c9dbfc8ebea9d3f6f71ef864b" title="AgentPath::IsLess" alt="" coords="531,188,667,215"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="769,131,895,157"/>
+<area shape="rect" id="node10" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="776,181,888,208"/>
+<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="731,232,933,259"/>
+<area shape="rect" id="node12" href="$d6/dd4/classPeer.html#a5e32ea9f40f18a8fb997370e0d8cdfdb" title="Peer::IsLess" alt="" coords="783,283,881,309"/>
+<area shape="rect" id="node13" href="$d6/dd4/classPeer.html#a3c74b106932622b1aaaaf127460d3407" title="Peer::Compare" alt="" coords="982,283,1101,309"/>
+</map>

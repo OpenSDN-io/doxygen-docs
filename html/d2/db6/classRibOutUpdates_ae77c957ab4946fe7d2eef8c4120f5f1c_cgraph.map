@@ -1,0 +1,15 @@
+<map id="RibOutUpdates::UpdateFlush" name="RibOutUpdates::UpdateFlush">
+<area shape="rect" id="node2" href="$db/dd4/classRibOut.html#aec6b6ad8caae0e6944f8e3dfb013240e" title="RibOut::IsEncodingXmpp" alt="" coords="269,5,451,32"/>
+<area shape="rect" id="node3" href="$de/d2c/classRibOut_1_1PeerIterator.html#af26af9a506d244bf9fcade87933dd8c3" title="RibOut::PeerIterator\l::HasNext" alt="" coords="285,57,435,98"/>
+<area shape="rect" id="node4" href="$de/d2c/classRibOut_1_1PeerIterator.html#a61022257b4131fb9c7ca887e05377600" title="RibOut::PeerIterator\l::index" alt="" coords="285,122,435,163"/>
+<area shape="rect" id="node5" href="$de/d2c/classRibOut_1_1PeerIterator.html#a2b3c438325ca5d467e44b32bd9f2cd9d" title="RibOut::PeerIterator\l::Next" alt="" coords="285,187,435,229"/>
+<area shape="rect" id="node13" href="$dd/d38/classIPeerUpdate.html#aa3e3e361b30cf6384f84a86aadb1eeec" title="IPeerUpdate::FlushUpdate" alt="" coords="265,304,455,331"/>
+<area shape="rect" id="node14" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="525,253,614,280"/>
+<area shape="rect" id="node6" href="$db/dd4/classRibOut.html#a295c8050861dac9c1378271e3d6da5da" title="RibOut::GetPeer" alt="" coords="506,123,633,149"/>
+<area shape="rect" id="node8" href="$d6/dd0/classBitSet.html#a6b2fa995df62bc44f8ba8ce93207d883" title="BitSet::find_next" alt="" coords="505,199,634,225"/>
+<area shape="rect" id="node7" href="$d6/dfd/classIndexMap.html#afa577f334aeaa8dd6663bda6b75eaa76" title="IndexMap::At" alt="" coords="691,97,797,124"/>
+<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="694,249,794,276"/>
+<area shape="rect" id="node10" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="693,300,795,327"/>
+<area shape="rect" id="node11" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="683,199,805,225"/>
+<area shape="rect" id="node12" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="695,148,793,175"/>
+</map>

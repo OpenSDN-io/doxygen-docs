@@ -1,0 +1,12 @@
+<map id="AgentDnsXmppChannel::RegisterXmppChannel" name="AgentDnsXmppChannel::RegisterXmppChannel">
+<area shape="rect" id="node2" href="$d6/d81/classXmppChannel.html#a0a0945abcaf97451d8573f1640697552" title="XmppChannel::RegisterReceive" alt="" coords="230,63,455,89"/>
+<area shape="rect" id="node3" href="$d5/d06/classAgentDnsXmppChannel.html#a223913f9431d51eb5cfdd690091bb1c3" title="AgentDnsXmppChannel\l::ReceiveInternal" alt="" coords="255,114,431,155"/>
+<area shape="rect" id="node4" href="$d5/d06/classAgentDnsXmppChannel.html#ab12324016d833c5b7adc5d8e4361a7b3" title="AgentDnsXmppChannel\l::ReceiveMsg" alt="" coords="504,114,680,155"/>
+<area shape="rect" id="node5" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="732,5,895,46"/>
+<area shape="rect" id="node7" href="$dd/d50/classXmlPugi.html#a661364c01079e09b813d79211133d4c2" title="XmlPugi::LoadXmlDoc" alt="" coords="730,71,897,97"/>
+<area shape="rect" id="node8" href="$dd/d50/classXmlPugi.html#aef52b6ee6b251ee9d11f6a13041f00c8" title="XmlPugi::doc" alt="" coords="760,121,867,148"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="748,172,879,199"/>
+<area shape="rect" id="node10" href="$df/def/classVNController.html#ab2f9b151ee940d419f6b1e3db27ab15e" title="VNController::Enqueue" alt="" coords="729,223,898,249"/>
+<area shape="rect" id="node6" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="947,5,1117,46"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="951,223,1113,249"/>
+</map>

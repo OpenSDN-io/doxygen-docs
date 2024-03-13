@@ -1,0 +1,24 @@
+<map id="vrf_assign_ksync.cc" name="vrf_assign_ksync.cc">
+<area shape="rect" id="node4" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="1923,80,2040,107"/>
+<area shape="rect" id="node8" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="757,509,867,536"/>
+<area shape="rect" id="node11" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="475,592,585,619"/>
+<area shape="rect" id="node20" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="862,336,1033,363"/>
+<area shape="rect" id="node23" href="$d6/dbe/ksync__index_8h.html" title="ksync/ksync_index.h" alt="" coords="1376,419,1533,445"/>
+<area shape="rect" id="node25" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="1659,419,1812,445"/>
+<area shape="rect" id="node29" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="1161,336,1321,363"/>
+<area shape="rect" id="node33" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="1499,336,1665,363"/>
+<area shape="rect" id="node34" href="$d3/df3/ksync__sock_8h.html" title="ksync/ksync_sock.h" alt="" coords="2431,336,2581,363"/>
+<area shape="rect" id="node42" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="2056,336,2245,363"/>
+<area shape="rect" id="node44" href="$da/d21/vrf_8h.html" title="oper/vrf.h" alt="" coords="2065,80,2148,107"/>
+<area shape="rect" id="node45" href="$d5/d99/vrf__assign_8h.html" title="oper/vrf_assign.h" alt="" coords="398,336,532,363"/>
+<area shape="rect" id="node46" href="$de/db1/mirror__table_8h.html" title="oper/mirror_table.h" alt="" coords="2173,80,2320,107"/>
+<area shape="rect" id="node47" href="$db/d1d/interface__ksync_8h.html" title="vrouter/ksync/interface\l_ksync.h" alt="" coords="1031,246,1204,287"/>
+<area shape="rect" id="node48" href="$de/d9c/nexthop__ksync_8h.html" title="vrouter/ksync/nexthop\l_ksync.h" alt="" coords="1031,155,1199,197"/>
+<area shape="rect" id="node49" href="$de/dbc/vrf__assign__ksync_8h.html" title="vrouter/ksync/vrf_assign\l_ksync.h" alt="" coords="609,246,791,287"/>
+<area shape="rect" id="node50" href="$de/db6/ksync__init_8h.html" title="ksync_init.h" alt="" coords="1050,80,1149,107"/>
+<area shape="rect" id="node17" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="648,667,739,693"/>
+<area shape="rect" id="node31" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1837,419,1981,445"/>
+<area shape="rect" id="node32" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="651,419,753,445"/>
+<area shape="rect" id="node38" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2494,419,2620,445"/>
+<area shape="rect" id="node41" href="$d3/d5c/ksync__tx__queue_8h.html" title="ksync_tx_queue.h" alt="" coords="2635,592,2773,619"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Dhcpv6Handler::FindLeaseData" name="Dhcpv6Handler::FindLeaseData">
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="331,5,493,46"/>
+<area shape="rect" id="node3" href="$dd/d33/classDhcpHandlerBase.html#a1c5d898a1ac7d4b6168004548838cb6e" title="DhcpHandlerBase::FindDomainName" alt="" coords="281,247,543,273"/>
+<area shape="rect" id="node11" href="$d5/d21/classVmInterface.html#a9d279015d37097b6e16c77293447c746" title="VmInterface::IsActive" alt="" coords="331,95,493,121"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#a9db77e428f9147cdab24aeabf795dc0a" title="VmInterface::fabric_port" alt="" coords="322,196,502,223"/>
+<area shape="rect" id="node10" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="628,175,780,201"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#a383ef0471267255bae50907d2fe59a74" title="Agent::dhcpv6_proto" alt="" coords="334,297,490,324"/>
+<area shape="rect" id="node15" href="$d1/df7/classDhcpv6Proto.html#ad2a5ed8294798fcfb246e7b0597c922f" title="Dhcpv6Proto::IncrStatsError" alt="" coords="311,348,513,375"/>
+<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="641,348,767,375"/>
+<area shape="rect" id="node16" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="335,449,489,476"/>
+<area shape="rect" id="node17" href="$de/d5f/address__util_8cc.html#a2925d338852099df58209429ec5679c6" title="IsIp6SubnetMember" alt="" coords="337,500,487,527"/>
+<area shape="rect" id="node19" href="$d1/dff/classDhcpv6Handler.html#a2ce0c00e8f5658666402af70de21a706" title="Dhcpv6Handler::FillDhcpInfo" alt="" coords="309,551,515,577"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#aebaf370dbee44ba02dedd99f4c2c4e6d" title="VnEntry::GetIpamData" alt="" coords="621,247,787,273"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#aa1e3556d0db5c9b74a3335aaac939f60" title="VnEntry::GetIpamName" alt="" coords="866,188,1041,215"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a1727d2439ac08247f06ec1cb488037b4" title="Agent::domain_config\l_table" alt="" coords="872,239,1035,281"/>
+<area shape="rect" id="node9" href="$db/de3/classDomainConfig.html#a12ce7bc519677ba355b106a478a21faf" title="DomainConfig::GetIpam" alt="" coords="864,305,1043,332"/>
+<area shape="rect" id="node8" href="$dc/dff/classOperDB.html#af2b0c54144bd494ab559bfc93cb1106b" title="OperDB::domain_config\l_table" alt="" coords="1091,239,1266,281"/>
+<area shape="rect" id="node12" href="$d3/d81/classVnswInterfaceListenerBase.html#a23c8d94a615dd774265d25b62f301967" title="VnswInterfaceListenerBase\l::IsHostLinkStateUp" alt="" coords="605,87,803,129"/>
+<area shape="rect" id="node18" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="593,500,815,527"/>
+</map>

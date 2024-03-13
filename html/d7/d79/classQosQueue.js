@@ -1,0 +1,26 @@
+var classQosQueue =
+[
+    [ "QosQueue", "d7/d79/classQosQueue.html#ab7dfaf4659ff1e988da15b1add59c6e5", null ],
+    [ "~QosQueue", "d7/d79/classQosQueue.html#ad44dabd36acc5ceaf0b05f84b4971d37", null ],
+    [ "Change", "d7/d79/classQosQueue.html#a4f9c73cb85b3da9492e5901f95038282", null ],
+    [ "DBEntrySandesh", "d7/d79/classQosQueue.html#a68c30513f0295dbe394e3f35f1bfb07a", null ],
+    [ "Delete", "d7/d79/classQosQueue.html#a20e8103883ec420bfe16ece0dc0d37ba", null ],
+    [ "DeleteOnZeroRefCount", "d7/d79/classQosQueue.html#a5389075037ad7cbd790b6831e52e088f", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "d7/d79/classQosQueue.html#a4d563507a30c0f4f347ff1c4a9c6cd0f", null ],
+    [ "GetDBRequestKey", "d7/d79/classQosQueue.html#a9a5de3438ba32c9b7b69986ab0c25b5c", null ],
+    [ "GetRefCount", "d7/d79/classQosQueue.html#a34664b0076904ad43d3a80d7be129552", null ],
+    [ "id", "d7/d79/classQosQueue.html#abba2a54f1256ecfaadcf659a9ba852e8", null ],
+    [ "IsLess", "d7/d79/classQosQueue.html#ad508987a1001e0d9b06dcb01e3225860", null ],
+    [ "name", "d7/d79/classQosQueue.html#ad1b357980e1697308d85211d1b28cca9", null ],
+    [ "nic_queue_id", "d7/d79/classQosQueue.html#a944eb11d07a2a07fcef0a7404c0bced1", null ],
+    [ "OnZeroRefCount", "d7/d79/classQosQueue.html#ac1ec3e598ca5a2659d03920224524a92", null ],
+    [ "PostAdd", "d7/d79/classQosQueue.html#a41528b6c4a5ffa0ee38fe4889932aaed", null ],
+    [ "set_id", "d7/d79/classQosQueue.html#a54fc835160084521f9152124629e5953", null ],
+    [ "SetKey", "d7/d79/classQosQueue.html#a08f418853618b5d71d5ccd2f0bec236c", null ],
+    [ "ToString", "d7/d79/classQosQueue.html#a7dab2dbbf652b24e81a1381d3fae9072", null ],
+    [ "uuid", "d7/d79/classQosQueue.html#aa4845195f8506b430e298b344e45fef6", null ],
+    [ "id_", "d7/d79/classQosQueue.html#a009bf3bc6550eaf692479e7d297354b3", null ],
+    [ "name_", "d7/d79/classQosQueue.html#a090567a338743bf31db9cf4c0f7e11ea", null ],
+    [ "nic_queue_id_", "d7/d79/classQosQueue.html#ab4c4b3fc36a0de792349ff30209d1f2e", null ],
+    [ "uuid_", "d7/d79/classQosQueue.html#a54f1f85a9513620b5efd918d301bbdc7", null ]
+];

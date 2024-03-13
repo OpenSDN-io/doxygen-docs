@@ -1,0 +1,18 @@
+<map id="RibOutUpdates::ClearAdvertisedBits" name="RibOutUpdates::ClearAdvertisedBits">
+<area shape="rect" id="node2" href="$d0/de5/classRouteUpdate.html#abca6a63fc4a2d9066659bc651f978cc4" title="RouteUpdate::UpdateHistory" alt="" coords="312,119,520,145"/>
+<area shape="rect" id="node12" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title="BitSet::Reset" alt="" coords="619,208,725,235"/>
+<area shape="rect" id="node14" href="$d6/dd0/classBitSet.html#a582ba5a71e2add2ef1450ec8e5848669" title="BitSet::empty" alt="" coords="361,245,471,272"/>
+<area shape="rect" id="node15" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title="RibOutUpdates::queue" alt="" coords="332,296,500,323"/>
+<area shape="rect" id="node16" href="$d0/de5/classRouteUpdate.html#a28f5fa5efa2c6c446fa25d3e7c87653c" title="RouteUpdate::queue_id" alt="" coords="329,347,503,373"/>
+<area shape="rect" id="node17" href="$d2/db4/classUpdateQueue.html#af102c888c2abec2d59484a833e2b60ae" title="UpdateQueue::AttrDequeue" alt="" coords="315,397,517,424"/>
+<area shape="rect" id="node3" href="$d0/de5/classRouteUpdate.html#ae7eb261e0c6f3f659bd5dd15bcd2c322" title="RouteUpdate::OnUpdateList" alt="" coords="571,5,773,32"/>
+<area shape="rect" id="node5" href="$d0/de5/classRouteUpdate.html#a532a2677fa73839a4ca897e73034f66b" title="RouteUpdate::GetUpdateList" alt="" coords="569,56,775,83"/>
+<area shape="rect" id="node11" href="$de/dc2/classUpdateList.html#ac6bb1fc7fae9ea47401a9c3b7c054c59" title="UpdateList::History" alt="" coords="599,107,745,133"/>
+<area shape="rect" id="node13" href="$d0/da7/classRibOutAttr.html#ae4cca4adb91463685ced7dd355a6af89" title="RibOutAttr::IsReachable" alt="" coords="584,157,760,184"/>
+<area shape="rect" id="node4" href="$d0/de5/classRouteUpdate.html#acc217b426261ef39796f21fd65413664" title="RouteUpdate::FlagIsSet" alt="" coords="824,5,997,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="825,56,997,83"/>
+<area shape="rect" id="node9" href="$db/dd4/classRibOut.html#a41df7acd2dffb162436d5212bf5563e4" title="RibOut::table" alt="" coords="857,107,964,133"/>
+<area shape="rect" id="node10" href="$db/dd4/classRibOut.html#abe64e8b2506acdc785546acb760b2bbf" title="RibOut::listener_id" alt="" coords="839,157,982,184"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1045,27,1272,53"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1064,78,1253,119"/>
+</map>

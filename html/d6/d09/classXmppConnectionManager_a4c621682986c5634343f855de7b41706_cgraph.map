@@ -1,0 +1,11 @@
+<map id="XmppConnectionManager::Shutdown" name="XmppConnectionManager::Shutdown">
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="268,5,425,32"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title="WorkQueue::SetExitCallback" alt="" coords="243,56,450,83"/>
+<area shape="rect" id="node5" href="$d6/d09/classXmppConnectionManager.html#a20d73d65faa1bf15d2102a46c6bd4a8d" title="XmppConnectionManager\l::WorkQueueExitCallback" alt="" coords="252,107,441,149"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a6749fce09b480760e1313b900a1938c0" title="WorkQueue::Shutdown" alt="" coords="262,173,431,200"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="503,5,689,32"/>
+<area shape="rect" id="node6" href="$d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c" title="XmppConnectionManager\l::deleter" alt="" coords="501,82,691,123"/>
+<area shape="rect" id="node7" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="499,148,693,175"/>
+<area shape="rect" id="node8" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="742,148,938,175"/>
+<area shape="rect" id="node9" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="987,141,1170,182"/>
+</map>

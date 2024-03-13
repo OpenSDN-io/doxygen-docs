@@ -1,0 +1,39 @@
+<map id="StateMachine::OnIdle" name="StateMachine::OnIdle">
+<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#a53e61919b0aeb62bf969014cdc69fdb2" title="StateMachine::SendNotification" alt="" coords="214,268,439,295"/>
+<area shape="rect" id="node17" href="$d3/d2d/classBgpPeer.html#a7e37f10864b5aa36408bd911a1627c43" title="BgpPeer::session" alt="" coords="260,369,393,396"/>
+<area shape="rect" id="node18" href="$d0/dc5/classStateMachine.html#a93b4e65d6e48dd779246406cc45564ff" title="StateMachine::PeerClose" alt="" coords="235,520,418,547"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a885046480ba6883c062acb3f7c099e7d" title="BgpPeer::SendNotification" alt="" coords="510,243,701,269"/>
+<area shape="rect" id="node4" href="$d5/de5/classBgpSession.html#a5447543863ba268c9416f9145e8d20ec" title="BgpSession::SendNotification" alt="" coords="781,192,993,219"/>
+<area shape="rect" id="node16" href="$d3/d2d/classBgpPeer.html#a7f7f98cd813eef8642881c62c8e88852" title="BgpPeer::inc_tx_notification" alt="" coords="785,243,988,269"/>
+<area shape="rect" id="node5" href="$d2/d4b/classBgpProto.html#ac8662f1bc2628e1297105bbabcf4e94c" title="BgpProto::Encode" alt="" coords="1084,45,1220,72"/>
+<area shape="rect" id="node8" href="$d5/de5/classBgpSession.html#acf8c3b4839d0c99d7af679cc2eff697b" title="BgpSession::LogNotification" alt="" coords="1051,143,1253,169"/>
+<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="1077,299,1227,325"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="1075,193,1229,220"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="1085,244,1219,271"/>
+<area shape="rect" id="node6" href="$d5/d3f/classProtoSequence.html#a58226f590476878858017aa676e76a0a" title="ProtoSequence\&lt; BgpProtocol\lAs4 \&gt;::Encode" alt="" coords="1302,5,1514,46"/>
+<area shape="rect" id="node7" href="$d0/d2e/classEncodeContext.html#a6b9a4acd346fa6e7d69815a508462511" title="EncodeContext::encode\l_offsets" alt="" coords="1321,70,1495,111"/>
+<area shape="rect" id="node9" href="$de/d90/structBgpProto_1_1Notification.html#a504f144efaafd8de1b56e7b72964da82" title="BgpProto::Notification\l::ToString" alt="" coords="1326,135,1490,177"/>
+<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="1315,201,1501,242"/>
+<area shape="rect" id="node14" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1563,292,1707,319"/>
+<area shape="rect" id="node15" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1315,317,1501,344"/>
+<area shape="rect" id="node19" href="$d0/dc5/classStateMachine.html#af78883b9bff1128095ce0f1d9a338049" title="StateMachine::UpdateFlap\lCount" alt="" coords="509,370,701,411"/>
+<area shape="rect" id="node26" href="$d3/d2d/classBgpPeer.html#a357a8d467ed57bc7f11390afd26aa830" title="BgpPeer::Close" alt="" coords="545,436,665,463"/>
+<area shape="rect" id="node27" href="$d3/d2d/classBgpPeer.html#ae81cde83869aa3f2ca964da4e1ae0c53" title="BgpPeer::AttemptGRHelperMode" alt="" coords="488,487,723,513"/>
+<area shape="rect" id="node29" href="$d0/dc5/classStateMachine.html#a803975d65470cadfbaec1f0e9750441e" title="StateMachine::set_idle\l_hold_time" alt="" coords="521,538,690,579"/>
+<area shape="rect" id="node30" href="$d0/dc5/classStateMachine.html#a913ffa705008a4d00b1e60008f24972d" title="StateMachine::idle\l_hold_time" alt="" coords="815,567,958,609"/>
+<area shape="rect" id="node31" href="$d0/dc5/classStateMachine.html#aa4c85692d4c55436ee254c4b2f4e1196" title="StateMachine::GetIdleHold\lTimeMSecs" alt="" coords="508,655,703,697"/>
+<area shape="rect" id="node32" href="$d0/dc5/classStateMachine.html#a47c6b8d5568964bc6961ebbf8d620722" title="StateMachine::reset\l_hold_time" alt="" coords="530,721,681,762"/>
+<area shape="rect" id="node20" href="$d0/dc5/classStateMachine.html#a51cbe0bae3ddb185dd653883ad77c31b" title="StateMachine::get_state" alt="" coords="797,293,976,320"/>
+<area shape="rect" id="node21" href="$d3/d2d/classBgpPeer.html#a490365d0594a602f89f331148d7325c8" title="BgpPeer::increment\l_flap_count" alt="" coords="811,345,962,386"/>
+<area shape="rect" id="node24" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title="BgpPeer::peer_stats" alt="" coords="811,411,963,437"/>
+<area shape="rect" id="node25" href="$d0/d3f/classIPeerDebugStats.html#a2ec67c033953df6680fb5b5a8f503327" title="IPeerDebugStats::Clear" alt="" coords="801,461,973,488"/>
+<area shape="rect" id="node22" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="1075,351,1229,377"/>
+<area shape="rect" id="node23" href="$d3/d2d/classBgpPeer.html#a022240911b6f54662656ed3fd3ad06dc" title="BgpPeer::BGPPeerInfoSend" alt="" coords="1053,401,1251,428"/>
+<area shape="rect" id="node28" href="$d3/d2d/classBgpPeer.html#a4966c7f6cbf9aef2d94d560f3d00e91d" title="BgpPeer::notification" alt="" coords="808,512,965,539"/>
+<area shape="rect" id="node33" href="$d0/dc5/classStateMachine.html#a9c83195d5cb2301512243cb12befb405" title="StateMachine::GetConfigured\lHoldTime" alt="" coords="781,662,992,703"/>
+<area shape="rect" id="node37" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title="StateMachine::peer" alt="" coords="813,728,960,755"/>
+<area shape="rect" id="node38" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title="StateMachine::BGPPeerInfoSend" alt="" coords="771,779,1002,805"/>
+<area shape="rect" id="node34" href="$d3/d2d/classBgpPeer.html#a8e3bd84b5190c1fa0c696eea44e2931e" title="BgpPeer::hold_time" alt="" coords="1077,619,1227,645"/>
+<area shape="rect" id="node35" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="1089,669,1215,696"/>
+<area shape="rect" id="node36" href="$db/d26/classBgpServer.html#ad75f30496312741959a18fa8d08173fa" title="BgpServer::hold_time" alt="" coords="1071,720,1233,747"/>
+</map>

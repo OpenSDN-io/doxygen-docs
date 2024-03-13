@@ -1,0 +1,5 @@
+<map id="XmppChannelMux::GetPeerState" name="XmppChannelMux::GetPeerState">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a7a2496437fe4657759afe4d8bb10998b" title="XmppConnection::GetState\lMcState" alt="" coords="289,34,487,75"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="559,5,734,46"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#af3faaa257e90809591f6175c9e495994" title="XmppStateMachine::StateType" alt="" coords="537,71,757,97"/>
+</map>

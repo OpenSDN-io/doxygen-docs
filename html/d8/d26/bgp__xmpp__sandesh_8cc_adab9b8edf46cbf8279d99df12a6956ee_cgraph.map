@@ -1,0 +1,17 @@
+<map id="ShowXmppNeighborStatistics" name="ShowXmppNeighborStatistics">
+<area shape="rect" id="node2" href="$dd/dfb/classBgpXmppChannelManager.html#a422fcd61ce49092378dccb031d539578" title="BgpXmppChannelManager\l::VisitChannels" alt="" coords="280,107,475,149"/>
+<area shape="rect" id="node3" href="$d8/d26/bgp__xmpp__sandesh_8cc.html#ad683be435f586652bde29a61279de46c" title="ShowXmppNeighborStatistics\lVisitor" alt="" coords="270,173,485,214"/>
+<area shape="rect" id="node4" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title="BgpXmppChannel::Peer" alt="" coords="553,5,727,32"/>
+<area shape="rect" id="node5" href="$dd/d38/classIPeer.html#a4a0f185c84c943bddc08879297de385f" title="IPeer::IsReady" alt="" coords="583,56,697,83"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="569,107,711,149"/>
+<area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title="RoutingInstanceMgr\l::GetRoutingInstance" alt="" coords="561,173,719,214"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="545,239,735,265"/>
+<area shape="rect" id="node9" href="$db/d26/classBgpServer.html#ae1b50989fe8347f00f3acb93e86198cb" title="BgpServer::membership_mgr" alt="" coords="534,289,746,316"/>
+<area shape="rect" id="node10" href="$d2/d45/classBgpMembershipManager.html#af26170f8585e5627075565666712a956" title="BgpMembershipManager\l::GetRegistrationInfo" alt="" coords="549,341,731,382"/>
+<area shape="rect" id="node11" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="805,275,987,317"/>
+<area shape="rect" id="node15" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#aa43f8dafc54bd715ba141c6e746a5bb9" title="BgpMembershipManager\l::PeerRibState::instance_id" alt="" coords="798,341,994,382"/>
+<area shape="rect" id="node16" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2d15126d5d29b8c2533f19e5c08a107f" title="BgpMembershipManager\l::PeerRibState::subscription\l_gen_id" alt="" coords="795,407,997,463"/>
+<area shape="rect" id="node12" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="1059,210,1242,251"/>
+<area shape="rect" id="node13" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="1059,275,1242,317"/>
+<area shape="rect" id="node14" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="1045,341,1256,382"/>
+</map>

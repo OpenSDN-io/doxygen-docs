@@ -1,0 +1,21 @@
+<map id="SandeshStateMachine::set_session" name="SandeshStateMachine::set_session">
+<area shape="rect" id="node2" href="$d3/d36/classSandeshStateMachine.html#aefaa53b4f08c1922a240cffc3907994f" title="SandeshStateMachine\l::DeleteSession" alt="" coords="219,166,384,207"/>
+<area shape="rect" id="node18" href="$d9/df3/classSandeshConnection.html#ab99a41ef1f20ef8d1da97b2c1c31d8e3" title="SandeshConnection::\lset_session" alt="" coords="222,286,381,327"/>
+<area shape="rect" id="node20" href="$d3/d36/classSandeshStateMachine.html#a8cf64b4608f303760e0233cc3be2236a" title="SandeshStateMachine\l::session" alt="" coords="219,351,384,393"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="454,5,639,32"/>
+<area shape="rect" id="node5" href="$d1/dfd/classSandeshSession.html#a9c288670b74589c1effbf5b2777167b7" title="SandeshSession::SetReceive\lMsgCb" alt="" coords="443,57,650,98"/>
+<area shape="rect" id="node6" href="$d1/dfd/classSandeshSession.html#a6f804229be31b33008b5509d2ba5c17d" title="SandeshSession::SetConnection" alt="" coords="432,123,661,149"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="478,173,615,200"/>
+<area shape="rect" id="node11" href="$d1/dfd/classSandeshSession.html#a6eaf0601d8b7c1f7778fb03b8bb19a4b" title="SandeshSession::Shutdown" alt="" coords="447,224,646,251"/>
+<area shape="rect" id="node13" href="$d3/d36/classSandeshStateMachine.html#afb7d178ce06f4376c12b7894f314f1b6" title="SandeshStateMachine\l::Enqueue" alt="" coords="464,275,629,317"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="734,5,893,32"/>
+<area shape="rect" id="node7" href="$d1/dfd/classSandeshSession.html#a7ada8b3e155cad4914acdb45f6d27703" title="SandeshSession::connection" alt="" coords="710,123,917,149"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="720,173,907,200"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="976,173,1120,200"/>
+<area shape="rect" id="node12" href="$de/d75/classSandesh.html#a2cf8b26e16c308947dbde45f18fbf78f" title="Sandesh::role" alt="" coords="758,224,869,251"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="733,279,894,305"/>
+<area shape="rect" id="node15" href="$d3/d36/classSandeshStateMachine.html#a93a42adb1f2e6257200c1cf5afcccc36" title="SandeshStateMachine\l::UpdateEventEnqueue" alt="" coords="728,330,899,371"/>
+<area shape="rect" id="node16" href="$d3/d36/classSandeshStateMachine.html#afce1b6ac6ad0227c4e1763569683b432" title="SandeshStateMachine\l::UpdateEventStats" alt="" coords="965,330,1131,371"/>
+<area shape="rect" id="node17" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title="SandeshEventStatistics\l::Update" alt="" coords="1179,330,1354,371"/>
+<area shape="rect" id="node19" href="$d9/df3/classSandeshConnection.html#a973949a59946c455afc2ea234ac68a97" title="SandeshConnection::\lsession" alt="" coords="467,341,626,382"/>
+</map>

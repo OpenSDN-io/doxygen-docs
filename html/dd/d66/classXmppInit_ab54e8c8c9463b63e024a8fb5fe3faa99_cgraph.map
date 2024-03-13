@@ -1,0 +1,7 @@
+<map id="XmppInit::InitClient" name="XmppInit::InitClient">
+<area shape="rect" id="node2" href="$db/de5/classXmppClient.html#ac9e77495439cc39b55cf0d69a6fc965b" title="XmppClient::ConfigUpdate" alt="" coords="203,31,397,57"/>
+<area shape="rect" id="node3" href="$db/de5/classXmppClient.html#a6afd6589475e52a555b2d4b1a63af094" title="XmppClient::ProcessConfig\lUpdate" alt="" coords="445,23,643,65"/>
+<area shape="rect" id="node4" href="$db/de5/classXmppClient.html#a6f0522d9f45a87c4dc37799cc23e9356" title="XmppClient::CreateConnection" alt="" coords="691,5,914,32"/>
+<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#ab34b1eb5405c1a78bf336190b26f135f" title="XmppConnection::Initialize" alt="" coords="704,56,901,83"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="963,5,1162,32"/>
+</map>

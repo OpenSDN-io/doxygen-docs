@@ -1,0 +1,11 @@
+<map id="DnsProto::SendUpdateDnsEntry" name="DnsProto::SendUpdateDnsEntry">
+<area shape="rect" id="node2" href="$d1/d04/structDnsItem.html#a2fdd9d5788d0093d4fbb052ef8666dbe" title="DnsItem::ToString" alt="" coords="323,56,461,83"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title="DnsProto::SendDnsUpdateIpc" alt="" coords="286,132,498,159"/>
+<area shape="rect" id="node9" href="$d8/d1a/classBindUtil.html#a332fa706b69a0834bc9f8083144953d8" title="BindUtil::GetReverseZone" alt="" coords="297,183,487,209"/>
+<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a1b6c0e3781c967c9b01a1b3a0b70ce9c" title="BindUtil::GetPtrNameFromAddr" alt="" coords="280,233,504,260"/>
+<area shape="rect" id="node3" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title="BindUtil::DnsClass" alt="" coords="577,5,719,32"/>
+<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="579,56,717,83"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="603,107,693,133"/>
+<area shape="rect" id="node7" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="561,157,735,184"/>
+<area shape="rect" id="node8" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title="PktHandler::SendMessage" alt="" coords="553,208,743,235"/>
+</map>

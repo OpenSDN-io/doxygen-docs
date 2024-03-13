@@ -1,0 +1,16 @@
+<map id="VnUveEntryBase::FrameVnMsg" name="VnUveEntryBase::FrameVnMsg">
+<area shape="rect" id="node2" href="$d6/de4/classVnUveEntryBase.html#a4ba62af46a8be493b4c386f832a08b52" title="VnUveEntryBase::changed" alt="" coords="580,8,775,34"/>
+<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="606,58,749,85"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#af596554642c77bdccb22d70c80ac3e64" title="VnEntry::GetAcl" alt="" coords="332,176,455,202"/>
+<area shape="rect" id="node5" href="$de/d3a/classAclDBEntry.html#a3c689e1779951360c27aecf97d35ff31" title="AclDBEntry::GetName" alt="" coords="311,226,475,253"/>
+<area shape="rect" id="node6" href="$de/d3a/classAclDBEntry.html#a991d9d9f4469c023d19efdc10f91cd03" title="AclDBEntry::Size" alt="" coords="329,277,458,304"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title="Agent::NullString" alt="" coords="327,328,459,354"/>
+<area shape="rect" id="node8" href="$d6/de4/classVnUveEntryBase.html#a1f132ff8e902433f4f25bc39293c57ee" title="VnUveEntryBase::UveVnAcl\lChanged" alt="" coords="292,379,495,420"/>
+<area shape="rect" id="node9" href="$d6/de4/classVnUveEntryBase.html#ad889acc4fb38e94ec508b9a9d1de7675" title="VnUveEntryBase::UveVnAcl\lRuleCountChanged" alt="" coords="292,444,495,486"/>
+<area shape="rect" id="node10" href="$d8/d00/classVnEntry.html#a2dd476da175191a298bce2616373c5af" title="VnEntry::GetMirrorCfgAcl" alt="" coords="302,510,485,537"/>
+<area shape="rect" id="node11" href="$d6/de4/classVnUveEntryBase.html#afc1a7c6e2bce09243ff9083d9129741b" title="VnUveEntryBase::UveVnMirror\lAclChanged" alt="" coords="283,562,503,603"/>
+<area shape="rect" id="node12" href="$d6/de4/classVnUveEntryBase.html#a13ee834bb1f57a117da1f50b147d9cda" title="VnUveEntryBase::BuildInterface\lVmList" alt="" coords="278,110,509,151"/>
+<area shape="rect" id="node13" href="$d6/de4/classVnUveEntryBase.html#ae965fd57adb63cc21124793e46880d68" title="VnUveEntryBase::UveVnVmList\lChanged" alt="" coords="564,110,791,151"/>
+<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="590,176,765,202"/>
+<area shape="rect" id="node15" href="$d6/de4/classVnUveEntryBase.html#a120824868ed4079ca17b86ed9c66dd58" title="VnUveEntryBase::UveVnInterface\lListChanged" alt="" coords="557,227,797,268"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BgpServer::DeleteActor::MayDelete" name="BgpServer::DeleteActor::MayDelete">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="237,5,384,46"/>
+<area shape="rect" id="node3" href="$d1/df7/classBgpSessionManager.html#ae6995467139f3bc9a521fb0314e2fa17" title="BgpSessionManager::\lMayDelete" alt="" coords="230,70,391,111"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#a9be62e95e0079259d24ea8564c8b926a" title="WorkQueue::IsQueueEmpty" alt="" coords="440,77,640,104"/>
+</map>

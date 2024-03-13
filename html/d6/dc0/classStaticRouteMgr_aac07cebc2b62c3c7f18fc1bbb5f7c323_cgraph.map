@@ -1,0 +1,10 @@
+<map id="StaticRouteMgr::NotifyAllRoutes" name="StaticRouteMgr::NotifyAllRoutes">
+<area shape="rect" id="node2" href="$d0/d2a/classStaticRoute.html#aa342eef664fdcd8d878f3df824fde69c" title="StaticRoute::NotifyRoute" alt="" coords="240,69,421,96"/>
+<area shape="rect" id="node3" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="479,31,641,57"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="470,107,650,133"/>
+<area shape="rect" id="node4" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="699,5,912,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="721,56,890,83"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="716,107,895,133"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="742,157,869,184"/>
+<area shape="rect" id="node9" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="703,208,907,235"/>
+</map>

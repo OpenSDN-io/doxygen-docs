@@ -1,0 +1,26 @@
+var classResourceManager =
+[
+    [ "DataPtr", "de/d6b/classResourceManager.html#a9275e62412a1f14a0438db333626c5d6", null ],
+    [ "KeyPtr", "de/d6b/classResourceManager.html#a47fd8c2fd5d9e508b3996351b1554d32", null ],
+    [ "ResourceRestoreReqPtr", "de/d6b/classResourceManager.html#a0db8677a39ff16b28fd6b575e68fced9", null ],
+    [ "ResourceManager", "de/d6b/classResourceManager.html#a8e50fae8e5cf3638021ba52f387c08da", null ],
+    [ "~ResourceManager", "de/d6b/classResourceManager.html#a671c186e4630599e7e36d000c53eaf80", null ],
+    [ "agent", "de/d6b/classResourceManager.html#a8cf9de3cb9b94d50890dc06cf76752da", null ],
+    [ "Allocate", "de/d6b/classResourceManager.html#af47e89e0aa24a0bfda2d647f93d433ef", null ],
+    [ "Audit", "de/d6b/classResourceManager.html#a9d8211d92040f8195458c5e4f1174b0b", null ],
+    [ "backup_mgr", "de/d6b/classResourceManager.html#a1bc48f6fc96edb586f87b610df2e2b3e", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "de/d6b/classResourceManager.html#a1d3ecffa3ce339a4e40ee5be0b72b736", null ],
+    [ "EnqueueRestore", "de/d6b/classResourceManager.html#a063e80ebc7b4d9c0658cf5a4a8ab0ff7", null ],
+    [ "Init", "de/d6b/classResourceManager.html#afd086230a230fe3159c1f5ef9d504126", null ],
+    [ "Release", "de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac", null ],
+    [ "Release", "de/d6b/classResourceManager.html#ad73b5711936bd8687f24997faa3f5de2", null ],
+    [ "ReleaseIndex", "de/d6b/classResourceManager.html#a25ab72d3523ca9713b6b98e10a584dbe", null ],
+    [ "ReserveIndex", "de/d6b/classResourceManager.html#a2cc0bc115b1d6b06227aaa21856a1ebd", null ],
+    [ "resource_table", "de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113", null ],
+    [ "RestoreResource", "de/d6b/classResourceManager.html#a88f91a91c4f9a2584a1e35782caa8bb6", null ],
+    [ "WorkQueueRestoreProcess", "de/d6b/classResourceManager.html#a5e600d483f8884897dfb040f8f419dd5", null ],
+    [ "agent_", "de/d6b/classResourceManager.html#ad8aade4295663e699a252d84b51bcc69", null ],
+    [ "backup_mgr_", "de/d6b/classResourceManager.html#a2b165a2fb2a825b418c97f9adac75705", null ],
+    [ "resource_table_", "de/d6b/classResourceManager.html#a8506e18a4172aea6636d9422dffe3ce0", null ],
+    [ "restore_work_queue_", "de/d6b/classResourceManager.html#a7136b8702642343ff1f213ca2327cbbb", null ]
+];

@@ -1,0 +1,10 @@
+<map id="process::FlagManager::Register" name="process::FlagManager::Register">
+<area shape="rect" id="node2" href="$d6/d49/classprocess_1_1Flag.html#a7c04e6b3c17d7adf9277ab25ca861d47" title="process::Flag::name" alt="" coords="228,5,380,32"/>
+<area shape="rect" id="node3" href="$d4/d9f/classprocess_1_1FlagManager.html#ad3695b17b095edb06264cee388895a51" title="process::FlagManager\l::IsFlagEnabled" alt="" coords="223,57,385,98"/>
+<area shape="rect" id="node6" href="$d6/d49/classprocess_1_1Flag.html#a6466d2026fc5483815b374defd5505b1" title="process::Flag::enabled" alt="" coords="221,123,387,149"/>
+<area shape="rect" id="node7" href="$d6/d49/classprocess_1_1Flag.html#a98b91ffb722cd8355c045180e39fbfb7" title="process::Flag::context\l_infos" alt="" coords="222,174,386,215"/>
+<area shape="rect" id="node8" href="$d6/d49/classprocess_1_1Flag.html#a9f68dc220bf4cc764184336ef3cc1055" title="process::Flag::set\l_enabled" alt="" coords="237,239,371,281"/>
+<area shape="rect" id="node9" href="$d6/d49/classprocess_1_1Flag.html#a3b84c8710c95dab760f3ac0857f20e3f" title="process::Flag::InvokeCb" alt="" coords="216,305,392,332"/>
+<area shape="rect" id="node4" href="$dc/d1f/classprocess_1_1FlagConfig.html#ac6e0ffbc22c12c6c6323a60f43d6ab5d" title="process::FlagConfig\l::enabled" alt="" coords="441,25,589,66"/>
+<area shape="rect" id="node5" href="$dc/d1f/classprocess_1_1FlagConfig.html#ac1bcafdf3299fa4e72e6b5f76a0f6fcc" title="process::FlagConfig\l::context_infos" alt="" coords="441,90,589,131"/>
+</map>

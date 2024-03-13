@@ -1,0 +1,16 @@
+<map id="InterfaceKSyncEntry::UnresolvedReference" name="InterfaceKSyncEntry::UnresolvedReference">
+<area shape="rect" id="node2" href="$d5/da1/classInterfaceKSyncObject.html#a5de484d398e94f836dc2ee1838ea49a0" title="InterfaceKSyncObject\l::ksync" alt="" coords="243,5,405,46"/>
+<area shape="rect" id="node3" href="$d7/de7/classKSync.html#ae598857dc1d20d376a3a7b023ea9f7db" title="KSync::mirror_ksync_obj" alt="" coords="233,71,415,97"/>
+<area shape="rect" id="node4" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="224,121,424,148"/>
+<area shape="rect" id="node11" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title="KSyncEntry::IsResolved" alt="" coords="237,172,411,199"/>
+<area shape="rect" id="node15" href="$d3/dd9/classMirrorKSyncEntry.html#a6121d6aa8289a3bfba7ffd74b82fb06e" title="MirrorKSyncEntry::mirror\l_index" alt="" coords="233,223,415,265"/>
+<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="505,20,644,47"/>
+<area shape="rect" id="node6" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="483,71,667,97"/>
+<area shape="rect" id="node10" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="495,121,654,148"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="740,20,884,47"/>
+<area shape="rect" id="node8" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="726,71,898,97"/>
+<area shape="rect" id="node9" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="732,121,892,148"/>
+<area shape="rect" id="node12" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title="KSyncEntry::GetObject" alt="" coords="491,172,659,199"/>
+<area shape="rect" id="node13" href="$d6/d2d/classKSyncObject.html#a2f893c3672cfca8f7e3c83b84d98d608" title="KSyncObject::IsIndexValid" alt="" coords="479,223,670,249"/>
+<area shape="rect" id="node14" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title="KSyncEntry::IsDataResolved" alt="" coords="473,273,677,300"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="OVSDB::HaStaleDevVnEntry::Change" name="OVSDB::HaStaleDevVnEntry::Change">
+<area shape="rect" id="node2" href="$d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#aed2bc6b2e5600b10b196ad57bbcb080a" title="OVSDB::HaStaleDevVnEntry::Add" alt="" coords="259,107,495,133"/>
+<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#a01f4442fe5b0899022fac11fcd5ae94a" title="KSyncObject::delete\l_scheduled" alt="" coords="574,5,727,46"/>
+<area shape="rect" id="node4" href="$d8/d13/classKSyncDBObject.html#a65d292178bb92b1a9f65f0262cf080c0" title="KSyncDBObject::GetDBTable" alt="" coords="1059,231,1266,257"/>
+<area shape="rect" id="node5" href="$d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a8097c61c1fb1c7da97e40c2d9272abd3" title="OVSDB::HaStaleDevVnEntry\l::Delete" alt="" coords="549,70,753,111"/>
+<area shape="rect" id="node12" href="$d8/dcf/classOVSDB_1_1HaStaleL2RouteTable.html#afbdd6eee827c794105a59dbde642f9d1" title="OVSDB::HaStaleL2RouteTable\l::UpdateParams" alt="" coords="544,253,757,294"/>
+<area shape="rect" id="node6" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html#a408f1473cad24fcb01c57dede47ca54f" title="OVSDB::OvsdbDBObject\l::DeleteTable" alt="" coords="819,70,997,111"/>
+<area shape="rect" id="node7" href="$d1/dcb/classKSyncObjectManager.html#a95450a1b22ae2d9a6fbc9bdc523d43f1" title="KSyncObjectManager\l::GetInstance" alt="" coords="1083,70,1243,111"/>
+<area shape="rect" id="node8" href="$d1/dcb/classKSyncObjectManager.html#af01a769de9f10874bc3441ee9e30ff2e" title="KSyncObjectManager\l::Delete" alt="" coords="1083,135,1243,177"/>
+<area shape="rect" id="node11" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html#a2e1b5d4ed8bc3f10903774f2bdbee50e" title="OVSDB::OvsdbDBObject\l::DeleteTableDone" alt="" coords="1073,5,1252,46"/>
+<area shape="rect" id="node9" href="$d1/dcb/classKSyncObjectManager.html#ac57c1844d37563f6b188379455bbe226" title="KSyncObjectManager\l::Enqueue" alt="" coords="1315,135,1475,177"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1523,143,1685,169"/>
+<area shape="rect" id="node13" href="$d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a2fb9a963a56b21b12d68cda1c20e1cd2" title="OVSDB::HaStaleDevVnEntry\l::vxlan_id" alt="" coords="806,318,1010,359"/>
+<area shape="rect" id="node14" href="$d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#aa026dc46cc5f4b47ea64de83f6756845" title="OVSDB::HaStaleDevVnEntry\l::vn_name" alt="" coords="806,383,1010,425"/>
+<area shape="rect" id="node15" href="$d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a6c4bf54360c7450034e71d4ebd1de68d" title="OVSDB::HaStaleDevVnEntry\l::dev_ip" alt="" coords="806,187,1010,229"/>
+<area shape="rect" id="node16" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html#acbba536af9eb33615c72767ab2230ac5" title="OVSDB::OvsdbDBObject\l::OvsdbStartResyncWalk" alt="" coords="818,253,998,294"/>
+</map>

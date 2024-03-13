@@ -1,0 +1,6 @@
+<map id="BgpServer::GetRTargetTableLastUpdatedTimeStamp" name="BgpServer::GetRTargetTableLastUpdatedTimeStamp">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="287,5,430,46"/>
+<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="256,70,461,111"/>
+<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="263,136,454,163"/>
+<area shape="rect" id="node5" href="$d9/d28/classRTargetTable.html#a9e937291bdaa140d4f2332899f3e9056" title="RTargetTable::last\l_updated" alt="" coords="291,187,427,229"/>
+</map>

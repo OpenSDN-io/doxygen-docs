@@ -1,0 +1,20 @@
+<map id="VnEntry::ApplyAllIpam" name="VnEntry::ApplyAllIpam">
+<area shape="rect" id="node2" href="$d8/d00/classVnEntry.html#a1cb56d057f635adf040cef5e604a6193" title="VnEntry::ApplyIpam" alt="" coords="222,145,373,172"/>
+<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#aaf92881a988595ae610a3bfcb8b5e529" title="VnEntry::CanInstallIpam" alt="" coords="424,95,603,121"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#a05d7dbb5db0247b9ee4e09151fb862aa" title="VnEntry::AddIpamRoutes" alt="" coords="422,145,605,172"/>
+<area shape="rect" id="node14" href="$d8/d00/classVnEntry.html#acd84b44e52ecc2477f0f78d3efc864a9" title="VnEntry::DelIpamRoutes" alt="" coords="424,221,603,248"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a4d97f24829c2526fb404242a57dcba9e" title="Agent::linklocal_vrf_name" alt="" coords="653,107,845,133"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a69109a71e7b00199ef93020e625241f0" title="Agent::tsn_enabled" alt="" coords="920,95,1067,121"/>
+<area shape="rect" id="node7" href="$d8/d50/vn_8cc.html#a28d623a7c562e5587f8265e50b9f551a" title="IsGwHostRouteRequired" alt="" coords="660,208,839,235"/>
+<area shape="rect" id="node8" href="$d8/d00/classVnEntry.html#a3fc06d4afa6297110fe43bf7b6b33fb5" title="VnEntry::AddHostRoute" alt="" coords="663,5,835,32"/>
+<area shape="rect" id="node10" href="$d8/d00/classVnEntry.html#adfa552da236ed1f1ffd0b260ff40167e" title="VnEntry::AddSubnetRoute" alt="" coords="656,157,843,184"/>
+<area shape="rect" id="node9" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="922,19,1065,45"/>
+<area shape="rect" id="node11" href="$d2/d02/structVnIpam.html#a65663cd89364b10543382c986dd724f5" title="VnIpam::GetSubnetAddress" alt="" coords="893,157,1093,184"/>
+<area shape="rect" id="node12" href="$de/d6b/classAddress.html#a212395ba95041b3c303efe85cf2af109" title="Address::GetIp4SubnetAddress" alt="" coords="1142,208,1365,235"/>
+<area shape="rect" id="node13" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="1142,157,1365,184"/>
+<area shape="rect" id="node15" href="$d8/d00/classVnEntry.html#ab5d6b6802cd6d2fcecc361892e05309e" title="VnEntry::DelHostRoute" alt="" coords="665,309,834,336"/>
+<area shape="rect" id="node19" href="$d8/d00/classVnEntry.html#af48df5a3dfa6809a7770b3aca7a5defb" title="VnEntry::DelSubnetRoute" alt="" coords="657,259,841,285"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="905,259,1081,285"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a72cbf573009ca1d770b8ce78811c818b" title="Agent::local_peer" alt="" coords="926,309,1061,336"/>
+<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1162,259,1345,285"/>
+</map>

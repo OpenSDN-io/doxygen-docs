@@ -1,0 +1,13 @@
+<map id="XmppChannelMux::UnRegisterReceive" name="XmppChannelMux::UnRegisterReceive">
+<area shape="rect" id="node2" href="$d2/dc0/classXmppChannelMux.html#ab29209d2b832dd3cf6deb9fb7280e755" title="XmppChannelMux::Receiver\lCount" alt="" coords="279,5,483,46"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="280,71,483,97"/>
+<area shape="rect" id="node6" href="$df/df7/classXmppServerConnection.html#a3eed068878dc90d3b8ae05ffabbdce22" title="XmppServerConnection\l::server" alt="" coords="294,122,469,163"/>
+<area shape="rect" id="node7" href="$dd/d43/classXmppServer.html#a488f580469fd1593d9e9898a657a8010" title="XmppServer::IsGRHelperMode\lEnabled" alt="" coords="272,187,491,229"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="294,253,469,294"/>
+<area shape="rect" id="node9" href="$d2/db3/classXmppStateMachine.html#afa04190ae1b673d10a2bd97faeb79bf0" title="XmppStateMachine::Initialize" alt="" coords="275,319,487,345"/>
+<area shape="rect" id="node12" href="$d0/d64/classXmppConnection.html#aa1c0634e97deaca330bab404edd07e44" title="XmppConnection::RetryDelete" alt="" coords="272,369,491,396"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="552,45,739,72"/>
+<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="555,96,735,123"/>
+<area shape="rect" id="node10" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="539,319,751,345"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="801,319,962,345"/>
+</map>

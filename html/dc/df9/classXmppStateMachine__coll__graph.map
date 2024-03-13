@@ -1,0 +1,23 @@
+<map id="XmppStateMachine" name="XmppStateMachine">
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html" title="XmppConnection" alt="" coords="1420,421,1553,448"/>
+<area shape="rect" id="node8" href="$d5/d13/classXmppSession.html" title="XmppSession" alt="" coords="1853,545,1963,572"/>
+<area shape="rect" id="node4" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title="XmppConnection::ProtoStats" alt="" coords="993,249,1201,276"/>
+<area shape="rect" id="node7" href="$d0/d8b/classXmppChannelConfig.html" title="XmppChannelConfig" alt="" coords="789,452,944,479"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="604,587,697,613"/>
+<area shape="rect" id="node19" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="608,149,693,176"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="543,1088,759,1115"/>
+<area shape="rect" id="node26" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1067,733,1127,760"/>
+<area shape="rect" id="node28" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::intrusive\l_ptr\&lt; const sc::event_base \&gt; \&gt;" alt="" coords="537,1339,765,1381"/>
+<area shape="rect" id="node6" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="995,300,1200,327"/>
+<area shape="rect" id="node9" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1052,624,1143,651"/>
+<area shape="rect" id="node11" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,131,351,157"/>
+<area shape="rect" id="node17" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1392,801,1581,828"/>
+<area shape="rect" id="node27" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="583,813,718,840"/>
+<area shape="rect" id="node23" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,1288,355,1315"/>
+<area shape="rect" id="node15" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="1429,927,1545,953"/>
+<area shape="rect" id="node18" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1056,351,1139,377"/>
+<area shape="rect" id="node20" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,16,349,43"/>
+<area shape="rect" id="node24" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="969,1126,1226,1167"/>
+<area shape="rect" id="node25" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,1237,317,1264"/>
+<area shape="rect" id="node29" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::intrusive_ptr\&lt; const\l sc::event_base \&gt;, WorkQueue\l\&lt; boost::intrusive_ptr\&lt; const\l sc::event_base \&gt; \&gt; \&gt;" alt="" coords="987,1293,1208,1379"/>
+</map>

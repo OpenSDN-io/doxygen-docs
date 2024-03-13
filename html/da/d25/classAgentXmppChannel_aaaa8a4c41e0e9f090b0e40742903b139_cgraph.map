@@ -1,0 +1,14 @@
+<map id="AgentXmppChannel::ReceiveMvpnUpdate" name="AgentXmppChannel::ReceiveMvpnUpdate">
+<area shape="rect" id="node2" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="296,5,440,32"/>
+<area shape="rect" id="node3" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="538,81,659,108"/>
+<area shape="rect" id="node4" href="$dd/d50/classXmlPugi.html#a70a76e8be6c292fdd3a0876f241eef97" title="XmlPugi::ReadNode" alt="" coords="293,107,443,133"/>
+<area shape="rect" id="node6" href="$dd/d50/classXmlPugi.html#aa013a9d61eb81cfdfe2a19be7e6c5e51" title="XmlPugi::ReadAttrib" alt="" coords="292,157,444,184"/>
+<area shape="rect" id="node7" href="$da/d25/classAgentXmppChannel.html#ab2a1d060775460d51aa36c0a86fd3a9a" title="AgentXmppChannel::GetBgp\lPeerName" alt="" coords="265,209,471,250"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="308,275,428,301"/>
+<area shape="rect" id="node9" href="$dc/dff/classOperDB.html#a1e1be91f26a92aea51eef8e64b23f7ca" title="OperDB::multicast" alt="" coords="297,325,439,352"/>
+<area shape="rect" id="node10" href="$d6/d9c/classMulticastHandler.html#abd41bec8df1475c5a33ba54f6aa5f5e1" title="MulticastHandler::Modify\lMvpnVrfRegistration" alt="" coords="276,377,460,418"/>
+<area shape="rect" id="node11" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="277,442,459,483"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a122ffa3768fd8326c52f8edd30a4ff18" title="Agent::mulitcast_builder" alt="" coords="277,508,459,535"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="303,559,433,585"/>
+<area shape="rect" id="node5" href="$dd/d50/classXmlPugi.html#a38612caa67a5894bd7d634e2b0bd3e4c" title="XmlPugi::SetContext" alt="" coords="521,144,677,171"/>
+</map>

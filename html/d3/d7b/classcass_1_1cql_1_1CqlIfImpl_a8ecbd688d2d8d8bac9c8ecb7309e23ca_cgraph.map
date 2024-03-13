@@ -1,0 +1,9 @@
+<map id="cass::cql::CqlIfImpl::ConnectSchemaSync" name="cass::cql::CqlIfImpl::ConnectSchemaSync">
+<area shape="rect" id="node2" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a4d65112da8143753eab52fc306fb4ddd" title="cass::cql::interface\l::CassLibrary::CassSessionNew" alt="" coords="234,5,457,46"/>
+<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a351d73e7169ab296ebef0fc958df3c13" title="cass::cql::interface\l::CassLibrary::CassClusterSet\lWhitelistFiltering" alt="" coords="240,71,451,127"/>
+<area shape="rect" id="node4" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a6da6d559265794f40fea715126dc5f4f" title="cass::cql::interface\l::CassLibrary::CassSessionConnect" alt="" coords="222,151,469,193"/>
+<area shape="rect" id="node5" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#ade2958745de7afb1a6b7000d1997d955" title="cass::cql::impl::SyncFutureWait" alt="" coords="234,217,457,244"/>
+<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title="cass::cql::interface\l::CassLibrary::CassFutureWait" alt="" coords="535,145,748,186"/>
+<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title="cass::cql::interface\l::CassLibrary::CassFutureErrorCode" alt="" coords="517,210,765,251"/>
+<area shape="rect" id="node8" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title="cass::cql::interface\l::CassLibrary::CassFutureError\lMessage" alt="" coords="534,276,749,332"/>
+</map>

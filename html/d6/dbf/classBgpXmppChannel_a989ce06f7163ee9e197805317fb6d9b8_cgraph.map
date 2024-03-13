@@ -1,0 +1,30 @@
+<map id="BgpXmppChannel::EndOfRibReceiveTimerExpired" name="BgpXmppChannel::EndOfRibReceiveTimerExpired">
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#a86d5f2d912b25236963ceb370a776971" title="BgpXmppChannel::manager" alt="" coords="298,5,502,32"/>
+<area shape="rect" id="node3" href="$dd/dfb/classBgpXmppChannelManager.html#a94d017ed4e5da383249b0c87e3080e35" title="BgpXmppChannelManager\l::xmpp_server" alt="" coords="303,57,497,98"/>
+<area shape="rect" id="node4" href="$dd/d43/classXmppServer.html#a7b0b2394133f83f89d14bd900e26f149" title="XmppServer::GetEndOfRibReceiveTime" alt="" coords="261,123,539,149"/>
+<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2" title="UTCTimestamp" alt="" coords="339,173,461,200"/>
+<area shape="rect" id="node6" href="$d6/d81/classXmppChannel.html#ab8bcc02e234248d985b488c731739760" title="XmppChannel::LastReceived" alt="" coords="297,224,503,251"/>
+<area shape="rect" id="node7" href="$d6/d81/classXmppChannel.html#a7631a44ed1d36e9dba3b52d220f68855" title="XmppChannel::LastSent" alt="" coords="311,275,489,301"/>
+<area shape="rect" id="node8" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title="Timer::Reschedule" alt="" coords="329,325,471,352"/>
+<area shape="rect" id="node10" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title="BgpXmppChannel::Peer" alt="" coords="313,376,487,403"/>
+<area shape="rect" id="node11" href="$d6/dbf/classBgpXmppChannel.html#acc8fdce5336971bc3785e7429f5c8bfe" title="BgpXmppChannel::ReceiveEnd\lOfRIB" alt="" coords="289,427,511,469"/>
+<area shape="rect" id="node9" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="593,325,692,352"/>
+<area shape="rect" id="node12" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="587,435,699,461"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="747,249,949,276"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="765,435,931,461"/>
+<area shape="rect" id="node29" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="787,485,909,512"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="999,140,1215,167"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1269,133,1459,174"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1011,191,1202,233"/>
+<area shape="rect" id="node20" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1045,257,1168,284"/>
+<area shape="rect" id="node21" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1023,308,1190,335"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1269,301,1459,342"/>
+<area shape="rect" id="node22" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1027,409,1186,436"/>
+<area shape="rect" id="node23" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1003,460,1210,487"/>
+<area shape="rect" id="node24" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="997,511,1216,537"/>
+<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1000,561,1213,588"/>
+<area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1027,612,1187,639"/>
+<area shape="rect" id="node27" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1015,663,1198,689"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1018,713,1195,740"/>
+<area shape="rect" id="node19" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1264,199,1464,225"/>
+</map>

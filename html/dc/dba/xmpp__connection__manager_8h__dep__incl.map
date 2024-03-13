@@ -1,0 +1,26 @@
+<map id="xmpp_connection_manager.h" name="xmpp_connection_manager.h">
+<area shape="rect" id="node2" href="$d4/d2f/xmpp__client_8h.html" title="xmpp_client.h" alt="" coords="853,80,968,107"/>
+<area shape="rect" id="node17" href="$d7/df3/xmpp__connection__manager_8cc.html" title="xmpp_connection_manager.cc" alt="" coords="1680,80,1899,107"/>
+<area shape="rect" id="node18" href="$d1/d2e/xmpp__server_8h.html" title="xmpp_server.h" alt="" coords="1537,80,1655,107"/>
+<area shape="rect" id="node3" href="$d2/d0e/agent_8cc.html" title="agent.cc" alt="" coords="616,155,693,181"/>
+<area shape="rect" id="node4" href="$d8/d31/xmpp__client_8cc.html" title="xmpp_client.cc" alt="" coords="717,155,837,181"/>
+<area shape="rect" id="node5" href="$d5/df9/xmpp__connection_8cc.html" title="xmpp_connection.cc" alt="" coords="1035,155,1189,181"/>
+<area shape="rect" id="node6" href="$d2/d24/xmpp__init_8cc.html" title="xmpp_init.cc" alt="" coords="1251,229,1356,256"/>
+<area shape="rect" id="node7" href="$de/dd3/xmpp__init_8h.html" title="xmpp_init.h" alt="" coords="861,155,960,181"/>
+<area shape="rect" id="node8" href="$d6/d11/bgp__xmpp__channel_8cc.html" title="bgp_xmpp_channel.cc" alt="" coords="1861,229,2027,256"/>
+<area shape="rect" id="node9" href="$d6/d89/xmpp__message__builder_8cc.html" title="xmpp_message_builder.cc" alt="" coords="200,229,395,256"/>
+<area shape="rect" id="node10" href="$d9/da9/controller_2src_2control-node_2main_8cc_source.html" title="main.cc" alt="" coords="1598,229,1671,256"/>
+<area shape="rect" id="node11" href="$d3/df8/agent__xmpp__init_8cc.html" title="agent_xmpp_init.cc" alt="" coords="419,229,568,256"/>
+<area shape="rect" id="node12" href="$db/ddd/xmpp__dns__agent_8cc.html" title="xmpp_dns_agent.cc" alt="" coords="593,229,743,256"/>
+<area shape="rect" id="node13" href="$d2/d05/controller__init_8cc.html" title="controller_init.cc" alt="" coords="768,229,899,256"/>
+<area shape="rect" id="node14" href="$dd/dec/controller__peer_8cc.html" title="controller_peer.cc" alt="" coords="923,229,1060,256"/>
+<area shape="rect" id="node15" href="$d1/d76/controller__timer_8cc.html" title="controller_timer.cc" alt="" coords="1085,229,1227,256"/>
+<area shape="rect" id="node16" href="$dd/dd8/xmpp__channel__mux_8cc.html" title="xmpp_channel_mux.cc" alt="" coords="5,229,176,256"/>
+<area shape="rect" id="node19" href="$d5/d08/bgp__xmpp__peer__close_8cc.html" title="bgp_xmpp_peer_close.cc" alt="" coords="2147,155,2332,181"/>
+<area shape="rect" id="node20" href="$d5/d4d/agent__xmpp__channel_8cc.html" title="agent_xmpp_channel.cc" alt="" coords="2357,155,2536,181"/>
+<area shape="rect" id="node21" href="$d6/de0/dns__oper_8cc.html" title="dns_oper.cc" alt="" coords="1264,155,1363,181"/>
+<area shape="rect" id="node22" href="$d9/d07/ifmap__xmpp_8cc.html" title="ifmap_xmpp.cc" alt="" coords="1387,155,1509,181"/>
+<area shape="rect" id="node23" href="$dd/d3a/xmpp__server_8cc.html" title="xmpp_server.cc" alt="" coords="1534,155,1657,181"/>
+<area shape="rect" id="node24" href="$d2/de6/xmpp__session_8cc.html" title="xmpp_session.cc" alt="" coords="1683,155,1816,181"/>
+<area shape="rect" id="node25" href="$d9/d03/xmpp__state__machine_8cc.html" title="xmpp_state_machine.cc" alt="" coords="1891,155,2071,181"/>
+</map>

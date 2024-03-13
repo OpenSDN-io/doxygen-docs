@@ -1,0 +1,22 @@
+<map id="PeerCloseManager::RestartTimerCallback" name="PeerCloseManager::RestartTimerCallback">
+<area shape="rect" id="node2" href="$da/d00/classIPeerClose.html#a8276585906e848edb0658b06cdf593b1" title="IPeerClose::GetTaskName" alt="" coords="802,5,993,32"/>
+<area shape="rect" id="node3" href="$da/d00/classIPeerClose.html#a2d0abc46de319728d8b9bf21afcbe2d5" title="IPeerClose::IsReady" alt="" coords="546,32,697,59"/>
+<area shape="rect" id="node4" href="$da/d00/classIPeerClose.html#aa542fcc43b7290dfd1144824b1c5d7f0" title="IPeerClose::ReceiveEndOfRIB" alt="" coords="251,83,461,109"/>
+<area shape="rect" id="node5" href="$df/ddb/classPeerCloseManager.html#aaf2cdcaf74d2737a52adfa99dd7c55d2" title="PeerCloseManager::Process\lClosure" alt="" coords="255,159,457,201"/>
+<area shape="rect" id="node6" href="$da/d00/classIPeerClose.html#adba3e3d89ca2f81202a0a92321fe261e" title="IPeerClose::IsCloseGraceful" alt="" coords="521,83,722,109"/>
+<area shape="rect" id="node7" href="$df/ddb/classPeerCloseManager.html#afd9dddb3a5f8101dc9a0e2896212266d" title="PeerCloseManager::StaleNotify" alt="" coords="509,133,733,160"/>
+<area shape="rect" id="node19" href="$da/d00/classIPeerClose.html#a3b76535a2ed53d49e206a159ea584258" title="IPeerClose::IsCloseLongLived\lGraceful" alt="" coords="515,185,727,226"/>
+<area shape="rect" id="node20" href="$da/d00/classIPeerClose.html#a0d7e1ff22ea6049ce2006aa17db14669" title="IPeerClose::LongLivedGraceful\lRestartStale" alt="" coords="511,250,731,291"/>
+<area shape="rect" id="node21" href="$da/d00/classIPeerClose.html#af0c96cc8112d477c5c842287d4b2acb9" title="IPeerClose::CustomClose" alt="" coords="529,316,714,343"/>
+<area shape="rect" id="node10" href="$df/ddb/classPeerCloseManager.html#aa3f08eea44af2bda6328d56045bb25ca" title="PeerCloseManager::Membership\lRequest" alt="" coords="782,261,1013,302"/>
+<area shape="rect" id="node8" href="$da/d00/classIPeerClose.html#a5fc7ba3c5245cf13d9329fbea795023e" title="IPeerClose::GracefulRestart\lStale" alt="" coords="797,103,997,145"/>
+<area shape="rect" id="node9" href="$df/ddb/classPeerCloseManager.html#adddc0a7a53fac05ded836b982af09196" title="PeerCloseManager::Assert\lMembershipState" alt="" coords="1069,162,1261,203"/>
+<area shape="rect" id="node11" href="$df/ddb/classPeerCloseManager.html#aaf6d7317c5bd754a09595b384dc824c6" title="PeerCloseManager::CanUse\lMembershipManager" alt="" coords="1065,227,1266,269"/>
+<area shape="rect" id="node14" href="$df/ddb/classPeerCloseManager.html#a4d039c9fcdc992208ae5a7793ab038a9" title="PeerCloseManager::set\l_membership_state" alt="" coords="1080,293,1251,334"/>
+<area shape="rect" id="node16" href="$df/ddb/classPeerCloseManager.html#a8f163e61985f865126fa7c8441d0e8d4" title="PeerCloseManager::Enqueue\lEvent" alt="" coords="1062,358,1269,399"/>
+<area shape="rect" id="node12" href="$da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b" title="IPeerClose::peer" alt="" coords="1379,192,1507,219"/>
+<area shape="rect" id="node13" href="$dd/d38/classIPeer.html#ab65dd2bb67af5254cb6d047ec0db6c55" title="IPeer::CanUseMembershipManager" alt="" coords="1318,243,1567,269"/>
+<area shape="rect" id="node15" href="$df/ddb/classPeerCloseManager.html#aa25683a293884ac6c75f077c491d8bd2" title="PeerCloseManager::state" alt="" coords="1351,300,1535,327"/>
+<area shape="rect" id="node17" href="$df/ddb/classPeerCloseManager.html#a4a368505f4fc670215575d18528d9d58" title="PeerCloseManager::GetEventName" alt="" coords="1317,357,1568,384"/>
+<area shape="rect" id="node18" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title="Address::FamilyToString" alt="" coords="1354,408,1531,435"/>
+</map>

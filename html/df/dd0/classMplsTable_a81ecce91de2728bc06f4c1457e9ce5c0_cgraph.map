@@ -1,0 +1,8 @@
+<map id="MplsTable::FreeReserveLabel" name="MplsTable::FreeReserveLabel">
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="281,5,439,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="265,56,455,83"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a25ab72d3523ca9713b6b98e10a584dbe" title="ResourceManager::Release\lIndex" alt="" coords="262,107,458,149"/>
+<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="507,74,709,115"/>
+<area shape="rect" id="node6" href="$d9/dbf/classIndexResourceTable.html#ad1299449c042f7d562c4e27f2f0c92f9" title="IndexResourceTable\l::ReleaseIndex" alt="" coords="533,139,683,181"/>
+<area shape="rect" id="node7" href="$df/d10/classIndexVectorResource.html#a52ac4e1a2482ecf7c846fd105c17f6c9" title="IndexVectorResource\l::FreeIndex" alt="" coords="758,139,917,181"/>
+</map>

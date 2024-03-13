@@ -1,0 +1,15 @@
+<map id="BgpShowHandler::CallbackCommon" name="BgpShowHandler::CallbackCommon">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#ae1d0ed146f7e7c57a78aae18a8763fe9" title="BgpServer::global_config" alt="" coords="271,288,454,315"/>
+<area shape="rect" id="node3" href="$da/ded/bgp__show__config_8cc.html#a1ec329b08195345d2f5dba3dcfa17263" title="FillBgpGlobalSystemConfigInfo" alt="" coords="251,339,474,365"/>
+<area shape="rect" id="node4" href="$d5/d70/classBgpGlobalSystemConfig.html#a8bcfff89f3c7cfbe36057e30d25070dd" title="BgpGlobalSystemConfig\l::gr_time" alt="" coords="523,5,701,46"/>
+<area shape="rect" id="node5" href="$d5/d70/classBgpGlobalSystemConfig.html#a81c35544aebe4a0fda8312a6ea98c9c1" title="BgpGlobalSystemConfig\l::llgr_time" alt="" coords="523,70,701,111"/>
+<area shape="rect" id="node6" href="$d5/d70/classBgpGlobalSystemConfig.html#a16ba9ca72efba865ee68c22098d40888" title="BgpGlobalSystemConfig\l::last_change_at" alt="" coords="523,135,701,177"/>
+<area shape="rect" id="node7" href="$d5/d70/classBgpGlobalSystemConfig.html#a57a15a1129ac6c5c8d8ab7101db15265" title="BgpGlobalSystemConfig\l::end_of_rib_timeout" alt="" coords="523,201,701,242"/>
+<area shape="rect" id="node8" href="$d5/d70/classBgpGlobalSystemConfig.html#aa3a2707412ea0c18ff04021cda63122b" title="BgpGlobalSystemConfig\l::gr_bgp_helper" alt="" coords="523,266,701,307"/>
+<area shape="rect" id="node9" href="$d5/d70/classBgpGlobalSystemConfig.html#a63cbec575ca8edd42729b59a8f89d439" title="BgpGlobalSystemConfig\l::gr_xmpp_helper" alt="" coords="523,331,701,373"/>
+<area shape="rect" id="node10" href="$d5/d70/classBgpGlobalSystemConfig.html#acdf0d97e8afb1de572d2dcc98af2dcd3" title="BgpGlobalSystemConfig\l::gr_enable" alt="" coords="523,397,701,438"/>
+<area shape="rect" id="node11" href="$d5/d70/classBgpGlobalSystemConfig.html#a52bb208ce1986811d01b7769ece54398" title="BgpGlobalSystemConfig\l::always_compare_med" alt="" coords="523,462,701,503"/>
+<area shape="rect" id="node12" href="$d5/d70/classBgpGlobalSystemConfig.html#a9fd19411e3e5b83baa6fae5503a3bb2a" title="BgpGlobalSystemConfig\l::rd_cluster_seed" alt="" coords="523,527,701,569"/>
+<area shape="rect" id="node13" href="$d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e" title="BgpGlobalSystemConfig\l::bgpaas_port_start" alt="" coords="523,593,701,634"/>
+<area shape="rect" id="node14" href="$d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f" title="BgpGlobalSystemConfig\l::bgpaas_port_end" alt="" coords="523,658,701,699"/>
+</map>

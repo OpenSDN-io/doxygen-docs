@@ -1,0 +1,17 @@
+<map id="Icmpv6Handler::FillRouterAdvertisement" name="Icmpv6Handler::FillRouterAdvertisement">
+<area shape="rect" id="node2" href="$d1/d41/classIcmpv6Handler.html#a369b51b5353309a6c8d79836fcd06403" title="Icmpv6Handler::IsDefault\lGatewayConfigured" alt="" coords="249,110,437,151"/>
+<area shape="rect" id="node3" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="519,5,671,32"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#ab6d30c99e876ef87e4d7a752bdcd2be2" title="Agent::vrrp_mac" alt="" coords="278,176,407,203"/>
+<area shape="rect" id="node12" href="$d3/df5/classMacAddress.html#a848c2fc67fd7cdf6ce2bf0c052d4d935" title="MacAddress::ToArray" alt="" coords="264,227,421,253"/>
+<area shape="rect" id="node13" href="$df/da5/classProtoHandler.html#a7c2ff02bd853728b0b5bd29629dd8efa" title="ProtoHandler::Icmpv6Csum" alt="" coords="243,288,443,315"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="511,56,678,83"/>
+<area shape="rect" id="node5" href="$d2/d73/classInterfaceTable.html#a3460257f9b0fa13a0f7104f38d835aa3" title="InterfaceTable::FindInterface" alt="" coords="491,107,698,133"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="536,157,653,184"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="531,208,658,235"/>
+<area shape="rect" id="node10" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="527,259,663,285"/>
+<area shape="rect" id="node6" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="775,81,897,108"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="747,132,925,159"/>
+<area shape="rect" id="node14" href="$df/da5/classProtoHandler.html#a89721ad2a2a7345b8f8583d5b379b187" title="ProtoHandler::Ipv6Csum" alt="" coords="505,309,685,336"/>
+<area shape="rect" id="node15" href="$df/da5/classProtoHandler.html#aba4635b048a59de5ef99c9e9c23b8f5d" title="ProtoHandler::Sum" alt="" coords="973,309,1117,336"/>
+<area shape="rect" id="node16" href="$df/da5/classProtoHandler.html#ad877cde33cdc973e0b46a72dee446944" title="ProtoHandler::Csum" alt="" coords="760,335,912,361"/>
+</map>

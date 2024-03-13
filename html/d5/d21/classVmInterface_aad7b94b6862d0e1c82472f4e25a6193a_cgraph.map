@@ -1,0 +1,9 @@
+<map id="VmInterface::UpdateInterfaceHealthCheckService" name="VmInterface::UpdateInterfaceHealthCheckService">
+<area shape="rect" id="node2" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="283,5,475,46"/>
+<area shape="rect" id="node3" href="$dd/df6/classHealthCheckService.html#a6c9286d19587c46398f1551840e69f28" title="HealthCheckService\l::health_check_type" alt="" coords="302,70,455,111"/>
+<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#aa9f91ab1e8bed9094aabe38c402e0207" title="HealthCheckInstanceBase\l::destination_ip" alt="" coords="283,135,475,177"/>
+<area shape="rect" id="node5" href="$d8/d4e/classHealthCheckInstanceBase.html#aa204d43a924e6f6221f64ffcb831c28d" title="HealthCheckInstanceBase\l::get_source_ip" alt="" coords="283,201,475,242"/>
+<area shape="rect" id="node6" href="$dd/df6/classHealthCheckService.html#a49325837a31d18695cba94b7d33a1975" title="HealthCheckService\l::ResyncHealthCheckInterface" alt="" coords="270,266,487,307"/>
+<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#a0ee9e6bae25a6cddb888259c86b13c09" title="VmInterface::vmi_cfg_uuid" alt="" coords="536,248,733,275"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="572,299,697,325"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="t_c_generator::generate_serialize_field" name="t_c_generator::generate_serialize_field">
+<area shape="rect" id="node2" href="$d6/dbb/classt__field.html#a9f45fe43e934e12d84226508c4a80648" title="t_field::get_type" alt="" coords="267,5,394,32"/>
+<area shape="rect" id="node3" href="$d6/dbb/classt__field.html#a44b09493e803cba47c19df96f77e7720" title="t_field::get_name" alt="" coords="263,56,398,83"/>
+<area shape="rect" id="node4" href="$d5/d02/classt__type.html#acb7bd0eaecaaf5b77afcce105dde8cb0" title="t_type::is_void" alt="" coords="272,107,389,133"/>
+<area shape="rect" id="node5" href="$d5/d02/classt__type.html#a75a610454031a54876eb01944a2c6387" title="t_type::is_struct" alt="" coords="267,157,394,184"/>
+<area shape="rect" id="node6" href="$d5/d02/classt__type.html#a4fbb4a8c0352e8e36ef8620a539749bd" title="t_type::is_xception" alt="" coords="258,208,403,235"/>
+<area shape="rect" id="node7" href="$d5/d02/classt__type.html#ae0db38ffae4229da52692379372057d6" title="t_type::is_container" alt="" coords="255,259,406,285"/>
+<area shape="rect" id="node8" href="$d5/d02/classt__type.html#ad5a78b3b8203735cc1de4a3079476b4d" title="t_type::is_base_type" alt="" coords="253,309,409,336"/>
+<area shape="rect" id="node9" href="$d5/d02/classt__type.html#a3f11278982fb2a8aca03e9a6be33bb3d" title="t_type::is_enum" alt="" coords="267,360,394,387"/>
+<area shape="rect" id="node10" href="$d6/d96/classt__base__type.html#a898386176a3467547afc28928d609beb" title="t_base_type::t_base_name" alt="" coords="233,411,429,437"/>
+</map>

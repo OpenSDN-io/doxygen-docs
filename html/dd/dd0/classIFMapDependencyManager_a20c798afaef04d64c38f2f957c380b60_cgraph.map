@@ -1,0 +1,36 @@
+<map id="IFMapDependencyManager::InitializeDependencyRules" name="IFMapDependencyManager::InitializeDependencyRules">
+<area shape="rect" id="node2" href="$d1/d35/ifmap__dependency__manager_8cc.html#ad630a83f36e8d2761761eb5e08e8fd4f" title="RegisterConfigHandler" alt="" coords="271,44,438,71"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a3af467d5407c28e06e5aa71755b0258c" title="Agent::vm_table" alt="" coords="290,95,419,121"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#aa6c0cdca564fcba6200c3477f5f63f1b" title="Agent::acl_table" alt="" coords="291,145,418,172"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a7bbfa6ed5997ad9beb2e0567b0786f51" title="Agent::mp_table" alt="" coords="290,196,419,223"/>
+<area shape="rect" id="node11" href="$dd/dd0/classIFMapDependencyManager.html#a63a2b73971d903932d5033c941b5660a" title="IFMapDependencyManager\l::AddDependencyPath" alt="" coords="256,247,453,289"/>
+<area shape="rect" id="node14" href="$d1/d35/ifmap__dependency__manager_8cc.html#aaaa2e80632c1c66b03ee15fe18526cab" title="MakePath" alt="" coords="312,313,397,340"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#a51c3acf80aa60742d2a2c19779086945" title="Agent::vn_table" alt="" coords="293,364,417,391"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="291,415,418,441"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a253c9faae6367a8370c24410ca194d90" title="Agent::sg_table" alt="" coords="293,465,416,492"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a7551b24c319aa052728fa570fa396996" title="Agent::tag_table" alt="" coords="290,516,419,543"/>
+<area shape="rect" id="node19" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="271,567,438,593"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="269,618,441,659"/>
+<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#a67039eb042a323867cf61f32fbd3f4ef" title="Agent::health_check\l_table" alt="" coords="277,683,432,725"/>
+<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#a0c668a2cc3419fff3b7b15e693398736" title="Agent::qos_config_table" alt="" coords="266,749,443,776"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#acbebabe6f65e43bb39d8a811c3951c80" title="Agent::qos_queue_table" alt="" coords="265,800,444,827"/>
+<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a4ec646b136519eec0033326c1173716c" title="Agent::forwarding_class\l_table" alt="" coords="265,851,444,893"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a411e74c7d3bc1506e5c7379551255b73" title="Agent::slo_table" alt="" coords="291,917,418,944"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="295,968,415,995"/>
+<area shape="rect" id="node27" href="$dc/dff/classOperDB.html#a1cae37403f36d9ad6571bd14f01aeb38" title="OperDB::vrouter" alt="" coords="291,1019,418,1045"/>
+<area shape="rect" id="node28" href="$dc/dff/classOperDB.html#a8c1671c4b44702d27897a6c22da9ce07" title="OperDB::global_qos\l_config" alt="" coords="279,1070,430,1111"/>
+<area shape="rect" id="node29" href="$dc/dff/classOperDB.html#a8174ef6fcba26d06051a4b0500765b19" title="OperDB::global_system\l_config" alt="" coords="267,1135,442,1177"/>
+<area shape="rect" id="node30" href="$dc/dff/classOperDB.html#add4843cbacd1f47202e62f4c7aa80a1a" title="OperDB::network_ipam" alt="" coords="268,1201,441,1228"/>
+<area shape="rect" id="node31" href="$dc/dff/classOperDB.html#ab15a01161562ddff194b0f7df52aaa9d" title="OperDB::virtual_dns" alt="" coords="279,1252,431,1279"/>
+<area shape="rect" id="node32" href="$dc/dff/classOperDB.html#aa6631648d2d603c1ec66872dc4e7d2ac" title="OperDB::global_vrouter" alt="" coords="267,1303,442,1329"/>
+<area shape="rect" id="node33" href="$dc/dff/classOperDB.html#afe591acc8a3ebf4af590195068b62d04" title="OperDB::bgp_router\l_config" alt="" coords="279,1354,430,1395"/>
+<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#a07e81db7927a6fe8e26e6068a192c06b" title="Agent::bridge_domain\l_table" alt="" coords="272,1419,437,1461"/>
+<area shape="rect" id="node35" href="$d8/dfe/classAgent.html#a682953957a3757fca8bb0abad338dfbe" title="Agent::policy_set_table" alt="" coords="267,1485,442,1512"/>
+<area shape="rect" id="node3" href="$dd/dd0/classIFMapDependencyManager.html#ac4a7e1e812932143546d9571a73991fa" title="IFMapDependencyManager\l::Register" alt="" coords="508,5,705,46"/>
+<area shape="rect" id="node4" href="$d0/d9b/classOperIFMapTable.html#afec10833f000d51bbfbacf93da118a1b" title="OperIFMapTable::ConfigEvent\lHandler" alt="" coords="501,70,712,111"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="787,27,965,53"/>
+<area shape="rect" id="node6" href="$d0/d9b/classOperIFMapTable.html#a6504e46b23db030464861dcc6e3784bf" title="OperIFMapTable::ConfigDelete" alt="" coords="767,77,985,104"/>
+<area shape="rect" id="node7" href="$d0/d9b/classOperIFMapTable.html#ad1e631f1cfe6531b5d16e6100c2e8eeb" title="OperIFMapTable::ConfigManager\lEnqueue" alt="" coords="761,129,991,170"/>
+<area shape="rect" id="node12" href="$d1/d35/ifmap__dependency__manager_8cc.html#a148a206688e89c2001080ebf314cf4e0" title="LocateNodeEventPolicy" alt="" coords="519,229,694,256"/>
+<area shape="rect" id="node13" href="$d1/d35/ifmap__dependency__manager_8cc.html#aa5b623d49533b3668803c3e977e29a84" title="LocateReactionMap" alt="" coords="533,280,681,307"/>
+</map>

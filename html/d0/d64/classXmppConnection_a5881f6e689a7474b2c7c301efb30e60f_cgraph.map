@@ -1,0 +1,19 @@
+<map id="XmppConnection::ReceiveMsg" name="XmppConnection::ReceiveMsg">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a80a0965225ac7bc1911eae024b121b03" title="XmppConnection::XmppDecode" alt="" coords="273,255,501,281"/>
+<area shape="rect" id="node16" href="$d5/d13/classXmppSession.html#a325cc9d8b4ee70e455cf6f48b186f27e" title="XmppSession::IncStats" alt="" coords="301,305,472,332"/>
+<area shape="rect" id="node17" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="313,357,461,398"/>
+<area shape="rect" id="node18" href="$d0/d64/classXmppConnection.html#aaf3a4ab95d507621ba7e75f7e39fe275" title="XmppConnection::IncProto\lStats" alt="" coords="289,422,484,463"/>
+<area shape="rect" id="node3" href="$d9/d4b/classXmppProto.html#a6a03ccb5f9f27a7bfd8de1fc1fbca774" title="XmppProto::Decode" alt="" coords="579,77,730,104"/>
+<area shape="rect" id="node9" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="551,128,758,155"/>
+<area shape="rect" id="node10" href="$d0/d64/classXmppConnection.html#aabcc7038e071406e320dddf2e2e24d08" title="XmppConnection::FromString" alt="" coords="549,179,760,205"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#a074ea00a6f3ad5aceaf5d1dd864543aa" title="XmppConnection::ToString" alt="" coords="558,229,751,256"/>
+<area shape="rect" id="node12" href="$d0/d64/classXmppConnection.html#ac127fa7ebba9aef84953d764778e6607" title="XmppConnection::Clear" alt="" coords="567,280,742,307"/>
+<area shape="rect" id="node13" href="$d2/d78/classXmlBase.html#aa3bebedc9fa0039f736a788935345d53" title="XmlBase::ReadNode" alt="" coords="577,331,732,357"/>
+<area shape="rect" id="node14" href="$d2/d78/classXmlBase.html#a38b7739c8faffc644224cc1a1345478d" title="XmlBase::ModifyAttribute" alt="" coords="560,381,749,408"/>
+<area shape="rect" id="node15" href="$d2/d78/classXmlBase.html#a9628696d6b514a616d84b02311f6141b" title="XmlBase::ReadAttrib" alt="" coords="577,432,733,459"/>
+<area shape="rect" id="node4" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title="XmppStanza::AllocXmppXmlImpl" alt="" coords="808,77,1045,104"/>
+<area shape="rect" id="node5" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="1093,5,1256,46"/>
+<area shape="rect" id="node7" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title="XmppXmlImplFactory\l::GetXmlImpl" alt="" coords="1093,70,1256,111"/>
+<area shape="rect" id="node8" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title="XmlBase::LoadDoc" alt="" coords="1103,136,1247,163"/>
+<area shape="rect" id="node6" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="1304,5,1475,46"/>
+</map>

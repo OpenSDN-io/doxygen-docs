@@ -1,0 +1,8 @@
+<map id="xmsm::Connect::react" name="xmsm::Connect::react">
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#afb681691927137e41590ca17b28c35c7" title="XmppStateMachine::Connect\lTimerCancelled" alt="" coords="258,5,467,46"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="249,71,476,97"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#af65a5600ede284bbb6e91eb0efc21938" title="XmppConnection::set\l_close_reason" alt="" coords="282,122,443,163"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="219,188,506,215"/>
+<area shape="rect" id="node7" href="$de/d5b/structxmsm_1_1EvConnectTimerExpired.html#a3a69af49210c9f8d454b5f400fa003f1" title="xmsm::EvConnectTimerExpired\l::Name" alt="" coords="249,239,476,281"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html#af69bc49d0581fc8bb98eae171b754b13" title="Timer::cancelled" alt="" coords="555,12,685,39"/>
+</map>

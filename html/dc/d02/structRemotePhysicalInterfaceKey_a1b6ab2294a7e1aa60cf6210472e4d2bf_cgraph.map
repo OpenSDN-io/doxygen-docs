@@ -1,0 +1,12 @@
+<map id="RemotePhysicalInterfaceKey::AllocEntry" name="RemotePhysicalInterfaceKey::AllocEntry">
+<area shape="rect" id="node2" href="$d7/d90/classRemotePhysicalInterface.html#a6f8532197d7dc79f3b29f3fbec5efe7a" title="RemotePhysicalInterface\l::OnChange" alt="" coords="261,125,445,166"/>
+<area shape="rect" id="node3" href="$d2/d73/classInterfaceTable.html#ac5744c4d9b287f8ab0aeca108ccb1a09" title="InterfaceTable::agent" alt="" coords="501,5,659,32"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="517,56,643,83"/>
+<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="715,187,903,229"/>
+<area shape="rect" id="node9" href="$db/d49/classIntrusivePtrRef.html#a79331fd282ee7f05e39c14234fdd33b2" title="IntrusivePtrRef::reset" alt="" coords="501,157,659,184"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="494,209,666,250"/>
+<area shape="rect" id="node11" href="$da/dee/classPhysicalDeviceTable.html#a6cb9a2915275e6330e440ce154c8b10a" title="PhysicalDeviceTable\l::Find" alt="" coords="503,274,657,315"/>
+<area shape="rect" id="node6" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="965,195,1112,221"/>
+<area shape="rect" id="node7" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="953,245,1125,272"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1174,245,1351,272"/>
+</map>

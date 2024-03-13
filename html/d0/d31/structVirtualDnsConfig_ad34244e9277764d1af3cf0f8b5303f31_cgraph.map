@@ -1,0 +1,27 @@
+<map id="VirtualDnsConfig::OnChange" name="VirtualDnsConfig::OnChange">
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#a6557efd6c7ec66c2d220cd4d296880a8" title="VirtualDnsConfig::Trace" alt="" coords="291,81,464,108"/>
+<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#a6db4e154f599986625a3148caf29b423" title="VirtualDnsConfig::GetObject" alt="" coords="275,519,479,545"/>
+<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#a3b6ea7e28824c909e57abaa437f8c871" title="VirtualDnsConfig::HasChanged" alt="" coords="267,569,488,596"/>
+<area shape="rect" id="node8" href="$d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="867,376,1005,403"/>
+<area shape="rect" id="node9" href="$d4/da5/structDnsConfig.html#a7b52a3fbebd702b5c55d54ec863c3976" title="DnsConfig::MarkValid" alt="" coords="297,620,457,647"/>
+<area shape="rect" id="node10" href="$d5/d2f/structIpamConfig.html#a3a8033e0a21414502ed0d4f2ff8432dc" title="IpamConfig::AssociateIpamVdns" alt="" coords="261,401,493,428"/>
+<area shape="rect" id="node15" href="$d1/d12/structVirtualDnsRecordConfig.html#a922d0c451efaa00439e28e66516288fb" title="VirtualDnsRecordConfig\l::UpdateVirtualDns" alt="" coords="290,453,465,494"/>
+<area shape="rect" id="node17" href="$d0/d31/structVirtualDnsConfig.html#a10a1bcfc9febd9fb87d61e20810b36aa" title="VirtualDnsConfig::Notify\lPendingDnsRecords" alt="" coords="288,179,467,221"/>
+<area shape="rect" id="node3" href="$d0/d31/structVirtualDnsConfig.html#a544d996eda603c7c3035c4a5ffcabe8f" title="VirtualDnsConfig::Virtual\lDnsTrace" alt="" coords="567,9,750,50"/>
+<area shape="rect" id="node4" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="857,5,1015,32"/>
+<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="575,629,742,656"/>
+<area shape="rect" id="node11" href="$d5/d2f/structIpamConfig.html#a4c70b163985bbab0b3a29d71dd4a70c7" title="IpamConfig::GetVirtualDns" alt="" coords="561,376,756,403"/>
+<area shape="rect" id="node12" href="$d5/d2f/structIpamConfig.html#a7c7ff1b8ba45719873b661937accd7a2" title="IpamConfig::GetVirtualDnsName" alt="" coords="541,427,776,453"/>
+<area shape="rect" id="node13" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="857,427,1015,453"/>
+<area shape="rect" id="node14" href="$d0/d31/structVirtualDnsConfig.html#a6835bf5e3f5a01a683286d27fe7cd853" title="VirtualDnsConfig::AddIpam" alt="" coords="560,477,757,504"/>
+<area shape="rect" id="node16" href="$d0/d31/structVirtualDnsConfig.html#a312038d92cf37eba50a00c5fb635b98c" title="VirtualDnsConfig::AddRecord" alt="" coords="555,579,763,605"/>
+<area shape="rect" id="node18" href="$d1/d12/structVirtualDnsRecordConfig.html#a518432dd99518c377189dcdaf31984e7" title="VirtualDnsRecordConfig\l::CanNotify" alt="" coords="571,209,746,250"/>
+<area shape="rect" id="node26" href="$d4/da5/structDnsConfig.html#a962f06b2d8cc77b7963c73ed3414cfd0" title="DnsConfig::ClearNotified" alt="" coords="568,157,749,184"/>
+<area shape="rect" id="node19" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="835,209,1037,250"/>
+<area shape="rect" id="node20" href="$d8/d1a/classBindUtil.html#a95d379cfe9ef9028b522918d47cb3e4d" title="BindUtil::IsIP" alt="" coords="883,275,989,301"/>
+<area shape="rect" id="node21" href="$d8/d1a/classBindUtil.html#a54f70030253462d059bb6c2d4b5b4330" title="BindUtil::GetAddrFromPtrName" alt="" coords="824,325,1048,352"/>
+<area shape="rect" id="node22" href="$d0/d31/structVirtualDnsConfig.html#afe5ee6781842c1f61555f451f94adbf8" title="VirtualDnsConfig::GetSubnet" alt="" coords="833,56,1039,83"/>
+<area shape="rect" id="node24" href="$d4/da5/structDnsConfig.html#aa42a149759abebcd31b8714e92b14710" title="DnsConfig::IsErrorLogged" alt="" coords="843,107,1029,133"/>
+<area shape="rect" id="node25" href="$d4/da5/structDnsConfig.html#a572158f0963fee45baa9f2656759170a" title="DnsConfig::MarkErrorLogged" alt="" coords="833,157,1039,184"/>
+<area shape="rect" id="node23" href="$d5/d2f/structIpamConfig.html#a3c0ec3831971e3f77816ae97ae777840" title="IpamConfig::GetVnniList" alt="" coords="1096,56,1275,83"/>
+</map>

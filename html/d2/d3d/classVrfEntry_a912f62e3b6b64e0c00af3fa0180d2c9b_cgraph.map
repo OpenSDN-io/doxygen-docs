@@ -1,0 +1,14 @@
+<map id="VrfEntry::SetNotify" name="VrfEntry::SetNotify">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="208,5,384,32"/>
+<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="217,56,375,83"/>
+<area shape="rect" id="node5" href="$dd/dd0/classIFMapDependencyManager.html#a10f2d65d7f4a8e4bc7cecc7fb448c83d" title="IFMapDependencyManager\l::SetNotify" alt="" coords="197,107,395,149"/>
+<area shape="rect" id="node13" href="$de/d02/classIFMapNodeState.html#a4b2fe5eb2839d4c67e6b128f9e4f0879" title="IFMapNodeState::node" alt="" coords="212,173,380,200"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="450,5,633,32"/>
+<area shape="rect" id="node6" href="$dd/dd0/classIFMapDependencyManager.html#a3bf8c7a26a5d9ab90ffefcd6c9113d2c" title="IFMapDependencyManager\l::IFMapNodeGet" alt="" coords="443,82,640,123"/>
+<area shape="rect" id="node12" href="$de/d02/classIFMapNodeState.html#a033893280ad87ce7f1b55c7304312877" title="IFMapNodeState::set\l_notify" alt="" coords="463,147,619,189"/>
+<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="707,39,842,65"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="699,89,851,116"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="689,140,861,167"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="909,111,1136,137"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="928,162,1117,203"/>
+</map>

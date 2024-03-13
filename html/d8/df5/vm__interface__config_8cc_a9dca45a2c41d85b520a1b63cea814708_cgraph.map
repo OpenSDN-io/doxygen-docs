@@ -1,0 +1,6 @@
+<map id="ReadIgmpConfig" name="ReadIgmpConfig">
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="186,5,353,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="209,56,329,83"/>
+<area shape="rect" id="node4" href="$dc/dff/classOperDB.html#a8174ef6fcba26d06051a4b0500765b19" title="OperDB::global_system\l_config" alt="" coords="182,107,357,149"/>
+<area shape="rect" id="node5" href="$d2/dd0/classGlobalSystemConfig.html#a1d6e3740a827b0d885881572d1f77f17" title="GlobalSystemConfig\l::cfg_igmp_enable" alt="" coords="192,173,347,214"/>
+</map>

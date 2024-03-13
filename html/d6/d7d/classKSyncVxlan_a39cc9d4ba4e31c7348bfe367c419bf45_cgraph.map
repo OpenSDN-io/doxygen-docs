@@ -1,0 +1,12 @@
+<map id="KSyncVxlan::RegisterDBClients" name="KSyncVxlan::RegisterDBClients">
+<area shape="rect" id="node2" href="$d1/dcb/classKSyncObjectManager.html#ae2623ed30f9e959f7073ea34f53cff96" title="KSyncObjectManager\l::Init" alt="" coords="277,55,437,97"/>
+<area shape="rect" id="node3" href="$d1/dcb/classKSyncObjectManager.html#a10968c20b4b3b3926b0baaacf1e75681" title="KSyncObjectManager\l::KSyncObjectManager" alt="" coords="485,55,653,97"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="702,12,903,39"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="709,63,896,89"/>
+<area shape="rect" id="node8" href="$d1/dcb/classKSyncObjectManager.html#a3e4cd63d9eb5e299fb2445bde6d9c262" title="KSyncObjectManager\l::Process" alt="" coords="723,114,883,155"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="952,12,1168,39"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1217,5,1407,46"/>
+<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#aa3ee3133e1e66cf51cc8b95460a9eb63" title="KSyncObject::Size" alt="" coords="991,71,1129,97"/>
+<area shape="rect" id="node10" href="$d6/d2d/classKSyncObject.html#addb08452f4a000d5338ebcce93ebb1f9" title="KSyncObject::IsEmpty" alt="" coords="977,121,1143,148"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="979,172,1141,199"/>
+</map>

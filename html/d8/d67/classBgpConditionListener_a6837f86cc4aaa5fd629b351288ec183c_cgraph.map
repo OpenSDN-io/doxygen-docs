@@ -1,0 +1,12 @@
+<map id="BgpConditionListener::PurgeTableState" name="BgpConditionListener::PurgeTableState">
+<area shape="rect" id="node2" href="$d0/dd7/classConditionMatchTableState.html#a302ca3de9666b01001d78bab2a26b1f1" title="ConditionMatchTableState\l::match_objects" alt="" coords="217,5,407,46"/>
+<area shape="rect" id="node3" href="$d0/dd7/classConditionMatchTableState.html#a3ff3023a94c7ddcbb01c4725a12603e3" title="ConditionMatchTableState\l::table" alt="" coords="217,70,407,111"/>
+<area shape="rect" id="node4" href="$d0/dd7/classConditionMatchTableState.html#a4bee0be52d38a6ddfc5e0cfbdf8868e0" title="ConditionMatchTableState\l::walk_ref" alt="" coords="217,135,407,177"/>
+<area shape="rect" id="node5" href="$d5/d0a/classDBTable.html#aa510876627227108a8dbaa9decae3bb5" title="DBTable::ReleaseWalker" alt="" coords="223,201,401,228"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="221,252,403,279"/>
+<area shape="rect" id="node11" href="$d0/dd7/classConditionMatchTableState.html#a68aa9544d61c769e17453337cbd91559" title="ConditionMatchTableState\l::GetListenerId" alt="" coords="217,303,407,345"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="486,125,661,152"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="509,176,637,203"/>
+<area shape="rect" id="node8" href="$d1/dec/classDBTableWalkMgr.html#a18129067777844344fee0a5e401e7064" title="DBTableWalkMgr::ReleaseWalker" alt="" coords="456,227,691,253"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="477,277,669,304"/>
+</map>

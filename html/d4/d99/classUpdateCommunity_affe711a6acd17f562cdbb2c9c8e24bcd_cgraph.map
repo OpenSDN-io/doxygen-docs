@@ -1,0 +1,16 @@
+<map id="UpdateCommunity::operator()" name="UpdateCommunity::operator()">
+<area shape="rect" id="node2" href="$d5/dcf/classBgpAttr.html#a62dd5564580a927e6e8c9e1178bf10f5" title="BgpAttr::community" alt="" coords="319,5,473,32"/>
+<area shape="rect" id="node3" href="$d5/dcf/classBgpAttr.html#ae893ec8ba9b6470868344abc82c2c40b" title="BgpAttr::attr_db" alt="" coords="333,56,459,83"/>
+<area shape="rect" id="node4" href="$d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9" title="BgpAttrDB::server" alt="" coords="327,107,465,133"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#ad64ac6f230f8301d6cf800a9633a6af3" title="BgpServer::comm_db" alt="" coords="315,157,477,184"/>
+<area shape="rect" id="node6" href="$d6/d9a/classCommunityDB.html#aebcf7c184cb8fbd02b61f591c80e6c35" title="CommunityDB::SetAndLocate" alt="" coords="289,208,503,235"/>
+<area shape="rect" id="node9" href="$d6/d9a/classCommunityDB.html#ab2f57443c28ab4cf53a6d4726c8dcafd" title="CommunityDB::AppendAndLocate" alt="" coords="275,259,517,285"/>
+<area shape="rect" id="node12" href="$d6/d9a/classCommunityDB.html#a747cdf9b7dc76f90ac8b325c7cde55ab" title="CommunityDB::RemoveAndLocate" alt="" coords="273,309,519,336"/>
+<area shape="rect" id="node15" href="$d5/dcf/classBgpAttr.html#a1c3944c57751bb99d63bb5b2d3d8efd6" title="BgpAttr::set_community" alt="" coords="306,360,486,387"/>
+<area shape="rect" id="node7" href="$db/da5/classCommunity.html#a7a715f0bab7c172ff26dce07d244800a" title="Community::Set" alt="" coords="645,160,771,187"/>
+<area shape="rect" id="node8" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; Community, CommunityPtr,\l CommunitySpec, CommunityCompare,\l CommunityDB \&gt;::Locate" alt="" coords="568,211,848,282"/>
+<area shape="rect" id="node10" href="$db/da5/classCommunity.html#afc87e66cc1821991aacf4125fec663ee" title="Community::Append" alt="" coords="631,307,785,333"/>
+<area shape="rect" id="node11" href="$db/da5/classCommunity.html#ab949d84a5406f7f23db62af535087f05" title="Community::ContainsValue" alt="" coords="897,304,1095,331"/>
+<area shape="rect" id="node13" href="$db/da5/classCommunity.html#a8fbed2f289af999ffb598de55a9572d7" title="Community::Remove" alt="" coords="629,359,787,385"/>
+<area shape="rect" id="node14" href="$d6/dd7/classBgpPathAttributeDB.html#a0a7671c67604d9238f7c7920f534227c" title="BgpPathAttributeDB\l::Delete" alt="" coords="921,355,1071,397"/>
+</map>

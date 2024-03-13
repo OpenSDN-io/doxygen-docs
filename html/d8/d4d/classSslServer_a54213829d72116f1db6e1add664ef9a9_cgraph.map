@@ -1,0 +1,12 @@
+<map id="SslServer::AcceptHandlerComplete" name="SslServer::AcceptHandlerComplete">
+<area shape="rect" id="node2" href="$db/dda/classSslSession.html#a27c83441c1286b740cc79e5ffc2a1104" title="SslSession::IsSslDisabled" alt="" coords="252,5,439,32"/>
+<area shape="rect" id="node3" href="$db/dda/classSslSession.html#a27a3a92935d4c075c4cd3a47a322731e" title="SslSession::IsSslHandShake\lDelayed" alt="" coords="244,57,447,98"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#af9caeafa9ae2a549a8c24e240831c0ef" title="TcpServer::AcceptHandler\lComplete" alt="" coords="251,122,439,163"/>
+<area shape="rect" id="node7" href="$d8/d4d/classSslServer.html#ae1ffdb6826b4bd57b2632c57c15a2dff" title="SslServer::AcceptHandShake\lHandler" alt="" coords="241,221,450,262"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#af0d2a32ff8dd6059049a7f5539467a67" title="TcpServer::AcceptSession" alt="" coords="512,71,699,97"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title="TcpServer::InsertSession\lToMap" alt="" coords="515,122,695,163"/>
+<area shape="rect" id="node8" href="$db/dda/classSslSession.html#a14dfa1f269bd52cfbb89ac9c19bf94c8" title="SslSession::SetSslHandShake\lSuccess" alt="" coords="499,187,712,229"/>
+<area shape="rect" id="node9" href="$db/dda/classSslSession.html#a4acfb27a1de94dad5f3f2515f10ee058" title="SslSession::SetSslHandShake\lFailure" alt="" coords="499,253,712,294"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="512,319,699,345"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="760,319,904,345"/>
+</map>

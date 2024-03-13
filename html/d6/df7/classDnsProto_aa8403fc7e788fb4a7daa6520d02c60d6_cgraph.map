@@ -1,0 +1,35 @@
+<map id="DnsProto::VnNotify" name="DnsProto::VnNotify">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="211,35,389,61"/>
+<area shape="rect" id="node3" href="$d6/df7/classDnsProto.html#ad4b4938b134a1d857c89fe5a39543d6a" title="DnsProto::UpdateFloatingIp" alt="" coords="200,325,400,352"/>
+<area shape="rect" id="node17" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="997,275,1150,301"/>
+<area shape="rect" id="node11" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="1002,5,1145,32"/>
+<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#ac10430ded6738af90ca473ad6cfb4ea7" title="DnsProto::GetVdnsData" alt="" coords="469,188,643,215"/>
+<area shape="rect" id="node34" href="$d6/df7/classDnsProto.html#ad3121f9fa6d31a185daf3c516536793a" title="DnsProto::CheckForUpdate" alt="" coords="458,528,654,555"/>
+<area shape="rect" id="node32" href="$d6/df7/classDnsProto.html#a188869e4e2a24b3218e4019bb5c5271c" title="DnsProto::CheckForFipUpdate" alt="" coords="449,427,663,453"/>
+<area shape="rect" id="node12" href="$d6/df7/classDnsProto.html#af531a1f0dc02e63b2098f861d5090030" title="DnsProto::GetFipName" alt="" coords="727,477,897,504"/>
+<area shape="rect" id="node16" href="$d6/df7/classDnsProto.html#a319c049c14ed77281866532e7ef1bbb1" title="DnsProto::UpdateDnsEntry" alt="" coords="715,325,909,352"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#ab0ca17d4ffcf58e6d649cdd11363735c" title="VnEntry::GetIpamVdnsData" alt="" coords="713,187,911,213"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#aa1e3556d0db5c9b74a3335aaac939f60" title="VnEntry::GetIpamName" alt="" coords="986,107,1161,133"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a1727d2439ac08247f06ec1cb488037b4" title="Agent::domain_config\l_table" alt="" coords="992,209,1155,250"/>
+<area shape="rect" id="node9" href="$db/de3/classDomainConfig.html#a12ce7bc519677ba355b106a478a21faf" title="DomainConfig::GetIpam" alt="" coords="984,56,1163,83"/>
+<area shape="rect" id="node10" href="$db/de3/classDomainConfig.html#a6efe98365c55df7585cdd442c8272fa8" title="DomainConfig::GetVDns" alt="" coords="984,157,1163,184"/>
+<area shape="rect" id="node8" href="$dc/dff/classOperDB.html#af2b0c54144bd494ab559bfc93cb1106b" title="OperDB::domain_config\l_table" alt="" coords="1259,209,1434,250"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#aaf5ac68356ca238c6c549e6d370b335a" title="VmInterface::vm_name" alt="" coords="986,629,1161,656"/>
+<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="1010,528,1137,555"/>
+<area shape="rect" id="node15" href="$d8/d00/classVnEntry.html#a40040fc4e2000504348d8adac743e4af" title="VnEntry::GetProject" alt="" coords="999,477,1147,504"/>
+<area shape="rect" id="node18" href="$de/d5f/address__util_8cc.html#a5e958eac5d2990de5abb8931e07058ef" title="IsIp4SubnetMember" alt="" coords="998,325,1149,352"/>
+<area shape="rect" id="node20" href="$de/d5f/address__util_8cc.html#a2925d338852099df58209429ec5679c6" title="IsIp6SubnetMember" alt="" coords="998,376,1149,403"/>
+<area shape="rect" id="node22" href="$d6/df7/classDnsProto.html#a178c630ff3759fa55916a54cd703b9b8" title="DnsProto::SendUpdateDnsEntry" alt="" coords="960,427,1187,453"/>
+<area shape="rect" id="node19" href="$de/d6b/classAddress.html#a212395ba95041b3c303efe85cf2af109" title="Address::GetIp4SubnetAddress" alt="" coords="1235,325,1458,352"/>
+<area shape="rect" id="node21" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="1235,376,1458,403"/>
+<area shape="rect" id="node23" href="$d1/d04/structDnsItem.html#a2fdd9d5788d0093d4fbb052ef8666dbe" title="DnsItem::ToString" alt="" coords="1278,427,1415,453"/>
+<area shape="rect" id="node26" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title="DnsProto::SendDnsUpdateIpc" alt="" coords="1241,579,1453,605"/>
+<area shape="rect" id="node30" href="$d8/d1a/classBindUtil.html#a332fa706b69a0834bc9f8083144953d8" title="BindUtil::GetReverseZone" alt="" coords="1251,477,1442,504"/>
+<area shape="rect" id="node31" href="$d8/d1a/classBindUtil.html#a1b6c0e3781c967c9b01a1b3a0b70ce9c" title="BindUtil::GetPtrNameFromAddr" alt="" coords="1235,528,1459,555"/>
+<area shape="rect" id="node24" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title="BindUtil::DnsClass" alt="" coords="1531,401,1674,428"/>
+<area shape="rect" id="node25" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="1534,452,1671,479"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="1558,528,1647,555"/>
+<area shape="rect" id="node28" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="1515,579,1690,605"/>
+<area shape="rect" id="node29" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title="PktHandler::SendMessage" alt="" coords="1507,629,1698,656"/>
+<area shape="rect" id="node33" href="$d6/df7/classDnsProto.html#a9e81f558e10ea43ce98d2125419780f5" title="DnsProto::MoveVDnsEntry" alt="" coords="716,541,908,568"/>
+</map>

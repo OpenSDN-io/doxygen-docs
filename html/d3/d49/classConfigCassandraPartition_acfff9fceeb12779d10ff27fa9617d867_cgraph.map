@@ -1,0 +1,5 @@
+<map id="ConfigCassandraPartition::ioservice" name="ConfigCassandraPartition::ioservice">
+<area shape="rect" id="node2" href="$d3/d49/classConfigCassandraPartition.html#a8623137138cad95a61f1cdb9c5122cab" title="ConfigCassandraPartition\l::client" alt="" coords="242,5,427,46"/>
+<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html#a3fa3876b2ea450819ad53ef13e279b0c" title="ConfigDbClient::event\l_manager" alt="" coords="253,70,417,111"/>
+<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="240,136,429,163"/>
+</map>

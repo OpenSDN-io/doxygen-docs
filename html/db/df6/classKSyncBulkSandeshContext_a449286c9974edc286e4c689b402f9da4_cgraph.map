@@ -1,0 +1,15 @@
+<map id="KSyncBulkSandeshContext::Decoder" name="KSyncBulkSandeshContext::Decoder">
+<area shape="rect" id="node2" href="$d5/d89/ksync__sock_8cc.html#adcec88b92809073f4ab9eb4ebf396304" title="DecodeSandeshMessages" alt="" coords="254,127,445,153"/>
+<area shape="rect" id="node9" href="$db/df6/classKSyncBulkSandeshContext.html#a50dd661248f5b077167d93ae2a90efcb" title="KSyncBulkSandeshContext\l::IoContextDone" alt="" coords="251,235,448,277"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a3a6764f6633cab28f2c130f4ec76488e" title="Sandesh::ReceiveBinaryMsgOne" alt="" coords="497,97,727,124"/>
+<area shape="rect" id="node4" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="786,6,942,47"/>
+<area shape="rect" id="node6" href="$de/d75/classSandesh.html#aed76cd9fa4e995c2e28c96800d27773b" title="Sandesh::Read" alt="" coords="805,72,923,99"/>
+<area shape="rect" id="node7" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title="SandeshBuffer::Process" alt="" coords="777,123,951,149"/>
+<area shape="rect" id="node8" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="796,173,932,200"/>
+<area shape="rect" id="node5" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="1001,6,1157,47"/>
+<area shape="rect" id="node10" href="$d9/d95/classIoContext.html#a10c7a31747012f0b946676f92c29d0af" title="IoContext::GetSandeshContext" alt="" coords="501,148,723,175"/>
+<area shape="rect" id="node11" href="$d1/d00/classAgentSandeshContext.html#a0e5bfc1305239d78b94027e9f4ca1ddc" title="AgentSandeshContext\l::set_ksync_io_ctx" alt="" coords="529,199,695,241"/>
+<area shape="rect" id="node12" href="$d1/d00/classAgentSandeshContext.html#a7a04cf90575d11967854e8d6d1a229ff" title="AgentSandeshContext\l::GetErrno" alt="" coords="529,265,695,306"/>
+<area shape="rect" id="node13" href="$d9/d95/classIoContext.html#a3f8e6b3b803f2b95c280fed29eb55092" title="IoContext::ErrorHandler" alt="" coords="525,331,699,357"/>
+<area shape="rect" id="node14" href="$d9/d95/classIoContext.html#a65c1a033a498520958d75c0961cbbb63" title="IoContext::Handler" alt="" coords="540,381,684,408"/>
+</map>

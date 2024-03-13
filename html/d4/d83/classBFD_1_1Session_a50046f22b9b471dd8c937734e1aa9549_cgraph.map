@@ -1,0 +1,13 @@
+<map id="BFD::Session::InitPollSequence" name="BFD::Session::InitPollSequence">
+<area shape="rect" id="node2" href="$d4/d83/classBFD_1_1Session.html#a7a4ca6ec68c7f74db4eb76417e93daf3" title="BFD::Session::local\l_state_non_locking" alt="" coords="1069,17,1216,58"/>
+<area shape="rect" id="node3" href="$d4/d83/classBFD_1_1Session.html#a59f471361aa8e10b13186a5323c735c3" title="BFD::Session::PreparePacket" alt="" coords="278,24,485,51"/>
+<area shape="rect" id="node4" href="$d4/d83/classBFD_1_1Session.html#a7fef212f4fa912a6b46f3eb83218bd81" title="BFD::Session::SendPacket" alt="" coords="287,121,476,148"/>
+<area shape="rect" id="node5" href="$d1/d0a/namespaceBFD.html#a5448befd10f97b55ec48c0b6f9e671f8" title="BFD::EncodeControlPacket" alt="" coords="543,89,737,116"/>
+<area shape="rect" id="node7" href="$d4/d83/classBFD_1_1Session.html#a29f1cce2b5e4f88625810df6527d870d" title="BFD::Session::toString" alt="" coords="557,148,723,175"/>
+<area shape="rect" id="node12" href="$db/d0c/classBFD_1_1Connection.html#a6c959c7230a6cb369a85afbb88fecf86" title="BFD::Connection::SendPacket" alt="" coords="534,199,746,225"/>
+<area shape="rect" id="node6" href="$d5/d3f/classProtoSequence.html#a58226f590476878858017aa676e76a0a" title="ProtoSequence\&lt; ControlPacket\lMessage \&gt;::Encode" alt="" coords="795,75,1019,117"/>
+<area shape="rect" id="node8" href="$d6/d27/structBFD_1_1SessionKey.html#a6c3b424df08b561a0654162fc2ee9180" title="BFD::SessionKey::to\l_string" alt="" coords="831,206,982,247"/>
+<area shape="rect" id="node10" href="$d4/d83/classBFD_1_1Session.html#a833aa82a0305bc0dea8082c06275c34c" title="BFD::Session::local\l_state" alt="" coords="834,141,979,182"/>
+<area shape="rect" id="node11" href="$d4/d83/classBFD_1_1Session.html#a5bd17d0e194d287774d3ceb6d075bbdb" title="BFD::Session::remote\l_state" alt="" coords="826,271,987,313"/>
+<area shape="rect" id="node9" href="$da/d30/structBFD_1_1SessionIndex.html#a4ed1248f38fb33246f547e7ff402faf8" title="BFD::SessionIndex::\lto_string" alt="" coords="1067,206,1218,247"/>
+</map>

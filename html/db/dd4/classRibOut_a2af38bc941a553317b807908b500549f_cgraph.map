@@ -1,0 +1,8 @@
+<map id="RibOut::RouteAdvertiseCount" name="RibOut::RouteAdvertiseCount">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="265,35,437,61"/>
+<area shape="rect" id="node5" href="$de/d44/classRouteState.html#a239f15f7511386a946c2557523024e46" title="RouteState::Advertised" alt="" coords="265,85,436,112"/>
+<area shape="rect" id="node6" href="$d0/de5/classRouteUpdate.html#a78712e5d9d65bc261e30c050488b5e23" title="RouteUpdate::History" alt="" coords="270,136,431,163"/>
+<area shape="rect" id="node7" href="$de/dc2/classUpdateList.html#ac6bb1fc7fae9ea47401a9c3b7c054c59" title="UpdateList::History" alt="" coords="277,187,424,213"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="485,5,712,32"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="504,57,693,98"/>
+</map>

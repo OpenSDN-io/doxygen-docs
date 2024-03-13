@@ -1,0 +1,7 @@
+<map id="FlowMgmtManager::UpdateFlowStats" name="FlowMgmtManager::UpdateFlowStats">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a679792e874f1d1dc26601df8422fa421" title="Agent::flow_stats_manager" alt="" coords="286,5,485,32"/>
+<area shape="rect" id="node3" href="$d0/d29/classFlowStatsManager.html#a01e7a23d98ee0ebc289f966517d62e9c" title="FlowStatsManager::Update\lStatsEvent" alt="" coords="287,57,483,98"/>
+<area shape="rect" id="node4" href="$db/d77/classFlowStatsCollector.html#a952efc2f7a60d0ffa5b107539c1f300c" title="FlowStatsCollector\l::UpdateStatsEvent" alt="" coords="559,23,705,65"/>
+<area shape="rect" id="node6" href="$df/d96/classSessionStatsCollector.html#a7da628b9994f5c9d1868b240b45df5e9" title="SessionStatsCollector\l::UpdateSessionStatsEvent" alt="" coords="533,89,731,130"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="779,64,941,91"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="PeerCloseManager::IsRegistered" name="PeerCloseManager::IsRegistered">
+<area shape="rect" id="node2" href="$da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b" title="IPeerClose::peer" alt="" coords="328,5,456,32"/>
+<area shape="rect" id="node3" href="$dd/d38/classIPeer.html#aec870d4bd23076d7c0a787ec4ac40903" title="IPeer::server" alt="" coords="340,56,444,83"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#ae1b50989fe8347f00f3acb93e86198cb" title="BgpServer::membership_mgr" alt="" coords="286,107,498,133"/>
+<area shape="rect" id="node5" href="$d2/d45/classBgpMembershipManager.html#ad6f131b4dd3ee69e5ff44b700096e68f" title="BgpMembershipManager\l::IsRegistered" alt="" coords="301,158,483,199"/>
+<area shape="rect" id="node6" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="547,85,730,126"/>
+<area shape="rect" id="node10" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="547,151,730,207"/>
+<area shape="rect" id="node11" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a9948c03074c4f735e028544b5626d627" title="BgpMembershipManager\l::PeerRibState::ribout\l_registered" alt="" coords="547,231,730,287"/>
+<area shape="rect" id="node7" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="793,19,975,61"/>
+<area shape="rect" id="node8" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="793,85,975,126"/>
+<area shape="rect" id="node9" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="779,150,989,191"/>
+</map>

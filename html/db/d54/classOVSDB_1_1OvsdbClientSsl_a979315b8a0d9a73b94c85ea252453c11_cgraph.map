@@ -1,0 +1,7 @@
+<map id="OVSDB::OvsdbClientSsl::AllocSession" name="OVSDB::OvsdbClientSsl::AllocSession">
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="230,5,415,32"/>
+<area shape="rect" id="node4" href="$db/d54/classOVSDB_1_1OvsdbClientSsl.html#a165af29bc806906d224700ee1dcd62b8" title="OVSDB::OvsdbClientSsl\l::OnSessionEvent" alt="" coords="235,57,410,98"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="497,5,655,32"/>
+<area shape="rect" id="node5" href="$db/dd5/classOVSDB_1_1OvsdbClientSslSession.html#a30a1532743d3d3629edf5bae7bb29638" title="OVSDB::OvsdbClientSslSession\l::EnqueueEvent" alt="" coords="464,57,688,98"/>
+<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="737,64,898,91"/>
+</map>

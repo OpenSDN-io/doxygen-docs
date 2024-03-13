@@ -1,0 +1,33 @@
+<map id="NexthopIndexResourceKey::Backup" name="NexthopIndexResourceKey::Backup">
+<area shape="rect" id="node2" href="$d5/d35/classNexthopIndexResourceKey.html#aef1c65d98234c87a2dcdabda55b026a6" title="NexthopIndexResourceKey\l::GetNhKey" alt="" coords="511,303,707,345"/>
+<area shape="rect" id="node3" href="$d1/dcc/classNextHopKey.html#a6a7ea30241c974b9e2c4a1b3df7268d7" title="NextHopKey::GetType" alt="" coords="268,1011,431,1037"/>
+<area shape="rect" id="node4" href="$d5/d35/classNexthopIndexResourceKey.html#aa9c327e18978195b61418a0911a307fa" title="NexthopIndexResourceKey\l::BackupInterfaceResource" alt="" coords="251,945,447,986"/>
+<area shape="rect" id="node19" href="$d5/d35/classNexthopIndexResourceKey.html#a46df859bd84a397a1d7627ce7bd5fa17" title="NexthopIndexResourceKey\l::BackupVlanResource" alt="" coords="251,617,447,658"/>
+<area shape="rect" id="node26" href="$d5/d35/classNexthopIndexResourceKey.html#a4c0a40db5c70ff2830ed3fe64b5bb4b9" title="NexthopIndexResourceKey\l::BackupVrfResource" alt="" coords="251,358,447,399"/>
+<area shape="rect" id="node5" href="$de/d17/classResourceKey.html#a61d785a31bcc332eb4a066628b77ea03" title="ResourceKey::rm" alt="" coords="544,420,675,447"/>
+<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a1bc48f6fc96edb586f87b610df2e2b3e" title="ResourceManager::backup_mgr" alt="" coords="497,471,722,497"/>
+<area shape="rect" id="node7" href="$d8/d72/classIndexResourceData.html#af17ccea20a8699b0c1e86715d5e800b8" title="IndexResourceData::\lindex" alt="" coords="531,587,687,629"/>
+<area shape="rect" id="node8" href="$d1/dfa/classInterfaceNHKey.html#a0b43efd288e280efe5a3f4bf63db7a33" title="InterfaceNHKey::intf_type" alt="" coords="515,1171,704,1197"/>
+<area shape="rect" id="node9" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="557,952,661,979"/>
+<area shape="rect" id="node10" href="$d1/dfa/classInterfaceNHKey.html#af18882f45c2c58a051c08ad050f8b6ae" title="InterfaceNHKey::GetUuid" alt="" coords="517,1221,701,1248"/>
+<area shape="rect" id="node11" href="$d1/dfa/classInterfaceNHKey.html#aa95d1d5b4a06826ae029b8c298b72864" title="InterfaceNHKey::name" alt="" coords="525,1272,693,1299"/>
+<area shape="rect" id="node12" href="$d1/dcc/classNextHopKey.html#a41df1103c822d95db7b97cb0f5ed5462" title="NextHopKey::GetPolicy" alt="" coords="523,1323,695,1349"/>
+<area shape="rect" id="node13" href="$d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="528,1373,691,1400"/>
+<area shape="rect" id="node14" href="$d1/dfa/classInterfaceNHKey.html#a3621de2e2f3b5223f6880c7539c94fd7" title="InterfaceNHKey::dmac" alt="" coords="526,1003,693,1029"/>
+<area shape="rect" id="node15" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="529,1053,689,1080"/>
+<area shape="rect" id="node16" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="532,653,687,680"/>
+<area shape="rect" id="node17" href="$db/d1b/classResourceBackupManager.html#a9a7bd8672281a2b175181b7ebf698d5b" title="ResourceBackupManager\l::sandesh_maps" alt="" coords="517,522,702,563"/>
+<area shape="rect" id="node18" href="$d7/ded/classResourceSandeshMaps.html#a5d9b80cefa6d2b59b9ead444d86a14f0" title="ResourceSandeshMaps\l::interface_mpls_index_table" alt="" coords="504,1105,715,1146"/>
+<area shape="rect" id="node20" href="$d7/ded/classResourceSandeshMaps.html#abbc9a2d37d726add72f322287c380f19" title="ResourceSandeshMaps\l::DeleteVlanMplsResourceEntry" alt="" coords="497,886,722,927"/>
+<area shape="rect" id="node22" href="$dd/d36/classVlanNHKey.html#a22883bd5080a40b7bb486b950d653451" title="VlanNHKey::GetUuid" alt="" coords="532,369,687,396"/>
+<area shape="rect" id="node23" href="$dd/d36/classVlanNHKey.html#a2169aab61b41786074328283ed67d22e" title="VlanNHKey::vlan_tag" alt="" coords="530,704,689,731"/>
+<area shape="rect" id="node24" href="$d7/ded/classResourceSandeshMaps.html#a3475e1783f63633d0d3ecfb3cf6e7428" title="ResourceSandeshMaps\l::AddVlanMplsResourceEntry" alt="" coords="506,821,713,862"/>
+<area shape="rect" id="node25" href="$d7/ded/classResourceSandeshMaps.html#a6f5d1738476aeab5ab08ca095b248b3b" title="ResourceSandeshMaps\l::vlan_mpls_index_table" alt="" coords="519,755,699,797"/>
+<area shape="rect" id="node21" href="$df/d88/classVlanMplsBackUpResourceTable.html#ab7c63785e8085884fc90963af5159695" title="VlanMplsBackUpResourceTable::map" alt="" coords="771,861,1032,888"/>
+<area shape="rect" id="node27" href="$d7/ded/classResourceSandeshMaps.html#a37cd1f8b770f22b96f8f2a18f6a27b61" title="ResourceSandeshMaps\l::DeleteVrfMplsResourceEntry" alt="" coords="502,70,717,111"/>
+<area shape="rect" id="node29" href="$db/d4b/classVrfNHKey.html#abc7daf002ddc306d047fb8a8c764c3d7" title="VrfNHKey::GetVrfName" alt="" coords="523,136,696,163"/>
+<area shape="rect" id="node30" href="$db/d4b/classVrfNHKey.html#a9ca5fb2590905006e14801553abfadc3" title="VrfNHKey::GetBridgeNh" alt="" coords="522,187,697,213"/>
+<area shape="rect" id="node31" href="$d7/ded/classResourceSandeshMaps.html#a4bbb306156f7214a18b9e6703250038f" title="ResourceSandeshMaps\l::AddVrfMplsResourceEntry" alt="" coords="511,5,708,46"/>
+<area shape="rect" id="node32" href="$d7/ded/classResourceSandeshMaps.html#aa59a1534a8139e72935ecddab0f5a9d3" title="ResourceSandeshMaps\l::vrf_mpls_index_table" alt="" coords="524,238,695,279"/>
+<area shape="rect" id="node28" href="$da/dc8/classVrfMplsBackUpResourceTable.html#a5bc59e5aedba22fc5163112ec3a250af" title="VrfMplsBackUpResourceTable::map" alt="" coords="776,45,1027,72"/>
+</map>

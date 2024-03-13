@@ -1,0 +1,13 @@
+<map id="SandeshServer::SandeshServer" name="SandeshServer::SandeshServer">
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="278,63,479,89"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a7de4915ea03556ed492242fa80ad811a" title="TaskScheduler::SetPolicy" alt="" coords="287,164,470,191"/>
+<area shape="rect" id="node12" href="$d8/d4d/classSslServer.html#ad15b0273a2e03dc1b6cb7a2de13a87ae" title="SslServer::context" alt="" coords="309,215,449,241"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="528,12,744,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="805,5,995,46"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="793,139,1007,165"/>
+<area shape="rect" id="node7" href="$d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title="TaskGroup::GetTaskEntry" alt="" coords="808,240,992,267"/>
+<area shape="rect" id="node8" href="$d1/d72/classTaskGroup.html#ae9559f655b182cf1b81765411a7b20bf" title="TaskGroup::PolicySet" alt="" coords="557,215,715,241"/>
+<area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#a285d1b92f38039e4ad857e29bd9fdc8b" title="TaskGroup::AddPolicy" alt="" coords="555,265,717,292"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="TaskScheduler::GetTaskEntry" alt="" coords="531,164,741,191"/>
+<area shape="rect" id="node11" href="$d9/daa/classTaskEntry.html#a4b6d647952992a5f869dbf84351d59f3" title="TaskEntry::AddPolicy" alt="" coords="558,63,714,89"/>
+</map>

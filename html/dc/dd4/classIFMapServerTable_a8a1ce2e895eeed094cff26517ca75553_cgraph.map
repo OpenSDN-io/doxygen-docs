@@ -1,0 +1,12 @@
+<map id="IFMapServerTable::IFMapRemoveVrVmLink" name="IFMapServerTable::IFMapRemoveVrVmLink">
+<area shape="rect" id="node2" href="$dc/dd4/classIFMapServerTable.html#ac9aee53301b9f100f5e3be339ada6894" title="IFMapServerTable::FindLinkNode" alt="" coords="289,161,519,188"/>
+<area shape="rect" id="node7" href="$dc/dd4/classIFMapServerTable.html#a71297011e8fadd6de048bd491ef93197" title="IFMapServerTable::LinkNode\lDelete" alt="" coords="301,95,507,137"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="581,107,755,133"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title="DB::FindTable" alt="" coords="613,157,723,184"/>
+<area shape="rect" id="node5" href="$d5/d9c/classIFMapLinkTable.html#a89d7d9883fa218500225ae5f6e91a713" title="IFMapLinkTable::FindLink" alt="" coords="577,208,759,235"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="579,259,757,285"/>
+<area shape="rect" id="node8" href="$d0/dfa/classIFMapLink.html#a93ba589042b7a1894b2198b4d8df180b" title="IFMapLink::ToString" alt="" coords="595,5,741,32"/>
+<area shape="rect" id="node9" href="$d5/d9c/classIFMapLinkTable.html#aa419d7344dfab4fed5b95f2bb02647b4" title="IFMapLinkTable::DeleteLink" alt="" coords="569,56,767,83"/>
+<area shape="rect" id="node10" href="$d0/dfa/classIFMapLink.html#a3344e24aadbbf0a97d7c14524cd3787e" title="IFMapLink::RemoveOriginInfo" alt="" coords="817,27,1029,53"/>
+<area shape="rect" id="node11" href="$d0/dfa/classIFMapLink.html#a90d513d18a1707f2cfe02cdc9a2eca6f" title="IFMapLink::is_origin\l_empty" alt="" coords="847,78,998,119"/>
+</map>

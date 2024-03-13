@@ -1,0 +1,11 @@
+<map id="VnUveTableBase::SendVnAclRuleCount" name="VnUveTableBase::SendVnAclRuleCount">
+<area shape="rect" id="node2" href="$d6/de4/classVnUveEntryBase.html#a9a684727934eb63495a7978f3affaaaa" title="VnUveEntryBase::deleted" alt="" coords="275,5,463,32"/>
+<area shape="rect" id="node3" href="$d6/de4/classVnUveEntryBase.html#a8466fe6134f0dacdf75f4fd200397f94" title="VnUveEntryBase::vn" alt="" coords="292,56,447,83"/>
+<area shape="rect" id="node4" href="$d6/de4/classVnUveEntryBase.html#abbf92a83ead7737f4fe2bb859dbd72b1" title="VnUveEntryBase::FrameVnAcl\lRuleCountMsg" alt="" coords="261,107,477,149"/>
+<area shape="rect" id="node10" href="$d2/d48/classVnUveTableBase.html#ac0db99071ffa6a5fa75fde65cd704381" title="VnUveTableBase::Dispatch\lVnMsg" alt="" coords="271,173,467,214"/>
+<area shape="rect" id="node5" href="$d6/de4/classVnUveEntryBase.html#a4ba62af46a8be493b4c386f832a08b52" title="VnUveEntryBase::changed" alt="" coords="529,13,724,40"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="555,64,698,91"/>
+<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#af596554642c77bdccb22d70c80ac3e64" title="VnEntry::GetAcl" alt="" coords="565,115,688,141"/>
+<area shape="rect" id="node8" href="$de/d3a/classAclDBEntry.html#a991d9d9f4469c023d19efdc10f91cd03" title="AclDBEntry::Size" alt="" coords="562,165,691,192"/>
+<area shape="rect" id="node9" href="$d6/de4/classVnUveEntryBase.html#ad889acc4fb38e94ec508b9a9d1de7675" title="VnUveEntryBase::UveVnAcl\lRuleCountChanged" alt="" coords="525,217,728,258"/>
+</map>

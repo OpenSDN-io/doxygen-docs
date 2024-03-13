@@ -1,0 +1,6 @@
+<map id="etcdserverpb::AuthRoleDeleteResponse::MergeFrom" name="etcdserverpb::AuthRoleDeleteResponse::MergeFrom">
+<area shape="rect" id="node2" href="$d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a1ca2fafa618fe36f183d8366242eb181" title="etcdserverpb::AuthRoleDelete\lResponse::has_header" alt="" coords="269,5,485,46"/>
+<area shape="rect" id="node4" href="$d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ae4378c1375423f97fff0ba30e2f91b6a" title="etcdserverpb::AuthRoleDelete\lResponse::mutable_header" alt="" coords="269,70,485,111"/>
+<area shape="rect" id="node5" href="$d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ac1ddb8e763adab659b695937f79bf14d" title="etcdserverpb::AuthRoleDelete\lResponse::header" alt="" coords="269,135,485,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="533,5,757,46"/>
+</map>

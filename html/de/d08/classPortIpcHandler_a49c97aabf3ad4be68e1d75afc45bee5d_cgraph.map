@@ -1,0 +1,8 @@
+<map id="PortIpcHandler::AddVgwFromJson" name="PortIpcHandler::AddVgwFromJson">
+<area shape="rect" id="node2" href="$de/d08/classPortIpcHandler.html#a42898d872afc61ef85f193176b9bd025" title="PortIpcHandler::BuildGateway" alt="" coords="294,12,511,39"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="344,63,461,89"/>
+<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#a3e4f1bfa02b38ecfb23f331d83c1e766" title="AgentParam::vgw_config\l_table" alt="" coords="311,114,494,155"/>
+<area shape="rect" id="node7" href="$da/d40/classVirtualGatewayConfigTable.html#a37a5b172d5fdef11c326ec6fbcd398a3" title="VirtualGatewayConfigTable\l::Enqueue" alt="" coords="303,179,502,221"/>
+<area shape="rect" id="node3" href="$de/d08/classPortIpcHandler.html#a58bbbc3ddb176e8a3be737b6898007a4" title="PortIpcHandler::HasAllGateway\lFields" alt="" coords="560,5,787,46"/>
+<area shape="rect" id="node4" href="$de/d08/classPortIpcHandler.html#a3da3aad4ef4f36cdde052a1fd093d8ae" title="PortIpcHandler::ValidGateway\lJsonString" alt="" coords="835,5,1051,46"/>
+</map>

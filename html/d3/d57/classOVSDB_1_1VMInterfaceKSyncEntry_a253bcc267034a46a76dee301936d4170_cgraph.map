@@ -1,0 +1,6 @@
+<map id="OVSDB::VMInterfaceKSyncEntry::UnresolvedReference" name="OVSDB::VMInterfaceKSyncEntry::UnresolvedReference">
+<area shape="rect" id="node2" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html#a6f098ee51d80c72749d7c3b92a6d0e99" title="OVSDB::OvsdbDBObject\l::client_idl" alt="" coords="283,5,461,46"/>
+<area shape="rect" id="node3" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html#a3c07fe351d3728a9eb0c2c4eb9d32100" title="OVSDB::OvsdbClientIdl\l::ksync_obj_manager" alt="" coords="287,70,457,111"/>
+<area shape="rect" id="node5" href="$d1/dcb/classKSyncObjectManager.html#a193e3422aff66e14201077267da38bb3" title="KSyncObjectManager\l::default_defer_entry" alt="" coords="292,135,452,177"/>
+<area shape="rect" id="node4" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a6c853fd6c6a0f44645857cc1b8df94e2" title="OVSDB::OvsdbClientSession\l::ksync_obj_manager" alt="" coords="509,70,715,111"/>
+</map>

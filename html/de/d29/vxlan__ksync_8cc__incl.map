@@ -1,0 +1,24 @@
+<map id="vxlan_ksync.cc" name="vxlan_ksync.cc">
+<area shape="rect" id="node4" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="3437,80,3555,107"/>
+<area shape="rect" id="node8" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="1355,509,1464,536"/>
+<area shape="rect" id="node11" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="987,592,1097,619"/>
+<area shape="rect" id="node20" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="1762,336,1933,363"/>
+<area shape="rect" id="node23" href="$d6/dbe/ksync__index_8h.html" title="ksync/ksync_index.h" alt="" coords="677,419,835,445"/>
+<area shape="rect" id="node25" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="1305,419,1457,445"/>
+<area shape="rect" id="node29" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="975,336,1136,363"/>
+<area shape="rect" id="node33" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="1571,336,1737,363"/>
+<area shape="rect" id="node34" href="$d3/df3/ksync__sock_8h.html" title="ksync/ksync_sock.h" alt="" coords="2151,336,2301,363"/>
+<area shape="rect" id="node42" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="3119,509,3308,536"/>
+<area shape="rect" id="node44" href="$de/d3f/nexthop_8h.html" title="oper/nexthop.h" alt="" coords="3203,419,3323,445"/>
+<area shape="rect" id="node45" href="$d5/dc4/vxlan_8h.html" title="oper/vxlan.h" alt="" coords="2479,336,2581,363"/>
+<area shape="rect" id="node46" href="$de/db1/mirror__table_8h.html" title="oper/mirror_table.h" alt="" coords="3579,80,3725,107"/>
+<area shape="rect" id="node47" href="$db/d1d/interface__ksync_8h.html" title="vrouter/ksync/interface\l_ksync.h" alt="" coords="1263,246,1436,287"/>
+<area shape="rect" id="node48" href="$de/d9c/nexthop__ksync_8h.html" title="vrouter/ksync/nexthop\l_ksync.h" alt="" coords="1192,155,1360,197"/>
+<area shape="rect" id="node49" href="$d6/d65/vxlan__ksync_8h.html" title="vrouter/ksync/vxlan\l_ksync.h" alt="" coords="1461,246,1611,287"/>
+<area shape="rect" id="node50" href="$de/db6/ksync__init_8h.html" title="ksync_init.h" alt="" coords="1407,80,1507,107"/>
+<area shape="rect" id="node17" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1351,667,1441,693"/>
+<area shape="rect" id="node31" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="2155,419,2299,445"/>
+<area shape="rect" id="node32" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="297,419,399,445"/>
+<area shape="rect" id="node38" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2374,419,2500,445"/>
+<area shape="rect" id="node41" href="$d3/d5c/ksync__tx__queue_8h.html" title="ksync_tx_queue.h" alt="" coords="2580,592,2719,619"/>
+</map>

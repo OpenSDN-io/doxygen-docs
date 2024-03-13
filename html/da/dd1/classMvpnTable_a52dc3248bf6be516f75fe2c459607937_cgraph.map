@@ -1,0 +1,12 @@
+<map id="MvpnTable::CreateType4LeafADRoutePrefix" name="MvpnTable::CreateType4LeafADRoutePrefix">
+<area shape="rect" id="node2" href="$de/d0e/classMvpnRoute.html#aebc002c7b873c2ceddabcc798b62ec45" title="MvpnRoute::GetPrefix" alt="" coords="284,5,447,32"/>
+<area shape="rect" id="node3" href="$dd/d42/classMvpnPrefix.html#a6c9ffac411158dbf39b9b70c8073e058" title="MvpnPrefix::type" alt="" coords="565,107,696,133"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="300,56,431,83"/>
+<area shape="rect" id="node6" href="$dd/d42/classMvpnPrefix.html#a01cbba3651bdc9337c3837e860645198" title="MvpnPrefix::SetLeafADPrefix\lFromSPMSIPrefix" alt="" coords="262,201,469,242"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="543,56,718,83"/>
+<area shape="rect" id="node7" href="$dd/d42/classMvpnPrefix.html#a90d19f8fc0073553b35258f05ceede6b" title="MvpnPrefix::route_distinguisher" alt="" coords="517,259,744,285"/>
+<area shape="rect" id="node8" href="$dc/d73/classRouteDistinguisher.html#a2627a4b2d81d5864f26c11ced6c03ae6" title="RouteDistinguisher\l::GetData" alt="" coords="558,310,703,351"/>
+<area shape="rect" id="node9" href="$dd/d42/classMvpnPrefix.html#aac84d9b12802c1ca68902394389ca03d" title="MvpnPrefix::source" alt="" coords="558,376,703,403"/>
+<area shape="rect" id="node10" href="$dd/d42/classMvpnPrefix.html#ab547041c13c489acc3c50a3051c980e8" title="MvpnPrefix::group" alt="" coords="561,157,700,184"/>
+<area shape="rect" id="node11" href="$dd/d42/classMvpnPrefix.html#a0a7e8c6292c60344cc338bba723c24a9" title="MvpnPrefix::originator" alt="" coords="548,208,713,235"/>
+</map>

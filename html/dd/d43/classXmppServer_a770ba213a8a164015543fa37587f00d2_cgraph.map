@@ -1,0 +1,17 @@
+<map id="XmppServer::Initialize" name="XmppServer::Initialize">
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title="TcpServer::Initialize" alt="" coords="221,107,371,133"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#ae50c5d093e636226d5137612f81dd76a" title="TcpServer::InitializeInternal" alt="" coords="419,107,618,133"/>
+<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="1147,187,1336,213"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="667,56,853,83"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#adeadb74d89ea5c2e08528e39514d7264" title="TcpSession::local_endpoint" alt="" coords="902,107,1098,133"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#af388d3c33a40af67fc923cb41b510370" title="TcpServer::SetName" alt="" coords="683,5,837,32"/>
+<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#abf1900123d3ee0a062316a6ee442e60b" title="TcpServer::AsyncAccept" alt="" coords="672,275,848,301"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1169,107,1313,133"/>
+<area shape="rect" id="node10" href="$de/df9/classTcpServer.html#ae32fe7c040353fd774504cc9cfa89b0f" title="TcpServer::set_accept\l_socket" alt="" coords="919,209,1081,250"/>
+<area shape="rect" id="node11" href="$de/df9/classTcpServer.html#aa5b13b14fbca3b11c7241660a8bae5f5" title="TcpServer::accept_socket" alt="" coords="1148,275,1335,301"/>
+<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#a889b149a62398c6ca0178ed91a774a9d" title="TcpServer::AcceptHandler\lInternal" alt="" coords="906,326,1094,367"/>
+<area shape="rect" id="node13" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="1154,392,1329,419"/>
+<area shape="rect" id="node14" href="$de/df9/classTcpServer.html#af9caeafa9ae2a549a8c24e240831c0ef" title="TcpServer::AcceptHandler\lComplete" alt="" coords="1147,326,1335,367"/>
+<area shape="rect" id="node15" href="$de/df9/classTcpServer.html#af0d2a32ff8dd6059049a7f5539467a67" title="TcpServer::AcceptSession" alt="" coords="1384,304,1571,331"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title="TcpServer::InsertSession\lToMap" alt="" coords="1387,355,1567,397"/>
+</map>

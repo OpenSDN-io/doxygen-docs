@@ -1,0 +1,11 @@
+<map id="AgentDnsXmppChannel::UpdateConnectionInfo" name="AgentDnsXmppChannel::UpdateConnectionInfo">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#abf223d7bcb0c6f100e72ba7f0d482943" title="Agent::connection_state" alt="" coords="251,5,429,32"/>
+<area shape="rect" id="node3" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="268,56,412,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a8bcd698ec2f06877505fd3c8ddf18171" title="Agent::dns_server" alt="" coords="271,107,409,133"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#ab8e89d87503ea410eb9aa39e609e84e9" title="Agent::dns_server_port" alt="" coords="254,157,426,184"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a89406f39a1c63ec7388d8255d9c7f3d9" title="Agent::xmpp_dns_server\l_prefix" alt="" coords="249,209,431,250"/>
+<area shape="rect" id="node8" href="$d5/d06/classAgentDnsXmppChannel.html#ab8d313e9a0a1183c66d1b602d565b623" title="AgentDnsXmppChannel\l::GetXmppChannel" alt="" coords="252,274,428,315"/>
+<area shape="rect" id="node9" href="$d6/d81/classXmppChannel.html#aa787f2420f27dcb86ffd384838df0458" title="XmppChannel::LastStateName" alt="" coords="229,340,451,367"/>
+<area shape="rect" id="node10" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title="process::ConnectionState\l::Update" alt="" coords="247,391,433,433"/>
+<area shape="rect" id="node4" href="$de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="499,56,586,83"/>
+</map>

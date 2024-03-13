@@ -1,0 +1,29 @@
+<map id="vrf_stats_io_context.cc" name="vrf_stats_io_context.cc">
+<area shape="rect" id="node2" href="$db/d61/vrf__stats__io__context_8h.html" title="vrouter/stats_collector\l/vrf_stats_io_context.h" alt="" coords="2363,81,2533,122"/>
+<area shape="rect" id="node44" href="$d6/d40/agent__stats__collector_8h.html" title="vrouter/stats_collector\l/agent_stats_collector.h" alt="" coords="2163,81,2339,122"/>
+<area shape="rect" id="node39" href="$d8/dd7/agent__uve_8h.html" title="uve/agent_uve.h" alt="" coords="365,344,496,371"/>
+<area shape="rect" id="node46" href="$d1/d5d/vn__uve__table_8h.html" title="uve/vn_uve_table.h" alt="" coords="705,88,855,115"/>
+<area shape="rect" id="node3" href="$d0/d9e/agent__stats__sandesh__context_8h.html" title="vrouter/stats_collector\l/agent_stats_sandesh_context.h" alt="" coords="2335,171,2565,213"/>
+<area shape="rect" id="node4" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="1017,733,1087,760"/>
+<area shape="rect" id="node8" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1821,651,1960,677"/>
+<area shape="rect" id="node15" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="1669,501,1859,528"/>
+<area shape="rect" id="node16" href="$d4/da9/interface_8h.html" title="oper/interface.h" alt="" coords="1827,576,1952,603"/>
+<area shape="rect" id="node17" href="$de/db1/mirror__table_8h.html" title="oper/mirror_table.h" alt="" coords="2035,501,2181,528"/>
+<area shape="rect" id="node18" href="$d6/dbe/ksync__index_8h.html" title="ksync/ksync_index.h" alt="" coords="3219,501,3376,528"/>
+<area shape="rect" id="node20" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="2726,651,2879,677"/>
+<area shape="rect" id="node22" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="3017,427,3177,453"/>
+<area shape="rect" id="node26" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="2189,651,2355,677"/>
+<area shape="rect" id="node27" href="$d3/df3/ksync__sock_8h.html" title="ksync/ksync_sock.h" alt="" coords="2525,427,2675,453"/>
+<area shape="rect" id="node34" href="$d6/d36/stats__manager_8h.html" title="uve/stats_manager.h" alt="" coords="1278,261,1436,288"/>
+<area shape="rect" id="node11" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="2553,733,2663,760"/>
+<area shape="rect" id="node24" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="995,501,1139,528"/>
+<area shape="rect" id="node36" href="$d2/d0e/flow__uve__stats__request_8h.html" title="uve/flow_uve_stats\l_request.h" alt="" coords="1328,337,1475,378"/>
+<area shape="rect" id="node37" href="$d7/d01/flow__table_8h.html" title="pkt/flow_table.h" alt="" coords="1265,427,1391,453"/>
+<area shape="rect" id="node38" href="$de/d2b/vn_8h.html" title="oper/vn.h" alt="" coords="1517,576,1600,603"/>
+<area shape="rect" id="node40" href="$d5/d60/agent__uve__base_8h.html" title="uve/agent_uve_base.h" alt="" coords="347,427,515,453"/>
+<area shape="rect" id="node41" href="$d6/da6/vn__uve__table__base_8h.html" title="uve/vn_uve_table_base.h" alt="" coords="296,501,483,528"/>
+<area shape="rect" id="node45" href="$d9/da3/stats__collector_8h.html" title="uve/stats_collector.h" alt="" coords="894,427,1049,453"/>
+<area shape="rect" id="node47" href="$d4/d5c/flow__proto_8h.html" title="pkt/flow_proto.h" alt="" coords="1177,344,1303,371"/>
+<area shape="rect" id="node48" href="$d9/d59/l4__port__bitmap_8h.html" title="uve/l4_port_bitmap.h" alt="" coords="144,261,304,288"/>
+<area shape="rect" id="node49" href="$d4/de0/vn__uve__entry_8h.html" title="uve/vn_uve_entry.h" alt="" coords="1054,179,1201,205"/>
+</map>

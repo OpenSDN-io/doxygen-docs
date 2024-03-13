@@ -1,0 +1,10 @@
+<map id="SegmentHealthCheckPkt::UpdateService" name="SegmentHealthCheckPkt::UpdateService">
+<area shape="rect" id="node2" href="$d3/d19/classSegmentHealthCheckPkt.html#a8f1a8c7935736a1944b6cd463f021a63" title="SegmentHealthCheckPkt\l::GetDelay" alt="" coords="237,74,421,115"/>
+<area shape="rect" id="node6" href="$d3/d19/classSegmentHealthCheckPkt.html#a46c3fd57438b80e0dbbce4383c47578b" title="SegmentHealthCheckPkt\l::GetTimeout" alt="" coords="237,194,421,235"/>
+<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="469,135,661,177"/>
+<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#a11908f903749eb24a02dc436f742fe3f" title="HealthCheckService\l::max_retries" alt="" coords="253,259,406,301"/>
+<area shape="rect" id="node4" href="$dd/df6/classHealthCheckService.html#a854170581581ad536da4600135c21b67" title="HealthCheckService\l::delay" alt="" coords="489,5,642,46"/>
+<area shape="rect" id="node5" href="$dd/df6/classHealthCheckService.html#a8324b92d108d3aaec82b25a1bc342b3b" title="HealthCheckService\l::delay_usecs" alt="" coords="489,70,642,111"/>
+<area shape="rect" id="node7" href="$dd/df6/classHealthCheckService.html#ae73c232afc4b9e36357c980cb16cb7e4" title="HealthCheckService\l::timeout" alt="" coords="489,266,642,307"/>
+<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#a60bc043f030cefbf520d71967f0ea233" title="HealthCheckService\l::timeout_usecs" alt="" coords="489,201,642,242"/>
+</map>

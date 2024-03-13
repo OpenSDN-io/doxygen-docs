@@ -1,0 +1,26 @@
+<map id="InterfaceTable::VmiIFNodeToReq" name="InterfaceTable::VmiIFNodeToReq">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="753,12,930,38"/>
+<area shape="rect" id="node3" href="$de/d08/classPortIpcHandler.html#a787584de425f2bdf628338b204909d17" title="PortIpcHandler::port\l_subscribe_table" alt="" coords="271,390,423,431"/>
+<area shape="rect" id="node4" href="$dc/d1c/classPortSubscribeTable.html#a5d29801bd5fb510442ca8d599e68e022" title="PortSubscribeTable\l::HandleVmiIfnodeDelete" alt="" coords="253,455,440,496"/>
+<area shape="rect" id="node5" href="$d8/df5/vm__interface__config_8cc.html#abcd69c5e083a88d6d469cf33dfe0f567" title="DeleteVmi" alt="" coords="301,157,392,184"/>
+<area shape="rect" id="node16" href="$dd/dd0/classIFMapDependencyManager.html#a3bf8c7a26a5d9ab90ffefcd6c9113d2c" title="IFMapDependencyManager\l::IFMapNodeGet" alt="" coords="248,324,445,366"/>
+<area shape="rect" id="node21" href="$dd/dd0/classIFMapDependencyManager.html#a9c927196b991040f4bf668867a93f5c2" title="IFMapDependencyManager\l::SetState" alt="" coords="248,259,445,300"/>
+<area shape="rect" id="node24" href="$de/d02/classIFMapNodeState.html#a12083a5674b2d84cd01de0f7fd821bbe" title="IFMapNodeState::uuid" alt="" coords="265,521,429,548"/>
+<area shape="rect" id="node25" href="$de/d02/classIFMapNodeState.html#a7c17347346e2f4ceeafb2d8aa93bedb9" title="IFMapNodeState::set_uuid" alt="" coords="251,572,442,598"/>
+<area shape="rect" id="node6" href="$d2/d73/classInterfaceTable.html#a3a95ed7ef4184a63aeb7e8977cb9e8ea" title="InterfaceTable::GetVmiTo\lVmiType" alt="" coords="494,84,679,126"/>
+<area shape="rect" id="node7" href="$d2/d73/classInterfaceTable.html#a0404fe1fd07415d1cfe471d1943d090b" title="InterfaceTable::DelVmiTo\lVmiType" alt="" coords="495,150,679,191"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="501,317,672,344"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#acc953efdd0e5f8b379b93cfd2be95260" title="DBEntryBase::Delete" alt="" coords="507,33,666,60"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="728,270,955,297"/>
+<area shape="rect" id="node10" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="778,321,905,348"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="753,372,929,398"/>
+<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="750,62,933,89"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="1003,37,1194,64"/>
+<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="1014,88,1183,114"/>
+<area shape="rect" id="node17" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="519,368,654,394"/>
+<area shape="rect" id="node18" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="511,418,663,445"/>
+<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="501,266,673,293"/>
+<area shape="rect" id="node20" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="747,204,936,246"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="501,216,672,242"/>
+<area shape="rect" id="node23" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="738,139,945,180"/>
+</map>

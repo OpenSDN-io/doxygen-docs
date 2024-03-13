@@ -1,0 +1,10 @@
+<map id="XmppStateMachine::XmppStateMachine" name="XmppStateMachine::XmppStateMachine">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#ad13fa71faaa6a3230fa7b48f510d853f" title="XmppConnection::ProcessSsl\lHandShakeResponse" alt="" coords="283,99,493,141"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="559,5,734,46"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a4e41efc97785d44dc7429da9c024b15e" title="XmppConnection::inc\l_handshake_failure" alt="" coords="567,70,727,111"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="543,136,750,163"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a9a4047eaa7fb2f13f7247bd64f3d6108" title="XmppStateMachine::OnEvent" alt="" coords="541,187,752,213"/>
+<area shape="rect" id="node7" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="804,161,1009,188"/>
+<area shape="rect" id="node8" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="801,212,1013,239"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1062,212,1223,239"/>
+</map>

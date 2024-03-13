@@ -1,0 +1,13 @@
+<map id="InetVpnRoute::BuildProtoPrefix" name="InetVpnRoute::BuildProtoPrefix">
+<area shape="rect" id="node2" href="$df/d24/classInetVpnPrefix.html#a2f8b653b9c92bd60cc5b6877417cab14" title="InetVpnPrefix::BuildProto\lPrefix" alt="" coords="237,99,421,141"/>
+<area shape="rect" id="node3" href="$d5/dcf/classBgpAttr.html#af6afb530f7ea7a9519513850ba6e5097" title="BgpAttr::ext_community" alt="" coords="492,19,673,45"/>
+<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a17bcf4fae68697ec01116518090fb3b5" title="ExtCommunity::ContainsTunnel\lEncapVxlan" alt="" coords="470,70,695,111"/>
+<area shape="rect" id="node10" href="$da/dcb/structBgpProtoPrefix.html#a12dcdd8a5203d2bbdedaa577bfacc653" title="BgpProtoPrefix::WriteLabel" alt="" coords="485,136,680,163"/>
+<area shape="rect" id="node12" href="$dc/d73/classRouteDistinguisher.html#a2627a4b2d81d5864f26c11ced6c03ae6" title="RouteDistinguisher\l::GetData" alt="" coords="510,187,655,229"/>
+<area shape="rect" id="node5" href="$da/d36/classExtCommunity.html#a02cdb9d746b06a359d2ddaa1b8362c82" title="ExtCommunity::is_tunnel\l_encap" alt="" coords="745,5,930,46"/>
+<area shape="rect" id="node6" href="$d7/dad/classTunnelEncap.html#a19491538864bf0ecbfa5640abc48d4fe" title="TunnelEncap::tunnel\l_encap" alt="" coords="761,70,913,111"/>
+<area shape="rect" id="node7" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title="get_value" alt="" coords="1047,48,1134,75"/>
+<area shape="rect" id="node9" href="$dc/d3b/classTunnelEncapType.html#a6900a5eec8f61b4eb8570e564c7c9cf0" title="TunnelEncapType::TunnelEncap\lIsValid" alt="" coords="979,99,1202,141"/>
+<area shape="rect" id="node8" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title="get_short" alt="" coords="1251,48,1333,75"/>
+<area shape="rect" id="node11" href="$d1/d66/parse__object_8h.html#a12db15c31d40f1de11a1e07bde47220b" title="put_value" alt="" coords="794,136,881,163"/>
+</map>

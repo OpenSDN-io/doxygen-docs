@@ -1,0 +1,21 @@
+<map id="SandeshClientSMImpl::StatisticsTimerExpired" name="SandeshClientSMImpl::StatisticsTimerExpired">
+<area shape="rect" id="node2" href="$da/d7f/classSandeshEventStatistics.html#a11aca4efff69425d934d527b0510f0a8" title="SandeshEventStatistics::Get" alt="" coords="239,5,444,32"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a324a23e345d56078c427ef3da64b5cd2" title="WorkQueue::Length" alt="" coords="267,56,416,83"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#aa7a2f55e15b420de0a95b072f9bb1fde" title="WorkQueue::max_queue_len" alt="" coords="237,107,445,133"/>
+<area shape="rect" id="node5" href="$d0/da4/classSandeshClientSMImpl.html#a8796735a03a6488ac9e36d5435b55458" title="SandeshClientSMImpl\l::StateName" alt="" coords="517,111,680,153"/>
+<area shape="rect" id="node6" href="$d0/da4/classSandeshClientSMImpl.html#a8f464e303bb29f78ed0d7b68f754ad5a" title="SandeshClientSMImpl\l::LastStateName" alt="" coords="260,274,423,315"/>
+<area shape="rect" id="node7" href="$d0/da4/classSandeshClientSMImpl.html#ae96117d4d95c5605c820252b70cd29c6" title="SandeshClientSMImpl\l::last_event" alt="" coords="260,339,423,381"/>
+<area shape="rect" id="node8" href="$dd/d68/classSandeshClientSM.html#a1ed0a51f8590f8283b8a66979d6c4ec6" title="SandeshClientSM::session" alt="" coords="246,405,437,432"/>
+<area shape="rect" id="node9" href="$d1/dfd/classSandeshSession.html#a1cc49a52baa7f58818726207bad9ddbd" title="SandeshSession::GetStats" alt="" coords="246,456,437,483"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a0e6f222b628b784bcf96984ff6224e7f" title="TcpSession::GetRxSocketStats" alt="" coords="232,507,451,533"/>
+<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#a35990edea777457904f49b163223932b" title="TcpSession::GetTxSocketStats" alt="" coords="233,557,450,584"/>
+<area shape="rect" id="node15" href="$d0/da4/classSandeshClientSMImpl.html#abbaa7b03457913646bee17bd8cfcc78d" title="SandeshClientSMImpl\l::SendUVE" alt="" coords="260,209,423,250"/>
+<area shape="rect" id="node20" href="$d5/d70/classSandeshUVETypeMaps.html#aab78625cc875d489e5de93b93d075df2" title="SandeshUVETypeMaps\l::SyncAllMaps" alt="" coords="257,609,425,650"/>
+<area shape="rect" id="node11" href="$d2/dfc/structio_1_1SocketStats.html#a3f76ee4c9fd60a43d0f063144df818e2" title="io::SocketStats::GetRxStats" alt="" coords="499,507,699,533"/>
+<area shape="rect" id="node12" href="$d0/d91/time__util_8h.html#ab0ae1c4163ab19a2e0e20693931ce04c" title="duration_usecs_to_string" alt="" coords="747,532,931,559"/>
+<area shape="rect" id="node14" href="$d2/dfc/structio_1_1SocketStats.html#a339b8e438aca887312aa0ddc1b8e4907" title="io::SocketStats::GetTxStats" alt="" coords="499,557,698,584"/>
+<area shape="rect" id="node16" href="$d3/de9/classSandeshClientSM_1_1Mgr.html#ae9fed5f626ade69a872695b82c12815c" title="SandeshClientSM::Mgr\l::SendUVE" alt="" coords="515,177,682,218"/>
+<area shape="rect" id="node17" href="$d0/da4/classSandeshClientSMImpl.html#a11d91f64d08d9e0ea8956db018b6dc41" title="SandeshClientSMImpl\l::connects" alt="" coords="517,242,680,283"/>
+<area shape="rect" id="node18" href="$d0/da4/classSandeshClientSMImpl.html#ae3396ff39b197cdc7dc21890aabaec63" title="SandeshClientSMImpl\l::collector_name" alt="" coords="517,307,680,349"/>
+<area shape="rect" id="node19" href="$dd/d68/classSandeshClientSM.html#a3ba706b4a47222442a54cdd19b1ccca9" title="SandeshClientSM::server" alt="" coords="507,373,690,400"/>
+</map>

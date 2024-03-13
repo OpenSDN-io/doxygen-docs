@@ -1,0 +1,20 @@
+<map id="BgpPeer::DelPeerRoutes" name="BgpPeer::DelPeerRoutes">
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a56e4bbfa5ee79e0a9009d50597b77c22" title="BgpPeer::ReleaseDeleteStale\lWalker" alt="" coords="232,5,443,46"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a1cd455db2079634d8de2e3e01a3efa70" title="BgpPeer::delete_peer\l_walker" alt="" coords="257,70,418,111"/>
+<area shape="rect" id="node4" href="$d4/de8/classControllerRouteWalker.html#a779ddb7122775f9b98f60524dcb3a005" title="ControllerRouteWalker\l::set_sequence_number" alt="" coords="249,135,425,177"/>
+<area shape="rect" id="node6" href="$d4/de8/classControllerRouteWalker.html#af8347e9d45ed2dfac6723267ea451605" title="ControllerRouteWalker\l::Start" alt="" coords="253,201,421,242"/>
+<area shape="rect" id="node5" href="$d4/de8/classControllerRouteWalker.html#af67fec222cb8e7e0884f20c7c1028c63" title="ControllerRouteWalker\l::sequence_number" alt="" coords="523,135,691,177"/>
+<area shape="rect" id="node7" href="$dc/db1/classAgentRouteWalker.html#aab11a4025c9d91942c4bab78fd94d574" title="AgentRouteWalker::WalkDone\lCallback" alt="" coords="499,201,715,242"/>
+<area shape="rect" id="node8" href="$dc/db1/classAgentRouteWalker.html#aa34dec26f0622e128c2ecb6e08bc2d5a" title="AgentRouteWalker::StartVrfWalk" alt="" coords="491,267,723,293"/>
+<area shape="rect" id="node9" href="$d6/dda/classAgentRouteWalkerManager.html#a7947f7d2abd7916f47701a56fd5e0d55" title="AgentRouteWalkerManager\l::ValidateAgentRouteWalker" alt="" coords="777,165,980,206"/>
+<area shape="rect" id="node10" href="$dc/db1/classAgentRouteWalker.html#af204dec1ab160badc617d872fbc10565" title="AgentRouteWalker::Increment\lWalkCount" alt="" coords="771,230,987,271"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="815,296,942,323"/>
+<area shape="rect" id="node12" href="$d5/d0a/classDBTable.html#a000743f5b39b3e1fc06dbc9f443b8ffa" title="DBTable::WalkAgain" alt="" coords="803,347,955,373"/>
+<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="1051,296,1226,323"/>
+<area shape="rect" id="node14" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="1075,347,1203,373"/>
+<area shape="rect" id="node15" href="$d1/dec/classDBTableWalkMgr.html#ad70c4095ebf0729628aa22ff2775ed0e" title="DBTableWalkMgr::WalkAgain" alt="" coords="1035,397,1243,424"/>
+<area shape="rect" id="node16" href="$d1/dec/classDBTableWalkMgr.html#a7d6aa8aed83cc74f1c575a3cfe31a0c0" title="DBTableWalkMgr::WalkTable" alt="" coords="1291,397,1496,424"/>
+<area shape="rect" id="node17" href="$d7/df2/classDBTableBase.html#afab5f8f9b7524b615ef88c0e2837e916" title="DBTableBase::incr_walk\l_again_count" alt="" coords="1567,325,1745,366"/>
+<area shape="rect" id="node18" href="$d7/df2/classDBTableBase.html#a34510ab3477d9ed627127134fadafc32" title="DBTableBase::incr_walk\l_request_count" alt="" coords="1567,390,1745,431"/>
+<area shape="rect" id="node19" href="$da/d93/structDBTableWalkMgr_1_1WalkRequestInfo.html#a12d5d34c8420a60c363d688f16938af2" title="DBTableWalkMgr::WalkRequest\lInfo::AppendWalkReq" alt="" coords="1545,455,1767,497"/>
+</map>

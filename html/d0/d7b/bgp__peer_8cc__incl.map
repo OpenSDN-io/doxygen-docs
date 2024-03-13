@@ -1,0 +1,37 @@
+<map id="bgp_peer.cc" name="bgp_peer.cc">
+<area shape="rect" id="node2" href="$de/d2b/bgp__peer_8h.html" title="bgp/bgp_peer.h" alt="" coords="2119,88,2240,115"/>
+<area shape="rect" id="node24" href="$db/ddd/set__util_8h.html" title="base/set_util.h" alt="" coords="5883,88,6000,115"/>
+<area shape="rect" id="node25" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="1675,179,1856,205"/>
+<area shape="rect" id="node26" href="$d8/de2/bgp__factory_8h.html" title="bgp/bgp_factory.h" alt="" coords="4221,179,4357,205"/>
+<area shape="rect" id="node27" href="$d1/d1a/bgp__log_8h.html" title="bgp/bgp_log.h" alt="" coords="1431,88,1544,115"/>
+<area shape="rect" id="node29" href="$d8/d13/bgp__membership_8h.html" title="bgp/bgp_membership.h" alt="" coords="1062,179,1236,205"/>
+<area shape="rect" id="node30" href="$d9/ddc/bgp__peer__close_8h.html" title="bgp/bgp_peer_close.h" alt="" coords="3225,179,3388,205"/>
+<area shape="rect" id="node31" href="$d8/df1/bgp__sandesh_8h.html" title="bgp/bgp_sandesh.h" alt="" coords="3623,179,3769,205"/>
+<area shape="rect" id="node28" href="$d6/d53/bgp__server_8h.html" title="bgp/bgp_server.h" alt="" coords="1261,179,1395,205"/>
+<area shape="rect" id="node32" href="$dd/d08/bgp__session_8h.html" title="bgp/bgp_session.h" alt="" coords="3058,179,3200,205"/>
+<area shape="rect" id="node33" href="$d9/daa/bgp__session__manager_8h.html" title="bgp/bgp_session_manager.h" alt="" coords="599,179,805,205"/>
+<area shape="rect" id="node35" href="$d1/da6/community_8h.html" title="bgp/community.h" alt="" coords="3413,179,3547,205"/>
+<area shape="rect" id="node36" href="$d3/d47/ermvpn__table_8h.html" title="bgp/ermvpn/ermvpn_table.h" alt="" coords="5022,88,5228,115"/>
+<area shape="rect" id="node37" href="$d7/d7d/evpn__table_8h.html" title="bgp/evpn/evpn_table.h" alt="" coords="3869,88,4040,115"/>
+<area shape="rect" id="node38" href="$db/d6f/inet__table_8h.html" title="bgp/inet/inet_table.h" alt="" coords="3845,179,4000,205"/>
+<area shape="rect" id="node39" href="$d2/d69/inet6__table_8h.html" title="bgp/inet6/inet6_table.h" alt="" coords="4025,179,4196,205"/>
+<area shape="rect" id="node40" href="$d5/d95/inet6vpn__table_8h.html" title="bgp/inet6vpn/inet6vpn\l_table.h" alt="" coords="4064,81,4232,122"/>
+<area shape="rect" id="node41" href="$dc/da0/inetvpn__table_8h.html" title="bgp/l3vpn/inetvpn_table.h" alt="" coords="4257,88,4447,115"/>
+<area shape="rect" id="node42" href="$df/d66/mvpn__table_8h.html" title="bgp/mvpn/mvpn_table.h" alt="" coords="1419,179,1599,205"/>
+<area shape="rect" id="node43" href="$de/d17/peer__close__manager_8h.html" title="bgp/peer_close_manager.h" alt="" coords="3649,88,3844,115"/>
+<area shape="rect" id="node44" href="$d9/db3/peer__manager_8h.html" title="bgp/routing&#45;instance\l/peer_manager.h" alt="" coords="339,81,495,122"/>
+<area shape="rect" id="node45" href="$d0/df1/routing__instance_8h.html" title="bgp/routing&#45;instance\l/routing_instance.h" alt="" coords="882,171,1037,213"/>
+<area shape="rect" id="node46" href="$df/de5/routing__policy__match_8h.html" title="bgp/routing&#45;policy\l/routing_policy_match.h" alt="" coords="2879,81,3057,122"/>
+<area shape="rect" id="node47" href="$d2/d37/rtarget__table_8h.html" title="bgp/rtarget/rtarget\l_table.h" alt="" coords="4471,81,4613,122"/>
+<area shape="rect" id="node48" href="$d3/d6d/tunnel__encap_8h.html" title="bgp/tunnel_encap/tunnel\l_encap.h" alt="" coords="4638,81,4820,122"/>
+<area shape="rect" id="node49" href="$d7/d10/control__node_8h.html" title="control&#45;node/control\l_node.h" alt="" coords="4845,81,4997,122"/>
+<area shape="rect" id="node50" href="$dd/d13/config__client__manager_8h.html" title="config&#45;client&#45;mgr/config\l_client_manager.h" alt="" coords="399,171,575,213"/>
+<area shape="rect" id="node11" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="1049,261,1169,288"/>
+<area shape="rect" id="node12" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="2923,336,3013,363"/>
+<area shape="rect" id="node13" href="$de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="2243,179,2389,205"/>
+<area shape="rect" id="node14" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="2571,179,2673,205"/>
+<area shape="rect" id="node15" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2807,261,2927,288"/>
+<area shape="rect" id="node16" href="$df/d8a/bgp__config_8h.html" title="bgp/bgp_config.h" alt="" coords="2902,179,3033,205"/>
+<area shape="rect" id="node18" href="$da/dab/bgp__debug_8h.html" title="bgp/bgp_debug.h" alt="" coords="2413,179,2547,205"/>
+<area shape="rect" id="node19" href="$d7/de6/bgp__peer__key_8h.html" title="bgp/bgp_peer_key.h" alt="" coords="71,179,221,205"/>
+</map>

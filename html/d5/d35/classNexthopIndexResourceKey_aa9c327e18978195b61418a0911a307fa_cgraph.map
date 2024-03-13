@@ -1,0 +1,17 @@
+<map id="NexthopIndexResourceKey::BackupInterfaceResource" name="NexthopIndexResourceKey::BackupInterfaceResource">
+<area shape="rect" id="node2" href="$d5/d35/classNexthopIndexResourceKey.html#aef1c65d98234c87a2dcdabda55b026a6" title="NexthopIndexResourceKey\l::GetNhKey" alt="" coords="266,5,462,46"/>
+<area shape="rect" id="node3" href="$de/d17/classResourceKey.html#a61d785a31bcc332eb4a066628b77ea03" title="ResourceKey::rm" alt="" coords="299,71,429,97"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a1bc48f6fc96edb586f87b610df2e2b3e" title="ResourceManager::backup_mgr" alt="" coords="251,121,477,148"/>
+<area shape="rect" id="node5" href="$d8/d72/classIndexResourceData.html#af17ccea20a8699b0c1e86715d5e800b8" title="IndexResourceData::\lindex" alt="" coords="286,173,442,214"/>
+<area shape="rect" id="node6" href="$d1/dfa/classInterfaceNHKey.html#a0b43efd288e280efe5a3f4bf63db7a33" title="InterfaceNHKey::intf_type" alt="" coords="269,239,459,265"/>
+<area shape="rect" id="node7" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="312,289,416,316"/>
+<area shape="rect" id="node8" href="$d1/dfa/classInterfaceNHKey.html#af18882f45c2c58a051c08ad050f8b6ae" title="InterfaceNHKey::GetUuid" alt="" coords="272,340,456,367"/>
+<area shape="rect" id="node9" href="$d1/dfa/classInterfaceNHKey.html#aa95d1d5b4a06826ae029b8c298b72864" title="InterfaceNHKey::name" alt="" coords="280,391,448,417"/>
+<area shape="rect" id="node10" href="$d1/dcc/classNextHopKey.html#a41df1103c822d95db7b97cb0f5ed5462" title="NextHopKey::GetPolicy" alt="" coords="278,441,450,468"/>
+<area shape="rect" id="node11" href="$d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="283,492,445,519"/>
+<area shape="rect" id="node12" href="$d1/dfa/classInterfaceNHKey.html#a3621de2e2f3b5223f6880c7539c94fd7" title="InterfaceNHKey::dmac" alt="" coords="281,543,447,569"/>
+<area shape="rect" id="node13" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="284,593,444,620"/>
+<area shape="rect" id="node14" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="287,644,441,671"/>
+<area shape="rect" id="node15" href="$db/d1b/classResourceBackupManager.html#a9a7bd8672281a2b175181b7ebf698d5b" title="ResourceBackupManager\l::sandesh_maps" alt="" coords="271,695,457,737"/>
+<area shape="rect" id="node16" href="$d7/ded/classResourceSandeshMaps.html#a5d9b80cefa6d2b59b9ead444d86a14f0" title="ResourceSandeshMaps\l::interface_mpls_index_table" alt="" coords="259,761,469,802"/>
+</map>

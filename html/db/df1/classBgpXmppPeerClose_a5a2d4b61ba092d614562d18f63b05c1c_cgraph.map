@@ -1,0 +1,8 @@
+<map id="BgpXmppPeerClose::Delete" name="BgpXmppPeerClose::Delete">
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#ac4cd4af4e47d5c895caa44db69ab6a47" title="BgpXmppChannel::set\l_delete_in_progress" alt="" coords="275,5,442,46"/>
+<area shape="rect" id="node3" href="$d6/dbf/classBgpXmppChannel.html#a552f85eda164a24e268c38d05dde6ec8" title="BgpXmppChannel::set\l_peer_closed" alt="" coords="275,70,442,111"/>
+<area shape="rect" id="node4" href="$d6/dbf/classBgpXmppChannel.html#a86d5f2d912b25236963ceb370a776971" title="BgpXmppChannel::manager" alt="" coords="257,136,461,163"/>
+<area shape="rect" id="node5" href="$dd/dfb/classBgpXmppChannelManager.html#ab71cf6b90955a7ad708a8ff71c84042d" title="BgpXmppChannelManager\l::increment_deleting_count" alt="" coords="259,187,458,229"/>
+<area shape="rect" id="node6" href="$dd/dfb/classBgpXmppChannelManager.html#aad42c5c1b862d32887f5f9c696254ff0" title="BgpXmppChannelManager\l::Enqueue" alt="" coords="261,253,456,294"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="510,260,671,287"/>
+</map>

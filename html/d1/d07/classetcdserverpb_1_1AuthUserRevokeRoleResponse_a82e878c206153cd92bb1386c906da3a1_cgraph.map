@@ -1,0 +1,6 @@
+<map id="etcdserverpb::AuthUserRevokeRoleResponse::MergeFrom" name="etcdserverpb::AuthUserRevokeRoleResponse::MergeFrom">
+<area shape="rect" id="node2" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#aab0b6e06a1fa16bf0d6111d709dba73c" title="etcdserverpb::AuthUserRevoke\lRoleResponse::has_header" alt="" coords="279,5,502,46"/>
+<area shape="rect" id="node4" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a341def06bae77d10ad753105689eea18" title="etcdserverpb::AuthUserRevoke\lRoleResponse::mutable_header" alt="" coords="277,70,504,111"/>
+<area shape="rect" id="node5" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a91b571e0221073e4b16cbb762db48377" title="etcdserverpb::AuthUserRevoke\lRoleResponse::header" alt="" coords="279,135,502,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="552,5,776,46"/>
+</map>

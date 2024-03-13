@@ -1,0 +1,12 @@
+<map id="cass::cql::CqlIf::Db_AddColumn" name="cass::cql::CqlIf::Db_AddColumn">
+<area shape="rect" id="node2" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a815ab193445a482adcf81e9308d25108" title="cass::cql::CqlIf::Increment\lTableWriteFailStats" alt="" coords="449,5,639,46"/>
+<area shape="rect" id="node4" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title="cass::cql::CqlIf::Increment\lErrors" alt="" coords="449,201,639,242"/>
+<area shape="rect" id="node6" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a877a3ba1b59f2d472d664d4e8e4c6291" title="cass::cql::impl::Db2Cass\lConsistency" alt="" coords="198,235,378,277"/>
+<area shape="rect" id="node7" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#ab99066c525bbfaad3efe27bc62660112" title="cass::cql::CqlIf::OnAsync\lColumnAddCompletion" alt="" coords="197,118,379,159"/>
+<area shape="rect" id="node3" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#ab528c37d8ac930bff41a6d4768e9610d" title="GenDb::GenDbIfStats\l::IncrementTableWriteFail" alt="" coords="753,5,940,46"/>
+<area shape="rect" id="node5" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title="GenDb::GenDbIfStats\l::IncrementErrors" alt="" coords="767,201,927,242"/>
+<area shape="rect" id="node8" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a1c2f7f51bd2b7ec245a8a48dfb53562c" title="cass::cql::CqlIf::Increment\lTableWriteStats" alt="" coords="449,70,639,111"/>
+<area shape="rect" id="node10" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#ab220a365c7c6d7ee74e761a2abdff5ae" title="cass::cql::CqlIf::Increment\lTableWriteBackPressureFailStats" alt="" coords="427,135,661,177"/>
+<area shape="rect" id="node9" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#aeaebff400f051ca1066bd3346b3d1fe4" title="GenDb::GenDbIfStats\l::IncrementTableWrite" alt="" coords="765,70,929,111"/>
+<area shape="rect" id="node11" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a73a4787d662ab10746a3b481c32fc5af" title="GenDb::GenDbIfStats\l::IncrementTableWriteBackPressureFail" alt="" coords="709,135,984,177"/>
+</map>

@@ -1,0 +1,27 @@
+var classBgpSessionManager =
+[
+    [ "BgpSessionManager", "d1/df7/classBgpSessionManager.html#a95fe8c27b1ae71f47eb7ba13f40c9b92", null ],
+    [ "~BgpSessionManager", "d1/df7/classBgpSessionManager.html#a1e1cc1b10275c54a009218c473d8f2e1", null ],
+    [ "AcceptSession", "d1/df7/classBgpSessionManager.html#af86571726938c2575137667007011d3f", null ],
+    [ "AllocSession", "d1/df7/classBgpSessionManager.html#a2305245457a65fab14afac48b7424084", null ],
+    [ "CreateSession", "d1/df7/classBgpSessionManager.html#a54bb4751fb4ba70bec0b7812af6e5280", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "d1/df7/classBgpSessionManager.html#a3deb8aed86eab1dc39cc61e7cc4f0f49", null ],
+    [ "EnqueueWriteReady", "d1/df7/classBgpSessionManager.html#ad0772bfd130257699e6058c0bd29d916", null ],
+    [ "FindPeer", "d1/df7/classBgpSessionManager.html#ad423868c6cdd19353414543d4bac8e8e", null ],
+    [ "GetSessionQueueSize", "d1/df7/classBgpSessionManager.html#a68eb37d2062ea4fe6bc15ad9b5b8d0d9", null ],
+    [ "Initialize", "d1/df7/classBgpSessionManager.html#aa23a74a3fa54994fa6f2603c71bf7b4d", null ],
+    [ "Initialize", "d1/df7/classBgpSessionManager.html#ad138f9b3cf88fb968baa8773ccb05298", null ],
+    [ "MayDelete", "d1/df7/classBgpSessionManager.html#ae6995467139f3bc9a521fb0314e2fa17", null ],
+    [ "ProcessSession", "d1/df7/classBgpSessionManager.html#aaa538e6cef8c9375f2cfd448b9b6caf9", null ],
+    [ "ProcessWriteReady", "d1/df7/classBgpSessionManager.html#a32c05ae6ab957bead575318f88beb8f1", null ],
+    [ "server", "d1/df7/classBgpSessionManager.html#a683b8a212b92d31f1c6d42f44c1b62f1", null ],
+    [ "SetSessionQueueDisable", "d1/df7/classBgpSessionManager.html#ab66b750df3d7be8378dbd804433e576d", null ],
+    [ "Shutdown", "d1/df7/classBgpSessionManager.html#a496216c854b43708d8b9198b0ce30d2f", null ],
+    [ "Terminate", "d1/df7/classBgpSessionManager.html#ac137d8bf84128c30add0c3d31c8220e8", null ],
+    [ "WorkQueueExitCallback", "d1/df7/classBgpSessionManager.html#a4df004b3ea5904e64542fe7a75efe2fe", null ],
+    [ "BgpServerUnitTest", "d1/df7/classBgpSessionManager.html#a6ea92c7ddb925ea1abbc36f075b0431e", null ],
+    [ "server_", "d1/df7/classBgpSessionManager.html#a1de87ce95ca92c5448e7f6a7abbd25d9", null ],
+    [ "session_ip_", "d1/df7/classBgpSessionManager.html#a26c5dc9df689b2a1833d81255aa33799", null ],
+    [ "session_queue_", "d1/df7/classBgpSessionManager.html#a15ac0cf7e0ada58436d52365ed1cc259", null ],
+    [ "write_ready_queue_", "d1/df7/classBgpSessionManager.html#a14f153d6efaf90b4f9fb38e029347ea4", null ]
+];

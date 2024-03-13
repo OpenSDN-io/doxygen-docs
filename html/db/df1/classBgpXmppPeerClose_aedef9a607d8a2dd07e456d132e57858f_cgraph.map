@@ -1,0 +1,9 @@
+<map id="BgpXmppPeerClose::CloseComplete" name="BgpXmppPeerClose::CloseComplete">
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#aee8a2caebf406cc8995f7c5fe1cb0f37" title="BgpXmppChannel::channel" alt="" coords="335,5,532,32"/>
+<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="337,56,529,83"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="332,107,535,133"/>
+<area shape="rect" id="node7" href="$d6/dbf/classBgpXmppChannel.html#a552f85eda164a24e268c38d05dde6ec8" title="BgpXmppChannel::set\l_peer_closed" alt="" coords="350,158,517,199"/>
+<area shape="rect" id="node8" href="$d6/d81/classXmppChannel.html#a0f3f3e3c457c05a1facd3101432b560b" title="XmppChannel::UnRegisterReceive" alt="" coords="312,224,555,251"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="603,81,789,108"/>
+<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="606,132,786,159"/>
+</map>

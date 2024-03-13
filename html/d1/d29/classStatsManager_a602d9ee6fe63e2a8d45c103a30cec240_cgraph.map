@@ -1,0 +1,22 @@
+<map id="StatsManager::RequestHandler" name="StatsManager::RequestHandler">
+<area shape="rect" id="node2" href="$d1/d29/classStatsManager.html#a52a0a9ab0ef8219b65c8102ee2d92ca0" title="StatsManager::AddFlow" alt="" coords="286,404,461,431"/>
+<area shape="rect" id="node21" href="$d1/d29/classStatsManager.html#a9be6408b9e697394c7c21b8da09c24e7" title="StatsManager::DeleteFlow" alt="" coords="277,221,469,248"/>
+<area shape="rect" id="node3" href="$da/d6f/classFlowUveStatsRequest.html#af84159c1ceab319691c238b7e0bba9c1" title="FlowUveStatsRequest\l::uuid" alt="" coords="544,302,707,343"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="579,251,671,277"/>
+<area shape="rect" id="node5" href="$d4/d59/classAgentUveBase.html#a6b06b5af2deadb455ffbbb7bc90b619f" title="AgentUveBase::interface\l_uve_table" alt="" coords="533,185,717,226"/>
+<area shape="rect" id="node6" href="$d4/d59/classAgentUveBase.html#ad0850f79cb0ba7196a0da99f0dfb86ae" title="AgentUveBase::vn_uve\l_table" alt="" coords="539,602,712,643"/>
+<area shape="rect" id="node7" href="$da/d6f/classFlowUveStatsRequest.html#a88f34de91d2955544471b3d97d28dbec" title="FlowUveStatsRequest\l::fw_policy_info" alt="" coords="544,367,707,409"/>
+<area shape="rect" id="node8" href="$d6/d02/classInterfaceUveStatsTable.html#a92ff41b59a15e387af229f5b58ddc5e7" title="InterfaceUveStatsTable\l::IncrInterfaceAceStats" alt="" coords="539,485,712,526"/>
+<area shape="rect" id="node13" href="$d6/d02/classInterfaceUveStatsTable.html#a05b969730b9c2d979db76f0364b19071" title="InterfaceUveStatsTable\l::IncrInterfaceEndpointHits" alt="" coords="528,119,723,161"/>
+<area shape="rect" id="node10" href="$da/d6f/classFlowUveStatsRequest.html#a3242559bd9b4ce45fde7ea74f1260f18" title="FlowUveStatsRequest\l::interface" alt="" coords="827,346,989,387"/>
+<area shape="rect" id="node16" href="$d8/d5c/classVnUveTable.html#a34cb89ae67046386f6afacc1f8b65e41" title="VnUveTable::IncrVnAceStats" alt="" coords="523,668,728,695"/>
+<area shape="rect" id="node18" href="$da/d6f/classFlowUveStatsRequest.html#a0812f97b5d27a693ccb02ab078b2c36d" title="FlowUveStatsRequest\l::vn_ace_info" alt="" coords="544,719,707,761"/>
+<area shape="rect" id="node12" href="$da/d6f/classFlowUveStatsRequest.html#afd9520bae448c2538b6e8e233c35e247" title="FlowUveStatsRequest\l::sg_rule_uuid" alt="" coords="827,558,989,599"/>
+<area shape="rect" id="node19" href="$d9/da2/structStatsManager_1_1FlowRuleMatchInfo.html#addd785683e2c06889de4404c42d52523" title="StatsManager::FlowRuleMatch\lInfo::IsFwPolicyInfoEqual" alt="" coords="517,54,733,95"/>
+<area shape="rect" id="node20" href="$d9/da2/structStatsManager_1_1FlowRuleMatchInfo.html#a33bf2b050d4d181ee9fcac3060356438" title="StatsManager::FlowRuleMatch\lInfo::IsVnAceInfoEqual" alt="" coords="517,785,733,826"/>
+<area shape="rect" id="node9" href="$da/d6f/classFlowUveStatsRequest.html#a946df68a333a241c60765a2a3d4aea0e" title="FlowUveStatsRequest\l::sg_info_valid" alt="" coords="827,411,989,453"/>
+<area shape="rect" id="node11" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a62cfe155d9399ccdc3b2858cfca0ee13" title="InterfaceUveTable::\lUveInterfaceEntry::UpdateInterface\lAceStats" alt="" coords="782,477,1034,533"/>
+<area shape="rect" id="node14" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#ad73d986220e614258674ebb980abd55e" title="InterfaceUveTable::\lUveInterfaceEntry::UpdateInterface\lFwPolicyStats" alt="" coords="782,112,1034,168"/>
+<area shape="rect" id="node15" href="$dc/d10/structInterfaceUveTable_1_1EndpointStatsContainer.html#a5a8a01a779fa781d35b98111b9b7c291" title="InterfaceUveTable::\lEndpointStatsContainer\l::ToList" alt="" coords="1083,112,1258,168"/>
+<area shape="rect" id="node17" href="$d3/d03/classVnUveEntry.html#acef04cb41c876ce052dfba38ea2333ec" title="VnUveEntry::UpdateVnAceStats" alt="" coords="795,668,1021,695"/>
+</map>

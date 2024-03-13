@@ -1,0 +1,31 @@
+<map id="bgp_as_service.h" name="bgp_as_service.h">
+<area shape="rect" id="node2" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="2791,80,2980,107"/>
+<area shape="rect" id="node46" href="$d7/d90/index__allocator_8h.html" title="base/index_allocator.h" alt="" coords="3496,320,3664,347"/>
+<area shape="rect" id="node50" href="$d0/d20/global__system__config_8h.html" title="oper/global_system\l_config.h" alt="" coords="1641,155,1791,197"/>
+<area shape="rect" id="node6" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1649,320,1788,347"/>
+<area shape="rect" id="node35" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="3129,395,3231,421"/>
+<area shape="rect" id="node38" href="$d4/da9/interface_8h.html" title="oper/interface.h" alt="" coords="2408,163,2533,189"/>
+<area shape="rect" id="node40" href="$d6/d62/vm__interface_8h.html" title="oper/vm_interface.h" alt="" coords="3409,163,3561,189"/>
+<area shape="rect" id="node41" href="$d1/d6f/physical__interface_8h.html" title="oper/physical_interface.h" alt="" coords="1816,163,2003,189"/>
+<area shape="rect" id="node42" href="$db/da4/inet__interface_8h.html" title="oper/inet_interface.h" alt="" coords="2027,163,2184,189"/>
+<area shape="rect" id="node43" href="$df/d2b/packet__interface_8h.html" title="oper/packet_interface.h" alt="" coords="2208,163,2384,189"/>
+<area shape="rect" id="node44" href="$df/d36/logical__interface_8h.html" title="oper/logical_interface.h" alt="" coords="2966,245,3140,272"/>
+<area shape="rect" id="node45" href="$d4/d6b/remote__physical__interface_8h.html" title="oper/remote_physical\l_interface.h" alt="" coords="2557,155,2720,197"/>
+<area shape="rect" id="node18" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="901,395,1051,421"/>
+<area shape="rect" id="node19" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="1826,469,1896,496"/>
+<area shape="rect" id="node20" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="1356,544,1465,571"/>
+<area shape="rect" id="node21" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="1257,619,1367,645"/>
+<area shape="rect" id="node22" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="1359,469,1531,496"/>
+<area shape="rect" id="node23" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="1127,395,1287,421"/>
+<area shape="rect" id="node25" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="1412,395,1532,421"/>
+<area shape="rect" id="node24" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="1073,469,1191,496"/>
+<area shape="rect" id="node26" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="2622,469,2719,496"/>
+<area shape="rect" id="node27" href="$de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="1607,619,1753,645"/>
+<area shape="rect" id="node28" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="2872,395,3053,421"/>
+<area shape="rect" id="node30" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="2049,469,2196,496"/>
+<area shape="rect" id="node31" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="1988,395,2108,421"/>
+<area shape="rect" id="node32" href="$dc/ddd/ifmap__agent__parser_8h.html" title="ifmap/ifmap_agent_parser.h" alt="" coords="1759,395,1964,421"/>
+<area shape="rect" id="node33" href="$d7/d08/ifmap__agent__table_8h.html" title="ifmap/ifmap_agent_table.h" alt="" coords="2234,395,2432,421"/>
+<area shape="rect" id="node39" href="$df/dfa/oper__db_8h.html" title="oper/oper_db.h" alt="" coords="1754,245,1872,272"/>
+<area shape="rect" id="node49" href="$d1/d69/bitset_8h.html" title="base/bitset.h" alt="" coords="3507,395,3613,421"/>
+</map>

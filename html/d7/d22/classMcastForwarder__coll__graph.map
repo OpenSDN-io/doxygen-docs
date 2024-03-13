@@ -1,0 +1,47 @@
+<map id="McastForwarder" name="McastForwarder">
+<area shape="rect" id="node16" href="$da/da9/classMcastSGEntry.html" title="McastSGEntry" alt="" coords="148,1544,260,1571"/>
+<area shape="rect" id="node2" href="$d3/def/structDBState.html" title="DBState" alt="" coords="5,1345,80,1372"/>
+<area shape="rect" id="node3" href="$df/def/classErmVpnRoute.html" title="ErmVpnRoute" alt="" coords="255,1149,365,1176"/>
+<area shape="rect" id="node4" href="$d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="589,1059,672,1085"/>
+<area shape="rect" id="node5" href="$de/df8/classRoute.html" title="Route" alt="" coords="1255,968,1313,995"/>
+<area shape="rect" id="node6" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="1380,869,1455,896"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="1395,760,1501,787"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="1382,653,1513,680"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1395,531,1501,557"/>
+<area shape="rect" id="node26" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1844,653,1919,680"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; McastSGEntry * \&gt;" alt="" coords="1542,299,1769,325"/>
+<area shape="rect" id="node34" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="1994,291,2216,333"/>
+<area shape="rect" id="node38" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="1135,299,1220,325"/>
+<area shape="rect" id="node40" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="559,299,775,325"/>
+<area shape="rect" id="node41" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="799,299,1012,325"/>
+<area shape="rect" id="node27" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="1382,1059,1508,1085"/>
+<area shape="rect" id="node44" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="345,357,487,384"/>
+<area shape="rect" id="node11" href="$df/d70/classDB.html" title="DB" alt="" coords="1427,416,1468,443"/>
+<area shape="rect" id="node36" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1173,531,1261,557"/>
+<area shape="rect" id="node32" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="2187,531,2297,557"/>
+<area shape="rect" id="node28" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1441,968,1591,995"/>
+<area shape="rect" id="node45" href="$d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="2041,1240,2148,1267"/>
+<area shape="rect" id="node13" href="$d6/d1d/classErmVpnPrefix.html" title="ErmVpnPrefix" alt="" coords="158,1059,268,1085"/>
+<area shape="rect" id="node14" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="43,968,188,995"/>
+<area shape="rect" id="node19" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="1449,141,1575,168"/>
+<area shape="rect" id="node17" href="$d2/d07/classMcastManagerPartition.html" title="McastManagerPartition" alt="" coords="1877,1445,2048,1472"/>
+<area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; McastSGEntry\l *, WorkQueue\&lt; McastSGEntry * \&gt; \&gt;" alt="" coords="1506,409,1768,450"/>
+<area shape="rect" id="node21" href="$d6/d9c/classTask.html" title="Task" alt="" coords="1795,299,1845,325"/>
+<area shape="rect" id="node22" href="$d3/dbd/classMcastTreeManager.html" title="McastTreeManager" alt="" coords="2191,1345,2333,1372"/>
+<area shape="rect" id="node23" href="$d3/db0/classErmVpnTable.html" title="ErmVpnTable" alt="" coords="2277,1240,2384,1267"/>
+<area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; McastTreeManager \&gt;" alt="" coords="2285,1445,2533,1472"/>
+<area shape="rect" id="node48" href="$d5/dd5/classMvpnProjectManager.html" title="MvpnProjectManager" alt="" coords="2374,1345,2532,1372"/>
+<area shape="rect" id="node24" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="1966,1149,2047,1176"/>
+<area shape="rect" id="node47" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="1831,1240,2017,1267"/>
+<area shape="rect" id="node25" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="1939,811,2032,837"/>
+<area shape="rect" id="node43" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="1501,1149,1731,1176"/>
+<area shape="rect" id="node29" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="1553,862,1769,903"/>
+<area shape="rect" id="node30" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="2178,760,2307,787"/>
+<area shape="rect" id="node31" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="2135,646,2349,687"/>
+<area shape="rect" id="node46" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="1867,1345,2077,1372"/>
+<area shape="rect" id="node49" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; MvpnProject\lManager \&gt;" alt="" coords="2557,1438,2749,1479"/>
+<area shape="rect" id="node33" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="2026,416,2157,443"/>
+<area shape="rect" id="node35" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="2284,409,2479,450"/>
+<area shape="rect" id="node37" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="965,416,1117,443"/>
+<area shape="rect" id="node39" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="1023,141,1141,168"/>
+</map>

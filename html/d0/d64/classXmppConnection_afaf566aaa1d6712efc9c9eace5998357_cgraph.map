@@ -1,0 +1,10 @@
+<map id="XmppConnection::SendKeepAlive" name="XmppConnection::SendKeepAlive">
+<area shape="rect" id="node2" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title="XmppProto::EncodeStream" alt="" coords="291,33,487,60"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="323,84,456,111"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#a9fc59d5f4b000ff46cb555fb6eff59d8" title="XmppConnection::LogKeepAliveSend" alt="" coords="259,160,520,187"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="571,5,757,46"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="833,96,977,123"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="571,121,757,148"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#ac73e778cb1e0fbdb38b5db7aaf92e77e" title="XmppConnection::LogMsg" alt="" coords="569,172,759,199"/>
+<area shape="rect" id="node9" href="$d0/d64/classXmppConnection.html#a074ea00a6f3ad5aceaf5d1dd864543aa" title="XmppConnection::ToString" alt="" coords="809,172,1002,199"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="BgpPeer::SendNotification" name="BgpPeer::SendNotification">
+<area shape="rect" id="node2" href="$d5/de5/classBgpSession.html#a5447543863ba268c9416f9145e8d20ec" title="BgpSession::SendNotification" alt="" coords="246,176,458,203"/>
+<area shape="rect" id="node14" href="$d3/d2d/classBgpPeer.html#a7f7f98cd813eef8642881c62c8e88852" title="BgpPeer::inc_tx_notification" alt="" coords="251,227,453,253"/>
+<area shape="rect" id="node3" href="$d2/d4b/classBgpProto.html#ac8662f1bc2628e1297105bbabcf4e94c" title="BgpProto::Encode" alt="" coords="540,68,676,95"/>
+<area shape="rect" id="node6" href="$d5/de5/classBgpSession.html#acf8c3b4839d0c99d7af679cc2eff697b" title="BgpSession::LogNotification" alt="" coords="507,125,709,152"/>
+<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="533,176,683,203"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="531,227,685,253"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="541,277,675,304"/>
+<area shape="rect" id="node4" href="$d5/d3f/classProtoSequence.html#a58226f590476878858017aa676e76a0a" title="ProtoSequence\&lt; BgpProtocol\lAs4 \&gt;::Encode" alt="" coords="758,5,970,46"/>
+<area shape="rect" id="node5" href="$d0/d2e/classEncodeContext.html#a6b9a4acd346fa6e7d69815a508462511" title="EncodeContext::encode\l_offsets" alt="" coords="777,70,951,111"/>
+<area shape="rect" id="node7" href="$de/d90/structBgpProto_1_1Notification.html#a504f144efaafd8de1b56e7b72964da82" title="BgpProto::Notification\l::ToString" alt="" coords="782,135,946,177"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="771,211,957,253"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1019,303,1163,329"/>
+<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="771,328,957,355"/>
+</map>

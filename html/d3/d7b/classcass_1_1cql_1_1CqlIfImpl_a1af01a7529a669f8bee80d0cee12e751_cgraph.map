@@ -1,0 +1,11 @@
+<map id="cass::cql::CqlIfImpl::CreateKeyspaceIfNotExistsSync" name="cass::cql::CqlIfImpl::CreateKeyspaceIfNotExistsSync">
+<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#aecd1561f1f47b0a1f3565aeba29e161f" title="cass::cql::impl::Execute\lQuerySync" alt="" coords="291,153,466,194"/>
+<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a0f1169c2f95a77f943c53fc73acf11a2" title="cass::cql::interface\l::CassLibrary::CassStatementNew" alt="" coords="515,119,757,161"/>
+<area shape="rect" id="node4" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#af40fafce3d8c652e2e05aa7487d824f1" title="cass::cql::impl::Execute\lQuerySyncInternal" alt="" coords="549,185,723,226"/>
+<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a77fea7033e218d5b57e94191641a0974" title="cass::cql::interface\l::CassLibrary::CassStatement\lSetConsistency" alt="" coords="823,5,1035,61"/>
+<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aa6152f6c59f8d229d9d19119175b50cc" title="cass::cql::interface\l::CassLibrary::CassSessionExecute" alt="" coords="806,86,1053,127"/>
+<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title="cass::cql::interface\l::CassLibrary::CassFutureWait" alt="" coords="823,151,1036,193"/>
+<area shape="rect" id="node8" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title="cass::cql::interface\l::CassLibrary::CassFutureErrorCode" alt="" coords="805,217,1053,258"/>
+<area shape="rect" id="node9" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title="cass::cql::interface\l::CassLibrary::CassFutureError\lMessage" alt="" coords="822,283,1037,339"/>
+<area shape="rect" id="node10" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a7c0cc7f693188e84d9842dda5bcebf71" title="cass::cql::interface\l::CassLibrary::CassFutureGet\lResult" alt="" coords="826,363,1033,419"/>
+</map>

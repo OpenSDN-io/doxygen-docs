@@ -1,0 +1,25 @@
+var classXmppInit =
+[
+    [ "XmppInit", "dd/d66/classXmppInit.html#a51f57f01a46f78bcaffc7fcb2d214212", null ],
+    [ "~XmppInit", "dd/d66/classXmppInit.html#a23f871df9eb310434fb2e7e29f959807", null ],
+    [ "AddXmppChannelConfig", "dd/d66/classXmppInit.html#a00d4b9ebba6c0bbf7ec81d2f9c078bfb", null ],
+    [ "AllocChannelConfig", "dd/d66/classXmppInit.html#a8567fa344c263053455ef7309ef358e6", null ],
+    [ "InitClient", "dd/d66/classXmppInit.html#ab54e8c8c9463b63e024a8fb5fe3faa99", null ],
+    [ "InitServer", "dd/d66/classXmppInit.html#a3e5a5eeade3e0d84177c69f797ebe9a6", null ],
+    [ "Reset", "dd/d66/classXmppInit.html#aca03aa957f94bacba3fc71a414e74fea", null ],
+    [ "cfg_", "dd/d66/classXmppInit.html#af26ba5fd8ecf9874b327bed2e4d9b7d0", null ],
+    [ "g_client_", "dd/d66/classXmppInit.html#a185041628ba5a4877513138548373c07", null ],
+    [ "g_server_", "dd/d66/classXmppInit.html#a461d7a3efb1035a5cf06ba71d3557e6e", null ],
+    [ "kAgentNodeJID", "dd/d66/classXmppInit.html#add7e6907f34a1b5958a8dcea31825ba8", null ],
+    [ "kBgpPeer", "dd/d66/classXmppInit.html#a843fa4469be0fa6cd8b216690f477820", null ],
+    [ "kConfigPeer", "dd/d66/classXmppInit.html#a0d1fa21d97cab131fc0a493ff104b11e", null ],
+    [ "kControlNodeJID", "dd/d66/classXmppInit.html#a79552eae45c77197e0191eb3e6a54c7b", null ],
+    [ "kDnsNodeJID", "dd/d66/classXmppInit.html#aed0b616a3cbb4157195edd473cb4623e", null ],
+    [ "kDnsPeer", "dd/d66/classXmppInit.html#a6ac4c725ec23d3bac7eea3904ecc6068", null ],
+    [ "kEndOfRibMarker", "dd/d66/classXmppInit.html#abd96f45300e7ea097e9ade0dcd161e44", null ],
+    [ "kFqnPrependAgentNodeJID", "dd/d66/classXmppInit.html#a915af09594a4ea3fc683af46b1d576ae", null ],
+    [ "kJIDControlBgp", "dd/d66/classXmppInit.html#abd0883d23f5397d716c29be05dbb1c61", null ],
+    [ "kJIDControlDns", "dd/d66/classXmppInit.html#a4cea9bb6611452c41a15a17da5f00f65", null ],
+    [ "kOtherPeer", "dd/d66/classXmppInit.html#a3d976dd80544bf828cfab15939859a37", null ],
+    [ "kPubSubNS", "dd/d66/classXmppInit.html#a1bfa1341dbae7ecfd3d61e89a193a91a", null ]
+];

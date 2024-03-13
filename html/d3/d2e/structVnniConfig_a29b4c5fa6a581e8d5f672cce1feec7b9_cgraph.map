@@ -1,0 +1,18 @@
+<map id="VnniConfig::OnDelete" name="VnniConfig::OnDelete">
+<area shape="rect" id="node2" href="$d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49" title="DnsConfig::MarkDelete" alt="" coords="228,39,399,65"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="731,5,869,32"/>
+<area shape="rect" id="node4" href="$d5/d2f/structIpamConfig.html#a4c70b163985bbab0b3a29d71dd4a70c7" title="IpamConfig::GetVirtualDns" alt="" coords="216,140,411,167"/>
+<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#a10a1bcfc9febd9fb87d61e20810b36aa" title="VirtualDnsConfig::Notify\lPendingDnsRecords" alt="" coords="224,191,403,233"/>
+<area shape="rect" id="node17" href="$d5/d2f/structIpamConfig.html#a7f320193db6c9525c411b20c53eaa7ea" title="IpamConfig::DelVnni" alt="" coords="236,257,391,284"/>
+<area shape="rect" id="node6" href="$d1/d12/structVirtualDnsRecordConfig.html#a518432dd99518c377189dcdaf31984e7" title="VirtualDnsRecordConfig\l::CanNotify" alt="" coords="462,166,637,207"/>
+<area shape="rect" id="node15" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="470,232,629,259"/>
+<area shape="rect" id="node16" href="$d4/da5/structDnsConfig.html#a962f06b2d8cc77b7963c73ed3414cfd0" title="DnsConfig::ClearNotified" alt="" coords="459,283,640,309"/>
+<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="699,57,901,98"/>
+<area shape="rect" id="node8" href="$d8/d1a/classBindUtil.html#a95d379cfe9ef9028b522918d47cb3e4d" title="BindUtil::IsIP" alt="" coords="747,123,853,149"/>
+<area shape="rect" id="node9" href="$d8/d1a/classBindUtil.html#a54f70030253462d059bb6c2d4b5b4330" title="BindUtil::GetAddrFromPtrName" alt="" coords="688,173,912,200"/>
+<area shape="rect" id="node10" href="$d0/d31/structVirtualDnsConfig.html#afe5ee6781842c1f61555f451f94adbf8" title="VirtualDnsConfig::GetSubnet" alt="" coords="697,224,903,251"/>
+<area shape="rect" id="node12" href="$d4/da5/structDnsConfig.html#aa42a149759abebcd31b8714e92b14710" title="DnsConfig::IsErrorLogged" alt="" coords="707,275,893,301"/>
+<area shape="rect" id="node13" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="721,325,879,352"/>
+<area shape="rect" id="node14" href="$d4/da5/structDnsConfig.html#a572158f0963fee45baa9f2656759170a" title="DnsConfig::MarkErrorLogged" alt="" coords="697,376,903,403"/>
+<area shape="rect" id="node11" href="$d5/d2f/structIpamConfig.html#a3c0ec3831971e3f77816ae97ae777840" title="IpamConfig::GetVnniList" alt="" coords="960,224,1139,251"/>
+</map>

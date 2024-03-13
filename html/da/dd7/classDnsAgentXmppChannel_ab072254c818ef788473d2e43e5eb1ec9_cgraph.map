@@ -1,0 +1,12 @@
+<map id="DnsAgentXmppChannel::ReceiveReq" name="DnsAgentXmppChannel::ReceiveReq">
+<area shape="rect" id="node2" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="273,5,417,32"/>
+<area shape="rect" id="node3" href="$db/dfa/classDnsAgentXmpp.html#a1c8fd897eca8e941a73bbf30a4b4abf0" title="DnsAgentXmpp::DnsAgentXmpp\lDecode" alt="" coords="229,57,461,98"/>
+<area shape="rect" id="node6" href="$da/dd7/classDnsAgentXmppChannel.html#ab3c0e1b07f6df48e2f5213534ce142e8" title="DnsAgentXmppChannel\l::HandleAgentUpdate" alt="" coords="257,139,433,181"/>
+<area shape="rect" id="node4" href="$db/dfa/classDnsAgentXmpp.html#a9fabe1090e69f2c1faddc195741efd8b" title="DnsAgentXmpp::DecodeDns" alt="" coords="523,45,728,72"/>
+<area shape="rect" id="node5" href="$db/dfa/classDnsAgentXmpp.html#aa9b1d045504494fc44a6db66ccbeeed0" title="DnsAgentXmpp::DecodeDnsItems" alt="" coords="789,45,1032,72"/>
+<area shape="rect" id="node7" href="$de/d3d/structDnsUpdateData.html#a2700810de522768984a1f24c3a5dbab2" title="DnsUpdateData::DelItem" alt="" coords="533,96,718,123"/>
+<area shape="rect" id="node8" href="$de/d3d/structDnsUpdateData.html#a0c1a68abbdb11dbcbed96294806c853a" title="DnsUpdateData::AddItem" alt="" coords="531,147,719,173"/>
+<area shape="rect" id="node9" href="$da/dd7/classDnsAgentXmppChannel.html#a99f4927e2a6f5af414dbbf1f525abe9a" title="DnsAgentXmppChannel\l::GetDnsRecordName" alt="" coords="537,198,713,239"/>
+<area shape="rect" id="node10" href="$dd/d1d/classDnsAgentXmppChannelManager.html#a82d789a94291e13d3867e10f97604089" title="DnsAgentXmppChannelManager\l::EnqueueRecord" alt="" coords="509,263,741,305"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="830,271,991,297"/>
+</map>

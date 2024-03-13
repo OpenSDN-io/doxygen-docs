@@ -1,0 +1,18 @@
+<map id="BgpAttr" name="BgpAttr">
+<area shape="rect" id="node2" href="$d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="1747,532,1893,559"/>
+<area shape="rect" id="node3" href="$d7/d34/classBgpAttrDB.html" title="BgpAttrDB" alt="" coords="1775,657,1865,684"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; BgpAttr, BgpAttrPtr,\l BgpAttrSpec, BgpAttrCompare,\l BgpAttrDB \&gt;" alt="" coords="387,711,613,782"/>
+<area shape="rect" id="node15" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,285,355,312"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="637,256,853,283"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="639,451,852,477"/>
+<area shape="rect" id="node22" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="1321,125,1466,152"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1513,633,1602,660"/>
+<area shape="rect" id="node7" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1090,588,1243,615"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="703,588,788,615"/>
+<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,667,351,693"/>
+<area shape="rect" id="node21" href="$df/d70/classDB.html" title="DB" alt="" coords="925,144,966,171"/>
+<area shape="rect" id="node12" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,616,349,643"/>
+<area shape="rect" id="node16" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1038,286,1295,327"/>
+<area shape="rect" id="node17" href="$d6/d9c/classTask.html" title="Task" alt="" coords="720,353,771,380"/>
+<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="1043,398,1290,439"/>
+</map>

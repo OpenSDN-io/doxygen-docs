@@ -1,0 +1,13 @@
+<map id="SandeshSession::EnqueueClose" name="SandeshSession::EnqueueClose">
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a37a972d720285215ebe82f157689ed60" title="TcpSession::IsClosed" alt="" coords="285,5,441,32"/>
+<area shape="rect" id="node3" href="$d9/df3/classSandeshConnection.html#a90715c1711fec1047185392b361608c7" title="SandeshConnection::\lstate_machine" alt="" coords="283,57,442,98"/>
+<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#abbf674a70afaa7893d1978170969ecb9" title="SandeshStateMachine\l::OnSessionEvent" alt="" coords="280,122,445,163"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="283,188,442,215"/>
+<area shape="rect" id="node5" href="$d3/d36/classSandeshStateMachine.html#a8cf64b4608f303760e0233cc3be2236a" title="SandeshStateMachine\l::session" alt="" coords="493,63,659,105"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="499,129,653,156"/>
+<area shape="rect" id="node7" href="$d3/d36/classSandeshStateMachine.html#afb7d178ce06f4376c12b7894f314f1b6" title="SandeshStateMachine\l::Enqueue" alt="" coords="493,181,659,222"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="711,159,873,185"/>
+<area shape="rect" id="node9" href="$d3/d36/classSandeshStateMachine.html#a93a42adb1f2e6257200c1cf5afcccc36" title="SandeshStateMachine\l::UpdateEventEnqueue" alt="" coords="707,210,877,251"/>
+<area shape="rect" id="node10" href="$d3/d36/classSandeshStateMachine.html#afce1b6ac6ad0227c4e1763569683b432" title="SandeshStateMachine\l::UpdateEventStats" alt="" coords="925,210,1091,251"/>
+<area shape="rect" id="node11" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title="SandeshEventStatistics\l::Update" alt="" coords="1139,210,1314,251"/>
+</map>

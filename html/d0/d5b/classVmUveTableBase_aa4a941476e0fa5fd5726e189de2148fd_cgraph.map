@@ -1,0 +1,15 @@
+<map id="VmUveTableBase::InterfaceAddHandler" name="VmUveTableBase::InterfaceAddHandler">
+<area shape="rect" id="node2" href="$d0/d5b/classVmUveTableBase.html#acb93005caa2fe8ec8a0e928389ec83dd" title="VmUveTableBase::Add" alt="" coords="285,147,454,173"/>
+<area shape="rect" id="node10" href="$d5/de0/classVmUveEntryBase.html#a8017e0d976137c5766e6091ccea9bd01" title="VmUveEntryBase::InterfaceAdd" alt="" coords="256,197,483,224"/>
+<area shape="rect" id="node11" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="282,248,457,275"/>
+<area shape="rect" id="node12" href="$d5/de0/classVmUveEntryBase.html#a18709fe79e994546dcb1a90baaa03950" title="VmUveEntryBase::set\l_vm_name" alt="" coords="287,299,451,341"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#aaf5ac68356ca238c6c549e6d370b335a" title="VmInterface::vm_name" alt="" coords="282,365,457,392"/>
+<area shape="rect" id="node14" href="$d5/de0/classVmUveEntryBase.html#a09fddd463a043a62a1d4a1a1225de0f3" title="VmUveEntryBase::set\l_changed" alt="" coords="287,417,451,458"/>
+<area shape="rect" id="node3" href="$d0/d5b/classVmUveTableBase.html#a630743aaeb8c6675444ace8572c12ed1" title="VmUveTableBase::Allocate" alt="" coords="531,5,728,32"/>
+<area shape="rect" id="node5" href="$d9/d04/classVmEntry.html#a351e6bc187b60f50e9bb99dc48868865" title="VmEntry::GetUuid" alt="" coords="560,56,699,83"/>
+<area shape="rect" id="node6" href="$d5/de0/classVmUveEntryBase.html#ac631a78d29d6fcdadc6f876d14dcd1c2" title="VmUveEntryBase::add\l_by_vm_notify" alt="" coords="545,107,713,149"/>
+<area shape="rect" id="node7" href="$d5/de0/classVmUveEntryBase.html#a6d117c1c6c171640b83217da4687da91" title="VmUveEntryBase::set\l_add_by_vm_notify" alt="" coords="547,173,711,214"/>
+<area shape="rect" id="node8" href="$d5/de0/classVmUveEntryBase.html#a07bde44fc978411e3cbdf513acefb967" title="VmUveEntryBase::deleted" alt="" coords="533,239,726,265"/>
+<area shape="rect" id="node9" href="$d5/de0/classVmUveEntryBase.html#af40ad37cbc276229e1539195e97c2262" title="VmUveEntryBase::set\l_renewed" alt="" coords="547,290,711,331"/>
+<area shape="rect" id="node4" href="$d9/d04/classVmEntry.html#a9b04ab6973620389c9b0b4832fdf51ec" title="VmEntry::GetCfgName" alt="" coords="777,5,946,32"/>
+</map>

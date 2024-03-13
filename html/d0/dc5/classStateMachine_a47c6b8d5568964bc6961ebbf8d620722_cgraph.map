@@ -1,0 +1,8 @@
+<map id="StateMachine::reset_hold_time" name="StateMachine::reset_hold_time">
+<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#a9c83195d5cb2301512243cb12befb405" title="StateMachine::GetConfigured\lHoldTime" alt="" coords="216,49,427,90"/>
+<area shape="rect" id="node6" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title="StateMachine::peer" alt="" coords="248,115,395,141"/>
+<area shape="rect" id="node7" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title="StateMachine::BGPPeerInfoSend" alt="" coords="206,165,437,192"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a8e3bd84b5190c1fa0c696eea44e2931e" title="BgpPeer::hold_time" alt="" coords="492,5,641,32"/>
+<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="504,56,629,83"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#ad75f30496312741959a18fa8d08173fa" title="BgpServer::hold_time" alt="" coords="485,107,648,133"/>
+</map>

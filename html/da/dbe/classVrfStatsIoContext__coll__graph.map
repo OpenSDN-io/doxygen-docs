@@ -1,0 +1,21 @@
+<map id="VrfStatsIoContext" name="VrfStatsIoContext">
+<area shape="rect" id="node2" href="$d9/d95/classIoContext.html" title="IoContext" alt="" coords="709,1024,795,1051"/>
+<area shape="rect" id="node5" href="$d3/dc4/classKSyncIoContext.html" title="KSyncIoContext" alt="" coords="936,973,1061,1000"/>
+<area shape="rect" id="node3" href="$d1/d00/classAgentSandeshContext.html" title="AgentSandeshContext" alt="" coords="1294,1048,1461,1075"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html" title="KSyncSock" alt="" coords="2193,891,2287,917"/>
+<area shape="rect" id="node20" href="$db/df6/classKSyncBulkSandeshContext.html" title="KSyncBulkSandeshContext" alt="" coords="1708,1149,1905,1176"/>
+<area shape="rect" id="node4" href="$de/d7f/classSandeshContext.html" title="SandeshContext" alt="" coords="935,1137,1063,1164"/>
+<area shape="rect" id="node15" href="$d7/dbd/classKSyncTxQueue.html" title="KSyncTxQueue" alt="" coords="2496,516,2616,543"/>
+<area shape="rect" id="node7" href="$d5/d52/classKSyncBulkMsgContext.html" title="KSyncBulkMsgContext" alt="" coords="1293,1116,1461,1143"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; KSyncRxQueueData \&gt;" alt="" coords="1678,661,1935,688"/>
+<area shape="rect" id="node9" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; KSyncRx\lQueueData, WorkQueue\&lt;\l KSyncRxQueueData \&gt; \&gt;" alt="" coords="2135,601,2345,657"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task" alt="" coords="973,321,1024,348"/>
+<area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IoContext\l *, WorkQueue\&lt; IoContext * \&gt; \&gt;" alt="" coords="2123,291,2357,333"/>
+<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; QueueEntry\lT, WorkQueue\&lt; QueueEntryT \&gt; \&gt;" alt="" coords="1256,810,1499,851"/>
+<area shape="rect" id="node11" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="1314,485,1441,512"/>
+<area shape="rect" id="node16" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IoContext * \&gt;" alt="" coords="1706,344,1907,371"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; QueueEntryT \&gt;" alt="" coords="1701,817,1912,844"/>
+<area shape="rect" id="node21" href="$dc/df2/classKSyncEntry.html" title="KSyncEntry" alt="" coords="704,947,800,973"/>
+<area shape="rect" id="node22" href="$d5/df7/classKSyncEntry_1_1KSyncEntryTransHistory.html" title="KSyncEntry::KSyncEntryTrans\lHistory" alt="" coords="352,971,563,1013"/>
+<area shape="rect" id="node23" href="$df/d94/structKSyncEntry_1_1KSyncEntryTransition.html" title="KSyncEntry::KSyncEntryTransition" alt="" coords="5,979,245,1005"/>
+</map>

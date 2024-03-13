@@ -1,0 +1,15 @@
+<map id="VrfAssignKSyncEntry::VrfAssignKSyncEntry" name="VrfAssignKSyncEntry::VrfAssignKSyncEntry">
+<area shape="rect" id="node2" href="$dc/d15/classVrfAssignKSyncObject.html#a9fce3301a7d51d909f50d9d6660f859e" title="VrfAssignKSyncObject\l::ksync" alt="" coords="238,5,405,46"/>
+<area shape="rect" id="node3" href="$d7/de7/classKSync.html#aa1087712f5987719303e9ee5fdbc2332" title="KSync::interface_ksync_obj" alt="" coords="221,71,421,97"/>
+<area shape="rect" id="node4" href="$d9/dc9/classVrfAssign.html#a3dd8f3358224b9432c3691ba7c8d0b19" title="VrfAssign::GetInterface" alt="" coords="235,121,408,148"/>
+<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="221,172,421,199"/>
+<area shape="rect" id="node12" href="$d9/dc9/classVrfAssign.html#ac60cb5b8b0b1ecaf13bf0af4242dcaf4" title="VrfAssign::GetType" alt="" coords="249,223,394,249"/>
+<area shape="rect" id="node13" href="$d9/dc9/classVrfAssign.html#a7fd653eee06fb9e4a2142de942013a29" title="VrfAssign::GetVrf" alt="" coords="254,273,389,300"/>
+<area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="262,324,381,351"/>
+<area shape="rect" id="node6" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="492,121,631,148"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="469,172,653,199"/>
+<area shape="rect" id="node11" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="482,223,641,249"/>
+<area shape="rect" id="node8" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="716,121,860,148"/>
+<area shape="rect" id="node9" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="702,172,874,199"/>
+<area shape="rect" id="node10" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="708,223,868,249"/>
+</map>

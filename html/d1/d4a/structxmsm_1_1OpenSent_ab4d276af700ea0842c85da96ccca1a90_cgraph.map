@@ -1,0 +1,14 @@
+<map id="xmsm::OpenSent::CloseSession" name="xmsm::OpenSent::CloseSession">
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#aa2b9429f630abfa35f9737c1b426b1db" title="XmppStateMachine::set\l_session" alt="" coords="283,70,459,111"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a0193d0f7737159ccec3e8257696f22cc" title="XmppConnection::clear\l_session" alt="" coords="523,5,696,46"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a34892f59f62a4b72e7b19619a65afd70" title="XmppStateMachine::Delete\lSession" alt="" coords="510,70,709,111"/>
+<area shape="rect" id="node13" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="507,136,712,163"/>
+<area shape="rect" id="node4" href="$d5/d13/classXmppSession.html#a8557946a9346d92fdde9f2ed6b543305" title="XmppSession::ClearConnection" alt="" coords="761,12,986,39"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="781,63,966,89"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="805,113,942,140"/>
+<area shape="rect" id="node11" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="767,164,979,191"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="1049,63,1207,89"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1035,113,1221,140"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1269,113,1413,140"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1047,164,1209,191"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="etcdserverpb::AuthRoleAddResponse::AuthRoleAddResponse" name="etcdserverpb::AuthRoleAddResponse::AuthRoleAddResponse">
+<area shape="rect" id="node2" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#ac42e201a52f851cb1f5e3cd1777ab88b" title="etcdserverpb::AuthRoleAdd\lResponse::internal_default\l_instance" alt="" coords="317,5,515,61"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ae80acc428fc2b830b231014986c89b2b" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleAddResponse" alt="" coords="291,86,541,127"/>
+<area shape="rect" id="node10" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#a7e76364d26d1aa39cc5b271ee99e7eb9" title="etcdserverpb::AuthRoleAdd\lResponse::SharedCtor" alt="" coords="317,151,515,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a46b37c14d53797c8b11ba53fe405d2fb" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleAddResponseImpl" alt="" coords="589,86,869,127"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="926,53,1141,94"/>
+<area shape="rect" id="node8" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#a6d6aa73779e2f003c8ff5889bb67f77e" title="etcdserverpb::AuthRoleAdd\lResponse::InitAsDefaultInstance" alt="" coords="917,118,1149,159"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1198,53,1442,94"/>
+<area shape="rect" id="node7" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1491,53,1715,94"/>
+<area shape="rect" id="node9" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1208,118,1432,159"/>
+</map>

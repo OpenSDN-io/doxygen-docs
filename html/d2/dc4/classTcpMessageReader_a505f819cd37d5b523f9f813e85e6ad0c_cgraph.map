@@ -1,0 +1,15 @@
+<map id="TcpMessageReader::OnRead" name="TcpMessageReader::OnRead">
+<area shape="rect" id="node2" href="$d2/dc4/classTcpMessageReader.html#aeeb49df378198b4218f28f526d36207e" title="TcpMessageReader::GetHeader\lLenSize" alt="" coords="270,5,493,46"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a72dca78676dd42e1b23b7959d50caf92" title="TcpSession::BufferSize" alt="" coords="573,161,739,188"/>
+<area shape="rect" id="node4" href="$d2/dc4/classTcpMessageReader.html#ac3a40fe4c19522041f1529a771bc6cf0" title="TcpMessageReader::MsgLength" alt="" coords="270,405,493,432"/>
+<area shape="rect" id="node5" href="$d2/dc4/classTcpMessageReader.html#a00023e573a56f1a3f5903ca70ef3b947" title="TcpMessageReader::QueueByte\lLength" alt="" coords="269,70,494,111"/>
+<area shape="rect" id="node6" href="$d2/dc4/classTcpMessageReader.html#a91c8f5af6c9b99cafb6ac7164b76d36b" title="TcpMessageReader::PullUp" alt="" coords="284,187,479,213"/>
+<area shape="rect" id="node8" href="$d2/dc4/classTcpMessageReader.html#a2c4d99ac300ed2b168588e55605993a8" title="TcpMessageReader::AllocBufferSize" alt="" coords="256,456,507,483"/>
+<area shape="rect" id="node10" href="$d2/dc4/classTcpMessageReader.html#acdba605d6ec97163508c77f67bd07390" title="TcpMessageReader::Buffer\lConcat" alt="" coords="285,289,477,330"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a5d54ca8bb8677944597b8f7e71d9c2f8" title="TcpSession::BufferData" alt="" coords="571,237,741,264"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#a839ed6302fe50e80d1748068e727e102" title="TcpSession::ReleaseBuffer" alt="" coords="561,325,751,352"/>
+<area shape="rect" id="node9" href="$d2/dc4/classTcpMessageReader.html#a8f4b27f8bf46227606ee5e61e24a15ca" title="TcpMessageReader::GetMax\lMessageSize" alt="" coords="555,449,757,490"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#a507546e5864b4ff9ca5cc053997295a5" title="TcpSession::ReleaseBuffer\lLocked" alt="" coords="806,318,997,359"/>
+<area shape="rect" id="node13" href="$d7/d26/tcp__session_8cc.html#ad80ff481618c2fd0aee408474c5a5f3f" title="BufferCmp" alt="" coords="1092,300,1183,327"/>
+<area shape="rect" id="node14" href="$d2/d0e/classTcpSession.html#a7ae76d965d35ff041583329d94f1f5c5" title="TcpSession::DeleteBuffer" alt="" coords="1046,351,1229,377"/>
+</map>

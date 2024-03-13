@@ -1,0 +1,33 @@
+<map id="SessionStatsCollector::BuildSloList" name="SessionStatsCollector::BuildSloList">
+<area shape="rect" id="node2" href="$d4/d59/classAgentUveBase.html#ab157dc970a1c99086be05be9658b6e4f" title="AgentUveBase::agent" alt="" coords="1339,5,1501,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="244,285,364,312"/>
+<area shape="rect" id="node4" href="$dc/dff/classOperDB.html#aa6631648d2d603c1ec66872dc4e7d2ac" title="OperDB::global_vrouter" alt="" coords="217,336,391,363"/>
+<area shape="rect" id="node5" href="$de/d48/classGlobalVrouter.html#acdd5f657b3c8c1b75adc5f27fbd052b0" title="GlobalVrouter::slo_uuid" alt="" coords="217,387,391,413"/>
+<area shape="rect" id="node6" href="$df/d96/classSessionStatsCollector.html#a2cb9020632cb402608d425ecbae24050" title="SessionStatsCollector\l::AddSloEntry" alt="" coords="651,161,813,202"/>
+<area shape="rect" id="node26" href="$df/d96/classSessionStatsCollector.html#aeb9bf1fdb9d6b5e8de6636e79cd8e606" title="SessionStatsCollector\l::AddSloList" alt="" coords="440,161,603,202"/>
+<area shape="rect" id="node27" href="$df/d96/classSessionStatsCollector.html#a81810dae332ec8cc9d218ba2129d2ec0" title="SessionStatsCollector\l::MakeSloList" alt="" coords="223,219,385,261"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a411e74c7d3bc1506e5c7379551255b73" title="Agent::slo_table" alt="" coords="893,273,1019,300"/>
+<area shape="rect" id="node8" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="862,454,1050,495"/>
+<area shape="rect" id="node12" href="$d5/d44/classSecurityLoggingObject.html#aee1260f76d3e5746867cc470a5117e37" title="SecurityLoggingObject\l::status" alt="" coords="872,57,1040,98"/>
+<area shape="rect" id="node13" href="$df/d96/classSessionStatsCollector.html#a337ebdf788f1093f491eb4e0c8fc1ecb" title="SessionStatsCollector\l::AddSloEntryRules" alt="" coords="875,207,1037,249"/>
+<area shape="rect" id="node9" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="1113,487,1260,513"/>
+<area shape="rect" id="node10" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="1101,436,1273,463"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1331,436,1509,463"/>
+<area shape="rect" id="node14" href="$df/d96/classSessionStatsCollector.html#a971c902004e9150ba4170f669f91a838" title="SessionStatsCollector\l::AddSloRules" alt="" coords="1105,239,1268,281"/>
+<area shape="rect" id="node17" href="$d5/d44/classSecurityLoggingObject.html#a3cc1a0eb96037c8599c97d8bedab43a5" title="SecurityLoggingObject\l::rules" alt="" coords="1103,370,1271,411"/>
+<area shape="rect" id="node18" href="$df/d96/classSessionStatsCollector.html#a2014580e4f024143cd6fd93e9a066c14" title="SessionStatsCollector\l::AddSloFirewallPolicies" alt="" coords="1099,174,1274,215"/>
+<area shape="rect" id="node24" href="$df/d96/classSessionStatsCollector.html#a7e4a9d398f128e72af4d535253a87a23" title="SessionStatsCollector\l::AddSloFirewallRules" alt="" coords="1105,305,1268,346"/>
+<area shape="rect" id="node15" href="$df/d96/classSessionStatsCollector.html#adc0016adca5130a2632386c8dc7880e5" title="SessionStatsCollector\l::AddSessionSloRuleEntry" alt="" coords="1327,239,1513,281"/>
+<area shape="rect" id="node16" href="$d5/d44/classSecurityLoggingObject.html#ab0cfa450ef9c6f5e9fa5b8c147d9f006" title="SecurityLoggingObject\l::uuid" alt="" coords="1565,239,1733,281"/>
+<area shape="rect" id="node19" href="$d5/d44/classSecurityLoggingObject.html#ae61406ca21707e3639a49eed7e43981e" title="SecurityLoggingObject\l::firewall_policy_list" alt="" coords="1336,174,1504,215"/>
+<area shape="rect" id="node20" href="$de/d3a/classAclDBEntry.html#a97fae25000b27350c1d6b26367afaa79" title="AclDBEntry::GetAclEntryAt\lIndex" alt="" coords="1323,57,1517,98"/>
+<area shape="rect" id="node21" href="$df/d96/classSessionStatsCollector.html#af4312a03d608827ce21c69fb4541b88e" title="SessionStatsCollector\l::ComputeSloRate" alt="" coords="1339,305,1501,346"/>
+<area shape="rect" id="node23" href="$da/d28/classAclEntry.html#ad15574a49ea1fbaf6fb59f0cea73c65d" title="AclEntry::uuid" alt="" coords="1365,123,1475,149"/>
+<area shape="rect" id="node22" href="$d5/d44/classSecurityLoggingObject.html#a1bb3cb151cc4d7e2c8807a3a4b2de071" title="SecurityLoggingObject\l::rate" alt="" coords="1565,305,1733,346"/>
+<area shape="rect" id="node25" href="$d5/d44/classSecurityLoggingObject.html#ac218c7ff704773600bb9d442205c7100" title="SecurityLoggingObject\l::firewall_rule_list" alt="" coords="1336,370,1504,411"/>
+<area shape="rect" id="node28" href="$d3/d4f/classFlowEntry.html#aa115265c5547a2d1d34aefee8e343220" title="FlowEntry::intf_entry" alt="" coords="443,379,599,405"/>
+<area shape="rect" id="node29" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="463,429,580,456"/>
+<area shape="rect" id="node30" href="$d5/d21/classVmInterface.html#acf6738d89b367a46773e28bcbd63bb43" title="VmInterface::slo_list" alt="" coords="443,227,599,253"/>
+<area shape="rect" id="node31" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="458,277,585,304"/>
+<area shape="rect" id="node32" href="$d8/d00/classVnEntry.html#aaf892673b5b3d0c78e3931e3919380cd" title="VnEntry::slo_list" alt="" coords="458,328,585,355"/>
+</map>

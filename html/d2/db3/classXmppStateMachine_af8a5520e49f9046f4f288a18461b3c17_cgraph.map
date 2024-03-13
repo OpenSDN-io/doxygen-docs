@@ -1,0 +1,12 @@
+<map id="XmppStateMachine::OnSessionEvent" name="XmppStateMachine::OnSessionEvent">
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a99ff7dcfd321f2299dccf6649fc3c3fe" title="TcpSession::ToUVEKey" alt="" coords="314,5,481,32"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#a6512fddd994e086365de23ffb3d83fda" title="XmppStateMachine::ChannelType" alt="" coords="278,56,517,83"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="284,107,511,133"/>
+<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="298,157,497,184"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#a4e2604ea142c664b2f7be79fa6178059" title="XmppConnection::GetTo" alt="" coords="308,208,487,235"/>
+<area shape="rect" id="node8" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="291,259,503,285"/>
+<area shape="rect" id="node10" href="$d0/d64/classXmppConnection.html#a2d1a0157671d5fe813f122a7fcf41c36" title="XmppConnection::inc\l_connect_error" alt="" coords="317,310,477,351"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#accb70ab006de6de4e9ffdd5f93eb5797" title="XmppConnection::inc\l_session_close" alt="" coords="317,375,477,417"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title="XmppStateMachine::IsActive\lChannel" alt="" coords="565,49,773,90"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="589,259,750,285"/>
+</map>

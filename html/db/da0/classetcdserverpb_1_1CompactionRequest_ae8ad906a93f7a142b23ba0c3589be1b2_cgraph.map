@@ -1,0 +1,6 @@
+<map id="etcdserverpb::CompactionRequest::MergeFrom" name="etcdserverpb::CompactionRequest::MergeFrom">
+<area shape="rect" id="node2" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#acd217eeffb897a75df165e939df0e13d" title="etcdserverpb::Compaction\lRequest::revision" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#a9734ad7bbca840f0999a0756eb8d64c1" title="etcdserverpb::Compaction\lRequest::set_revision" alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#adef40def4b9863c16c2b3650e55f3d07" title="etcdserverpb::Compaction\lRequest::physical" alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node5" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#af917382f8ab5d6f827bd59c995f51f65" title="etcdserverpb::Compaction\lRequest::set_physical" alt="" coords="249,201,442,242"/>
+</map>

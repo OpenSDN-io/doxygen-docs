@@ -1,0 +1,19 @@
+<map id="KSyncSockNetlink::NetlinkBulkDecoder" name="KSyncSockNetlink::NetlinkBulkDecoder">
+<area shape="rect" id="node2" href="$d5/d89/ksync__sock_8cc.html#a1cba39e20a131d6226f63fbcf16b0896" title="ValidateNetlink" alt="" coords="285,76,408,103"/>
+<area shape="rect" id="node4" href="$d5/d89/ksync__sock_8cc.html#a5b09ce322874abb0f4c36c4bd41ddec4" title="GetNetlinkPayload" alt="" coords="275,127,418,153"/>
+<area shape="rect" id="node5" href="$db/df6/classKSyncBulkSandeshContext.html#a449286c9974edc286e4c689b402f9da4" title="KSyncBulkSandeshContext\l::Decoder" alt="" coords="248,178,445,219"/>
+<area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#affbb26c1e594924e9440889268bd2c70" title="KSyncSock::GetNetlinkFamilyId" alt="" coords="493,76,720,103"/>
+<area shape="rect" id="node6" href="$d5/d89/ksync__sock_8cc.html#adcec88b92809073f4ab9eb4ebf396304" title="DecodeSandeshMessages" alt="" coords="511,127,702,153"/>
+<area shape="rect" id="node13" href="$db/df6/classKSyncBulkSandeshContext.html#a50dd661248f5b077167d93ae2a90efcb" title="KSyncBulkSandeshContext\l::IoContextDone" alt="" coords="508,235,705,277"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a3a6764f6633cab28f2c130f4ec76488e" title="Sandesh::ReceiveBinaryMsgOne" alt="" coords="769,97,999,124"/>
+<area shape="rect" id="node8" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="1058,6,1214,47"/>
+<area shape="rect" id="node10" href="$de/d75/classSandesh.html#aed76cd9fa4e995c2e28c96800d27773b" title="Sandesh::Read" alt="" coords="1077,72,1195,99"/>
+<area shape="rect" id="node11" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title="SandeshBuffer::Process" alt="" coords="1049,123,1223,149"/>
+<area shape="rect" id="node12" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="1068,173,1204,200"/>
+<area shape="rect" id="node9" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="1273,6,1429,47"/>
+<area shape="rect" id="node14" href="$d9/d95/classIoContext.html#a10c7a31747012f0b946676f92c29d0af" title="IoContext::GetSandeshContext" alt="" coords="773,148,995,175"/>
+<area shape="rect" id="node15" href="$d1/d00/classAgentSandeshContext.html#a0e5bfc1305239d78b94027e9f4ca1ddc" title="AgentSandeshContext\l::set_ksync_io_ctx" alt="" coords="801,199,967,241"/>
+<area shape="rect" id="node16" href="$d1/d00/classAgentSandeshContext.html#a7a04cf90575d11967854e8d6d1a229ff" title="AgentSandeshContext\l::GetErrno" alt="" coords="801,265,967,306"/>
+<area shape="rect" id="node17" href="$d9/d95/classIoContext.html#a3f8e6b3b803f2b95c280fed29eb55092" title="IoContext::ErrorHandler" alt="" coords="797,331,971,357"/>
+<area shape="rect" id="node18" href="$d9/d95/classIoContext.html#a65c1a033a498520958d75c0961cbbb63" title="IoContext::Handler" alt="" coords="812,381,956,408"/>
+</map>

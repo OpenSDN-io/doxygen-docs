@@ -1,0 +1,13 @@
+<map id="PortSubscribeTable::AddVmi" name="PortSubscribeTable::AddVmi">
+<area shape="rect" id="node2" href="$d0/db9/classVmiSubscribeEntry.html#a35b94140aea55fc5f9327fc16e8a45b5" title="VmiSubscribeEntry::\lvm_uuid" alt="" coords="200,34,352,75"/>
+<area shape="rect" id="node3" href="$d0/db9/classVmiSubscribeEntry.html#af8c369d037751aa4f49be2450bddba06" title="VmiSubscribeEntry::\lOnDelete" alt="" coords="200,99,352,141"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#acc953efdd0e5f8b379b93cfd2be95260" title="DBEntryBase::Delete" alt="" coords="406,31,565,57"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="402,81,569,108"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="420,132,551,159"/>
+<area shape="rect" id="node11" href="$df/def/classVNController.html#ab2f9b151ee940d419f6b1e3db27ab15e" title="VNController::Enqueue" alt="" coords="401,183,570,209"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="622,5,799,32"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="619,56,802,83"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="851,31,1042,57"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="862,81,1031,108"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="630,183,791,209"/>
+</map>

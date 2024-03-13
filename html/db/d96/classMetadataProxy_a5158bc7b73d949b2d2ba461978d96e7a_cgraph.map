@@ -1,0 +1,19 @@
+<map id="MetadataProxy::OnAVrfChange" name="MetadataProxy::OnAVrfChange">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="525,155,702,181"/>
+<area shape="rect" id="node3" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="286,72,455,99"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="305,123,436,149"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="277,6,464,47"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="287,224,455,251"/>
+<area shape="rect" id="node9" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="275,311,467,353"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="525,13,701,40"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="761,13,965,40"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="525,337,701,364"/>
+<area shape="rect" id="node12" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="515,388,712,415"/>
+<area shape="rect" id="node15" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="539,439,688,465"/>
+<area shape="rect" id="node16" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="519,489,708,516"/>
+<area shape="rect" id="node17" href="$d5/d21/classVmInterface.html#a59a1f65611be4d86e4201704f6dfa55b" title="VmInterface::mdata\l_ip6_addr" alt="" coords="537,206,689,247"/>
+<area shape="rect" id="node18" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="530,271,697,313"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="771,337,954,364"/>
+<area shape="rect" id="node13" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="813,388,912,415"/>
+<area shape="rect" id="node14" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="778,439,947,465"/>
+</map>

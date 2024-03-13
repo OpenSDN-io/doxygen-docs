@@ -1,0 +1,11 @@
+<map id="BgpAsAService::GetBgpRouterServiceDestination" name="BgpAsAService::GetBgpRouterServiceDestination">
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="322,5,449,32"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="305,57,466,98"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#ab489ae6a5e07a3b1774f45f5f101fc39" title="VnEntry::GetGatewayFromIpam" alt="" coords="272,123,499,149"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a74cefd476164f1f79c7ba5283590b75b" title="VnEntry::GetDnsFromIpam" alt="" coords="289,173,482,200"/>
+<area shape="rect" id="node7" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="315,224,456,251"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="325,275,445,301"/>
+<area shape="rect" id="node9" href="$dc/dff/classOperDB.html#afe591acc8a3ebf4af590195068b62d04" title="OperDB::bgp_router\l_config" alt="" coords="310,326,461,367"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a9f821606458653899841e82866b5e9b6" title="Agent::controller_ifmap\l_xmpp_server" alt="" coords="298,391,473,433"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="547,148,683,175"/>
+</map>

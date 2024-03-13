@@ -1,0 +1,8 @@
+<map id="OVSDB::OvsdbClientSsl::AddSessionInfo" name="OVSDB::OvsdbClientSsl::AddSessionInfo">
+<area shape="rect" id="node2" href="$db/d54/classOVSDB_1_1OvsdbClientSsl.html#a6d2304d6a97c5d96c8052b3e36a34b62" title="OVSDB::OvsdbClientSsl\l::NextSession" alt="" coords="245,22,419,63"/>
+<area shape="rect" id="node4" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a8894a62c5dd8d4fcbe53070a55517715" title="OVSDB::OvsdbClientSession\l::AddSessionInfo" alt="" coords="229,119,435,161"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="511,5,659,46"/>
+<area shape="rect" id="node5" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a6a1b13b9cc9834f5c4ec10e13eb9361e" title="OVSDB::OvsdbClientSession\l::status" alt="" coords="483,70,688,111"/>
+<area shape="rect" id="node6" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a3e63b455021da030525922787c16a3f0" title="OVSDB::OvsdbClientSession\l::remote_ip" alt="" coords="483,135,688,177"/>
+<area shape="rect" id="node7" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a60d34cbe660c44babcf83cc4418efd60" title="OVSDB::OvsdbClientSession\l::remote_port" alt="" coords="483,201,688,242"/>
+</map>

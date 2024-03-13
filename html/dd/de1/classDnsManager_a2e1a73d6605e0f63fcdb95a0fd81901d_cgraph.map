@@ -1,0 +1,5 @@
+<map id="DnsManager::Shutdown" name="DnsManager::Shutdown">
+<area shape="rect" id="node2" href="$d7/db3/classDnsConfigManager.html#aac587f98a63d414e467d64707300fe64" title="DnsConfigManager::Terminate" alt="" coords="230,5,447,32"/>
+<area shape="rect" id="node3" href="$d3/d00/classNamedConfig.html#a54a7c0f6fb2253bb437e22ffa3ad7662" title="NamedConfig::Shutdown" alt="" coords="247,56,430,83"/>
+<area shape="rect" id="node4" href="$d0/d5b/classBindResolver.html#a7cf3732a8d46617d9ec72cfaadcb39a2" title="BindResolver::Shutdown" alt="" coords="249,107,428,133"/>
+</map>

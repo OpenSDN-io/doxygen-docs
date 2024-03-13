@@ -1,0 +1,24 @@
+<map id="BgpTable::RemovePrivateAs" name="BgpTable::RemovePrivateAs">
+<area shape="rect" id="node2" href="$db/dd4/classRibOut.html#ae601a8a0b60ef6da833781ee432fc652" title="RibOut::remove_private_all" alt="" coords="267,5,467,32"/>
+<area shape="rect" id="node3" href="$db/dd4/classRibOut.html#a732130450c10aaa52015fa64204c0b0f" title="RibOut::remove_private\l_replace" alt="" coords="278,57,455,98"/>
+<area shape="rect" id="node4" href="$db/dd4/classRibOut.html#ae0146f219a5f0cdeed533566a9d3588d" title="RibOut::remove_private\l_peer_loop_check" alt="" coords="278,122,455,163"/>
+<area shape="rect" id="node5" href="$d5/dcf/classBgpAttr.html#a82d929597b91dfe905bf9967fc0b6099" title="BgpAttr::as_path" alt="" coords="556,201,687,228"/>
+<area shape="rect" id="node6" href="$d7/dfb/classAsPath.html#a18ead9573236e20fe12e32db66aadee4" title="AsPath::path" alt="" coords="570,277,673,304"/>
+<area shape="rect" id="node7" href="$db/dd4/classRibOut.html#a915a9c8c902bc59a72f2fe8452ed328c" title="RibOut::peer_as" alt="" coords="304,391,429,417"/>
+<area shape="rect" id="node8" href="$db/dd4/classRibOut.html#a35e901097084d4c46924807b6e809480" title="RibOut::peer_type" alt="" coords="297,441,436,468"/>
+<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="301,492,432,519"/>
+<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#a79251f927f0aa33a7a763bfb0f941577" title="BgpServer::local_autonomous\l_system" alt="" coords="259,543,475,585"/>
+<area shape="rect" id="node12" href="$d6/dbf/structAsPathSpec.html#ac90bbd417fe717a6a5696e1d9d7272d6" title="AsPathSpec::AsLeftMostPublic" alt="" coords="259,609,475,636"/>
+<area shape="rect" id="node14" href="$d5/dcf/classBgpAttr.html#a21e7ffd4c272eaa07313d2b737ca5cc7" title="BgpAttr::as4_path" alt="" coords="297,711,436,737"/>
+<area shape="rect" id="node15" href="$d0/def/classBgpTable.html#ad68ac1adfe9261176c75da0d55bfaa66" title="BgpTable::CreateAs4Path" alt="" coords="275,289,459,316"/>
+<area shape="rect" id="node17" href="$db/d93/classAs4Path.html#a989ee2b41f73b6bba697db403d5b7b51" title="As4Path::path" alt="" coords="311,761,422,788"/>
+<area shape="rect" id="node18" href="$d5/dfd/structAs4PathSpec.html#ac65845a4a2ecf25af7f5bc965d1abb88" title="As4PathSpec::RemovePrivate" alt="" coords="261,812,473,839"/>
+<area shape="rect" id="node16" href="$d5/dcf/classBgpAttr.html#a54dfe4d6eca5131ab6b16dd73c851bf8" title="BgpAttr::set_as4_path" alt="" coords="539,335,704,361"/>
+<area shape="rect" id="node21" href="$d6/dbf/structAsPathSpec.html#afe7e9fc207d0c7c96ecf3b4c3eaaf97e" title="AsPathSpec::RemovePrivate" alt="" coords="265,660,469,687"/>
+<area shape="rect" id="node23" href="$d5/dcf/classBgpAttr.html#a464a471b0ffce7d56ad1121b5a68bcef" title="BgpAttr::set_as_path" alt="" coords="288,863,445,889"/>
+<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="534,492,709,519"/>
+<area shape="rect" id="node13" href="$d6/dbf/structAsPathSpec.html#ad9e265af998727c6f44b81a8ba5a441e" title="AsPathSpec::AsIsPrivate" alt="" coords="532,609,711,636"/>
+<area shape="rect" id="node19" href="$d5/dfd/structAs4PathSpec.html#a8b3ba12ed66e9781e32a26a7be429ff0" title="As4PathSpec::As4PathSpec" alt="" coords="523,787,719,813"/>
+<area shape="rect" id="node20" href="$d5/dfd/structAs4PathSpec.html#ae87c14b562da76e31bf9f27ec3122287" title="As4PathSpec::AsIsPrivate" alt="" coords="528,837,715,864"/>
+<area shape="rect" id="node22" href="$d6/dbf/structAsPathSpec.html#a5ac934efa75240bd6697d6013dac86c9" title="AsPathSpec::AsPathSpec" alt="" coords="531,660,711,687"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="XmppStateMachine::HoldTimerExpired" name="XmppStateMachine::HoldTimerExpired">
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="295,5,500,32"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="284,56,511,83"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a6512fddd994e086365de23ffb3d83fda" title="XmppStateMachine::ChannelType" alt="" coords="278,107,517,133"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="291,159,503,185"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title="XmppStateMachine::IsActive\lChannel" alt="" coords="565,97,773,138"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="589,163,750,189"/>
+</map>

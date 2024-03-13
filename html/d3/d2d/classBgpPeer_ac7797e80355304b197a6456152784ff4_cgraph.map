@@ -1,0 +1,6 @@
+<map id="BgpPeer::IsServerStartingUp" name="BgpPeer::IsServerStartingUp">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#ac23b30fc223c9d6191682d3fae83d98a" title="BgpServer::IsServerStartingUp" alt="" coords="261,31,480,57"/>
+<area shape="rect" id="node3" href="$d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49" title="MiscUtils::GetUpTimeSeconds" alt="" coords="542,5,759,32"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#ae988d8848ad2fde3b85db83384ed9bfb" title="BgpServer::GetEndOfRibSendTime" alt="" coords="528,56,773,83"/>
+<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2" title="UTCTimestamp" alt="" coords="821,5,944,32"/>
+</map>

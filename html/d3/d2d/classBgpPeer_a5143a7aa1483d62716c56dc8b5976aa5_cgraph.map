@@ -1,0 +1,6 @@
+<map id="BgpPeer::ManagedDelete" name="BgpPeer::ManagedDelete">
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a8db31e5144fec0e3ec74d7b49f0b7408" title="BgpPeer::IsRouterTypeBGPaaS" alt="" coords="241,5,458,32"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="287,56,412,83"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#af5bab3bc2a3774d9f7f80bff11e52187" title="BgpServer::increment\l_deleting_bgpaas_count" alt="" coords="260,107,439,149"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#aeeae8183d39c14782b7e58e696cd7047" title="BgpServer::increment\l_deleting_count" alt="" coords="268,173,431,214"/>
+</map>

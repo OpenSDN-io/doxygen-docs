@@ -1,0 +1,12 @@
+<map id="InterfaceNH::SendObjectLog" name="InterfaceNH::SendObjectLog">
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#a0727637cd8e3944e181fda61ee55ddfc" title="NextHop::FillObjectLog" alt="" coords="272,5,443,32"/>
+<area shape="rect" id="node3" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="263,56,452,83"/>
+<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#a16194117cc2e35e124946e5a7aa27112" title="NextHop::FillObjectLogIntf" alt="" coords="261,107,453,133"/>
+<area shape="rect" id="node9" href="$de/d30/classInterfaceNH.html#a8b1fd362d7d45418a58dc6d6019a34a4" title="InterfaceNH::GetDMac" alt="" coords="274,157,441,184"/>
+<area shape="rect" id="node10" href="$d3/df5/classMacAddress.html#ae49b98f8e7d52e412f498e237a29b637" title="MacAddress::GetData" alt="" coords="276,208,439,235"/>
+<area shape="rect" id="node11" href="$d4/dec/classNextHop.html#a1345bb21ed583b781ce984a65508c488" title="NextHop::FillObjectLogMac" alt="" coords="259,259,455,285"/>
+<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="516,31,633,57"/>
+<area shape="rect" id="node6" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="523,81,627,108"/>
+<area shape="rect" id="node7" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="504,132,645,159"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="512,183,637,209"/>
+</map>

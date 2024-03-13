@@ -1,0 +1,36 @@
+<map id="OperDB::Init" name="OperDB::Init">
+<area shape="rect" id="node2" href="$dc/dff/classOperDB.html#ae76df84f7d07bb063a599e280d303f57" title="OperDB::agent" alt="" coords="183,211,300,237"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="183,261,300,288"/>
+<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#a2b50cec78c94ee65772d8294b5a6b6b2" title="AgentParam::si_netns\l_command" alt="" coords="160,313,323,354"/>
+<area shape="rect" id="node5" href="$dc/dd4/classAgentParam.html#ae6c54185f59cc6e85df207d69b7f7574" title="AgentParam::si_docker\l_command" alt="" coords="156,378,327,419"/>
+<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#a477277cfd27e11a898ec9adc9c3e2c1c" title="AgentParam::si_netns\l_workers" alt="" coords="160,443,323,485"/>
+<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a0454a4b7b2fe01be7c03ec30a64ec7ac" title="AgentParam::si_netns\l_timeout" alt="" coords="160,509,323,550"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ac3c6e36bd8c8c2d991028be2ad7b921b" title="Agent::db" alt="" coords="199,575,283,601"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a897c35c265a328bcf69a180acf61a539" title="Agent::config_manager" alt="" coords="155,625,327,652"/>
+<area shape="rect" id="node10" href="$d5/d0a/classConfigManager.html#a77fe9356a336f7135a12434a40257d25" title="ConfigManager::Init" alt="" coords="167,676,315,703"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="382,5,549,32"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="379,57,551,98"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#a253c9faae6367a8370c24410ca194d90" title="Agent::sg_table" alt="" coords="404,123,527,149"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#a7551b24c319aa052728fa570fa396996" title="Agent::tag_table" alt="" coords="401,173,530,200"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#a51c3acf80aa60742d2a2c19779086945" title="Agent::vn_table" alt="" coords="403,224,527,251"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="402,275,529,301"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a3af467d5407c28e06e5aa71755b0258c" title="Agent::vm_table" alt="" coords="401,325,530,352"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a67039eb042a323867cf61f32fbd3f4ef" title="Agent::health_check\l_table" alt="" coords="388,377,543,418"/>
+<area shape="rect" id="node19" href="$d8/dfe/classAgent.html#a07e81db7927a6fe8e26e6068a192c06b" title="Agent::bridge_domain\l_table" alt="" coords="383,442,548,483"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a682953957a3757fca8bb0abad338dfbe" title="Agent::policy_set_table" alt="" coords="378,508,553,535"/>
+<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#a0c668a2cc3419fff3b7b15e693398736" title="Agent::qos_config_table" alt="" coords="377,559,554,585"/>
+<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#af6375091d88b7bf3e5d4fc1baff51bae" title="Agent::physical_device\l_vn_table" alt="" coords="379,610,551,651"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#acbebabe6f65e43bb39d8a811c3951c80" title="Agent::qos_queue_table" alt="" coords="376,676,555,703"/>
+<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a4ec646b136519eec0033326c1173716c" title="Agent::forwarding_class\l_table" alt="" coords="376,727,555,769"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a411e74c7d3bc1506e5c7379551255b73" title="Agent::slo_table" alt="" coords="402,793,529,820"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#a7bbfa6ed5997ad9beb2e0567b0786f51" title="Agent::mp_table" alt="" coords="401,844,530,871"/>
+<area shape="rect" id="node27" href="$d5/d0a/classConfigManager.html#a8f8b70f18aeb90652b625f9c84cb32c9" title="ConfigManager::agent" alt="" coords="383,895,547,921"/>
+<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="405,945,525,972"/>
+<area shape="rect" id="node29" href="$dc/dff/classOperDB.html#aa6631648d2d603c1ec66872dc4e7d2ac" title="OperDB::global_vrouter" alt="" coords="378,996,553,1023"/>
+<area shape="rect" id="node30" href="$dc/dff/classOperDB.html#afe591acc8a3ebf4af590195068b62d04" title="OperDB::bgp_router\l_config" alt="" coords="390,1047,541,1089"/>
+<area shape="rect" id="node31" href="$dc/dff/classOperDB.html#a1cae37403f36d9ad6571bd14f01aeb38" title="OperDB::vrouter" alt="" coords="402,1113,529,1140"/>
+<area shape="rect" id="node32" href="$dc/dff/classOperDB.html#a8c1671c4b44702d27897a6c22da9ce07" title="OperDB::global_qos\l_config" alt="" coords="390,1165,541,1206"/>
+<area shape="rect" id="node33" href="$dc/dff/classOperDB.html#a8174ef6fcba26d06051a4b0500765b19" title="OperDB::global_system\l_config" alt="" coords="378,1230,553,1271"/>
+<area shape="rect" id="node34" href="$dc/dff/classOperDB.html#add4843cbacd1f47202e62f4c7aa80a1a" title="OperDB::network_ipam" alt="" coords="379,1296,552,1323"/>
+<area shape="rect" id="node35" href="$dc/dff/classOperDB.html#ab15a01161562ddff194b0f7df52aaa9d" title="OperDB::virtual_dns" alt="" coords="389,1347,541,1373"/>
+</map>

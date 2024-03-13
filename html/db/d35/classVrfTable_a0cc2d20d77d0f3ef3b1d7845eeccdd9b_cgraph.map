@@ -1,0 +1,19 @@
+<map id="VrfTable::OperDBAdd" name="VrfTable::OperDBAdd">
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="234,5,393,32"/>
+<area shape="rect" id="node3" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="214,56,413,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="219,107,408,133"/>
+<area shape="rect" id="node5" href="$d6/d34/classIndexVector.html#a0934d8293a6d9b7a2e13da2c952765ac" title="IndexVector::InsertAtIndex" alt="" coords="216,157,411,184"/>
+<area shape="rect" id="node6" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="240,208,387,235"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a6e73f4780270900ce05ecddc5c371062" title="VrfEntry::set_routing_vrf" alt="" coords="223,259,403,285"/>
+<area shape="rect" id="node11" href="$d2/d3d/classVrfEntry.html#a988f51eafca19c1ddf01aca1b48ab19d" title="VrfEntry::set_hbf_rintf" alt="" coords="231,309,395,336"/>
+<area shape="rect" id="node12" href="$d2/d3d/classVrfEntry.html#a12a4955ab12c88609c48b816434c0a52" title="VrfEntry::set_hbf_lintf" alt="" coords="232,360,395,387"/>
+<area shape="rect" id="node13" href="$d2/d3d/classVrfEntry.html#a5dfd42da64bafffaa35f01d9079e8970" title="VrfEntry::set_rd" alt="" coords="252,411,375,437"/>
+<area shape="rect" id="node15" href="$d2/d3d/classVrfEntry.html#a776d41ab2e967c145ffca1cfe5f7ffa7" title="VrfEntry::RDInstanceId" alt="" coords="229,461,397,488"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title="Agent::NullString" alt="" coords="247,512,379,539"/>
+<area shape="rect" id="node7" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="462,201,650,242"/>
+<area shape="rect" id="node8" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="699,208,871,235"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="921,208,1098,235"/>
+<area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a0db22dd072887b39ca7bc7836209ff46" title="VrfEntry::rd" alt="" coords="509,411,603,437"/>
+<area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="507,461,605,488"/>
+<area shape="rect" id="node17" href="$d8/d00/classVnEntry.html#aeca0c625536189d33314fb4b2943939e" title="VnEntry::vnid" alt="" coords="502,512,610,539"/>
+</map>

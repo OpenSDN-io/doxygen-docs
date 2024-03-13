@@ -1,0 +1,28 @@
+<map id="session_stats_collector.h" name="session_stats_collector.h">
+<area shape="rect" id="node2" href="$db/d0e/flow__stats__manager_8h.html" title="vrouter/flow_stats\l/flow_stats_manager.h" alt="" coords="3720,81,3888,122"/>
+<area shape="rect" id="node3" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="2131,344,2269,371"/>
+<area shape="rect" id="node44" href="$db/d5d/index__vector_8h.html" title="cmn/index_vector.h" alt="" coords="4448,435,4597,461"/>
+<area shape="rect" id="node46" href="$d9/da3/stats__collector_8h.html" title="uve/stats_collector.h" alt="" coords="3235,435,3391,461"/>
+<area shape="rect" id="node47" href="$d4/d08/interface__uve__stats__table_8h.html" title="uve/interface_uve_stats\l_table.h" alt="" coords="3841,171,4020,213"/>
+<area shape="rect" id="node48" href="$d7/d01/flow__table_8h.html" title="pkt/flow_table.h" alt="" coords="3867,261,3993,288"/>
+<area shape="rect" id="node50" href="$d5/d00/flowtable__ksync_8h.html" title="vrouter/ksync/flowtable\l_ksync.h" alt="" coords="222,171,396,213"/>
+<area shape="rect" id="node15" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1774,435,1924,461"/>
+<area shape="rect" id="node16" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="3251,592,3321,619"/>
+<area shape="rect" id="node19" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="331,592,440,619"/>
+<area shape="rect" id="node20" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="275,667,385,693"/>
+<area shape="rect" id="node21" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="737,517,908,544"/>
+<area shape="rect" id="node22" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="3541,435,3701,461"/>
+<area shape="rect" id="node25" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="3971,435,4091,461"/>
+<area shape="rect" id="node24" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="3680,517,3797,544"/>
+<area shape="rect" id="node26" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="2827,592,2924,619"/>
+<area shape="rect" id="node27" href="$de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="100,667,247,693"/>
+<area shape="rect" id="node28" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="2877,517,3059,544"/>
+<area shape="rect" id="node29" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="565,517,712,544"/>
+<area shape="rect" id="node30" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="448,435,568,461"/>
+<area shape="rect" id="node31" href="$dc/ddd/ifmap__agent__parser_8h.html" title="ifmap/ifmap_agent_parser.h" alt="" coords="3235,517,3440,544"/>
+<area shape="rect" id="node32" href="$d7/d08/ifmap__agent__table_8h.html" title="ifmap/ifmap_agent_table.h" alt="" coords="1094,435,1292,461"/>
+<area shape="rect" id="node37" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="3463,667,3565,693"/>
+<area shape="rect" id="node38" href="$da/de1/agent__db_8h.html" title="cmn/agent_db.h" alt="" coords="2137,435,2263,461"/>
+<area shape="rect" id="node39" href="$dc/d43/event__notifier_8h.html" title="cmn/event_notifier.h" alt="" coords="2288,435,2443,461"/>
+<area shape="rect" id="node33" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="1765,517,1867,544"/>
+</map>

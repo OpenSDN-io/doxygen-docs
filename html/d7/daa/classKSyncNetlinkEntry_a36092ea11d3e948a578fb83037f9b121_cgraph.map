@@ -1,0 +1,11 @@
+<map id="KSyncNetlinkEntry::Add" name="KSyncNetlinkEntry::Add">
+<area shape="rect" id="node2" href="$d7/daa/classKSyncNetlinkEntry.html#a0d3ad651df9ff88d49a4e4dfab089e2a" title="KSyncNetlinkEntry::Sync" alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node3" href="$d7/daa/classKSyncNetlinkEntry.html#a46689af4d608da7b28b5526b5ed4103c" title="KSyncNetlinkEntry::\lMsgLen" alt="" coords="245,57,395,98"/>
+<area shape="rect" id="node4" href="$d7/daa/classKSyncNetlinkEntry.html#adf6b7f7a7965c3b5b5337a6772fb8b4f" title="KSyncNetlinkEntry::\lAddMsg" alt="" coords="245,122,395,163"/>
+<area shape="rect" id="node5" href="$d0/d5a/classKSyncSock.html#ac6185486999d682bca64701bb6de09db" title="KSyncSock::Get" alt="" coords="258,188,382,215"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#a717fe66740c699c4b64ed3cea1ea63c8" title="KSyncSock::SendAsync" alt="" coords="234,239,406,265"/>
+<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#ab3ad4af523a64ec291777ccbbc1b7167" title="KSyncEntry::pre_alloc\l_rx_buffer" alt="" coords="469,202,632,243"/>
+<area shape="rect" id="node8" href="$d7/dbd/classKSyncTxQueue.html#a1a293976621e6a95e7621c7fe597de82" title="KSyncTxQueue::Enqueue" alt="" coords="459,268,643,295"/>
+<area shape="rect" id="node9" href="$d7/dbd/classKSyncTxQueue.html#a573dde954a23ae08dcd74cc4ae248284" title="KSyncTxQueue::EnqueueInternal" alt="" coords="691,268,925,295"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="974,268,1135,295"/>
+</map>

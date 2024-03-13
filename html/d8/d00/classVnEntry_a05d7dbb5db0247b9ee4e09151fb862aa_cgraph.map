@@ -1,0 +1,11 @@
+<map id="VnEntry::AddIpamRoutes" name="VnEntry::AddIpamRoutes">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a4d97f24829c2526fb404242a57dcba9e" title="Agent::linklocal_vrf_name" alt="" coords="237,5,429,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a69109a71e7b00199ef93020e625241f0" title="Agent::tsn_enabled" alt="" coords="504,81,651,108"/>
+<area shape="rect" id="node4" href="$d8/d50/vn_8cc.html#a28d623a7c562e5587f8265e50b9f551a" title="IsGwHostRouteRequired" alt="" coords="244,107,423,133"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#a3fc06d4afa6297110fe43bf7b6b33fb5" title="VnEntry::AddHostRoute" alt="" coords="247,157,419,184"/>
+<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#adfa552da236ed1f1ffd0b260ff40167e" title="VnEntry::AddSubnetRoute" alt="" coords="240,208,427,235"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="506,157,649,184"/>
+<area shape="rect" id="node8" href="$d2/d02/structVnIpam.html#a65663cd89364b10543382c986dd724f5" title="VnIpam::GetSubnetAddress" alt="" coords="477,208,677,235"/>
+<area shape="rect" id="node9" href="$de/d6b/classAddress.html#a212395ba95041b3c303efe85cf2af109" title="Address::GetIp4SubnetAddress" alt="" coords="726,183,949,209"/>
+<area shape="rect" id="node10" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="726,233,949,260"/>
+</map>

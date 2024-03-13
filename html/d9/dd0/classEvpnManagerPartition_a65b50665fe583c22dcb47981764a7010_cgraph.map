@@ -1,0 +1,30 @@
+<map id="EvpnManagerPartition::UpdateMcastNode" name="EvpnManagerPartition::UpdateMcastNode">
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#a9d47350d5145f277d1cbe30d0decf455" title="EvpnMcastNode::TriggerUpdate" alt="" coords="219,5,445,32"/>
+<area shape="rect" id="node3" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="253,56,411,83"/>
+<area shape="rect" id="node4" href="$d0/db1/classEvpnPrefix.html#a325ba51ab1ee43f50c01cef4fb3d8e9a" title="EvpnPrefix::source" alt="" coords="261,107,403,133"/>
+<area shape="rect" id="node5" href="$d0/db1/classEvpnPrefix.html#acf9f893852d86212fb0c83684b0f88a0" title="EvpnPrefix::group" alt="" coords="264,157,400,184"/>
+<area shape="rect" id="node6" href="$dd/de9/classEvpnMcastNode.html#ab4dcfb228b588e137c8ea47e8f9a82ea" title="EvpnMcastNode::type" alt="" coords="251,208,413,235"/>
+<area shape="rect" id="node7" href="$d9/dd0/classEvpnManagerPartition.html#a6054d10b79c4e0967b5bd40ea7952aae" title="EvpnManagerPartition\l::RemoveMcastNodeFromList" alt="" coords="227,259,437,301"/>
+<area shape="rect" id="node8" href="$dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="238,325,426,366"/>
+<area shape="rect" id="node9" href="$dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="238,390,426,431"/>
+<area shape="rect" id="node10" href="$d9/dd0/classEvpnManagerPartition.html#a88aebee716aeddf073eb330b4382ea58" title="EvpnManagerPartition\l::NotifyNodeRoute" alt="" coords="250,455,414,497"/>
+<area shape="rect" id="node27" href="$d9/dd0/classEvpnManagerPartition.html#a3dcd2f689f7c69aca449359f0245d55d" title="EvpnManagerPartition\l::NotifyReplicatorNodeRoutes" alt="" coords="225,521,439,562"/>
+<area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#a06dee053d0b377103d37e90531bda022" title="EvpnManagerPartition\l::NotifyIrClientNodeRoutes" alt="" coords="235,586,429,627"/>
+<area shape="rect" id="node29" href="$dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="494,637,693,678"/>
+<area shape="rect" id="node11" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="EvpnManagerPartition\l::GetTablePartition" alt="" coords="511,459,675,501"/>
+<area shape="rect" id="node21" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="503,528,683,555"/>
+<area shape="rect" id="node26" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title="EvpnMcastNode::route" alt="" coords="509,579,677,605"/>
+<area shape="rect" id="node12" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="EvpnManager::GetTablePartition" alt="" coords="741,427,971,453"/>
+<area shape="rect" id="node13" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="1019,427,1213,453"/>
+<area shape="rect" id="node14" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1261,401,1384,428"/>
+<area shape="rect" id="node20" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1265,452,1381,479"/>
+<area shape="rect" id="node15" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1432,401,1573,428"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1637,372,1838,399"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1622,423,1853,465"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1901,372,2117,399"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2166,365,2357,406"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="771,629,941,656"/>
+<area shape="rect" id="node23" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="767,477,945,504"/>
+<area shape="rect" id="node24" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="793,528,919,555"/>
+<area shape="rect" id="node25" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="754,579,958,605"/>
+</map>

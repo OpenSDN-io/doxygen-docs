@@ -1,0 +1,20 @@
+<map id="AgentDnsXmppChannel::HandleXmppClientChannelEvent" name="AgentDnsXmppChannel::HandleXmppClientChannelEvent">
+<area shape="rect" id="node2" href="$d5/d06/classAgentDnsXmppChannel.html#a4e25813c08fdf7488e9426650e814a5f" title="AgentDnsXmppChannel\l::UpdateConnectionInfo" alt="" coords="296,209,472,250"/>
+<area shape="rect" id="node12" href="$d5/d06/classAgentDnsXmppChannel.html#aa69d182547f794d30fac26c7f8db4f27" title="AgentDnsXmppChannel\l::TimedOut" alt="" coords="296,538,472,579"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#abf223d7bcb0c6f100e72ba7f0d482943" title="Agent::connection_state" alt="" coords="541,5,720,32"/>
+<area shape="rect" id="node4" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="559,56,703,83"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a8bcd698ec2f06877505fd3c8ddf18171" title="Agent::dns_server" alt="" coords="561,107,700,133"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ab8e89d87503ea410eb9aa39e609e84e9" title="Agent::dns_server_port" alt="" coords="545,157,717,184"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a89406f39a1c63ec7388d8255d9c7f3d9" title="Agent::xmpp_dns_server\l_prefix" alt="" coords="539,209,722,250"/>
+<area shape="rect" id="node9" href="$d5/d06/classAgentDnsXmppChannel.html#ab8d313e9a0a1183c66d1b602d565b623" title="AgentDnsXmppChannel\l::GetXmppChannel" alt="" coords="543,274,719,315"/>
+<area shape="rect" id="node10" href="$d6/d81/classXmppChannel.html#aa787f2420f27dcb86ffd384838df0458" title="XmppChannel::LastStateName" alt="" coords="520,340,741,367"/>
+<area shape="rect" id="node11" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title="process::ConnectionState\l::Update" alt="" coords="537,391,724,433"/>
+<area shape="rect" id="node5" href="$de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="827,56,914,83"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#ac2417024a616d3d66e4d2ddabdd84b08" title="Agent::GetDnslist" alt="" coords="803,532,939,559"/>
+<area shape="rect" id="node14" href="$d5/d06/classAgentDnsXmppChannel.html#a7845104cbef942cdd6ac11e36672ebd0" title="AgentDnsXmppChannel\l::GetXmppServer" alt="" coords="543,509,719,550"/>
+<area shape="rect" id="node15" href="$d6/de2/service__instance_8cc.html#a80e2a92150013fbdd8da1454ce6e9014" title="compare" alt="" coords="591,575,670,601"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="565,625,696,652"/>
+<area shape="rect" id="node17" href="$df/def/classVNController.html#aea31faa91bc7a42476ba7b1051518c0b" title="VNController::ReConnectDns\lServer" alt="" coords="527,677,734,718"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="797,659,944,685"/>
+<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="790,709,951,736"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BFD::Connection::HandleReceive" name="BFD::Connection::HandleReceive">
+<area shape="rect" id="node2" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="288,5,491,32"/>
+<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#afa4b8ad835418f32fe123ac0bd2a0193" title="BFD::Server::ProcessControl\lPacket" alt="" coords="288,57,491,98"/>
+<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="539,64,738,91"/>
+</map>

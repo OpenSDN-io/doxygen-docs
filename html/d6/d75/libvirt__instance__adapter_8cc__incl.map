@@ -1,0 +1,26 @@
+<map id="libvirt_instance_adapter.cc" name="libvirt_instance_adapter.cc">
+<area shape="rect" id="node12" href="$d4/d5d/cfg__init_8h.html" title="cfg/cfg_init.h" alt="" coords="1436,269,1543,296"/>
+<area shape="rect" id="node30" href="$d7/db4/libvirt__instance__adapter_8h.html" title="oper/libvirt_instance\l_adapter.h" alt="" coords="877,81,1032,122"/>
+<area shape="rect" id="node33" href="$de/db2/service__instance_8h.html" title="oper/service_instance.h" alt="" coords="369,269,545,296"/>
+<area shape="rect" id="node36" href="$d1/d58/instance__task_8h.html" title="oper/instance_task.h" alt="" coords="945,269,1103,296"/>
+<area shape="rect" id="node40" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="2408,179,2597,205"/>
+<area shape="rect" id="node17" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2664,443,2784,469"/>
+<area shape="rect" id="node19" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="2327,443,2444,469"/>
+<area shape="rect" id="node13" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1684,360,1823,387"/>
+<area shape="rect" id="node20" href="$d7/d08/ifmap__agent__table_8h.html" title="ifmap/ifmap_agent_table.h" alt="" coords="1533,443,1731,469"/>
+<area shape="rect" id="node15" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="576,443,685,469"/>
+<area shape="rect" id="node25" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="2126,443,2228,469"/>
+<area shape="rect" id="node29" href="$da/de1/agent__db_8h.html" title="cmn/agent_db.h" alt="" coords="1755,443,1881,469"/>
+<area shape="rect" id="node21" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="897,517,999,544"/>
+<area shape="rect" id="node32" href="$d9/d2e/instance__manager__adapter_8h.html" title="oper/instance_manager\l_adapter.h" alt="" coords="867,171,1041,213"/>
+<area shape="rect" id="node34" href="$dd/d12/ifmap__dependency__manager_8h.html" title="oper/ifmap_dependency\l_manager.h" alt="" coords="45,353,224,394"/>
+<area shape="rect" id="node38" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1224,360,1368,387"/>
+<area shape="rect" id="node39" href="$d0/de1/agent__signal_8h.html" title="cmn/agent_signal.h" alt="" coords="949,360,1099,387"/>
+<area shape="rect" id="node44" href="$d4/da9/interface_8h.html" title="oper/interface.h" alt="" coords="1567,269,1692,296"/>
+<area shape="rect" id="node45" href="$d6/d62/vm__interface_8h.html" title="oper/vm_interface.h" alt="" coords="2966,269,3119,296"/>
+<area shape="rect" id="node46" href="$d1/d6f/physical__interface_8h.html" title="oper/physical_interface.h" alt="" coords="3144,269,3331,296"/>
+<area shape="rect" id="node47" href="$db/da4/inet__interface_8h.html" title="oper/inet_interface.h" alt="" coords="3355,269,3512,296"/>
+<area shape="rect" id="node48" href="$df/d2b/packet__interface_8h.html" title="oper/packet_interface.h" alt="" coords="1817,269,1993,296"/>
+<area shape="rect" id="node49" href="$df/d36/logical__interface_8h.html" title="oper/logical_interface.h" alt="" coords="2018,269,2192,296"/>
+<area shape="rect" id="node50" href="$d4/d6b/remote__physical__interface_8h.html" title="oper/remote_physical\l_interface.h" alt="" coords="2268,262,2431,303"/>
+</map>

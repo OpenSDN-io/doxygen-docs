@@ -1,0 +1,19 @@
+<map id="Timer::Cancel" name="Timer::Cancel">
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="166,121,367,148"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="183,307,350,333"/>
+<area shape="rect" id="node18" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="205,357,328,384"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="417,12,633,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="687,5,878,46"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="430,63,621,105"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="464,129,587,156"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="442,180,609,207"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="687,173,878,214"/>
+<area shape="rect" id="node11" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="446,281,605,308"/>
+<area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="422,332,629,359"/>
+<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="416,383,635,409"/>
+<area shape="rect" id="node14" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="419,433,632,460"/>
+<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="445,484,605,511"/>
+<area shape="rect" id="node16" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="434,535,617,561"/>
+<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="437,585,614,612"/>
+<area shape="rect" id="node8" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="683,71,883,97"/>
+</map>

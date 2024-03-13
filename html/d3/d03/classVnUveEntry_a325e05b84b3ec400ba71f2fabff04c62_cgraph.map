@@ -1,0 +1,33 @@
+<map id="VnUveEntry::FrameVnStatsMsg" name="VnUveEntry::FrameVnStatsMsg">
+<area shape="rect" id="node2" href="$d6/de4/classVnUveEntryBase.html#a4ba62af46a8be493b4c386f832a08b52" title="VnUveEntryBase::changed" alt="" coords="833,493,1028,520"/>
+<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="331,212,474,239"/>
+<area shape="rect" id="node4" href="$d3/d03/classVnUveEntry.html#a979966202fe0e17afb4dce08463ab124" title="VnUveEntry::UpdateVrfStats" alt="" coords="300,136,505,163"/>
+<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#a3774e9dee2ff324405abbd9e9dedb2dc" title="VmInterface::GetFloating\lIpCount" alt="" coords="310,314,495,355"/>
+<area shape="rect" id="node15" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="325,380,480,407"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="885,288,977,315"/>
+<area shape="rect" id="node16" href="$d4/d59/classAgentUveBase.html#af0588bc3964e347fb12341baeca96394" title="AgentUveBase::bandwidth\l_intvl" alt="" coords="305,482,500,523"/>
+<area shape="rect" id="node17" href="$d3/d03/classVnUveEntry.html#a30f4407669a7ef06a22be35e88e0c277" title="VnUveEntry::UveVnInBandChanged" alt="" coords="277,548,528,575"/>
+<area shape="rect" id="node18" href="$d3/d03/classVnUveEntry.html#a9f8a272575e27aa8cbda430259a876fa" title="VnUveEntry::UveVnOutBand\lChanged" alt="" coords="300,599,505,641"/>
+<area shape="rect" id="node19" href="$d3/d03/classVnUveEntry.html#a2573048f5f33bb9109aae2f9f6e06f90" title="VnUveEntry::UpdateVnFlow\lCount" alt="" coords="303,921,503,962"/>
+<area shape="rect" id="node25" href="$d3/d03/classVnUveEntry.html#a813845af196ab61ed2aea6a6fc39e8fb" title="VnUveEntry::UpdateVnFipCount" alt="" coords="289,431,516,457"/>
+<area shape="rect" id="node27" href="$d3/d03/classVnUveEntry.html#a24ae90fa81d0e1f748487b200bca13de" title="VnUveEntry::PopulateInter\lVnStats" alt="" coords="306,665,499,706"/>
+<area shape="rect" id="node31" href="$d3/d03/classVnUveEntry.html#aeb03b90563d291665ce037c36a9d18aa" title="VnUveEntry::SetVnPortBitmap" alt="" coords="294,731,511,757"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#a38c6fa4f4cc465f6056aeeb29feed3af" title="VnEntry::GetVrf" alt="" coords="617,111,740,137"/>
+<area shape="rect" id="node6" href="$d3/d03/classVnUveEntry.html#a8f0f7e827d7dfdfd1dced010e5949e72" title="VnUveEntry::FillVrfStats" alt="" coords="591,161,767,188"/>
+<area shape="rect" id="node13" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="619,9,738,36"/>
+<area shape="rect" id="node12" href="$d3/d03/classVnUveEntry.html#a1e58ede3afb4794e21472de976b18539" title="VnUveEntry::UveVnVrfStats\lChanged" alt="" coords="830,5,1031,46"/>
+<area shape="rect" id="node8" href="$d3/d36/classAgentUveStats.html#a406e4b245b997d1a8a593a5eec19cd67" title="AgentUveStats::stats\l_manager" alt="" coords="851,70,1010,111"/>
+<area shape="rect" id="node9" href="$d1/d29/classStatsManager.html#a9740de2d5f6002f8414da5c8500c98f1" title="StatsManager::GetVrfStats" alt="" coords="833,136,1028,163"/>
+<area shape="rect" id="node10" href="$d3/d03/classVnUveEntry.html#acca3aa01d0df7ddc61dfe5aaa03f0669" title="VnUveEntry::BuildArpStats" alt="" coords="833,187,1028,213"/>
+<area shape="rect" id="node11" href="$d3/d03/classVnUveEntry.html#af39ed7af4e2e033c526df58eb0e3e607" title="VnUveEntry::BuildNhStats" alt="" coords="835,237,1026,264"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="886,924,975,951"/>
+<area shape="rect" id="node21" href="$d3/d55/classPktModule.html#a0815b30136425c1f93cd6089b0d3a1c4" title="PktModule::get_flow\l_proto" alt="" coords="602,946,755,987"/>
+<area shape="rect" id="node22" href="$d8/dd0/classFlowProto.html#a5544605df57866f827dadb22a3ca9c6e" title="FlowProto::VnFlowCounters" alt="" coords="579,1012,778,1039"/>
+<area shape="rect" id="node23" href="$d3/d55/classPktModule.html#abb138de4aa9a8f211935ab9c268e2b76" title="PktModule::flow_mgmt\l_manager_iterator_begin" alt="" coords="838,1055,1023,1097"/>
+<area shape="rect" id="node24" href="$d3/d55/classPktModule.html#a25dc7df3966fbaadfa3a05b0f3838c0c" title="PktModule::flow_mgmt\l_manager_iterator_end" alt="" coords="844,990,1017,1031"/>
+<area shape="rect" id="node26" href="$d3/d03/classVnUveEntry.html#af41fba76e5e1fdb11313bd53c7afbf63" title="VnUveEntry::UveVnFipCount\lChanged" alt="" coords="576,423,781,465"/>
+<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#aa18b253180bd41fe0a3ce4a2d060f454" title="Agent::agent_name" alt="" coords="604,544,753,571"/>
+<area shape="rect" id="node29" href="$d3/d03/classVnUveEntry.html#a3186e59a9c4abb469d5edc8ff2754c05" title="VnUveEntry::UveInterVnIn\lStatsChanged" alt="" coords="583,595,774,637"/>
+<area shape="rect" id="node30" href="$d3/d03/classVnUveEntry.html#a13250ca569c15dab0793c9b9da62e96e" title="VnUveEntry::UveInterVnOut\lStatsChanged" alt="" coords="577,661,780,702"/>
+<area shape="rect" id="node32" href="$db/d7a/structL4PortBitmap_1_1PortBitmap.html#a90e8e44c8d1c1f34bd23185624ad392e" title="L4PortBitmap::PortBitmap\l::Sync" alt="" coords="583,778,774,819"/>
+</map>

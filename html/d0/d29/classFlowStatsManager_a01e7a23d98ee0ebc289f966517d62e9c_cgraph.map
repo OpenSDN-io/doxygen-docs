@@ -1,0 +1,5 @@
+<map id="FlowStatsManager::UpdateStatsEvent" name="FlowStatsManager::UpdateStatsEvent">
+<area shape="rect" id="node2" href="$db/d77/classFlowStatsCollector.html#a952efc2f7a60d0ffa5b107539c1f300c" title="FlowStatsCollector\l::UpdateStatsEvent" alt="" coords="276,5,423,46"/>
+<area shape="rect" id="node4" href="$df/d96/classSessionStatsCollector.html#a7da628b9994f5c9d1868b240b45df5e9" title="SessionStatsCollector\l::UpdateSessionStatsEvent" alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="497,45,658,72"/>
+</map>

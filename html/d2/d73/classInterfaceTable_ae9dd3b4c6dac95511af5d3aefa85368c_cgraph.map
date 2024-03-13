@@ -1,0 +1,15 @@
+<map id="InterfaceTable::FindVmUuidFromMetadataIp" name="InterfaceTable::FindVmUuidFromMetadataIp">
+<area shape="rect" id="node2" href="$d2/d73/classInterfaceTable.html#abd61a762f5c9b020b472510657424760" title="Finds an interface (Interface) to which a given IPv4 address belongs to. " alt="" coords="259,89,466,130"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="304,155,421,181"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="282,206,443,247"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="282,271,443,313"/>
+<area shape="rect" id="node11" href="$d5/d21/classVmInterface.html#aed7ec2a57e028ed19cb11558576dba77" title="VmInterface::vm" alt="" coords="297,337,428,364"/>
+<area shape="rect" id="node12" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="311,388,415,415"/>
+<area shape="rect" id="node13" href="$d9/d04/classVmEntry.html#a351e6bc187b60f50e9bb99dc48868865" title="VmEntry::GetUuid" alt="" coords="293,439,432,465"/>
+<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#a5d205e59a56cebca2765baf04972ad88" title="VmInterface::vm_project_uuid" alt="" coords="253,489,472,516"/>
+<area shape="rect" id="node3" href="$d6/dc1/classMetaDataIp.html#a49306a588d77611ae4d71104777357e8" title="MetaDataIp::IpAddressToIndex" alt="" coords="520,5,739,32"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a08aa63295d0d4e0a4899e92ac33c783d" title="Agent::metadata_ip\l_allocator" alt="" coords="554,57,705,98"/>
+<area shape="rect" id="node5" href="$d9/de3/classMetaDataIpAllocator.html#a8c7d96890533d4d7029d5a64c6ec824a" title="MetaDataIpAllocator\l::FindIndex" alt="" coords="552,122,707,163"/>
+<area shape="rect" id="node7" href="$d6/dc1/classMetaDataIp.html#ad9ab784f0bc88b45e409b75a96371027" title="MetaDataIp::GetInterface" alt="" coords="536,188,723,215"/>
+<area shape="rect" id="node6" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="787,129,909,156"/>
+</map>

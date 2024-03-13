@@ -1,0 +1,12 @@
+<map id="MvpnManagerPartition::GetProjectManagerPartition" name="MvpnManagerPartition::GetProjectManagerPartition">
+<area shape="rect" id="node2" href="$d7/dd2/classMvpnManager.html#a65064b8e7d192a0a777e3a71d5735413" title="MvpnManager::GetProjectManager" alt="" coords="261,181,507,208"/>
+<area shape="rect" id="node11" href="$d5/dd5/classMvpnProjectManager.html#a1aa23588ab0b2f8bd24706ad55036608" title="MvpnProjectManager\l::GetPartition" alt="" coords="305,233,463,274"/>
+<area shape="rect" id="node3" href="$da/dd1/classMvpnTable.html#afb1979d191507adba400d88d6a9ceca3" title="MvpnTable::GetProjectManager" alt="" coords="555,181,778,208"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="831,5,1028,32"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a63d5f19a0e6fa49b90e80bbcf2777873" title="RoutingInstance::mvpn\l_project_manager_network" alt="" coords="830,57,1029,98"/>
+<area shape="rect" id="node6" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="833,123,1025,149"/>
+<area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title="RoutingInstanceMgr\l::GetRoutingInstance" alt="" coords="851,174,1008,215"/>
+<area shape="rect" id="node8" href="$da/dd1/classMvpnTable.html#abf64d970978760c185497d3edd1300bb" title="MvpnTable::table" alt="" coords="863,240,995,267"/>
+<area shape="rect" id="node9" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="834,291,1025,317"/>
+<area shape="rect" id="node10" href="$d3/db0/classErmVpnTable.html#a1016f549537a4333bc936a4df7e9703e" title="ErmVpnTable::mvpn_project\l_manager" alt="" coords="827,342,1031,383"/>
+</map>

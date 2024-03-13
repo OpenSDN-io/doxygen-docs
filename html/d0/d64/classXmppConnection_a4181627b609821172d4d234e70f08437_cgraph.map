@@ -1,0 +1,9 @@
+<map id="XmppConnection::SendStreamFeatureRequest" name="XmppConnection::SendStreamFeatureRequest">
+<area shape="rect" id="node2" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title="XmppProto::EncodeStream" alt="" coords="281,5,477,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#aaaa422cab22b8b64023f21b0b0a956a8" title="XmppConnection::inc\l_stream_feature_fail" alt="" coords="299,57,459,98"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="275,123,482,149"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="312,173,445,200"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="531,107,717,149"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="765,199,909,225"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="531,224,717,251"/>
+</map>

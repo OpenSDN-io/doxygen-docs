@@ -1,0 +1,27 @@
+var classBgpPeer_1_1PeerStats =
+[
+    [ "PeerStats", "d8/db7/classBgpPeer_1_1PeerStats.html#acc596717d6b9a37bbdd305ae438548bf", null ],
+    [ "Clear", "d8/db7/classBgpPeer_1_1PeerStats.html#aaeae9ca1fc17d05060595a3028d44264", null ],
+    [ "GetRxErrorStats", "d8/db7/classBgpPeer_1_1PeerStats.html#a0d417378f0adce47fb4744c8bce5ff71", null ],
+    [ "GetRxProtoStats", "d8/db7/classBgpPeer_1_1PeerStats.html#aeec39d69145579fde6b49467238a20a4", null ],
+    [ "GetRxRouteStats", "d8/db7/classBgpPeer_1_1PeerStats.html#abfe617c002683324c51849537760e429", null ],
+    [ "GetRxRouteUpdateStats", "d8/db7/classBgpPeer_1_1PeerStats.html#abecf0b30ed5def89aabf8ab844c57d0f", null ],
+    [ "GetRxSocketStats", "d8/db7/classBgpPeer_1_1PeerStats.html#af6d2896730fe58cc9619c524efdfe5cc", null ],
+    [ "GetTxProtoStats", "d8/db7/classBgpPeer_1_1PeerStats.html#ae0f79f8115b9df094a49ecd0d108542b", null ],
+    [ "GetTxRouteUpdateStats", "d8/db7/classBgpPeer_1_1PeerStats.html#a607c76e6eacd3718f9e11c371aaac7cf", null ],
+    [ "GetTxSocketStats", "d8/db7/classBgpPeer_1_1PeerStats.html#af872f1dae3bfcb2de965918e3b02da41", null ],
+    [ "last_error", "d8/db7/classBgpPeer_1_1PeerStats.html#ae823fed053d9281df7b31d7abdddc446", null ],
+    [ "last_event", "d8/db7/classBgpPeer_1_1PeerStats.html#a2191eca093290bd2d2cd8905b0346e66", null ],
+    [ "last_flap", "d8/db7/classBgpPeer_1_1PeerStats.html#a8d0ddce8613371d624c5cbdc3b0be280", null ],
+    [ "last_state", "d8/db7/classBgpPeer_1_1PeerStats.html#aac39288292daca17ca48812e63c1ba97", null ],
+    [ "last_state_change_at", "d8/db7/classBgpPeer_1_1PeerStats.html#a56b40075cd68c8922bb6987e2bec77ab", null ],
+    [ "num_flaps", "d8/db7/classBgpPeer_1_1PeerStats.html#aebc24bc2f694791239406b1d3f410069", null ],
+    [ "ToString", "d8/db7/classBgpPeer_1_1PeerStats.html#aa870a690960acec6bde7c7c76c955614", null ],
+    [ "UpdateTxReachRoute", "d8/db7/classBgpPeer_1_1PeerStats.html#a8936af8f537847fdd587a98c4461cbe8", null ],
+    [ "UpdateTxUnreachRoute", "d8/db7/classBgpPeer_1_1PeerStats.html#ada1ea535807a5a611d7ef9251c979474", null ],
+    [ "BgpPeer", "d8/db7/classBgpPeer_1_1PeerStats.html#a9087efd9ac3b63b40965774ae3e661ac", null ],
+    [ "error_stats_", "d8/db7/classBgpPeer_1_1PeerStats.html#a591afd7f0ffbd3eca295743e7c0c5cdf", null ],
+    [ "peer_", "d8/db7/classBgpPeer_1_1PeerStats.html#ab9fd88c0c34a3d42df67af70b81c2844", null ],
+    [ "proto_stats_", "d8/db7/classBgpPeer_1_1PeerStats.html#a42658242d52cf02483c4705cbbf92f55", null ],
+    [ "update_stats_", "d8/db7/classBgpPeer_1_1PeerStats.html#ad77043cfd5968720fb3259e811ed1d70", null ]
+];

@@ -1,0 +1,11 @@
+<map id="VmiSubscribeEntry::OnDelete" name="VmiSubscribeEntry::OnDelete">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#acc953efdd0e5f8b379b93cfd2be95260" title="DBEntryBase::Delete" alt="" coords="211,31,370,57"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="207,81,374,108"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="225,132,356,159"/>
+<area shape="rect" id="node9" href="$df/def/classVNController.html#ab2f9b151ee940d419f6b1e3db27ab15e" title="VNController::Enqueue" alt="" coords="206,183,375,209"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="427,5,605,32"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="425,56,607,83"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="657,31,847,57"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="667,81,837,108"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="435,183,597,209"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="vxlan_auxilliary.cc" name="vxlan_auxilliary.cc">
+<area shape="rect" id="node2" href="$d1/dde/route__common_8h.html" title="oper/route_common.h" alt="" coords="1352,179,1517,205"/>
+<area shape="rect" id="node35" href="$db/ddc/controller__init_8h.html" title="controller/controller\l_init.h" alt="" coords="2070,81,2220,122"/>
+<area shape="rect" id="node43" href="$d6/d80/controller__route__path_8h.html" title="controller/controller\l_route_path.h" alt="" coords="1477,81,1627,122"/>
+<area shape="rect" id="node44" href="$df/dd8/tunnel__nh_8h.html" title="oper/tunnel_nh.h" alt="" coords="843,269,973,296"/>
+<area shape="rect" id="node45" href="$d7/de6/vxlan__routing__manager_8h.html" title="oper/vxlan_routing\l_manager.h" alt="" coords="665,427,809,469"/>
+<area shape="rect" id="node48" href="$de/dee/bgp__as__service_8h.html" title="oper/bgp_as_service.h" alt="" coords="195,352,361,379"/>
+<area shape="rect" id="node3" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1211,592,1349,619"/>
+<area shape="rect" id="node25" href="$de/d12/peer_8h.html" title="oper/peer.h" alt="" coords="2034,592,2128,619"/>
+<area shape="rect" id="node26" href="$de/d30/agent__route_8h.html" title="oper/agent_route.h" alt="" coords="995,352,1140,379"/>
+<area shape="rect" id="node29" href="$d6/dc5/agent__path_8h.html" title="oper/agent_path.h" alt="" coords="1049,269,1188,296"/>
+<area shape="rect" id="node31" href="$d4/d94/inet__unicast__route_8h.html" title="oper/inet_unicast_route.h" alt="" coords="1512,269,1699,296"/>
+<area shape="rect" id="node32" href="$de/dd9/inet4__multicast__route_8h.html" title="oper/inet4_multicast\l_route.h" alt="" coords="1723,262,1879,303"/>
+<area shape="rect" id="node33" href="$dc/dd6/vnsw_2agent_2oper_2evpn__route_8h.html" title="oper/evpn_route.h" alt="" coords="1903,269,2043,296"/>
+<area shape="rect" id="node34" href="$d4/d3b/bridge__route_8h.html" title="oper/bridge_route.h" alt="" coords="1288,269,1437,296"/>
+<area shape="rect" id="node30" href="$d0/d9a/mpls_8h.html" title="oper/mpls.h" alt="" coords="1317,352,1416,379"/>
+<area shape="rect" id="node15" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1309,667,1459,693"/>
+<area shape="rect" id="node16" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="1815,741,1885,768"/>
+<area shape="rect" id="node17" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="1383,816,1492,843"/>
+<area shape="rect" id="node18" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="1554,891,1664,917"/>
+<area shape="rect" id="node19" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="1567,741,1739,768"/>
+<area shape="rect" id="node20" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="1636,667,1796,693"/>
+<area shape="rect" id="node21" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="1375,741,1492,768"/>
+<area shape="rect" id="node22" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="309,667,456,693"/>
+<area shape="rect" id="node24" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="131,667,233,693"/>
+<area shape="rect" id="node27" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="296,517,485,544"/>
+<area shape="rect" id="node28" href="$de/d3f/nexthop_8h.html" title="oper/nexthop.h" alt="" coords="1267,435,1387,461"/>
+<area shape="rect" id="node38" href="$d9/dc5/controller__timer_8h.html" title="controller/controller\l_timer.h" alt="" coords="2517,171,2667,213"/>
+<area shape="rect" id="node39" href="$dc/dae/xmpp__channel_8h.html" title="xmpp/xmpp_channel.h" alt="" coords="1960,179,2131,205"/>
+<area shape="rect" id="node46" href="$df/dfa/oper__db_8h.html" title="oper/oper_db.h" alt="" coords="921,517,1039,544"/>
+<area shape="rect" id="node47" href="$d7/d91/vxlan__templates_8cc.html" title="oper/vxlan_templates.cc" alt="" coords="611,517,793,544"/>
+<area shape="rect" id="node49" href="$d7/d90/index__allocator_8h.html" title="base/index_allocator.h" alt="" coords="144,435,312,461"/>
+<area shape="rect" id="node50" href="$d0/d20/global__system__config_8h.html" title="oper/global_system\l_config.h" alt="" coords="838,427,988,469"/>
+</map>

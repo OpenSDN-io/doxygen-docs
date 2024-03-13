@@ -1,0 +1,12 @@
+<map id="etcdserverpb::AuthUserRevokeRoleResponse::New" name="etcdserverpb::AuthUserRevokeRoleResponse::New">
+<area shape="rect" id="node2" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a0d1725faf051ecd49bc753ed28f4033f" title="etcdserverpb::AuthUserRevoke\lRoleResponse::AuthUserRevokeRole\lResponse" alt="" coords="277,85,533,141"/>
+<area shape="rect" id="node3" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a966851bf4d515e510e330d20b900d2ee" title="etcdserverpb::AuthUserRevoke\lRoleResponse::internal_default\l_instance" alt="" coords="582,5,805,61"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a54b72d801d1fd5fa4177ce8dcdad0a6b" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleResponse" alt="" coords="586,85,801,141"/>
+<area shape="rect" id="node11" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a13efcf381ab7fccfe564ffe83278cc82" title="etcdserverpb::AuthUserRevoke\lRoleResponse::SharedCtor" alt="" coords="582,166,805,207"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0fc143bc27a73a2528bc0d03e69e2daa" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleResponseImpl" alt="" coords="854,85,1069,141"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="1141,59,1355,101"/>
+<area shape="rect" id="node9" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a339889ca8a9f707cfe20d8e7929528ca" title="etcdserverpb::AuthUserRevoke\lRoleResponse::InitAsDefaultInstance" alt="" coords="1118,125,1378,166"/>
+<area shape="rect" id="node7" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1427,59,1671,101"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1720,59,1944,101"/>
+<area shape="rect" id="node10" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1437,125,1661,166"/>
+</map>

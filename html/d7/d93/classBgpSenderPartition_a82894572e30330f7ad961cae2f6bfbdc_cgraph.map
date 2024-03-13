@@ -1,0 +1,17 @@
+<map id="BgpSenderPartition::BuildSyncBitSet" name="BgpSenderPartition::BuildSyncBitSet">
+<area shape="rect" id="node2" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a1f0730ec22e066fa51067e229b0c3c46" title="BgpSenderPartition\l::RibState::begin" alt="" coords="228,23,375,65"/>
+<area shape="rect" id="node6" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a269aed25652bb26f3809b6f7d9c5dc7e" title="BgpSenderPartition\l::RibState::end" alt="" coords="228,89,375,130"/>
+<area shape="rect" id="node7" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a007cd46c19fa5bd85a24cada986765b4" title="BgpSenderPartition\l::PeerState::in_sync" alt="" coords="226,154,377,195"/>
+<area shape="rect" id="node8" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a64933b3f2a5681389813e18d5c409a9d" title="BgpSenderPartition\l::PeerState::peer" alt="" coords="228,219,375,261"/>
+<area shape="rect" id="node9" href="$dd/d38/classIPeerUpdate.html#af0cb735d5ec06ce516a36b5a7ba54284" title="IPeerUpdate::send_ready" alt="" coords="209,285,394,312"/>
+<area shape="rect" id="node10" href="$db/dd4/classRibOut.html#a0cc70102d3334b512e825d280adc9150" title="RibOut::GetPeerIndex" alt="" coords="220,336,383,363"/>
+<area shape="rect" id="node12" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="257,387,346,413"/>
+<area shape="rect" id="node15" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60" title="BgpSenderPartition\l::PeerState::clear_sync" alt="" coords="216,438,387,479"/>
+<area shape="rect" id="node16" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a3ecc898d70b66a6070f3bf1b06a95355" title="BgpSenderPartition\l::PeerState::set_send_ready" alt="" coords="200,503,403,545"/>
+<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a322bcc887bafda7adde98bc73c0b4da3" title="BitSet::find_first" alt="" coords="451,31,576,57"/>
+<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="625,5,746,32"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="636,56,735,83"/>
+<area shape="rect" id="node11" href="$d6/dfd/classIndexMap.html#a5bdc85c3c90d51e8984e2d26490c24aa" title="IndexMap::Find" alt="" coords="454,336,573,363"/>
+<area shape="rect" id="node13" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="463,387,563,413"/>
+<area shape="rect" id="node14" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="463,437,564,464"/>
+</map>

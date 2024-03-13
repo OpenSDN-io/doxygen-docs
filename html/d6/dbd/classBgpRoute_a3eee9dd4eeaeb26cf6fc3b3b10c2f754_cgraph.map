@@ -1,0 +1,9 @@
+<map id="BgpRoute::SubClusterId" name="BgpRoute::SubClusterId">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="256,5,432,32"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="279,56,409,83"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a6ee61e127860be9dbdc73f64b7907e2f" title="BgpServer::config_manager" alt="" coords="243,107,445,133"/>
+<area shape="rect" id="node7" href="$da/d05/classBgpConfigManager.html#a056c775ca2585f6b3c9ad6f0e76e1023" title="BgpConfigManager::GetProtocol\lConfig" alt="" coords="230,158,458,199"/>
+<area shape="rect" id="node8" href="$d6/d76/classBgpProtocolConfig.html#afd274d1165cf21564ed70adce27b331d" title="BgpProtocolConfig::\lsubcluster_id" alt="" coords="269,223,419,265"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="507,5,690,32"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="511,56,686,83"/>
+</map>

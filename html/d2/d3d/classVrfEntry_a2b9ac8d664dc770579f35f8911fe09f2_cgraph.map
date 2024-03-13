@@ -1,0 +1,9 @@
+<map id="VrfEntry::DeleteRouteTables" name="VrfEntry::DeleteRouteTables">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="269,5,445,32"/>
+<area shape="rect" id="node4" href="$db/d35/classVrfTable.html#a9c5dcf08620bc3a9b314c965ded8ff23" title="VrfTable::GetRouteTable" alt="" coords="269,56,446,83"/>
+<area shape="rect" id="node5" href="$db/d35/classVrfTable.html#a0bf510f7d2deec00ba81677a6f6252d5" title="VrfTable::DeleteFromDbTree" alt="" coords="256,107,459,133"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="270,157,445,184"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html#abbb76d7897e858bd8375f75ba455bdb4" title="DB::RemoveTable" alt="" coords="289,208,425,235"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="507,5,690,32"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="523,208,675,235"/>
+</map>

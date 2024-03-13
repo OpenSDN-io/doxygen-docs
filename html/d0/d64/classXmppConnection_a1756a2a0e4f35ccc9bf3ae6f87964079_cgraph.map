@@ -1,0 +1,9 @@
+<map id="XmppConnection::Send" name="XmppConnection::Send">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="227,5,426,32"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="253,57,401,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#aaaf9a967a0e34524e763fc831734e79b" title="TcpSession::remote\l_addr_string" alt="" coords="253,122,401,163"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="260,188,393,215"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="475,122,661,163"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="709,213,853,240"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="475,239,661,265"/>
+</map>

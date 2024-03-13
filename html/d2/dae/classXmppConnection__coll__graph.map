@@ -1,0 +1,20 @@
+<map id="XmppConnection" name="XmppConnection">
+<area shape="rect" id="node6" href="$d5/d13/classXmppSession.html" title="XmppSession" alt="" coords="1614,836,1725,863"/>
+<area shape="rect" id="node2" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title="XmppConnection::ProtoStats" alt="" coords="543,1119,751,1145"/>
+<area shape="rect" id="node5" href="$d0/d8b/classXmppChannelConfig.html" title="XmppChannelConfig" alt="" coords="569,1017,724,1044"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="600,681,693,708"/>
+<area shape="rect" id="node17" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="604,528,689,555"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="539,215,755,241"/>
+<area shape="rect" id="node24" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="617,860,677,887"/>
+<area shape="rect" id="node4" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="544,1068,749,1095"/>
+<area shape="rect" id="node7" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1004,681,1095,708"/>
+<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,585,354,612"/>
+<area shape="rect" id="node15" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1229,473,1419,500"/>
+<area shape="rect" id="node25" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="227,905,362,932"/>
+<area shape="rect" id="node21" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,5,358,32"/>
+<area shape="rect" id="node13" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="1266,1105,1382,1132"/>
+<area shape="rect" id="node16" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1008,513,1091,540"/>
+<area shape="rect" id="node18" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,405,352,432"/>
+<area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="921,214,1178,255"/>
+<area shape="rect" id="node23" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,313,76,340"/>
+</map>

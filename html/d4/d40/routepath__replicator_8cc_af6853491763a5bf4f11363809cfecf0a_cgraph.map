@@ -1,0 +1,12 @@
+<map id="UpdateOriginVn" name="UpdateOriginVn">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a233b773a2667adeadfb273e9716f10e7" title="BgpServer::autonomous\l_system" alt="" coords="209,5,388,46"/>
+<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title="BgpServer::extcomm_db" alt="" coords="207,71,390,97"/>
+<area shape="rect" id="node4" href="$d2/ddb/classExtCommunityDB.html#adabed51b1c1bb5fcadf1a311beb63a88" title="ExtCommunityDB::ReplaceOrigin\lVnAndLocate" alt="" coords="181,187,417,229"/>
+<area shape="rect" id="node9" href="$d9/d40/classOriginVn.html#a10ccc6b23bb460728fb4d96827d4b4cb" title="OriginVn::GetExtCommunity" alt="" coords="195,319,402,345"/>
+<area shape="rect" id="node10" href="$d2/ddb/classExtCommunityDB.html#a13407442f3bebfadb44cef63faec164b" title="ExtCommunityDB::AppendAnd\lLocate" alt="" coords="189,253,409,294"/>
+<area shape="rect" id="node11" href="$d2/ddb/classExtCommunityDB.html#aeee37a16f9de61d22d55623e442bd633" title="ExtCommunityDB::RemoveOrigin\lVnAndLocate" alt="" coords="179,122,418,163"/>
+<area shape="rect" id="node5" href="$da/d36/classExtCommunity.html#a66540db4218b1ab16d55edac9866486d" title="ExtCommunity::RemoveOriginVn" alt="" coords="491,121,725,148"/>
+<area shape="rect" id="node7" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title="ExtCommunity::Append" alt="" coords="521,268,695,295"/>
+<area shape="rect" id="node8" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; ExtCommunity, ExtCommunity\lPtr, ExtCommunitySpec, ExtCommunity\lCompare, ExtCommunityDB \&gt;::Locate" alt="" coords="467,173,749,243"/>
+<area shape="rect" id="node6" href="$da/d36/classExtCommunity.html#aa7a1660cc0a873c71dbaf9abf4364769" title="ExtCommunity::is_origin_vn" alt="" coords="798,121,1002,148"/>
+</map>

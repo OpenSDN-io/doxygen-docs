@@ -1,0 +1,12 @@
+<map id="DhcpLeaseDb::LoadLeaseFile" name="DhcpLeaseDb::LoadLeaseFile">
+<area shape="rect" id="node2" href="$d9/d2d/classDhcpLeaseDb.html#a2a467cc02366accf8cbd8cba961cdb32" title="DhcpLeaseDb::leases" alt="" coords="291,5,453,32"/>
+<area shape="rect" id="node3" href="$d9/d2d/classDhcpLeaseDb.html#abd99ce157f35c58d27a0fb099770e42e" title="DhcpLeaseDb::ReadLeaseFile" alt="" coords="267,56,477,83"/>
+<area shape="rect" id="node4" href="$d9/d2d/classDhcpLeaseDb.html#a4a1c5fd5b5ad7d3cb9839e283f7a1fe1" title="DhcpLeaseDb::ParseLeaseFile" alt="" coords="265,107,479,133"/>
+<area shape="rect" id="node5" href="$d9/d2d/classDhcpLeaseDb.html#a8fa47217e1137f607dcd144a82a0c58d" title="DhcpLeaseDb::ParseLease" alt="" coords="528,107,720,133"/>
+<area shape="rect" id="node6" href="$d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5" title="MacAddress::FromString" alt="" coords="781,31,960,57"/>
+<area shape="rect" id="node7" href="$d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="796,81,945,108"/>
+<area shape="rect" id="node9" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="1052,132,1212,159"/>
+<area shape="rect" id="node10" href="$d9/d2d/classDhcpLeaseDb.html#a90dff9097fb220461615c33bbee20d08" title="DhcpLeaseDb::UpdateLease" alt="" coords="769,183,973,209"/>
+<area shape="rect" id="node8" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="1085,81,1179,108"/>
+<area shape="rect" id="node11" href="$d9/d2d/classDhcpLeaseDb.html#a849ecea08e5534beb3a2e0481d373097" title="DhcpLeaseDb::AddressToIndex" alt="" coords="1021,183,1243,209"/>
+</map>

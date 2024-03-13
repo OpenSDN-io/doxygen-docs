@@ -1,0 +1,12 @@
+<map id="DhcpHandlerBase::AddClasslessRouteOption" name="DhcpHandlerBase::AddClasslessRouteOption">
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a2f2eb39c8ca4edc51fdb36ced8d16f64" title="VmInterface::oper_dhcp\l_options" alt="" coords="295,5,473,46"/>
+<area shape="rect" id="node3" href="$d7/dd5/classOperDhcpOptions.html#a4615cd55c14a7c0c2f6d01c1e02a947b" title="OperDhcpOptions::are\l_host_routes_set" alt="" coords="301,70,467,111"/>
+<area shape="rect" id="node4" href="$d7/dd5/classOperDhcpOptions.html#a2ed498d8fa19372554d51cb03fdace7a" title="OperDhcpOptions::host\l_routes" alt="" coords="298,135,470,177"/>
+<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="321,201,447,228"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="307,252,461,279"/>
+<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#af0f3e307c181988f831bfbc432557b93" title="VnEntry::GetVnHostRoutes" alt="" coords="287,303,481,329"/>
+<area shape="rect" id="node8" href="$d7/dd5/classOperDhcpOptions.html#afec3b5d97d39553a10fd704958d9721c" title="OperDhcpOptions::update\l_host_routes" alt="" coords="289,354,479,395"/>
+<area shape="rect" id="node11" href="$dd/d33/classDhcpHandlerBase.html#a1f0462e637f64397962994febaeea28b" title="DhcpHandlerBase::set_flag" alt="" coords="285,420,483,447"/>
+<area shape="rect" id="node9" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title="Ip4PrefixParse" alt="" coords="531,361,645,388"/>
+<area shape="rect" id="node10" href="$dd/dea/address_8cc.html#a2c830dd2a2e3885d90bd89b34f528e4d" title="CountDots" alt="" coords="693,361,784,388"/>
+</map>

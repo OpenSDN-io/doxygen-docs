@@ -1,0 +1,7 @@
+<map id="BgpXmppChannel::local_endpoint" name="BgpXmppChannel::local_endpoint">
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#adcd904eb954551db7adac55da7edc9b2" title="BgpXmppChannel::GetSession" alt="" coords="232,56,451,83"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#adeadb74d89ea5c2e08528e39514d7264" title="TcpSession::local_endpoint" alt="" coords="243,107,439,133"/>
+<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="499,5,691,32"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="499,56,690,83"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="523,107,667,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SandeshWriter::SendMsgAll" name="SandeshWriter::SendMsgAll">
+<area shape="rect" id="node2" href="$d0/d8f/classSandeshWriter.html#a749abee764012bb594fd84343ca4f452" title="SandeshWriter::send\l_buf_offset" alt="" coords="280,5,435,46"/>
+<area shape="rect" id="node3" href="$d0/d8f/classSandeshWriter.html#a4a2d713a70752e0bf90994d60ee47089" title="SandeshWriter::send_buf" alt="" coords="266,71,449,97"/>
+<area shape="rect" id="node4" href="$d0/d8f/classSandeshWriter.html#a70ebb48baaac20b81570507e38684c47" title="SandeshWriter::SendInternal" alt="" coords="254,121,461,148"/>
+<area shape="rect" id="node9" href="$d0/d8f/classSandeshWriter.html#a6edb3847946749d4cb95aa6e404fe6dc" title="SandeshWriter::reset\l_send_buf" alt="" coords="279,173,436,214"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="509,121,643,148"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="691,55,877,97"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="925,147,1069,173"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="691,172,877,199"/>
+</map>

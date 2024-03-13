@@ -1,0 +1,7 @@
+<map id="task_timer_create_idle_leaf" name="task_timer_create_idle_leaf">
+<area shape="rect" id="node2" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="256,5,461,32"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="258,56,459,83"/>
+<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="524,5,711,32"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="509,56,725,83"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="774,49,965,90"/>
+</map>

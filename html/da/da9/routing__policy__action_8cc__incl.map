@@ -1,0 +1,26 @@
+<map id="routing_policy_action.cc" name="routing_policy_action.cc">
+<area shape="rect" id="node2" href="$db/d10/routing__policy__action_8h.html" title="bgp/routing&#45;policy\l/routing_policy_action.h" alt="" coords="959,81,1135,122"/>
+<area shape="rect" id="node31" href="$d7/d4d/bgp__attr_8h.html" title="bgp/bgp_attr.h" alt="" coords="1895,88,2010,115"/>
+<area shape="rect" id="node41" href="$d6/d53/bgp__server_8h.html" title="bgp/bgp_server.h" alt="" coords="3275,171,3409,197"/>
+<area shape="rect" id="node7" href="$d1/da6/community_8h.html" title="bgp/community.h" alt="" coords="1093,171,1227,197"/>
+<area shape="rect" id="node27" href="$dd/d09/community__type_8h.html" title="net/community_type.h" alt="" coords="2736,171,2905,197"/>
+<area shape="rect" id="node13" href="$d1/d66/parse__object_8h.html" title="base/parse_object.h" alt="" coords="619,344,771,371"/>
+<area shape="rect" id="node16" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="3814,427,3905,453"/>
+<area shape="rect" id="node18" href="$db/de3/bgp__attr__base_8h.html" title="bgp/bgp_attr_base.h" alt="" coords="1449,253,1603,280"/>
+<area shape="rect" id="node25" href="$db/d4e/bgp__common_8h.html" title="bgp/bgp_common.h" alt="" coords="1807,253,1957,280"/>
+<area shape="rect" id="node26" href="$d9/d49/types_8h.html" title="bgp/extended&#45;community\l/types.h" alt="" coords="471,246,661,287"/>
+<area shape="rect" id="node23" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="3427,344,3523,371"/>
+<area shape="rect" id="node32" href="$de/d77/label__block_8h.html" title="base/label_block.h" alt="" coords="2440,253,2582,280"/>
+<area shape="rect" id="node34" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2985,427,3105,453"/>
+<area shape="rect" id="node36" href="$d0/d9d/bgp__aspath_8h.html" title="bgp/bgp_aspath.h" alt="" coords="1564,171,1701,197"/>
+<area shape="rect" id="node37" href="$d1/d0b/bgp__origin__vn__path_8h.html" title="bgp/bgp_origin_vn_path.h" alt="" coords="1726,171,1915,197"/>
+<area shape="rect" id="node38" href="$d5/de5/esi_8h.html" title="net/esi.h" alt="" coords="2495,171,2573,197"/>
+<area shape="rect" id="node39" href="$d6/d05/mac__address_8h.html" title="net/mac_address.h" alt="" coords="2185,171,2330,197"/>
+<area shape="rect" id="node40" href="$dc/d2e/rd_8h.html" title="net/rd.h" alt="" coords="3433,171,3505,197"/>
+<area shape="rect" id="node33" href="$d1/d69/bitset_8h.html" title="base/bitset.h" alt="" coords="2647,344,2754,371"/>
+<area shape="rect" id="node46" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="4100,344,4250,371"/>
+<area shape="rect" id="node47" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="3548,344,3618,371"/>
+<area shape="rect" id="node48" href="$d2/d00/tcp__server_8h.html" title="io/tcp_server.h" alt="" coords="3234,344,3351,371"/>
+<area shape="rect" id="node49" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="3329,253,3455,280"/>
+<area shape="rect" id="node50" href="$d8/d4e/iservice__chain__mgr_8h.html" title="bgp/routing&#45;instance\l/iservice_chain_mgr.h" alt="" coords="2410,337,2573,378"/>
+</map>

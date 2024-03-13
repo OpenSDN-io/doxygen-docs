@@ -1,0 +1,12 @@
+<map id="MplsTable::Add" name="MplsTable::Add">
+<area shape="rect" id="node2" href="$df/dd0/classMplsTable.html#a8eaffa16b0f95f6035400d1abcfaa329" title="MplsTable::CheckVrLabelLimit" alt="" coords="173,228,389,255"/>
+<area shape="rect" id="node10" href="$d9/dcb/classMplsLabelKey.html#aa6570cf2953d3e3dfa48ddc11f7dfd43" title="MplsLabelKey::label" alt="" coords="206,289,357,316"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="467,384,626,411"/>
+<area shape="rect" id="node11" href="$d6/d34/classIndexVector.html#a0934d8293a6d9b7a2e13da2c952765ac" title="IndexVector::InsertAtIndex" alt="" coords="184,391,379,417"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a261b14dd89449f6d544163ec06a2f430" title="Agent::get_vr_limits\l_exceeded_map" alt="" coords="470,5,623,46"/>
+<area shape="rect" id="node5" href="$d6/d34/classIndexVector.html#a671c9e78916e0bc9febfe4d6aba130a7" title="IndexVector::InUseIndexCount" alt="" coords="437,71,656,97"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a8aed425281071379af6d168bfbb07a74" title="Agent::vr_limit_high\l_watermark" alt="" coords="470,122,623,163"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a556f8fdbb3badf2b83c5ce0c22e45f90" title="Agent::vrouter_max\l_labels" alt="" coords="471,187,622,229"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#af68aa788c68e352c98980182739814b9" title="Agent::vr_limit_low\l_watermark" alt="" coords="473,253,621,294"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a0f7a269a95b7b30bd63fda725da82472" title="Agent::set_vr_limits\l_exceeded_map" alt="" coords="471,318,623,359"/>
+</map>

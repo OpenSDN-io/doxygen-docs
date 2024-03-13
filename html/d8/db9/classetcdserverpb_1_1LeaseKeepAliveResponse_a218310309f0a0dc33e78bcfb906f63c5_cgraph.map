@@ -1,0 +1,10 @@
+<map id="etcdserverpb::LeaseKeepAliveResponse::MergeFrom" name="etcdserverpb::LeaseKeepAliveResponse::MergeFrom">
+<area shape="rect" id="node2" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#add6f0c7b45c1431c5ca00af422d3030b" title="etcdserverpb::LeaseKeepAlive\lResponse::has_header" alt="" coords="272,5,491,46"/>
+<area shape="rect" id="node4" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#abc89fcdcf7f80f3fa0dbd9e8bde93666" title="etcdserverpb::LeaseKeepAlive\lResponse::mutable_header" alt="" coords="272,70,491,111"/>
+<area shape="rect" id="node5" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#a0f38d43d14f27af08c655f2f78fc4cb5" title="etcdserverpb::LeaseKeepAlive\lResponse::header" alt="" coords="272,135,491,177"/>
+<area shape="rect" id="node6" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#a08976b2405d708e503007d31ace0767b" title="etcdserverpb::LeaseKeepAlive\lResponse::id" alt="" coords="272,201,491,242"/>
+<area shape="rect" id="node7" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#acc5b63edfc99a264a768d55d967fcdc0" title="etcdserverpb::LeaseKeepAlive\lResponse::set_id" alt="" coords="272,266,491,307"/>
+<area shape="rect" id="node8" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#ad1df027c8d36a20638308ea1e8ef6fa0" title="etcdserverpb::LeaseKeepAlive\lResponse::ttl" alt="" coords="272,331,491,373"/>
+<area shape="rect" id="node9" href="$d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#a8fb87d85d6c1f7e015d6e18d1ff8d5d3" title="etcdserverpb::LeaseKeepAlive\lResponse::set_ttl" alt="" coords="272,397,491,438"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="539,5,763,46"/>
+</map>

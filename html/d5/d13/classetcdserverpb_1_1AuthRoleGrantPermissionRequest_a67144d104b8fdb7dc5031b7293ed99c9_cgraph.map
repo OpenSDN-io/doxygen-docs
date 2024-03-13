@@ -1,0 +1,11 @@
+<map id="etcdserverpb::AuthRoleGrantPermissionRequest::AuthRoleGrantPermissionRequest" name="etcdserverpb::AuthRoleGrantPermissionRequest::AuthRoleGrantPermissionRequest">
+<area shape="rect" id="node2" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a8c8bc2e8ccc69206c402e11fb69cb47d" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::internal\l_default_instance" alt="" coords="310,5,519,61"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a27d07100ab73746e5aa67de5503eca2f" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleGrant\lPermissionRequest" alt="" coords="315,85,515,141"/>
+<area shape="rect" id="node10" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#aad5271aba4e45ba2f98693c015b60c45" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::SharedCtor" alt="" coords="301,166,528,207"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a3a0e986753a9f0318fca97a2fbb00edc" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleGrant\lPermissionRequestImpl" alt="" coords="576,85,776,141"/>
+<area shape="rect" id="node5" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title="protobuf_auth_2eproto\l::InitDefaultsPermission" alt="" coords="855,55,1033,97"/>
+<area shape="rect" id="node8" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a5241a3a196a153c5f8c4e110d7a6faaf" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::InitAsDefault\lInstance" alt="" coords="825,121,1063,177"/>
+<area shape="rect" id="node6" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title="protobuf_auth_2eproto\l::InitDefaultsPermissionImpl" alt="" coords="1113,55,1319,97"/>
+<area shape="rect" id="node7" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title="authpb::Permission\l::InitAsDefaultInstance" alt="" coords="1368,55,1539,97"/>
+<area shape="rect" id="node9" href="$db/d4b/classauthpb_1_1Permission.html#af7badf31915956e44deecc2f69ad90e6" title="authpb::Permission\l::internal_default_instance" alt="" coords="1119,129,1313,170"/>
+</map>

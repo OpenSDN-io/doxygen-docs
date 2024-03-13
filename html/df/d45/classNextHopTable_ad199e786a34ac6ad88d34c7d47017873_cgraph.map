@@ -1,0 +1,12 @@
+<map id="NextHopTable::Delete" name="NextHopTable::Delete">
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#aedb618b9578071e0d1a4e9d444d13463" title="NextHop::Delete" alt="" coords="269,72,400,99"/>
+<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#af53dfdb1533efb31004639c8815df180" title="NextHop::SendObjectLog" alt="" coords="243,123,427,149"/>
+<area shape="rect" id="node4" href="$df/d45/classNextHopTable.html#abf28ff7d9fe51c93f77f38570188464c" title="NextHopTable::CheckVrNexthop\lLimit" alt="" coords="219,174,450,215"/>
+<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="529,5,687,32"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a261b14dd89449f6d544163ec06a2f430" title="Agent::get_vr_limits\l_exceeded_map" alt="" coords="531,57,685,98"/>
+<area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#a671c9e78916e0bc9febfe4d6aba130a7" title="IndexVector::InUseIndexCount" alt="" coords="499,123,717,149"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a8aed425281071379af6d168bfbb07a74" title="Agent::vr_limit_high\l_watermark" alt="" coords="531,174,685,215"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ae59c3d084542e586a880d93ab805bda8" title="Agent::vrouter_max\l_nexthops" alt="" coords="533,239,683,281"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#af68aa788c68e352c98980182739814b9" title="Agent::vr_limit_low\l_watermark" alt="" coords="534,305,682,346"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a0f7a269a95b7b30bd63fda725da82472" title="Agent::set_vr_limits\l_exceeded_map" alt="" coords="532,370,684,411"/>
+</map>

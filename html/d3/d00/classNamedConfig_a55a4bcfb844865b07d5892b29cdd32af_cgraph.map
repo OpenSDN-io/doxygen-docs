@@ -1,0 +1,12 @@
+<map id="NamedConfig::WriteViewConfig" name="NamedConfig::WriteViewConfig">
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#a1858211c7596091255de0c8c58a94db5" title="VirtualDnsConfig::GetVirtual\lDnsMap" alt="" coords="295,5,500,46"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a18b188e7066df1914933acf6fc82606b" title="DnsConfig::IsDeleted" alt="" coords="318,71,477,97"/>
+<area shape="rect" id="node4" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="318,121,477,148"/>
+<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#ae9f1bdda3c0144b5ff8f2b47fe4c34df" title="VirtualDnsConfig::GetViewName" alt="" coords="281,172,514,199"/>
+<area shape="rect" id="node8" href="$d0/d31/structVirtualDnsConfig.html#acc91ceb3449b1f56a97bc3b67f1d3fca" title="VirtualDnsConfig::GetRecord\lOrder" alt="" coords="294,223,501,265"/>
+<area shape="rect" id="node9" href="$d0/d31/structVirtualDnsConfig.html#a7085077b0c4608f2693cdf6e3fb44c39" title="VirtualDnsConfig::GetNextDns" alt="" coords="288,289,507,316"/>
+<area shape="rect" id="node10" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="296,341,499,382"/>
+<area shape="rect" id="node11" href="$d0/d31/structVirtualDnsConfig.html#a513c6669c19a024e80c294867b63e2be" title="VirtualDnsConfig::IsExternal\lVisible" alt="" coords="295,406,499,447"/>
+<area shape="rect" id="node6" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="593,172,751,199"/>
+<area shape="rect" id="node7" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title="BindUtil::RemoveSpecialChars" alt="" coords="563,256,781,283"/>
+</map>

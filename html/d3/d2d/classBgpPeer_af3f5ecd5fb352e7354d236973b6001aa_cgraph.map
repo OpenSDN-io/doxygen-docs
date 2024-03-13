@@ -1,0 +1,9 @@
+<map id="BgpPeer::SetSessionSocketOptionDscp" name="BgpPeer::SetSessionSocketOptionDscp">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a702dbbeec9f748c4fb259013b67f4538" title="BgpServer::global_qos" alt="" coords="270,5,437,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/classBgpGlobalQosConfig.html#a990d932190a9307abae30a8819952d62" title="BgpGlobalQosConfig\l::control_dscp" alt="" coords="276,57,431,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="525,124,669,151"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title="TcpSession::SetDscpSocket\lOption" alt="" coords="254,174,453,215"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="526,179,669,205"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#ad555a8053ae73838c80c0f03290dec97" title="TcpServer::SetDscpSocket\lOption" alt="" coords="502,230,693,271"/>
+<area shape="rect" id="node8" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="741,237,861,264"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RoutingInstance::trace_buffer" name="RoutingInstance::trace_buffer">
+<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#adaf799d305217dff1b2726155a39163c" title="RoutingInstanceMgr\l::LocateTraceBuffer" alt="" coords="222,38,373,79"/>
+<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#ad3f885eb40ef258078ed78847b7c4dab" title="RoutingInstanceMgr\l::GetActiveTraceBuffer" alt="" coords="422,5,589,46"/>
+<area shape="rect" id="node4" href="$d2/d72/classRoutingInstanceMgr.html#adc9a1678580898f134d26aecf9575023" title="RoutingInstanceMgr\l::GetTraceBuffer" alt="" coords="430,70,581,111"/>
+<area shape="rect" id="node5" href="$d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492" title="SandeshTraceBufferCreate" alt="" coords="638,77,831,104"/>
+<area shape="rect" id="node6" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Trace::GetInstance" alt="" coords="882,52,1025,79"/>
+<area shape="rect" id="node8" href="$d4/d8b/classTrace.html#a19e877455bf7fc168d0dcd0cfa733f70" title="Trace::TraceBufAdd" alt="" coords="881,103,1026,129"/>
+<area shape="rect" id="node7" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Trace::Trace" alt="" coords="1075,52,1173,79"/>
+</map>

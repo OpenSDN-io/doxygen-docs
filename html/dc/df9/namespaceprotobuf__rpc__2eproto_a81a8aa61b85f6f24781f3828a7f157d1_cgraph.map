@@ -1,0 +1,12 @@
+<map id="protobuf_rpc_2eproto::InitDefaultsPutResponse" name="protobuf_rpc_2eproto::InitDefaultsPutResponse">
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0dd29c5d52103c41c4bb80500bc39682" title="protobuf_rpc_2eproto\l::InitDefaultsPutResponseImpl" alt="" coords="243,70,461,111"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="510,5,725,46"/>
+<area shape="rect" id="node6" href="$df/d94/namespaceprotobuf__kv__2eproto.html#ae7c6195022964d8d9ed745c1afcf8e63" title="protobuf_kv_2eproto\l::InitDefaultsKeyValue" alt="" coords="534,70,701,111"/>
+<area shape="rect" id="node9" href="$d7/d0f/classetcdserverpb_1_1PutResponse.html#abef22b40b810b62748054ebbf2e79596" title="etcdserverpb::PutResponse\l::InitAsDefaultInstance" alt="" coords="518,135,717,177"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="774,5,1018,46"/>
+<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1067,5,1291,46"/>
+<area shape="rect" id="node7" href="$df/d94/namespaceprotobuf__kv__2eproto.html#ad9d207902b18a8d0288a3793d727f5f6" title="protobuf_kv_2eproto\l::InitDefaultsKeyValueImpl" alt="" coords="799,70,993,111"/>
+<area shape="rect" id="node8" href="$d9/d27/classmvccpb_1_1KeyValue.html#add7012f68726fa08c10b6cddb4fa2b23" title="mvccpb::KeyValue::InitAs\lDefaultInstance" alt="" coords="1085,70,1272,111"/>
+<area shape="rect" id="node10" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="784,135,1008,177"/>
+<area shape="rect" id="node11" href="$d9/d27/classmvccpb_1_1KeyValue.html#a26be475e927dce638e4bb81498e1ce4e" title="mvccpb::KeyValue::internal\l_default_instance" alt="" coords="797,201,995,242"/>
+</map>

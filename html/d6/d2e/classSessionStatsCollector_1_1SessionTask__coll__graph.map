@@ -1,0 +1,46 @@
+<map id="SessionStatsCollector::SessionTask" name="SessionStatsCollector::SessionTask">
+<area shape="rect" id="node3" href="$df/d96/classSessionStatsCollector.html" title="SessionStatsCollector" alt="" coords="2829,1459,2992,1485"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,1560,61,1587"/>
+<area shape="rect" id="node9" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="209,1373,343,1400"/>
+<area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; FlowStatsCollector\lReq \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; FlowStatsCollectorReq \&gt; \&gt; \&gt;" alt="" coords="1139,1778,1391,1849"/>
+<area shape="rect" id="node49" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; SessionStatsReq\l \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; SessionStatsReq \&gt; \&gt; \&gt;" alt="" coords="1154,1873,1377,1943"/>
+<area shape="rect" id="node4" href="$d1/df6/classStatsCollector.html" title="StatsCollector" alt="" coords="1209,831,1322,857"/>
+<area shape="rect" id="node22" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1627,831,1778,857"/>
+<area shape="rect" id="node5" href="$d3/d5f/classTaskTrigger.html" title="TaskTrigger" alt="" coords="738,831,833,857"/>
+<area shape="rect" id="node6" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="755,1199,815,1225"/>
+<area shape="rect" id="node29" href="$dc/d3a/classIcmpv6Proto.html" title="Icmpv6Proto" alt="" coords="1651,983,1755,1009"/>
+<area shape="rect" id="node10" href="$d0/d29/classFlowStatsManager.html" title="FlowStatsManager" alt="" coords="2464,1487,2605,1513"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; FlowStatsCollectorReq \&gt; \&gt;" alt="" coords="667,1751,904,1793"/>
+<area shape="rect" id="node32" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="2475,1201,2594,1228"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="2071,965,2131,992"/>
+<area shape="rect" id="node46" href="$db/d29/structSessionEndpointKey.html" title="SessionEndpointKey" alt="" coords="1826,1788,1979,1815"/>
+<area shape="rect" id="node48" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; SessionStatsReq \&gt; \&gt;" alt="" coords="685,1921,885,1962"/>
+<area shape="rect" id="node16" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="928,324,1115,351"/>
+<area shape="rect" id="node27" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1451,416,1549,443"/>
+<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="964,887,1079,913"/>
+<area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="213,1899,339,1925"/>
+<area shape="rect" id="node44" href="$d6/d34/classIndexVector.html" title="IndexVector\&lt; FlowStatsCollector * \&gt;" alt="" coords="381,2100,643,2127"/>
+<area shape="rect" id="node23" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="2503,952,2566,979"/>
+<area shape="rect" id="node28" href="$de/d13/classAgentConfig.html" title="AgentConfig" alt="" coords="2484,861,2585,888"/>
+<area shape="rect" id="node41" href="$d4/d59/classAgentUveBase.html" title="AgentUveBase" alt="" coords="2475,1088,2594,1115"/>
+<area shape="rect" id="node17" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1659,1033,1747,1060"/>
+<area shape="rect" id="node18" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1663,932,1742,959"/>
+<area shape="rect" id="node19" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="1215,1112,1315,1139"/>
+<area shape="rect" id="node20" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="1621,1191,1784,1217"/>
+<area shape="rect" id="node21" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="1608,1242,1797,1283"/>
+<area shape="rect" id="node24" href="$d5/d6d/classIFMapAgentParser.html" title="IFMapAgentParser" alt="" coords="1633,1308,1772,1335"/>
+<area shape="rect" id="node25" href="$dd/da3/classForwardingClassTable.html" title="ForwardingClassTable" alt="" coords="1621,1359,1784,1385"/>
+<area shape="rect" id="node26" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="1616,232,1789,259"/>
+<area shape="rect" id="node30" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="1666,399,1739,425"/>
+<area shape="rect" id="node33" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="1617,449,1789,476"/>
+<area shape="rect" id="node34" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="1623,500,1782,527"/>
+<area shape="rect" id="node35" href="$d7/dc2/classVxLanTable.html" title="VxLanTable" alt="" coords="1655,551,1751,577"/>
+<area shape="rect" id="node36" href="$db/d2a/classVmTable.html" title="VmTable" alt="" coords="1663,640,1742,667"/>
+<area shape="rect" id="node37" href="$db/d35/classVrfTable.html" title="VrfTable" alt="" coords="1665,729,1740,756"/>
+<area shape="rect" id="node38" href="$db/d24/classHealthCheckTable.html" title="HealthCheckTable" alt="" coords="1633,780,1772,807"/>
+<area shape="rect" id="node45" href="$d9/db6/structSessionAggKey.html" title="SessionAggKey" alt="" coords="2253,1639,2374,1665"/>
+<area shape="rect" id="node50" href="$d9/d0c/structSessionKey.html" title="SessionKey" alt="" coords="2053,1479,2149,1505"/>
+<area shape="rect" id="node42" href="$d7/dbb/classprocess_1_1ConnectionStateManager.html" title="process::ConnectionState\lManager" alt="" coords="2008,1103,2195,1145"/>
+<area shape="rect" id="node43" href="$d0/d0f/classFlowStatsCollectorObject.html" title="FlowStatsCollectorObject" alt="" coords="2009,1580,2194,1607"/>
+<area shape="rect" id="node47" href="$da/da2/classSessionStatsCollectorObject.html" title="SessionStatsCollectorObject" alt="" coords="2432,1436,2637,1463"/>
+</map>

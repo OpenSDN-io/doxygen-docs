@@ -1,0 +1,8 @@
+<map id="OVSDB::OvsdbDBEntry::Delete" name="OVSDB::OvsdbDBEntry::Delete">
+<area shape="rect" id="node2" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a560d1cfb474f2abd22533502cea4c610" title="OVSDB::OvsdbDBEntry\l::IsNoTxnEntry" alt="" coords="231,5,401,46"/>
+<area shape="rect" id="node3" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#af7e3fc2f90cb19700a9ddfd0582a0b1b" title="OVSDB::OvsdbDBEntry\l::DeleteMsg" alt="" coords="231,70,401,111"/>
+<area shape="rect" id="node4" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a6d552f498eb825bacbc6113bfcc2231e" title="OVSDB::OvsdbDBEntry\l::PostDelete" alt="" coords="231,135,401,177"/>
+<area shape="rect" id="node5" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a2d5869dea0c8e3a6aa696db3167407a4" title="OVSDB::OvsdbDBEntry\l::GetObject" alt="" coords="231,201,401,242"/>
+<area shape="rect" id="node6" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a9f35b6824c6ba7605caf390fbf004595" title="OVSDB::OvsdbDBEntry\l::UseBulkTxn" alt="" coords="231,266,401,307"/>
+<area shape="rect" id="node7" href="$d5/df4/classOVSDB_1_1OvsdbEntryBase.html#aad7a5c844544dfc90b69d7389e437084" title="OVSDB::OvsdbEntryBase\l::TxnDoneNoMessage" alt="" coords="225,331,407,373"/>
+</map>

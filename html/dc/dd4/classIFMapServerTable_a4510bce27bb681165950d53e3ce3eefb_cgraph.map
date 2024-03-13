@@ -1,0 +1,29 @@
+<map id="IFMapServerTable::RemoveObjectAndDeleteNode" name="IFMapServerTable::RemoveObjectAndDeleteNode">
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="277,5,411,32"/>
+<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#adfa3609fcc9a79428d236e2c49070585" title="IFMapNode::Find" alt="" coords="280,56,408,83"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a18bc4289a44f649c27cb78fa0a5a14c1" title="IFMapNode::Remove" alt="" coords="267,107,421,133"/>
+<area shape="rect" id="node9" href="$dc/dd4/classIFMapServerTable.html#ada768a2db59d5f7600be2de2ff564b6f" title="IFMapServerTable::Delete\lIfEmpty" alt="" coords="251,201,437,242"/>
+<area shape="rect" id="node4" href="$d9/d04/classIFMapObject.html#a2f791007d2496d38195efbef1f2379e0" title="IFMapObject::origin" alt="" coords="529,56,676,83"/>
+<area shape="rect" id="node6" href="$d0/d9d/bgp__aspath_8h.html#a0ee38ffc269b9ff050119096acd440db" title="intrusive_ptr_release" alt="" coords="523,107,682,133"/>
+<area shape="rect" id="node7" href="$d7/dfb/classAsPath.html#a7ae3c8cb4a81d812b02e86665dafd1bc" title="AsPath::Remove" alt="" coords="802,107,929,133"/>
+<area shape="rect" id="node8" href="$d6/dd7/classBgpPathAttributeDB.html#a0a7671c67604d9238f7c7920f534227c" title="BgpPathAttributeDB\l::Delete" alt="" coords="1054,99,1205,141"/>
+<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="519,157,686,184"/>
+<area shape="rect" id="node11" href="$d3/d0d/classDBGraphVertex.html#a4d7ca0de9aa678b59fb7241483580160" title="DBGraphVertex::HasAdjacencies" alt="" coords="486,208,719,235"/>
+<area shape="rect" id="node14" href="$d4/d52/classDBGraphTable.html#ac6c155d4b8e944e5162b2993875bcbd3" title="DBGraphTable::graph" alt="" coords="786,259,945,285"/>
+<area shape="rect" id="node15" href="$dc/dd4/classIFMapServerTable.html#aef8418bbe0ca3cbfe8e6b6b3c55530d7" title="IFMapServerTable::DeleteNode" alt="" coords="492,309,713,336"/>
+<area shape="rect" id="node12" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="788,157,943,184"/>
+<area shape="rect" id="node13" href="$d0/d0c/classDBGraph.html#a698c95e5e53122a59b089bca99d50826" title="DBGraph::graph" alt="" coords="803,208,928,235"/>
+<area shape="rect" id="node16" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="788,309,943,336"/>
+<area shape="rect" id="node18" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="768,360,963,387"/>
+<area shape="rect" id="node26" href="$d0/d0c/classDBGraph.html#ab9b28e0e69ca52395de01e062286c2ba" title="DBGraph::RemoveNode" alt="" coords="778,436,953,463"/>
+<area shape="rect" id="node17" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="1045,284,1214,311"/>
+<area shape="rect" id="node19" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1068,335,1191,361"/>
+<area shape="rect" id="node25" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1071,385,1187,412"/>
+<area shape="rect" id="node20" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1296,335,1437,361"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1501,305,1702,332"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1486,357,1717,398"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1765,305,1981,332"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2030,298,2221,339"/>
+<area shape="rect" id="node27" href="$d3/d0d/classDBGraphVertex.html#a6228262a54afbcae1c3711e1f0b6921e" title="DBGraphVertex::vertex" alt="" coords="1043,436,1215,463"/>
+<area shape="rect" id="node28" href="$d3/d0d/classDBGraphVertex.html#a7bdfdc8a766797b56a3055282fdbe7db" title="DBGraphVertex::VertexInvalidate" alt="" coords="1011,487,1248,513"/>
+</map>

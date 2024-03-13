@@ -1,0 +1,28 @@
+<map id="new_conn" name="new_conn">
+<area shape="rect" id="node2" href="$df/dbf/http__curl_8cc.html#a40e76c5820648c093d37472aa9d1dd69" title="write_cb" alt="" coords="156,23,233,49"/>
+<area shape="rect" id="node4" href="$df/dbf/http__curl_8cc.html#aa9c74333b6bb0901cef62dc56caf63c9" title="header_cb" alt="" coords="150,89,239,116"/>
+<area shape="rect" id="node6" href="$df/dbf/http__curl_8cc.html#ab089d05c0b2641028eb015a60477116b" title="read_cb" alt="" coords="158,173,231,200"/>
+<area shape="rect" id="node10" href="$df/dbf/http__curl_8cc.html#ab711b4ed8bfc4bd1e687628665da3cb6" title="prog_cb" alt="" coords="158,224,231,251"/>
+<area shape="rect" id="node11" href="$df/dbf/http__curl_8cc.html#a6c9b91a10d0a411dd6133ad4791d403c" title="open_socket" alt="" coords="143,417,247,444"/>
+<area shape="rect" id="node22" href="$df/dbf/http__curl_8cc.html#ae3bfdeea75bc47a3ec1204025c6d78b4" title="close_socket" alt="" coords="141,333,248,360"/>
+<area shape="rect" id="node3" href="$d3/de9/classHttpConnection.html#a4dc50edf99adcbfca007163c00647925" title="HttpConnection::AssignData" alt="" coords="305,5,511,32"/>
+<area shape="rect" id="node5" href="$d3/de9/classHttpConnection.html#ad74458070ea6e1be0bf5846c3ba827aa" title="HttpConnection::AssignHeader" alt="" coords="297,56,519,83"/>
+<area shape="rect" id="node7" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title="HttpConnection::curl\l_handle" alt="" coords="331,107,485,149"/>
+<area shape="rect" id="node8" href="$d3/de9/classHttpConnection.html#a1ce84da9d97c122356fa6a86c9f407e7" title="HttpConnection::GetOffset" alt="" coords="311,173,505,200"/>
+<area shape="rect" id="node9" href="$d3/de9/classHttpConnection.html#ad26864efad65e3fa0faed3a1920fd828" title="HttpConnection::UpdateOffset" alt="" coords="299,224,517,251"/>
+<area shape="rect" id="node12" href="$d3/de9/classHttpConnection.html#a1bede55ed33c67cc714ba0687f786de4" title="HttpConnection::CreateSession" alt="" coords="296,451,520,477"/>
+<area shape="rect" id="node17" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1320,417,1464,444"/>
+<area shape="rect" id="node20" href="$d3/de9/classHttpConnection.html#ac38dce82c9d28656d18b7fc556ac3d7e" title="HttpConnection::set\l_session" alt="" coords="333,502,483,543"/>
+<area shape="rect" id="node13" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="571,509,751,536"/>
+<area shape="rect" id="node14" href="$d4/d6e/classHttpClient.html#a005a570c983352c84b10cfa3babbc274" title="HttpClient::CreateSession" alt="" coords="803,519,992,545"/>
+<area shape="rect" id="node19" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="588,443,735,485"/>
+<area shape="rect" id="node15" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title="TcpServer::CreateSession" alt="" coords="1055,544,1241,571"/>
+<area shape="rect" id="node18" href="$d2/d0e/classTcpSession.html#ad8740e4f810aa650f174fe6fb31c3e47" title="TcpSession::SetSocketOptions" alt="" coords="1040,493,1256,520"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="1305,544,1479,571"/>
+<area shape="rect" id="node21" href="$d7/dab/classHttpClientSession.html#a01f243adc25a7ec1f379f30ac8ece0a1" title="HttpClientSession::\lRegisterEventCb" alt="" coords="588,611,735,653"/>
+<area shape="rect" id="node23" href="$d3/de9/classHttpConnection.html#a906ef00ca5206fc8ff82b6b118af9a6a" title="HttpConnection::delete\l_session" alt="" coords="322,385,494,426"/>
+<area shape="rect" id="node24" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="588,326,735,367"/>
+<area shape="rect" id="node25" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="568,392,755,419"/>
+<area shape="rect" id="node26" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="829,392,966,419"/>
+<area shape="rect" id="node27" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1055,392,1241,419"/>
+</map>

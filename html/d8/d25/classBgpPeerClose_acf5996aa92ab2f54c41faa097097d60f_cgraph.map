@@ -1,0 +1,10 @@
+<map id="BgpPeerClose::RestartStateMachine" name="BgpPeerClose::RestartStateMachine">
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a194988437b7ab672a3f8c0327187dfb7" title="BgpPeer::state_machine" alt="" coords="254,31,434,57"/>
+<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#afbbf1c765342ba3ee08fb9f50f90567a" title="StateMachine::Initialize" alt="" coords="257,81,431,108"/>
+<area shape="rect" id="node4" href="$d0/dc5/classStateMachine.html#a8e265805a07cd564869ba5498cec8681" title="StateMachine::Enqueue" alt="" coords="483,81,658,108"/>
+<area shape="rect" id="node5" href="$d0/dc5/classStateMachine.html#aad14cf4d573e5addd350fe6bef5f0fd3" title="StateMachine::LogEvent" alt="" coords="707,56,885,83"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="715,107,877,133"/>
+<area shape="rect" id="node6" href="$d0/dc5/classStateMachine.html#a51cbe0bae3ddb185dd653883ad77c31b" title="StateMachine::get_state" alt="" coords="940,5,1119,32"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="936,56,1123,83"/>
+<area shape="rect" id="node8" href="$d0/dc5/classStateMachine.html#a4927f09dfd81bbbc1cccff1487e6d6f5" title="StateMachine::StateName" alt="" coords="934,107,1125,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RoutePrefixIsAddress" name="RoutePrefixIsAddress">
+<area shape="rect" id="node2" href="$d1/d53/classInetRoute.html#ac8caabef2568195a64e0ee94ad8bb935" title="InetRoute::GetPrefix" alt="" coords="217,5,369,32"/>
+<area shape="rect" id="node3" href="$d3/d22/classIp4Prefix.html#a3bbb52dd6d1ad52f135ef49039c9ed22" title="Ip4Prefix::addr" alt="" coords="235,56,351,83"/>
+<area shape="rect" id="node4" href="$d3/d22/classIp4Prefix.html#ad9d4d55e21e995a293ce8e48ba570e4c" title="Ip4Prefix::prefixlen" alt="" coords="221,107,365,133"/>
+<area shape="rect" id="node5" href="$de/dd1/classInet6Route.html#ae909150240fc2ea01b979f866ea02088" title="Inet6Route::GetPrefix" alt="" coords="213,157,373,184"/>
+<area shape="rect" id="node6" href="$d6/da8/classInet6Prefix.html#aa8e8bbea825f6ad9f81120a1140d5ade" title="Inet6Prefix::addr" alt="" coords="229,208,358,235"/>
+<area shape="rect" id="node7" href="$d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df" title="Inet6Prefix::prefixlen" alt="" coords="215,259,372,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MplsTable::CheckVrLabelLimit" name="MplsTable::CheckVrLabelLimit">
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="299,5,458,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a261b14dd89449f6d544163ec06a2f430" title="Agent::get_vr_limits\l_exceeded_map" alt="" coords="302,57,455,98"/>
+<area shape="rect" id="node4" href="$d6/d34/classIndexVector.html#a671c9e78916e0bc9febfe4d6aba130a7" title="IndexVector::InUseIndexCount" alt="" coords="269,123,488,149"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a8aed425281071379af6d168bfbb07a74" title="Agent::vr_limit_high\l_watermark" alt="" coords="302,174,455,215"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a556f8fdbb3badf2b83c5ce0c22e45f90" title="Agent::vrouter_max\l_labels" alt="" coords="303,239,454,281"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#af68aa788c68e352c98980182739814b9" title="Agent::vr_limit_low\l_watermark" alt="" coords="305,305,453,346"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0f7a269a95b7b30bd63fda725da82472" title="Agent::set_vr_limits\l_exceeded_map" alt="" coords="303,370,455,411"/>
+</map>

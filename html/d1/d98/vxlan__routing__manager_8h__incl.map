@@ -1,0 +1,29 @@
+<map id="vxlan_routing_manager.h" name="vxlan_routing_manager.h">
+<area shape="rect" id="node2" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="2804,229,2943,256"/>
+<area shape="rect" id="node33" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="433,312,535,339"/>
+<area shape="rect" id="node46" href="$df/dfa/oper__db_8h.html" title="oper/oper_db.h" alt="" coords="3454,80,3572,107"/>
+<area shape="rect" id="node21" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="3427,395,3544,421"/>
+<area shape="rect" id="node50" href="$d7/d91/vxlan__templates_8cc.html" title="oper/vxlan_templates.cc" alt="" coords="4199,80,4381,107"/>
+<area shape="rect" id="node14" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1851,312,2001,339"/>
+<area shape="rect" id="node15" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="1011,395,1081,421"/>
+<area shape="rect" id="node17" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="3587,469,3696,496"/>
+<area shape="rect" id="node18" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="3493,552,3603,579"/>
+<area shape="rect" id="node19" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="3179,395,3351,421"/>
+<area shape="rect" id="node20" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="3333,312,3493,339"/>
+<area shape="rect" id="node22" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2027,312,2147,339"/>
+<area shape="rect" id="node23" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="1111,395,1208,421"/>
+<area shape="rect" id="node24" href="$de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="3729,552,3876,579"/>
+<area shape="rect" id="node25" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="661,312,843,339"/>
+<area shape="rect" id="node27" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="2907,395,3053,421"/>
+<area shape="rect" id="node28" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="3139,312,3259,339"/>
+<area shape="rect" id="node29" href="$dc/ddd/ifmap__agent__parser_8h.html" title="ifmap/ifmap_agent_parser.h" alt="" coords="917,312,1123,339"/>
+<area shape="rect" id="node30" href="$d7/d08/ifmap__agent__table_8h.html" title="ifmap/ifmap_agent_table.h" alt="" coords="1198,312,1396,339"/>
+<area shape="rect" id="node40" href="$da/de1/agent__db_8h.html" title="cmn/agent_db.h" alt="" coords="3822,312,3948,339"/>
+<area shape="rect" id="node41" href="$dc/d43/event__notifier_8h.html" title="cmn/event_notifier.h" alt="" coords="2360,312,2515,339"/>
+<area shape="rect" id="node36" href="$d1/d1a/intrusive__ptr__back__ref_8h.html" title="base/intrusive_ptr\l_back_ref.h" alt="" coords="664,545,803,586"/>
+<area shape="rect" id="node37" href="$dd/dd6/connection__info_8h.html" title="base/connection_info.h" alt="" coords="713,395,884,421"/>
+<area shape="rect" id="node38" href="$d6/d05/mac__address_8h.html" title="net/mac_address.h" alt="" coords="245,395,389,421"/>
+<area shape="rect" id="node47" href="$d4/d92/operdb__init_8h.html" title="operdb_init.h" alt="" coords="2820,155,2927,181"/>
+<area shape="rect" id="node48" href="$dd/d12/ifmap__dependency__manager_8h.html" title="ifmap_dependency_manager.h" alt="" coords="4266,229,4488,256"/>
+<area shape="rect" id="node49" href="$df/d0a/ifmap__node_8h.html" title="ifmap/ifmap_node.h" alt="" coords="3297,155,3449,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="etcdserverpb::CompactionRequest::New" name="etcdserverpb::CompactionRequest::New">
+<area shape="rect" id="node2" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#a3abca224dd778e76e90558800a7d915d" title="etcdserverpb::Compaction\lRequest::CompactionRequest" alt="" coords="249,86,461,127"/>
+<area shape="rect" id="node3" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#ac504982a397ed6dc70f497547d745147" title="etcdserverpb::Compaction\lRequest::internal_default\l_instance" alt="" coords="531,5,725,61"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8b57c8dd38a2bd35ad236b5442ea76c9" title="protobuf_rpc_2eproto\l::InitDefaultsCompactionRequest" alt="" coords="510,86,746,127"/>
+<area shape="rect" id="node7" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#a84bda3031a84bbd4ba7bdaecab11c49d" title="etcdserverpb::Compaction\lRequest::SharedCtor" alt="" coords="531,151,725,193"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a32522076db602ad20f8b7c88b637eead" title="protobuf_rpc_2eproto\l::InitDefaultsCompactionRequestImpl" alt="" coords="795,86,1061,127"/>
+<area shape="rect" id="node6" href="$db/da0/classetcdserverpb_1_1CompactionRequest.html#a1f32eba4feb931f1985c344c53d81372" title="etcdserverpb::Compaction\lRequest::InitAsDefaultInstance" alt="" coords="1110,86,1333,127"/>
+</map>

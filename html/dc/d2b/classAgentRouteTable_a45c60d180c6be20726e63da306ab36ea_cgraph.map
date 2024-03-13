@@ -1,0 +1,8 @@
+<map id="AgentRouteTable::SetVrf" name="AgentRouteTable::SetVrf">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="232,5,408,32"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="261,56,379,83"/>
+<area shape="rect" id="node5" href="$d6/d09/classLifetimeRefBase.html#a4bc5e40c2614d1417411442d99447e75" title="LifetimeRefBase::Reset" alt="" coords="233,107,407,133"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#ab052daa6b97ee10eeef0087b79c80060" title="VrfEntry::deleter" alt="" coords="256,157,384,184"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="457,5,639,32"/>
+<area shape="rect" id="node6" href="$d2/db8/classDependencyRef.html#a0b849af3b740b9e111d17f21589a25bf" title="DependencyRef::reset" alt="" coords="465,107,631,133"/>
+</map>

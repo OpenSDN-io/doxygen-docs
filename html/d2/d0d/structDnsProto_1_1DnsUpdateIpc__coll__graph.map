@@ -1,0 +1,43 @@
+<map id="DnsProto::DnsUpdateIpc" name="DnsProto::DnsUpdateIpc">
+<area shape="rect" id="node2" href="$de/d93/structInterTaskMsg.html" title="InterTaskMsg" alt="" coords="1425,1479,1532,1505"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html" title="VmInterface" alt="" coords="1427,1529,1530,1556"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html" title="Interface" alt="" coords="972,315,1052,341"/>
+<area shape="rect" id="node16" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1439,455,1518,481"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1821,340,1881,367"/>
+<area shape="rect" id="node5" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; Interface \&gt;" alt="" coords="446,109,653,136"/>
+<area shape="rect" id="node14" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="677,57,864,84"/>
+<area shape="rect" id="node10" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="2509,220,2624,247"/>
+<area shape="rect" id="node7" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="477,293,621,320"/>
+<area shape="rect" id="node8" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="149,279,262,305"/>
+<area shape="rect" id="node9" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="5,279,80,305"/>
+<area shape="rect" id="node11" href="$d6/dee/classAgentOperDBTable.html" title="AgentOperDBTable" alt="" coords="2315,391,2459,417"/>
+<area shape="rect" id="node12" href="$db/d09/classAgentDBTable.html" title="AgentDBTable" alt="" coords="2078,391,2191,417"/>
+<area shape="rect" id="node21" href="$dc/dff/classOperDB.html" title="OperDB" alt="" coords="2099,220,2171,247"/>
+<area shape="rect" id="node15" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1435,209,1523,236"/>
+<area shape="rect" id="node17" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="155,421,255,448"/>
+<area shape="rect" id="node26" href="$d1/dfc/structInterfaceOsParams.html" title="InterfaceOsParams" alt="" coords="477,345,622,372"/>
+<area shape="rect" id="node18" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="1397,337,1560,364"/>
+<area shape="rect" id="node19" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="1384,389,1573,430"/>
+<area shape="rect" id="node50" href="$de/d3d/structDnsUpdateData.html" title="DnsUpdateData" alt="" coords="708,2207,833,2233"/>
+<area shape="rect" id="node24" href="$d6/d34/classIndexVector.html" title="IndexVector\&lt; Interface * \&gt;" alt="" coords="1161,116,1359,143"/>
+<area shape="rect" id="node27" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="449,1025,650,1052"/>
+<area shape="rect" id="node29" href="$de/d17/structVmInterface_1_1BridgeDomainList.html" title="VmInterface::BridgeDomainList" alt="" coords="899,1529,1125,1556"/>
+<area shape="rect" id="node30" href="$dc/dd1/structVmInterface_1_1SecurityGroupEntryList.html" title="VmInterface::SecurityGroup\lEntryList" alt="" coords="911,1581,1113,1622"/>
+<area shape="rect" id="node31" href="$d3/d8a/structVmInterface_1_1ServiceVlanList.html" title="VmInterface::ServiceVlanList" alt="" coords="907,1763,1117,1789"/>
+<area shape="rect" id="node32" href="$d6/dbb/structVmInterface_1_1List.html" title="VmInterface::List" alt="" coords="483,1763,616,1789"/>
+<area shape="rect" id="node33" href="$df/db0/structVmInterface_1_1FloatingIpList.html" title="VmInterface::FloatingIpList" alt="" coords="913,1813,1111,1840"/>
+<area shape="rect" id="node34" href="$da/d41/structVmInterface_1_1StaticRouteList.html" title="VmInterface::StaticRouteList" alt="" coords="909,1864,1115,1891"/>
+<area shape="rect" id="node35" href="$d7/d93/structVmInterface_1_1AliasIpList.html" title="VmInterface::AliasIpList" alt="" coords="923,1915,1101,1941"/>
+<area shape="rect" id="node36" href="$d8/db9/structVmInterface_1_1LearntMacIpList.html" title="VmInterface::LearntMacIpList" alt="" coords="906,1965,1118,1992"/>
+<area shape="rect" id="node37" href="$d3/dc2/structVmInterface_1_1VrfAssignRuleList.html" title="VmInterface::VrfAssignRuleList" alt="" coords="901,1428,1123,1455"/>
+<area shape="rect" id="node38" href="$db/d6d/structVmInterface_1_1VmiReceiveRouteList.html" title="VmInterface::VmiReceiveRouteList" alt="" coords="889,1479,1135,1505"/>
+<area shape="rect" id="node41" href="$d8/d8b/structVmInterface_1_1AllowedAddressPairList.html" title="VmInterface::AllowedAddress\lPairList" alt="" coords="905,1646,1119,1687"/>
+<area shape="rect" id="node44" href="$d0/d46/structVmInterface_1_1InstanceIpList.html" title="VmInterface::InstanceIpList" alt="" coords="912,1712,1112,1739"/>
+<area shape="rect" id="node39" href="$d2/d38/structVmInterface_1_1FatFlowList.html" title="VmInterface::FatFlowList" alt="" coords="921,2016,1103,2043"/>
+<area shape="rect" id="node40" href="$d7/dd5/classOperDhcpOptions.html" title="OperDhcpOptions" alt="" coords="944,2067,1080,2093"/>
+<area shape="rect" id="node42" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; Interface \&gt;" alt="" coords="909,1175,1115,1201"/>
+<area shape="rect" id="node45" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VmEntry \&gt;" alt="" coords="910,1225,1114,1252"/>
+<area shape="rect" id="node47" href="$d7/ddf/classVmiEcmpLoadBalance.html" title="VmiEcmpLoadBalance" alt="" coords="929,1276,1095,1303"/>
+<area shape="rect" id="node48" href="$d1/db0/classEcmpLoadBalance.html" title="EcmpLoadBalance" alt="" coords="479,1284,620,1311"/>
+<area shape="rect" id="node49" href="$d1/ded/structVmInterface_1_1TagEntryList.html" title="VmInterface::TagEntryList" alt="" coords="917,1327,1107,1353"/>
+</map>

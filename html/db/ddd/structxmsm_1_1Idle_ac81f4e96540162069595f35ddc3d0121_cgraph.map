@@ -1,0 +1,12 @@
+<map id="xmsm::Idle::Idle" name="xmsm::Idle::Idle">
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a1204c9a587497feb59d4a1fd1b5b9d28" title="XmppStateMachine::get\l_state" alt="" coords="237,5,414,46"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#a0b93e1a7d6c203022e19c9e1f4e11c5c" title="XmppStateMachine::set\l_state" alt="" coords="237,165,413,206"/>
+<area shape="rect" id="node10" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="182,231,469,257"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="821,172,1048,199"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#a02879ba9f16426117dda1e4928d8ce7a" title="XmppConnection::increment\l_flap_count" alt="" coords="222,282,429,323"/>
+<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="568,121,723,148"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a4c62c339c2ea6e6a0a3b0360d5208a01" title="XmppStateMachine::logUVE" alt="" coords="544,223,747,249"/>
+<area shape="rect" id="node8" href="$d2/db3/classXmppStateMachine.html#a9ec684fae544f575248eb2360219fc91" title="XmppStateMachine::StateName" alt="" coords="531,273,760,300"/>
+<area shape="rect" id="node9" href="$d2/db3/classXmppStateMachine.html#a24b0776dbd17987170f0a728baea31a8" title="XmppStateMachine::LastStateName" alt="" coords="517,324,773,351"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#a5fddcca3abb84411a2d2e7815d6904bb" title="XmppConnection::logUVE" alt="" coords="841,223,1029,249"/>
+</map>

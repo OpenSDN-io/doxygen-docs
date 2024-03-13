@@ -1,0 +1,10 @@
+<map id="etcdserverpb::WatchCreateRequest::MergeFrom" name="etcdserverpb::WatchCreateRequest::MergeFrom">
+<area shape="rect" id="node2" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a437d3a22f514a0ae130328da0b3cbc2c" title="etcdserverpb::WatchCreate\lRequest::key" alt="" coords="259,5,458,46"/>
+<area shape="rect" id="node3" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a7642a6921a784b1a8ee1b4bdf2507da9" title="etcdserverpb::WatchCreate\lRequest::range_end" alt="" coords="259,70,458,111"/>
+<area shape="rect" id="node4" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a0783a2e92f1c64f66970e41571002563" title="etcdserverpb::WatchCreate\lRequest::start_revision" alt="" coords="259,135,458,177"/>
+<area shape="rect" id="node5" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a0635f73c2a6dfa8b75aa878142fc883f" title="etcdserverpb::WatchCreate\lRequest::set_start_revision" alt="" coords="259,201,458,242"/>
+<area shape="rect" id="node6" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#aa7de18cc9db8975f168664b621b3a4ac" title="etcdserverpb::WatchCreate\lRequest::progress_notify" alt="" coords="259,266,458,307"/>
+<area shape="rect" id="node7" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ab76f96da703fcdeb173ca49ef4280923" title="etcdserverpb::WatchCreate\lRequest::set_progress_notify" alt="" coords="253,331,464,373"/>
+<area shape="rect" id="node8" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a048d5cf82759be39f2efadca73c31f98" title="etcdserverpb::WatchCreate\lRequest::prev_kv" alt="" coords="259,397,458,438"/>
+<area shape="rect" id="node9" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ab644c9bc601fbb00da90a9eab0a0389c" title="etcdserverpb::WatchCreate\lRequest::set_prev_kv" alt="" coords="259,462,458,503"/>
+</map>

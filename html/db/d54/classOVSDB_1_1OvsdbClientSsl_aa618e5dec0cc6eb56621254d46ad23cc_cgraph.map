@@ -1,0 +1,11 @@
+<map id="OVSDB::OvsdbClientSsl::shutdown" name="OVSDB::OvsdbClientSsl::shutdown">
+<area shape="rect" id="node2" href="$db/d54/classOVSDB_1_1OvsdbClientSsl.html#a6d2304d6a97c5d96c8052b3e36a34b62" title="OVSDB::OvsdbClientSsl\l::NextSession" alt="" coords="254,5,429,46"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a37a972d720285215ebe82f157689ed60" title="TcpSession::IsClosed" alt="" coords="263,71,419,97"/>
+<area shape="rect" id="node5" href="$db/dd5/classOVSDB_1_1OvsdbClientSslSession.html#afef303100ace4399f22949b920fdc9a6" title="OVSDB::OvsdbClientSslSession\l::TriggerClose" alt="" coords="229,122,453,163"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="539,5,687,46"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="545,100,682,127"/>
+<area shape="rect" id="node9" href="$db/dd5/classOVSDB_1_1OvsdbClientSslSession.html#a30a1532743d3d3629edf5bae7bb29638" title="OVSDB::OvsdbClientSslSession\l::EnqueueEvent" alt="" coords="501,151,725,193"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="773,100,960,127"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1008,100,1152,127"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="786,159,947,185"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="xmpp_init.h" name="xmpp_init.h">
+<area shape="rect" id="node2" href="$d4/d2f/xmpp__client_8h.html" title="xmpp/xmpp_client.h" alt="" coords="2087,80,2241,107"/>
+<area shape="rect" id="node45" href="$d1/d2e/xmpp__server_8h.html" title="xmpp/xmpp_server.h" alt="" coords="2262,155,2420,181"/>
+<area shape="rect" id="node5" href="$de/d3b/ssl__server_8h.html" title="io/ssl_server.h" alt="" coords="2077,485,2192,512"/>
+<area shape="rect" id="node17" href="$d7/d8c/ssl__session_8h.html" title="io/ssl_session.h" alt="" coords="2558,411,2681,437"/>
+<area shape="rect" id="node22" href="$dd/d07/xmpp__config_8h.html" title="xmpp/xmpp_config.h" alt="" coords="2262,237,2420,264"/>
+<area shape="rect" id="node24" href="$dd/d09/xmpp__connection_8h.html" title="xmpp/xmpp_connection.h" alt="" coords="1398,155,1588,181"/>
+<area shape="rect" id="node44" href="$de/dd9/xmpp__connection__manager_8h.html" title="xmpp/xmpp_connection\l_manager.h" alt="" coords="1917,230,2096,271"/>
+<area shape="rect" id="node7" href="$d2/d00/tcp__server_8h.html" title="io/tcp_server.h" alt="" coords="2464,568,2581,595"/>
+<area shape="rect" id="node13" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1995,651,2085,677"/>
+<area shape="rect" id="node15" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="3804,651,3924,677"/>
+<area shape="rect" id="node18" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2555,485,2681,512"/>
+<area shape="rect" id="node19" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="2342,568,2439,595"/>
+<area shape="rect" id="node27" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="339,485,441,512"/>
+<area shape="rect" id="node29" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="1433,411,1553,437"/>
+<area shape="rect" id="node39" href="$db/d9a/xmpp__channel__mux_8h.html" title="xmpp/xmpp_channel_mux.h" alt="" coords="498,237,704,264"/>
+<area shape="rect" id="node41" href="$d8/da9/xmpp__state__machine_8h.html" title="xmpp/xmpp_state_machine.h" alt="" coords="541,328,755,355"/>
+<area shape="rect" id="node42" href="$d4/d86/xmpp__session_8h.html" title="xmpp/xmpp_session.h" alt="" coords="2565,328,2733,355"/>
+<area shape="rect" id="node30" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="1640,485,1787,512"/>
+<area shape="rect" id="node31" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1240,485,1384,512"/>
+<area shape="rect" id="node37" href="$d0/d91/time__util_8h.html" title="base/time_util.h" alt="" coords="759,568,885,595"/>
+<area shape="rect" id="node38" href="$df/de0/watermark_8h.html" title="base/watermark.h" alt="" coords="1550,568,1689,595"/>
+<area shape="rect" id="node40" href="$dc/dae/xmpp__channel_8h.html" title="xmpp/xmpp_channel.h" alt="" coords="43,485,213,512"/>
+<area shape="rect" id="node43" href="$d1/d21/regex_8h.html" title="base/regex.h" alt="" coords="3011,411,3117,437"/>
+<area shape="rect" id="node46" href="$df/d8a/bgp__config_8h.html" title="bgp/bgp_config.h" alt="" coords="3294,411,3425,437"/>
+<area shape="rect" id="node48" href="$db/d4e/bgp__common_8h.html" title="bgp/bgp_common.h" alt="" coords="3574,485,3724,512"/>
+<area shape="rect" id="node49" href="$d8/d4e/iservice__chain__mgr_8h.html" title="bgp/routing&#45;instance\l/iservice_chain_mgr.h" alt="" coords="3664,561,3827,602"/>
+</map>

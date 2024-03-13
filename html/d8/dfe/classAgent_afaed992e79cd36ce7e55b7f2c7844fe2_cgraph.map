@@ -1,0 +1,13 @@
+<map id="Agent::GetVrouterObjectLimits" name="Agent::GetVrouterObjectLimits">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a556f8fdbb3badf2b83c5ce0c22e45f90" title="Agent::vrouter_max\l_labels" alt="" coords="293,5,443,46"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae59c3d084542e586a880d93ab805bda8" title="Agent::vrouter_max\l_nexthops" alt="" coords="293,70,443,111"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a2060ca68119249fdf625266a9ee9b082" title="Agent::vrouter_max\l_interfaces" alt="" coords="293,135,443,177"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a38f9bfdf4e71e79a1296568d40b8c9d1" title="Agent::vrouter_max_vrfs" alt="" coords="277,201,459,228"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1e0eded34182b4d81f2f3cee91e58b27" title="Agent::vrouter_max\l_mirror_entries" alt="" coords="293,253,443,294"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aca80c3b3ceb54139acc9d0396853b944" title="Agent::vrouter_max\l_bridge_entries" alt="" coords="293,318,443,359"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a022483d151e147b193b2db7933a0a306" title="Agent::vrouter_max\l_oflow_bridge_entries" alt="" coords="286,383,450,425"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a60a2074097cbd930db27a9090912c92d" title="Agent::vrouter_build_info" alt="" coords="275,449,461,476"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a0c2f70e32ddcbfb0b81278fbb4249a9c" title="Agent::vrouter_max\l_flow_entries" alt="" coords="293,501,443,542"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#aea75d08977db7decec015d07d56586f1" title="Agent::vrouter_max\l_oflow_entries" alt="" coords="293,566,443,607"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a7d2c2054ee7a1a01b938e86a62dd25ea" title="Agent::vrouter_priority\l_tagging" alt="" coords="283,631,453,673"/>
+</map>

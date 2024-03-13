@@ -1,0 +1,13 @@
+<map id="EvpnMcastNode::UpdateAttributes" name="EvpnMcastNode::UpdateAttributes">
+<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="324,31,473,57"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="328,81,469,108"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="333,132,464,159"/>
+<area shape="rect" id="node7" href="$dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="299,183,498,225"/>
+<area shape="rect" id="node8" href="$d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="326,249,471,290"/>
+<area shape="rect" id="node9" href="$d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="317,315,480,341"/>
+<area shape="rect" id="node10" href="$dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="305,366,493,407"/>
+<area shape="rect" id="node11" href="$dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="305,431,493,473"/>
+<area shape="rect" id="node12" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="333,497,465,524"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="547,5,688,32"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="547,56,687,83"/>
+</map>

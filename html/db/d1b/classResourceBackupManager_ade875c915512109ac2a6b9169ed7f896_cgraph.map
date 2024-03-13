@@ -1,0 +1,32 @@
+<map id="ResourceBackupManager::Init" name="ResourceBackupManager::Init">
+<area shape="rect" id="node2" href="$d7/ded/classResourceSandeshMaps.html#a4e59de5b6123ea743a53328cf0db3ded" title="ResourceSandeshMaps\l::ReadFromFile" alt="" coords="240,299,411,341"/>
+<area shape="rect" id="node13" href="$d7/ded/classResourceSandeshMaps.html#a5e1c87757203e7b1d16f0d57914350a5" title="ResourceSandeshMaps\l::RestoreResource" alt="" coords="240,854,411,895"/>
+<area shape="rect" id="node3" href="$dc/d36/classInterfaceMplsBackUpResourceTable.html#a9ac27a887ebd475c91a3aabd0a9d2afe" title="InterfaceMplsBackUpResource\lTable::ReadFromFile" alt="" coords="465,135,684,177"/>
+<area shape="rect" id="node5" href="$da/dc8/classVrfMplsBackUpResourceTable.html#abd3000f0a37423ff40a239e685f3f45a" title="VrfMplsBackUpResourceTable\l::ReadFromFile" alt="" coords="467,201,682,242"/>
+<area shape="rect" id="node6" href="$df/d88/classVlanMplsBackUpResourceTable.html#a03dddbaeff29500acdbc8d9f6d4a0fa2" title="VlanMplsBackUpResourceTable\l::ReadFromFile" alt="" coords="463,266,687,307"/>
+<area shape="rect" id="node7" href="$d8/df9/classRouteMplsBackUpResourceTable.html#aaea98f48e7b6207698dbc5d9492306c7" title="RouteMplsBackUpResourceTable\l::ReadFromFile" alt="" coords="459,331,691,373"/>
+<area shape="rect" id="node8" href="$dd/d25/classVmInterfaceBackUpResourceTable.html#a0658d094aace75e383eeba62d907ec58" title="VmInterfaceBackUpResource\lTable::ReadFromFile" alt="" coords="469,397,680,438"/>
+<area shape="rect" id="node9" href="$d0/d27/classVrfBackUpResourceTable.html#a2dc829938d486223d535117bae53486a" title="VrfBackUpResourceTable\l::ReadFromFile" alt="" coords="483,462,667,503"/>
+<area shape="rect" id="node10" href="$d6/d79/classQosBackUpResourceTable.html#a0ca76fff66adb6e2bf9c28ecda3946fc" title="QosBackUpResourceTable\l::ReadFromFile" alt="" coords="479,527,670,569"/>
+<area shape="rect" id="node11" href="$df/d7f/classBgpAsServiceBackUpResourceTable.html#a0e823555d01046b8d6060f8699befb91" title="BgpAsServiceBackUpResource\lTable::ReadFromFile" alt="" coords="465,5,685,46"/>
+<area shape="rect" id="node12" href="$dc/d4a/classMirrorBackUpResourceTable.html#a858afa5f5e52c6d9fdb91b1a2327110e" title="MirrorBackUpResourceTable\l::ReadFromFile" alt="" coords="473,70,676,111"/>
+<area shape="rect" id="node4" href="$d4/d60/classBackUpResourceTable.html#a5e47faebf3e365f0801b081eee33479f" title="BackUpResourceTable\l::backup_dir" alt="" coords="751,266,916,307"/>
+<area shape="rect" id="node14" href="$dc/d36/classInterfaceMplsBackUpResourceTable.html#aa9a1b7b65c97bb035a36dd4d4865058a" title="InterfaceMplsBackUpResource\lTable::RestoreResource" alt="" coords="465,1115,684,1157"/>
+<area shape="rect" id="node22" href="$da/dc8/classVrfMplsBackUpResourceTable.html#a35b8b456e0d7f3d28be50ccd84d6b558" title="VrfMplsBackUpResourceTable\l::RestoreResource" alt="" coords="467,593,682,634"/>
+<area shape="rect" id="node23" href="$df/d88/classVlanMplsBackUpResourceTable.html#ab2ccdb27cdbd6aad1f872eabb6222acc" title="VlanMplsBackUpResourceTable\l::RestoreResource" alt="" coords="463,854,687,895"/>
+<area shape="rect" id="node24" href="$d8/df9/classRouteMplsBackUpResourceTable.html#aa113943b24536f633c0653b7ac1115c2" title="RouteMplsBackUpResourceTable\l::RestoreResource" alt="" coords="459,658,691,699"/>
+<area shape="rect" id="node25" href="$dd/d25/classVmInterfaceBackUpResourceTable.html#a22458f85b31b21dd891e5c17f37aa0e5" title="VmInterfaceBackUpResource\lTable::RestoreResource" alt="" coords="469,919,680,961"/>
+<area shape="rect" id="node26" href="$d0/d27/classVrfBackUpResourceTable.html#adde1d06d8edb1c81890ef73871bb994a" title="VrfBackUpResourceTable\l::RestoreResource" alt="" coords="483,723,667,765"/>
+<area shape="rect" id="node27" href="$d6/d79/classQosBackUpResourceTable.html#a88cf41201bfabd7d1965537a87609e21" title="QosBackUpResourceTable\l::RestoreResource" alt="" coords="479,985,670,1026"/>
+<area shape="rect" id="node28" href="$df/d7f/classBgpAsServiceBackUpResourceTable.html#ad621dc36a1ad7da9f07d725dc1f5bfef" title="BgpAsServiceBackUpResource\lTable::RestoreResource" alt="" coords="465,1050,685,1091"/>
+<area shape="rect" id="node29" href="$dc/d4a/classMirrorBackUpResourceTable.html#a9ee2f6df8324b0a3f0331dde4317507a" title="MirrorBackUpResourceTable\l::RestoreResource" alt="" coords="473,789,676,830"/>
+<area shape="rect" id="node30" href="$d7/ded/classResourceSandeshMaps.html#afea1bcd236fcdbff96cc6dccf2a1ed20" title="ResourceSandeshMaps\l::EndOfBackup" alt="" coords="489,1217,660,1258"/>
+<area shape="rect" id="node15" href="$d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5" title="MacAddress::FromString" alt="" coords="744,1173,923,1200"/>
+<area shape="rect" id="node16" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title="StringToUuid" alt="" coords="781,1021,885,1048"/>
+<area shape="rect" id="node17" href="$d4/d60/classBackUpResourceTable.html#ae3b6fd40b5f96afd841c2ed1f51062b8" title="BackUpResourceTable\l::backup_manager" alt="" coords="995,795,1160,837"/>
+<area shape="rect" id="node18" href="$d4/d60/classBackUpResourceTable.html#a5915ded1cf9061a3e8d38c4c59b04ca2" title="BackUpResourceTable\l::EnqueueRestore" alt="" coords="751,854,916,895"/>
+<area shape="rect" id="node19" href="$db/d1b/classResourceBackupManager.html#ad2be7f75dadb5bc7549b730b79043f70" title="ResourceBackupManager\l::resource_manager" alt="" coords="985,861,1170,902"/>
+<area shape="rect" id="node20" href="$de/d6b/classResourceManager.html#a063e80ebc7b4d9c0658cf5a4a8ab0ff7" title="ResourceManager::Enqueue\lRestore" alt="" coords="977,1097,1178,1138"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1227,1104,1389,1131"/>
+<area shape="rect" id="node31" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="739,1224,928,1251"/>
+</map>

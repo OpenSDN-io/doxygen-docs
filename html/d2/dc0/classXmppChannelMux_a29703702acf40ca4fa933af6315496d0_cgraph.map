@@ -1,0 +1,6 @@
+<map id="XmppChannelMux::HandleStateEvent" name="XmppChannelMux::HandleStateEvent">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="299,5,490,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title="XmppConnection::server" alt="" coords="303,56,486,83"/>
+<area shape="rect" id="node4" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="285,107,504,149"/>
+<area shape="rect" id="node5" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title="XmppServer::NotifyConnection\lEvent" alt="" coords="283,173,506,214"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="flow_stats_collector.cc" name="flow_stats_collector.cc">
+<area shape="rect" id="node4" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="1226,485,1296,512"/>
+<area shape="rect" id="node9" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1400,709,1491,736"/>
+<area shape="rect" id="node10" href="$dd/d70/string__util_8h.html" title="base/string_util.h" alt="" coords="527,336,661,363"/>
+<area shape="rect" id="node15" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1987,336,2125,363"/>
+<area shape="rect" id="node29" href="$df/d84/agent__param_8h.html" title="init/agent_param.h" alt="" coords="2046,179,2191,205"/>
+<area shape="rect" id="node31" href="$dd/dbe/agent__factory_8h.html" title="cmn/agent_factory.h" alt="" coords="764,261,919,288"/>
+<area shape="rect" id="node32" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="1248,261,1437,288"/>
+<area shape="rect" id="node33" href="$de/db1/mirror__table_8h.html" title="oper/mirror_table.h" alt="" coords="2216,179,2363,205"/>
+<area shape="rect" id="node34" href="$d3/d57/global__vrouter_8h.html" title="oper/global_vrouter.h" alt="" coords="2228,261,2388,288"/>
+<area shape="rect" id="node35" href="$d6/dbe/ksync__index_8h.html" title="ksync/ksync_index.h" alt="" coords="2549,485,2707,512"/>
+<area shape="rect" id="node36" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="2833,485,2985,512"/>
+<area shape="rect" id="node37" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="2643,411,2804,437"/>
+<area shape="rect" id="node38" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="2705,635,2871,661"/>
+<area shape="rect" id="node39" href="$d3/df3/ksync__sock_8h.html" title="ksync/ksync_sock.h" alt="" coords="2881,411,3031,437"/>
+<area shape="rect" id="node40" href="$d8/dd7/agent__uve_8h.html" title="uve/agent_uve.h" alt="" coords="2488,88,2619,115"/>
+<area shape="rect" id="node41" href="$d8/d7e/flow__stats__collector_8h.html" title="vrouter/flow_stats\l/flow_stats_collector.h" alt="" coords="1925,81,2091,122"/>
+<area shape="rect" id="node44" href="$d1/d5d/vn__uve__table_8h.html" title="uve/vn_uve_table.h" alt="" coords="1111,179,1260,205"/>
+<area shape="rect" id="node45" href="$dd/de6/vm__uve__table_8h.html" title="uve/vm_uve_table.h" alt="" coords="1563,179,1717,205"/>
+<area shape="rect" id="node42" href="$d4/d08/interface__uve__stats__table_8h.html" title="uve/interface_uve_stats\l_table.h" alt="" coords="1792,171,1971,213"/>
+<area shape="rect" id="node46" href="$d1/d31/vrouter__uve__entry_8h.html" title="uve/vrouter_uve_entry.h" alt="" coords="2845,88,3024,115"/>
+<area shape="rect" id="node43" href="$d4/d5c/flow__proto_8h.html" title="pkt/flow_proto.h" alt="" coords="1691,261,1817,288"/>
+<area shape="rect" id="node48" href="$dd/da4/flow__mgmt_8h.html" title="pkt/flow_mgmt.h" alt="" coords="3209,88,3340,115"/>
+<area shape="rect" id="node49" href="$de/db6/ksync__init_8h.html" title="vrouter/ksync/ksync\l_init.h" alt="" coords="3365,81,3517,122"/>
+<area shape="rect" id="node23" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1401,560,1551,587"/>
+<area shape="rect" id="node24" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="2249,560,2359,587"/>
+<area shape="rect" id="node25" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="2006,635,2116,661"/>
+<area shape="rect" id="node26" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="2150,485,2321,512"/>
+<area shape="rect" id="node27" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="1501,411,1661,437"/>
+<area shape="rect" id="node28" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2448,411,2568,437"/>
+</map>

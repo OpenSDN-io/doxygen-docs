@@ -1,0 +1,10 @@
+<map id="McastManagerPartition::GetForestNodePMSI" name="McastManagerPartition::GetForestNodePMSI">
+<area shape="rect" id="node2" href="$d2/d07/classMcastManagerPartition.html#a929a595170d18a3664fdf1c5c270cc3a" title="McastManagerPartition\l::FindSGEntry" alt="" coords="263,5,433,46"/>
+<area shape="rect" id="node3" href="$df/def/classErmVpnRoute.html#a71b9f4d56c04406de611ea42ff39e235" title="ErmVpnRoute::GetPrefix" alt="" coords="259,71,437,97"/>
+<area shape="rect" id="node4" href="$d6/d1d/classErmVpnPrefix.html#ac8f092be783e3f15480cdbc7939dff68" title="ErmVpnPrefix::group" alt="" coords="271,121,425,148"/>
+<area shape="rect" id="node5" href="$d6/d1d/classErmVpnPrefix.html#af4642f7789f958db57e4075f15aafd28" title="ErmVpnPrefix::source" alt="" coords="267,172,429,199"/>
+<area shape="rect" id="node6" href="$da/da9/classMcastSGEntry.html#aa627fb7c57fe040509e764b270116b28" title="McastSGEntry::GetForestNodePMSI" alt="" coords="225,223,471,249"/>
+<area shape="rect" id="node7" href="$d6/dc4/classMcastForwarder.html#a2a36df8b15b3edf00b33fe34375cbfee" title="McastForwarder::label" alt="" coords="529,172,695,199"/>
+<area shape="rect" id="node8" href="$d6/dc4/classMcastForwarder.html#adc6b5280e788d77255e6a15e44a64c76" title="McastForwarder::address" alt="" coords="520,223,704,249"/>
+<area shape="rect" id="node9" href="$d6/dc4/classMcastForwarder.html#ae6aa2da0999eaaf9558e51d434aa1334" title="McastForwarder::encap" alt="" coords="526,273,698,300"/>
+</map>

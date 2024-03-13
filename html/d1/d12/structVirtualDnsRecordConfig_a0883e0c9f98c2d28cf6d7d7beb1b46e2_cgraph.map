@@ -1,0 +1,16 @@
+<map id="VirtualDnsRecordConfig::OnChange" name="VirtualDnsRecordConfig::OnChange">
+<area shape="rect" id="node2" href="$d1/d12/structVirtualDnsRecordConfig.html#a518432dd99518c377189dcdaf31984e7" title="VirtualDnsRecordConfig\l::CanNotify" alt="" coords="230,217,405,258"/>
+<area shape="rect" id="node12" href="$d1/d12/structVirtualDnsRecordConfig.html#a278f1c5481ba1416b0f333c25e7932af" title="VirtualDnsRecordConfig\l::Trace" alt="" coords="230,354,405,395"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="496,5,635,32"/>
+<area shape="rect" id="node4" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="464,57,667,98"/>
+<area shape="rect" id="node5" href="$d8/d1a/classBindUtil.html#a95d379cfe9ef9028b522918d47cb3e4d" title="BindUtil::IsIP" alt="" coords="513,123,618,149"/>
+<area shape="rect" id="node6" href="$d8/d1a/classBindUtil.html#a54f70030253462d059bb6c2d4b5b4330" title="BindUtil::GetAddrFromPtrName" alt="" coords="453,173,677,200"/>
+<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#afe5ee6781842c1f61555f451f94adbf8" title="VirtualDnsConfig::GetSubnet" alt="" coords="462,224,669,251"/>
+<area shape="rect" id="node9" href="$d4/da5/structDnsConfig.html#aa42a149759abebcd31b8714e92b14710" title="DnsConfig::IsErrorLogged" alt="" coords="473,275,658,301"/>
+<area shape="rect" id="node10" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="486,325,645,352"/>
+<area shape="rect" id="node11" href="$d4/da5/structDnsConfig.html#a572158f0963fee45baa9f2656759170a" title="DnsConfig::MarkErrorLogged" alt="" coords="462,376,669,403"/>
+<area shape="rect" id="node8" href="$d5/d2f/structIpamConfig.html#a3c0ec3831971e3f77816ae97ae777840" title="IpamConfig::GetVnniList" alt="" coords="725,224,904,251"/>
+<area shape="rect" id="node13" href="$d1/d12/structVirtualDnsRecordConfig.html#a530eb41092fccfff295a3fe0fd77df83" title="VirtualDnsRecordConfig\l::VirtualDnsRecordTrace" alt="" coords="477,427,653,469"/>
+<area shape="rect" id="node14" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="746,409,883,436"/>
+<area shape="rect" id="node15" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="735,460,894,487"/>
+</map>

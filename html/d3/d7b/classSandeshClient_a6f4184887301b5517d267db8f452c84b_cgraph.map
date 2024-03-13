@@ -1,0 +1,15 @@
+<map id="SandeshClient::CloseSMSessionInternal" name="SandeshClient::CloseSMSessionInternal">
+<area shape="rect" id="node2" href="$d3/d7b/classSandeshClient.html#a32f1e629d1138d55762c4c7c0122c11b" title="SandeshClient::session" alt="" coords="310,47,482,73"/>
+<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html#a041474e3313d2d4dd9ea33e70078d8d7" title="SandeshSession::EnqueueClose" alt="" coords="283,97,509,124"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a37a972d720285215ebe82f157689ed60" title="TcpSession::IsClosed" alt="" coords="562,5,718,32"/>
+<area shape="rect" id="node5" href="$d9/df3/classSandeshConnection.html#a90715c1711fec1047185392b361608c7" title="SandeshConnection::\lstate_machine" alt="" coords="561,57,719,98"/>
+<area shape="rect" id="node6" href="$d3/d36/classSandeshStateMachine.html#abbf674a70afaa7893d1978170969ecb9" title="SandeshStateMachine\l::OnSessionEvent" alt="" coords="557,122,723,163"/>
+<area shape="rect" id="node14" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="561,188,719,215"/>
+<area shape="rect" id="node7" href="$d3/d36/classSandeshStateMachine.html#a8cf64b4608f303760e0233cc3be2236a" title="SandeshStateMachine\l::session" alt="" coords="771,63,936,105"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="777,129,930,156"/>
+<area shape="rect" id="node9" href="$d3/d36/classSandeshStateMachine.html#afb7d178ce06f4376c12b7894f314f1b6" title="SandeshStateMachine\l::Enqueue" alt="" coords="771,181,936,222"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="989,159,1150,185"/>
+<area shape="rect" id="node11" href="$d3/d36/classSandeshStateMachine.html#a93a42adb1f2e6257200c1cf5afcccc36" title="SandeshStateMachine\l::UpdateEventEnqueue" alt="" coords="984,210,1155,251"/>
+<area shape="rect" id="node12" href="$d3/d36/classSandeshStateMachine.html#afce1b6ac6ad0227c4e1763569683b432" title="SandeshStateMachine\l::UpdateEventStats" alt="" coords="1203,210,1368,251"/>
+<area shape="rect" id="node13" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title="SandeshEventStatistics\l::Update" alt="" coords="1417,210,1591,251"/>
+</map>

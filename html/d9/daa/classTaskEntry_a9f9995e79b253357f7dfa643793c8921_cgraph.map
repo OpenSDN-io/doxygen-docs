@@ -1,0 +1,11 @@
+<map id="TaskEntry::DeferOnPolicyFail" name="TaskEntry::DeferOnPolicyFail">
+<area shape="rect" id="node2" href="$d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title="TaskEntry::ActiveEntryIn\lPolicy" alt="" coords="261,5,440,46"/>
+<area shape="rect" id="node3" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="271,71,430,97"/>
+<area shape="rect" id="node4" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="265,121,436,148"/>
+<area shape="rect" id="node10" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="262,172,439,199"/>
+<area shape="rect" id="node5" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title="Task::SetState" alt="" coords="539,71,653,97"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="495,121,697,148"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="489,172,703,199"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="752,121,968,148"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1017,114,1207,155"/>
+</map>

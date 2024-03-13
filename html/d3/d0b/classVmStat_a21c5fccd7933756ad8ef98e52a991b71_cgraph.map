@@ -1,0 +1,9 @@
+<map id="VmStat::SendVmCpuStats" name="VmStat::SendVmCpuStats">
+<area shape="rect" id="node2" href="$d3/d0b/classVmStat.html#aecbee373a12eff39ed02f006a035f1c2" title="VmStat::BuildVmStatsMsg" alt="" coords="275,5,467,32"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="325,56,417,83"/>
+<area shape="rect" id="node5" href="$d4/d59/classAgentUveBase.html#adce3d402df4c1cad5b6b3ebecda91059" title="AgentUveBase::vm_uve\l_table" alt="" coords="281,107,460,149"/>
+<area shape="rect" id="node6" href="$db/d41/classVmUveTable.html#a8fd9ff5f9d497cdd4991c4b4de1cdd76" title="VmUveTable::DispatchVmStatsMsg" alt="" coords="245,173,496,200"/>
+<area shape="rect" id="node7" href="$d3/d0b/classVmStat.html#a563c332da4c1d5917b722accdce9fdb3" title="VmStat::BuildVmMsg" alt="" coords="291,224,450,251"/>
+<area shape="rect" id="node8" href="$d0/d5b/classVmUveTableBase.html#a591ebc2395874b6a379787047fe9335f" title="VmUveTableBase::Dispatch\lVmMsg" alt="" coords="270,275,471,317"/>
+<area shape="rect" id="node3" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="544,115,648,141"/>
+</map>

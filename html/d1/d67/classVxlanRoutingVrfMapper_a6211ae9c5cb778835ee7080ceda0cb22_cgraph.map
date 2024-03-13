@@ -1,0 +1,7 @@
+<map id="VxlanRoutingVrfMapper::GetLogicalRouterUuidUsingRoute" name="VxlanRoutingVrfMapper::GetLogicalRouterUuidUsingRoute">
+<area shape="rect" id="node2" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="282,5,446,46"/>
+<area shape="rect" id="node5" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="303,71,425,97"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="561,92,660,119"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="262,172,466,199"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="515,12,707,39"/>
+</map>

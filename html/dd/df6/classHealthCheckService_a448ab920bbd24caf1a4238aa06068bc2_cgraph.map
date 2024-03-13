@@ -1,0 +1,9 @@
+<map id="HealthCheckService::DeleteInstances" name="HealthCheckService::DeleteInstances">
+<area shape="rect" id="node2" href="$dd/df6/classHealthCheckService.html#a446980e88383cc9aa8eec2f1bc9b27db" title="HealthCheckService\l::StopHealthCheckService" alt="" coords="209,70,399,111"/>
+<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a9ab28788ab854033371a0cbdeaf93ac8" title="HealthCheckInstanceBase\l::DestroyInstanceTask" alt="" coords="448,5,640,46"/>
+<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06" title="HealthCheckInstanceBase\l::StopTask" alt="" coords="448,70,640,111"/>
+<area shape="rect" id="node8" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="448,135,640,177"/>
+<area shape="rect" id="node5" href="$dd/df6/classHealthCheckService.html#a77749be4896cf655c9918bb31a907014" title="HealthCheckService\l::table" alt="" coords="713,38,866,79"/>
+<area shape="rect" id="node6" href="$db/d24/classHealthCheckTable.html#afbcd66737ff44d7fc8ef38e72b0447a9" title="HealthCheckTable::Instance\lEventEnqueue" alt="" coords="688,103,891,145"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="939,111,1101,137"/>
+</map>

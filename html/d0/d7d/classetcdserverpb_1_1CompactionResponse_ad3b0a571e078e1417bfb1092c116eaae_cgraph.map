@@ -1,0 +1,10 @@
+<map id="etcdserverpb::CompactionResponse::default_instance" name="etcdserverpb::CompactionResponse::default_instance">
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ab42e05a7d4ae2ca7e3e4ab109c3a05ae" title="protobuf_rpc_2eproto\l::InitDefaultsCompactionResponse" alt="" coords="254,38,501,79"/>
+<area shape="rect" id="node9" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#ae60e01c43f0335eb8f29b6a3842b0783" title="etcdserverpb::Compaction\lResponse::internal_default\l_instance" alt="" coords="280,104,475,160"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a7d887b7bf9af2b27e7d0d6fa2688e1bb" title="protobuf_rpc_2eproto\l::InitDefaultsCompactionResponseImpl" alt="" coords="549,38,824,79"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="881,5,1095,46"/>
+<area shape="rect" id="node7" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#aa23509b9c0b46caf19dc647d48de931c" title="etcdserverpb::Compaction\lResponse::InitAsDefaultInstance" alt="" coords="872,70,1104,111"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1153,5,1397,46"/>
+<area shape="rect" id="node6" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1445,5,1669,46"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1163,70,1387,111"/>
+</map>

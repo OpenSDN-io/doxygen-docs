@@ -1,0 +1,5 @@
+<map id="LibvirtInstanceAdapter::DomainStartTask::CreateTAPInterfaces" name="LibvirtInstanceAdapter::DomainStartTask::CreateTAPInterfaces">
+<area shape="rect" id="node2" href="$d9/d01/classLibvirtInstanceAdapter.html#ad0e0a3c504132121b5a3ca6f31520ccb" title="LibvirtInstanceAdapter\l::GenIntfName" alt="" coords="337,5,506,46"/>
+<area shape="rect" id="node3" href="$d2/db2/libvirt__instance__adapter_8cc.html#aa0330f6bf58a16c3760a752c5aff0cfb" title="alloc_tap_interface" alt="" coords="348,71,495,97"/>
+<area shape="rect" id="node4" href="$d2/db2/libvirt__instance__adapter_8cc.html#a2bfe476ff110de276ff8b537bd565b86" title="close_descriptor" alt="" coords="555,71,683,97"/>
+</map>

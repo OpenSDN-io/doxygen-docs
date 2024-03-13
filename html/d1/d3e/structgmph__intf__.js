@@ -1,0 +1,26 @@
+var structgmph__intf__ =
+[
+    [ "hintf_basic_querier", "d1/d3e/structgmph__intf__.html#a5f5c51a917a931d9880afb160de28b01", null ],
+    [ "hintf_cfg_ver", "d1/d3e/structgmph__intf__.html#a7b75f298ab4365edf17b7a9d25d7f552", null ],
+    [ "hintf_gen_query_timer", "d1/d3e/structgmph__intf__.html#a6588b947e3a81ee917d8f1f323135b56", null ],
+    [ "hintf_global_patnode", "d1/d3e/structgmph__intf__.html#afc148114f5931ba3920cdfc631949f46", null ],
+    [ "hintf_group_root", "d1/d3e/structgmph__intf__.html#a1902c6178d1e6989cc5f61be87136275", null ],
+    [ "hintf_id", "d1/d3e/structgmph__intf__.html#af45ca2b2456f0d7c08c8087dc1232990", null ],
+    [ "hintf_inst_patnode", "d1/d3e/structgmph__intf__.html#a1eefc62d1857e91e3df6e9f597924548", null ],
+    [ "hintf_instance", "d1/d3e/structgmph__intf__.html#a29e996fb70cd6fa9e687012e8c23db45", null ],
+    [ "hintf_last_query_time", "d1/d3e/structgmph__intf__.html#ad2c830367922623cc166d7123d888aac", null ],
+    [ "hintf_last_report_type", "d1/d3e/structgmph__intf__.html#a7c045c51faa7020d5ea2ae9e1d6049a6", null ],
+    [ "hintf_leaves_querier", "d1/d3e/structgmph__intf__.html#a86066fd2912041972420d564411900f5", null ],
+    [ "hintf_local_addr", "d1/d3e/structgmph__intf__.html#a13abd563a43193b190a64d021a88a3a5", null ],
+    [ "hintf_passive", "d1/d3e/structgmph__intf__.html#ad21c1f4009ab8ba1fee3e58b7800efcc", null ],
+    [ "hintf_pending_xmit_count", "d1/d3e/structgmph__intf__.html#a58eaa3adf2f4a9d9ba597f7efb621f2c", null ],
+    [ "hintf_robustness", "d1/d3e/structgmph__intf__.html#a2345975eabe4335ffc2e2e92fa77a690", null ],
+    [ "hintf_soft_detach_callback", "d1/d3e/structgmph__intf__.html#a26ed27ba6e761a5ba791924ecce3aba3", null ],
+    [ "hintf_soft_detach_context", "d1/d3e/structgmph__intf__.html#a42499edc2952c08b881655a67899ba10", null ],
+    [ "hintf_soft_detach_timer", "d1/d3e/structgmph__intf__.html#a9edd58e4f4b71fac32deda042d601fae", null ],
+    [ "hintf_suppress_reports", "d1/d3e/structgmph__intf__.html#a1d5aa6564107bcf22621d9090ba8ea16", null ],
+    [ "hintf_unsol_rpt_ivl", "d1/d3e/structgmph__intf__.html#a1171b1a3b567b9a7cff2f50a9bcde664", null ],
+    [ "hintf_ver", "d1/d3e/structgmph__intf__.html#a88436de5ce54c82191b355d9165fd3ff", null ],
+    [ "hintf_xmit_head", "d1/d3e/structgmph__intf__.html#a34d964b2b767520551a27bd4b9a6423a", null ],
+    [ "hintf_xmit_pending", "d1/d3e/structgmph__intf__.html#a78c9f7dcba3c202d5f2bfd6562aed6d5", null ]
+];

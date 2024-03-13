@@ -1,0 +1,23 @@
+<map id="BgpIfmapConfigData::ProcessIdentifierAndASUpdate" name="BgpIfmapConfigData::ProcessIdentifierAndASUpdate">
+<area shape="rect" id="node2" href="$d6/dfd/classIndexMap.html#a78f88eeb3fa99ba49e98d5560ca29164" title="IndexMap::size" alt="" coords="314,79,433,105"/>
+<area shape="rect" id="node3" href="$d6/dfd/classIndexMap.html#afa577f334aeaa8dd6663bda6b75eaa76" title="IndexMap::At" alt="" coords="320,129,427,156"/>
+<area shape="rect" id="node4" href="$d6/d53/classBgpIfmapInstanceConfig.html#a109102ef6fa3af69d1af80d58aff8f3f" title="BgpIfmapInstanceConfig\l::ProcessIdentifierUpdate" alt="" coords="281,246,466,287"/>
+<area shape="rect" id="node11" href="$d6/d53/classBgpIfmapInstanceConfig.html#a07e7486f812e9d624b93731de4bc1d68" title="BgpIfmapInstanceConfig\l::ProcessASUpdate" alt="" coords="283,181,464,222"/>
+<area shape="rect" id="node13" href="$d9/d1f/classBgpIfmapConfigManager.html#adde6ca2c892507c17a63ce3dd4800292" title="BgpIfmapConfigManager\l::UpdateInstanceConfig" alt="" coords="282,454,465,495"/>
+<area shape="rect" id="node5" href="$d6/d53/classBgpIfmapInstanceConfig.html#a2cd67d8a29165268a63775b789d9411e" title="BgpIfmapInstanceConfig\l::import_list" alt="" coords="521,305,703,346"/>
+<area shape="rect" id="node6" href="$d6/ddf/classBgpInstanceConfig.html#a3217cc6acab0c5f54249a96afaa5b90b" title="BgpInstanceConfig::\limport_list" alt="" coords="773,217,923,258"/>
+<area shape="rect" id="node7" href="$d6/d53/classBgpIfmapInstanceConfig.html#a36b1eb3414d40bf1b8810be4132bc89f" title="BgpIfmapInstanceConfig\l::GetVitFromId" alt="" coords="521,70,703,111"/>
+<area shape="rect" id="node10" href="$d6/ddf/classBgpInstanceConfig.html#a22f6ef18b1e07ad4c72bb15e3fd67802" title="BgpInstanceConfig::\lset_import_list" alt="" coords="537,187,687,229"/>
+<area shape="rect" id="node8" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="788,16,908,43"/>
+<area shape="rect" id="node9" href="$d6/d53/classBgpIfmapInstanceConfig.html#a973e1f60f0c904e712e7d297bff0e5f9" title="BgpIfmapInstanceConfig\l::index" alt="" coords="757,70,939,111"/>
+<area shape="rect" id="node12" href="$d6/d53/classBgpIfmapInstanceConfig.html#a043e61098d3b6dfe3cc579767e2a0fae" title="BgpIfmapInstanceConfig\l::GetESRouteTarget" alt="" coords="521,5,703,46"/>
+<area shape="rect" id="node14" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title="BgpConfigManager::Notify" alt="" coords="516,371,708,397"/>
+<area shape="rect" id="node15" href="$d6/d53/classBgpIfmapInstanceConfig.html#ab182420c369f8e4af74ba296d71d9679" title="BgpIfmapInstanceConfig\l::instance_config" alt="" coords="521,422,703,463"/>
+<area shape="rect" id="node16" href="$d6/d53/classBgpIfmapInstanceConfig.html#a8acb798a019971e40b5f68d43d57df01" title="BgpIfmapInstanceConfig\l::export_list" alt="" coords="521,487,703,529"/>
+<area shape="rect" id="node18" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title="BgpConfigManager::server" alt="" coords="515,553,709,580"/>
+<area shape="rect" id="node19" href="$d6/d53/classBgpIfmapInstanceConfig.html#ac97d08d0991ec6a003774402ed2e77b7" title="BgpIfmapInstanceConfig\l::virtual_network" alt="" coords="521,605,703,646"/>
+<area shape="rect" id="node21" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5f5b6774e55422ce378692043ee75fb8" title="BgpIfmapInstanceConfig\l::virtual_network_index" alt="" coords="521,670,703,711"/>
+<area shape="rect" id="node17" href="$d6/ddf/classBgpInstanceConfig.html#a904c10c4e30acab41f33a567439d9761" title="BgpInstanceConfig::\lexport_list" alt="" coords="773,487,923,529"/>
+<area shape="rect" id="node20" href="$d6/ddf/classBgpInstanceConfig.html#af3996abcdd5af95607dea1b3300ee59f" title="BgpInstanceConfig::\lvirtual_network" alt="" coords="773,605,923,646"/>
+<area shape="rect" id="node22" href="$d6/ddf/classBgpInstanceConfig.html#a4bb205f70b4733b26b3104c50d5099cc" title="BgpInstanceConfig::\lvirtual_network_index" alt="" coords="765,670,931,711"/>
+</map>

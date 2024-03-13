@@ -1,0 +1,20 @@
+<map id="BFD::RESTClient::DeleteBFDHost" name="BFD::RESTClient::DeleteBFDHost">
+<area shape="rect" id="node2" href="$df/d00/classBFD_1_1RESTClient.html#ab52e789723f366cea07620705cfc852f" title="BFD::RESTClient::is\l_initialized_non_locking" alt="" coords="312,5,491,46"/>
+<area shape="rect" id="node3" href="$d4/d6e/classHttpClient.html#a60c3d22bc148f0b35660145dbf3b2fe2" title="HttpClient::CreateConnection" alt="" coords="295,71,507,97"/>
+<area shape="rect" id="node4" href="$d3/de9/classHttpConnection.html#af73c01d58fc366533e14c35cb25721f1" title="HttpConnection::HttpDelete" alt="" coords="300,121,503,148"/>
+<area shape="rect" id="node5" href="$df/d00/classBFD_1_1RESTClient.html#ae1832c57dff11cb6fbdf8d7090487a3f" title="BFD::RESTClient::DeleteSession\lCallback" alt="" coords="288,173,515,214"/>
+<area shape="rect" id="node6" href="$d3/de9/classHttpConnection.html#aa5fc980c9f1b6df8d49753c137a1ad79" title="HttpConnection::client" alt="" coords="591,155,758,181"/>
+<area shape="rect" id="node7" href="$d4/d6e/classHttpClient.html#acf10e630c4af6a7da335b9cb934c31c3" title="HttpClient::RemoveConnection" alt="" coords="563,205,786,232"/>
+<area shape="rect" id="node8" href="$d3/de9/classHttpConnection.html#a73e3aee7d0626de3283566fb837e2ba8" title="HttpConnection::ClearCallback" alt="" coords="836,155,1057,181"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="866,205,1027,232"/>
+<area shape="rect" id="node10" href="$d4/d6e/classHttpClient.html#ad05dc36c7508ed5ed30032e725b87070" title="HttpClient::RemoveConnection\lInternal" alt="" coords="835,257,1058,298"/>
+<area shape="rect" id="node11" href="$d3/de9/classHttpConnection.html#af646ce1f51e9839a2da413890539551f" title="HttpConnection::endpoint" alt="" coords="1107,213,1295,240"/>
+<area shape="rect" id="node12" href="$d3/de9/classHttpConnection.html#a70456d8e8f0fdb83d3a7458d2a7449bb" title="HttpConnection::id" alt="" coords="1130,264,1273,291"/>
+<area shape="rect" id="node13" href="$df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b" title="del_conn" alt="" coords="1161,315,1241,341"/>
+<area shape="rect" id="node14" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="1345,157,1525,184"/>
+<area shape="rect" id="node15" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="1361,209,1508,250"/>
+<area shape="rect" id="node16" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="1361,274,1508,315"/>
+<area shape="rect" id="node17" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title="HttpConnection::curl\l_handle" alt="" coords="1357,339,1512,381"/>
+<area shape="rect" id="node18" href="$d3/de9/classHttpConnection.html#afe7c36358579cba086912ae67ee3e71a" title="HttpConnection::set\l_curl_handle" alt="" coords="1359,405,1510,446"/>
+<area shape="rect" id="node19" href="$df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2" title="del_curl_handle" alt="" coords="1373,471,1497,497"/>
+</map>

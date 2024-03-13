@@ -1,0 +1,10 @@
+<map id="close_socket" name="close_socket">
+<area shape="rect" id="node2" href="$d3/de9/classHttpConnection.html#a906ef00ca5206fc8ff82b6b118af9a6a" title="HttpConnection::delete\l_session" alt="" coords="161,90,333,131"/>
+<area shape="rect" id="node3" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="385,5,565,32"/>
+<area shape="rect" id="node4" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="401,57,548,98"/>
+<area shape="rect" id="node5" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="401,122,548,163"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="381,188,568,215"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="617,188,754,215"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="803,188,989,215"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1037,188,1181,215"/>
+</map>

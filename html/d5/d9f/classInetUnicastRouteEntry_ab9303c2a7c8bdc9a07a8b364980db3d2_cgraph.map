@@ -1,0 +1,10 @@
+<map id="InetUnicastRouteEntry::UpdateIpamHostFlags" name="InetUnicastRouteEntry::UpdateIpamHostFlags">
+<area shape="rect" id="node2" href="$d5/d9f/classInetUnicastRouteEntry.html#a47934844d3883ffadec90c4bdd3d5a6e" title="InetUnicastRouteEntry\l::IsHostRoute" alt="" coords="230,57,397,98"/>
+<area shape="rect" id="node6" href="$d5/d9f/classInetUnicastRouteEntry.html#ad93252925cc5ca41f7f50340fd971d1c" title="InetUnicastRouteEntry\l::UpdateRouteFlags" alt="" coords="230,187,397,229"/>
+<area shape="rect" id="node9" href="$d5/d9f/classInetUnicastRouteEntry.html#a7b971f402113c85b0a7b04b5334eb29a" title="InetUnicastRouteEntry\l::proxy_arp" alt="" coords="465,253,631,294"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="460,5,636,32"/>
+<area shape="rect" id="node5" href="$da/dcd/classInetUnicastAgentRouteTable.html#a4e25de64eef5d352574770b22772c5a1" title="InetUnicastAgentRouteTable\l::GetTableType" alt="" coords="445,57,651,98"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="699,5,882,32"/>
+<area shape="rect" id="node7" href="$d5/d9f/classInetUnicastRouteEntry.html#ad5f438d0075ee200dda00ac72f42d2d2" title="InetUnicastRouteEntry\l::ipam_subnet_route" alt="" coords="465,122,631,163"/>
+<area shape="rect" id="node8" href="$d5/d9f/classInetUnicastRouteEntry.html#a82920d2581971814c641721cf9bd2af6" title="InetUnicastRouteEntry\l::ipam_host_route" alt="" coords="465,187,631,229"/>
+</map>

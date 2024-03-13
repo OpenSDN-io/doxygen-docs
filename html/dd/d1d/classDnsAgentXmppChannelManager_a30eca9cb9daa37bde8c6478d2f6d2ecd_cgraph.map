@@ -1,0 +1,13 @@
+<map id="DnsAgentXmppChannelManager::HandleXmppChannelEvent" name="DnsAgentXmppChannelManager::HandleXmppChannelEvent">
+<area shape="rect" id="node2" href="$d9/d13/classDns.html#a2fbfbb243c2762482517b5517b401bbb" title="Dns::GetDnsManager" alt="" coords="307,5,466,32"/>
+<area shape="rect" id="node3" href="$dd/de1/classDnsManager.html#a3ae2f3f7ee02efed5713a55f38b71a8b" title="DnsManager::get_config\l_manager" alt="" coords="297,57,476,98"/>
+<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html#ac27e0fc731d88ea77cd4001599558e84" title="ConfigClientManager\l::GetEndOfRibComputed" alt="" coords="297,122,477,163"/>
+<area shape="rect" id="node5" href="$d6/d81/classXmppChannel.html#ab3943ec6e31d2a3414abd7f7aaa2ffae" title="XmppChannel::PeerAddress" alt="" coords="285,188,488,215"/>
+<area shape="rect" id="node6" href="$d6/d81/classXmppChannel.html#a6ed23705cf619bf3da5407f3140ac273" title="XmppChannel::Close" alt="" coords="308,239,465,265"/>
+<area shape="rect" id="node7" href="$da/dd7/classDnsAgentXmppChannel.html#a3ad916a0d5e15829f3971fde1073bc77" title="DnsAgentXmppChannel\l::Close" alt="" coords="299,290,475,331"/>
+<area shape="rect" id="node8" href="$da/dd7/classDnsAgentXmppChannel.html#a96383d6d6a20d948d8b4db0622213d2e" title="DnsAgentXmppChannel\l::UpdateDnsRecords" alt="" coords="564,257,740,298"/>
+<area shape="rect" id="node12" href="$dd/d1d/classDnsAgentXmppChannelManager.html#a701438ba018e514645d83fbfd01348ca" title="DnsAgentXmppChannelManager\l::RemoveChannel" alt="" coords="536,322,768,363"/>
+<area shape="rect" id="node9" href="$da/dd7/classDnsAgentXmppChannel.html#a99f4927e2a6f5af414dbbf1f525abe9a" title="DnsAgentXmppChannel\l::GetDnsRecordName" alt="" coords="844,223,1020,265"/>
+<area shape="rect" id="node10" href="$dd/d1d/classDnsAgentXmppChannelManager.html#a82d789a94291e13d3867e10f97604089" title="DnsAgentXmppChannelManager\l::EnqueueRecord" alt="" coords="816,289,1048,330"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1097,296,1258,323"/>
+</map>

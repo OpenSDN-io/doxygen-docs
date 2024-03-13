@@ -1,0 +1,9 @@
+<map id="RibOutAttr::RibOutAttr" name="RibOutAttr::RibOutAttr">
+<area shape="rect" id="node2" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="246,5,378,32"/>
+<area shape="rect" id="node3" href="$d5/dcf/classBgpAttr.html#a13c278534f7b5ace2c93a2a1041b5a2f" title="BgpAttr::mac_address" alt="" coords="229,56,395,83"/>
+<area shape="rect" id="node6" href="$d0/da7/classRibOutAttr.html#ade8a7954dfac9d4b08124b1faf8feeee" title="RibOutAttr::label" alt="" coords="247,107,377,133"/>
+<area shape="rect" id="node7" href="$d0/da7/classRibOutAttr.html#a2898b8f13feb1ac353d97232b4df4f1c" title="RibOutAttr::l3_label" alt="" coords="237,157,387,184"/>
+<area shape="rect" id="node8" href="$d5/dcf/classBgpAttr.html#af6afb530f7ea7a9519513850ba6e5097" title="BgpAttr::ext_community" alt="" coords="221,208,403,235"/>
+<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a0ab665ff08400adde64921d04e9858b1" title="ExtCommunity::is_router_mac" alt="" coords="451,31,669,57"/>
+<area shape="rect" id="node5" href="$d3/dac/classRouterMac.html#a6154ec012948c5f90ba37f25b0020e4a" title="RouterMac::mac_address" alt="" coords="468,81,652,108"/>
+</map>

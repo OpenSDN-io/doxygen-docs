@@ -1,0 +1,30 @@
+<map id="AdvertiseInterfaceBgpRoute" name="AdvertiseInterfaceBgpRoute">
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="301,5,451,32"/>
+<area shape="rect" id="node3" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="281,56,471,83"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="317,107,435,133"/>
+<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="262,157,490,184"/>
+<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="301,208,451,235"/>
+<area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#aeac69c9b525123addab549a846154695" title="AgentPath::force_policy" alt="" coords="289,259,463,285"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="289,309,463,336"/>
+<area shape="rect" id="node10" href="$de/d30/classInterfaceNH.html#a46e52b255a4f989b6375a1a36da3809d" title="InterfaceNH::GetFlags" alt="" coords="293,360,459,387"/>
+<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="307,411,445,437"/>
+<area shape="rect" id="node12" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="304,461,448,488"/>
+<area shape="rect" id="node13" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="285,512,467,539"/>
+<area shape="rect" id="node14" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="275,563,477,589"/>
+<area shape="rect" id="node15" href="$d4/d3d/classAgentPath.html#a96c6a1ce4126116e5759356cf61975ab" title="AgentPath::subnet_service_ip" alt="" coords="269,613,483,640"/>
+<area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="293,665,459,706"/>
+<area shape="rect" id="node17" href="$d4/d3d/classAgentPath.html#a06a72e2731c81f83060749e86aaf584b" title="AgentPath::is_local" alt="" coords="303,731,449,757"/>
+<area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#ad54983880f608fdb4ddc4906af66472b" title="AgentPath::is_health\l_check_service" alt="" coords="299,782,453,823"/>
+<area shape="rect" id="node19" href="$d4/d3d/classAgentPath.html#ad306a916ebb771fb400ae1c77af4486f" title="AgentPath::sequence" alt="" coords="297,848,455,875"/>
+<area shape="rect" id="node21" href="$d4/d3d/classAgentPath.html#a54316edf3b68a74929544102797095a6" title="AgentPath::etree_leaf" alt="" coords="295,899,457,925"/>
+<area shape="rect" id="node22" href="$de/da5/classLocalVmRoute.html#a3df45cf6cac3c0afa1266ef7b0a62b96" title="LocalVmRoute::set_tunnel_bmap" alt="" coords="259,949,493,976"/>
+<area shape="rect" id="node23" href="$d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="291,1000,461,1027"/>
+<area shape="rect" id="node24" href="$dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="297,1051,455,1093"/>
+<area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="304,1117,448,1144"/>
+<area shape="rect" id="node26" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="291,1168,461,1195"/>
+<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="592,157,717,184"/>
+<area shape="rect" id="node20" href="$d8/d35/classPathPreference.html#ac604fdc4c7eecd78c76e3165e0dad7ed" title="PathPreference::sequence" alt="" coords="559,848,750,875"/>
+<area shape="rect" id="node27" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="541,1117,768,1144"/>
+<area shape="rect" id="node28" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="591,1168,718,1195"/>
+<area shape="rect" id="node29" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="567,1219,743,1245"/>
+</map>

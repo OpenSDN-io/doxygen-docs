@@ -1,0 +1,7 @@
+<map id="etcdserverpb::DeleteRangeResponse::InternalSerializeWithCachedSizesToArray" name="etcdserverpb::DeleteRangeResponse::InternalSerializeWithCachedSizesToArray">
+<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a628dba76ee8a6cac51a7c87ff43fe547" title="etcdserverpb::DeleteRange\lResponse::has_header" alt="" coords="283,5,482,46"/>
+<area shape="rect" id="node4" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a687c3a203f04d8a2c167abb948188f1e" title="etcdserverpb::DeleteRange\lResponse::deleted" alt="" coords="283,70,482,111"/>
+<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a03f2914506a10821273206240bf8b36d" title="etcdserverpb::DeleteRange\lResponse::prev_kvs_size" alt="" coords="283,135,482,177"/>
+<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a0b18573242c238729e93254b09cd9651" title="etcdserverpb::DeleteRange\lResponse::prev_kvs" alt="" coords="283,201,482,242"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="531,5,755,46"/>
+</map>

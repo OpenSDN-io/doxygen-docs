@@ -1,0 +1,17 @@
+<map id="mvccpb::Event::EventType_descriptor" name="mvccpb::Event::EventType_descriptor">
+<area shape="rect" id="node2" href="$d3/d96/namespacemvccpb.html#a8b55e7bdd38d8b4a8f15ca0756f07b30" title="mvccpb::Event_EventType\l_descriptor" alt="" coords="248,149,440,190"/>
+<area shape="rect" id="node3" href="$df/d94/namespaceprotobuf__kv__2eproto.html#a2efff70e28b27e5f8967887d89c800fa" title="protobuf_kv_2eproto\l::protobuf_AssignDescriptorsOnce" alt="" coords="488,149,731,190"/>
+<area shape="rect" id="node4" href="$df/d94/namespaceprotobuf__kv__2eproto.html#a73e6c10acc90c004fa6ce872ffd6526d" title="protobuf_kv_2eproto\l::protobuf_AssignDescriptors" alt="" coords="779,115,989,157"/>
+<area shape="rect" id="node5" href="$df/d94/namespaceprotobuf__kv__2eproto.html#a9a8c6ca9baa505482226052d1cf844d0" title="protobuf_kv_2eproto\l::AddDescriptors" alt="" coords="1037,111,1195,153"/>
+<area shape="rect" id="node6" href="$df/d94/namespaceprotobuf__kv__2eproto.html#aee26b1a79852785a3babe548ba7b075a" title="protobuf_kv_2eproto\l::AddDescriptorsImpl" alt="" coords="1243,110,1402,151"/>
+<area shape="rect" id="node7" href="$df/d94/namespaceprotobuf__kv__2eproto.html#a46608e01aab518acaa0b19672a3c3458" title="protobuf_kv_2eproto\l::InitDefaults" alt="" coords="1493,35,1651,77"/>
+<area shape="rect" id="node15" href="$df/d94/namespaceprotobuf__kv__2eproto.html#ab9b66974f0271acd492280212059f005" title="protobuf_kv_2eproto\l::GOOGLE_PROTOBUF_ATTRIBUTE\l_SECTION_VARIABLE" alt="" coords="1451,101,1693,157"/>
+<area shape="rect" id="node16" href="$df/d94/namespaceprotobuf__kv__2eproto.html#aa2bd15efdc77163825333ed988336930" title="protobuf_kv_2eproto\l::protobuf_RegisterTypes" alt="" coords="1481,182,1663,223"/>
+<area shape="rect" id="node8" href="$df/d94/namespaceprotobuf__kv__2eproto.html#ae7c6195022964d8d9ed745c1afcf8e63" title="protobuf_kv_2eproto\l::InitDefaultsKeyValue" alt="" coords="2190,6,2357,47"/>
+<area shape="rect" id="node11" href="$df/d94/namespaceprotobuf__kv__2eproto.html#aeb284542aa4e74e52e8523798d20ab41" title="protobuf_kv_2eproto\l::InitDefaultsEvent" alt="" coords="1741,65,1899,106"/>
+<area shape="rect" id="node9" href="$df/d94/namespaceprotobuf__kv__2eproto.html#ad9d207902b18a8d0288a3793d727f5f6" title="protobuf_kv_2eproto\l::InitDefaultsKeyValueImpl" alt="" coords="2429,6,2624,47"/>
+<area shape="rect" id="node10" href="$d9/d27/classmvccpb_1_1KeyValue.html#add7012f68726fa08c10b6cddb4fa2b23" title="mvccpb::KeyValue::InitAs\lDefaultInstance" alt="" coords="2675,6,2861,47"/>
+<area shape="rect" id="node12" href="$df/d94/namespaceprotobuf__kv__2eproto.html#aa7f206de6fc5703c3fb23a3157c3ab41" title="protobuf_kv_2eproto\l::InitDefaultsEventImpl" alt="" coords="1947,65,2119,106"/>
+<area shape="rect" id="node13" href="$dd/d5a/classmvccpb_1_1Event.html#a4a47e6877db041ba7304332480e7834d" title="mvccpb::Event::InitAsDefault\lInstance" alt="" coords="2168,71,2379,113"/>
+<area shape="rect" id="node14" href="$d9/d27/classmvccpb_1_1KeyValue.html#a26be475e927dce638e4bb81498e1ce4e" title="mvccpb::KeyValue::internal\l_default_instance" alt="" coords="2427,71,2626,113"/>
+</map>

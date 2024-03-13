@@ -1,0 +1,25 @@
+var classAgentRouteWalkerManager =
+[
+    [ "WalkRefList", "d6/dda/classAgentRouteWalkerManager.html#abed3d846333e2d962e687aee2e9081c9", null ],
+    [ "WalkRefListIter", "d6/dda/classAgentRouteWalkerManager.html#ad9d1cd05d3d2ea5274f4dbe1444e6a0e", null ],
+    [ "AgentRouteWalkerManager", "d6/dda/classAgentRouteWalkerManager.html#a0287c47366662a5aa5a6f64e1ec199dd", null ],
+    [ "~AgentRouteWalkerManager", "d6/dda/classAgentRouteWalkerManager.html#a9ba8565f013f46b91e0aa34ec8dc2ef2", null ],
+    [ "agent", "d6/dda/classAgentRouteWalkerManager.html#aad182ea15b92ff0a71cb8e1720d0c354", null ],
+    [ "CreateState", "d6/dda/classAgentRouteWalkerManager.html#a0cfc2cee01eb12d715145a012e1f9048", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "d6/dda/classAgentRouteWalkerManager.html#a0ce346a9da394eafe42fb5f82875223c", null ],
+    [ "RegisterWalker", "d6/dda/classAgentRouteWalkerManager.html#aaed9895b38598db85ff46b54a90978db", null ],
+    [ "ReleaseWalker", "d6/dda/classAgentRouteWalkerManager.html#a2dc9983ab07e0b1f78745580f90f79b5", null ],
+    [ "RemoveWalker", "d6/dda/classAgentRouteWalkerManager.html#aa4a7fd9e8c9aa26f27c05208316839b4", null ],
+    [ "RemoveWalkReferencesInVrf", "d6/dda/classAgentRouteWalkerManager.html#a29595221f98cfcf213de7f126dbf7f3f", null ],
+    [ "Shutdown", "d6/dda/classAgentRouteWalkerManager.html#a4f86e4e4cd06d298f350998f6e64aabc", null ],
+    [ "TryUnregister", "d6/dda/classAgentRouteWalkerManager.html#aaecfc97e4b4da678153dfc7514897b04", null ],
+    [ "ValidateAgentRouteWalker", "d6/dda/classAgentRouteWalkerManager.html#a7947f7d2abd7916f47701a56fd5e0d55", null ],
+    [ "vrf_listener_id", "d6/dda/classAgentRouteWalkerManager.html#a01b7dfa9bf596afe32785c396bccb795", null ],
+    [ "VrfNotify", "d6/dda/classAgentRouteWalkerManager.html#afcf57cb6a8270dd442206aa9516e41c5", null ],
+    [ "walk_ref_list_size", "d6/dda/classAgentRouteWalkerManager.html#a86964adfdcbf561af31ba32dbec661f2", null ],
+    [ "AgentRouteWalker", "d6/dda/classAgentRouteWalkerManager.html#afa51bd1e09a3910eafe3f0dc0f0a6d7b", null ],
+    [ "agent_", "d6/dda/classAgentRouteWalkerManager.html#aaaf6d04a5b55dd69071728ccfa481723", null ],
+    [ "marked_for_deletion_", "d6/dda/classAgentRouteWalkerManager.html#ae3ada0b40971b096225f389f5ac1c707", null ],
+    [ "vrf_listener_id_", "d6/dda/classAgentRouteWalkerManager.html#a4e016b26082fd97963ce449a328ab146", null ],
+    [ "walk_ref_list_", "d6/dda/classAgentRouteWalkerManager.html#a1d24dce64be152f18734c63bfa77307e", null ]
+];

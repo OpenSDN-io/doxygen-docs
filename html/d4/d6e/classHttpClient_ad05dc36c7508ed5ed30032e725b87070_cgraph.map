@@ -1,0 +1,11 @@
+<map id="HttpClient::RemoveConnectionInternal" name="HttpClient::RemoveConnectionInternal">
+<area shape="rect" id="node2" href="$d3/de9/classHttpConnection.html#af646ce1f51e9839a2da413890539551f" title="HttpConnection::endpoint" alt="" coords="278,61,466,88"/>
+<area shape="rect" id="node3" href="$d3/de9/classHttpConnection.html#a70456d8e8f0fdb83d3a7458d2a7449bb" title="HttpConnection::id" alt="" coords="301,112,443,139"/>
+<area shape="rect" id="node4" href="$df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b" title="del_conn" alt="" coords="332,163,412,189"/>
+<area shape="rect" id="node5" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="515,5,695,32"/>
+<area shape="rect" id="node6" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="532,57,679,98"/>
+<area shape="rect" id="node7" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="532,122,679,163"/>
+<area shape="rect" id="node8" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title="HttpConnection::curl\l_handle" alt="" coords="528,187,683,229"/>
+<area shape="rect" id="node9" href="$d3/de9/classHttpConnection.html#afe7c36358579cba086912ae67ee3e71a" title="HttpConnection::set\l_curl_handle" alt="" coords="530,253,681,294"/>
+<area shape="rect" id="node10" href="$df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2" title="del_curl_handle" alt="" coords="543,319,667,345"/>
+</map>

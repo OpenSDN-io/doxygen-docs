@@ -1,0 +1,51 @@
+<map id="VxlanRoutingManager::AdvertiseBGPaaSRoute" name="VxlanRoutingManager::AdvertiseBGPaaSRoute">
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="859,88,1008,114"/>
+<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="251,733,453,760"/>
+<area shape="rect" id="node4" href="$d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="278,784,426,826"/>
+<area shape="rect" id="node6" href="$dc/d5b/classVxlanRoutingManager.html#afdd9fb189fad02e718336ed07bcfaa37" title="Auxilliary functions. " alt="" coords="263,850,441,891"/>
+<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="265,916,439,942"/>
+<area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="283,966,421,993"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="261,1017,443,1044"/>
+<area shape="rect" id="node10" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="280,1068,424,1094"/>
+<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="269,1119,435,1160"/>
+<area shape="rect" id="node12" href="$d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="263,1185,441,1212"/>
+<area shape="rect" id="node13" href="$dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="251,1236,453,1262"/>
+<area shape="rect" id="node14" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1155,392,1295,418"/>
+<area shape="rect" id="node15" href="$d8/d3e/vxlan__auxilliary_8cc.html#a55cce8f9d5853c9d3fc985e57dc23e2e" title="MakeInterfaceNextHopReq" alt="" coords="254,682,450,709"/>
+<area shape="rect" id="node19" href="$de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="271,1287,433,1328"/>
+<area shape="rect" id="node20" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="269,1352,435,1394"/>
+<area shape="rect" id="node23" href="$dc/d5b/classVxlanRoutingManager.html#ab4b9e903ef648762af9b197f566ad592" title="Finds in the given route the path with the given Peer type and interface nexthop (InterfaceNH). " alt="" coords="233,254,471,295"/>
+<area shape="rect" id="node27" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="877,341,989,368"/>
+<area shape="rect" id="node30" href="$dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="255,1418,449,1459"/>
+<area shape="rect" id="node29" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1099,113,1352,140"/>
+<area shape="rect" id="node31" href="$d6/d6c/classCompositeNHKey.html#ab7b65f42e906763ef62d0609b2cdd677" title="CompositeNHKey::Reorder" alt="" coords="255,632,449,658"/>
+<area shape="rect" id="node46" href="$d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="275,1484,429,1510"/>
+<area shape="rect" id="node5" href="$d8/d35/classPathPreference.html#a71d5c2b9f1660379fd3fe0b39980647f" title="PathPreference::loc\l_sequence" alt="" coords="571,1235,717,1276"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="817,1045,1050,1072"/>
+<area shape="rect" id="node17" href="$d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="569,1170,719,1211"/>
+<area shape="rect" id="node18" href="$d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="852,1157,1015,1184"/>
+<area shape="rect" id="node21" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="554,1312,734,1338"/>
+<area shape="rect" id="node22" href="$dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f" title="EvpnRouteEntry::GetVmIpPlen" alt="" coords="535,1362,753,1389"/>
+<area shape="rect" id="node24" href="$dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="541,225,747,281"/>
+<area shape="rect" id="node25" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="863,138,1004,165"/>
+<area shape="rect" id="node26" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="871,240,996,266"/>
+<area shape="rect" id="node28" href="$d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="819,189,1047,216"/>
+<area shape="rect" id="node32" href="$d6/d6c/classCompositeNHKey.html#acb966df5aa0fb52fd5e82dee386bec82" title="CompositeNHKey::CreateTunnelNH" alt="" coords="520,493,768,520"/>
+<area shape="rect" id="node35" href="$d6/d6c/classCompositeNHKey.html#ada6e33f86c31c50c5153ae2f51df4897" title="CompositeNHKey::ExpandLocal\lCompositeNH" alt="" coords="531,763,757,804"/>
+<area shape="rect" id="node44" href="$d1/dcc/classNextHopKey.html#a8533a8e26a97efa23aa4b25ca5745e29" title="NextHopKey::SetPolicy" alt="" coords="559,544,729,570"/>
+<area shape="rect" id="node43" href="$d6/d6c/classCompositeNHKey.html#a192be217fb8c83c6b3557cc64af20336" title="CompositeNHKey::find" alt="" coords="1142,845,1309,872"/>
+<area shape="rect" id="node37" href="$d6/d6c/classCompositeNHKey.html#a6e6dd7b20718fbbce11e5a8d35e441f7" title="CompositeNHKey::erase" alt="" coords="844,645,1023,672"/>
+<area shape="rect" id="node42" href="$d6/d6c/classCompositeNHKey.html#ad67c9786b95176f06c65630de5e03300" title="CompositeNHKey::insert" alt="" coords="843,594,1023,621"/>
+<area shape="rect" id="node45" href="$d6/d6c/classCompositeNHKey.html#a38e1612b64c6fbdee4712bbe2ea23547" title="CompositeNHKey::component\l_nh_key_list" alt="" coords="536,595,752,636"/>
+<area shape="rect" id="node33" href="$d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="853,544,1014,570"/>
+<area shape="rect" id="node34" href="$df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title="NextHopTable::Process" alt="" coords="848,493,1019,520"/>
+<area shape="rect" id="node36" href="$d6/d6c/classCompositeNHKey.html#a579dd7fd9c3fb194a4ad0972f8a35ffb" title="CompositeNHKey::composite\l_nh_type" alt="" coords="828,878,1039,919"/>
+<area shape="rect" id="node38" href="$da/d7c/structVrfKey.html#a505c0b31918df659bef769aa1e02af22" title="VrfKey::IsEqual" alt="" coords="874,944,993,970"/>
+<area shape="rect" id="node39" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="846,994,1021,1021"/>
+<area shape="rect" id="node40" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="839,747,1027,788"/>
+<area shape="rect" id="node41" href="$d4/dec/classNextHop.html#ab8d259e0775bffa3130c2dbed3f30e0c" title="NextHop::NexthopToInterface\lPolicy" alt="" coords="826,812,1041,854"/>
+<area shape="rect" id="node47" href="$dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="565,1415,723,1456"/>
+<area shape="rect" id="node48" href="$d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="575,1481,713,1508"/>
+<area shape="rect" id="node49" href="$de/d8b/classEvpnAgentRouteTable.html#ac63a1360b0d6c246e8d8a96fd623397a" title="EvpnAgentRouteTable\l::AddType5Route" alt="" coords="563,1532,725,1574"/>
+<area shape="rect" id="node50" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="572,1598,716,1625"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="StaticRouteMgr::ProcessUnregisterList" name="StaticRouteMgr::ProcessUnregisterList">
+<area shape="rect" id="node2" href="$d0/d2a/classStaticRoute.html#aba82558ed632f51d245a88f403ba618f" title="StaticRoute::bgp_table" alt="" coords="323,31,491,57"/>
+<area shape="rect" id="node6" href="$d0/d2a/classStaticRoute.html#a0ea94f712a8f620663f29a5ee1ad2d3d" title="StaticRoute::prefix" alt="" coords="336,81,477,108"/>
+<area shape="rect" id="node7" href="$d0/d2a/classStaticRoute.html#a252834cbc7a13cf357499213956f29a6" title="StaticRoute::nexthop" alt="" coords="328,132,485,159"/>
+<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="539,5,730,32"/>
+<area shape="rect" id="node4" href="$d0/d2a/classStaticRoute.html#a236645ece2b4ca7aa7c72dfd9b29f650" title="StaticRoute::GetFamily" alt="" coords="549,56,720,83"/>
+<area shape="rect" id="node5" href="$d6/dc0/classStaticRouteMgr.html#a8789fc41f7b91bdbcb5d5420b9d27052" title="StaticRouteMgr::GetFamily" alt="" coords="779,56,973,83"/>
+</map>

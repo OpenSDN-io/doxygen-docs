@@ -1,0 +1,9 @@
+<map id="RoutingInstance::IsServiceChainRoute" name="RoutingInstance::IsServiceChainRoute">
+<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title="BgpRoute::table" alt="" coords="283,41,408,68"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a939d0d6f79a844af3ec51b255316a0af" title="RoutingInstance::config" alt="" coords="259,92,432,119"/>
+<area shape="rect" id="node6" href="$db/d82/structSCAddress.html#ad1752de4605d37f5a7af8d52bd850982" title="SCAddress::AddressFamily\lToSCFamily" alt="" coords="248,143,443,185"/>
+<area shape="rect" id="node7" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title="BgpTable::family" alt="" coords="280,209,411,236"/>
+<area shape="rect" id="node8" href="$d6/ddf/classBgpInstanceConfig.html#abd0fe0015c89485cf8ee741694880623" title="BgpInstanceConfig::\lservice_chain_info" alt="" coords="270,261,421,302"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="495,5,671,46"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="491,71,674,97"/>
+</map>

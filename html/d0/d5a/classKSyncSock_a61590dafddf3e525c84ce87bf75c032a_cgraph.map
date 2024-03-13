@@ -1,0 +1,21 @@
+<map id="KSyncSock::SendBulkMessage" name="KSyncSock::SendBulkMessage">
+<area shape="rect" id="node2" href="$d5/d52/classKSyncBulkMsgContext.html#a5d35a66f7fe4fe72732565cd17768271" title="KSyncBulkMsgContext\l::Data" alt="" coords="305,5,473,46"/>
+<area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#a568b524fb625ab6ba736bfe967d40761" title="KSyncSock::AsyncSendTo" alt="" coords="296,71,483,97"/>
+<area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html#aa556c01590ab59825f77721bae2ffc64" title="KSyncSock::WriteHandler" alt="" coords="296,121,483,148"/>
+<area shape="rect" id="node5" href="$d0/d5a/classKSyncSock.html#aae196a0ddd8c58e1cbae7866a763f326" title="KSyncSock::SendTo" alt="" coords="316,172,463,199"/>
+<area shape="rect" id="node6" href="$d5/d52/classKSyncBulkMsgContext.html#a5f1ce26ab2e0da9a17bb66179fe15c29" title="KSyncBulkMsgContext\l::GetReceiveBuffer" alt="" coords="305,223,473,265"/>
+<area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#a42d5b24854b753171fc2d80545369d71" title="KSyncSock::Receive" alt="" coords="313,289,465,316"/>
+<area shape="rect" id="node8" href="$d0/d5a/classKSyncSock.html#af5aca3a0adf93ca837a4c6491ad3e496" title="KSyncSock::IsMoreData" alt="" coords="577,467,751,493"/>
+<area shape="rect" id="node9" href="$d0/d5a/classKSyncSock.html#a5ee412447e353373d6b01b17901ff5e1" title="KSyncSock::ValidateAndEnqueue" alt="" coords="272,340,507,367"/>
+<area shape="rect" id="node16" href="$d0/d5a/classKSyncSock.html#a569ee37649deeb14334d00e0ee3b27e7" title="KSyncSock::ProcessDataInline" alt="" coords="280,521,499,548"/>
+<area shape="rect" id="node10" href="$d0/d5a/classKSyncSock.html#a2d96b4ab9c39b0d1470bbe5e8c4214b3" title="KSyncSock::Validate" alt="" coords="587,416,741,443"/>
+<area shape="rect" id="node11" href="$d0/d5a/classKSyncSock.html#aaa76aea26dd263d975aa263ca6b0b033" title="KSyncSock::GetReceiveQueue" alt="" coords="555,132,773,159"/>
+<area shape="rect" id="node12" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="580,183,748,225"/>
+<area shape="rect" id="node13" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="580,249,748,290"/>
+<area shape="rect" id="node14" href="$d0/d5a/classKSyncSock.html#a3bf0550e7f00e90d035c9bb883b1ee3e" title="KSyncSock::GetSeqno" alt="" coords="582,365,746,392"/>
+<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="583,315,745,341"/>
+<area shape="rect" id="node17" href="$d0/d5a/classKSyncSock.html#adac1f89600d0818bc79ac4d4bd6f4b53" title="KSyncSock::GetBulkSandesh\lContext" alt="" coords="560,518,768,559"/>
+<area shape="rect" id="node18" href="$d5/d52/classKSyncBulkMsgContext.html#ae578cc0ba3afe1f2867cdf5e8f1d6e1b" title="KSyncBulkMsgContext\l::seqno" alt="" coords="580,583,748,625"/>
+<area shape="rect" id="node19" href="$db/df6/classKSyncBulkSandeshContext.html#a0535da2d5ea25100fead97ac11aebec6" title="KSyncBulkSandeshContext\l::set_bulk_message_context" alt="" coords="561,649,767,690"/>
+<area shape="rect" id="node20" href="$d0/d5a/classKSyncSock.html#ad2da0f644b33f96f0df4daa0f1febf4c" title="KSyncSock::BulkDecoder" alt="" coords="572,715,756,741"/>
+</map>

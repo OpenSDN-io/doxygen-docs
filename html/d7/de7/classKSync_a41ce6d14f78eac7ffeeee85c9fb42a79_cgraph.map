@@ -1,0 +1,15 @@
+<map id="KSync::NetlinkInit" name="KSync::NetlinkInit">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="215,5,385,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="205,56,395,83"/>
+<area shape="rect" id="node4" href="$de/d67/classKSyncSockNetlink.html#a69c4a542cfabd1b9d58eb4ecd2b5239a" title="KSyncSockNetlink::Init" alt="" coords="215,107,385,133"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="241,157,359,184"/>
+<area shape="rect" id="node9" href="$dc/dd4/classAgentParam.html#ac36d119a72eeca514417ef5daecaf20a" title="AgentParam::ksync_thread\l_cpu_pin_policy" alt="" coords="202,209,398,250"/>
+<area shape="rect" id="node10" href="$d0/d5a/classKSyncSock.html#a9a0b770dd511925e3c23e9988ed32c0d" title="KSyncSock::SetAgentSandesh\lContext" alt="" coords="193,274,407,315"/>
+<area shape="rect" id="node11" href="$d0/d0a/ksync__init_8cc.html#aa96b20d256e3729c989734e459d365bd" title="GenericNetlinkInit" alt="" coords="230,340,370,367"/>
+<area shape="rect" id="node5" href="$d0/d5a/classKSyncSock.html#a8d1ecf3af589ff8d78297df025c75197" title="KSyncSock::SetSockTableEntry" alt="" coords="457,48,679,75"/>
+<area shape="rect" id="node6" href="$de/d67/classKSyncSockNetlink.html#ae67db10455d471c80844bbda43cd6a98" title="KSyncSockNetlink::KSyncSock\lNetlink" alt="" coords="459,99,677,141"/>
+<area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#a51afdf171f67dd36c22a29f62444d7af" title="KSyncSock::Init" alt="" coords="507,165,629,192"/>
+<area shape="rect" id="node12" href="$d0/d5a/classKSyncSock.html#a905ab40d3ac484f5057685ec20fd5372" title="KSyncSock::SetNetlinkFamilyId" alt="" coords="456,340,680,367"/>
+<area shape="rect" id="node13" href="$d5/d89/ksync__sock_8cc.html#aa4acd5b26dbd694163068c0c2a5511db" title="InitNetlink" alt="" coords="728,340,819,367"/>
+<area shape="rect" id="node14" href="$d0/d5a/classKSyncSock.html#affbb26c1e594924e9440889268bd2c70" title="KSyncSock::GetNetlinkFamilyId" alt="" coords="867,340,1093,367"/>
+</map>

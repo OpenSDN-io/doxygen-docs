@@ -1,0 +1,25 @@
+<map id="DiagEntry::~DiagEntry" name="DiagEntry::~DiagEntry">
+<area shape="rect" id="node2" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="527,308,639,335"/>
+<area shape="rect" id="node20" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="221,359,427,385"/>
+<area shape="rect" id="node23" href="$dc/d16/classDiagTable.html#aa9722ff21899448da39c45a9c625c139" title="DiagTable::Delete" alt="" coords="255,435,393,461"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="739,123,941,149"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="757,308,923,335"/>
+<area shape="rect" id="node19" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="779,359,901,385"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="991,13,1207,40"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1261,6,1451,47"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1003,65,1194,106"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1037,131,1160,157"/>
+<area shape="rect" id="node11" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1015,181,1182,208"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1261,174,1451,215"/>
+<area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1019,283,1178,309"/>
+<area shape="rect" id="node13" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="995,333,1202,360"/>
+<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="989,384,1208,411"/>
+<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="992,435,1205,461"/>
+<area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1019,485,1179,512"/>
+<area shape="rect" id="node17" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1007,536,1190,563"/>
+<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1010,587,1187,613"/>
+<area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1256,72,1456,99"/>
+<area shape="rect" id="node21" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="534,359,631,385"/>
+<area shape="rect" id="node22" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="475,409,690,436"/>
+<area shape="rect" id="node24" href="$d8/d96/classDiagEntry.html#a0953eeaa1646704eddf9ba9396ca1c59" title="DiagEntry::GetKey" alt="" coords="513,460,653,487"/>
+</map>

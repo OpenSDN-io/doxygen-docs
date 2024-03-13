@@ -1,0 +1,10 @@
+<map id="etcdserverpb::AuthRoleDeleteResponse::default_instance" name="etcdserverpb::AuthRoleDeleteResponse::default_instance">
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#abd75eed55c754354bd825d7ba463e131" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleDelete\lResponse" alt="" coords="274,31,481,87"/>
+<area shape="rect" id="node9" href="$d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ad3cfc4aaeae675d28de8899b9e314305" title="etcdserverpb::AuthRoleDelete\lResponse::internal_default\l_instance" alt="" coords="269,111,485,167"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ac7172951f0bcb96c002ff436006d11eb" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleDelete\lResponseImpl" alt="" coords="534,31,741,87"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="798,5,1013,46"/>
+<area shape="rect" id="node7" href="$d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a8b354558aa1973404b1bb744c9965de6" title="etcdserverpb::AuthRoleDelete\lResponse::InitAsDefaultInstance" alt="" coords="789,70,1021,111"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1070,5,1314,46"/>
+<area shape="rect" id="node6" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1363,5,1587,46"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1080,70,1304,111"/>
+</map>

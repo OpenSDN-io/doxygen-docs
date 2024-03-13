@@ -1,0 +1,7 @@
+<map id="CpuLoadData::GetCpuLoadInfo" name="CpuLoadData::GetCpuLoadInfo">
+<area shape="rect" id="node2" href="$d8/d34/cpuinfo__common_8cc.html#a1da5151c41924358449a5aa75bd0f6ec" title="LoadAvg" alt="" coords="304,5,381,32"/>
+<area shape="rect" id="node4" href="$dc/d2a/cpuinfo_8cc.html#a4d3e49d7e94877a2215b92caf13b9bda" title="SystemMemInfo" alt="" coords="279,56,407,83"/>
+<area shape="rect" id="node5" href="$dc/d2a/cpuinfo_8cc.html#a747ba7b7403d39d220c31950d7fbeade" title="ProcessMemInfo" alt="" coords="278,107,407,133"/>
+<area shape="rect" id="node6" href="$d8/d34/cpuinfo__common_8cc.html#a786762105e43c1b4ec0637cf59019eae" title="ProcessCpuShare" alt="" coords="275,157,410,184"/>
+<area shape="rect" id="node3" href="$d8/d34/cpuinfo__common_8cc.html#a0191fcd1a69724c860341f93310c710e" title="NumCpus" alt="" coords="459,157,544,184"/>
+</map>

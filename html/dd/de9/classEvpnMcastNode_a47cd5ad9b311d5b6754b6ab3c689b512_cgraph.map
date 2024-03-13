@@ -1,0 +1,14 @@
+<map id="EvpnMcastNode::EvpnMcastNode" name="EvpnMcastNode::EvpnMcastNode">
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="EvpnMcastNode::UpdateAttributes" alt="" coords="293,256,539,283"/>
+<area shape="rect" id="node3" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/>
+<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/>
+<area shape="rect" id="node8" href="$dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="587,183,786,225"/>
+<area shape="rect" id="node9" href="$d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="614,249,759,290"/>
+<area shape="rect" id="node10" href="$d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="605,315,768,341"/>
+<area shape="rect" id="node11" href="$dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="593,366,781,407"/>
+<area shape="rect" id="node12" href="$dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="593,431,781,473"/>
+<area shape="rect" id="node13" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="621,497,753,524"/>
+<area shape="rect" id="node4" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="835,5,976,32"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="835,56,975,83"/>
+</map>

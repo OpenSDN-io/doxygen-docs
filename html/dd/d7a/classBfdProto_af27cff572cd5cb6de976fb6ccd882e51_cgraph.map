@@ -1,0 +1,29 @@
+<map id="BfdProto::BfdProto" name="BfdProto::BfdProto">
+<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#ac89b5a4379f27b20dfca6e3d77461bf5" title="WorkQueue::SetSize" alt="" coords="221,5,374,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="239,56,356,83"/>
+<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#a707b45d5399c6fa23b11abf18e10be31" title="AgentParam::services\l_queue_limit" alt="" coords="216,107,379,149"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#abdd0f5ff39e3c2294a77505db3728828" title="WorkQueue::SetBounded" alt="" coords="206,173,389,200"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a67039eb042a323867cf61f32fbd3f4ef" title="Agent::health_check\l_table" alt="" coords="220,225,375,266"/>
+<area shape="rect" id="node7" href="$db/d24/classHealthCheckTable.html#afbebd4f0f8256572f21684fc76474786" title="HealthCheckTable::Register\lHealthCheckCallback" alt="" coords="197,290,397,331"/>
+<area shape="rect" id="node8" href="$dd/d7a/classBfdProto.html#adf1fe8ae3dc7efb8c54fbe2c0533f6ea" title="BfdProto::BfdHealthCheck\lSessionControl" alt="" coords="202,355,393,397"/>
+<area shape="rect" id="node9" href="$de/dc4/classHealthCheckInstanceService.html#a5b1401e517775b0eedb6d3c8e6220328" title="HealthCheckInstanceService\l::is_multi_hop" alt="" coords="445,9,653,50"/>
+<area shape="rect" id="node10" href="$d8/d4e/classHealthCheckInstanceBase.html#a42f08a11f076341af91d7e21e208c8c6" title="HealthCheckInstanceBase\l::update_source_ip" alt="" coords="453,74,645,115"/>
+<area shape="rect" id="node14" href="$d8/d4e/classHealthCheckInstanceBase.html#aa9f91ab1e8bed9094aabe38c402e0207" title="HealthCheckInstanceBase\l::destination_ip" alt="" coords="453,139,645,181"/>
+<area shape="rect" id="node11" href="$d8/d4e/classHealthCheckInstanceBase.html#ab4d258b2d9419ed1e0f33b22044ae424" title="HealthCheckInstanceBase\l::interface" alt="" coords="707,181,899,222"/>
+<area shape="rect" id="node15" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="453,257,645,298"/>
+<area shape="rect" id="node16" href="$dd/df6/classHealthCheckService.html#a854170581581ad536da4600135c21b67" title="HealthCheckService\l::delay" alt="" coords="473,322,626,363"/>
+<area shape="rect" id="node17" href="$dd/df6/classHealthCheckService.html#a8324b92d108d3aaec82b25a1bc342b3b" title="HealthCheckService\l::delay_usecs" alt="" coords="473,387,626,429"/>
+<area shape="rect" id="node18" href="$dd/df6/classHealthCheckService.html#ae73c232afc4b9e36357c980cb16cb7e4" title="HealthCheckService\l::timeout" alt="" coords="473,453,626,494"/>
+<area shape="rect" id="node19" href="$dd/df6/classHealthCheckService.html#a60bc043f030cefbf520d71967f0ea233" title="HealthCheckService\l::timeout_usecs" alt="" coords="473,518,626,559"/>
+<area shape="rect" id="node20" href="$dd/df6/classHealthCheckService.html#a11908f903749eb24a02dc436f742fe3f" title="HealthCheckService\l::max_retries" alt="" coords="473,583,626,625"/>
+<area shape="rect" id="node21" href="$d7/d4a/classBFD_1_1Client.html#a5087fb8f49aedc5981b1e73fe970565e" title="BFD::Client::AddSession" alt="" coords="461,649,638,676"/>
+<area shape="rect" id="node27" href="$d7/d4a/classBFD_1_1Client.html#a864dae0fab85efd75ae8a65e98e31017" title="BFD::Client::DeleteSession" alt="" coords="452,700,647,727"/>
+<area shape="rect" id="node12" href="$d5/d21/classVmInterface.html#a8c95437376bbb96514965e73c07430ba" title="VmInterface::GetGatewayIp" alt="" coords="701,111,904,137"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="722,45,883,86"/>
+<area shape="rect" id="node22" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="701,700,904,727"/>
+<area shape="rect" id="node23" href="$d7/d90/classBFD_1_1Server.html#a6625338e6a2c270744b88244ba553d7b" title="BFD::Server::AddSession" alt="" coords="712,649,893,676"/>
+<area shape="rect" id="node25" href="$d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69" title="BFD::Client::Notify" alt="" coords="731,599,874,625"/>
+<area shape="rect" id="node24" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="958,704,1157,731"/>
+<area shape="rect" id="node26" href="$db/d0c/classBFD_1_1Connection.html#a89d0ae98e730b222d95ffb6ec8b05ea0" title="BFD::Connection::NotifyState\lChange" alt="" coords="952,591,1163,633"/>
+<area shape="rect" id="node28" href="$d7/d90/classBFD_1_1Server.html#acae82079e1cdd64c0dc3d5243b591b88" title="BFD::Server::DeleteSession" alt="" coords="703,751,902,777"/>
+</map>

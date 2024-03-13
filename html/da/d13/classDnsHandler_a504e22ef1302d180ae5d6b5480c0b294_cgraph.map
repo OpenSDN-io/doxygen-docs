@@ -1,0 +1,28 @@
+<map id="DnsHandler::SendXmppUpdate" name="DnsHandler::SendXmppUpdate">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a5530aaeb8613a0e0f594a21099522ae7" title="Agent::is_dns_xmpp\l_channel" alt="" coords="317,7,470,49"/>
+<area shape="rect" id="node3" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="317,73,469,100"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="318,124,469,151"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a4590e50bee0131b14e5dd1cc87448393" title="DnsProto::GetTransId" alt="" coords="314,175,473,201"/>
+<area shape="rect" id="node6" href="$db/dfa/classDnsAgentXmpp.html#a79bf9946d37d3cd812cfd3da5b5d416a" title="DnsAgentXmpp::DnsAgentXmpp\lEncode" alt="" coords="277,226,509,267"/>
+<area shape="rect" id="node23" href="$d5/d06/classAgentDnsXmppChannel.html#ab8d313e9a0a1183c66d1b602d565b623" title="AgentDnsXmppChannel\l::GetXmppChannel" alt="" coords="305,291,481,333"/>
+<area shape="rect" id="node24" href="$d5/d06/classAgentDnsXmppChannel.html#a119badb54ea53b6d49df6f7bad7d2075" title="AgentDnsXmppChannel\l::SendMsg" alt="" coords="305,479,481,521"/>
+<area shape="rect" id="node7" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title="XmppStanza::AllocXmppXmlImpl" alt="" coords="557,360,795,387"/>
+<area shape="rect" id="node12" href="$dd/d50/classXmlPugi.html#aa054d3f177373a6b7cb4e76e4ec2ca46" title="XmlPugi::AddNode" alt="" coords="605,107,747,133"/>
+<area shape="rect" id="node15" href="$dd/d50/classXmlPugi.html#adae8722150dda55675cec71fc00efa54" title="XmlPugi::AddAttribute" alt="" coords="593,5,759,32"/>
+<area shape="rect" id="node16" href="$d6/d81/classXmppChannel.html#ad328a80bd9eb6805a99999574dd10724" title="XmppChannel::FromString" alt="" coords="581,208,771,235"/>
+<area shape="rect" id="node17" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="589,259,763,285"/>
+<area shape="rect" id="node18" href="$dd/d50/classXmlPugi.html#a3d4d639bb9efd03729e830c2b722f824" title="XmlPugi::AddChildNode" alt="" coords="588,56,764,83"/>
+<area shape="rect" id="node19" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="604,309,748,336"/>
+<area shape="rect" id="node20" href="$db/dfa/classDnsAgentXmpp.html#a639fb84f7df748a508da6c2a0341e18c" title="DnsAgentXmpp::EncodeDnsData" alt="" coords="559,157,793,184"/>
+<area shape="rect" id="node22" href="$d9/d4b/classXmppProto.html#ad1897c522d4173abdbc086e52ac3d46d" title="XmppProto::EncodeMessage" alt="" coords="573,411,779,437"/>
+<area shape="rect" id="node8" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="879,287,1041,329"/>
+<area shape="rect" id="node10" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title="XmppXmlImplFactory\l::GetXmlImpl" alt="" coords="879,353,1041,394"/>
+<area shape="rect" id="node11" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title="XmlBase::LoadDoc" alt="" coords="888,419,1032,445"/>
+<area shape="rect" id="node9" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="1125,287,1296,329"/>
+<area shape="rect" id="node13" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="899,81,1021,108"/>
+<area shape="rect" id="node14" href="$dd/d50/classXmlPugi.html#a38612caa67a5894bd7d634e2b0bd3e4c" title="XmlPugi::SetContext" alt="" coords="882,31,1038,57"/>
+<area shape="rect" id="node21" href="$db/dfa/classDnsAgentXmpp.html#a1e5f133bc37022bad68d7e4b6fe8e6e6" title="DnsAgentXmpp::EncodeDnsItem" alt="" coords="843,157,1077,184"/>
+<area shape="rect" id="node25" href="$d6/d81/classXmppChannel.html#a66dac476634cb503503565a8421c1531" title="XmppChannel::GetPeerState" alt="" coords="573,461,779,488"/>
+<area shape="rect" id="node26" href="$d6/d81/classXmppChannel.html#afdb26525bc6003c2d82cfa0ab64af0c2" title="XmppChannel::Send" alt="" coords="599,512,753,539"/>
+<area shape="rect" id="node27" href="$d5/d06/classAgentDnsXmppChannel.html#a7aa644681ab49b2fdba96d3501544db6" title="AgentDnsXmppChannel\l::WriteReadyCb" alt="" coords="588,563,764,605"/>
+</map>

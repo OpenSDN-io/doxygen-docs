@@ -1,0 +1,9 @@
+<map id="VrfTable::FreeVrfId" name="VrfTable::FreeVrfId">
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="214,5,373,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="199,56,388,83"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title="ResourceManager::Release" alt="" coords="195,107,391,133"/>
+<area shape="rect" id="node8" href="$d6/d34/classIndexVector.html#aa9dfee57934514ce475d5916ac94fdce" title="IndexVector::Remove" alt="" coords="213,157,373,184"/>
+<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="441,41,642,82"/>
+<area shape="rect" id="node6" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title="ResourceTable::FindKeyPtr" alt="" coords="446,107,637,133"/>
+<area shape="rect" id="node7" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title="ResourceTable::ReleaseKey" alt="" coords="442,157,641,184"/>
+</map>

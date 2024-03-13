@@ -1,0 +1,51 @@
+<map id="VxlanRoutingState::VxlanRoutingState" name="VxlanRoutingState::VxlanRoutingState">
+<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1211,1975,1397,2017"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1211,2041,1397,2082"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="949,65,1157,92"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="212,2673,364,2700"/>
+<area shape="rect" id="node8" href="$dc/d5b/classVxlanRoutingManager.html#a15f862e441b5cc8f10502ee8daf1ecc9" title="Handler for changes (new/update/delete) in a route (EVPN or Inet). Main entry point for routes leakin..." alt="" coords="206,1619,370,1661"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1445,1983,1621,2009"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1670,1983,1874,2009"/>
+<area shape="rect" id="node9" href="$dc/d5b/classVxlanRoutingManager.html#a7e3716a93b109950aa422389ae0f2e82" title="Determines whether the pointer to the VRF instance is of bridge type. " alt="" coords="419,1438,583,1479"/>
+<area shape="rect" id="node12" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="992,1924,1115,1951"/>
+<area shape="rect" id="node13" href="$dc/d5b/classVxlanRoutingManager.html#aecd7ebb41ca01d15d2a0fbb4d9181bb2" title="Routes leaking functions. " alt="" coords="419,751,583,793"/>
+<area shape="rect" id="node39" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="419,1337,583,1378"/>
+<area shape="rect" id="node40" href="$dc/d5b/classVxlanRoutingManager.html#a55c2b9f4de04db9c878bf1f5aac4d64a" title="Performs routes leaking between the EVPN table of the routing VRF instance and the Inet table of the ..." alt="" coords="419,1801,583,1842"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="1004,1424,1103,1451"/>
+<area shape="rect" id="node11" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="668,1344,860,1371"/>
+<area shape="rect" id="node14" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="970,835,1137,877"/>
+<area shape="rect" id="node15" href="$d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="647,491,881,533"/>
+<area shape="rect" id="node16" href="$d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="661,106,867,147"/>
+<area shape="rect" id="node21" href="$dc/d5b/classVxlanRoutingManager.html#a0174b6ac1f756bf2aae127d089089d23" title="Finds in the given route the path that was announced using BGPaaS. It is expected that this path has ..." alt="" coords="682,171,846,213"/>
+<area shape="rect" id="node22" href="$dc/d5b/classVxlanRoutingManager.html#acff08a1a564a261cc94449ace40b1442" title="Advertises BGPaaS interface path in the routing VRF instance by selecting corresponding path componen..." alt="" coords="675,1025,853,1066"/>
+<area shape="rect" id="node32" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="970,901,1137,942"/>
+<area shape="rect" id="node33" href="$dc/d5b/classVxlanRoutingManager.html#a3cb078e36f46ce2a8b247c3edc2bcf27" title="Removes redundant VrfNH path from a given route. These routes might arise with small chance in a brid..." alt="" coords="674,907,854,949"/>
+<area shape="rect" id="node36" href="$dc/d5b/classVxlanRoutingManager.html#a91fc61681ab1bbd1d9e1015e6693ba18" title="Handles deletion of a route in the EVPN table of the routing VRF instance. " alt="" coords="647,842,881,883"/>
+<area shape="rect" id="node23" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="952,2041,1155,2068"/>
+<area shape="rect" id="node24" href="$d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="979,550,1127,591"/>
+<area shape="rect" id="node25" href="$dc/d5b/classVxlanRoutingManager.html#afdd9fb189fad02e718336ed07bcfaa37" title="Auxilliary functions. " alt="" coords="964,667,1143,709"/>
+<area shape="rect" id="node37" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="693,288,835,315"/>
+<area shape="rect" id="node38" href="$dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="649,659,879,701"/>
+<area shape="rect" id="node27" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="984,1213,1123,1240"/>
+<area shape="rect" id="node28" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="963,1351,1144,1377"/>
+<area shape="rect" id="node29" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="981,1692,1125,1719"/>
+<area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="970,1569,1137,1610"/>
+<area shape="rect" id="node31" href="$d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="964,733,1143,760"/>
+<area shape="rect" id="node17" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1233,1093,1375,1120"/>
+<area shape="rect" id="node18" href="$d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="963,188,1144,215"/>
+<area shape="rect" id="node20" href="$d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="945,125,1162,152"/>
+<area shape="rect" id="node19" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1229,499,1379,525"/>
+<area shape="rect" id="node26" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="966,1873,1141,1900"/>
+<area shape="rect" id="node34" href="$d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="974,1119,1133,1145"/>
+<area shape="rect" id="node35" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="981,967,1125,993"/>
+<area shape="rect" id="node41" href="$dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="963,2383,1144,2409"/>
+<area shape="rect" id="node42" href="$dc/d5b/classVxlanRoutingManager.html#a4976770256e7ed83b1c179611b08b986" title="Finds in the given route the path with a specified Peer type. " alt="" coords="673,1801,855,1842"/>
+<area shape="rect" id="node43" href="$dc/d5b/classVxlanRoutingManager.html#ad688534aa8a78758c47a5ccde6059e53" title="Advertises an Inet route received using XMPP channel. " alt="" coords="668,2202,860,2243"/>
+<area shape="rect" id="node44" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="963,2143,1143,2169"/>
+<area shape="rect" id="node45" href="$dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f" title="EvpnRouteEntry::GetVmIpPlen" alt="" coords="945,2092,1162,2119"/>
+<area shape="rect" id="node46" href="$dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="682,777,846,818"/>
+<area shape="rect" id="node47" href="$d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="964,1975,1143,2017"/>
+<area shape="rect" id="node48" href="$dc/d5b/classVxlanRoutingManager.html#a0b9f72fec6f5454beb523e3680c75c00" title="Performs advertisement and deletion of routing routes (with VrfNH) in bridge VRF instances. External tunnels and routes with a prefix that is not present in bridge VRF instance are selected for leaking. " alt="" coords="657,1866,871,1907"/>
+<area shape="rect" id="node49" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="662,2033,866,2060"/>
+<area shape="rect" id="node50" href="$dc/d5b/classVxlanRoutingManager.html#afeb52436ef20af0f942c235ca59f5b8d" title="Handles deletion of a route in the Inet table of the routing VRF instance. " alt="" coords="633,2085,895,2126"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="KSyncSock::ReadHandler" name="KSyncSock::ReadHandler">
+<area shape="rect" id="node2" href="$d0/d5a/classKSyncSock.html#a5ee412447e353373d6b01b17901ff5e1" title="KSyncSock::ValidateAndEnqueue" alt="" coords="237,148,472,175"/>
+<area shape="rect" id="node9" href="$d0/d5a/classKSyncSock.html#ad7244cb2c36f7d281bee46d783abdd1c" title="KSyncSock::AsyncReceive" alt="" coords="259,199,450,225"/>
+<area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#a2d96b4ab9c39b0d1470bbe5e8c4214b3" title="KSyncSock::Validate" alt="" coords="552,5,707,32"/>
+<area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html#aaa76aea26dd263d975aa263ca6b0b033" title="KSyncSock::GetReceiveQueue" alt="" coords="521,56,738,83"/>
+<area shape="rect" id="node5" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="545,107,713,149"/>
+<area shape="rect" id="node6" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="545,173,713,214"/>
+<area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#a3bf0550e7f00e90d035c9bb883b1ee3e" title="KSyncSock::GetSeqno" alt="" coords="547,239,711,265"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="549,289,710,316"/>
+</map>

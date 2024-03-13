@@ -1,0 +1,24 @@
+<map id="ConfigEtcdClient::UUIDReader" name="ConfigEtcdClient::UUIDReader">
+<area shape="rect" id="node2" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="299,5,453,32"/>
+<area shape="rect" id="node3" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="297,57,455,98"/>
+<area shape="rect" id="node4" href="$de/d32/classConfigJsonParserBase.html#aa2846393fb1a699190aaebe6a560c180" title="ConfigJsonParserBase\l::ObjectTypeListToRead" alt="" coords="291,122,461,163"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#ac46735883eb81a966da52c0af202e0de" title="ConfigDbClient::GetNumRead\lRequestToBunch" alt="" coords="269,187,483,229"/>
+<area shape="rect" id="node6" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a4a8124ce8addb66b6fa2d80793fcba31" title="etcd::etcdql::EtcdResponse\l::kvmap" alt="" coords="278,253,474,294"/>
+<area shape="rect" id="node7" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a8dbd61d4eb946fd673def46a3e683a4f" title="etcd::etcdql::EtcdResponse\l::err_code" alt="" coords="278,318,474,359"/>
+<area shape="rect" id="node8" href="$d4/db8/classConfigEtcdClient.html#a9538029eb47fe35a00138aade1a3ea25" title="ConfigEtcdClient::Enqueue\lDBSyncRequest" alt="" coords="279,383,473,425"/>
+<area shape="rect" id="node17" href="$d4/db8/classConfigEtcdClient.html#ae25aa184e55a670781804e7af7a24bfd" title="ConfigEtcdClient::Handle\lEtcdConnectionStatus" alt="" coords="285,566,467,607"/>
+<area shape="rect" id="node23" href="$df/dc8/classConfigDbClient.html#a39b7b37ac55517923050eb2f5239d196" title="ConfigDbClient::GetInitRetry\lTimeUSec" alt="" coords="273,501,479,542"/>
+<area shape="rect" id="node16" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title="ConfigEtcdPartition\l::Enqueue" alt="" coords="886,455,1031,497"/>
+<area shape="rect" id="node9" href="$d4/db8/classConfigEtcdClient.html#a59b1ea216d4cd3e462902f5e85c964b9" title="ConfigEtcdClient::Enqueue\lUUIDRequest" alt="" coords="570,358,763,399"/>
+<area shape="rect" id="node10" href="$df/dc8/classConfigDbClient.html#af95a8684d48c13a9f75172b521e53b2a" title="ConfigDbClient::FindFQName" alt="" coords="854,404,1063,431"/>
+<area shape="rect" id="node12" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title="ConfigDbClient::AddFQName\lCache" alt="" coords="855,222,1063,263"/>
+<area shape="rect" id="node13" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title="ConfigDbClient::Invalidate\lFQNameCache" alt="" coords="863,287,1055,329"/>
+<area shape="rect" id="node14" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title="ConfigEtcdClient::GetPartition" alt="" coords="851,353,1066,380"/>
+<area shape="rect" id="node11" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="1115,404,1346,431"/>
+<area shape="rect" id="node15" href="$d4/db8/classConfigEtcdClient.html#a94fb0ace7a6f2d850b2e6760ee923a44" title="ConfigEtcdClient::HashUUID" alt="" coords="1129,353,1333,380"/>
+<area shape="rect" id="node18" href="$df/dc8/classConfigDbClient.html#acdb891297d2d003be4f36a56034ec772" title="ConfigDbClient::UpdateConnectionInfo" alt="" coords="531,632,803,659"/>
+<area shape="rect" id="node20" href="$df/d58/classprocess_1_1ConnectionState.html#aee01aea290e3aa072aed9fe6acac04f6" title="process::ConnectionState\l::GetInstance" alt="" coords="573,566,760,607"/>
+<area shape="rect" id="node22" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title="process::ConnectionState\l::Update" alt="" coords="573,501,760,542"/>
+<area shape="rect" id="node19" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="881,632,1036,659"/>
+<area shape="rect" id="node21" href="$df/d58/classprocess_1_1ConnectionState.html#a16dc4b9616ab7c1c26b51b86ec0d2dbf" title="process::ConnectionState\l::ConnectionState" alt="" coords="865,566,1052,607"/>
+</map>

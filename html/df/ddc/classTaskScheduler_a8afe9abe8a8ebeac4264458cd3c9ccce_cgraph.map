@@ -1,0 +1,32 @@
+<map id="TaskScheduler::EnableTaskEntry" name="TaskScheduler::EnableTaskEntry">
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="TaskScheduler::GetTaskEntry" alt="" coords="251,5,461,32"/>
+<area shape="rect" id="node5" href="$d9/daa/classTaskEntry.html#a20a2d5069246ccdd4802a43477d24c64" title="TaskEntry::SetDisable" alt="" coords="275,56,437,83"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="1027,132,1242,159"/>
+<area shape="rect" id="node6" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="273,157,439,184"/>
+<area shape="rect" id="node7" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="795,275,954,301"/>
+<area shape="rect" id="node8" href="$d9/daa/classTaskEntry.html#aab57d24bf46fe3e747eb3576721594c2" title="TaskEntry::RunDeferEntry" alt="" coords="263,351,449,377"/>
+<area shape="rect" id="node4" href="$d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title="TaskGroup::GetTaskEntry" alt="" coords="524,5,708,32"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1034,464,1235,491"/>
+<area shape="rect" id="node12" href="$d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title="TaskGroup::DeferOnPolicyFail" alt="" coords="509,325,723,352"/>
+<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title="TaskEntry::DeferOnPolicyFail" alt="" coords="513,376,719,403"/>
+<area shape="rect" id="node20" href="$d9/daa/classTaskEntry.html#ac4658b599daa022c59cc1f85f96823a0" title="TaskEntry::RunWaitQ" alt="" coords="539,519,693,545"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1291,435,1507,461"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1555,427,1746,469"/>
+<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title="TaskGroup::ActiveGroupIn\lPolicy" alt="" coords="779,209,970,250"/>
+<area shape="rect" id="node14" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="789,376,960,403"/>
+<area shape="rect" id="node16" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="783,325,966,352"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title="Task::SetState" alt="" coords="1341,485,1456,512"/>
+<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title="TaskEntry::ActiveEntryIn\lPolicy" alt="" coords="785,427,964,469"/>
+<area shape="rect" id="node19" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="786,493,963,520"/>
+<area shape="rect" id="node21" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="771,544,978,571"/>
+<area shape="rect" id="node22" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="TaskEntry::RunTask" alt="" coords="802,645,947,672"/>
+<area shape="rect" id="node23" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1051,645,1218,672"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1039,697,1230,738"/>
+<area shape="rect" id="node25" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1073,763,1196,789"/>
+<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e" title="TaskGroup::TaskStarted" alt="" coords="1047,544,1222,571"/>
+<area shape="rect" id="node27" href="$d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Task::StartTask" alt="" coords="1075,595,1194,621"/>
+<area shape="rect" id="node28" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1320,653,1477,680"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#affc5f7a4873ba5900992e6048488a6a3" title="TaskScheduler::schedule\l_delay" alt="" coords="1308,705,1489,746"/>
+<area shape="rect" id="node30" href="$d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a" title="Task::SetTbbState" alt="" coords="1329,536,1468,563"/>
+<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#a982e4022a634caa0ea0e1f5e2e6413d3" title="TaskScheduler::use\l_spawn" alt="" coords="1325,587,1472,629"/>
+</map>

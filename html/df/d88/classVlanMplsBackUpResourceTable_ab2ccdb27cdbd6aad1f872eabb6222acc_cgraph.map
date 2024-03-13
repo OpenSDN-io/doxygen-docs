@@ -1,0 +1,8 @@
+<map id="VlanMplsBackUpResourceTable::RestoreResource" name="VlanMplsBackUpResourceTable::RestoreResource">
+<area shape="rect" id="node2" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title="StringToUuid" alt="" coords="308,5,412,32"/>
+<area shape="rect" id="node3" href="$d4/d60/classBackUpResourceTable.html#ae3b6fd40b5f96afd841c2ed1f51062b8" title="BackUpResourceTable\l::backup_manager" alt="" coords="509,46,675,87"/>
+<area shape="rect" id="node4" href="$d4/d60/classBackUpResourceTable.html#a5915ded1cf9061a3e8d38c4c59b04ca2" title="BackUpResourceTable\l::EnqueueRestore" alt="" coords="277,110,443,151"/>
+<area shape="rect" id="node5" href="$db/d1b/classResourceBackupManager.html#ad2be7f75dadb5bc7549b730b79043f70" title="ResourceBackupManager\l::resource_manager" alt="" coords="499,111,685,153"/>
+<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a063e80ebc7b4d9c0658cf5a4a8ab0ff7" title="ResourceManager::Enqueue\lRestore" alt="" coords="491,177,693,218"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="742,184,903,211"/>
+</map>

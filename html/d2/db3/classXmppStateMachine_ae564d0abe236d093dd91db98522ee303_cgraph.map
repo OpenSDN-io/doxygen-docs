@@ -1,0 +1,18 @@
+<map id="XmppStateMachine::ResurrectOldConnection" name="XmppStateMachine::ResurrectOldConnection">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title="XmppConnection::server" alt="" coords="863,92,1046,119"/>
+<area shape="rect" id="node3" href="$dd/d43/classXmppServer.html#a95ae202c3be8ef85c166994b3d00274f" title="XmppServer::IsPeerCloseGraceful" alt="" coords="273,69,514,96"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a99ff7dcfd321f2299dccf6649fc3c3fe" title="TcpSession::ToUVEKey" alt="" coords="310,120,477,147"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="317,171,470,197"/>
+<area shape="rect" id="node8" href="$d7/dcc/classXmppConnectionEndpoint.html#aa3feddf908a2bb62311371840c5db71b" title="XmppConnectionEndpoint\l::connection" alt="" coords="298,222,489,263"/>
+<area shape="rect" id="node9" href="$d0/d64/classXmppConnection.html#a912112d5e295c3fa438b6d8631cf9ad8" title="XmppConnection::SwapXmpp\lStateMachine" alt="" coords="286,287,501,329"/>
+<area shape="rect" id="node10" href="$d2/db3/classXmppStateMachine.html#a8f81e77fb345ef7dae21b26332cb025f" title="XmppStateMachine::SwapXmpp\lConnection" alt="" coords="279,353,508,394"/>
+<area shape="rect" id="node13" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="291,419,496,445"/>
+<area shape="rect" id="node14" href="$d5/d13/classXmppSession.html#a77e700009b817a8d97f4656422165adf" title="XmppSession::SetConnection" alt="" coords="287,469,499,496"/>
+<area shape="rect" id="node16" href="$d0/d64/classXmppConnection.html#ad69716f1a60d068527132393b085de9c" title="XmppConnection::Shutdown" alt="" coords="291,520,496,547"/>
+<area shape="rect" id="node4" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title="XmppServer::deleter" alt="" coords="609,69,765,96"/>
+<area shape="rect" id="node5" href="$dd/d43/classXmppServer.html#a488f580469fd1593d9e9898a657a8010" title="XmppServer::IsGRHelperMode\lEnabled" alt="" coords="577,121,796,162"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#a4f2471c01d3644cb972d0abab4602015" title="XmppConnection::SwapContents" alt="" coords="569,288,804,315"/>
+<area shape="rect" id="node12" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="859,288,1050,315"/>
+<area shape="rect" id="node15" href="$d0/d64/classXmppConnection.html#a8691a8b0403256840cf541a3705e6855" title="XmppConnection::GetTaskInstance" alt="" coords="563,469,811,496"/>
+<area shape="rect" id="node17" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="565,520,808,547"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="XmppClientConnection::DeleteActor::Shutdown" name="XmppClientConnection::DeleteActor::Shutdown">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="247,5,438,32"/>
+<area shape="rect" id="node3" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="233,57,452,98"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title="XmppConnection::ChannelMux" alt="" coords="232,123,453,149"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="255,174,430,215"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="240,240,445,267"/>
+<area shape="rect" id="node7" href="$d2/db3/classXmppStateMachine.html#a1b3d77109b2418f01b555f179a1543a5" title="XmppStateMachine::clear\l_session" alt="" coords="249,291,437,333"/>
+<area shape="rect" id="node15" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="249,357,436,384"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="502,189,687,216"/>
+<area shape="rect" id="node10" href="$d5/d13/classXmppSession.html#a8557946a9346d92fdde9f2ed6b543305" title="XmppSession::ClearConnection" alt="" coords="737,269,962,296"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="526,357,663,384"/>
+<area shape="rect" id="node14" href="$d0/d64/classXmppConnection.html#a0193d0f7737159ccec3e8257696f22cc" title="XmppConnection::clear\l_session" alt="" coords="508,291,681,333"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="770,189,929,216"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="756,357,943,384"/>
+<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1011,357,1155,384"/>
+</map>

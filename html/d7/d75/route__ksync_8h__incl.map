@@ -1,0 +1,30 @@
+<map id="route_ksync.h" name="route_ksync.h">
+<area shape="rect" id="node4" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="1313,741,1423,768"/>
+<area shape="rect" id="node7" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="1953,816,2063,843"/>
+<area shape="rect" id="node16" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="1025,659,1196,685"/>
+<area shape="rect" id="node19" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="1424,659,1544,685"/>
+<area shape="rect" id="node22" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="918,576,1071,603"/>
+<area shape="rect" id="node26" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="474,501,635,528"/>
+<area shape="rect" id="node30" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="1374,352,1540,379"/>
+<area shape="rect" id="node31" href="$de/d3f/nexthop_8h.html" title="oper/nexthop.h" alt="" coords="1932,352,2052,379"/>
+<area shape="rect" id="node40" href="$d1/dde/route__common_8h.html" title="oper/route_common.h" alt="" coords="1809,88,1975,115"/>
+<area shape="rect" id="node38" href="$df/db5/agent__route__walker_8h.html" title="oper/agent_route_walker.h" alt="" coords="2451,501,2645,528"/>
+<area shape="rect" id="node50" href="$de/d9c/nexthop__ksync_8h.html" title="vrouter/ksync/nexthop\l_ksync.h" alt="" coords="1115,262,1283,303"/>
+<area shape="rect" id="node13" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1779,891,1869,917"/>
+<area shape="rect" id="node20" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="1639,741,1785,768"/>
+<area shape="rect" id="node21" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="573,741,717,768"/>
+<area shape="rect" id="node28" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="678,576,780,603"/>
+<area shape="rect" id="node29" href="$d6/dbe/ksync__index_8h.html" title="ksync_index.h" alt="" coords="437,576,552,603"/>
+<area shape="rect" id="node34" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="2013,576,2152,603"/>
+<area shape="rect" id="node36" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="2181,427,2371,453"/>
+<area shape="rect" id="node37" href="$da/d21/vrf_8h.html" title="oper/vrf.h" alt="" coords="2022,427,2105,453"/>
+<area shape="rect" id="node39" href="$d4/d7d/ecmp__load__balance_8h.html" title="oper/ecmp_load_balance.h" alt="" coords="2569,741,2764,768"/>
+<area shape="rect" id="node41" href="$de/d12/peer_8h.html" title="oper/peer.h" alt="" coords="2721,427,2815,453"/>
+<area shape="rect" id="node42" href="$de/d30/agent__route_8h.html" title="oper/agent_route.h" alt="" coords="2386,269,2531,296"/>
+<area shape="rect" id="node43" href="$d6/dc5/agent__path_8h.html" title="oper/agent_path.h" alt="" coords="1942,179,2081,205"/>
+<area shape="rect" id="node45" href="$d4/d94/inet__unicast__route_8h.html" title="oper/inet_unicast_route.h" alt="" coords="1475,179,1661,205"/>
+<area shape="rect" id="node46" href="$de/dd9/inet4__multicast__route_8h.html" title="oper/inet4_multicast\l_route.h" alt="" coords="1686,171,1841,213"/>
+<area shape="rect" id="node47" href="$dc/dd6/vnsw_2agent_2oper_2evpn__route_8h.html" title="oper/evpn_route.h" alt="" coords="2158,179,2297,205"/>
+<area shape="rect" id="node48" href="$d4/d3b/bridge__route_8h.html" title="oper/bridge_route.h" alt="" coords="2323,179,2472,205"/>
+<area shape="rect" id="node44" href="$d0/d9a/mpls_8h.html" title="oper/mpls.h" alt="" coords="1753,269,1852,296"/>
+</map>

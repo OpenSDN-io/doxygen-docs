@@ -1,0 +1,13 @@
+<map id="KSyncSock::TryAddToBulk" name="KSyncSock::TryAddToBulk">
+<area shape="rect" id="node2" href="$d9/d95/classIoContext.html#ad0948ddef9bfcf9b6aba8d25bed1512c" title="IoContext::GetMsgLen" alt="" coords="244,5,409,32"/>
+<area shape="rect" id="node3" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="243,57,411,98"/>
+<area shape="rect" id="node4" href="$d9/d95/classIoContext.html#aae579dbf9abba8bafdc61e10492b649a" title="IoContext::type" alt="" coords="265,123,388,149"/>
+<area shape="rect" id="node5" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="243,174,411,215"/>
+<area shape="rect" id="node6" href="$d9/d95/classIoContext.html#a79af1c557507310e04d28ff968975794" title="IoContext::index" alt="" coords="262,240,391,267"/>
+<area shape="rect" id="node7" href="$d5/d52/classKSyncBulkMsgContext.html#a4f3ceeccecfe37f9bacbf3c54a324c92" title="KSyncBulkMsgContext\l::Insert" alt="" coords="243,291,411,333"/>
+<area shape="rect" id="node8" href="$d9/d95/classIoContext.html#aa3dbd88c5664508f7b819ccd1ec3e043" title="IoContext::rx_buffer1" alt="" coords="247,357,406,384"/>
+<area shape="rect" id="node9" href="$d5/d52/classKSyncBulkMsgContext.html#aeab6c177f1756dbb0c6758833193928b" title="KSyncBulkMsgContext\l::AddReceiveBuffer" alt="" coords="243,409,411,450"/>
+<area shape="rect" id="node10" href="$d9/d95/classIoContext.html#a94963e3df472a62403f530db27c1440f" title="IoContext::reset_rx\l_buffer1" alt="" coords="253,474,400,515"/>
+<area shape="rect" id="node11" href="$d9/d95/classIoContext.html#a7ef544b898bf0eb0f6dd59eae9973498" title="IoContext::rx_buffer2" alt="" coords="247,540,406,567"/>
+<area shape="rect" id="node12" href="$d9/d95/classIoContext.html#a7673738acf7cf860279291f70a80859f" title="IoContext::reset_rx\l_buffer2" alt="" coords="253,591,400,633"/>
+</map>

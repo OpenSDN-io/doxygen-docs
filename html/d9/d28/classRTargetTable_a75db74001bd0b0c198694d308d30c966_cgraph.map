@@ -1,0 +1,11 @@
+<map id="RTargetTable::CreateTable" name="RTargetTable::CreateTable">
+<area shape="rect" id="node2" href="$d9/d28/classRTargetTable.html#a36604e66eaf1fa36085c68345be139a5" title="RTargetTable::RTargetTable" alt="" coords="243,16,437,43"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#a46babd1782d3a7882e2cf1f5860e0751" title="DBTable::Init" alt="" coords="288,67,392,93"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a81fe2a0217ca6141017066158d37bad4" title="DBTable::PartitionCount" alt="" coords="486,41,661,68"/>
+<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#a7e6305b56f5f8f9cd3e81a2afade21eb" title="DBTable::AllocPartition" alt="" coords="489,92,658,119"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="709,41,851,68"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="914,12,1115,39"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="899,63,1130,105"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1179,12,1395,39"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1443,5,1634,46"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="VxlanRoutingManager::XmppAdvertiseInetRoute" name="VxlanRoutingManager::XmppAdvertiseInetRoute">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="289,5,415,32"/>
+<area shape="rect" id="node3" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="253,56,451,83"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="263,107,441,149"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="771,173,920,200"/>
+<area shape="rect" id="node10" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1029,115,1169,141"/>
+<area shape="rect" id="node11" href="$dc/d5b/classVxlanRoutingManager.html#a6901e2b581634eee85dfa546d4d4c284" title="Advertises in the Inet table a tunnel route that arrived via XMPP channel. Must be called only from X..." alt="" coords="253,541,451,582"/>
+<area shape="rect" id="node12" href="$dc/d5b/classVxlanRoutingManager.html#a1c4ba4b4cbac3dca375b08751d1c85a3" title="Advertises in the Inet table an interface route that arrived via XMPP channel. Must be called only fr..." alt="" coords="245,460,459,516"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="515,42,701,83"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="515,107,701,149"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="757,57,933,84"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="997,57,1201,84"/>
+<area shape="rect" id="node13" href="$dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="526,333,690,374"/>
+<area shape="rect" id="node37" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="521,399,695,425"/>
+<area shape="rect" id="node38" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="539,449,677,476"/>
+<area shape="rect" id="node39" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="517,500,699,527"/>
+<area shape="rect" id="node40" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="536,551,680,577"/>
+<area shape="rect" id="node41" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="507,601,709,628"/>
+<area shape="rect" id="node42" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="525,653,691,694"/>
+<area shape="rect" id="node43" href="$d4/d3d/classAgentPath.html#ab3104cab78ad124c96ddb77fecc9fdc8" title="AgentPath::peer_sequence\l_number" alt="" coords="511,718,705,759"/>
+<area shape="rect" id="node14" href="$d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="771,275,919,301"/>
+<area shape="rect" id="node18" href="$dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="1020,333,1177,374"/>
+<area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1027,516,1171,543"/>
+<area shape="rect" id="node20" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="789,496,901,523"/>
+<area shape="rect" id="node21" href="$dc/d5b/classVxlanRoutingManager.html#a5760a22e024f7f386178454bc2fd5cc9" title="Finds first occurence of a route with the given prefix (IP address and length) in Inet tables of brid..." alt="" coords="763,585,927,626"/>
+<area shape="rect" id="node27" href="$d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="768,395,923,421"/>
+<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="982,165,1215,192"/>
+<area shape="rect" id="node16" href="$d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="1023,267,1174,309"/>
+<area shape="rect" id="node17" href="$d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="1292,245,1455,272"/>
+<area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="1049,567,1148,593"/>
+<area shape="rect" id="node23" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="997,617,1201,644"/>
+<area shape="rect" id="node24" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="1016,669,1181,710"/>
+<area shape="rect" id="node25" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="1283,651,1463,677"/>
+<area shape="rect" id="node26" href="$dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f" title="EvpnRouteEntry::GetVmIpPlen" alt="" coords="1265,701,1482,728"/>
+<area shape="rect" id="node28" href="$d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="1030,399,1167,425"/>
+<area shape="rect" id="node29" href="$de/d8b/classEvpnAgentRouteTable.html#ac63a1360b0d6c246e8d8a96fd623397a" title="EvpnAgentRouteTable\l::AddType5Route" alt="" coords="1017,450,1180,491"/>
+<area shape="rect" id="node30" href="$de/d8b/classEvpnAgentRouteTable.html#ad66d3730d31a25bfaf328d6999aa6874" title="EvpnAgentRouteTable\l::ComputeHostIpPlen" alt="" coords="1292,421,1455,462"/>
+<area shape="rect" id="node31" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="1301,487,1445,513"/>
+<area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="1544,450,1688,491"/>
+<area shape="rect" id="node33" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="1531,516,1701,543"/>
+<area shape="rect" id="node34" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1749,465,1976,492"/>
+<area shape="rect" id="node35" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1799,516,1926,543"/>
+<area shape="rect" id="node36" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1775,567,1951,593"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RoutingInstance::AddTable" name="RoutingInstance::AddTable">
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="267,5,419,32"/>
+<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title="BgpTable::family" alt="" coords="277,56,408,83"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a160a74b3cb6749e4f894a783f7fd0cdc" title="BgpTable::set_routing\l_instance" alt="" coords="261,107,424,149"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#a90058d4fa0cf17d9da65d695e3413ef6" title="RoutingInstance::GetData\lCollection" alt="" coords="249,173,437,214"/>
+<area shape="rect" id="node11" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title="Address::FamilyToString" alt="" coords="254,239,431,265"/>
+<area shape="rect" id="node5" href="$d6/d09/classLifetimeRefBase.html#a4bc5e40c2614d1417411442d99447e75" title="LifetimeRefBase::Reset" alt="" coords="499,67,672,93"/>
+<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#ada7ddc5bfb1bffc371a024b00196a5ec" title="RoutingInstance::deleter" alt="" coords="495,117,675,144"/>
+<area shape="rect" id="node6" href="$d2/db8/classDependencyRef.html#a0b849af3b740b9e111d17f21589a25bf" title="DependencyRef::reset" alt="" coords="733,67,899,93"/>
+<area shape="rect" id="node9" href="$de/ddf/classRoutingInstance.html#a37e0385c3de8bc8ca5eed32de4675af6" title="RoutingInstance::GetVirtual\lNetworkName" alt="" coords="485,170,685,211"/>
+<area shape="rect" id="node10" href="$db/d26/classBgpServer.html#afa305a0016cb5e62351503f0d1a2a007" title="BgpServer::localname" alt="" coords="503,236,668,263"/>
+</map>

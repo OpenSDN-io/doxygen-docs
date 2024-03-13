@@ -1,0 +1,17 @@
+<map id="OVSDB::MulticastMacLocalEntry::UnresolvedReference" name="OVSDB::MulticastMacLocalEntry::UnresolvedReference">
+<area shape="rect" id="node2" href="$de/d58/classOVSDB_1_1MulticastMacLocalEntry.html#a722df0ea194f58d834009572ade50378" title="OVSDB::MulticastMacLocal\lEntry::GetVnEntry" alt="" coords="256,129,451,170"/>
+<area shape="rect" id="node13" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title="KSyncEntry::IsResolved" alt="" coords="267,263,440,289"/>
+<area shape="rect" id="node3" href="$d7/dc5/classOVSDB_1_1OvsdbObject.html#a74022c594b5da9029daaba6e8aefb6a8" title="OVSDB::OvsdbObject\l::client_idl" alt="" coords="522,5,681,46"/>
+<area shape="rect" id="node4" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html#ab7425d4397ccc42fe1fc17a7e4945357" title="OVSDB::OvsdbClientIdl\l::vn_ovsdb" alt="" coords="516,70,687,111"/>
+<area shape="rect" id="node5" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title="StringToUuid" alt="" coords="549,136,653,163"/>
+<area shape="rect" id="node6" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="501,187,701,213"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="775,136,913,163"/>
+<area shape="rect" id="node8" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="752,187,936,213"/>
+<area shape="rect" id="node12" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="765,237,923,264"/>
+<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="999,136,1143,163"/>
+<area shape="rect" id="node10" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="985,187,1157,213"/>
+<area shape="rect" id="node11" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="991,237,1151,264"/>
+<area shape="rect" id="node14" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title="KSyncEntry::GetObject" alt="" coords="517,237,685,264"/>
+<area shape="rect" id="node15" href="$d6/d2d/classKSyncObject.html#a2f893c3672cfca8f7e3c83b84d98d608" title="KSyncObject::IsIndexValid" alt="" coords="506,288,697,315"/>
+<area shape="rect" id="node16" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title="KSyncEntry::IsDataResolved" alt="" coords="499,339,703,365"/>
+</map>

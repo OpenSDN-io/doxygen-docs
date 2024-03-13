@@ -1,0 +1,29 @@
+<map id="interface_stats_io_context.h" name="interface_stats_io_context.h">
+<area shape="rect" id="node2" href="$d0/d9e/agent__stats__sandesh__context_8h.html" title="vrouter/stats_collector\l/agent_stats_sandesh_context.h" alt="" coords="3314,97,3544,138"/>
+<area shape="rect" id="node3" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="698,493,768,520"/>
+<area shape="rect" id="node9" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="1728,336,1867,363"/>
+<area shape="rect" id="node36" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="1527,187,1716,213"/>
+<area shape="rect" id="node37" href="$d4/da9/interface_8h.html" title="oper/interface.h" alt="" coords="1659,261,1784,288"/>
+<area shape="rect" id="node38" href="$de/db1/mirror__table_8h.html" title="oper/mirror_table.h" alt="" coords="2504,261,2651,288"/>
+<area shape="rect" id="node39" href="$d6/dbe/ksync__index_8h.html" title="ksync/ksync_index.h" alt="" coords="3329,411,3487,437"/>
+<area shape="rect" id="node40" href="$d1/d34/ksync__entry_8h.html" title="ksync/ksync_entry.h" alt="" coords="3101,411,3253,437"/>
+<area shape="rect" id="node41" href="$d9/d23/ksync__object_8h.html" title="ksync/ksync_object.h" alt="" coords="3097,336,3257,363"/>
+<area shape="rect" id="node42" href="$d0/d19/ksync__netlink_8h.html" title="ksync/ksync_netlink.h" alt="" coords="2827,651,2993,677"/>
+<area shape="rect" id="node43" href="$d3/df3/ksync__sock_8h.html" title="ksync/ksync_sock.h" alt="" coords="3467,336,3617,363"/>
+<area shape="rect" id="node50" href="$d6/d36/stats__manager_8h.html" title="uve/stats_manager.h" alt="" coords="1793,187,1951,213"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="2320,725,2411,752"/>
+<area shape="rect" id="node20" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="2499,576,2649,603"/>
+<area shape="rect" id="node21" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="2315,576,2424,603"/>
+<area shape="rect" id="node22" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="2310,651,2420,677"/>
+<area shape="rect" id="node23" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="2017,493,2188,520"/>
+<area shape="rect" id="node24" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="2281,411,2441,437"/>
+<area shape="rect" id="node26" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2137,411,2257,437"/>
+<area shape="rect" id="node25" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="1493,493,1611,520"/>
+<area shape="rect" id="node27" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="949,493,1045,520"/>
+<area shape="rect" id="node28" href="$de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="375,651,521,677"/>
+<area shape="rect" id="node29" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="763,411,944,437"/>
+<area shape="rect" id="node30" href="$df/dcd/dependency_8h.html" title="base/dependency.h" alt="" coords="2791,576,2937,603"/>
+<area shape="rect" id="node31" href="$dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="2868,493,2988,520"/>
+<area shape="rect" id="node32" href="$dc/ddd/ifmap__agent__parser_8h.html" title="ifmap/ifmap_agent_parser.h" alt="" coords="533,411,739,437"/>
+<area shape="rect" id="node33" href="$d7/d08/ifmap__agent__table_8h.html" title="ifmap/ifmap_agent_table.h" alt="" coords="1121,411,1319,437"/>
+</map>

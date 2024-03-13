@@ -1,0 +1,22 @@
+<map id="BgpUpdateSender::Join" name="BgpUpdateSender::Join">
+<area shape="rect" id="node2" href="$d2/d48/classBgpUpdateSender.html#a37f00e7cfc9fa00d69235a0c7288e6da" title="BgpUpdateSender::partition" alt="" coords="224,37,427,64"/>
+<area shape="rect" id="node3" href="$d7/d93/classBgpSenderPartition.html#a5de1676cbcc164b268cef54472a2b401" title="BgpSenderPartition::Add" alt="" coords="236,88,415,115"/>
+<area shape="rect" id="node4" href="$d6/dfd/classIndexMap.html#a4df9c1eb0e8265c460b30ce13418d7e0" title="IndexMap::Locate" alt="" coords="480,29,616,56"/>
+<area shape="rect" id="node5" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a4bd264cfc3d6f074b464b53c5e276d7a" title="BgpSenderPartition\l::RibState::Add" alt="" coords="475,81,621,122"/>
+<area shape="rect" id="node10" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#afc870e1949135d8d57a2c66a1660e7b6" title="BgpSenderPartition\l::PeerState::Add" alt="" coords="475,146,621,187"/>
+<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="698,31,787,57"/>
+<area shape="rect" id="node9" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ab2c54361f631555b595e2b0b9ce8e8e5" title="BgpSenderPartition\l::PeerState::index" alt="" coords="669,82,816,123"/>
+<area shape="rect" id="node7" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="882,5,982,32"/>
+<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="881,56,983,83"/>
+<area shape="rect" id="node11" href="$d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0" title="bgp_log_test::init" alt="" coords="675,151,810,177"/>
+<area shape="rect" id="node21" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#ad0025af56e73814bfad1633f23f4128e" title="BgpSenderPartition\l::RibState::index" alt="" coords="669,202,816,243"/>
+<area shape="rect" id="node12" href="$d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac" title="LoggingInit" alt="" coords="885,131,979,157"/>
+<area shape="rect" id="node15" href="$d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad" title="bgp_log_test::init\l_common" alt="" coords="865,229,999,270"/>
+<area shape="rect" id="node13" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title="CheckEnvironmentAndUpdate" alt="" coords="1049,107,1266,133"/>
+<area shape="rect" id="node14" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title="SetLoggingDisabled" alt="" coords="1315,145,1466,172"/>
+<area shape="rect" id="node16" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title="Sandesh::SetLoggingParams" alt="" coords="1055,208,1260,235"/>
+<area shape="rect" id="node18" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="1064,309,1251,336"/>
+<area shape="rect" id="node19" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title="Sandesh::SetLoggingCategory" alt="" coords="1049,360,1265,387"/>
+<area shape="rect" id="node20" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title="Sandesh::SetLoggingLevel" alt="" coords="1061,259,1253,285"/>
+<area shape="rect" id="node17" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title="SetLoggingLevel" alt="" coords="1326,221,1455,248"/>
+</map>

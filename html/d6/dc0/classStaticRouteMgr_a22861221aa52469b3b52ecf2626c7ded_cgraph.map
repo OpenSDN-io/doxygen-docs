@@ -1,0 +1,9 @@
+<map id="StaticRouteMgr::GetDownRouteCount" name="StaticRouteMgr::GetDownRouteCount">
+<area shape="rect" id="node2" href="$d0/d2a/classStaticRoute.html#a282911a5f944ef9b69883d9e1bb701ee" title="StaticRoute::IsPending" alt="" coords="281,57,447,84"/>
+<area shape="rect" id="node3" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="496,19,659,45"/>
+<area shape="rect" id="node5" href="$d6/dbd/classBgpRoute.html#a9f587c7b9dc8533a317b1bb3e2274f7e" title="BgpRoute::FindPath" alt="" coords="504,95,651,121"/>
+<area shape="rect" id="node4" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="707,5,920,32"/>
+<area shape="rect" id="node6" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="743,56,884,83"/>
+<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="743,107,883,133"/>
+<area shape="rect" id="node8" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="738,157,889,184"/>
+</map>

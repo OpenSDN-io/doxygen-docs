@@ -1,0 +1,12 @@
+<map id="VxlanRoutingManager::FindInterfacePathWithBgpPeer" name="VxlanRoutingManager::FindInterfacePathWithBgpPeer">
+<area shape="rect" id="node2" href="$dc/d5b/classVxlanRoutingManager.html#ab4b9e903ef648762af9b197f566ad592" title="Finds in the given route the path with the given Peer type and interface nexthop (InterfaceNH). " alt="" coords="281,125,519,166"/>
+<area shape="rect" id="node3" href="$dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="569,117,775,173"/>
+<area shape="rect" id="node4" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="868,5,1009,32"/>
+<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="864,56,1013,83"/>
+<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="876,107,1001,133"/>
+<area shape="rect" id="node7" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="883,157,995,184"/>
+<area shape="rect" id="node8" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1158,208,1298,235"/>
+<area shape="rect" id="node9" href="$d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="825,259,1053,285"/>
+<area shape="rect" id="node10" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1101,259,1355,285"/>
+<area shape="rect" id="node11" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="1147,309,1309,336"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="setsock" name="setsock">
+<area shape="rect" id="node2" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="126,16,306,43"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a37a972d720285215ebe82f157689ed60" title="TcpSession::IsClosed" alt="" coords="138,67,294,93"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="144,117,288,144"/>
+<area shape="rect" id="node5" href="$df/dbf/http__curl_8cc.html#a6e390e1a5ab4a66b0c288415c5a3e870" title="event_cb" alt="" coords="175,168,257,195"/>
+<area shape="rect" id="node6" href="$d4/d6e/classHttpClient.html#a8e473b2263ef2cdc24dce2f48eee1c52" title="HttpClient::ProcessEvent" alt="" coords="355,129,538,156"/>
+<area shape="rect" id="node8" href="$df/dbf/http__curl_8cc.html#a74656c1e20a5947be487a8d32a7ae2f5" title="event_cb_impl" alt="" coords="388,205,505,232"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="595,104,757,131"/>
+<area shape="rect" id="node9" href="$d4/d6e/classHttpClient.html#af27bd2df2a390dc0518a4697b531c706" title="HttpClient::IsErrorHard" alt="" coords="591,155,761,181"/>
+<area shape="rect" id="node11" href="$df/dbf/http__curl_8cc.html#ab5677b2a98dc2ac8558512f9d16c4b66" title="mcode_or_die" alt="" coords="619,205,733,232"/>
+<area shape="rect" id="node12" href="$df/dbf/http__curl_8cc.html#a7f0b2b5750e0480de401cb1616b31696" title="check_multi_info" alt="" coords="609,256,743,283"/>
+<area shape="rect" id="node14" href="$d4/d6e/classHttpClient.html#ab5b3495a561d02016feceebb89a9f524" title="HttpClient::CancelTimer" alt="" coords="587,307,765,333"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a1b86295e9dc19c139a1c44b4fa015dd8" title="TcpSession::IsSocketErrorHard" alt="" coords="813,155,1032,181"/>
+<area shape="rect" id="node13" href="$d3/de9/classHttpConnection.html#a246bb9b842c4a9ed4ab726e402945c37" title="HttpConnection::HttpClientCb" alt="" coords="815,256,1030,283"/>
+<area shape="rect" id="node15" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="867,307,979,333"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1081,121,1282,148"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1098,307,1265,333"/>
+<area shape="rect" id="node32" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1120,357,1243,384"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1332,12,1548,39"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1602,5,1793,46"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1345,63,1535,105"/>
+<area shape="rect" id="node23" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1379,129,1501,156"/>
+<area shape="rect" id="node24" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1357,180,1523,207"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1602,173,1793,214"/>
+<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1361,281,1519,308"/>
+<area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1337,332,1543,359"/>
+<area shape="rect" id="node27" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1331,383,1549,409"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1333,433,1547,460"/>
+<area shape="rect" id="node29" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1360,484,1520,511"/>
+<area shape="rect" id="node30" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1349,535,1531,561"/>
+<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1351,585,1529,612"/>
+<area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1597,71,1797,97"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NextHopTable::OnChange" name="NextHopTable::OnChange">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="250,5,427,32"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="243,56,435,83"/>
+<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#ab4ed06c50a90c862dcf5d859ee8feea7" title="NextHop::Change" alt="" coords="271,107,407,133"/>
+<area shape="rect" id="node5" href="$d4/dec/classNextHop.html#a406ff359be9fb38bab1e8e334d9a429b" title="NextHop::ChangeEntry" alt="" coords="253,157,424,184"/>
+<area shape="rect" id="node6" href="$d4/dec/classNextHop.html#af53dfdb1533efb31004639c8815df180" title="NextHop::SendObjectLog" alt="" coords="247,208,431,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BgpXmppChannelManager::~BgpXmppChannelManager" name="BgpXmppChannelManager::~BgpXmppChannelManager">
+<area shape="rect" id="node2" href="$dd/d43/classXmppServer.html#a93abfa61f79b1834b1e9f038ec694efa" title="XmppServer::UnRegisterConnection\lEvent" alt="" coords="267,5,522,46"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a6749fce09b480760e1313b900a1938c0" title="WorkQueue::Shutdown" alt="" coords="310,71,479,97"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a3791f42f287a160ddedd2020de714636" title="BgpServer::UnregisterAdmin\lDownCallback" alt="" coords="291,122,498,163"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#a746c85fe658cccdc727a310911cc5c49" title="BgpServer::UnregisterASNUpdate\lCallback" alt="" coords="275,187,514,229"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="323,253,466,294"/>
+<area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a923583791d0bc58f3eac0780998aa50c" title="RoutingInstanceMgr\l::UnregisterInstanceOpCallback" alt="" coords="281,318,508,359"/>
+<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a9183a30ae0fa57c309ee4fd8aa2e7709" title="BgpServer::UnregisterDSCPUpdate\lCallback" alt="" coords="271,383,518,425"/>
+</map>

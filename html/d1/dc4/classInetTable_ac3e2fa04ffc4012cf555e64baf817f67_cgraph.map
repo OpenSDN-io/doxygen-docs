@@ -1,0 +1,35 @@
+<map id="InetTable::UpdateRoute" name="InetTable::UpdateRoute">
+<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="500,327,697,353"/>
+<area shape="rect" id="node3" href="$df/d24/classInetVpnPrefix.html#a9ee5a4668ad0a230f36b4b3230ff961c" title="InetVpnPrefix::addr" alt="" coords="253,117,400,144"/>
+<area shape="rect" id="node4" href="$df/d24/classInetVpnPrefix.html#a9aa7aab317e938cc6456b2371e811849" title="InetVpnPrefix::prefixlen" alt="" coords="239,168,414,195"/>
+<area shape="rect" id="node5" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="229,67,424,93"/>
+<area shape="rect" id="node13" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="231,269,422,296"/>
+<area shape="rect" id="node14" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="239,320,415,347"/>
+<area shape="rect" id="node15" href="$d1/dc4/classInetTable.html#a9f5cd1fbb319922e5f0f7acad4488e0e" title="InetTable::TableFind" alt="" coords="252,219,401,245"/>
+<area shape="rect" id="node18" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="261,421,392,448"/>
+<area shape="rect" id="node19" href="$df/d24/classInetVpnPrefix.html#a41936d4893567d9da583f4915cb7ed4f" title="InetVpnPrefix::route\l_distinguisher" alt="" coords="251,473,402,514"/>
+<area shape="rect" id="node20" href="$d1/dc4/classInetTable.html#a561fb8f3d4ae018feca8fc0f9d78e5fd" title="InetTable::UpdateAttributes" alt="" coords="227,539,427,565"/>
+<area shape="rect" id="node33" href="$d7/d0c/classBgpPath.html#a30771ce924ae11153ed73b80c9b001c0" title="BgpPath::SetAttr" alt="" coords="263,589,391,616"/>
+<area shape="rect" id="node34" href="$d7/d0c/classBgpPath.html#ab8d990940f9a33f781dd1a7ca34ec9d9" title="BgpPath::GetOriginalAttr" alt="" coords="236,640,417,667"/>
+<area shape="rect" id="node6" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="537,41,660,68"/>
+<area shape="rect" id="node12" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="541,92,657,119"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="841,41,983,68"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1117,71,1318,97"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1102,5,1333,46"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1381,71,1597,97"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1646,63,1837,105"/>
+<area shape="rect" id="node16" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="517,219,680,245"/>
+<area shape="rect" id="node17" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="805,219,1019,245"/>
+<area shape="rect" id="node21" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="533,627,664,653"/>
+<area shape="rect" id="node22" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="825,656,999,683"/>
+<area shape="rect" id="node23" href="$da/d36/classExtCommunity.html#aa7a1660cc0a873c71dbaf9abf4364769" title="ExtCommunity::is_origin_vn" alt="" coords="1115,575,1319,601"/>
+<area shape="rect" id="node24" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title="BgpServer::extcomm_db" alt="" coords="507,779,690,805"/>
+<area shape="rect" id="node25" href="$d2/ddb/classExtCommunityDB.html#aeee37a16f9de61d22d55623e442bd633" title="ExtCommunityDB::RemoveOrigin\lVnAndLocate" alt="" coords="479,443,718,485"/>
+<area shape="rect" id="node28" href="$d2/ddb/classExtCommunityDB.html#adabed51b1c1bb5fcadf1a311beb63a88" title="ExtCommunityDB::ReplaceOrigin\lVnAndLocate" alt="" coords="481,378,717,419"/>
+<area shape="rect" id="node30" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="527,509,670,536"/>
+<area shape="rect" id="node31" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title="BgpAttrDB::ReplaceExtCommunity\lAndLocate" alt="" coords="475,561,722,602"/>
+<area shape="rect" id="node26" href="$da/d36/classExtCommunity.html#a66540db4218b1ab16d55edac9866486d" title="ExtCommunity::RemoveOriginVn" alt="" coords="795,429,1029,456"/>
+<area shape="rect" id="node27" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; ExtCommunity, ExtCommunity\lPtr, ExtCommunitySpec, ExtCommunity\lCompare, ExtCommunityDB \&gt;::Locate" alt="" coords="771,481,1053,551"/>
+<area shape="rect" id="node29" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title="ExtCommunity::Append" alt="" coords="825,379,999,405"/>
+<area shape="rect" id="node32" href="$d5/dcf/classBgpAttr.html#ad3d046d381285d8c5e284616b2805c1b" title="BgpAttr::set_ext_community" alt="" coords="808,576,1016,603"/>
+</map>

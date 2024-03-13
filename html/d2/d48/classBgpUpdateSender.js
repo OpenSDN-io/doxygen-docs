@@ -1,0 +1,25 @@
+var classBgpUpdateSender =
+[
+    [ "BgpUpdateSender", "d2/d48/classBgpUpdateSender.html#ac4a4b680038c8452e656f142e1cd1395", null ],
+    [ "~BgpUpdateSender", "d2/d48/classBgpUpdateSender.html#a4298479b214b416c80669094301c3657", null ],
+    [ "CheckInvariants", "d2/d48/classBgpUpdateSender.html#a13120f60f3827da49330bcfd6725fdba", null ],
+    [ "DisableProcessing", "d2/d48/classBgpUpdateSender.html#afe54d06d168cb957b142c5825924690b", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "d2/d48/classBgpUpdateSender.html#a80c5bc3d435fd270da61e2d261a9889b", null ],
+    [ "EnableProcessing", "d2/d48/classBgpUpdateSender.html#a7421f914ed0c09c8c105774b371d0e6d", null ],
+    [ "Join", "d2/d48/classBgpUpdateSender.html#a86b320514f3a75f76a0c0d38f209380a", null ],
+    [ "Leave", "d2/d48/classBgpUpdateSender.html#a21524f07883ce0fbc2704d133e3a73ff", null ],
+    [ "partition", "d2/d48/classBgpUpdateSender.html#a37f00e7cfc9fa00d69235a0c7288e6da", null ],
+    [ "PeerInSync", "d2/d48/classBgpUpdateSender.html#a8ee510cb7f916545b7e983b7fccabeab", null ],
+    [ "PeerIsRegistered", "d2/d48/classBgpUpdateSender.html#ad8d9897f45a08a0395700a0f69078992", null ],
+    [ "PeerSendReady", "d2/d48/classBgpUpdateSender.html#afd67edc17ed5ea7d035df9fcaf1b91e7", null ],
+    [ "RibOutActive", "d2/d48/classBgpUpdateSender.html#aa6d1eee80928fdd17635cb86284a7493", null ],
+    [ "SendReadyCallback", "d2/d48/classBgpUpdateSender.html#a91e6dfee7069f118e2db749246ea0bd4", null ],
+    [ "task_id", "d2/d48/classBgpUpdateSender.html#ac026bbc63c0c11682f4b8547499be652", null ],
+    [ "BgpTestPeer", "d2/d48/classBgpUpdateSender.html#a565e2b87642569363498c8cf1d221462", null ],
+    [ "BgpUpdateSenderTest", "d2/d48/classBgpUpdateSender.html#a0af01c0462253ecf2acec6cb14813fe1", null ],
+    [ "RibOutUpdatesTest", "d2/d48/classBgpUpdateSender.html#a6c7cc6e91e4eb7b72af91debed900f17", null ],
+    [ "partitions_", "d2/d48/classBgpUpdateSender.html#ad3b28971528b6878a05d7feda5c9784f", null ],
+    [ "send_ready_queue_", "d2/d48/classBgpUpdateSender.html#acf0b41cd7632c5332bd550ea4a67cd11", null ],
+    [ "server_", "d2/d48/classBgpUpdateSender.html#ad1e7aab4fa47c2655bbea00713e01a97", null ],
+    [ "task_id_", "d2/d48/classBgpUpdateSender.html#a56a2c7208f205e665c04394a5adcba9b", null ]
+];

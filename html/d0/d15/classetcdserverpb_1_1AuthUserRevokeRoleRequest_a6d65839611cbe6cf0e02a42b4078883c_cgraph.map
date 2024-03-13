@@ -1,0 +1,8 @@
+<map id="etcdserverpb::AuthUserRevokeRoleRequest::New" name="etcdserverpb::AuthUserRevokeRoleRequest::New">
+<area shape="rect" id="node2" href="$d0/d15/classetcdserverpb_1_1AuthUserRevokeRoleRequest.html#aa9c707651faaa8c90abfc782f67cfdea" title="etcdserverpb::AuthUserRevoke\lRoleRequest::AuthUserRevokeRole\lRequest" alt="" coords="278,85,525,141"/>
+<area shape="rect" id="node3" href="$d0/d15/classetcdserverpb_1_1AuthUserRevokeRoleRequest.html#ad83952610740b53b32a4599f0f3a9040" title="etcdserverpb::AuthUserRevoke\lRoleRequest::internal_default\l_instance" alt="" coords="574,5,797,61"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a16153e20d630c11607f84e93a5782f60" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleRequest" alt="" coords="578,85,793,141"/>
+<area shape="rect" id="node7" href="$d0/d15/classetcdserverpb_1_1AuthUserRevokeRoleRequest.html#ad0980fedde4bf318a0bbb28e21729e69" title="etcdserverpb::AuthUserRevoke\lRoleRequest::SharedCtor" alt="" coords="574,166,797,207"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a67cacd89dbabb34c17d3654317ca12b0" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleRequestImpl" alt="" coords="846,85,1061,141"/>
+<area shape="rect" id="node6" href="$d0/d15/classetcdserverpb_1_1AuthUserRevokeRoleRequest.html#a63d7dc8cdc7be78c9943f5ca50f4f9f3" title="etcdserverpb::AuthUserRevoke\lRoleRequest::InitAsDefaultInstance" alt="" coords="1109,93,1360,134"/>
+</map>

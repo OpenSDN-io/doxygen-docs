@@ -1,0 +1,34 @@
+<map id="BgpXmppPeerClose" name="BgpXmppPeerClose">
+<area shape="rect" id="node2" href="$da/d00/classIPeerClose.html" title="IPeerClose" alt="" coords="2555,1680,2645,1707"/>
+<area shape="rect" id="node3" href="$d6/dbf/classBgpXmppChannel.html" title="BgpXmppChannel" alt="" coords="2531,1731,2669,1757"/>
+<area shape="rect" id="node4" href="$da/d5c/structBgpXmppChannel_1_1ErrorStats.html" title="BgpXmppChannel::ErrorStats" alt="" coords="2160,193,2371,220"/>
+<area shape="rect" id="node5" href="$dd/dfb/classBgpXmppChannelManager.html" title="BgpXmppChannelManager" alt="" coords="2168,1517,2363,1544"/>
+<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpXmppChannel * \&gt;" alt="" coords="655,391,910,417"/>
+<area shape="rect" id="node10" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpXmpp\lChannel *, WorkQueue\&lt;\l BgpXmppChannel * \&gt; \&gt;" alt="" coords="1112,297,1328,353"/>
+<area shape="rect" id="node7" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="290,536,417,563"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="675,1100,891,1127"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="637,883,928,909"/>
+<area shape="rect" id="node26" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="676,1615,889,1641"/>
+<area shape="rect" id="node33" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; std::string \&gt;" alt="" coords="687,227,879,253"/>
+<area shape="rect" id="node13" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1899,1047,2002,1073"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="740,1528,825,1555"/>
+<area shape="rect" id="node37" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="753,1887,813,1913"/>
+<area shape="rect" id="node11" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,1461,76,1488"/>
+<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,1274,482,1315"/>
+<area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,879,470,935"/>
+<area shape="rect" id="node27" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="230,1773,477,1814"/>
+<area shape="rect" id="node34" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; std\l::string, WorkQueue\&lt;\l std::string \&gt; \&gt;" alt="" coords="267,180,440,236"/>
+<area shape="rect" id="node38" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="286,1896,421,1923"/>
+<area shape="rect" id="node14" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1507,1157,1696,1184"/>
+<area shape="rect" id="node29" href="$df/d70/classDB.html" title="DB" alt="" coords="999,1465,1041,1492"/>
+<area shape="rect" id="node15" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1179,1285,1261,1312"/>
+<area shape="rect" id="node25" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1143,1547,1297,1573"/>
+<area shape="rect" id="node17" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="294,1505,413,1532"/>
+<area shape="rect" id="node18" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="296,1721,411,1748"/>
+<area shape="rect" id="node24" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1557,1517,1646,1544"/>
+<area shape="rect" id="node31" href="$d2/d43/structRibExportPolicy.html" title="RibExportPolicy" alt="" coords="1158,1731,1282,1757"/>
+<area shape="rect" id="node30" href="$d6/d81/classXmppChannel.html" title="XmppChannel" alt="" coords="2209,1837,2322,1864"/>
+<area shape="rect" id="node32" href="$d7/dfe/structRibExportPolicy_1_1RemovePrivatePolicy.html" title="RibExportPolicy::RemovePrivate\lPolicy" alt="" coords="667,1767,898,1809"/>
+<area shape="rect" id="node35" href="$d0/d60/structBgpXmppChannel_1_1ChannelStats.html" title="BgpXmppChannel::ChannelStats" alt="" coords="2149,1888,2381,1915"/>
+<area shape="rect" id="node36" href="$dc/d1c/structBgpXmppChannel_1_1Stats.html" title="BgpXmppChannel::Stats" alt="" coords="2176,1939,2355,1965"/>
+</map>

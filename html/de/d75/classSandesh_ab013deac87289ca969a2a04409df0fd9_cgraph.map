@@ -1,0 +1,11 @@
+<map id="Sandesh::SetDscpValue" name="Sandesh::SetDscpValue">
+<area shape="rect" id="node2" href="$de/d75/classSandesh.html#a751f512c61b479b20f8a5c4c10e5e1ac" title="Sandesh::client" alt="" coords="275,13,397,40"/>
+<area shape="rect" id="node3" href="$d3/d7b/classSandeshClient.html#a6acedd190214ebb995a801f47a67d544" title="SandeshClient::SetDscpValue" alt="" coords="230,64,442,91"/>
+<area shape="rect" id="node4" href="$d3/d7b/classSandeshClient.html#a32f1e629d1138d55762c4c7c0122c11b" title="SandeshClient::session" alt="" coords="505,5,677,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title="TcpSession::SetDscpSocket\lOption" alt="" coords="491,57,690,98"/>
+<area shape="rect" id="node10" href="$db/d45/classSandeshHttp.html#a57c694ee6524d1c898209be88b9a1a0d" title="SandeshHttp::UpdateDscp" alt="" coords="495,123,687,149"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="763,5,906,32"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#ad555a8053ae73838c80c0f03290dec97" title="TcpServer::SetDscpSocket\lOption" alt="" coords="739,57,930,98"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="763,123,907,149"/>
+<area shape="rect" id="node8" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="979,64,1099,91"/>
+</map>

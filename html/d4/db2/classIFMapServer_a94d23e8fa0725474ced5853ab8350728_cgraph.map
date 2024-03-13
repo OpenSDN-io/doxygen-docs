@@ -1,0 +1,7 @@
+<map id="IFMapServer::ProcessVmSubscribe" name="IFMapServer::ProcessVmSubscribe">
+<area shape="rect" id="node2" href="$d4/db2/classIFMapServer.html#acf0144e80cafd99e77c1d2083522cd22" title="IFMapServer::FindClient" alt="" coords="313,5,487,32"/>
+<area shape="rect" id="node3" href="$d0/dcd/classIFMapClient.html#a2a0f0ae8fc9d47dcba270287f5332b60" title="IFMapClient::HasVms" alt="" coords="320,56,480,83"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="299,107,501,133"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="549,107,765,133"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="814,99,1005,141"/>
+</map>

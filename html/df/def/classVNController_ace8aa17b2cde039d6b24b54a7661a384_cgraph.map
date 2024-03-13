@@ -1,0 +1,7 @@
+<map id="VNController::VerifyXmppServerTimeout" name="VNController::VerifyXmppServerTimeout">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ae539aaa8c1a023c44dcd8f0ca4e981cc" title="Agent::controller_ifmap\l_xmpp_client" alt="" coords="255,5,430,46"/>
+<area shape="rect" id="node3" href="$db/de5/classXmppClient.html#a8ce53d87059adba2afad3fe1f5625e3d" title="XmppClient::XmppTimeOut" alt="" coords="243,71,443,97"/>
+<area shape="rect" id="node4" href="$db/de5/classXmppClient.html#ab26e1d6f301ba972e0380c4cef9c7038" title="XmppClient::FindConnection" alt="" coords="499,12,704,39"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="514,63,689,105"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a3d750fb20d83be3624c2c4691bb06ad8" title="XmppStateMachine::hold_time" alt="" coords="491,129,712,156"/>
+</map>

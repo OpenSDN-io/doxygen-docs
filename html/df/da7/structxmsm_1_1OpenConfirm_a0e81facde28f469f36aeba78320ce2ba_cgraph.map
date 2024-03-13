@@ -1,0 +1,36 @@
+<map id="xmsm::OpenConfirm::react" name="xmsm::OpenConfirm::react">
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a3a597aed84abf916c7f0e0d90199bff8" title="XmppStateMachine::Cancel\lHoldTimer" alt="" coords="263,271,463,313"/>
+<area shape="rect" id="node21" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title="XmppStateMachine::IsActive\lChannel" alt="" coords="259,337,467,378"/>
+<area shape="rect" id="node22" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="219,403,506,429"/>
+<area shape="rect" id="node23" href="$de/d06/structxmsm_1_1EvStop.html#a609b5b26cc5663ef09134929e900deeb" title="xmsm::EvStop::Name" alt="" coords="281,453,444,480"/>
+<area shape="rect" id="node24" href="$d2/db3/classXmppStateMachine.html#a17bb1d3d39d5bbfa56a099d451954b1e" title="XmppStateMachine::ResetSession" alt="" coords="241,504,484,531"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="901,308,1013,335"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1118,123,1319,149"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1135,308,1302,335"/>
+<area shape="rect" id="node20" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1157,359,1280,385"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1369,13,1585,40"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1639,6,1830,47"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1382,65,1573,106"/>
+<area shape="rect" id="node11" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1416,131,1539,157"/>
+<area shape="rect" id="node12" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1394,181,1561,208"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1639,174,1830,215"/>
+<area shape="rect" id="node13" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1398,283,1557,309"/>
+<area shape="rect" id="node14" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1374,333,1581,360"/>
+<area shape="rect" id="node15" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1368,384,1587,411"/>
+<area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1371,435,1584,461"/>
+<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1397,485,1557,512"/>
+<area shape="rect" id="node18" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1386,536,1569,563"/>
+<area shape="rect" id="node19" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1389,587,1566,613"/>
+<area shape="rect" id="node10" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1635,72,1835,99"/>
+<area shape="rect" id="node25" href="$d0/d64/classXmppConnection.html#a23558db06521b840c31bcd2484582ac1" title="XmppConnection::StopKeep\lAliveTimer" alt="" coords="575,330,777,371"/>
+<area shape="rect" id="node26" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title="XmppConnection::ChannelMux" alt="" coords="565,396,787,423"/>
+<area shape="rect" id="node27" href="$d2/dc0/classXmppChannelMux.html#a29703702acf40ca4fa933af6315496d0" title="XmppChannelMux::HandleState\lEvent" alt="" coords="562,498,790,539"/>
+<area shape="rect" id="node29" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title="XmppConnection::server" alt="" coords="866,396,1049,423"/>
+<area shape="rect" id="node32" href="$dd/d43/classXmppServer.html#a95ae202c3be8ef85c166994b3d00274f" title="XmppServer::IsPeerCloseGraceful" alt="" coords="555,597,797,624"/>
+<area shape="rect" id="node35" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="555,648,797,675"/>
+<area shape="rect" id="node28" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="862,447,1053,473"/>
+<area shape="rect" id="node30" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="848,498,1067,539"/>
+<area shape="rect" id="node31" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title="XmppServer::NotifyConnection\lEvent" alt="" coords="846,563,1069,605"/>
+<area shape="rect" id="node33" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title="XmppServer::deleter" alt="" coords="879,629,1035,656"/>
+<area shape="rect" id="node34" href="$dd/d43/classXmppServer.html#a488f580469fd1593d9e9898a657a8010" title="XmppServer::IsGRHelperMode\lEnabled" alt="" coords="848,681,1067,722"/>
+</map>

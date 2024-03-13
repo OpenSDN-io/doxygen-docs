@@ -1,0 +1,15 @@
+<map id="Agent::InitCollector" name="Agent::InitCollector">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ad88e9a05d7d1d8361299444d304a9beb" title="Agent::GetCollectorlist" alt="" coords="223,5,393,32"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a6296b9f7117131faba4653d283d8e8ab" title="Sandesh::InitGenerator" alt="" coords="223,56,393,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a81b59b5b012011625605f8080e1fbc9a" title="Agent::module_name" alt="" coords="227,107,389,133"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#adae348f55c04d2fc053b9315883cec98" title="Agent::host_name" alt="" coords="238,157,378,184"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="223,208,393,235"/>
+<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#a9756c9716f961ecdebde5e6d142e684c" title="AgentParam::http_server_port" alt="" coords="200,259,416,285"/>
+<area shape="rect" id="node9" href="$dc/dd4/classAgentParam.html#a2875a05c2075d2cdd75a36e3458e1715" title="AgentParam::derived\l_stats_map" alt="" coords="229,310,387,351"/>
+<area shape="rect" id="node10" href="$dc/dd4/classAgentParam.html#aa4654f695273bf53c30c9f8cab4e650e" title="AgentParam::sandesh\l_config" alt="" coords="227,375,389,417"/>
+<area shape="rect" id="node11" href="$dc/dd4/classAgentParam.html#a77a189c48b14deeb88a50cd19dcbb99a" title="AgentParam::cat_is\l_agent_mocked" alt="" coords="235,441,381,482"/>
+<area shape="rect" id="node12" href="$dc/dd4/classAgentParam.html#a3acdf70f71724c8031836fbd1da98eda" title="AgentParam::agent_name" alt="" coords="213,507,403,533"/>
+<area shape="rect" id="node13" href="$de/d75/classSandesh.html#a3462b0c8aa190becff05d400bed0bf24" title="Sandesh::http_port" alt="" coords="236,557,380,584"/>
+<area shape="rect" id="node14" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="248,608,368,635"/>
+<area shape="rect" id="node4" href="$d5/d70/classSandeshUVETypeMaps.html#a11d70536296de03b15828258ade3c251" title="SandeshUVETypeMaps\l::InitDerivedStats" alt="" coords="464,49,632,90"/>
+</map>

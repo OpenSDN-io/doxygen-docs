@@ -1,0 +1,15 @@
+<map id="AgentStatsSandeshContext::IfMsgHandler" name="AgentStatsSandeshContext::IfMsgHandler">
+<area shape="rect" id="node2" href="$d5/d68/classAgentStatsSandeshContext.html#a7444c2b361c9297d51e51c20f61054cb" title="AgentStatsSandeshContext\l::set_marker_id" alt="" coords="259,5,458,46"/>
+<area shape="rect" id="node3" href="$d2/d73/classInterfaceTable.html#a6b96daf0e38def2e7a6330fe618a9202" title="InterfaceTable::GetInstance" alt="" coords="259,71,459,97"/>
+<area shape="rect" id="node4" href="$d2/d73/classInterfaceTable.html#a3460257f9b0fa13a0f7104f38d835aa3" title="InterfaceTable::FindInterface" alt="" coords="255,121,462,148"/>
+<area shape="rect" id="node7" href="$d5/d68/classAgentStatsSandeshContext.html#a2984d9461a70a3347f25131821c7c1f6" title="AgentStatsSandeshContext\l::marker_id" alt="" coords="259,173,458,214"/>
+<area shape="rect" id="node8" href="$d1/d29/classStatsManager.html#a5bb3f13f8a64c6eec4dc984f3dd6ee51" title="StatsManager::GetInterface\lStats" alt="" coords="259,238,459,279"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="309,304,409,331"/>
+<area shape="rect" id="node10" href="$d0/d98/classAgentStats.html#a80e454be417da9fecc3e6cd7d3c18ddb" title="AgentStats::incr_in_pkts" alt="" coords="269,355,448,381"/>
+<area shape="rect" id="node11" href="$d0/d98/classAgentStats.html#a85149afd843340bdba184d8c7fa9f87f" title="AgentStats::incr_in\l_bytes" alt="" coords="287,406,431,447"/>
+<area shape="rect" id="node12" href="$d0/d98/classAgentStats.html#a10df623fb2520d822ccd70d13565defa" title="AgentStats::incr_out_pkts" alt="" coords="265,472,453,499"/>
+<area shape="rect" id="node13" href="$d0/d98/classAgentStats.html#a8a530a3a038c318887558116786a4f19" title="AgentStats::incr_out\l_bytes" alt="" coords="282,523,435,565"/>
+<area shape="rect" id="node14" href="$d8/df9/structStatsManager_1_1InterfaceStats.html#af55a6abacd51aec51cb448e3c13b09d4" title="StatsManager::InterfaceStats\l::UpdateStats" alt="" coords="253,589,464,630"/>
+<area shape="rect" id="node5" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="541,96,662,123"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="513,147,690,173"/>
+</map>

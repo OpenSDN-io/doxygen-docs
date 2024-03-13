@@ -1,0 +1,23 @@
+<map id="VirtualDnsRecordConfig::OnChange" name="VirtualDnsRecordConfig::OnChange">
+<area shape="rect" id="node2" href="$d1/d12/structVirtualDnsRecordConfig.html#aef84fd4f7584335b5744e5bdf0dabc87" title="VirtualDnsRecordConfig\l::GetObject" alt="" coords="230,49,405,90"/>
+<area shape="rect" id="node6" href="$d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="248,115,387,141"/>
+<area shape="rect" id="node7" href="$d1/d12/structVirtualDnsRecordConfig.html#aa5df6b025df0d73bae72463f2ba2fdd4" title="VirtualDnsRecordConfig\l::HasChanged" alt="" coords="230,166,405,207"/>
+<area shape="rect" id="node8" href="$d4/da5/structDnsConfig.html#a7b52a3fbebd702b5c55d54ec863c3976" title="DnsConfig::MarkValid" alt="" coords="237,232,397,259"/>
+<area shape="rect" id="node9" href="$d1/d12/structVirtualDnsRecordConfig.html#ade763a2038500b8f1f9d5936ad6137b9" title="VirtualDnsRecordConfig\l::UpdateVdns" alt="" coords="230,283,405,325"/>
+<area shape="rect" id="node20" href="$d4/da5/structDnsConfig.html#a73a20b864cdf7fee8d724fee1ea53b17" title="DnsConfig::ClearValid" alt="" coords="236,349,399,376"/>
+<area shape="rect" id="node21" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="238,400,397,427"/>
+<area shape="rect" id="node22" href="$d1/d12/structVirtualDnsRecordConfig.html#a1c0f357f51771c103fbac5a2134169ad" title="VirtualDnsRecordConfig\l::OnlyTtlChange" alt="" coords="230,451,405,493"/>
+<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="479,5,646,32"/>
+<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title="BindUtil::DnsClass" alt="" coords="491,56,634,83"/>
+<area shape="rect" id="node5" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="494,107,631,133"/>
+<area shape="rect" id="node10" href="$d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title="Dns::GetDnsConfigManager" alt="" coords="463,173,663,200"/>
+<area shape="rect" id="node11" href="$d7/db3/classDnsConfigManager.html#a9097a134e7a80fb378a7838944ee45ec" title="DnsConfigManager::FindTarget" alt="" coords="453,224,672,251"/>
+<area shape="rect" id="node16" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="483,275,642,301"/>
+<area shape="rect" id="node17" href="$d0/d31/structVirtualDnsConfig.html#a352c1560fed494d5e29f5b8a88b0421e" title="VirtualDnsConfig::Find" alt="" coords="480,325,645,352"/>
+<area shape="rect" id="node18" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="493,376,632,403"/>
+<area shape="rect" id="node19" href="$d0/d31/structVirtualDnsConfig.html#a312038d92cf37eba50a00c5fb635b98c" title="VirtualDnsConfig::AddRecord" alt="" coords="459,427,667,453"/>
+<area shape="rect" id="node12" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title="DBGraphVertex::edge\l_list_begin" alt="" coords="733,129,896,170"/>
+<area shape="rect" id="node13" href="$d7/db3/classDnsConfigManager.html#a71ca5a60df60a3358d342ea7eb6a2a05" title="DnsConfigManager::graph" alt="" coords="720,195,909,221"/>
+<area shape="rect" id="node14" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title="DBGraphVertex::edge\l_list_end" alt="" coords="733,246,896,287"/>
+<area shape="rect" id="node15" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="735,312,894,339"/>
+</map>

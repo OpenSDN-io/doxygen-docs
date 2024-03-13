@@ -1,0 +1,12 @@
+<map id="LibvirtInstanceAdapter::EnsureDestroyed" name="LibvirtInstanceAdapter::EnsureDestroyed">
+<area shape="rect" id="node2" href="$d9/d01/classLibvirtInstanceAdapter.html#ad0e0a3c504132121b5a3ca6f31520ccb" title="LibvirtInstanceAdapter\l::GenIntfName" alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/db2/libvirt__instance__adapter_8cc.html#a960b8204785fb05bea1bd7713e073016" title="destroy_tap_interface" alt="" coords="227,71,391,97"/>
+<area shape="rect" id="node5" href="$d9/d01/classLibvirtInstanceAdapter.html#afea72a13811d1d129528e2fa6e701329" title="LibvirtInstanceAdapter\l::UnregisterInterfaces" alt="" coords="225,122,394,163"/>
+<area shape="rect" id="node4" href="$d2/db2/libvirt__instance__adapter_8cc.html#a2bfe476ff110de276ff8b537bd565b86" title="close_descriptor" alt="" coords="463,71,591,97"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#acc953efdd0e5f8b379b93cfd2be95260" title="DBEntryBase::Delete" alt="" coords="447,125,606,152"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="443,176,610,203"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="662,100,839,127"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="659,151,842,177"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="891,125,1082,152"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="902,176,1071,203"/>
+</map>

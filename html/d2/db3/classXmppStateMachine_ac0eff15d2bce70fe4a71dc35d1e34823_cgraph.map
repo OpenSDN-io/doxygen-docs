@@ -1,0 +1,9 @@
+<map id="XmppStateMachine::AssignSession" name="XmppStateMachine::AssignSession">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#adec3ade39649132471eb3537da904d54" title="XmppConnection::set\l_session" alt="" coords="254,27,415,69"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="469,5,659,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title="TcpSession::SetDscpSocket\lOption" alt="" coords="465,57,663,98"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="737,5,879,32"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#ad555a8053ae73838c80c0f03290dec97" title="TcpServer::SetDscpSocket\lOption" alt="" coords="713,57,903,98"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="736,123,880,149"/>
+<area shape="rect" id="node7" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="952,64,1072,91"/>
+</map>

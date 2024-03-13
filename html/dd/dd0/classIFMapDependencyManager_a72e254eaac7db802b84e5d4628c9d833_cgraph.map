@@ -1,0 +1,22 @@
+<map id="IFMapDependencyManager::IFMapDependencyManager" name="IFMapDependencyManager::IFMapDependencyManager">
+<area shape="rect" id="node2" href="$dd/dd0/classIFMapDependencyManager.html#a9407390ff188f1c43ebbc5361b10f0ff" title="IFMapDependencyManager\l::ChangeListAdd" alt="" coords="261,158,459,199"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="259,419,461,445"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="267,469,453,496"/>
+<area shape="rect" id="node17" href="$dd/dd0/classIFMapDependencyManager.html#a3af74feac5c98acc2d4dc8b692ad7cbc" title="IFMapDependencyManager\l::ProcessChangeList" alt="" coords="261,353,459,394"/>
+<area shape="rect" id="node3" href="$dd/dd0/classIFMapDependencyManager.html#a3bf8c7a26a5d9ab90ffefcd6c9113d2c" title="IFMapDependencyManager\l::IFMapNodeGet" alt="" coords="519,49,716,90"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1038,216,1215,243"/>
+<area shape="rect" id="node10" href="$dd/dd0/classIFMapDependencyManager.html#a9c927196b991040f4bf668867a93f5c2" title="IFMapDependencyManager\l::SetState" alt="" coords="519,114,716,155"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="802,107,937,133"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="793,5,945,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="783,56,955,83"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1013,33,1240,60"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1032,85,1221,126"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="784,157,955,184"/>
+<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="1023,150,1230,191"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="509,512,725,539"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="774,505,965,546"/>
+<area shape="rect" id="node18" href="$de/d02/classIFMapNodeState.html#a4b2fe5eb2839d4c67e6b128f9e4f0879" title="IFMapNodeState::node" alt="" coords="533,309,701,336"/>
+<area shape="rect" id="node19" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="533,360,702,387"/>
+<area shape="rect" id="node20" href="$de/d02/classIFMapNodeState.html#aac68cc4f7c3e025a5d853bf11f59b1dc" title="IFMapNodeState::notify" alt="" coords="530,411,705,437"/>
+<area shape="rect" id="node21" href="$de/d02/classIFMapNodeState.html#a31369507cf217ca048483551adc0e604" title="IFMapNodeState::object" alt="" coords="529,461,705,488"/>
+</map>

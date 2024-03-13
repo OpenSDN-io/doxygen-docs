@@ -1,0 +1,10 @@
+<map id="XmppConfigUpdater::ProcessGlobalSystemConfig" name="XmppConfigUpdater::ProcessGlobalSystemConfig">
+<area shape="rect" id="node2" href="$d5/d70/classBgpGlobalSystemConfig.html#acdf0d97e8afb1de572d2dcc98af2dcd3" title="BgpGlobalSystemConfig\l::gr_enable" alt="" coords="259,5,437,46"/>
+<area shape="rect" id="node3" href="$d5/d70/classBgpGlobalSystemConfig.html#a8bcfff89f3c7cfbe36057e30d25070dd" title="BgpGlobalSystemConfig\l::gr_time" alt="" coords="259,70,437,111"/>
+<area shape="rect" id="node4" href="$d5/d70/classBgpGlobalSystemConfig.html#a81c35544aebe4a0fda8312a6ea98c9c1" title="BgpGlobalSystemConfig\l::llgr_time" alt="" coords="259,135,437,177"/>
+<area shape="rect" id="node5" href="$d5/d70/classBgpGlobalSystemConfig.html#a57a15a1129ac6c5c8d8ab7101db15265" title="BgpGlobalSystemConfig\l::end_of_rib_timeout" alt="" coords="259,201,437,242"/>
+<area shape="rect" id="node6" href="$d5/d70/classBgpGlobalSystemConfig.html#a63cbec575ca8edd42729b59a8f89d439" title="BgpGlobalSystemConfig\l::gr_xmpp_helper" alt="" coords="259,266,437,307"/>
+<area shape="rect" id="node7" href="$d5/d70/classBgpGlobalSystemConfig.html#a52379a03ace2cd949275cbfe70d7c36f" title="BgpGlobalSystemConfig\l::fc_enabled" alt="" coords="259,331,437,373"/>
+<area shape="rect" id="node8" href="$d5/d70/classBgpGlobalSystemConfig.html#a3d057456598d5c33b3a359156efcf370" title="BgpGlobalSystemConfig\l::xmpp_hold_time" alt="" coords="259,397,437,438"/>
+<area shape="rect" id="node9" href="$d5/d70/classBgpGlobalSystemConfig.html#a9fd19411e3e5b83baa6fae5503a3bb2a" title="BgpGlobalSystemConfig\l::rd_cluster_seed" alt="" coords="259,462,437,503"/>
+</map>

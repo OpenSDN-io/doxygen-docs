@@ -1,0 +1,34 @@
+<map id="StatsManager::RegisterDBClients" name="StatsManager::RegisterDBClients">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="317,136,483,163"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="316,187,484,213"/>
+<area shape="rect" id="node4" href="$d1/d29/classStatsManager.html#a468c1f42dda40a93cf2c7cf479126f3d" title="StatsManager::InterfaceNotify" alt="" coords="291,339,509,365"/>
+<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="337,389,463,416"/>
+<area shape="rect" id="node29" href="$d1/d29/classStatsManager.html#a07b999e8b6e6ba592133868aba1f4d95" title="StatsManager::VrfNotify" alt="" coords="311,237,489,264"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="577,187,749,213"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="571,237,754,264"/>
+<area shape="rect" id="node9" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="604,591,721,617"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="839,164,1017,191"/>
+<area shape="rect" id="node11" href="$d0/dcc/classInterface.html#ae91343c296330677f954377b7cdfbdfd" title="Interface::IsUveActive" alt="" coords="579,473,746,500"/>
+<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="577,339,748,365"/>
+<area shape="rect" id="node17" href="$d1/d29/classStatsManager.html#aed57b97d22cdeb139e26167412776f9a" title="StatsManager::AddInterface\lStatsEntry" alt="" coords="561,710,764,751"/>
+<area shape="rect" id="node19" href="$d1/d29/classStatsManager.html#a90356f871bc37fcb4c927146fb6c0b8f" title="StatsManager::DelInterface\lStatsEntry" alt="" coords="563,525,762,566"/>
+<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="571,389,754,416"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1088,307,1315,333"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="833,266,1023,307"/>
+<area shape="rect" id="node12" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="847,701,1009,728"/>
+<area shape="rect" id="node13" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="847,600,1009,627"/>
+<area shape="rect" id="node14" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="855,651,1001,677"/>
+<area shape="rect" id="node16" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="825,331,1031,373"/>
+<area shape="rect" id="node18" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="865,752,991,779"/>
+<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="843,549,1013,576"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="825,397,1031,424"/>
+<area shape="rect" id="node23" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="816,499,1040,525"/>
+<area shape="rect" id="node24" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1138,549,1265,576"/>
+<area shape="rect" id="node25" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1113,448,1289,475"/>
+<area shape="rect" id="node26" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="1095,499,1307,525"/>
+<area shape="rect" id="node27" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1363,499,1581,525"/>
+<area shape="rect" id="node30" href="$d1/d29/classStatsManager.html#ae3ef380fce87d29b6ed71fa0c86dee91" title="StatsManager::DelVrfStats\lEntry" alt="" coords="566,5,759,46"/>
+<area shape="rect" id="node32" href="$d1/d29/classStatsManager.html#a9e51a073fa3413549e9a3ab0d3ea12a1" title="StatsManager::AddUpdateVrf\lStatsEntry" alt="" coords="557,70,768,111"/>
+<area shape="rect" id="node31" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="869,12,987,39"/>
+<area shape="rect" id="node33" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="856,63,1000,89"/>
+</map>

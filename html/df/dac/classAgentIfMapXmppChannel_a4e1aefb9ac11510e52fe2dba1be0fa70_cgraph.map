@@ -1,0 +1,17 @@
+<map id="AgentIfMapXmppChannel::AgentIfMapXmppChannel" name="AgentIfMapXmppChannel::AgentIfMapXmppChannel">
+<area shape="rect" id="node2" href="$d6/d81/classXmppChannel.html#a0a0945abcaf97451d8573f1640697552" title="XmppChannel::RegisterReceive" alt="" coords="249,39,474,65"/>
+<area shape="rect" id="node3" href="$df/dac/classAgentIfMapXmppChannel.html#a5dd2c0b9d840c7bc5f1d0b7c2a74adc7" title="AgentIfMapXmppChannel\l::ReceiveInternal" alt="" coords="268,90,455,131"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="566,5,666,32"/>
+<area shape="rect" id="node5" href="$d0/d98/classAgentStats.html#a78b2c6bdffcf9c597f7f56a63f96318d" title="AgentStats::incr_xmpp\l_config_in_msgs" alt="" coords="531,57,701,98"/>
+<area shape="rect" id="node6" href="$df/dac/classAgentIfMapXmppChannel.html#a687a3c75c4d45cadcbbe5077bb573340" title="AgentIfMapXmppChannel\l::GetXmppServerIdx" alt="" coords="523,122,709,163"/>
+<area shape="rect" id="node7" href="$df/dac/classAgentIfMapXmppChannel.html#a4dc10933841451a277300dc3914fad35" title="AgentIfMapXmppChannel\l::ReceiveUpdate" alt="" coords="523,187,709,229"/>
+<area shape="rect" id="node8" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="769,27,932,69"/>
+<area shape="rect" id="node10" href="$dd/d50/classXmlPugi.html#a661364c01079e09b813d79211133d4c2" title="XmlPugi::LoadXmlDoc" alt="" coords="767,93,934,120"/>
+<area shape="rect" id="node11" href="$dd/d50/classXmlPugi.html#aef52b6ee6b251ee9d11f6a13041f00c8" title="XmlPugi::doc" alt="" coords="797,144,904,171"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="785,195,916,221"/>
+<area shape="rect" id="node13" href="$df/def/classVNController.html#ab2f9b151ee940d419f6b1e3db27ab15e" title="VNController::Enqueue" alt="" coords="766,245,935,272"/>
+<area shape="rect" id="node15" href="$df/dac/classAgentIfMapXmppChannel.html#ac91b341b432dc471e3d728b692d2b8d4" title="AgentIfMapXmppChannel\l::end_of_config_timer" alt="" coords="757,297,944,338"/>
+<area shape="rect" id="node16" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="773,363,928,389"/>
+<area shape="rect" id="node9" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="992,27,1163,69"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="997,245,1158,272"/>
+</map>

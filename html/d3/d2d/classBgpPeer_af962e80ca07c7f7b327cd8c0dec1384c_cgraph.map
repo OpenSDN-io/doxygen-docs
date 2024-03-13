@@ -1,0 +1,17 @@
+<map id="BgpPeer::FillBgpNeighborDebugState" name="BgpPeer::FillBgpNeighborDebugState">
+<area shape="rect" id="node2" href="$d0/d3f/classIPeerDebugStats.html#a16054294a20b025fafbe6f4177a87e26" title="IPeerDebugStats::last\l_state" alt="" coords="271,5,433,46"/>
+<area shape="rect" id="node3" href="$d0/d3f/classIPeerDebugStats.html#aa7a05e414eccbb9c6b8cc5f77bc84643" title="IPeerDebugStats::last\l_event" alt="" coords="271,70,433,111"/>
+<area shape="rect" id="node4" href="$d0/d3f/classIPeerDebugStats.html#a058a179cf06052a2299fe08dc0e6ff6f" title="IPeerDebugStats::last\l_error" alt="" coords="271,135,433,177"/>
+<area shape="rect" id="node5" href="$d0/d3f/classIPeerDebugStats.html#a1b759c41007bd9cf5e99a1ac84fd71b4" title="IPeerDebugStats::last\l_state_change_at" alt="" coords="271,201,433,242"/>
+<area shape="rect" id="node6" href="$d0/d3f/classIPeerDebugStats.html#a0c4d3179ccf5a3d02fd411d45f1e9350" title="IPeerDebugStats::num\l_flaps" alt="" coords="269,266,435,307"/>
+<area shape="rect" id="node7" href="$d0/d3f/classIPeerDebugStats.html#a38f5a61b0abbceeaae7e248888dbeab8" title="IPeerDebugStats::last_flap" alt="" coords="255,332,449,359"/>
+<area shape="rect" id="node8" href="$d0/d3f/classIPeerDebugStats.html#a1bc58ad5a7f56d3d6f0bb2018e41ddc4" title="IPeerDebugStats::GetRxProto\lStats" alt="" coords="246,383,458,425"/>
+<area shape="rect" id="node9" href="$db/d6b/bgp__peer_8cc.html#a7db4fb115e6aaa3b0e4d946c5c4d5f31" title="FillProtoStats" alt="" coords="299,449,405,476"/>
+<area shape="rect" id="node10" href="$d0/d3f/classIPeerDebugStats.html#ab4aa64b64432f998aee6f407b7f8d4d7" title="IPeerDebugStats::GetTxProto\lStats" alt="" coords="247,501,457,542"/>
+<area shape="rect" id="node11" href="$d0/d3f/classIPeerDebugStats.html#a1465dcdc2ff47b7abb2265c37b3c4173" title="IPeerDebugStats::GetRxRoute\lUpdateStats" alt="" coords="245,566,459,607"/>
+<area shape="rect" id="node12" href="$db/d6b/bgp__peer_8cc.html#ac446b5a7ed37b110394244f02478653b" title="FillRouteUpdateStats" alt="" coords="273,632,431,659"/>
+<area shape="rect" id="node13" href="$d0/d3f/classIPeerDebugStats.html#a9f9588227a8d7182062934ccfa4f70d3" title="IPeerDebugStats::GetTxRoute\lUpdateStats" alt="" coords="245,683,459,725"/>
+<area shape="rect" id="node14" href="$d0/d3f/classIPeerDebugStats.html#ad6d643c909f0d4e074bf99078f47803a" title="IPeerDebugStats::GetRxSocket\lStats" alt="" coords="241,749,463,790"/>
+<area shape="rect" id="node15" href="$db/d6b/bgp__peer_8cc.html#a79234e57e3c509076578bfbbc6d96d8f" title="FillSocketStats" alt="" coords="293,815,411,841"/>
+<area shape="rect" id="node16" href="$d0/d3f/classIPeerDebugStats.html#a8e04316f6a8af8d4f66046ad74c060b1" title="IPeerDebugStats::GetTxSocket\lStats" alt="" coords="241,866,463,907"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="MetadataProxy::CloseClientSession" name="MetadataProxy::CloseClientSession">
+<area shape="rect" id="node2" href="$d3/de9/classHttpConnection.html#aa5fc980c9f1b6df8d49753c137a1ad79" title="HttpConnection::client" alt="" coords="285,5,451,32"/>
+<area shape="rect" id="node3" href="$d4/d6e/classHttpClient.html#acf10e630c4af6a7da335b9cb934c31c3" title="HttpClient::RemoveConnection" alt="" coords="257,56,479,83"/>
+<area shape="rect" id="node4" href="$d3/de9/classHttpConnection.html#a73e3aee7d0626de3283566fb837e2ba8" title="HttpConnection::ClearCallback" alt="" coords="529,5,751,32"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="559,56,721,83"/>
+<area shape="rect" id="node6" href="$d4/d6e/classHttpClient.html#ad05dc36c7508ed5ed30032e725b87070" title="HttpClient::RemoveConnection\lInternal" alt="" coords="529,107,751,149"/>
+<area shape="rect" id="node7" href="$d3/de9/classHttpConnection.html#af646ce1f51e9839a2da413890539551f" title="HttpConnection::endpoint" alt="" coords="801,64,989,91"/>
+<area shape="rect" id="node8" href="$d3/de9/classHttpConnection.html#a70456d8e8f0fdb83d3a7458d2a7449bb" title="HttpConnection::id" alt="" coords="823,115,966,141"/>
+<area shape="rect" id="node9" href="$df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b" title="del_conn" alt="" coords="855,165,935,192"/>
+<area shape="rect" id="node10" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="1038,8,1218,35"/>
+<area shape="rect" id="node11" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="1055,59,1201,101"/>
+<area shape="rect" id="node12" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="1055,125,1201,166"/>
+<area shape="rect" id="node13" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title="HttpConnection::curl\l_handle" alt="" coords="1051,190,1205,231"/>
+<area shape="rect" id="node14" href="$d3/de9/classHttpConnection.html#afe7c36358579cba086912ae67ee3e71a" title="HttpConnection::set\l_curl_handle" alt="" coords="1053,255,1203,297"/>
+<area shape="rect" id="node15" href="$df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2" title="del_curl_handle" alt="" coords="1066,321,1190,348"/>
+</map>

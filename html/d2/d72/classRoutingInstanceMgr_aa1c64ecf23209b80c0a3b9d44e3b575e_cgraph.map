@@ -1,0 +1,28 @@
+<map id="RoutingInstanceMgr::DeleteRoutingInstance" name="RoutingInstanceMgr::DeleteRoutingInstance">
+<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title="RoutingInstanceMgr\l::GetRoutingInstance" alt="" coords="259,5,416,46"/>
+<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#a96da5e5ef2a8a3dce057a8e08e54fa75" title="RoutingInstance::deleted" alt="" coords="246,71,429,97"/>
+<area shape="rect" id="node6" href="$de/ddf/classRoutingInstance.html#a37e0385c3de8bc8ca5eed32de4675af6" title="RoutingInstance::GetVirtual\lNetworkName" alt="" coords="237,129,437,170"/>
+<area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a3f680a7be9229efee5cf9408855d0016" title="RoutingInstanceMgr\l::InstanceVnIndexRemove" alt="" coords="242,194,433,235"/>
+<area shape="rect" id="node9" href="$d2/d72/classRoutingInstanceMgr.html#a38090cb36c9c6ef24aaa4edb75fdf2ca" title="RoutingInstanceMgr\l::InstanceTargetRemove" alt="" coords="248,259,427,301"/>
+<area shape="rect" id="node12" href="$de/ddf/classRoutingInstance.html#a68446fb59c7d8e46a802cc607967b890" title="RoutingInstance::ClearConfig" alt="" coords="233,337,442,364"/>
+<area shape="rect" id="node13" href="$de/ddf/classRoutingInstance.html#a052602009d2369490e0f9a54a6104839" title="RoutingInstance::Process\lServiceChainConfig" alt="" coords="245,414,429,455"/>
+<area shape="rect" id="node19" href="$de/ddf/classRoutingInstance.html#aeceef508b3290048e26583dfa8360f4c" title="RoutingInstance::FlushStatic\lRouteConfig" alt="" coords="235,557,440,598"/>
+<area shape="rect" id="node22" href="$de/ddf/classRoutingInstance.html#a972f17571988d07e94f12222206fc86e" title="RoutingInstance::FlushRoute\lAggregationConfig" alt="" coords="235,653,440,694"/>
+<area shape="rect" id="node25" href="$d2/d72/classRoutingInstanceMgr.html#a20e0270f8aa7c2b4f0b2feb9113480cc" title="RoutingInstanceMgr\l::NotifyInstanceOp" alt="" coords="262,718,413,759"/>
+<area shape="rect" id="node26" href="$de/ddf/classRoutingInstance.html#ad35373d6a52de0662c39dc023c604441" title="RoutingInstance::Managed\lDelete" alt="" coords="241,845,434,886"/>
+<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#ada7ddc5bfb1bffc371a024b00196a5ec" title="RoutingInstance::deleter" alt="" coords="523,16,703,43"/>
+<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="523,67,703,93"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#a64e8033eb664a59bde603e49ad4123cb" title="RoutingInstance::virtual\l_network_index" alt="" coords="525,118,701,159"/>
+<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#ad8bdcc39b72ed46920008a7753bd34cb" title="RoutingInstance::GetExportList" alt="" coords="502,184,725,211"/>
+<area shape="rect" id="node11" href="$de/ddf/classRoutingInstance.html#afecf90621fc0c25b8be1efb4b70672dc" title="RoutingInstance::GetImportList" alt="" coords="502,235,725,261"/>
+<area shape="rect" id="node14" href="$d6/ddf/classBgpInstanceConfig.html#abd0fe0015c89485cf8ee741694880623" title="BgpInstanceConfig::\lservice_chain_info" alt="" coords="538,286,689,327"/>
+<area shape="rect" id="node15" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="517,548,709,575"/>
+<area shape="rect" id="node16" href="$db/d26/classBgpServer.html#a1278a9656c5d77fc43317591ff0a5f19" title="BgpServer::service\l_chain_mgr" alt="" coords="541,351,685,393"/>
+<area shape="rect" id="node17" href="$d2/d23/classIServiceChainMgr.html#a2c9a4a9ec4d819a86e2ac06ccab6ac9a" title="IServiceChainMgr::Locate\lServiceChain" alt="" coords="520,417,707,458"/>
+<area shape="rect" id="node18" href="$d2/d23/classIServiceChainMgr.html#a6cd0063e6993781ae91b3bf690be9655" title="IServiceChainMgr::StopService\lChain" alt="" coords="503,482,723,523"/>
+<area shape="rect" id="node20" href="$de/ddf/classRoutingInstance.html#a75b78564f2920a468f2c5ae268d17e18" title="RoutingInstance::static\l_route_mgr" alt="" coords="528,599,699,641"/>
+<area shape="rect" id="node21" href="$d4/d81/classIStaticRouteMgr.html#aecd69d916932a9ade2b26a6357941597" title="IStaticRouteMgr::FlushStatic\lRouteConfig" alt="" coords="512,665,715,706"/>
+<area shape="rect" id="node23" href="$de/ddf/classRoutingInstance.html#a110240d097b48aa53cbc8295e15dc17c" title="RoutingInstance::route\l_aggregator" alt="" coords="529,730,697,771"/>
+<area shape="rect" id="node24" href="$d5/dae/classIRouteAggregator.html#a22677361e9a85a9ea517f54446aefb5d" title="IRouteAggregator::FlushAggregate\lRouteConfig" alt="" coords="491,795,735,837"/>
+<area shape="rect" id="node27" href="$de/ddf/classRoutingInstance.html#ac7d3f05ce6ea89aea6392507cf1b6d8d" title="RoutingInstance::IsMaster\lRoutingInstance" alt="" coords="519,861,708,902"/>
+</map>

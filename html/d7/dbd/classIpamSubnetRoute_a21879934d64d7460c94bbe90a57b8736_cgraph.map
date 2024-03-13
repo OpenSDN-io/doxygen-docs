@@ -1,0 +1,6 @@
+<map id="IpamSubnetRoute::UpdateRoute" name="IpamSubnetRoute::UpdateRoute">
+<area shape="rect" id="node2" href="$d5/d9f/classInetUnicastRouteEntry.html#ad93252925cc5ca41f7f50340fd971d1c" title="InetUnicastRouteEntry\l::UpdateRouteFlags" alt="" coords="283,70,450,111"/>
+<area shape="rect" id="node3" href="$d5/d9f/classInetUnicastRouteEntry.html#ad5f438d0075ee200dda00ac72f42d2d2" title="InetUnicastRouteEntry\l::ipam_subnet_route" alt="" coords="499,5,666,46"/>
+<area shape="rect" id="node4" href="$d5/d9f/classInetUnicastRouteEntry.html#a82920d2581971814c641721cf9bd2af6" title="InetUnicastRouteEntry\l::ipam_host_route" alt="" coords="499,70,666,111"/>
+<area shape="rect" id="node5" href="$d5/d9f/classInetUnicastRouteEntry.html#a7b971f402113c85b0a7b04b5334eb29a" title="InetUnicastRouteEntry\l::proxy_arp" alt="" coords="499,135,666,177"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="KSync::ResetVRouter" name="KSync::ResetVRouter">
+<area shape="rect" id="node2" href="$d7/de7/classKSync.html#a3abbbfc9da8a9f44f09d7c067095fb30" title="KSync::Encode" alt="" coords="247,43,364,69"/>
+<area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html#ac6185486999d682bca64701bb6de09db" title="KSyncSock::Get" alt="" coords="243,159,367,185"/>
+<area shape="rect" id="node5" href="$d0/d5a/classKSyncSock.html#a1e2c1e68fc31cac94aef064618ea10bf" title="KSyncSock::BlockingSend" alt="" coords="211,209,400,236"/>
+<area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#a8b3312b0890f404cc9933780a508ff79" title="KSyncSock::BlockingRecv" alt="" coords="211,260,399,287"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="247,311,364,337"/>
+<area shape="rect" id="node16" href="$dc/dd4/classAgentParam.html#afdec6467ba84e45d36a3034745896060" title="AgentParam::qos_priority\l_tagging" alt="" coords="212,362,399,403"/>
+<area shape="rect" id="node17" href="$d7/de7/classKSync.html#a47974f00854ab40e8eeb32397782c736" title="KSync::InitVrouterOps" alt="" coords="223,428,387,455"/>
+<area shape="rect" id="node18" href="$d0/d5a/classKSyncSock.html#a6eb7688fcb5f6d9f39b6b806027f4ace" title="KSyncSock::Start" alt="" coords="239,485,371,512"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a36cb87360504fb5f5087c502a34f4d3b" title="Sandesh::WriteBinary" alt="" coords="477,5,638,32"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#aae196a0ddd8c58e1cbae7866a763f326" title="KSyncSock::SendTo" alt="" coords="484,56,631,83"/>
+<area shape="rect" id="node8" href="$d0/d5a/classKSyncSock.html#a42d5b24854b753171fc2d80545369d71" title="KSyncSock::Receive" alt="" coords="481,107,633,133"/>
+<area shape="rect" id="node9" href="$d0/d5a/classKSyncSock.html#a0887686f05b0606185a56e13b5710fcf" title="KSyncSock::GetAgentSandesh\lContext" alt="" coords="449,158,666,199"/>
+<area shape="rect" id="node10" href="$d1/d00/classAgentSandeshContext.html#aabec00a57161c301310a6f4a791414c0" title="AgentSandeshContext\l::SetErrno" alt="" coords="474,223,641,265"/>
+<area shape="rect" id="node11" href="$d0/d5a/classKSyncSock.html#a51af361656507c2da1f53ac323ca4af6" title="KSyncSock::Decoder" alt="" coords="480,289,635,316"/>
+<area shape="rect" id="node12" href="$d1/d00/classAgentSandeshContext.html#a7a04cf90575d11967854e8d6d1a229ff" title="AgentSandeshContext\l::GetErrno" alt="" coords="474,341,641,382"/>
+<area shape="rect" id="node13" href="$dc/df2/classKSyncEntry.html#acc30fafabd09b24374cdc8ee8318feea" title="KSyncEntry::VrouterError\lToString" alt="" coords="466,406,649,447"/>
+<area shape="rect" id="node14" href="$d0/d5a/classKSyncSock.html#af5aca3a0adf93ca837a4c6491ad3e496" title="KSyncSock::IsMoreData" alt="" coords="470,472,645,499"/>
+<area shape="rect" id="node19" href="$d0/d5a/classKSyncSock.html#a5e37e6345af2f99e78b152b9707c21b2" title="KSyncSock::ReadHandler" alt="" coords="465,523,649,549"/>
+<area shape="rect" id="node20" href="$d0/d5a/classKSyncSock.html#a5ee412447e353373d6b01b17901ff5e1" title="KSyncSock::ValidateAndEnqueue" alt="" coords="715,497,949,524"/>
+<area shape="rect" id="node27" href="$d0/d5a/classKSyncSock.html#ad7244cb2c36f7d281bee46d783abdd1c" title="KSyncSock::AsyncReceive" alt="" coords="737,548,927,575"/>
+<area shape="rect" id="node21" href="$d0/d5a/classKSyncSock.html#a2d96b4ab9c39b0d1470bbe5e8c4214b3" title="KSyncSock::Validate" alt="" coords="1029,355,1184,381"/>
+<area shape="rect" id="node22" href="$d0/d5a/classKSyncSock.html#aaa76aea26dd263d975aa263ca6b0b033" title="KSyncSock::GetReceiveQueue" alt="" coords="998,405,1215,432"/>
+<area shape="rect" id="node23" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="1023,457,1191,498"/>
+<area shape="rect" id="node24" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="1023,522,1191,563"/>
+<area shape="rect" id="node25" href="$d0/d5a/classKSyncSock.html#a3bf0550e7f00e90d035c9bb883b1ee3e" title="KSyncSock::GetSeqno" alt="" coords="1025,588,1189,615"/>
+<area shape="rect" id="node26" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1026,639,1187,665"/>
+</map>

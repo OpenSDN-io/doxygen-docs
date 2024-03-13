@@ -1,0 +1,19 @@
+<map id="KSyncMemory::InitMem" name="KSyncMemory::InitMem">
+<area shape="rect" id="node2" href="$d3/df6/classKSyncMemory.html#ab4d8de0444c63a9c8db46ee406637a2c" title="KSyncMemory::GetKernelTableSize" alt="" coords="230,97,477,124"/>
+<area shape="rect" id="node16" href="$d3/df6/classKSyncMemory.html#a765c248dab766649ee4067b566c7fb8b" title="KSyncMemory::Mmap" alt="" coords="272,188,435,215"/>
+<area shape="rect" id="node3" href="$d3/df6/classKSyncMemory.html#a6adeaa5431573ab12ccba0ce5a3c717b" title="KSyncMemory::EncodeReq" alt="" coords="538,5,731,32"/>
+<area shape="rect" id="node4" href="$de/d67/classKSyncSockNetlink.html#ad0c9f7c8d1648176e769205e4018d9b4" title="KSyncSockNetlink::Netlink\lDecoder" alt="" coords="537,57,732,98"/>
+<area shape="rect" id="node15" href="$d0/d5a/classKSyncSock.html#a0887686f05b0606185a56e13b5710fcf" title="KSyncSock::GetAgentSandesh\lContext" alt="" coords="526,122,743,163"/>
+<area shape="rect" id="node5" href="$d5/d89/ksync__sock_8cc.html#a1cba39e20a131d6226f63fbcf16b0896" title="ValidateNetlink" alt="" coords="827,13,949,40"/>
+<area shape="rect" id="node7" href="$d5/d89/ksync__sock_8cc.html#a5b09ce322874abb0f4c36c4bd41ddec4" title="GetNetlinkPayload" alt="" coords="817,64,959,91"/>
+<area shape="rect" id="node8" href="$d5/d89/ksync__sock_8cc.html#adcec88b92809073f4ab9eb4ebf396304" title="DecodeSandeshMessages" alt="" coords="793,115,983,141"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#affbb26c1e594924e9440889268bd2c70" title="KSyncSock::GetNetlinkFamilyId" alt="" coords="1035,13,1261,40"/>
+<area shape="rect" id="node9" href="$de/d75/classSandesh.html#a3a6764f6633cab28f2c130f4ec76488e" title="Sandesh::ReceiveBinaryMsgOne" alt="" coords="1033,115,1263,141"/>
+<area shape="rect" id="node10" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="1322,23,1478,65"/>
+<area shape="rect" id="node12" href="$de/d75/classSandesh.html#aed76cd9fa4e995c2e28c96800d27773b" title="Sandesh::Read" alt="" coords="1341,89,1459,116"/>
+<area shape="rect" id="node13" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title="SandeshBuffer::Process" alt="" coords="1313,140,1487,167"/>
+<area shape="rect" id="node14" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="1332,191,1468,217"/>
+<area shape="rect" id="node11" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="1537,23,1693,65"/>
+<area shape="rect" id="node17" href="$d3/df6/classKSyncMemory.html#a678e0eec93af4b4378674834cba75ce8" title="KSyncMemory::get_entry_size" alt="" coords="526,188,743,215"/>
+<area shape="rect" id="node18" href="$d3/df6/classKSyncMemory.html#ae43498cfbb6d593ed4ef9031b5a4e1ee" title="KSyncMemory::SetTableSize" alt="" coords="533,239,737,265"/>
+</map>

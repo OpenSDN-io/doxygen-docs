@@ -1,0 +1,6 @@
+<map id="etcdserverpb::AuthRoleListResponse::MergeFrom" name="etcdserverpb::AuthRoleListResponse::MergeFrom">
+<area shape="rect" id="node2" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a776bf1e4a950cf2e3b48984364599172" title="etcdserverpb::AuthRoleList\lResponse::has_header" alt="" coords="253,5,449,46"/>
+<area shape="rect" id="node4" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a0f75ecb7a233aad947bda49124402a32" title="etcdserverpb::AuthRoleList\lResponse::mutable_header" alt="" coords="251,70,450,111"/>
+<area shape="rect" id="node5" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a8a29bbc380de5b6d1e54594b7975f925" title="etcdserverpb::AuthRoleList\lResponse::header" alt="" coords="253,135,449,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="499,5,723,46"/>
+</map>

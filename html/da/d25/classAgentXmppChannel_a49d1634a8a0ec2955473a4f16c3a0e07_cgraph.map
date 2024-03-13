@@ -1,0 +1,23 @@
+<map id="AgentXmppChannel::ReceiveMulticastUpdate" name="AgentXmppChannel::ReceiveMulticastUpdate">
+<area shape="rect" id="node2" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="296,5,440,32"/>
+<area shape="rect" id="node3" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="541,69,662,96"/>
+<area shape="rect" id="node4" href="$dd/d50/classXmlPugi.html#a70a76e8be6c292fdd3a0876f241eef97" title="XmlPugi::ReadNode" alt="" coords="293,107,443,133"/>
+<area shape="rect" id="node6" href="$dd/d50/classXmlPugi.html#aa013a9d61eb81cfdfe2a19be7e6c5e51" title="XmlPugi::ReadAttrib" alt="" coords="292,157,444,184"/>
+<area shape="rect" id="node7" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="277,209,459,250"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a122ffa3768fd8326c52f8edd30a4ff18" title="Agent::mulitcast_builder" alt="" coords="277,275,459,301"/>
+<area shape="rect" id="node9" href="$da/d25/classAgentXmppChannel.html#ab2a1d060775460d51aa36c0a86fd3a9a" title="AgentXmppChannel::GetBgp\lPeerName" alt="" coords="265,326,471,367"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="308,392,428,419"/>
+<area shape="rect" id="node11" href="$dc/dff/classOperDB.html#a1e1be91f26a92aea51eef8e64b23f7ca" title="OperDB::multicast" alt="" coords="297,443,439,469"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a26be3a3e9554e90a264df0d0a5bad68d" title="Agent::multicast_tree\l_builder_peer" alt="" coords="287,494,449,535"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="303,560,433,587"/>
+<area shape="rect" id="node14" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="287,611,449,637"/>
+<area shape="rect" id="node15" href="$d6/d9c/classMulticastHandler.html#a2cadbce885adaac7ec9545e7c6b016dc" title="MulticastHandler::Modify\lFabricMembers" alt="" coords="276,662,460,703"/>
+<area shape="rect" id="node22" href="$df/def/classVNController.html#ae41cc7870d0d4aa4b27fdb839d56f779" title="VNController::multicast\l_sequence_number" alt="" coords="281,727,455,769"/>
+<area shape="rect" id="node5" href="$dd/d50/classXmlPugi.html#a38612caa67a5894bd7d634e2b0bd3e4c" title="XmlPugi::SetContext" alt="" coords="523,145,679,172"/>
+<area shape="rect" id="node16" href="$db/db1/classMulticastGroupObject.html#a36f1c72b53bf22669d0ef2e50f190db8" title="MulticastGroupObject\l::set_peer" alt="" coords="520,531,683,573"/>
+<area shape="rect" id="node18" href="$db/db1/classMulticastGroupObject.html#aeb567ce99055d6b507472d9f264869d0" title="MulticastGroupObject\l::set_fabric_olist" alt="" coords="520,597,683,638"/>
+<area shape="rect" id="node19" href="$db/db1/classMulticastGroupObject.html#a199caa833d53f6b33ec2a77d56a8594a" title="MulticastGroupObject\l::set_fabric_label" alt="" coords="520,662,683,703"/>
+<area shape="rect" id="node20" href="$db/db1/classMulticastGroupObject.html#a67b6dfdf3e55b783f66ec405b8e857ca" title="MulticastGroupObject\l::mg_list_begin" alt="" coords="520,727,683,769"/>
+<area shape="rect" id="node21" href="$db/db1/classMulticastGroupObject.html#a7291c9acdb38c46326c0ca16a703d79e" title="MulticastGroupObject\l::mg_list_end" alt="" coords="520,793,683,834"/>
+<area shape="rect" id="node17" href="$db/db1/classMulticastGroupObject.html#a7b8b1a4d2cefc39dbd91608abf70021c" title="MulticastGroupObject\l::peer" alt="" coords="731,531,893,573"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="etcdserverpb::LeaseRevokeRequest::New" name="etcdserverpb::LeaseRevokeRequest::New">
+<area shape="rect" id="node2" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#af70bf8845d3fbc670b81e1f2e873c7f0" title="etcdserverpb::LeaseRevoke\lRequest::LeaseRevokeRequest" alt="" coords="257,86,477,127"/>
+<area shape="rect" id="node3" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a456bf4b5f140d33de33cab7378102f88" title="etcdserverpb::LeaseRevoke\lRequest::internal_default\l_instance" alt="" coords="547,5,749,61"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a49296b59072e64952734557842311494" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseRevokeRequest" alt="" coords="526,86,770,127"/>
+<area shape="rect" id="node7" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a3207c66bc0480ebcb4c7ab2cb8370c87" title="etcdserverpb::LeaseRevoke\lRequest::SharedCtor" alt="" coords="547,151,749,193"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ab4867343c1ad90509874f0cd51139546" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseRevokeRequestImpl" alt="" coords="819,86,1093,127"/>
+<area shape="rect" id="node6" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a47aab4df2e5d702a19ca11678e428e6c" title="etcdserverpb::LeaseRevoke\lRequest::InitAsDefaultInstance" alt="" coords="1142,86,1365,127"/>
+</map>

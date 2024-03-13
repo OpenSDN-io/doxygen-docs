@@ -1,0 +1,7 @@
+<map id="process::Signal::RegisterSigHandler" name="process::Signal::RegisterSigHandler">
+<area shape="rect" id="node2" href="$d0/d14/classprocess_1_1Signal.html#a9e42eb0ee6cdba18f95dcbb5ecff7610" title="process::Signal::HandleSig" alt="" coords="235,60,429,87"/>
+<area shape="rect" id="node3" href="$d0/d14/classprocess_1_1Signal.html#a76686a2e117902843430bdc02c7334e9" title="process::Signal::HandleSig\lOsSpecific" alt="" coords="477,23,672,65"/>
+<area shape="rect" id="node6" href="$d0/d14/classprocess_1_1Signal.html#ae2f181489d65db97298a2628d3c54033" title="process::Signal::NotifySig" alt="" coords="481,89,669,116"/>
+<area shape="rect" id="node4" href="$d0/d14/classprocess_1_1Signal.html#a02a8df5c7fe6e7c20d9c0665164e1421" title="process::Signal::WaitPid" alt="" coords="741,5,918,32"/>
+<area shape="rect" id="node5" href="$d0/d14/classprocess_1_1Signal.html#abe0dedad0c7dcc1d6e5d1cd44a05b215" title="process::Signal::NotifySigChld" alt="" coords="721,56,938,83"/>
+</map>

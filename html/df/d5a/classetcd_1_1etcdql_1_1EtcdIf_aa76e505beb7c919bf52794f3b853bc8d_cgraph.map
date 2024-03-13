@@ -1,0 +1,9 @@
+<map id="etcd::etcdql::EtcdIf::Watch" name="etcd::etcdql::EtcdIf::Watch">
+<area shape="rect" id="node2" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ada3fbfb0ae1538e43a6c2794e1cd001e" title="etcdserverpb::WatchCreate\lRequest::set_key" alt="" coords="202,5,401,46"/>
+<area shape="rect" id="node3" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ab644c9bc601fbb00da90a9eab0a0389c" title="etcdserverpb::WatchCreate\lRequest::set_prev_kv" alt="" coords="202,70,401,111"/>
+<area shape="rect" id="node4" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a45123a700a2d95e5d3bfc995a373ba12" title="etcdserverpb::WatchCreate\lRequest::set_range_end" alt="" coords="202,135,401,177"/>
+<area shape="rect" id="node5" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#aa35a3dfaaeb67cf1cecc0ac2badddc38" title="etcdserverpb::WatchRequest\l::mutable_create_request" alt="" coords="198,201,405,242"/>
+<area shape="rect" id="node6" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ad62328a028db78983a89a4e0bdacf18e" title="etcdserverpb::WatchCreate\lRequest::CopyFrom" alt="" coords="202,266,401,307"/>
+<area shape="rect" id="node7" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ade2fa5763b09b9fb6c540ebeda746ae8" title="etcdserverpb::WatchCreate\lRequest::Clear" alt="" coords="454,233,653,274"/>
+<area shape="rect" id="node8" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a6bfa1acaaa898b7b35a0ba74629ba91a" title="etcdserverpb::WatchCreate\lRequest::MergeFrom" alt="" coords="454,298,653,339"/>
+</map>

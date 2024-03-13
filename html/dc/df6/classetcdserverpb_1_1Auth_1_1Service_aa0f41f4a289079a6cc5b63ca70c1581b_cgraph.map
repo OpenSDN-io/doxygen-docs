@@ -1,0 +1,18 @@
+<map id="etcdserverpb::Auth::Service::Service" name="etcdserverpb::Auth::Service::Service">
+<area shape="rect" id="node2" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a2a7fd17153a78d1017b8240d101cb84b" title="etcdserverpb::Auth\l::Service::AuthEnable" alt="" coords="237,5,397,46"/>
+<area shape="rect" id="node3" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a06901ebbfb43a1f363746ef41c536d4b" title="etcdserverpb::Auth\l::Service::AuthDisable" alt="" coords="235,70,400,111"/>
+<area shape="rect" id="node4" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#ad1bd9915c8f03f49cfa1d6cbf44bb5ff" title="etcdserverpb::Auth\l::Service::Authenticate" alt="" coords="233,135,402,177"/>
+<area shape="rect" id="node5" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a7855de858b1c7d19516b8dfff8be7910" title="etcdserverpb::Auth\l::Service::UserAdd" alt="" coords="245,201,390,242"/>
+<area shape="rect" id="node6" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a103530649453c8612949d356b13c26b9" title="etcdserverpb::Auth\l::Service::UserGet" alt="" coords="245,266,390,307"/>
+<area shape="rect" id="node7" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a54158deba3aaac9b0de773f4ce6189e3" title="etcdserverpb::Auth\l::Service::UserList" alt="" coords="245,331,390,373"/>
+<area shape="rect" id="node8" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#ac71ca2a6d8cdcbb1b361116c8f216be4" title="etcdserverpb::Auth\l::Service::UserDelete" alt="" coords="238,397,397,438"/>
+<area shape="rect" id="node9" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a98f65be8b00d38eb64a50d280430d787" title="etcdserverpb::Auth\l::Service::UserChangePassword" alt="" coords="204,462,431,503"/>
+<area shape="rect" id="node10" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a1702171772378614bb7092dd2340916c" title="etcdserverpb::Auth\l::Service::UserGrantRole" alt="" coords="227,527,407,569"/>
+<area shape="rect" id="node11" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#ae97b3b9d4f196f14033a2d591cae4957" title="etcdserverpb::Auth\l::Service::UserRevokeRole" alt="" coords="221,593,413,634"/>
+<area shape="rect" id="node12" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a225d891762f13b6d433e2032f781e7c9" title="etcdserverpb::Auth\l::Service::RoleAdd" alt="" coords="245,658,390,699"/>
+<area shape="rect" id="node13" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#acadeaa84f4aab6c91db770c7dd82b8c2" title="etcdserverpb::Auth\l::Service::RoleGet" alt="" coords="245,723,390,765"/>
+<area shape="rect" id="node14" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a79bfd0354c38c50c2deb1ddbbeee7e08" title="etcdserverpb::Auth\l::Service::RoleList" alt="" coords="245,789,390,830"/>
+<area shape="rect" id="node15" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#aed64455204f287f99a66e17dfc0ce1e8" title="etcdserverpb::Auth\l::Service::RoleDelete" alt="" coords="239,854,396,895"/>
+<area shape="rect" id="node16" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#acfd031e3d86bbf65d59fc66c4152b4a0" title="etcdserverpb::Auth\l::Service::RoleGrantPermission" alt="" coords="206,919,429,961"/>
+<area shape="rect" id="node17" href="$dc/df6/classetcdserverpb_1_1Auth_1_1Service.html#a7a1b8539f31aaa67043311c3175666a1" title="etcdserverpb::Auth\l::Service::RoleRevokePermission" alt="" coords="200,985,435,1026"/>
+</map>

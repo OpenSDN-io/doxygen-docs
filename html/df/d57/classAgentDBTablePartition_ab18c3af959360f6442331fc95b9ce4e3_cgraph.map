@@ -1,0 +1,11 @@
+<map id="AgentDBTablePartition::Remove" name="AgentDBTablePartition::Remove">
+<area shape="rect" id="node2" href="$db/d89/classAgentDBEntry.html#af7eed57dca3c31516371e37e3c0b06b5" title="AgentDBEntry::GetRefCount" alt="" coords="236,5,439,32"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a5bb94a9f04dad1aabc1e597b3a0660af" title="DBEntryBase::ClearOnRemoveQ" alt="" coords="222,56,453,83"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="801,157,983,184"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="243,157,432,184"/>
+<area shape="rect" id="node6" href="$df/d9e/classDBTablePartition.html#abecff2495c06e5f08a2ea4b4baea14ba" title="DBTablePartition::Remove" alt="" coords="242,233,433,260"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="502,208,751,235"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a19f4005a36e617490f47cd315f61ebe5" title="DBEntryBase::ToString" alt="" coords="543,259,710,285"/>
+<area shape="rect" id="node9" href="$df/d9e/classDBTablePartition.html#ad2d8bc96b30dc1c6cc4fb81435b98280" title="DBTablePartition::table" alt="" coords="541,309,712,336"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="531,360,723,387"/>
+</map>

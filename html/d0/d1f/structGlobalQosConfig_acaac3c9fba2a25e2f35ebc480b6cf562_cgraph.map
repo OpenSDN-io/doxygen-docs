@@ -1,0 +1,23 @@
+<map id="GlobalQosConfig::ConfigAddChange" name="GlobalQosConfig::ConfigAddChange">
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="279,5,446,32"/>
+<area shape="rect" id="node3" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="537,56,708,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a5ab41e35b5b4a421396e9e670c86f900" title="Agent::SetXmppDscp" alt="" coords="543,107,702,133"/>
+<area shape="rect" id="node13" href="$d0/d1f/structGlobalQosConfig.html#a2674fa3689a91f4acac79489a1ae44b0" title="GlobalQosConfig::SetDnsDscp" alt="" coords="515,259,731,285"/>
+<area shape="rect" id="node17" href="$de/d75/classSandesh.html#ab013deac87289ca969a2a04409df0fd9" title="Sandesh::SetDscpValue" alt="" coords="535,171,710,197"/>
+<area shape="rect" id="node22" href="$d0/d1f/structGlobalQosConfig.html#aa2b5d4f6024f4f6b6bf0e6fa04beed0f" title="GlobalQosConfig::ResetDscp" alt="" coords="259,157,466,184"/>
+<area shape="rect" id="node5" href="$db/de5/classXmppClient.html#a9c5f4b99fe3fc917134b15661c2fffff" title="XmppClient::SetDscpValue" alt="" coords="788,81,983,108"/>
+<area shape="rect" id="node6" href="$db/de5/classXmppClient.html#ab26e1d6f301ba972e0380c4cef9c7038" title="XmppClient::FindConnection" alt="" coords="1053,31,1259,57"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#a9a41ec1045539130e0f99716e2ee50fd" title="XmppConnection::SetDscpValue" alt="" coords="1041,81,1271,108"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title="TcpSession::SetDscpSocket\lOption" alt="" coords="1321,99,1519,141"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="1593,48,1735,75"/>
+<area shape="rect" id="node10" href="$de/df9/classTcpServer.html#ad555a8053ae73838c80c0f03290dec97" title="TcpServer::SetDscpSocket\lOption" alt="" coords="1569,99,1759,141"/>
+<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1592,165,1736,192"/>
+<area shape="rect" id="node11" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="1808,107,1928,133"/>
+<area shape="rect" id="node14" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title="BindResolver::Resolver" alt="" coords="800,309,971,336"/>
+<area shape="rect" id="node15" href="$d0/d5b/classBindResolver.html#ad140c92e7bbb2afd354d4d845396529f" title="BindResolver::SetDscpValue" alt="" coords="783,259,987,285"/>
+<area shape="rect" id="node16" href="$d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409" title="BindResolver::SetDscpSocket\lOption" alt="" coords="1050,285,1262,326"/>
+<area shape="rect" id="node18" href="$de/d75/classSandesh.html#a751f512c61b479b20f8a5c4c10e5e1ac" title="Sandesh::client" alt="" coords="825,132,946,159"/>
+<area shape="rect" id="node19" href="$d3/d7b/classSandeshClient.html#a6acedd190214ebb995a801f47a67d544" title="SandeshClient::SetDscpValue" alt="" coords="779,183,991,209"/>
+<area shape="rect" id="node20" href="$d3/d7b/classSandeshClient.html#a32f1e629d1138d55762c4c7c0122c11b" title="SandeshClient::session" alt="" coords="1070,183,1242,209"/>
+<area shape="rect" id="node21" href="$db/d45/classSandeshHttp.html#a57c694ee6524d1c898209be88b9a1a0d" title="SandeshHttp::UpdateDscp" alt="" coords="1060,233,1252,260"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="etcdserverpb::AuthRoleAddResponse::New" name="etcdserverpb::AuthRoleAddResponse::New">
+<area shape="rect" id="node2" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#a2b15d07a780698561e42e740870cd65b" title="etcdserverpb::AuthRoleAdd\lResponse::AuthRoleAddResponse" alt="" coords="253,86,491,127"/>
+<area shape="rect" id="node3" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#ac42e201a52f851cb1f5e3cd1777ab88b" title="etcdserverpb::AuthRoleAdd\lResponse::internal_default\l_instance" alt="" coords="565,5,763,61"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ae80acc428fc2b830b231014986c89b2b" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleAddResponse" alt="" coords="539,86,789,127"/>
+<area shape="rect" id="node11" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#a7e76364d26d1aa39cc5b271ee99e7eb9" title="etcdserverpb::AuthRoleAdd\lResponse::SharedCtor" alt="" coords="565,151,763,193"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a46b37c14d53797c8b11ba53fe405d2fb" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleAddResponseImpl" alt="" coords="837,86,1117,127"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="1174,53,1389,94"/>
+<area shape="rect" id="node9" href="$de/d7d/classetcdserverpb_1_1AuthRoleAddResponse.html#a6d6aa73779e2f003c8ff5889bb67f77e" title="etcdserverpb::AuthRoleAdd\lResponse::InitAsDefaultInstance" alt="" coords="1165,118,1397,159"/>
+<area shape="rect" id="node7" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1446,53,1690,94"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1739,53,1963,94"/>
+<area shape="rect" id="node10" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1456,118,1680,159"/>
+</map>

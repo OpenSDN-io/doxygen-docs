@@ -1,0 +1,14 @@
+<map id="InstanceManager::UpdateStateStatusType" name="InstanceManager::UpdateStateStatusType">
+<area shape="rect" id="node2" href="$d2/d17/classInstanceManager.html#a83fc3abb2abda34fd40e452c8c6f1c46" title="InstanceManager::Unregister\lSvcInstance" alt="" coords="278,115,487,157"/>
+<area shape="rect" id="node3" href="$d2/d17/classInstanceManager.html#a783cf7b883c5a430aa11b36545748407" title="InstanceManager::GetState" alt="" coords="537,64,735,91"/>
+<area shape="rect" id="node9" href="$d1/d03/classInstanceState.html#a4ef750f8c9aad16211abccd6e89d5c38" title="InstanceState::errors" alt="" coords="304,181,461,208"/>
+<area shape="rect" id="node10" href="$d1/d03/classInstanceState.html#abec4347df9cb753de401f49ded7ad50c" title="InstanceState::set\l_status" alt="" coords="313,233,452,274"/>
+<area shape="rect" id="node12" href="$d1/d03/classInstanceState.html#a9a135632da2b9cd93f63e2862d997464" title="InstanceState::status_type" alt="" coords="285,299,480,325"/>
+<area shape="rect" id="node13" href="$d1/d03/classInstanceState.html#ad98c13030b35859b98232ca1f2230246" title="InstanceState::set\l_status_type" alt="" coords="313,350,452,391"/>
+<area shape="rect" id="node8" href="$d1/d03/classInstanceState.html#a76e45bdd3ea53af4f0e3103053b878e7" title="InstanceState::decr\l_tasks_running" alt="" coords="563,115,709,157"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="787,35,959,61"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aba50fab5e810df7214a574f8aaf55f55" title="Agent::service_instance\l_table" alt="" coords="785,86,962,127"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1011,5,1237,32"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1029,57,1219,98"/>
+<area shape="rect" id="node11" href="$d1/d03/classInstanceState.html#acbdee11150a46d7e52f5c73c9f0b8808" title="InstanceState::status" alt="" coords="557,299,715,325"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="VrouterUveEntryBase::AppendInterface" name="VrouterUveEntryBase::AppendInterface">
+<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="251,5,368,32"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="221,56,398,83"/>
+<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="458,212,633,239"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title="Agent::NullString" alt="" coords="243,157,375,184"/>
+<area shape="rect" id="node6" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="257,208,361,235"/>
+<area shape="rect" id="node7" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="239,259,380,285"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a69109a71e7b00199ef93020e625241f0" title="Agent::tsn_enabled" alt="" coords="236,309,383,336"/>
+<area shape="rect" id="node9" href="$dd/d26/classVrouterUveEntryBase.html#a219b06e17fc7e0bb06ab1d26526c2d57" title="VrouterUveEntryBase\l::VmiToPhysicalDevice" alt="" coords="225,478,394,519"/>
+<area shape="rect" id="node12" href="$d0/d7e/classPhysicalDevice.html#afba1ec1c7d2d71daf996e81c7d9b5e38" title="PhysicalDevice::master" alt="" coords="222,427,397,453"/>
+<area shape="rect" id="node13" href="$dd/d26/classVrouterUveEntryBase.html#adb8d2b390bf09524c15261ea25274ded" title="VrouterUveEntryBase\l::AppendInterfaceInternal" alt="" coords="216,361,403,402"/>
+<area shape="rect" id="node18" href="$d2/d81/classPhysicalInterface.html#a12cb7b5b54b1059ea9911ce6fd5bd4ad" title="PhysicalInterface::\lgetBondChildIntfMap" alt="" coords="230,543,389,585"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#a8c3d0aba9a0dbe2147147d23a1be1bd7" title="VmInterface::logical\l_interface" alt="" coords="469,449,622,490"/>
+<area shape="rect" id="node11" href="$d4/d25/classLogicalInterface.html#ab17562d309b7465dc646a7ab2005c398" title="LogicalInterface::physical\l_interface" alt="" coords="451,514,639,555"/>
+<area shape="rect" id="node14" href="$d0/dcc/classInterface.html#ae91343c296330677f954377b7cdfbdfd" title="Interface::IsUveActive" alt="" coords="462,368,629,395"/>
+<area shape="rect" id="node15" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="688,317,851,344"/>
+<area shape="rect" id="node16" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="688,368,851,395"/>
+<area shape="rect" id="node17" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="696,419,843,445"/>
+</map>

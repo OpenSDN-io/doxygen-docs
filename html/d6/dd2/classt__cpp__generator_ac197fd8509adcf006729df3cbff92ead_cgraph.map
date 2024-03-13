@@ -1,0 +1,11 @@
+<map id="t_cpp_generator::generate_struct_definition" name="t_cpp_generator::generate_struct_definition">
+<area shape="rect" id="node2" href="$dd/dd9/classt__struct__common.html#a2ec55420c9325ef44aebbcd7bedbfa58" title="t_struct_common::get\l_members" alt="" coords="249,5,413,46"/>
+<area shape="rect" id="node3" href="$da/dc6/classProcessorGenerator.html#a5ee9b22c9f90db5b0e3f429f3710d02f" title="ProcessorGenerator\l::indent" alt="" coords="255,70,406,111"/>
+<area shape="rect" id="node4" href="$d5/d02/classt__type.html#a6c0f5b6dc899f26ac30204e99da59c97" title="t_type::get_name" alt="" coords="263,136,399,163"/>
+<area shape="rect" id="node5" href="$da/dc6/classProcessorGenerator.html#a9d037d4fbcf5dd95d2405797039de1b4" title="ProcessorGenerator\l::indent_up" alt="" coords="255,187,406,229"/>
+<area shape="rect" id="node6" href="$d5/d02/classt__type.html#ad5a78b3b8203735cc1de4a3079476b4d" title="t_type::is_base_type" alt="" coords="253,253,409,280"/>
+<area shape="rect" id="node7" href="$da/dc6/classProcessorGenerator.html#a2cf32c150f1347238579ca3c66e6a790" title="ProcessorGenerator\l::indent_down" alt="" coords="255,305,406,346"/>
+<area shape="rect" id="node8" href="$d5/d02/classt__type.html#a3f11278982fb2a8aca03e9a6be33bb3d" title="t_type::is_enum" alt="" coords="267,371,394,397"/>
+<area shape="rect" id="node9" href="$da/dc6/classProcessorGenerator.html#a98f8d52c371d3c2f1bbbcb843712fd88" title="ProcessorGenerator\l::type_name" alt="" coords="255,422,406,463"/>
+<area shape="rect" id="node10" href="$d5/d02/classt__type.html#a43c78372763860d7394f976ec9ab38b5" title="t_type::is_string" alt="" coords="267,488,394,515"/>
+</map>

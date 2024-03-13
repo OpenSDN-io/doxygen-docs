@@ -1,0 +1,11 @@
+<map id="etcdserverpb::AuthRoleListResponse::AuthRoleListResponse" name="etcdserverpb::AuthRoleListResponse::AuthRoleListResponse">
+<area shape="rect" id="node2" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a86771e849e5baa982bafd0fc5f93c513" title="etcdserverpb::AuthRoleList\lResponse::internal_default\l_instance" alt="" coords="315,5,511,61"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0bf3c1cbb408a7db1efaeae681c46ad7" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListResponse" alt="" coords="289,86,538,127"/>
+<area shape="rect" id="node10" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#ad760904d60010a38300cafbed280fdde" title="etcdserverpb::AuthRoleList\lResponse::SharedCtor" alt="" coords="315,151,511,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#aa96df0c2de5c0565d548af7e4271c335" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListResponseImpl" alt="" coords="587,86,866,127"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="923,53,1138,94"/>
+<area shape="rect" id="node8" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a65df7353fdd9c52c5992fa6ed607767a" title="etcdserverpb::AuthRoleList\lResponse::InitAsDefaultInstance" alt="" coords="915,118,1147,159"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1195,53,1439,94"/>
+<area shape="rect" id="node7" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1488,53,1712,94"/>
+<area shape="rect" id="node9" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1205,118,1429,159"/>
+</map>

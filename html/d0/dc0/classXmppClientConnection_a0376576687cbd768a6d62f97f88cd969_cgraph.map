@@ -1,0 +1,11 @@
+<map id="XmppClientConnection::~XmppClientConnection" name="XmppClientConnection::~XmppClientConnection">
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="258,5,465,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#aabcc7038e071406e320dddf2e2e24d08" title="XmppConnection::FromString" alt="" coords="256,56,467,83"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a074ea00a6f3ad5aceaf5d1dd864543aa" title="XmppConnection::ToString" alt="" coords="265,107,458,133"/>
+<area shape="rect" id="node5" href="$d0/dc0/classXmppClientConnection.html#ac2ffd451fa3b62ee7fa826aab64ff0f4" title="XmppClientConnection\l::server" alt="" coords="276,158,447,199"/>
+<area shape="rect" id="node6" href="$db/de5/classXmppClient.html#a49ace7122bb159458d7e4bf84c867976" title="XmppClient::RemoveConnection" alt="" coords="245,224,477,251"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="525,199,728,225"/>
+<area shape="rect" id="node10" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="527,249,726,276"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="776,173,963,200"/>
+<area shape="rect" id="node9" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="779,224,959,251"/>
+</map>

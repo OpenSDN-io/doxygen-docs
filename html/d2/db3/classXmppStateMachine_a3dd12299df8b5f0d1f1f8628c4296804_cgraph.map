@@ -1,0 +1,36 @@
+<map id="XmppStateMachine::~XmppStateMachine" name="XmppStateMachine::~XmppStateMachine">
+<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#a6749fce09b480760e1313b900a1938c0" title="WorkQueue::Shutdown" alt="" coords="231,84,401,111"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#aa2b9429f630abfa35f9737c1b426b1db" title="XmppStateMachine::set\l_session" alt="" coords="228,135,404,177"/>
+<area shape="rect" id="node15" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="213,224,419,251"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a0193d0f7737159ccec3e8257696f22cc" title="XmppConnection::clear\l_session" alt="" coords="488,15,661,57"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a34892f59f62a4b72e7b19619a65afd70" title="XmppStateMachine::Delete\lSession" alt="" coords="475,90,674,131"/>
+<area shape="rect" id="node14" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="472,156,677,183"/>
+<area shape="rect" id="node5" href="$d5/d13/classXmppSession.html#a8557946a9346d92fdde9f2ed6b543305" title="XmppSession::ClearConnection" alt="" coords="731,5,957,32"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="751,56,937,83"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="775,107,913,133"/>
+<area shape="rect" id="node12" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="738,157,950,184"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="1035,56,1194,83"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1021,107,1208,133"/>
+<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1300,107,1444,133"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1034,157,1195,184"/>
+<area shape="rect" id="node16" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="526,211,623,237"/>
+<area shape="rect" id="node17" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="519,261,631,288"/>
+<area shape="rect" id="node35" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="467,312,682,339"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="743,241,945,268"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="761,477,927,504"/>
+<area shape="rect" id="node34" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="783,528,905,555"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1007,208,1223,235"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1277,201,1467,242"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1019,259,1210,301"/>
+<area shape="rect" id="node25" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1053,325,1176,352"/>
+<area shape="rect" id="node26" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1031,376,1198,403"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1277,369,1467,410"/>
+<area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1035,477,1194,504"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1011,528,1218,555"/>
+<area shape="rect" id="node29" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1005,579,1224,605"/>
+<area shape="rect" id="node30" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1008,629,1221,656"/>
+<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1035,680,1195,707"/>
+<area shape="rect" id="node32" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1023,731,1206,757"/>
+<area shape="rect" id="node33" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1026,781,1203,808"/>
+<area shape="rect" id="node24" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1272,267,1472,293"/>
+</map>

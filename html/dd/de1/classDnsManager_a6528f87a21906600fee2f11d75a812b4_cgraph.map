@@ -1,0 +1,21 @@
+<map id="DnsManager::DnsPtrZone" name="DnsManager::DnsPtrZone">
+<area shape="rect" id="node2" href="$d8/d80/classBindStatus.html#a44f4759e20fdcd05c4b2f5b75dcd2ac2" title="BindStatus::IsUp" alt="" coords="302,5,431,32"/>
+<area shape="rect" id="node3" href="$d0/d31/structVirtualDnsConfig.html#a063838e2bcc1d8d1344ca7f3eb21013d" title="VirtualDnsConfig::GetDomainName" alt="" coords="241,56,493,83"/>
+<area shape="rect" id="node4" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="854,301,1013,328"/>
+<area shape="rect" id="node5" href="$d4/da5/structDnsConfig.html#aceb4e7ae6bfcbaaa5b0946904e8e3c66" title="DnsConfig::ToEventString" alt="" coords="274,343,459,369"/>
+<area shape="rect" id="node6" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="265,394,468,435"/>
+<area shape="rect" id="node7" href="$d3/d00/classNamedConfig.html#a8756e037d775fdc3bc3c8a37d10aefd2" title="NamedConfig::GetNamedConfig\lObject" alt="" coords="252,459,481,501"/>
+<area shape="rect" id="node8" href="$d3/d00/classNamedConfig.html#a5fae39ac8e855eaef104880fc7dbabed" title="NamedConfig::DelZone" alt="" coords="280,157,453,184"/>
+<area shape="rect" id="node11" href="$dd/de1/classDnsManager.html#a5bd79fe18219fa94a26cd27e7fd96ca6" title="DnsManager::PendingListZone\lDelete" alt="" coords="257,209,476,250"/>
+<area shape="rect" id="node20" href="$d3/d00/classNamedConfig.html#aa157b5827fd84432c359a5ab01532773" title="NamedConfig::AddZone" alt="" coords="279,107,455,133"/>
+<area shape="rect" id="node9" href="$d3/d24/structSubnet.html#a1a2ef7fc12233416fc3283d72346a29c" title="Subnet::GetReverseZones" alt="" coords="563,99,754,125"/>
+<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a66a336f33b3f8c7b5bb8ac51ae69a526" title="BindUtil::GetReverseZoneList" alt="" coords="827,99,1040,125"/>
+<area shape="rect" id="node12" href="$d0/d31/structVirtualDnsConfig.html#ae9f1bdda3c0144b5ff8f2b47fe4c34df" title="VirtualDnsConfig::GetViewName" alt="" coords="542,251,775,277"/>
+<area shape="rect" id="node14" href="$dd/de1/classDnsManager.html#abce238500719db71e0ccbdb2f0fbcc22" title="DnsManager::CheckZoneDelete" alt="" coords="545,200,772,227"/>
+<area shape="rect" id="node15" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title="DnsManager::ResetTransId" alt="" coords="562,149,755,176"/>
+<area shape="rect" id="node13" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title="BindUtil::RemoveSpecialChars" alt="" coords="824,251,1043,277"/>
+<area shape="rect" id="node16" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title="IndexAllocator::FreeIndex" alt="" coords="840,149,1027,176"/>
+<area shape="rect" id="node17" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title="BitSet::reset" alt="" coords="1091,149,1194,176"/>
+<area shape="rect" id="node18" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="1243,124,1343,151"/>
+<area shape="rect" id="node19" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="1243,175,1344,201"/>
+</map>

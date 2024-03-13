@@ -1,0 +1,26 @@
+<map id="IFMapServer::IFMapStaleEntriesCleaner" name="IFMapServer::IFMapStaleEntriesCleaner">
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,176,75,203"/>
+<area shape="rect" id="node6" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="222,43,485,114"/>
+<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,385,482,426"/>
+<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,304,470,360"/>
+<area shape="rect" id="node28" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapServer\l::QueueEntry, WorkQueue\&lt;\l IFMapServer::QueueEntry \&gt; \&gt;" alt="" coords="237,680,470,736"/>
+<area shape="rect" id="node3" href="$d4/db2/classIFMapServer.html" title="IFMapServer" alt="" coords="2478,1252,2581,1279"/>
+<area shape="rect" id="node4" href="$d7/db7/classIFMapChannelManager.html" title="IFMapChannelManager" alt="" coords="2086,1307,2255,1333"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt;" alt="" coords="691,221,949,262"/>
+<area shape="rect" id="node7" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="290,451,417,477"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="712,864,928,891"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="675,499,965,525"/>
+<area shape="rect" id="node27" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapServer\l::QueueEntry \&gt;" alt="" coords="724,997,916,1038"/>
+<area shape="rect" id="node11" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1829,1485,1931,1512"/>
+<area shape="rect" id="node22" href="$d6/dd0/classBitSet.html" title="BitSet" alt="" coords="549,1899,611,1925"/>
+<area shape="rect" id="node14" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="777,1623,863,1649"/>
+<area shape="rect" id="node25" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="1139,1323,1296,1349"/>
+<area shape="rect" id="node26" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="745,1323,895,1349"/>
+<area shape="rect" id="node12" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1493,1537,1683,1564"/>
+<area shape="rect" id="node29" href="$df/d70/classDB.html" title="DB" alt="" coords="2150,1837,2191,1864"/>
+<area shape="rect" id="node13" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1176,1623,1259,1649"/>
+<area shape="rect" id="node15" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="294,1652,413,1679"/>
+<area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="296,1753,411,1780"/>
+<area shape="rect" id="node23" href="$d0/d0c/classDBGraph.html" title="DBGraph" alt="" coords="2131,1181,2211,1208"/>
+<area shape="rect" id="node24" href="$d8/d60/classDBGraphBase.html" title="DBGraphBase" alt="" coords="1824,1123,1936,1149"/>
+</map>

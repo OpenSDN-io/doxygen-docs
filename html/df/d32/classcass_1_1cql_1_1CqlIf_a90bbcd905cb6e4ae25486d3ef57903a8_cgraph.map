@@ -1,0 +1,9 @@
+<map id="cass::cql::CqlIf::Db_GetMultiRow" name="cass::cql::CqlIf::Db_GetMultiRow">
+<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a877a3ba1b59f2d472d664d4e8e4c6291" title="cass::cql::impl::Db2Cass\lConsistency" alt="" coords="203,5,383,46"/>
+<area shape="rect" id="node3" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#aa6f8c6a7a5527c9cc14655f748652549" title="cass::cql::CqlIf::Increment\lTableReadFailStats" alt="" coords="198,70,389,111"/>
+<area shape="rect" id="node5" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title="cass::cql::CqlIf::Increment\lErrors" alt="" coords="198,135,389,177"/>
+<area shape="rect" id="node7" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#ad90d06a25dcd39c40cf6bdc6f0addb62" title="cass::cql::CqlIf::Increment\lTableReadStats" alt="" coords="198,201,389,242"/>
+<area shape="rect" id="node4" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a45a499c020c42a41beeab932d0880624" title="GenDb::GenDbIfStats\l::IncrementTableReadFail" alt="" coords="437,70,621,111"/>
+<area shape="rect" id="node6" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title="GenDb::GenDbIfStats\l::IncrementErrors" alt="" coords="449,135,609,177"/>
+<area shape="rect" id="node8" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a65a4c42de23cb76bbbe8572628098ff7" title="GenDb::GenDbIfStats\l::IncrementTableRead" alt="" coords="448,201,611,242"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="AgentStatsCollector::SendRequest" name="AgentStatsCollector::SendRequest">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="228,5,345,32"/>
+<area shape="rect" id="node3" href="$dc/dd4/classAgentParam.html#aec7646214ad6fe8442fda3ade03e21c4" title="AgentParam::cat_is\l_dpdk_mocked" alt="" coords="213,57,360,98"/>
+<area shape="rect" id="node4" href="$de/d75/classSandesh.html#a36cb87360504fb5f5087c502a34f4d3b" title="Sandesh::WriteBinary" alt="" coords="206,123,367,149"/>
+<area shape="rect" id="node5" href="$d2/db9/classAgentStatsCollector.html#a1fa9e7be521ecb9621c3141120368b9e" title="AgentStatsCollector\l::SendAsync" alt="" coords="211,174,362,215"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#ac6185486999d682bca64701bb6de09db" title="KSyncSock::Get" alt="" coords="446,101,570,128"/>
+<area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#aae241f6842eae7558797210e4029ca06" title="KSyncSock::AllocSeqNo" alt="" coords="421,152,595,179"/>
+<area shape="rect" id="node8" href="$d2/db9/classAgentStatsCollector.html#a1a7a03b09371eba8665380886c01538f" title="AgentStatsCollector\l::AllocateIoContext" alt="" coords="433,203,583,245"/>
+<area shape="rect" id="node9" href="$d0/d5a/classKSyncSock.html#a602c4eb9234600ee756bb680c1b59a9c" title="KSyncSock::GenericSend" alt="" coords="417,269,599,296"/>
+<area shape="rect" id="node10" href="$d7/dbd/classKSyncTxQueue.html#a1a293976621e6a95e7621c7fe597de82" title="KSyncTxQueue::Enqueue" alt="" coords="648,269,832,296"/>
+<area shape="rect" id="node11" href="$d7/dbd/classKSyncTxQueue.html#a573dde954a23ae08dcd74cc4ae248284" title="KSyncTxQueue::EnqueueInternal" alt="" coords="880,269,1115,296"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1163,269,1325,296"/>
+</map>

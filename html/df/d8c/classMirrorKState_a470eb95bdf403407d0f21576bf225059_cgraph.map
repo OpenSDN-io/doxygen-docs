@@ -1,0 +1,16 @@
+<map id="MirrorKState::Handler" name="MirrorKState::Handler">
+<area shape="rect" id="node2" href="$dc/dc6/classKState.html#a7a7400c4ce3c6c957bcac2e0c25961ce" title="KState::MoreData" alt="" coords="261,31,397,57"/>
+<area shape="rect" id="node3" href="$df/d8c/classMirrorKState.html#a0fe430fc8e2349484b38aef36f551159" title="MirrorKState::SendResponse" alt="" coords="227,81,432,108"/>
+<area shape="rect" id="node4" href="$df/d8c/classMirrorKState.html#aa19da89ae5eaf244a09e9415d9216ec7" title="MirrorKState::SendNextRequest" alt="" coords="216,132,443,159"/>
+<area shape="rect" id="node5" href="$dc/dc6/classKState.html#acf0a3cc7e2073c1e12d8a58e74ac8c54" title="KState::EncodeAndSend" alt="" coords="491,132,669,159"/>
+<area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#ac6185486999d682bca64701bb6de09db" title="KSyncSock::Get" alt="" coords="747,5,871,32"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="736,56,883,83"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ad4a65db06e85f19157e0674cff20f468" title="Agent::isMockMode" alt="" coords="735,107,883,133"/>
+<area shape="rect" id="node10" href="$de/d75/classSandesh.html#a36cb87360504fb5f5087c502a34f4d3b" title="Sandesh::WriteBinary" alt="" coords="729,157,890,184"/>
+<area shape="rect" id="node11" href="$d0/d5a/classKSyncSock.html#aae241f6842eae7558797210e4029ca06" title="KSyncSock::AllocSeqNo" alt="" coords="722,208,897,235"/>
+<area shape="rect" id="node12" href="$d0/d5a/classKSyncSock.html#a602c4eb9234600ee756bb680c1b59a9c" title="KSyncSock::GenericSend" alt="" coords="718,259,901,285"/>
+<area shape="rect" id="node9" href="$dc/dd4/classAgentParam.html#a77a189c48b14deeb88a50cd19dcbb99a" title="AgentParam::cat_is\l_agent_mocked" alt="" coords="968,99,1115,141"/>
+<area shape="rect" id="node13" href="$d7/dbd/classKSyncTxQueue.html#a1a293976621e6a95e7621c7fe597de82" title="KSyncTxQueue::Enqueue" alt="" coords="949,259,1133,285"/>
+<area shape="rect" id="node14" href="$d7/dbd/classKSyncTxQueue.html#a573dde954a23ae08dcd74cc4ae248284" title="KSyncTxQueue::EnqueueInternal" alt="" coords="1181,259,1416,285"/>
+<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1465,259,1626,285"/>
+</map>

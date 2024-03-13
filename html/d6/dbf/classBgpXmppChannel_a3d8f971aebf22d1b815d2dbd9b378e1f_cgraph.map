@@ -1,0 +1,12 @@
+<map id="BgpXmppChannel::GetMembershipInfo" name="BgpXmppChannel::GetMembershipInfo">
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#a328d737e9549ebb9e6f067150d9ae7b5" title="BgpXmppChannel::GetTable\lMembershipState" alt="" coords="333,5,536,46"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="359,71,511,97"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#ae1b50989fe8347f00f3acb93e86198cb" title="BgpServer::membership_mgr" alt="" coords="329,121,541,148"/>
+<area shape="rect" id="node5" href="$d2/d45/classBgpMembershipManager.html#af26170f8585e5627075565666712a956" title="BgpMembershipManager\l::GetRegistrationInfo" alt="" coords="343,173,526,214"/>
+<area shape="rect" id="node6" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="599,107,782,149"/>
+<area shape="rect" id="node10" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#aa43f8dafc54bd715ba141c6e746a5bb9" title="BgpMembershipManager\l::PeerRibState::instance_id" alt="" coords="593,173,789,214"/>
+<area shape="rect" id="node11" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2d15126d5d29b8c2533f19e5c08a107f" title="BgpMembershipManager\l::PeerRibState::subscription\l_gen_id" alt="" coords="590,239,791,295"/>
+<area shape="rect" id="node7" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="854,42,1037,83"/>
+<area shape="rect" id="node8" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="854,107,1037,149"/>
+<area shape="rect" id="node9" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="840,173,1051,214"/>
+</map>

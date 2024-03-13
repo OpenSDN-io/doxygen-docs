@@ -1,0 +1,11 @@
+<map id="process::Signal::Signal" name="process::Signal::Signal">
+<area shape="rect" id="node2" href="$d0/d14/classprocess_1_1Signal.html#aa4e2f09332a922b18a39bfcca0451552" title="process::Signal::Initialize" alt="" coords="221,35,405,61"/>
+<area shape="rect" id="node3" href="$d0/d14/classprocess_1_1Signal.html#ab5be66e4612fbbb739b7a65126cdaaaf" title="process::Signal::AddSignal" alt="" coords="686,5,879,32"/>
+<area shape="rect" id="node4" href="$d0/d14/classprocess_1_1Signal.html#a188e78d944b8f4d15cceb32c7e44a889" title="process::Signal::Initialize\lSigChild" alt="" coords="453,27,637,69"/>
+<area shape="rect" id="node5" href="$d0/d14/classprocess_1_1Signal.html#a6c41e4749856aaffe53f67f3788a8026" title="process::Signal::Register\lSigHandler" alt="" coords="455,93,636,134"/>
+<area shape="rect" id="node6" href="$d0/d14/classprocess_1_1Signal.html#a9e42eb0ee6cdba18f95dcbb5ecff7610" title="process::Signal::HandleSig" alt="" coords="685,100,880,127"/>
+<area shape="rect" id="node7" href="$d0/d14/classprocess_1_1Signal.html#a76686a2e117902843430bdc02c7334e9" title="process::Signal::HandleSig\lOsSpecific" alt="" coords="928,63,1123,105"/>
+<area shape="rect" id="node10" href="$d0/d14/classprocess_1_1Signal.html#ae2f181489d65db97298a2628d3c54033" title="process::Signal::NotifySig" alt="" coords="931,129,1119,156"/>
+<area shape="rect" id="node8" href="$d0/d14/classprocess_1_1Signal.html#a02a8df5c7fe6e7c20d9c0665164e1421" title="process::Signal::WaitPid" alt="" coords="1191,45,1369,72"/>
+<area shape="rect" id="node9" href="$d0/d14/classprocess_1_1Signal.html#abe0dedad0c7dcc1d6e5d1cd44a05b215" title="process::Signal::NotifySigChld" alt="" coords="1171,96,1389,123"/>
+</map>

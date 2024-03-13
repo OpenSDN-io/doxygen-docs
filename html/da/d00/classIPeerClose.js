@@ -1,0 +1,26 @@
+var classIPeerClose =
+[
+    [ "Families", "da/d00/classIPeerClose.html#ab6342620b90fdaec97f5db92cbbebadf", null ],
+    [ "~IPeerClose", "da/d00/classIPeerClose.html#a649669232caa97d77898fa7c549fc991", null ],
+    [ "Close", "da/d00/classIPeerClose.html#a1fb24586dcd915c948b50c272132930b", null ],
+    [ "CloseComplete", "da/d00/classIPeerClose.html#ab8750c2bfcc41a221cac4a037f4322a2", null ],
+    [ "CustomClose", "da/d00/classIPeerClose.html#af0c96cc8112d477c5c842287d4b2acb9", null ],
+    [ "Delete", "da/d00/classIPeerClose.html#ab9aafe8b10a6aa26bd056b2d1f874860", null ],
+    [ "GetGracefulRestartFamilies", "da/d00/classIPeerClose.html#ae0271ba47caf87391b0ff67766af521b", null ],
+    [ "GetGracefulRestartTime", "da/d00/classIPeerClose.html#a3186331b7a714a2809de1345758a562b", null ],
+    [ "GetLongLivedGracefulRestartFamilies", "da/d00/classIPeerClose.html#a756b0f12b5386b7481e8a4c5ecaad236", null ],
+    [ "GetLongLivedGracefulRestartTime", "da/d00/classIPeerClose.html#aa95407e427d5fef1609be207e78b0871", null ],
+    [ "GetManager", "da/d00/classIPeerClose.html#a04222ec8790fe95c5844de056ccd62d0", null ],
+    [ "GetTaskInstance", "da/d00/classIPeerClose.html#a7d6179e88b40a4890e552924901881b8", null ],
+    [ "GetTaskName", "da/d00/classIPeerClose.html#a8276585906e848edb0658b06cdf593b1", null ],
+    [ "GracefulRestartStale", "da/d00/classIPeerClose.html#a5fc7ba3c5245cf13d9329fbea795023e", null ],
+    [ "GracefulRestartSweep", "da/d00/classIPeerClose.html#a9fa5be1af3b26c8c2ab4e25dde70a721", null ],
+    [ "IsCloseGraceful", "da/d00/classIPeerClose.html#adba3e3d89ca2f81202a0a92321fe261e", null ],
+    [ "IsCloseLongLivedGraceful", "da/d00/classIPeerClose.html#a3b76535a2ed53d49e206a159ea584258", null ],
+    [ "IsReady", "da/d00/classIPeerClose.html#a2d0abc46de319728d8b9bf21afcbe2d5", null ],
+    [ "LongLivedGracefulRestartStale", "da/d00/classIPeerClose.html#a0d7e1ff22ea6049ce2006aa17db14669", null ],
+    [ "MembershipRequestCallbackComplete", "da/d00/classIPeerClose.html#a6c94f3f59a59df0db0335b4e95abdc8d", null ],
+    [ "peer", "da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b", null ],
+    [ "ReceiveEndOfRIB", "da/d00/classIPeerClose.html#aa542fcc43b7290dfd1144824b1c5d7f0", null ],
+    [ "UpdateRouteStats", "da/d00/classIPeerClose.html#ade0b5761ba130a6ade69f2b9237d69cf", null ]
+];

@@ -1,0 +1,10 @@
+<map id="etcdserverpb::AuthUserRevokeRoleResponse::default_instance" name="etcdserverpb::AuthUserRevokeRoleResponse::default_instance">
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a54b72d801d1fd5fa4177ce8dcdad0a6b" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleResponse" alt="" coords="287,31,502,87"/>
+<area shape="rect" id="node9" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a966851bf4d515e510e330d20b900d2ee" title="etcdserverpb::AuthUserRevoke\lRoleResponse::internal_default\l_instance" alt="" coords="283,111,506,167"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0fc143bc27a73a2528bc0d03e69e2daa" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserRevoke\lRoleResponseImpl" alt="" coords="555,31,770,87"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="842,5,1057,46"/>
+<area shape="rect" id="node7" href="$d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#a339889ca8a9f707cfe20d8e7929528ca" title="etcdserverpb::AuthUserRevoke\lRoleResponse::InitAsDefaultInstance" alt="" coords="819,70,1079,111"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1129,5,1373,46"/>
+<area shape="rect" id="node6" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1421,5,1645,46"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1139,70,1363,111"/>
+</map>

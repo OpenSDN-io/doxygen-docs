@@ -1,0 +1,10 @@
+<map id="etcdserverpb::WatchResponse::ByteSizeLong" name="etcdserverpb::WatchResponse::ByteSizeLong">
+<area shape="rect" id="node2" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#a3dfb64bcff9b9050e50bbd472461d416" title="etcdserverpb::WatchResponse\l::events_size" alt="" coords="273,5,490,46"/>
+<area shape="rect" id="node3" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#aa08198b32b1d170a6f373fd549db7d23" title="etcdserverpb::WatchResponse\l::events" alt="" coords="273,70,490,111"/>
+<area shape="rect" id="node4" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#aa8bc420b0f12a899908ce0862178f83f" title="etcdserverpb::WatchResponse\l::has_header" alt="" coords="273,135,490,177"/>
+<area shape="rect" id="node6" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#af448267f810735aabd3f2a44fa33896c" title="etcdserverpb::WatchResponse\l::watch_id" alt="" coords="273,201,490,242"/>
+<area shape="rect" id="node7" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#aa524c6384f072abc75ea42cfdf12428a" title="etcdserverpb::WatchResponse\l::compact_revision" alt="" coords="273,266,490,307"/>
+<area shape="rect" id="node8" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#abae01f2c3f5c99da7974079ba725c9a3" title="etcdserverpb::WatchResponse\l::created" alt="" coords="273,331,490,373"/>
+<area shape="rect" id="node9" href="$dd/d35/classetcdserverpb_1_1WatchResponse.html#a00feb5142ad7f8a8e9505f296f3ff8dc" title="etcdserverpb::WatchResponse\l::canceled" alt="" coords="273,397,490,438"/>
+<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="539,135,763,177"/>
+</map>

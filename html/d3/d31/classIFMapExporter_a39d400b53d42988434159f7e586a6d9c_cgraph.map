@@ -1,0 +1,21 @@
+<map id="IFMapExporter::DeleteStateIfAppropriate" name="IFMapExporter::DeleteStateIfAppropriate">
+<area shape="rect" id="node2" href="$db/db7/classIFMapState.html#a0a65796200635bd730171c6dac9dcdc7" title="IFMapState::CanDelete" alt="" coords="279,5,449,32"/>
+<area shape="rect" id="node3" href="$db/db7/classIFMapState.html#a17ad6aefd507f5abfef24a223f271b6c" title="IFMapState::advertised" alt="" coords="279,56,449,83"/>
+<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a582ba5a71e2add2ef1450ec8e5848669" title="BitSet::empty" alt="" coords="309,107,419,133"/>
+<area shape="rect" id="node5" href="$db/db7/classIFMapState.html#a34ea84fe493d9e5e412b2f516d36b611" title="IFMapState::interest" alt="" coords="288,157,440,184"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="273,208,455,235"/>
+<area shape="rect" id="node18" href="$d3/d31/classIFMapExporter.html#a2f994de9938cac4f4b3736ae867e32c6" title="IFMapExporter::TableListenerId" alt="" coords="253,385,475,412"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="795,117,1021,144"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="540,51,729,93"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="531,117,738,158"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="546,183,723,209"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="550,233,719,260"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="531,284,738,311"/>
+<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="523,335,747,361"/>
+<area shape="rect" id="node14" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="845,284,971,311"/>
+<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="820,335,996,361"/>
+<area shape="rect" id="node16" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="802,385,1014,412"/>
+<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1070,385,1287,412"/>
+<area shape="rect" id="node19" href="$d3/d31/classIFMapExporter.html#a566a83c5da12a9cfdd760d722dfb394b" title="IFMapExporter::Find" alt="" coords="560,385,709,412"/>
+<area shape="rect" id="node20" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a16f2879199fe51d54ec1d774f72a158f" title="IFMapExporter::TableInfo::id" alt="" coords="533,436,736,463"/>
+</map>

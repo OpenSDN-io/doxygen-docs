@@ -1,0 +1,14 @@
+<map id="VirtualDnsConfig::NotifyPendingDnsRecords" name="VirtualDnsConfig::NotifyPendingDnsRecords">
+<area shape="rect" id="node2" href="$d1/d12/structVirtualDnsRecordConfig.html#a518432dd99518c377189dcdaf31984e7" title="VirtualDnsRecordConfig\l::CanNotify" alt="" coords="235,191,410,233"/>
+<area shape="rect" id="node12" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="243,257,402,284"/>
+<area shape="rect" id="node13" href="$d4/da5/structDnsConfig.html#a962f06b2d8cc77b7963c73ed3414cfd0" title="DnsConfig::ClearNotified" alt="" coords="232,308,413,335"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="504,5,643,32"/>
+<area shape="rect" id="node4" href="$d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="472,57,675,98"/>
+<area shape="rect" id="node5" href="$d8/d1a/classBindUtil.html#a95d379cfe9ef9028b522918d47cb3e4d" title="BindUtil::IsIP" alt="" coords="521,123,626,149"/>
+<area shape="rect" id="node6" href="$d8/d1a/classBindUtil.html#a54f70030253462d059bb6c2d4b5b4330" title="BindUtil::GetAddrFromPtrName" alt="" coords="461,173,685,200"/>
+<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#afe5ee6781842c1f61555f451f94adbf8" title="VirtualDnsConfig::GetSubnet" alt="" coords="470,224,677,251"/>
+<area shape="rect" id="node9" href="$d4/da5/structDnsConfig.html#aa42a149759abebcd31b8714e92b14710" title="DnsConfig::IsErrorLogged" alt="" coords="481,275,666,301"/>
+<area shape="rect" id="node10" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="494,325,653,352"/>
+<area shape="rect" id="node11" href="$d4/da5/structDnsConfig.html#a572158f0963fee45baa9f2656759170a" title="DnsConfig::MarkErrorLogged" alt="" coords="470,376,677,403"/>
+<area shape="rect" id="node8" href="$d5/d2f/structIpamConfig.html#a3c0ec3831971e3f77816ae97ae777840" title="IpamConfig::GetVnniList" alt="" coords="733,224,912,251"/>
+</map>

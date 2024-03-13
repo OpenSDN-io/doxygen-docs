@@ -1,0 +1,10 @@
+<map id="t_py_generator::generate_deserialize_struct" name="t_py_generator::generate_deserialize_struct">
+<area shape="rect" id="node2" href="$d7/dbd/classt__generator.html#a99da01af7c47d5c05495be8dcf849c27" title="t_generator::indent" alt="" coords="268,35,415,61"/>
+<area shape="rect" id="node3" href="$d8/d71/classt__py__generator.html#ab13d1251315f5b83a2ab2158b5cb1043" title="t_py_generator::type_name" alt="" coords="241,85,442,112"/>
+<area shape="rect" id="node4" href="$d5/d02/classt__type.html#a6ef68397e3d3033539c59df6e8dc9211" title="t_type::get_program" alt="" coords="491,5,645,32"/>
+<area shape="rect" id="node5" href="$d5/d02/classt__type.html#a0a4be92c47b903977cc6bd0a29b58f92" title="t_type::is_service" alt="" coords="500,56,636,83"/>
+<area shape="rect" id="node6" href="$d8/d71/classt__py__generator.html#aee7b6db0f0e85e1f719764255174e3d1" title="t_py_generator::get\l_real_py_module" alt="" coords="493,107,643,149"/>
+<area shape="rect" id="node9" href="$d5/d02/classt__type.html#a6c0f5b6dc899f26ac30204e99da59c97" title="t_type::get_name" alt="" coords="500,173,636,200"/>
+<area shape="rect" id="node7" href="$d4/dce/classt__program.html#a833b8f941e1285cc8b21436342fd8db9" title="t_program::get_namespace" alt="" coords="693,89,893,116"/>
+<area shape="rect" id="node8" href="$d4/dce/classt__program.html#a5b6e338b1f611845fcbef5b1641261b2" title="t_program::get_name" alt="" coords="712,140,875,167"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="FlowStatsManager::InitDone" name="FlowStatsManager::InitDone">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="320,156,440,183"/>
+<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#af893e87f5ad7309ed6568434e0c10d6b" title="OperDB::agent_profile" alt="" coords="297,207,463,233"/>
+<area shape="rect" id="node4" href="$d2/d0e/classAgentProfile.html#a3274485302fee61e76940ac0959e22e2" title="AgentProfile::RegisterFlow\lStatsCb" alt="" coords="284,258,476,299"/>
+<area shape="rect" id="node5" href="$d0/d29/classFlowStatsManager.html#aecbe09058b4d8a25fd1837dd24506fea" title="FlowStatsManager::SetProfileData" alt="" coords="259,324,501,351"/>
+<area shape="rect" id="node6" href="$d0/d91/flow__stats__manager_8cc.html#a6f5e28e3837032ac0931019f148c1ab4" title="SetQueueStats" alt="" coords="583,273,702,300"/>
+<area shape="rect" id="node19" href="$d0/d29/classFlowStatsManager.html#a34e1bab69207d53eedca6aaa40f6d530" title="FlowStatsManager::agent" alt="" coords="549,324,736,351"/>
+<area shape="rect" id="node20" href="$d0/d0f/classFlowStatsCollectorObject.html#ad7de715d07cf1d0000629af296893db8" title="FlowStatsCollectorObject\l::GetCollector" alt="" coords="550,375,735,417"/>
+<area shape="rect" id="node7" href="$db/d77/classFlowStatsCollector.html#a19817875ffd2fd2d51575144ba3bcbbf" title="FlowStatsCollector\l::queue" alt="" coords="817,5,959,46"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#aa8531834d8828994ec1b34e749cd2387" title="WorkQueue::Description" alt="" coords="799,71,977,97"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a324a23e345d56078c427ef3da64b5cd2" title="WorkQueue::Length" alt="" coords="813,121,963,148"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#ae2d4dc1496e6b548f00a4fd9ea659746" title="WorkQueue::NumEnqueues" alt="" coords="789,172,987,199"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a447d37e2fda0dbe4c4beaff2e61a2589" title="WorkQueue::NumDequeues" alt="" coords="787,223,989,249"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#aa7a2f55e15b420de0a95b072f9bb1fde" title="WorkQueue::max_queue_len" alt="" coords="784,273,992,300"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#a4537dae6d4f73a2f262aeddbda46d081" title="WorkQueue::task_starts" alt="" coords="799,324,977,351"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#ab84e170d8b51b3322bf072aaf29d338c" title="WorkQueue::busy_time" alt="" coords="801,375,975,401"/>
+<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html#af03022fb8a22a406467c293371b2a5cc" title="WorkQueue::set_measure\l_busy_time" alt="" coords="793,426,983,467"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a18c4d54957310b7374e8cb9f8be6cf63" title="Agent::MeasureQueueDelay" alt="" coords="787,492,989,519"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html#ae0a612d9d074837196a5656327d45f34" title="WorkQueue::ClearStats" alt="" coords="802,543,974,569"/>
+<area shape="rect" id="node17" href="$dc/dd4/classAgentParam.html#af6524b4e0492b9b1d4e4a211f1de4378" title="AgentParam::measure\l_queue_delay" alt="" coords="1041,485,1207,526"/>
+</map>

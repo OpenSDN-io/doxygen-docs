@@ -1,0 +1,21 @@
+<map id="scm::Connect::StartSession" name="scm::Connect::StartSession">
+<area shape="rect" id="node2" href="$d0/da4/classSandeshClientSMImpl.html#a578600a350d855acd1819862c056d2b6" title="SandeshClientSMImpl\l::GetMgr" alt="" coords="264,5,427,46"/>
+<area shape="rect" id="node3" href="$d3/de9/classSandeshClientSM_1_1Mgr.html#ae5d5b6faa0090dfe8d28e7d70f91f562" title="SandeshClientSM::Mgr\l::CreateSMSession" alt="" coords="262,70,429,111"/>
+<area shape="rect" id="node4" href="$d0/da4/classSandeshClientSMImpl.html#a202707ed80661cf66010f5c50da27274" title="SandeshClientSMImpl\l::OnSessionEvent" alt="" coords="264,201,427,242"/>
+<area shape="rect" id="node12" href="$d0/da4/classSandeshClientSMImpl.html#a60e5b02f870325378760299892152717" title="SandeshClientSMImpl\l::OnMessage" alt="" coords="264,266,427,307"/>
+<area shape="rect" id="node15" href="$dd/d68/classSandeshClientSM.html#a3ba706b4a47222442a54cdd19b1ccca9" title="SandeshClientSM::server" alt="" coords="254,332,437,359"/>
+<area shape="rect" id="node16" href="$d1/dfd/classSandeshSession.html#aac227be05fe5c7bf1227774b2c62e2be" title="SandeshSession::set\l_stats_client" alt="" coords="268,383,423,425"/>
+<area shape="rect" id="node17" href="$d3/de9/classSandeshClientSM_1_1Mgr.html#ac30e16d47cc8c6e270530a00af7d71f9" title="SandeshClientSM::Mgr\l::stats_client" alt="" coords="262,449,429,490"/>
+<area shape="rect" id="node18" href="$d0/da4/classSandeshClientSMImpl.html#af716d9538a989415543e770099fcb8fe" title="SandeshClientSMImpl\l::set_session" alt="" coords="264,135,427,177"/>
+<area shape="rect" id="node5" href="$dd/d68/classSandeshClientSM.html#a1ed0a51f8590f8283b8a66979d6c4ec6" title="SandeshClientSM::session" alt="" coords="743,183,934,209"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="510,157,663,184"/>
+<area shape="rect" id="node7" href="$d0/da4/classSandeshClientSMImpl.html#a324b2cd394d5e1fb42701d843d5de2b5" title="SandeshClientSMImpl\l::Enqueue" alt="" coords="505,259,668,301"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="758,249,919,276"/>
+<area shape="rect" id="node9" href="$d0/da4/classSandeshClientSMImpl.html#aee411207994c4bd001497a61fb301813" title="SandeshClientSMImpl\l::UpdateEventEnqueue" alt="" coords="753,301,924,342"/>
+<area shape="rect" id="node10" href="$d0/da4/classSandeshClientSMImpl.html#a07704bd8f72d71b06d3fac580e0f91f4" title="SandeshClientSMImpl\l::UpdateEventStats" alt="" coords="989,301,1152,342"/>
+<area shape="rect" id="node11" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title="SandeshEventStatistics\l::Update" alt="" coords="1201,301,1375,342"/>
+<area shape="rect" id="node13" href="$d9/d64/classSandeshReader.html#aeb81cff83e7d21331660bb125e6957a3" title="SandeshReader::ExtractMsg\lHeader" alt="" coords="485,325,688,366"/>
+<area shape="rect" id="node14" href="$d0/da4/classSandeshClientSMImpl.html#a8796735a03a6488ac9e36d5435b55458" title="SandeshClientSMImpl\l::StateName" alt="" coords="505,390,668,431"/>
+<area shape="rect" id="node19" href="$dd/d68/classSandeshClientSM.html#ad3e59117ca09d6c327f88c0b83703bdb" title="SandeshClientSM::set\l_session" alt="" coords="505,91,668,133"/>
+<area shape="rect" id="node20" href="$dd/d68/classSandeshClientSM.html#ad841f07ffbddef8fbee3c7e0278def83" title="SandeshClientSM::EnqueDel\lSession" alt="" coords="737,91,941,133"/>
+</map>

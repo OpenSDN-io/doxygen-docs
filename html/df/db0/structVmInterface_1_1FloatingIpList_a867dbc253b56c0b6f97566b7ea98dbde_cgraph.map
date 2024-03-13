@@ -1,0 +1,15 @@
+<map id="VmInterface::FloatingIpList::UpdateList" name="VmInterface::FloatingIpList::UpdateList">
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a0bafaf2144530b972791e5c506b95d91" title="VmInterface::UpdateState" alt="" coords="251,56,442,83"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#a6fd8985e3e50c8b468a0d5f1123a017d" title="VmInterface::agent" alt="" coords="513,5,660,32"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="760,5,936,32"/>
+<area shape="rect" id="node6" href="$d3/d0d/structVmInterfaceState.html#afec35722063c6ad7ffdc8a4580b90e30" title="VmInterfaceState::Update" alt="" coords="491,208,682,235"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1014,5,1197,32"/>
+<area shape="rect" id="node7" href="$d3/d0d/structVmInterfaceState.html#aeae5b1dd9ce7b9b1d60133c2fc6e357a" title="VmInterfaceState::RecomputeOp" alt="" coords="731,56,965,83"/>
+<area shape="rect" id="node8" href="$d3/d0d/structVmInterfaceState.html#afd2f4674681ee6c24d66dec3911a1b02" title="VmInterfaceState::GetOpL2" alt="" coords="748,107,948,133"/>
+<area shape="rect" id="node9" href="$d3/d0d/structVmInterfaceState.html#ab797b45a832c9a839e7480a760c88fcc" title="VmInterfaceState::GetOpL3" alt="" coords="748,157,948,184"/>
+<area shape="rect" id="node10" href="$d3/d0d/structVmInterfaceState.html#a9b3a279c9fab11cf50f763c5c3e7f3fa" title="VmInterfaceState::DeleteL2" alt="" coords="747,208,949,235"/>
+<area shape="rect" id="node11" href="$d3/d0d/structVmInterfaceState.html#a6cd1c77e7d4bed5ef5125f6dec843d42" title="VmInterfaceState::DeleteL3" alt="" coords="747,259,949,285"/>
+<area shape="rect" id="node12" href="$d3/d0d/structVmInterfaceState.html#af1151705cf2de0d052d5afa00466a947" title="VmInterfaceState::Copy" alt="" coords="759,309,937,336"/>
+<area shape="rect" id="node13" href="$d3/d0d/structVmInterfaceState.html#a274ca416183dd7144dd0d06a1f8bb6f1" title="VmInterfaceState::AddL3" alt="" coords="756,360,940,387"/>
+<area shape="rect" id="node14" href="$d3/d0d/structVmInterfaceState.html#a91a636a6833a88535d7d29193280a3fe" title="VmInterfaceState::AddL2" alt="" coords="756,411,940,437"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="KSyncNetlinkEntry::Delete" name="KSyncNetlinkEntry::Delete">
+<area shape="rect" id="node2" href="$d7/daa/classKSyncNetlinkEntry.html#a46689af4d608da7b28b5526b5ed4103c" title="KSyncNetlinkEntry::\lMsgLen" alt="" coords="217,5,367,46"/>
+<area shape="rect" id="node3" href="$d7/daa/classKSyncNetlinkEntry.html#a0985e97cb44ccd93a914cf513b2eb194" title="KSyncNetlinkEntry::\lDeleteMsg" alt="" coords="217,70,367,111"/>
+<area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html#ac6185486999d682bca64701bb6de09db" title="KSyncSock::Get" alt="" coords="230,136,354,163"/>
+<area shape="rect" id="node5" href="$d0/d5a/classKSyncSock.html#a717fe66740c699c4b64ed3cea1ea63c8" title="KSyncSock::SendAsync" alt="" coords="206,187,378,213"/>
+<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#ab3ad4af523a64ec291777ccbbc1b7167" title="KSyncEntry::pre_alloc\l_rx_buffer" alt="" coords="437,150,600,191"/>
+<area shape="rect" id="node7" href="$d7/dbd/classKSyncTxQueue.html#a1a293976621e6a95e7621c7fe597de82" title="KSyncTxQueue::Enqueue" alt="" coords="427,216,611,243"/>
+<area shape="rect" id="node8" href="$d7/dbd/classKSyncTxQueue.html#a573dde954a23ae08dcd74cc4ae248284" title="KSyncTxQueue::EnqueueInternal" alt="" coords="659,216,893,243"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="942,216,1103,243"/>
+</map>

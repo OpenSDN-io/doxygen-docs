@@ -1,0 +1,13 @@
+<map id="VrouterUveEntry::BuildAndSendVrouterControlStats" name="VrouterUveEntry::BuildAndSendVrouterControlStats">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#aa18b253180bd41fe0a3ce4a2d060f454" title="Agent::agent_name" alt="" coords="279,56,428,83"/>
+<area shape="rect" id="node3" href="$d2/d8f/classVrouterUveEntry.html#a6458c1bafb9ec8003edc8d720bb503a1" title="VrouterUveEntry::BuildXmpp\lStatsList" alt="" coords="249,107,457,149"/>
+<area shape="rect" id="node5" href="$d2/d8f/classVrouterUveEntry.html#a34e6b4bf21aae5b14475fa8019284527" title="VrouterUveEntry::FetchIFMap\lStats" alt="" coords="249,173,458,214"/>
+<area shape="rect" id="node12" href="$d2/d8f/classVrouterUveEntry.html#ad5050cab98609e7c5245421a3bf809c1" title="VrouterUveEntry::Dispatch\lVrouterControlStats" alt="" coords="256,238,451,279"/>
+<area shape="rect" id="node4" href="$da/d25/classAgentXmppChannel.html#a541709c09b761c8df1ada7d257d11da8" title="AgentXmppChannel::GetXmpp\lChannel" alt="" coords="507,5,727,46"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#af9c6eb18c295279b274e7cef83f885ff" title="Agent::cfg" alt="" coords="573,71,661,97"/>
+<area shape="rect" id="node7" href="$de/d13/classAgentConfig.html#aeb68056219958c24a81c05f72d0982fa" title="AgentConfig::cfg_parser" alt="" coords="529,121,706,148"/>
+<area shape="rect" id="node8" href="$d5/d6d/classIFMapAgentParser.html#aae31933d600999d18aa0121567032740" title="IFMapAgentParser::node\l_update_parse_errors" alt="" coords="528,173,707,214"/>
+<area shape="rect" id="node9" href="$d5/d6d/classIFMapAgentParser.html#a86271abc4833a307989570a50b0ef929" title="IFMapAgentParser::link\l_update_parse_errors" alt="" coords="532,238,703,279"/>
+<area shape="rect" id="node10" href="$d5/d6d/classIFMapAgentParser.html#a617edc7b2bb961853639feb3c8b42e84" title="IFMapAgentParser::node\l_delete_parse_errors" alt="" coords="528,303,707,345"/>
+<area shape="rect" id="node11" href="$d5/d6d/classIFMapAgentParser.html#af70d6f40a7de35d90fb2e7f2f60b0f99" title="IFMapAgentParser::link\l_delete_parse_errors" alt="" coords="532,369,703,410"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="metadata_ip.cc" name="metadata_ip.cc">
+<area shape="rect" id="node2" href="$d1/dde/route__common_8h.html" title="oper/route_common.h" alt="" coords="797,80,963,107"/>
+<area shape="rect" id="node38" href="$d4/d7d/ecmp__load__balance_8h.html" title="oper/ecmp_load_balance.h" alt="" coords="2713,485,2908,512"/>
+<area shape="rect" id="node31" href="$d3/d31/interface__common_8h.html" title="oper/interface_common.h" alt="" coords="1776,320,1965,347"/>
+<area shape="rect" id="node35" href="$d6/d62/vm__interface_8h.html" title="oper/vm_interface.h" alt="" coords="2763,403,2916,429"/>
+<area shape="rect" id="node46" href="$d4/d94/inet__unicast__route_8h.html" title="oper/inet_unicast_route.h" alt="" coords="1229,163,1416,189"/>
+<area shape="rect" id="node50" href="$d9/d4e/metadata__ip_8h.html" title="oper/metadata_ip.h" alt="" coords="2184,485,2333,512"/>
+<area shape="rect" id="node3" href="$de/d18/agent__cmn_8h.html" title="cmn/agent_cmn.h" alt="" coords="861,485,1000,512"/>
+<area shape="rect" id="node27" href="$de/d12/peer_8h.html" title="oper/peer.h" alt="" coords="482,485,576,512"/>
+<area shape="rect" id="node28" href="$de/d30/agent__route_8h.html" title="oper/agent_route.h" alt="" coords="709,245,853,272"/>
+<area shape="rect" id="node44" href="$d6/dc5/agent__path_8h.html" title="oper/agent_path.h" alt="" coords="810,163,949,189"/>
+<area shape="rect" id="node47" href="$de/dd9/inet4__multicast__route_8h.html" title="oper/inet4_multicast\l_route.h" alt="" coords="974,155,1129,197"/>
+<area shape="rect" id="node48" href="$dc/dd6/vnsw_2agent_2oper_2evpn__route_8h.html" title="oper/evpn_route.h" alt="" coords="227,163,367,189"/>
+<area shape="rect" id="node49" href="$d4/d3b/bridge__route_8h.html" title="oper/bridge_route.h" alt="" coords="392,163,541,189"/>
+<area shape="rect" id="node45" href="$d0/d9a/mpls_8h.html" title="oper/mpls.h" alt="" coords="1207,245,1305,272"/>
+<area shape="rect" id="node15" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1998,560,2148,587"/>
+<area shape="rect" id="node16" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="2151,635,2221,661"/>
+<area shape="rect" id="node18" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="429,709,539,736"/>
+<area shape="rect" id="node19" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="521,784,631,811"/>
+<area shape="rect" id="node20" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="582,635,753,661"/>
+<area shape="rect" id="node21" href="$d4/d04/db__table__walker_8h.html" title="db/db_table_walker.h" alt="" coords="531,560,691,587"/>
+<area shape="rect" id="node23" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="5,560,125,587"/>
+<area shape="rect" id="node22" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="829,635,947,661"/>
+<area shape="rect" id="node24" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="1170,635,1267,661"/>
+<area shape="rect" id="node25" href="$de/d9e/agent_8h.html" title="cmn/agent.h" alt="" coords="2449,560,2551,587"/>
+<area shape="rect" id="node33" href="$d4/da9/interface_8h.html" title="oper/interface.h" alt="" coords="1229,403,1355,429"/>
+<area shape="rect" id="node39" href="$d1/d6f/physical__interface_8h.html" title="oper/physical_interface.h" alt="" coords="1429,403,1616,429"/>
+<area shape="rect" id="node40" href="$db/da4/inet__interface_8h.html" title="oper/inet_interface.h" alt="" coords="1640,403,1797,429"/>
+<area shape="rect" id="node41" href="$df/d2b/packet__interface_8h.html" title="oper/packet_interface.h" alt="" coords="1821,403,1997,429"/>
+<area shape="rect" id="node42" href="$df/d36/logical__interface_8h.html" title="oper/logical_interface.h" alt="" coords="2209,403,2383,429"/>
+<area shape="rect" id="node43" href="$d4/d6b/remote__physical__interface_8h.html" title="oper/remote_physical\l_interface.h" alt="" coords="2021,395,2184,437"/>
+<area shape="rect" id="node34" href="$db/d5d/index__vector_8h.html" title="cmn/index_vector.h" alt="" coords="2275,560,2424,587"/>
+<area shape="rect" id="node36" href="$dc/d69/oper__dhcp__options_8h.html" title="oper/oper_dhcp_options.h" alt="" coords="3084,485,3273,512"/>
+<area shape="rect" id="node37" href="$dd/df6/audit__list_8h.html" title="oper/audit_list.h" alt="" coords="2933,485,3059,512"/>
+</map>

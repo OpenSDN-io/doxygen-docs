@@ -1,0 +1,15 @@
+<map id="BgpServer::DeleteActor::Destroy" name="BgpServer::DeleteActor::Destroy">
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a6ee61e127860be9dbdc73f64b7907e2f" title="BgpServer::config_manager" alt="" coords="238,5,439,32"/>
+<area shape="rect" id="node3" href="$da/d05/classBgpConfigManager.html#adf7c8aa28ffd46c145958c4acff124ca" title="BgpConfigManager::Terminate" alt="" coords="230,56,447,83"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="265,107,412,149"/>
+<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html#ac137d8bf84128c30add0c3d31c8220e8" title="BgpSessionManager::\lTerminate" alt="" coords="258,173,419,214"/>
+<area shape="rect" id="node11" href="$d0/dba/classTcpServerManager.html#a42e58b0b19fd4cefb47b46990e2c59c8" title="TcpServerManager::Delete\lServer" alt="" coords="243,238,435,279"/>
+<area shape="rect" id="node14" href="$db/d26/classBgpServer.html#a4a12d122ba9bd08368758d54ba9c52d3" title="BgpServer::set_destroyed" alt="" coords="244,304,433,331"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#ac6066a3e1740cbe088040851f76d3bcf" title="TcpServer::ClearSessions" alt="" coords="511,133,695,160"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a6749fce09b480760e1313b900a1938c0" title="WorkQueue::Shutdown" alt="" coords="518,184,687,211"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="758,133,895,160"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="944,133,1131,160"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1179,133,1323,160"/>
+<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#add33239746452389f6188521166aee3c" title="TcpServer::WaitForEmpty" alt="" coords="511,241,695,268"/>
+<area shape="rect" id="node13" href="$de/de4/classServerManager.html#af8feafe14c4add22d2d78f0d5b28b805" title="ServerManager::DeleteServer" alt="" coords="496,292,709,319"/>
+</map>

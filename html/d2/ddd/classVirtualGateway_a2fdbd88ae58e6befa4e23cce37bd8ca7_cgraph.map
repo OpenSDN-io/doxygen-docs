@@ -1,0 +1,7 @@
+<map id="VirtualGateway::SubnetUpdate" name="VirtualGateway::SubnetUpdate">
+<area shape="rect" id="node2" href="$df/dc6/classVirtualGatewayConfig.html#a1764cc36907e119692ecbf4b4fa1c2fc" title="VirtualGatewayConfig\l::get_interface" alt="" coords="290,5,454,46"/>
+<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="291,71,453,97"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="309,121,435,148"/>
+<area shape="rect" id="node5" href="$db/d35/classVrfTable.html#ac93be40d96e8ccdf2f35c2d3f557c2fe" title="VrfTable::GetInet4Unicast\lRouteTable" alt="" coords="278,173,466,214"/>
+<area shape="rect" id="node6" href="$df/dc6/classVirtualGatewayConfig.html#a306ed883c4ed943b4ea400433fbcb698" title="VirtualGatewayConfig\l::vrf_name" alt="" coords="290,238,454,279"/>
+</map>

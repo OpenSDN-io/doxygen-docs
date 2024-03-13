@@ -1,0 +1,34 @@
+<map id="VrouterUveEntryBase::RegisterDBClients" name="VrouterUveEntryBase::RegisterDBClients">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a51c3acf80aa60742d2a2c19779086945" title="Agent::vn_table" alt="" coords="241,147,365,173"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="219,197,387,224"/>
+<area shape="rect" id="node4" href="$dd/d26/classVrouterUveEntryBase.html#a3c8aab90f3f5d85cdf1ac6cb05359edd" title="VrouterUveEntryBase\l::VnNotify" alt="" coords="221,366,384,407"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a3af467d5407c28e06e5aa71755b0258c" title="Agent::vm_table" alt="" coords="238,315,367,341"/>
+<area shape="rect" id="node21" href="$dd/d26/classVrouterUveEntryBase.html#a93f9ecef0e8ef0078e5a966f613dc320" title="VrouterUveEntryBase\l::VmNotify" alt="" coords="221,249,384,290"/>
+<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="219,432,386,459"/>
+<area shape="rect" id="node23" href="$dd/d26/classVrouterUveEntryBase.html#a147cf88371ec1c869e232353ec48221b" title="VrouterUveEntryBase\l::InterfaceNotify" alt="" coords="221,614,384,655"/>
+<area shape="rect" id="node31" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="217,549,389,590"/>
+<area shape="rect" id="node32" href="$dd/d26/classVrouterUveEntryBase.html#af2fb264d9d15b836952262ea534e0c90" title="VrouterUveEntryBase\l::PhysicalDeviceNotify" alt="" coords="218,483,387,525"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="443,419,615,445"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="438,469,621,496"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="693,391,870,417"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="438,216,621,243"/>
+<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="444,267,615,293"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="941,249,1168,276"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="687,274,876,315"/>
+<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="678,209,885,250"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="697,107,866,133"/>
+<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="678,5,885,32"/>
+<area shape="rect" id="node14" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="669,56,893,83"/>
+<area shape="rect" id="node15" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="991,107,1118,133"/>
+<area shape="rect" id="node16" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="967,5,1143,32"/>
+<area shape="rect" id="node17" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="949,56,1161,83"/>
+<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1217,56,1434,83"/>
+<area shape="rect" id="node24" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="471,672,588,699"/>
+<area shape="rect" id="node25" href="$d0/dcc/classInterface.html#ae91343c296330677f954377b7cdfbdfd" title="Interface::IsUveActive" alt="" coords="446,723,613,749"/>
+<area shape="rect" id="node29" href="$d2/d81/classPhysicalInterface.html#ae825d148b4f0aab7428c03d07f94dfaf" title="PhysicalInterface::\lsubtype" alt="" coords="458,774,601,815"/>
+<area shape="rect" id="node30" href="$d2/d81/classPhysicalInterface.html#a12cb7b5b54b1059ea9911ce6fd5bd4ad" title="PhysicalInterface::\lgetBondChildIntfMap" alt="" coords="450,839,609,881"/>
+<area shape="rect" id="node26" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="700,672,863,699"/>
+<area shape="rect" id="node27" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="700,723,863,749"/>
+<area shape="rect" id="node28" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="708,773,855,800"/>
+<area shape="rect" id="node33" href="$d0/d7e/classPhysicalDevice.html#afba1ec1c7d2d71daf996e81c7d9b5e38" title="PhysicalDevice::master" alt="" coords="442,571,617,597"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="BgpMembershipManager::ProcessRegisterRibEvent" name="BgpMembershipManager::ProcessRegisterRibEvent">
+<area shape="rect" id="node2" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="266,70,449,111"/>
+<area shape="rect" id="node6" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a18ad31a297358b35d7d234b6a08cfbd2" title="BgpMembershipManager\l::PeerRibState::action" alt="" coords="266,135,449,177"/>
+<area shape="rect" id="node7" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="266,201,449,257"/>
+<area shape="rect" id="node8" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#aa954096e50378d4396e5b2080ef738c0" title="BgpMembershipManager\l::PeerRibState::set_instance_id" alt="" coords="246,282,469,323"/>
+<area shape="rect" id="node10" href="$d0/def/classBgpTable.html#a528aa4c7601e33411e56bebad495297e" title="BgpTable::IsDeleted" alt="" coords="282,348,433,375"/>
+<area shape="rect" id="node13" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af13bbe5adab6a431315a0bbfa176f2c2" title="BgpMembershipManager\l::PeerRibState::set_ribout\l_registered" alt="" coords="264,399,451,455"/>
+<area shape="rect" id="node14" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a705bfd004298fdd52f2de72b40dbc4af" title="BgpMembershipManager\l::PeerRibState::clear\l_action" alt="" coords="266,479,449,535"/>
+<area shape="rect" id="node15" href="$dd/d38/classIPeer.html#ab7da003c292c10968338075272b0818e" title="IPeer::MembershipRequest\lCallback" alt="" coords="260,559,455,601"/>
+<area shape="rect" id="node16" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a02730c3ab9a70b676cd47eb56f3f6ca8" title="BgpMembershipManager\l::PeerRibState::RegisterRibOut" alt="" coords="248,625,467,666"/>
+<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="531,5,714,46"/>
+<area shape="rect" id="node4" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="531,70,714,111"/>
+<area shape="rect" id="node5" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="517,135,728,177"/>
+<area shape="rect" id="node9" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#aa43f8dafc54bd715ba141c6e746a5bb9" title="BgpMembershipManager\l::PeerRibState::instance_id" alt="" coords="525,282,721,323"/>
+<area shape="rect" id="node11" href="$d0/def/classBgpTable.html#af5af7e396646606ce93c95f0365e0448" title="BgpTable::deleter" alt="" coords="555,348,690,375"/>
+<area shape="rect" id="node12" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="533,399,713,425"/>
+</map>

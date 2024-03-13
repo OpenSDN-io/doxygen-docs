@@ -1,0 +1,51 @@
+<map id="BFD::Server::ProcessControlPacket" name="BFD::Server::ProcessControlPacket">
+<area shape="rect" id="node2" href="$d1/d0a/namespaceBFD.html#a010a976d71c62b4a5b54e04116a0cd7d" title="BFD::ParseControlPacket" alt="" coords="267,71,448,97"/>
+<area shape="rect" id="node5" href="$d7/d90/classBFD_1_1Server.html#a0704ca2449cc7717b2ec032e305f6af8" title="BFD::Server::ProcessControl\lPacketActual" alt="" coords="256,206,459,247"/>
+<area shape="rect" id="node3" href="$d5/d3f/classProtoSequence.html#a96357b5bdda2bb227820072a28e6c043" title="ProtoSequence\&lt; ControlPacket\lMessage \&gt;::Parse" alt="" coords="507,5,731,46"/>
+<area shape="rect" id="node4" href="$d4/d50/classParseContext.html#aeec633bce04baa811d2fae50a329252a" title="ParseContext::release" alt="" coords="537,71,701,97"/>
+<area shape="rect" id="node6" href="$d5/d11/structBFD_1_1ControlPacket.html#a9f99780f0683da53b602f55714d01177" title="BFD::ControlPacket\l::Verify" alt="" coords="545,122,692,163"/>
+<area shape="rect" id="node7" href="$d7/d90/classBFD_1_1Server.html#ab9dcd98d171137ebe03c8ca53735669f" title="BFD::Server::GetSession" alt="" coords="529,239,708,265"/>
+<area shape="rect" id="node9" href="$d4/d83/classBFD_1_1Session.html#a91d1cbcc29bb4b2d8a59d7cc1ae136ae" title="BFD::Session::Stats" alt="" coords="812,56,959,83"/>
+<area shape="rect" id="node19" href="$d4/d83/classBFD_1_1Session.html#a03bb191523fee641f506cd710b72ec1d" title="BFD::Session::ProcessControl\lPacket" alt="" coords="513,526,724,567"/>
+<area shape="rect" id="node13" href="$d4/d83/classBFD_1_1Session.html#a29f1cce2b5e4f88625810df6527d870d" title="BFD::Session::toString" alt="" coords="1605,381,1771,408"/>
+<area shape="rect" id="node8" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a6fc646ff8a2f6fadbfa7acbf0b7d7fa4" title="BFD::Server::SessionManager\l::SessionByDiscriminator" alt="" coords="779,107,991,149"/>
+<area shape="rect" id="node10" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title="BFD::Server::SessionManager\l::SessionByKey" alt="" coords="779,173,991,214"/>
+<area shape="rect" id="node11" href="$d4/d83/classBFD_1_1Session.html#a9cf1f9cbb31b81f72137f1eb382d37ba" title="BFD::Session::key" alt="" coords="816,239,955,265"/>
+<area shape="rect" id="node12" href="$d4/d83/classBFD_1_1Session.html#a7fd916ea99c8dfdbb35dc14a7bf88096" title="BFD::Session::local\l_discriminator" alt="" coords="813,290,958,331"/>
+<area shape="rect" id="node14" href="$d6/d27/structBFD_1_1SessionKey.html#a6c3b424df08b561a0654162fc2ee9180" title="BFD::SessionKey::to\l_string" alt="" coords="1882,277,2033,318"/>
+<area shape="rect" id="node16" href="$d4/d83/classBFD_1_1Session.html#a833aa82a0305bc0dea8082c06275c34c" title="BFD::Session::local\l_state" alt="" coords="1885,342,2030,383"/>
+<area shape="rect" id="node18" href="$d4/d83/classBFD_1_1Session.html#a5bd17d0e194d287774d3ceb6d075bbdb" title="BFD::Session::remote\l_state" alt="" coords="1877,407,2038,449"/>
+<area shape="rect" id="node15" href="$da/d30/structBFD_1_1SessionIndex.html#a4ed1248f38fb33246f547e7ff402faf8" title="BFD::SessionIndex::\lto_string" alt="" coords="2118,277,2269,318"/>
+<area shape="rect" id="node17" href="$d4/d83/classBFD_1_1Session.html#a7a4ca6ec68c7f74db4eb76417e93daf3" title="BFD::Session::local\l_state_non_locking" alt="" coords="2120,505,2267,546"/>
+<area shape="rect" id="node20" href="$d4/d83/classBFD_1_1Session.html#a654beb5e50c932cf1ab1080e06660029" title="BFD::Session::ScheduleSend\lTimer" alt="" coords="783,738,988,779"/>
+<area shape="rect" id="node42" href="$d4/d83/classBFD_1_1Session.html#a59f471361aa8e10b13186a5323c735c3" title="BFD::Session::PreparePacket" alt="" coords="1323,575,1530,601"/>
+<area shape="rect" id="node43" href="$d4/d83/classBFD_1_1Session.html#a7fef212f4fa912a6b46f3eb83218bd81" title="BFD::Session::SendPacket" alt="" coords="1332,524,1521,551"/>
+<area shape="rect" id="node48" href="$d4/d83/classBFD_1_1Session.html#aae3223adec9927aa9a1eef3822ab37b6" title="BFD::Session::ScheduleRecv\lDeadlineTimer" alt="" coords="783,821,987,862"/>
+<area shape="rect" id="node21" href="$d4/d83/classBFD_1_1Session.html#a354b3091a50648479dfc1ed051367af7" title="BFD::Session::tx_interval" alt="" coords="1335,727,1519,753"/>
+<area shape="rect" id="node22" href="$dc/dea/classTimer.html#af035dbc42f1359f6ee31a0415dd194c9" title="Timer::GetElapsedTime" alt="" coords="1070,777,1245,804"/>
+<area shape="rect" id="node23" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1101,879,1213,905"/>
+<area shape="rect" id="node38" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="1108,828,1207,855"/>
+<area shape="rect" id="node41" href="$d4/d83/classBFD_1_1Session.html#a63e4e326763738270387fbc0f640e00e" title="BFD::Session::SendTimerExpired" alt="" coords="1041,625,1274,652"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1587,828,1789,855"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1343,1097,1510,1124"/>
+<area shape="rect" id="node37" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1365,879,1488,905"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1849,828,2065,855"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1593,930,1783,971"/>
+<area shape="rect" id="node29" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1627,996,1749,1023"/>
+<area shape="rect" id="node30" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1605,1047,1771,1073"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1862,905,2053,946"/>
+<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1609,1097,1767,1124"/>
+<area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1585,1148,1791,1175"/>
+<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1579,1199,1797,1225"/>
+<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1581,1249,1795,1276"/>
+<area shape="rect" id="node35" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1608,1300,1768,1327"/>
+<area shape="rect" id="node36" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1597,1351,1779,1377"/>
+<area shape="rect" id="node39" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="1639,777,1737,804"/>
+<area shape="rect" id="node40" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1343,828,1510,855"/>
+<area shape="rect" id="node47" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title="Timer::Reschedule" alt="" coords="1355,676,1498,703"/>
+<area shape="rect" id="node44" href="$d1/d0a/namespaceBFD.html#a5448befd10f97b55ec48c0b6f9e671f8" title="BFD::EncodeControlPacket" alt="" coords="1591,676,1785,703"/>
+<area shape="rect" id="node46" href="$db/d0c/classBFD_1_1Connection.html#a6c959c7230a6cb369a85afbb88fecf86" title="BFD::Connection::SendPacket" alt="" coords="1582,727,1794,753"/>
+<area shape="rect" id="node45" href="$d5/d3f/classProtoSequence.html#a58226f590476878858017aa676e76a0a" title="ProtoSequence\&lt; ControlPacket\lMessage \&gt;::Encode" alt="" coords="1845,677,2069,718"/>
+<area shape="rect" id="node49" href="$d4/d83/classBFD_1_1Session.html#adbca6088190606de630ce0ae24d6aac7" title="BFD::Session::detection_time" alt="" coords="1051,929,1263,956"/>
+<area shape="rect" id="node50" href="$d4/d83/classBFD_1_1Session.html#ac50a8576a2006f9b7bf6c76500081c90" title="BFD::Session::RecvTimerExpired" alt="" coords="1041,676,1273,703"/>
+</map>

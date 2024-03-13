@@ -1,0 +1,8 @@
+<map id="IFMapDependencyManager::GetObject" name="IFMapDependencyManager::GetObject">
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="271,5,406,32"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="263,56,415,83"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="253,107,425,133"/>
+<area shape="rect" id="node7" href="$de/d02/classIFMapNodeState.html#a31369507cf217ca048483551adc0e604" title="IFMapNodeState::object" alt="" coords="251,157,427,184"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="475,77,701,104"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="493,129,683,170"/>
+</map>

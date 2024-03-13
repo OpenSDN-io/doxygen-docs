@@ -1,0 +1,9 @@
+<map id="ConfigEtcdClient::EnqueueUUIDRequest" name="ConfigEtcdClient::EnqueueUUIDRequest">
+<area shape="rect" id="node2" href="$df/dc8/classConfigDbClient.html#af95a8684d48c13a9f75172b521e53b2a" title="ConfigDbClient::FindFQName" alt="" coords="251,5,461,32"/>
+<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title="ConfigDbClient::AddFQName\lCache" alt="" coords="252,57,460,98"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title="ConfigDbClient::Invalidate\lFQNameCache" alt="" coords="260,122,452,163"/>
+<area shape="rect" id="node6" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title="ConfigEtcdClient::GetPartition" alt="" coords="249,188,463,215"/>
+<area shape="rect" id="node8" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title="ConfigEtcdPartition\l::Enqueue" alt="" coords="283,239,429,281"/>
+<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="513,5,743,32"/>
+<area shape="rect" id="node7" href="$d4/db8/classConfigEtcdClient.html#a94fb0ace7a6f2d850b2e6760ee923a44" title="ConfigEtcdClient::HashUUID" alt="" coords="526,188,730,215"/>
+</map>

@@ -1,0 +1,25 @@
+var classVirtualGatewayConfig =
+[
+    [ "Subnet", "d5/d22/structVirtualGatewayConfig_1_1Subnet.html", "d5/d22/structVirtualGatewayConfig_1_1Subnet" ],
+    [ "SubnetList", "df/dc6/classVirtualGatewayConfig.html#ac2fc2be3f985566835722dde62438ccc", null ],
+    [ "VirtualGatewayConfig", "df/dc6/classVirtualGatewayConfig.html#a92a328ef6b99479f577da0db368881fc", null ],
+    [ "VirtualGatewayConfig", "df/dc6/classVirtualGatewayConfig.html#a7805fd74378d4b4166b9cde9e9248516", null ],
+    [ "VirtualGatewayConfig", "df/dc6/classVirtualGatewayConfig.html#ac755eb29b06eea9408c6385e22943d66", null ],
+    [ "~VirtualGatewayConfig", "df/dc6/classVirtualGatewayConfig.html#a8a7cadd7cb9c9dff014ce7adc3fb1650", null ],
+    [ "get_interface", "df/dc6/classVirtualGatewayConfig.html#a1764cc36907e119692ecbf4b4fa1c2fc", null ],
+    [ "interface_name", "df/dc6/classVirtualGatewayConfig.html#a72bdd23d4a7de6b4f698dcdf9fb95732", null ],
+    [ "routes", "df/dc6/classVirtualGatewayConfig.html#a881db29cfd3a9b63ace63374c8164eab", null ],
+    [ "set_interface", "df/dc6/classVirtualGatewayConfig.html#a8092e1b3f472dcf527d807c1585110d2", null ],
+    [ "set_routes", "df/dc6/classVirtualGatewayConfig.html#a7144c4af41085697e5674c42dbc28858", null ],
+    [ "set_subnets", "df/dc6/classVirtualGatewayConfig.html#a27104911645fca6c25bf74190131caff", null ],
+    [ "set_version", "df/dc6/classVirtualGatewayConfig.html#aeaeee803630251f154c2bbb78d85155c", null ],
+    [ "subnets", "df/dc6/classVirtualGatewayConfig.html#acc0ee0287bebe6cbdeb2f4ff42e5f1ad", null ],
+    [ "version", "df/dc6/classVirtualGatewayConfig.html#a5a612adae3cb8ba092ba0684b1eeb56e", null ],
+    [ "vrf_name", "df/dc6/classVirtualGatewayConfig.html#a306ed883c4ed943b4ea400433fbcb698", null ],
+    [ "interface_", "df/dc6/classVirtualGatewayConfig.html#a75843795742727c7517c65b4c6f703e4", null ],
+    [ "interface_name_", "df/dc6/classVirtualGatewayConfig.html#abe94f17d57b7125fb2277c5c70ee9031", null ],
+    [ "routes_", "df/dc6/classVirtualGatewayConfig.html#a25102bf39edf211dde4d87f5ed0d244d", null ],
+    [ "subnets_", "df/dc6/classVirtualGatewayConfig.html#ab056e93562c9c753f52486d598b0fd7b", null ],
+    [ "version_", "df/dc6/classVirtualGatewayConfig.html#a21af702dc984fe85b137268e42b8e3d2", null ],
+    [ "vrf_name_", "df/dc6/classVirtualGatewayConfig.html#a2b0478bc5deb9d7a1678a52aeb8f6a71", null ]
+];

@@ -1,0 +1,13 @@
+<map id="BgpIfmapConfigManager::UpdateInstanceConfig" name="BgpIfmapConfigManager::UpdateInstanceConfig">
+<area shape="rect" id="node2" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title="BgpConfigManager::Notify" alt="" coords="239,5,431,32"/>
+<area shape="rect" id="node3" href="$d6/d53/classBgpIfmapInstanceConfig.html#ab182420c369f8e4af74ba296d71d9679" title="BgpIfmapInstanceConfig\l::instance_config" alt="" coords="244,57,425,98"/>
+<area shape="rect" id="node4" href="$d6/d53/classBgpIfmapInstanceConfig.html#a2cd67d8a29165268a63775b789d9411e" title="BgpIfmapInstanceConfig\l::import_list" alt="" coords="244,122,425,163"/>
+<area shape="rect" id="node6" href="$d6/d53/classBgpIfmapInstanceConfig.html#a8acb798a019971e40b5f68d43d57df01" title="BgpIfmapInstanceConfig\l::export_list" alt="" coords="244,187,425,229"/>
+<area shape="rect" id="node8" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title="BgpConfigManager::server" alt="" coords="238,253,431,280"/>
+<area shape="rect" id="node9" href="$d6/d53/classBgpIfmapInstanceConfig.html#ac97d08d0991ec6a003774402ed2e77b7" title="BgpIfmapInstanceConfig\l::virtual_network" alt="" coords="244,305,425,346"/>
+<area shape="rect" id="node11" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5f5b6774e55422ce378692043ee75fb8" title="BgpIfmapInstanceConfig\l::virtual_network_index" alt="" coords="244,370,425,411"/>
+<area shape="rect" id="node5" href="$d6/ddf/classBgpInstanceConfig.html#a3217cc6acab0c5f54249a96afaa5b90b" title="BgpInstanceConfig::\limport_list" alt="" coords="489,122,639,163"/>
+<area shape="rect" id="node7" href="$d6/ddf/classBgpInstanceConfig.html#a904c10c4e30acab41f33a567439d9761" title="BgpInstanceConfig::\lexport_list" alt="" coords="489,187,639,229"/>
+<area shape="rect" id="node10" href="$d6/ddf/classBgpInstanceConfig.html#af3996abcdd5af95607dea1b3300ee59f" title="BgpInstanceConfig::\lvirtual_network" alt="" coords="489,305,639,346"/>
+<area shape="rect" id="node12" href="$d6/ddf/classBgpInstanceConfig.html#a4bb205f70b4733b26b3104c50d5099cc" title="BgpInstanceConfig::\lvirtual_network_index" alt="" coords="481,370,647,411"/>
+</map>

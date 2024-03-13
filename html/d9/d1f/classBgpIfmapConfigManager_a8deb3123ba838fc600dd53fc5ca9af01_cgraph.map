@@ -1,0 +1,31 @@
+<map id="BgpIfmapConfigManager::ProcessRoutingPolicy" name="BgpIfmapConfigManager::ProcessRoutingPolicy">
+<area shape="rect" id="node2" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title="IFMapNodeProxy::node" alt="" coords="776,36,947,62"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1029,236,1206,262"/>
+<area shape="rect" id="node4" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a6940fb1e78f4f27081bd580df1d7578a" title="BgpIfmapRoutingPolicyConfig\l::SetNodeProxy" alt="" coords="238,291,453,332"/>
+<area shape="rect" id="node11" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a4a95daf80f334f42d8ce6d7e54661dc4" title="BgpIfmapRoutingPolicyConfig\l::node" alt="" coords="502,58,717,99"/>
+<area shape="rect" id="node12" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ada1e50f07d89f4add7cc01f8d6bdfeff" title="BgpIfmapRoutingPolicyConfig\l::ResetConfig" alt="" coords="238,356,453,398"/>
+<area shape="rect" id="node22" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ab185c4044970c2028eb733500e62a6d6" title="BgpIfmapRoutingPolicyConfig\l::DeleteIfEmpty" alt="" coords="238,123,453,164"/>
+<area shape="rect" id="node25" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ac13bd80208a118d1e626ecec8da1cdc9" title="BgpIfmapRoutingPolicyConfig\l::Update" alt="" coords="238,428,453,470"/>
+<area shape="rect" id="node24" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title="BgpConfigManager::Notify" alt="" coords="765,160,957,186"/>
+<area shape="rect" id="node30" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a3287e1b4d11aeec08cd0d8c9d4c8da7d" title="BgpIfmapRoutingPolicyConfig\l::routing_policy_config" alt="" coords="238,494,453,535"/>
+<area shape="rect" id="node5" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title="IFMapNodeProxy::Swap" alt="" coords="523,298,696,325"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="776,290,947,317"/>
+<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="794,341,929,368"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1277,393,1504,420"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1023,352,1212,394"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="1014,287,1221,328"/>
+<area shape="rect" id="node13" href="$d7/d3f/classIFMapNodeProxy.html#a8541218350871637e271ed75adb7b7af" title="IFMapNodeProxy::Clear" alt="" coords="523,364,695,390"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="770,392,953,418"/>
+<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="1033,520,1202,546"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="1014,570,1221,597"/>
+<area shape="rect" id="node17" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="1005,469,1229,496"/>
+<area shape="rect" id="node18" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1327,444,1454,470"/>
+<area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1303,494,1479,521"/>
+<area shape="rect" id="node20" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="1285,545,1497,572"/>
+<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1553,545,1770,572"/>
+<area shape="rect" id="node23" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a20db517fb3b17021463904220b0639d6" title="BgpIfmapRoutingPolicyConfig\l::Delete" alt="" coords="502,123,717,164"/>
+<area shape="rect" id="node26" href="$d4/dbb/classBgpRoutingPolicyConfig.html#a13a03e8282991decb338505d2335ec17" title="BgpRoutingPolicyConfig\l::Clear" alt="" coords="521,491,697,532"/>
+<area shape="rect" id="node27" href="$d5/d78/bgp__config__ifmap_8cc.html#a6c9d53698b1a92f33ebb6e2dba3f17ea" title="BuildPolicyTermsConfig" alt="" coords="522,440,697,466"/>
+<area shape="rect" id="node28" href="$d5/d78/bgp__config__ifmap_8cc.html#a9cc528f1161164763f7ea8bafd332c89" title="BuildPolicyTermConfig" alt="" coords="778,442,945,469"/>
+<area shape="rect" id="node29" href="$d4/dbb/classBgpRoutingPolicyConfig.html#a8d747e5c16b461428dd0fb5f834b057c" title="BgpRoutingPolicyConfig\l::add_term" alt="" coords="773,494,949,535"/>
+</map>

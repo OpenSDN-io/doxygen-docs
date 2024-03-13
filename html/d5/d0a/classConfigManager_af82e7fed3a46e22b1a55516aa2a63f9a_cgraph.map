@@ -1,0 +1,8 @@
+<map id="ConfigManager::NodeResync" name="ConfigManager::NodeResync">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="317,5,437,32"/>
+<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title="OperDB::dependency\l_manager" alt="" coords="298,57,457,98"/>
+<area shape="rect" id="node4" href="$dd/dd0/classIFMapDependencyManager.html#a9e0404671b86a442e9738f7d8f26dfdb" title="IFMapDependencyManager\l::PropogateNodeAndLinkChange" alt="" coords="262,122,493,163"/>
+<area shape="rect" id="node5" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title="DBGraphVertex::edge\l_list_begin" alt="" coords="541,57,704,98"/>
+<area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title="DBGraphVertex::edge\l_list_end" alt="" coords="541,122,704,163"/>
+<area shape="rect" id="node7" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="543,188,702,215"/>
+</map>

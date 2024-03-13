@@ -1,0 +1,11 @@
+<map id="QosQueueTable::OperDBAdd" name="QosQueueTable::OperDBAdd">
+<area shape="rect" id="node2" href="$d7/d79/classQosQueue.html#a54fc835160084521f9152124629e5953" title="QosQueue::set_id" alt="" coords="267,5,403,32"/>
+<area shape="rect" id="node4" href="$d6/d34/classIndexVector.html#a43917c41dcf68411a8db47302407b852" title="IndexVector::Insert" alt="" coords="263,56,407,83"/>
+<area shape="rect" id="node5" href="$d7/d79/classQosQueue.html#a4f9c73cb85b3da9492e5901f95038282" title="QosQueue::Change" alt="" coords="261,107,408,133"/>
+<area shape="rect" id="node3" href="$d7/d79/classQosQueue.html#abba2a54f1256ecfaadcf659a9ba852e8" title="QosQueue::id" alt="" coords="489,5,599,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="456,56,632,83"/>
+<area shape="rect" id="node8" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="465,107,623,133"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="485,157,603,184"/>
+<area shape="rect" id="node10" href="$dc/dd4/classAgentParam.html#a4073ff61b9075c389fb23a560b08d5bb" title="AgentParam::get_nic\l_queue" alt="" coords="466,209,622,250"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="681,56,863,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="etcdserverpb::DeleteRangeRequest::ByteSizeLong" name="etcdserverpb::DeleteRangeRequest::ByteSizeLong">
+<area shape="rect" id="node2" href="$df/d91/classetcdserverpb_1_1DeleteRangeRequest.html#a41e1b1bafc9e71d53a72ea7bf1abc5d4" title="etcdserverpb::DeleteRange\lRequest::key" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node3" href="$df/d91/classetcdserverpb_1_1DeleteRangeRequest.html#a7e343d5fa4f8dce900ca15094f52f610" title="etcdserverpb::DeleteRange\lRequest::range_end" alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node4" href="$df/d91/classetcdserverpb_1_1DeleteRangeRequest.html#a62419ca0ea6ac5f27ee355d941e24f30" title="etcdserverpb::DeleteRange\lRequest::prev_kv" alt="" coords="254,135,453,177"/>
+</map>

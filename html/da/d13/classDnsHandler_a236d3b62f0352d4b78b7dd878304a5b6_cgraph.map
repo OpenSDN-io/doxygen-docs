@@ -1,0 +1,7 @@
+<map id="DnsHandler::UpdateStats" name="DnsHandler::UpdateStats">
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="261,5,413,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="262,56,413,83"/>
+<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#a838f2d8a279cb5033aeeb98727df35ac" title="DnsProto::IncrStatsRes" alt="" coords="253,107,422,133"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a55055cb5aeb3a2b088b8124fdd78d2aa" title="DnsProto::IncrStatsUnsupp" alt="" coords="240,157,435,184"/>
+<area shape="rect" id="node6" href="$d6/df7/classDnsProto.html#a4ae6b4f6b0356e86649e6388c11a27e4" title="DnsProto::IncrStatsFail" alt="" coords="253,208,421,235"/>
+</map>

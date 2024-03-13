@@ -1,0 +1,6 @@
+<map id="AgentXmppChannel::SetMulticastPeer" name="AgentXmppChannel::SetMulticastPeer">
+<area shape="rect" id="node2" href="$da/d25/classAgentXmppChannel.html#a590dc25862c7d006b89fd609b8ed3a4e" title="AgentXmppChannel::agent" alt="" coords="333,5,529,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="365,56,496,83"/>
+<area shape="rect" id="node4" href="$df/def/classVNController.html#af8067d333a9cd05a19b4cbd69fd80767" title="VNController::increment\l_multicast_sequence_number" alt="" coords="323,107,539,149"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aa53c4b617e3ba5d960c2b5e1c3458aa5" title="Agent::set_cn_mcast\l_builder" alt="" coords="352,173,509,214"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="FlowStatsCollector::UpdateVmiTagBasedStats" name="FlowStatsCollector::UpdateVmiTagBasedStats">
+<area shape="rect" id="node2" href="$d0/da8/classFlowExportInfo.html#aa66f4733ca10168a6b45eb6d7c233d27" title="FlowExportInfo::flow" alt="" coords="281,5,436,32"/>
+<area shape="rect" id="node3" href="$d3/d4f/classFlowEntry.html#aa115265c5547a2d1d34aefee8e343220" title="FlowEntry::intf_entry" alt="" coords="281,56,437,83"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="300,107,417,133"/>
+<area shape="rect" id="node5" href="$d3/d4f/classFlowEntry.html#a3465ab0ad97a65fd4b6ecacc160da995" title="FlowEntry::data" alt="" coords="297,157,420,184"/>
+<area shape="rect" id="node6" href="$d4/d59/classAgentUveBase.html#a6b06b5af2deadb455ffbbb7bc90b619f" title="AgentUveBase::interface\l_uve_table" alt="" coords="267,209,451,250"/>
+<area shape="rect" id="node7" href="$d3/d4f/classFlowEntry.html#a0269ecefc0a8effcfa4a45de29b153c8" title="FlowEntry::local_tagset" alt="" coords="550,325,722,352"/>
+<area shape="rect" id="node9" href="$d3/d4f/classFlowEntry.html#ad2f4b707f4d61694880a51029fc6b40e" title="FlowEntry::remote_tagset" alt="" coords="542,376,730,403"/>
+<area shape="rect" id="node10" href="$d3/d4f/classFlowEntry.html#ad0f1b3f5f11b56a1fe5389b35dca815d" title="FlowEntry::RemotePrefix" alt="" coords="269,427,449,453"/>
+<area shape="rect" id="node13" href="$d3/d4f/classFlowEntry.html#aed8ae3251df5a3dd44dd24c528fc2f17" title="FlowEntry::fw_policy\l_name_uuid" alt="" coords="281,491,436,533"/>
+<area shape="rect" id="node15" href="$dc/d2b/classFlowTable.html#a1c26385db3b714ca416920c9fc2a2d4e" title="FlowTable::GetFlowSandesh\lActionParams" alt="" coords="257,565,460,606"/>
+<area shape="rect" id="node8" href="$d3/d4f/classFlowEntry.html#a755f500e25812a645fc0fe63ca0cd275" title="FlowEntry::is_flags_set" alt="" coords="811,351,981,377"/>
+<area shape="rect" id="node17" href="$d6/d02/classInterfaceUveStatsTable.html#a46b279a3168c603a0ce0a643aaa9222b" title="InterfaceUveStatsTable\l::UpdateVmiTagBasedStats" alt="" coords="259,634,458,675"/>
+<area shape="rect" id="node21" href="$d0/da8/classFlowExportInfo.html#a9a5eb5dfa632f8b2163c588206fc2907" title="FlowExportInfo::reverse_flow" alt="" coords="253,700,464,727"/>
+<area shape="rect" id="node11" href="$d3/d4f/classFlowEntry.html#aed59bc5162905551971be015ff9d7add" title="FlowEntry::BuildRemotePrefix" alt="" coords="529,477,743,504"/>
+<area shape="rect" id="node12" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="836,477,956,504"/>
+<area shape="rect" id="node14" href="$d3/d4f/classFlowEntry.html#a44d8650518f688b0f496a75a1bc3d918" title="FlowEntry::fw_policy_uuid" alt="" coords="541,528,731,555"/>
+<area shape="rect" id="node16" href="$d3/d1f/classTrafficAction.html#a303861543b4c8ac90455805ab9231091" title="TrafficAction::ActionToString" alt="" coords="535,579,737,605"/>
+<area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="549,709,723,736"/>
+<area shape="rect" id="node19" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a6cbde66af89107933d25527a1f252ddc" title="InterfaceUveTable::\lUveInterfaceEntry::UpdateSecurity\lPolicyStats" alt="" coords="513,629,759,685"/>
+<area shape="rect" id="node20" href="$dc/d10/structInterfaceUveTable_1_1EndpointStatsContainer.html#a5a8a01a779fa781d35b98111b9b7c291" title="InterfaceUveTable::\lEndpointStatsContainer\l::ToList" alt="" coords="809,629,983,685"/>
+</map>

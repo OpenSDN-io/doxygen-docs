@@ -1,0 +1,14 @@
+<map id="BFD::Server::AddSession" name="BFD::Server::AddSession">
+<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html#a6c87c25e9044f83ff9321f5465c13347" title="BFD::Server::ConfigureSession" alt="" coords="235,121,453,148"/>
+<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#aa9c76f0a1c3ac9e30cb84f0cffaf1a7f" title="BFD::Server::SessionByKey" alt="" coords="765,12,963,39"/>
+<area shape="rect" id="node11" href="$d4/d83/classBFD_1_1Session.html#a3f7def7f4d41735f7b549f1c9834975d" title="BFD::Session::RegisterChange\lCallback" alt="" coords="236,173,452,214"/>
+<area shape="rect" id="node7" href="$d4/d83/classBFD_1_1Session.html#a9cf1f9cbb31b81f72137f1eb382d37ba" title="BFD::Session::key" alt="" coords="795,245,933,272"/>
+<area shape="rect" id="node12" href="$d4/d83/classBFD_1_1Session.html#a833aa82a0305bc0dea8082c06275c34c" title="BFD::Session::local\l_state" alt="" coords="271,290,417,331"/>
+<area shape="rect" id="node3" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a48c0e749ead10662a13fc112e016319d" title="BFD::Server::SessionManager\l::ConfigureSession" alt="" coords="502,114,714,155"/>
+<area shape="rect" id="node6" href="$d4/d83/classBFD_1_1Session.html#a30958532e1e4b9413f9dc0a8f7951d7c" title="BFD::Session::UpdateConfig" alt="" coords="763,63,965,89"/>
+<area shape="rect" id="node8" href="$d6/d27/structBFD_1_1SessionKey.html#a6c3b424df08b561a0654162fc2ee9180" title="BFD::SessionKey::to\l_string" alt="" coords="789,114,939,155"/>
+<area shape="rect" id="node10" href="$d4/d83/classBFD_1_1Session.html#a7fd916ea99c8dfdbb35dc14a7bf88096" title="BFD::Session::local\l_discriminator" alt="" coords="791,179,937,221"/>
+<area shape="rect" id="node5" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title="BFD::Server::SessionManager\l::SessionByKey" alt="" coords="1014,5,1226,46"/>
+<area shape="rect" id="node9" href="$da/d30/structBFD_1_1SessionIndex.html#a4ed1248f38fb33246f547e7ff402faf8" title="BFD::SessionIndex::\lto_string" alt="" coords="1045,114,1195,155"/>
+<area shape="rect" id="node13" href="$d4/d83/classBFD_1_1Session.html#a7a4ca6ec68c7f74db4eb76417e93daf3" title="BFD::Session::local\l_state_non_locking" alt="" coords="535,290,681,331"/>
+</map>

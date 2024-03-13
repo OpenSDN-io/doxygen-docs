@@ -1,0 +1,30 @@
+<map id="XmppServerConnection" name="XmppServerConnection">
+<area shape="rect" id="node27" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; XmppServerConnection \&gt;" alt="" coords="3048,768,3328,795"/>
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html" title="XmppConnection" alt="" coords="2088,539,2221,565"/>
+<area shape="rect" id="node7" href="$d5/d13/classXmppSession.html" title="XmppSession" alt="" coords="1794,587,1905,613"/>
+<area shape="rect" id="node35" href="$d7/dcc/classXmppConnectionEndpoint.html" title="XmppConnectionEndpoint" alt="" coords="2353,723,2543,749"/>
+<area shape="rect" id="node3" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title="XmppConnection::ProtoStats" alt="" coords="1745,415,1953,441"/>
+<area shape="rect" id="node6" href="$d0/d8b/classXmppChannelConfig.html" title="XmppChannelConfig" alt="" coords="784,432,939,459"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="601,524,695,551"/>
+<area shape="rect" id="node18" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="605,384,691,411"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="540,1059,756,1085"/>
+<area shape="rect" id="node25" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1062,924,1122,951"/>
+<area shape="rect" id="node32" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="537,1338,759,1379"/>
+<area shape="rect" id="node5" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="1747,516,1952,543"/>
+<area shape="rect" id="node8" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1047,516,1137,543"/>
+<area shape="rect" id="node10" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,404,351,431"/>
+<area shape="rect" id="node16" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1357,821,1547,848"/>
+<area shape="rect" id="node30" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1397,1044,1507,1071"/>
+<area shape="rect" id="node26" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="581,869,715,896"/>
+<area shape="rect" id="node22" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,1320,355,1347"/>
+<area shape="rect" id="node14" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="1394,676,1510,703"/>
+<area shape="rect" id="node17" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1051,709,1133,736"/>
+<area shape="rect" id="node19" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,7,349,33"/>
+<area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="963,1050,1221,1091"/>
+<area shape="rect" id="node24" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,1269,317,1296"/>
+<area shape="rect" id="node33" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="979,1390,1205,1461"/>
+<area shape="rect" id="node28" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1387,1095,1517,1121"/>
+<area shape="rect" id="node29" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1742,1082,1957,1123"/>
+<area shape="rect" id="node31" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1026,1287,1158,1313"/>
+<area shape="rect" id="node34" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="995,1115,1189,1157"/>
+</map>

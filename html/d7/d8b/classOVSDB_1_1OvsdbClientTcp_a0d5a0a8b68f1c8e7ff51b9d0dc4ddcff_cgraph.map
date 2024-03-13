@@ -1,0 +1,7 @@
+<map id="OVSDB::OvsdbClientTcp::shutdown" name="OVSDB::OvsdbClientTcp::shutdown">
+<area shape="rect" id="node2" href="$dc/d4d/classOVSDB_1_1OvsdbClientTcpSession.html#a64cb4ab457ba77af60391d6cb8e802dc" title="OVSDB::OvsdbClientTcpSession\l::TriggerClose" alt="" coords="229,23,456,65"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="517,5,654,32"/>
+<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="505,56,666,83"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="715,5,901,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="949,5,1093,32"/>
+</map>

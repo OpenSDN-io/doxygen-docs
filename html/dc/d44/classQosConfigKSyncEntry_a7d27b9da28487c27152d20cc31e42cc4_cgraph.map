@@ -1,0 +1,14 @@
+<map id="QosConfigKSyncEntry::Sync" name="QosConfigKSyncEntry::Sync">
+<area shape="rect" id="node2" href="$dc/d44/classQosConfigKSyncEntry.html#a100abf98f91c5e8045425fe78a1cc9bc" title="QosConfigKSyncEntry\l::CopyQosMap" alt="" coords="235,49,397,90"/>
+<area shape="rect" id="node10" href="$d4/dcd/classAgentQosConfig.html#a6322c1f082bb424af6156f56c58f28c6" title="AgentQosConfig::dscp_map" alt="" coords="216,115,416,141"/>
+<area shape="rect" id="node11" href="$d4/dcd/classAgentQosConfig.html#a766fd625827433b3cc5d22aefb942da8" title="AgentQosConfig::vlan\l_priority_map" alt="" coords="235,166,397,207"/>
+<area shape="rect" id="node12" href="$d4/dcd/classAgentQosConfig.html#a816ea124299b22da79e6cfaaf428c486" title="AgentQosConfig::mpls\l_exp_map" alt="" coords="233,231,399,273"/>
+<area shape="rect" id="node13" href="$d4/dcd/classAgentQosConfig.html#ac97188f7c398733b3867e0a02fb82fd8" title="AgentQosConfig::default\l_forwarding_class" alt="" coords="226,297,406,338"/>
+<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="464,56,664,83"/>
+<area shape="rect" id="node4" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="735,5,873,32"/>
+<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="712,56,896,83"/>
+<area shape="rect" id="node9" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="725,107,883,133"/>
+<area shape="rect" id="node6" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="959,5,1103,32"/>
+<area shape="rect" id="node7" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="945,56,1117,83"/>
+<area shape="rect" id="node8" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="951,107,1111,133"/>
+</map>

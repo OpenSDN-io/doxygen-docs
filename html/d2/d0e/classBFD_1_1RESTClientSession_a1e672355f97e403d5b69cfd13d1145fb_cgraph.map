@@ -1,0 +1,9 @@
+<map id="BFD::RESTClientSession::DeleteBFDConnection" name="BFD::RESTClientSession::DeleteBFDConnection">
+<area shape="rect" id="node2" href="$d2/d0e/classBFD_1_1RESTClientSession.html#a8473c4af91c2a79cab8b79d3f45dfc5b" title="BFD::RESTClientSession\l::GetSession" alt="" coords="247,5,423,46"/>
+<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#aeebd69bf9560b93d6197157b2b33794b" title="BFD::Server::RemoveSession\lReference" alt="" coords="230,70,439,111"/>
+<area shape="rect" id="node4" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#ad6c70a107ca2df2ea560ec91f043e5cf" title="BFD::Server::SessionManager\l::RemoveSessionReference" alt="" coords="489,70,701,111"/>
+<area shape="rect" id="node5" href="$d7/d90/classBFD_1_1Server.html#aa9c76f0a1c3ac9e30cb84f0cffaf1a7f" title="BFD::Server::SessionByKey" alt="" coords="749,47,947,73"/>
+<area shape="rect" id="node7" href="$d6/d27/structBFD_1_1SessionKey.html#a6c3b424df08b561a0654162fc2ee9180" title="BFD::SessionKey::to\l_string" alt="" coords="773,99,923,141"/>
+<area shape="rect" id="node6" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title="BFD::Server::SessionManager\l::SessionByKey" alt="" coords="995,37,1207,78"/>
+<area shape="rect" id="node8" href="$da/d30/structBFD_1_1SessionIndex.html#a4ed1248f38fb33246f547e7ff402faf8" title="BFD::SessionIndex::\lto_string" alt="" coords="1026,102,1177,143"/>
+</map>

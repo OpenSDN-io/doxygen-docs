@@ -1,0 +1,31 @@
+<map id="VNController::DisConnectDnsServer" name="VNController::DisConnectDnsServer">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ae89978b819b926d7d6be1663f348a908" title="Agent::dns_xmpp_client" alt="" coords="279,5,457,32"/>
+<area shape="rect" id="node3" href="$db/de5/classXmppClient.html#aab32bdd3c38f0c344adebdaad7935ac2" title="XmppClient::UnRegisterConnection\lEvent" alt="" coords="243,57,493,98"/>
+<area shape="rect" id="node4" href="$db/de5/classXmppClient.html#a12489341eb6cada61fcffe50b8644f21" title="XmppClient::Shutdown" alt="" coords="283,123,453,149"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#ad37a07730def2599fe87a19d2186737b" title="Agent::set_dns_xmpp\l_client" alt="" coords="287,174,449,215"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#aaaafb03206c9ff816fbf49fb93a74945" title="Agent::dns_xmpp_channel" alt="" coords="271,240,465,267"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a37882c8c59ba6c21b4c8018fd9b8f154" title="Agent::set_dns_xmpp\l_channel" alt="" coords="287,291,449,333"/>
+<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a889d6ed6528676924b71c0af76adbc8a" title="Agent::dns_xmpp_init" alt="" coords="287,357,449,384"/>
+<area shape="rect" id="node19" href="$dd/d66/classXmppInit.html#aca03aa957f94bacba3fc71a414e74fea" title="XmppInit::Reset" alt="" coords="305,408,431,435"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a271bc7d8e9a0b955a9c0dd322dfd7410" title="Agent::set_dns_xmpp_init" alt="" coords="273,459,463,485"/>
+<area shape="rect" id="node21" href="$df/def/classVNController.html#a959c834b7cc8c23bb4bbfa7afe564fd6" title="VNController::DeleteConnectionInfo" alt="" coords="241,509,495,536"/>
+<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#a8bcd698ec2f06877505fd3c8ddf18171" title="Agent::dns_server" alt="" coords="299,560,437,587"/>
+<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a7fb15ad0957eb49711a224f75701a5c4" title="Agent::reset_dns_server" alt="" coords="279,611,457,637"/>
+<area shape="rect" id="node5" href="$d6/d09/classXmppConnectionManager.html#a4c621682986c5634343f855de7b41706" title="XmppConnectionManager\l::Shutdown" alt="" coords="560,115,749,157"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="839,43,996,69"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title="WorkQueue::SetExitCallback" alt="" coords="814,93,1021,120"/>
+<area shape="rect" id="node9" href="$d6/d09/classXmppConnectionManager.html#a20d73d65faa1bf15d2102a46c6bd4a8d" title="XmppConnectionManager\l::WorkQueueExitCallback" alt="" coords="823,145,1012,186"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#a6749fce09b480760e1313b900a1938c0" title="WorkQueue::Shutdown" alt="" coords="833,211,1002,237"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="1073,43,1260,69"/>
+<area shape="rect" id="node10" href="$d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c" title="XmppConnectionManager\l::deleter" alt="" coords="1072,119,1261,161"/>
+<area shape="rect" id="node11" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="1069,185,1264,212"/>
+<area shape="rect" id="node12" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="1313,185,1509,212"/>
+<area shape="rect" id="node13" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="1558,178,1741,219"/>
+<area shape="rect" id="node22" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="583,421,727,448"/>
+<area shape="rect" id="node24" href="$df/def/classVNController.html#a97426006b5dccdc7917303b31ffcaaa2" title="VNController::MakeConnection\lPrefix" alt="" coords="544,473,765,514"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#abf223d7bcb0c6f100e72ba7f0d482943" title="Agent::connection_state" alt="" coords="565,539,744,565"/>
+<area shape="rect" id="node28" href="$df/d58/classprocess_1_1ConnectionState.html#a919b0ede82e04766f9a473f7726cdea8" title="process::ConnectionState\l::Delete" alt="" coords="561,590,748,631"/>
+<area shape="rect" id="node23" href="$de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="874,421,961,448"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a89406f39a1c63ec7388d8255d9c7f3d9" title="Agent::xmpp_dns_server\l_prefix" alt="" coords="826,473,1009,514"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#aa4fbd4f96f62d5a602aa9a0a4d578da4" title="Agent::xmpp_control\l_node_prefix" alt="" coords="839,538,996,579"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="IFMapChannelManager::ProcessChannelReady" name="IFMapChannelManager::ProcessChannelReady">
+<area shape="rect" id="node2" href="$d7/db7/classIFMapChannelManager.html#a010d3b06b268d609056ad0dd94e1dfb1" title="IFMapChannelManager\l::FindChannel" alt="" coords="246,5,415,46"/>
+<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="235,71,427,97"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="227,121,434,148"/>
+<area shape="rect" id="node5" href="$d7/db7/classIFMapChannelManager.html#a6373b8ed395d07e694b13109df200013" title="IFMapChannelManager\l::CreateIFMapXmppChannel" alt="" coords="229,173,432,214"/>
+<area shape="rect" id="node6" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title="IFMapServer::get_config\l_manager" alt="" coords="242,238,419,279"/>
+<area shape="rect" id="node7" href="$de/d27/classConfigClientManager.html#ac27e0fc731d88ea77cd4001599558e84" title="ConfigClientManager\l::GetEndOfRibComputed" alt="" coords="241,303,421,345"/>
+<area shape="rect" id="node8" href="$d6/d81/classXmppChannel.html#a6ed23705cf619bf3da5407f3140ac273" title="XmppChannel::Close" alt="" coords="252,369,409,396"/>
+<area shape="rect" id="node9" href="$d7/db7/classIFMapChannelManager.html#aed0b0eb893402639e8c0c3513183d0d9" title="IFMapChannelManager\l::incr_duplicate_channel\l_ready_messages" alt="" coords="241,420,420,476"/>
+</map>

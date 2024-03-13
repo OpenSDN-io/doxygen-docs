@@ -1,0 +1,6 @@
+<map id="ChannelToDscp" name="ChannelToDscp">
+<area shape="rect" id="node2" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="176,5,368,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="177,56,367,83"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ade7e91eb4d5204c732f67c83af57dfaf" title="TcpSession::GetDscpValue" alt="" coords="176,107,368,133"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="416,107,560,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="RibUpdateMonitor::GetRouteUpdateAndDequeue" name="RibUpdateMonitor::GetRouteUpdateAndDequeue">
+<area shape="rect" id="node2" href="$d0/de5/classRouteUpdate.html#a28f5fa5efa2c6c446fa25d3e7c87653c" title="RouteUpdate::queue_id" alt="" coords="536,283,709,309"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="276,93,447,120"/>
+<area shape="rect" id="node8" href="$db/dd4/classRibOut.html#a41df7acd2dffb162436d5212bf5563e4" title="RibOut::table" alt="" coords="308,195,415,221"/>
+<area shape="rect" id="node9" href="$db/dd4/classRibOut.html#abe64e8b2506acdc785546acb760b2bbf" title="RibOut::listener_id" alt="" coords="290,245,433,272"/>
+<area shape="rect" id="node10" href="$d2/db4/classUpdateQueue.html#ab0c54640d7f699b0a4dc3dfae2302527" title="UpdateQueue::Dequeue" alt="" coords="273,347,450,373"/>
+<area shape="rect" id="node12" href="$d0/de5/classRouteUpdate.html#a457544304833d0f801cace7df4d0b55e" title="RouteUpdate::set_queue_id" alt="" coords="261,296,461,323"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="509,123,736,149"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="528,174,717,215"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="534,5,711,32"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="519,57,726,98"/>
+<area shape="rect" id="node11" href="$d0/de5/classRouteUpdate.html#aae839dfaff406d51fdc804c0280114f3" title="RouteUpdate::Updates" alt="" coords="539,347,707,373"/>
+</map>

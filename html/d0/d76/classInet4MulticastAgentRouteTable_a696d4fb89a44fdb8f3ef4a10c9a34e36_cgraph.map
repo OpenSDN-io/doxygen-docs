@@ -1,0 +1,9 @@
+<map id="Inet4MulticastAgentRouteTable::DeleteMulticastRoute" name="Inet4MulticastAgentRouteTable::DeleteMulticastRoute">
+<area shape="rect" id="node2" href="$d9/dab/inet4__multicast__route_8cc.html#a49ff898a9e01c9ed3b74a5a3d2a2c5ad" title="MulticastTableEnqueue" alt="" coords="256,41,427,68"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="268,92,415,119"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a7cbe27c4c52ab82af9fdf4d430d8805b" title="Agent::fabric_inet4\l_multicast_table" alt="" coords="487,5,633,46"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="475,71,645,97"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="693,20,920,47"/>
+<area shape="rect" id="node6" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="743,71,870,97"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="719,121,895,148"/>
+</map>

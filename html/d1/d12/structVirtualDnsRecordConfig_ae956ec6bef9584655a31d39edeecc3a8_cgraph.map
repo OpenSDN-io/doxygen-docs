@@ -1,0 +1,17 @@
+<map id="VirtualDnsRecordConfig::VirtualDnsRecordConfig" name="VirtualDnsRecordConfig::VirtualDnsRecordConfig">
+<area shape="rect" id="node2" href="$d1/d12/structVirtualDnsRecordConfig.html#aef84fd4f7584335b5744e5bdf0dabc87" title="VirtualDnsRecordConfig\l::GetObject" alt="" coords="238,70,413,111"/>
+<area shape="rect" id="node6" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="491,157,650,184"/>
+<area shape="rect" id="node7" href="$d1/d12/structVirtualDnsRecordConfig.html#ade763a2038500b8f1f9d5936ad6137b9" title="VirtualDnsRecordConfig\l::UpdateVdns" alt="" coords="238,251,413,293"/>
+<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="487,5,654,32"/>
+<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title="BindUtil::DnsClass" alt="" coords="499,56,642,83"/>
+<area shape="rect" id="node5" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="502,107,639,133"/>
+<area shape="rect" id="node8" href="$d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title="Dns::GetDnsConfigManager" alt="" coords="471,208,671,235"/>
+<area shape="rect" id="node9" href="$d7/db3/classDnsConfigManager.html#a9097a134e7a80fb378a7838944ee45ec" title="DnsConfigManager::FindTarget" alt="" coords="461,259,680,285"/>
+<area shape="rect" id="node14" href="$d0/d31/structVirtualDnsConfig.html#a352c1560fed494d5e29f5b8a88b0421e" title="VirtualDnsConfig::Find" alt="" coords="488,309,653,336"/>
+<area shape="rect" id="node15" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="501,360,640,387"/>
+<area shape="rect" id="node16" href="$d0/d31/structVirtualDnsConfig.html#a312038d92cf37eba50a00c5fb635b98c" title="VirtualDnsConfig::AddRecord" alt="" coords="467,411,675,437"/>
+<area shape="rect" id="node10" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title="DBGraphVertex::edge\l_list_begin" alt="" coords="741,163,904,205"/>
+<area shape="rect" id="node11" href="$d7/db3/classDnsConfigManager.html#a71ca5a60df60a3358d342ea7eb6a2a05" title="DnsConfigManager::graph" alt="" coords="728,229,917,256"/>
+<area shape="rect" id="node12" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title="DBGraphVertex::edge\l_list_end" alt="" coords="741,281,904,322"/>
+<area shape="rect" id="node13" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="743,347,902,373"/>
+</map>

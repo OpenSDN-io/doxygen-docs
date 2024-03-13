@@ -1,0 +1,6 @@
+<map id="VNController::StopEndOfRibTx" name="VNController::StopEndOfRibTx">
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a4771ad79ea5a22b9ac8f222093760a4f" title="Agent::controller_xmpp\l_channel" alt="" coords="291,5,466,46"/>
+<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#abe84cdaac5bdba90f5a9f1856522aee7" title="AgentXmppChannel::StopEnd\lOfRibTxWalker" alt="" coords="273,70,485,111"/>
+<area shape="rect" id="node4" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="555,41,738,82"/>
+<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a4616a62b48f55f37931ffdeffa1bb226" title="BgpPeer::StopPeerNotifyRoutes" alt="" coords="533,107,760,133"/>
+</map>

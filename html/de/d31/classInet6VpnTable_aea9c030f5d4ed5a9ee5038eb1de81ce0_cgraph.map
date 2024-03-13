@@ -1,0 +1,11 @@
+<map id="Inet6VpnTable::CreateTable" name="Inet6VpnTable::CreateTable">
+<area shape="rect" id="node2" href="$de/d31/classInet6VpnTable.html#aaa4464322cffddb8b54ec34fbd3338e9" title="Inet6VpnTable::Inet6VpnTable" alt="" coords="254,16,469,43"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#a46babd1782d3a7882e2cf1f5860e0751" title="DBTable::Init" alt="" coords="309,67,413,93"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a81fe2a0217ca6141017066158d37bad4" title="DBTable::PartitionCount" alt="" coords="518,41,693,68"/>
+<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#a7e6305b56f5f8f9cd3e81a2afade21eb" title="DBTable::AllocPartition" alt="" coords="521,92,690,119"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="741,41,883,68"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="946,12,1147,39"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="931,63,1162,105"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1211,12,1427,39"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1475,5,1666,46"/>
+</map>

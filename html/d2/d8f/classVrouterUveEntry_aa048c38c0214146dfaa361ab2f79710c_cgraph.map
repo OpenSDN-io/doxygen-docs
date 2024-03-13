@@ -1,0 +1,12 @@
+<map id="VrouterUveEntry::AppendVrf" name="VrouterUveEntry::AppendVrf">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="274,5,451,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="269,57,456,98"/>
+<area shape="rect" id="node6" href="$d5/d0a/classDBTable.html#ad922c89909639d2a1c25e799208a64ed" title="DBTable::Size" alt="" coords="307,123,418,149"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#ae0cefbb866a350549c1cea1ab5f8d05f" title="VrfEntry::GetInet4Multicast\lRouteTable" alt="" coords="264,174,461,215"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="259,240,467,267"/>
+<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#ac32cfcd6a11cd0050853c45a682f1464" title="VrfEntry::GetBridgeRoute\lTable" alt="" coords="271,291,455,333"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="269,357,456,398"/>
+<area shape="rect" id="node11" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="291,423,435,449"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="515,240,691,267"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="739,240,943,267"/>
+</map>

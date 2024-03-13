@@ -1,0 +1,11 @@
+<map id="IsBGPaaSCompositeNextHop" name="IsBGPaaSCompositeNextHop">
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="593,5,733,32"/>
+<area shape="rect" id="node3" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="264,56,517,83"/>
+<area shape="rect" id="node4" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="309,107,472,133"/>
+<area shape="rect" id="node5" href="$d8/d3e/vxlan__auxilliary_8cc.html#a6fd58df0c79372e4a3256ec8e7db4232" title="IsBGPaaSInterfaceNextHop" alt="" coords="291,157,490,184"/>
+<area shape="rect" id="node6" href="$d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="583,56,742,83"/>
+<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="582,107,743,149"/>
+<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="582,173,743,214"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="603,239,723,265"/>
+<area shape="rect" id="node10" href="$dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="565,289,760,316"/>
+</map>

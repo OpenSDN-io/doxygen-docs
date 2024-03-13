@@ -1,0 +1,24 @@
+<map id="EndOfRibTxTimer::TimerExpirationDone" name="EndOfRibTxTimer::TimerExpirationDone">
+<area shape="rect" id="node2" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="915,96,1069,122"/>
+<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#a32124a5f7cc341e4d6abe2ef5102d4c5" title="AgentXmppChannel::GetXmpp\lServerIdx" alt="" coords="341,50,561,91"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a7b8cf817f9df027d20b0e45ae29fd17f" title="Agent::controller_xmpp\l_channel_setup_time" alt="" coords="363,115,538,156"/>
+<area shape="rect" id="node5" href="$d5/d42/structEndOfRibTxTimer.html#aae3ac40ddda4e7c13ca915e558970e0a" title="EndOfRibTxTimer::GetFallback\lInterval" alt="" coords="341,180,561,222"/>
+<area shape="rect" id="node6" href="$d5/d42/structEndOfRibTxTimer.html#ab777889a8cc9b767b04140a7a9de58a4" title="EndOfRibTxTimer::GetInactivity\lInterval" alt="" coords="337,246,565,287"/>
+<area shape="rect" id="node7" href="$da/d25/classAgentXmppChannel.html#a32e3e092c24f60455b09a59738a8149f" title="AgentXmppChannel::StartEnd\lOfRibTxWalker" alt="" coords="343,311,558,352"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#a22308de9c3e707bdf1c1cb53cf2c3afa" title="Agent::event_notifier" alt="" coords="371,377,530,404"/>
+<area shape="rect" id="node8" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="639,227,822,268"/>
+<area shape="rect" id="node9" href="$d3/d2d/classBgpPeer.html#a5b66dbc7fd2cb4bcba032a430b97a0a2" title="BgpPeer::PeerNotifyRoutes" alt="" coords="632,293,829,320"/>
+<area shape="rect" id="node10" href="$da/d25/classAgentXmppChannel.html#a255abfd0216d42b90c785a2b12909922" title="AgentXmppChannel::EndOfRibTx" alt="" coords="613,344,848,370"/>
+<area shape="rect" id="node11" href="$d6/d81/classXmppChannel.html#ad328a80bd9eb6805a99999574dd10724" title="XmppChannel::FromString" alt="" coords="897,242,1087,269"/>
+<area shape="rect" id="node12" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="905,293,1079,320"/>
+<area shape="rect" id="node13" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="896,344,1088,370"/>
+<area shape="rect" id="node14" href="$d0/d64/classXmppConnection.html#a1756a2a0e4f35ccc9bf3ae6f87964079" title="XmppConnection::Send" alt="" coords="905,394,1079,421"/>
+<area shape="rect" id="node22" href="$da/d25/classAgentXmppChannel.html#abba494f651224db6f3bde4c75fdb4c2a" title="AgentXmppChannel::end\l_of_rib_tx_timer" alt="" coords="901,446,1083,487"/>
+<area shape="rect" id="node15" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="1137,302,1335,329"/>
+<area shape="rect" id="node16" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="1162,354,1310,395"/>
+<area shape="rect" id="node17" href="$d2/d0e/classTcpSession.html#aaaf9a967a0e34524e763fc831734e79b" title="TcpSession::remote\l_addr_string" alt="" coords="1162,419,1310,460"/>
+<area shape="rect" id="node18" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="1169,485,1303,512"/>
+<area shape="rect" id="node19" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="1384,419,1571,460"/>
+<area shape="rect" id="node20" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1619,510,1763,537"/>
+<area shape="rect" id="node21" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1384,536,1571,562"/>
+</map>

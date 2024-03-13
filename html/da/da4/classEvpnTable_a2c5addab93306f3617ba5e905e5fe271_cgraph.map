@@ -1,0 +1,12 @@
+<map id="EvpnTable::ShouldReplicate" name="EvpnTable::ShouldReplicate">
+<area shape="rect" id="node2" href="$da/da4/classEvpnTable.html#a41972656c304b1c19b776202925b86a1" title="EvpnTable::IsMaster" alt="" coords="291,12,442,39"/>
+<area shape="rect" id="node5" href="$d0/db1/classEvpnPrefix.html#aca4c3968dbc0bc7e64c51218a3d129dd" title="EvpnPrefix::type" alt="" coords="303,63,431,89"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a233b773a2667adeadfb273e9716f10e7" title="BgpServer::autonomous\l_system" alt="" coords="277,114,456,155"/>
+<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="528,125,725,152"/>
+<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#a64e8033eb664a59bde603e49ad4123cb" title="RoutingInstance::virtual\l_network_index" alt="" coords="279,231,455,273"/>
+<area shape="rect" id="node8" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="307,297,427,324"/>
+<area shape="rect" id="node9" href="$dd/d0f/classRouteTarget.html#afa1478ad4e0519594d1b140489967267" title="RouteTarget::FromString" alt="" coords="278,348,455,375"/>
+<area shape="rect" id="node11" href="$dd/d0f/classRouteTarget.html#a344fb91eedde714415a76b70a0f1ff10" title="RouteTarget::GetExtCommunity" alt="" coords="253,399,480,425"/>
+<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#ac7d3f05ce6ea89aea6392507cf1b6d8d" title="RoutingInstance::IsMaster\lRoutingInstance" alt="" coords="532,5,721,46"/>
+<area shape="rect" id="node10" href="$d1/d66/parse__object_8h.html#a12db15c31d40f1de11a1e07bde47220b" title="put_value" alt="" coords="583,348,670,375"/>
+</map>

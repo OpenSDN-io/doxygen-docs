@@ -1,0 +1,24 @@
+<map id="SessionStatsCollector::CopyFlowInfo" name="SessionStatsCollector::CopyFlowInfo">
+<area shape="rect" id="node2" href="$d3/d4f/classFlowEntry.html#aa115265c5547a2d1d34aefee8e343220" title="FlowEntry::intf_entry" alt="" coords="229,5,385,32"/>
+<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="248,56,365,83"/>
+<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#acf6738d89b367a46773e28bcbd63bb43" title="VmInterface::slo_list" alt="" coords="229,107,385,133"/>
+<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="243,157,370,184"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#aaf892673b5b3d0c78e3931e3919380cd" title="VnEntry::slo_list" alt="" coords="243,208,370,235"/>
+<area shape="rect" id="node7" href="$d3/d4f/classFlowEntry.html#a07dc5d07dd68da1d9aac3b12620d6dbc" title="FlowEntry::IsIngressFlow" alt="" coords="216,259,397,285"/>
+<area shape="rect" id="node9" href="$d3/d4f/classFlowEntry.html#a3465ab0ad97a65fd4b6ecacc160da995" title="FlowEntry::data" alt="" coords="485,305,608,332"/>
+<area shape="rect" id="node10" href="$d4/d59/classAgentUveBase.html#ab157dc970a1c99086be05be9658b6e4f" title="AgentUveBase::agent" alt="" coords="225,629,388,656"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="243,680,370,707"/>
+<area shape="rect" id="node8" href="$d3/d4f/classFlowEntry.html#a755f500e25812a645fc0fe63ca0cd275" title="FlowEntry::is_flags_set" alt="" coords="462,255,631,281"/>
+<area shape="rect" id="node12" href="$d3/d4f/classFlowEntry.html#a40f31c34250f321eaaecacdcb87dc6d5" title="FlowEntry::peer_vrouter" alt="" coords="219,731,395,757"/>
+<area shape="rect" id="node13" href="$d3/d4f/classFlowEntry.html#a5a7a0aa8264dab6e8b20c7b602347059" title="FlowEntry::tunnel_type" alt="" coords="221,781,392,808"/>
+<area shape="rect" id="node14" href="$d3/d08/classTunnelType.html#a9b1ab31bf0bf3d8e704196252696c155" title="TunnelType::GetType" alt="" coords="229,832,384,859"/>
+<area shape="rect" id="node15" href="$df/d96/classSessionStatsCollector.html#a1e0f171904d4799dd4fbeb1c730a61f8" title="SessionStatsCollector\l::CopyFlowInfoInternal" alt="" coords="223,462,391,503"/>
+<area shape="rect" id="node17" href="$dc/d2b/classFlowTable.html#a1c26385db3b714ca416920c9fc2a2d4e" title="FlowTable::GetFlowSandesh\lActionParams" alt="" coords="445,357,648,398"/>
+<area shape="rect" id="node22" href="$d3/d4f/classFlowEntry.html#a491c78f564d842f683e9440d024febc9" title="FlowEntry::ShouldDrop" alt="" coords="463,625,631,652"/>
+<area shape="rect" id="node23" href="$d3/d4f/classFlowEntry.html#ab8168fd72d371f5cf513e3c3e57ecc20" title="FlowEntry::DropReasonStr" alt="" coords="452,676,641,703"/>
+<area shape="rect" id="node16" href="$d3/d4f/classFlowEntry.html#ab0234344aef68c591d3266330224d3f2" title="FlowEntry::uuid" alt="" coords="486,575,607,601"/>
+<area shape="rect" id="node19" href="$d3/d4f/classFlowEntry.html#ad08c326d0df1418af4ae1736c390363a" title="FlowEntry::sg_rule_uuid" alt="" coords="459,423,634,449"/>
+<area shape="rect" id="node20" href="$d3/d4f/classFlowEntry.html#afbbfecb6566fa29adb1b9900cb3fcb72" title="FlowEntry::nw_ace_uuid" alt="" coords="458,473,635,500"/>
+<area shape="rect" id="node21" href="$d3/d4f/classFlowEntry.html#a44d8650518f688b0f496a75a1bc3d918" title="FlowEntry::fw_policy_uuid" alt="" coords="451,524,642,551"/>
+<area shape="rect" id="node18" href="$d3/d1f/classTrafficAction.html#a303861543b4c8ac90455805ab9231091" title="TrafficAction::ActionToString" alt="" coords="696,364,899,391"/>
+</map>

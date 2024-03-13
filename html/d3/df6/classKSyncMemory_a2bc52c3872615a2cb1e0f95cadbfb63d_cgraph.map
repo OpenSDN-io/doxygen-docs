@@ -1,0 +1,27 @@
+<map id="KSyncMemory::MapSharedMemory" name="KSyncMemory::MapSharedMemory">
+<area shape="rect" id="node2" href="$d3/df6/classKSyncMemory.html#adf155fd74b53eaa51a594cc7cd993045" title="KSyncMemory::GetTableSize" alt="" coords="302,334,509,360"/>
+<area shape="rect" id="node24" href="$d3/df6/classKSyncMemory.html#a765c248dab766649ee4067b566c7fb8b" title="KSyncMemory::Mmap" alt="" coords="324,668,487,695"/>
+<area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#affbb26c1e594924e9440889268bd2c70" title="KSyncSock::GetNetlinkFamilyId" alt="" coords="1067,140,1293,167"/>
+<area shape="rect" id="node4" href="$d3/df6/classKSyncMemory.html#a6adeaa5431573ab12ccba0ce5a3c717b" title="KSyncMemory::EncodeReq" alt="" coords="570,64,763,91"/>
+<area shape="rect" id="node5" href="$d7/de7/classKSync.html#ab1e820796025be29618710fb70a35486" title="KSync::agent" alt="" coords="613,115,720,142"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="608,166,725,192"/>
+<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a77a189c48b14deeb88a50cd19dcbb99a" title="AgentParam::cat_is\l_agent_mocked" alt="" coords="593,217,740,258"/>
+<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#adf8e727c7be0232053d4defc5cc1e48a" title="AgentParam::cat_ksocketdir" alt="" coords="565,283,769,310"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="581,334,752,360"/>
+<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="572,384,761,411"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a1281655a073a15449d4360f397010d38" title="Agent::vrouter_server_ip" alt="" coords="575,435,758,462"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#ae8ce0e28fa6d83f4103950609133ef1b" title="Agent::vrouter_server_port" alt="" coords="569,486,765,512"/>
+<area shape="rect" id="node13" href="$de/d67/classKSyncSockNetlink.html#ad0c9f7c8d1648176e769205e4018d9b4" title="KSyncSockNetlink::Netlink\lDecoder" alt="" coords="569,537,764,578"/>
+<area shape="rect" id="node23" href="$d0/d5a/classKSyncSock.html#a0887686f05b0606185a56e13b5710fcf" title="KSyncSock::GetAgentSandesh\lContext" alt="" coords="558,602,775,644"/>
+<area shape="rect" id="node14" href="$d5/d89/ksync__sock_8cc.html#a1cba39e20a131d6226f63fbcf16b0896" title="ValidateNetlink" alt="" coords="859,267,981,294"/>
+<area shape="rect" id="node15" href="$d5/d89/ksync__sock_8cc.html#a5b09ce322874abb0f4c36c4bd41ddec4" title="GetNetlinkPayload" alt="" coords="849,519,991,546"/>
+<area shape="rect" id="node16" href="$d5/d89/ksync__sock_8cc.html#adcec88b92809073f4ab9eb4ebf396304" title="DecodeSandeshMessages" alt="" coords="825,570,1015,596"/>
+<area shape="rect" id="node17" href="$de/d75/classSandesh.html#a3a6764f6633cab28f2c130f4ec76488e" title="Sandesh::ReceiveBinaryMsgOne" alt="" coords="1065,570,1295,596"/>
+<area shape="rect" id="node18" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="1354,478,1510,520"/>
+<area shape="rect" id="node20" href="$de/d75/classSandesh.html#aed76cd9fa4e995c2e28c96800d27773b" title="Sandesh::Read" alt="" coords="1373,544,1491,571"/>
+<area shape="rect" id="node21" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title="SandeshBuffer::Process" alt="" coords="1345,595,1519,622"/>
+<area shape="rect" id="node22" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="1364,646,1500,672"/>
+<area shape="rect" id="node19" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="1569,478,1725,520"/>
+<area shape="rect" id="node25" href="$d3/df6/classKSyncMemory.html#a678e0eec93af4b4378674834cba75ce8" title="KSyncMemory::get_entry_size" alt="" coords="558,668,775,695"/>
+<area shape="rect" id="node26" href="$d3/df6/classKSyncMemory.html#ae43498cfbb6d593ed4ef9031b5a4e1ee" title="KSyncMemory::SetTableSize" alt="" coords="565,719,769,746"/>
+</map>

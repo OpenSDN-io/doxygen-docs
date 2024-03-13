@@ -1,0 +1,33 @@
+<map id="main.cc" name="main.cc">
+<area shape="rect" id="node10" href="$dd/dd6/connection__info_8h.html" title="base/connection_info.h" alt="" coords="913,88,1084,115"/>
+<area shape="rect" id="node12" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="3235,88,3352,115"/>
+<area shape="rect" id="node13" href="$d9/dbd/misc__utils_8h.html" title="base/misc_utils.h" alt="" coords="2205,88,2339,115"/>
+<area shape="rect" id="node17" href="$d1/d95/address__util_8h.html" title="base/address_util.h" alt="" coords="3377,88,3524,115"/>
+<area shape="rect" id="node18" href="$d6/d86/process__signal_8h.html" title="io/process_signal.h" alt="" coords="1299,261,1445,288"/>
+<area shape="rect" id="node19" href="$df/d8a/bgp__config_8h.html" title="bgp/bgp_config.h" alt="" coords="2861,261,2992,288"/>
+<area shape="rect" id="node21" href="$d9/d96/bgp__config__ifmap_8h.html" title="bgp/bgp_config_ifmap.h" alt="" coords="2782,179,2959,205"/>
+<area shape="rect" id="node22" href="$da/d1b/bgp__config__parser_8h.html" title="bgp/bgp_config_parser.h" alt="" coords="3549,88,3728,115"/>
+<area shape="rect" id="node23" href="$d5/dc9/bgp__ifmap__sandesh_8h.html" title="bgp/bgp_ifmap_sandesh.h" alt="" coords="3752,88,3944,115"/>
+<area shape="rect" id="node24" href="$de/d2b/bgp__peer_8h.html" title="bgp/bgp_peer.h" alt="" coords="2637,179,2757,205"/>
+<area shape="rect" id="node26" href="$d8/df1/bgp__sandesh_8h.html" title="bgp/bgp_sandesh.h" alt="" coords="4157,88,4304,115"/>
+<area shape="rect" id="node27" href="$d3/d56/bgp__xmpp__sandesh_8h.html" title="bgp/bgp_xmpp_sandesh.h" alt="" coords="4329,88,4519,115"/>
+<area shape="rect" id="node28" href="$d6/d53/bgp__server_8h.html" title="bgp/bgp_server.h" alt="" coords="1160,88,1293,115"/>
+<area shape="rect" id="node30" href="$d9/daa/bgp__session__manager_8h.html" title="bgp/bgp_session_manager.h" alt="" coords="4543,88,4749,115"/>
+<area shape="rect" id="node31" href="$d9/d78/bgp__xmpp__channel_8h.html" title="bgp/bgp_xmpp_channel.h" alt="" coords="1993,88,2180,115"/>
+<area shape="rect" id="node33" href="$d0/d5b/xmpp__message__builder_8h.html" title="bgp/xmpp_message_builder.h" alt="" coords="4775,88,4991,115"/>
+<area shape="rect" id="node32" href="$d0/df1/routing__instance_8h.html" title="bgp/routing&#45;instance\l/routing_instance.h" alt="" coords="1927,171,2083,213"/>
+<area shape="rect" id="node34" href="$d4/d0b/rtarget__group__mgr_8h.html" title="bgp/routing&#45;instance\l/rtarget_group_mgr.h" alt="" coords="1745,171,1903,213"/>
+<area shape="rect" id="node35" href="$dd/d13/config__client__manager_8h.html" title="config_client_manager.h" alt="" coords="581,261,760,288"/>
+<area shape="rect" id="node37" href="$d7/d10/control__node_8h.html" title="control&#45;node/control\l_node.h" alt="" coords="1470,81,1623,122"/>
+<area shape="rect" id="node38" href="$d7/d5b/options_8h.html" title="control&#45;node/options.h" alt="" coords="1648,88,1816,115"/>
+<area shape="rect" id="node39" href="$d6/d92/db__graph_8h.html" title="db/db_graph.h" alt="" coords="5217,88,5332,115"/>
+<area shape="rect" id="node40" href="$d3/d66/config__json__parser_8h.html" title="ifmap/client/config\l_json_parser.h" alt="" coords="563,81,705,122"/>
+<area shape="rect" id="node42" href="$d1/dc4/ifmap__link__table_8h.html" title="ifmap/ifmap_link_table.h" alt="" coords="5357,88,5541,115"/>
+<area shape="rect" id="node43" href="$d9/db5/ifmap__sandesh__context_8h.html" title="ifmap/ifmap_sandesh\l_context.h" alt="" coords="5567,81,5729,122"/>
+<area shape="rect" id="node41" href="$d9/dd1/ifmap__server_8h.html" title="ifmap/ifmap_server.h" alt="" coords="590,179,751,205"/>
+<area shape="rect" id="node44" href="$d5/d5d/ifmap__xmpp_8h.html" title="ifmap/ifmap_xmpp.h" alt="" coords="730,88,888,115"/>
+<area shape="rect" id="node29" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="1294,179,1444,205"/>
+<area shape="rect" id="node48" href="$de/dd3/xmpp__init_8h.html" title="xmpp/xmpp_init.h" alt="" coords="2669,88,2808,115"/>
+<area shape="rect" id="node50" href="$d6/d65/xmpp__sandesh_8h.html" title="xmpp/xmpp_sandesh.h" alt="" coords="6415,88,6588,115"/>
+<area shape="rect" id="node49" href="$d1/d2e/xmpp__server_8h.html" title="xmpp/xmpp_server.h" alt="" coords="3035,179,3193,205"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="OperIFMapTable::ProcessConfig" name="OperIFMapTable::ProcessConfig">
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="771,5,949,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="317,165,437,192"/>
+<area shape="rect" id="node4" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title="OperDB::dependency\l_manager" alt="" coords="298,217,457,258"/>
+<area shape="rect" id="node5" href="$dd/dd0/classIFMapDependencyManager.html#a9c927196b991040f4bf668867a93f5c2" title="IFMapDependencyManager\l::SetState" alt="" coords="279,99,476,141"/>
+<area shape="rect" id="node13" href="$d0/d9b/classOperIFMapTable.html#af38ba0c43703311faabdaec184ec69fe" title="OperIFMapTable::ConfigAdd\lChange" alt="" coords="278,282,477,323"/>
+<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="545,107,679,133"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="536,157,688,184"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="526,208,698,235"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="527,56,697,83"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="747,129,973,156"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="765,194,955,235"/>
+<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="757,57,963,98"/>
+</map>

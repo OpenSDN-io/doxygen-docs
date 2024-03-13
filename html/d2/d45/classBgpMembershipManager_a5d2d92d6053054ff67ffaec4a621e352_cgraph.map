@@ -1,0 +1,13 @@
+<map id="BgpMembershipManager::ProcessRegisterRibCompleteEvent" name="BgpMembershipManager::ProcessRegisterRibCompleteEvent">
+<area shape="rect" id="node2" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="278,70,461,111"/>
+<area shape="rect" id="node6" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a18ad31a297358b35d7d234b6a08cfbd2" title="BgpMembershipManager\l::PeerRibState::action" alt="" coords="278,135,461,177"/>
+<area shape="rect" id="node7" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="278,201,461,257"/>
+<area shape="rect" id="node8" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a9948c03074c4f735e028544b5626d627" title="BgpMembershipManager\l::PeerRibState::ribout\l_registered" alt="" coords="278,281,461,337"/>
+<area shape="rect" id="node9" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a705bfd004298fdd52f2de72b40dbc4af" title="BgpMembershipManager\l::PeerRibState::clear\l_action" alt="" coords="278,361,461,417"/>
+<area shape="rect" id="node10" href="$dd/d38/classIPeer.html#ab7da003c292c10968338075272b0818e" title="IPeer::MembershipRequest\lCallback" alt="" coords="272,442,467,483"/>
+<area shape="rect" id="node11" href="$d2/d45/classBgpMembershipManager.html#aab1f771667cf5fd5b011ff8b4611fd72" title="BgpMembershipManager\l::NotifyPeerRegistration" alt="" coords="278,507,461,549"/>
+<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="529,5,711,46"/>
+<area shape="rect" id="node4" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="529,70,711,111"/>
+<area shape="rect" id="node5" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="515,135,725,177"/>
+<area shape="rect" id="node12" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title="IPeer::IsXmppPeer" alt="" coords="549,515,691,541"/>
+</map>

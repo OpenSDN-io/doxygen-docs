@@ -1,0 +1,15 @@
+<map id="KSyncSandeshContext::VrouterOpsMsgHandler" name="KSyncSandeshContext::VrouterOpsMsgHandler">
+<area shape="rect" id="node2" href="$d7/de7/classKSync.html#ab1e820796025be29618710fb70a35486" title="KSync::agent" alt="" coords="281,5,388,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae9e821a12f1662c8e533af4a4cbfcff9" title="Agent::set_vrouter\l_max_labels" alt="" coords="263,57,406,98"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a56e0f8267bc4064716c9ad78d442c645" title="Agent::set_vrouter\l_max_nexthops" alt="" coords="263,122,406,163"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#af22fb174edefed19f4958afa20f8405b" title="Agent::set_vrouter\l_max_bridge_entries" alt="" coords="255,187,414,229"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a367fa326fa0cc65c8aeb430798137ac7" title="Agent::set_vrouter\l_max_oflow_bridge_entries" alt="" coords="235,253,435,294"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ac996211594e946822d306c63fc37ca34" title="Agent::set_vrouter\l_max_interfaces" alt="" coords="263,318,406,359"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#abd6284a47de30831a3e3a94e167e8516" title="Agent::set_vrouter\l_max_mirror_entries" alt="" coords="256,383,413,425"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a7f6757ca1448a588b9781c97af73f6ce" title="Agent::set_vrouter\l_max_vrfs" alt="" coords="263,449,406,490"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a418c0141b0131ca5a20051e5f356af77" title="Agent::set_vrouter\l_max_flow_entries" alt="" coords="263,514,407,555"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a7efd355096e5479ba935d10e989257a2" title="Agent::set_vrouter\l_max_oflow_entries" alt="" coords="259,579,411,621"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a74c44a593e999764c4a854946b97c585" title="Agent::set_vrouter\l_build_info" alt="" coords="263,645,406,686"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#abcb5e5cc0a8fb05a17f40206b4b5b3b1" title="Agent::set_vrouter\l_priority_tagging" alt="" coords="263,710,406,751"/>
+<area shape="rect" id="node13" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#aadd58a2bd505eba3564c7483be1a6140" title="version" alt="" coords="483,652,554,679"/>
+</map>

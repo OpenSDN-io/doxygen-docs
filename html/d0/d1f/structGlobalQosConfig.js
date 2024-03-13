@@ -1,0 +1,26 @@
+var structGlobalQosConfig =
+[
+    [ "GlobalQosConfig", "d0/d1f/structGlobalQosConfig.html#a835ad28550f53b53dd42fc8ea647bca4", null ],
+    [ "~GlobalQosConfig", "d0/d1f/structGlobalQosConfig.html#a85b07007fafa77c89c12f7d5314bec8b", null ],
+    [ "GlobalQosConfig", "d0/d1f/structGlobalQosConfig.html#acf8a397647fba097ed1d258e5232d5c6", null ],
+    [ "~GlobalQosConfig", "d0/d1f/structGlobalQosConfig.html#a664bcfdd88e7d77e0cb71c701364071b", null ],
+    [ "analytics_dscp", "d0/d1f/structGlobalQosConfig.html#ac427230043c6fd5665764030258b137e", null ],
+    [ "ConfigAddChange", "d0/d1f/structGlobalQosConfig.html#acaac3c9fba2a25e2f35ebc480b6cf562", null ],
+    [ "ConfigDelete", "d0/d1f/structGlobalQosConfig.html#ae62554f80f8f4ccf644c9a288d1db5d6", null ],
+    [ "ConfigManagerEnqueue", "d0/d1f/structGlobalQosConfig.html#adaad2354cfbac48dc517c3654df15cac", null ],
+    [ "control_dscp", "d0/d1f/structGlobalQosConfig.html#a409939f2ac4b97c5a7dc4800629480d0", null ],
+    [ "DISALLOW_COPY_AND_ASSIGN", "d0/d1f/structGlobalQosConfig.html#a76fabba8ea57b0f55ae79e907a88701d", null ],
+    [ "dns_dscp", "d0/d1f/structGlobalQosConfig.html#ab5521b828c64b69bbc820522b56fd0f3", null ],
+    [ "Find", "d0/d1f/structGlobalQosConfig.html#a5f84dda0783850d6465b469a652ba2d1", null ],
+    [ "OnAdd", "d0/d1f/structGlobalQosConfig.html#a18ffb07cd4c57ab624533133acd69a62", null ],
+    [ "OnChange", "d0/d1f/structGlobalQosConfig.html#a79e70579a0ab305db61ec608ae20050d", null ],
+    [ "OnDelete", "d0/d1f/structGlobalQosConfig.html#a67c8c527a1abf8e07508b11323c24092", null ],
+    [ "ResetDscp", "d0/d1f/structGlobalQosConfig.html#aa2b5d4f6024f4f6b6bf0e6fa04beed0f", null ],
+    [ "SetDnsDscp", "d0/d1f/structGlobalQosConfig.html#a2674fa3689a91f4acac79489a1ae44b0", null ],
+    [ "SetDscp", "d0/d1f/structGlobalQosConfig.html#a142595447e0b6906db766d44ddf10186", null ],
+    [ "analytics_dscp_", "d0/d1f/structGlobalQosConfig.html#a6639ee86665c6e21168096d00fbed69d", null ],
+    [ "control_dscp_", "d0/d1f/structGlobalQosConfig.html#ae2bb18863ff45261920f5efad7823929", null ],
+    [ "dns_dscp_", "d0/d1f/structGlobalQosConfig.html#ada99d7e571171a074ea5c25a3b2a7c1e", null ],
+    [ "kInvalidDscp", "d0/d1f/structGlobalQosConfig.html#a043bbc271b539afe081d16ae478fcb47", null ],
+    [ "singleton_", "d0/d1f/structGlobalQosConfig.html#a29e6270770eaca5a5ca05778cdf5b66a", null ]
+];

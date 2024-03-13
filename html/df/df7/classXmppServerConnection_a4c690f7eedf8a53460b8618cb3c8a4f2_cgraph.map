@@ -1,0 +1,13 @@
+<map id="XmppServerConnection::increment_flap_count" name="XmppServerConnection::increment_flap_count">
+<area shape="rect" id="node2" href="$df/df7/classXmppServerConnection.html#a1ab4280f96a6714aa248dea3ec5f8830" title="XmppServerConnection\l::conn_endpoint" alt="" coords="247,5,422,46"/>
+<area shape="rect" id="node3" href="$df/df7/classXmppServerConnection.html#a3eed068878dc90d3b8ae05ffabbdce22" title="XmppServerConnection\l::server" alt="" coords="247,70,422,111"/>
+<area shape="rect" id="node4" href="$dd/d43/classXmppServer.html#a2c57f24dddfea0d13a6fe99f6c7ca6a8" title="XmppServer::FindConnection\lEndpoint" alt="" coords="230,135,439,177"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a074ea00a6f3ad5aceaf5d1dd864543aa" title="XmppConnection::ToString" alt="" coords="238,201,431,228"/>
+<area shape="rect" id="node6" href="$d7/dcc/classXmppConnectionEndpoint.html#a27a0dbbe7556beaabbcd2debf5704839" title="XmppConnectionEndpoint\l::increment_flap_count" alt="" coords="239,253,430,294"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#a5fddcca3abb84411a2d2e7815d6904bb" title="XmppConnection::logUVE" alt="" coords="241,319,429,345"/>
+<area shape="rect" id="node9" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="231,369,438,396"/>
+<area shape="rect" id="node10" href="$d7/dcc/classXmppConnectionEndpoint.html#a6a8a2d3f4878a64f5d9ee30f5497c813" title="XmppConnectionEndpoint\l::flap_count" alt="" coords="239,421,430,462"/>
+<area shape="rect" id="node11" href="$d7/dcc/classXmppConnectionEndpoint.html#ac318b70e4e55680a32fce978c63e8162" title="XmppConnectionEndpoint\l::last_flap" alt="" coords="239,486,430,527"/>
+<area shape="rect" id="node12" href="$d5/df9/xmpp__connection_8cc.html#ac0fa610ba4da90e0962a9f28a4ba8faa" title="XMPPPeerInfoSend" alt="" coords="263,552,407,579"/>
+<area shape="rect" id="node7" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="488,260,643,287"/>
+</map>

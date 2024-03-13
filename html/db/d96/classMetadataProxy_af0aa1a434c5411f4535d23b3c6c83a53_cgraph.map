@@ -1,0 +1,51 @@
+<map id="MetadataProxy::InitializeHttp6Server" name="MetadataProxy::InitializeHttp6Server">
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a59a1f65611be4d86e4201704f6dfa55b" title="VmInterface::mdata\l_ip6_addr" alt="" coords="279,533,431,574"/>
+<area shape="rect" id="node3" href="$db/d96/classMetadataProxy.html#a713eef6bc677ed8ea58779fd252820b9" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses. " alt="" coords="255,598,454,639"/>
+<area shape="rect" id="node4" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="255,664,455,691"/>
+<area shape="rect" id="node5" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="851,1019,1021,1045"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="248,765,461,792"/>
+<area shape="rect" id="node7" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title="HttpServer::RegisterHandler" alt="" coords="253,816,457,843"/>
+<area shape="rect" id="node8" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title="MetadataProxy::HandleMetadata\lRequest" alt="" coords="237,1255,472,1297"/>
+<area shape="rect" id="node48" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title="TcpServer::Initialize" alt="" coords="280,715,429,741"/>
+<area shape="rect" id="node50" href="$d8/dfe/classAgent.html#a932a9c38e1ccf272cbc11d625e2a256a" title="Agent::metadata_server_port" alt="" coords="249,1321,461,1348"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="577,1441,725,1482"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="853,1532,1019,1559"/>
+<area shape="rect" id="node11" href="$db/d96/classMetadataProxy.html#a2f193f8d7778c8bc37719f71505d4594" title="MetadataProxy::ErrorClose" alt="" coords="839,1120,1033,1147"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="843,1237,1029,1264"/>
+<area shape="rect" id="node17" href="$d7/d8d/metadata__proxy_8cc.html#afa7614b385e6ed1e559ef4dc4d6bf5a0" title="GetHmacSha256" alt="" coords="585,1608,716,1635"/>
+<area shape="rect" id="node18" href="$d5/d1b/classHttpRequest.html#aae0e2bd78edc3ed445213e6fdf87e62a" title="HttpRequest::Headers" alt="" coords="569,1659,733,1685"/>
+<area shape="rect" id="node19" href="$d5/d1b/classHttpRequest.html#a7f90ab416608b192eeebdb136ac54e21" title="HttpRequest::UrlPath" alt="" coords="572,1069,729,1096"/>
+<area shape="rect" id="node21" href="$d5/d1b/classHttpRequest.html#a4fb5c31d5451c80ed337154c106235af" title="HttpRequest::Body" alt="" coords="579,1760,722,1787"/>
+<area shape="rect" id="node22" href="$db/d96/classMetadataProxy.html#aa7a8b6fe9c39b0316ddfc978318d9414" title="MetadataProxy::GetProxyConnection" alt="" coords="521,551,781,577"/>
+<area shape="rect" id="node40" href="$d5/d1b/classHttpRequest.html#a42d76417594f75440f72f06ef55bbc89" title="HttpRequest::GetMethod" alt="" coords="560,968,741,995"/>
+<area shape="rect" id="node41" href="$d3/de9/classHttpConnection.html#a6b1591bb300f524117c0fe99c7ae8389" title="HttpConnection::HttpGet" alt="" coords="559,1019,742,1045"/>
+<area shape="rect" id="node42" href="$db/d96/classMetadataProxy.html#a044cb33a1ae716897bcca7f13c099119" title="MetadataProxy::HandleMetadata\lResponse" alt="" coords="533,1171,768,1213"/>
+<area shape="rect" id="node44" href="$d3/de9/classHttpConnection.html#aeb5b07e227b6bfa6b95a545dd6aa72e7" title="HttpConnection::HttpHead" alt="" coords="554,1237,747,1264"/>
+<area shape="rect" id="node45" href="$d3/de9/classHttpConnection.html#ac9fb5c6259aeedc53b6f92247cb9015f" title="HttpConnection::HttpPost" alt="" coords="557,1288,744,1315"/>
+<area shape="rect" id="node46" href="$d3/de9/classHttpConnection.html#a2d6942b0e343d7d178b33369c52e73c4" title="HttpConnection::HttpPut" alt="" coords="561,1339,741,1365"/>
+<area shape="rect" id="node47" href="$d3/de9/classHttpConnection.html#af73c01d58fc366533e14c35cb25721f1" title="HttpConnection::HttpDelete" alt="" coords="549,1389,752,1416"/>
+<area shape="rect" id="node43" href="$db/d96/classMetadataProxy.html#a1c82788af90eb5459b53c5582884513f" title="MetadataProxy::CloseClient\lSession" alt="" coords="835,1419,1037,1461"/>
+<area shape="rect" id="node12" href="$d7/d8d/metadata__proxy_8cc.html#a878306c7dc8e3bfb05786b0f879a11c0" title="ErrorMessage" alt="" coords="1138,1120,1249,1147"/>
+<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="1127,1069,1260,1096"/>
+<area shape="rect" id="node14" href="$db/d96/classMetadataProxy.html#afd9109e4c1d1deec13558ec79535c087" title="MetadataProxy::CloseServer\lSession" alt="" coords="1091,1171,1296,1213"/>
+<area shape="rect" id="node15" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="1345,1208,1482,1235"/>
+<area shape="rect" id="node20" href="$d8/d3c/util_8h.html#a958ab293b94f91a7461891fc49019e0d" title="BitIsSet" alt="" coords="900,1069,972,1096"/>
+<area shape="rect" id="node23" href="$d2/d0e/classTcpSession.html#adfccba8353407162a30f9fc9ed23d2d8" title="TcpSession::local_port" alt="" coords="853,500,1019,527"/>
+<area shape="rect" id="node24" href="$d2/d0e/classTcpSession.html#adeadb74d89ea5c2e08528e39514d7264" title="TcpSession::local_endpoint" alt="" coords="838,5,1034,32"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="876,551,996,577"/>
+<area shape="rect" id="node26" href="$dc/dff/classOperDB.html#aa6631648d2d603c1ec66872dc4e7d2ac" title="OperDB::global_vrouter" alt="" coords="849,601,1023,628"/>
+<area shape="rect" id="node27" href="$de/d48/classGlobalVrouter.html#aaa2276fd0c1492b924b5c04e4c73ee01" title="Get link local service configuration info, for a given service name. " alt="" coords="833,653,1039,694"/>
+<area shape="rect" id="node28" href="$d4/d6e/classHttpClient.html#a60c3d22bc148f0b35660145dbf3b2fe2" title="HttpClient::CreateConnection" alt="" coords="830,719,1042,745"/>
+<area shape="rect" id="node29" href="$d3/de9/classHttpConnection.html#afbb56d3e950f9d0861e235d39b6d7f37" title="HttpConnection::curl\l_options" alt="" coords="859,770,1013,811"/>
+<area shape="rect" id="node30" href="$d3/de9/classHttpConnection.html#ac9426ba649a6af36ca7a8c3aa2319952" title="HttpConnection::set\l_use_ssl" alt="" coords="861,835,1011,877"/>
+<area shape="rect" id="node31" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="877,901,995,928"/>
+<area shape="rect" id="node32" href="$dc/dd4/classAgentParam.html#a98a057fd5dcd523881326069029f67a7" title="AgentParam::metadata\l_use_ssl" alt="" coords="850,953,1022,994"/>
+<area shape="rect" id="node33" href="$d3/de9/classHttpConnection.html#a155d2f7cb7a7d4f158990f3c42c580e5" title="HttpConnection::use_ssl" alt="" coords="847,56,1025,83"/>
+<area shape="rect" id="node34" href="$d3/de9/classHttpConnection.html#a7d03c099fd78383667aff7c6ec031dfd" title="HttpConnection::set\l_client_cert" alt="" coords="861,107,1011,149"/>
+<area shape="rect" id="node35" href="$dc/dd4/classAgentParam.html#aa6d8616d6acba334ae02bd11df801246" title="AgentParam::metadata\l_client_cert" alt="" coords="850,173,1022,214"/>
+<area shape="rect" id="node36" href="$d3/de9/classHttpConnection.html#ad3195fca164ba7e85c60c4319f8a2b3c" title="HttpConnection::set\l_client_cert_type" alt="" coords="861,238,1011,279"/>
+<area shape="rect" id="node37" href="$dc/dd4/classAgentParam.html#a1782dea74602f97196018bcd3f91fbf3" title="AgentParam::metadata\l_client_cert_type" alt="" coords="850,303,1022,345"/>
+<area shape="rect" id="node38" href="$d3/de9/classHttpConnection.html#adc82e60bfdd6a38dcb07ce18dd76cea9" title="HttpConnection::set\l_client_key" alt="" coords="861,369,1011,410"/>
+<area shape="rect" id="node39" href="$dc/dd4/classAgentParam.html#a412451196336d8a3d05f3584d3625b08" title="AgentParam::metadata\l_client_key" alt="" coords="850,434,1022,475"/>
+<area shape="rect" id="node49" href="$de/df9/classTcpServer.html#ae50c5d093e636226d5137612f81dd76a" title="TcpServer::InitializeInternal" alt="" coords="551,253,750,280"/>
+</map>
