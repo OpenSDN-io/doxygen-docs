@@ -1,5 +1,13 @@
 var NAVTREEINDEX38 =
 {
+"d2/db0/classOperVirtualDns.html#a2928ee36cf30bd400f6ed1ef7872d85c":[2,0,1245,5],
+"d2/db0/classOperVirtualDns.html#a31a985e31d631568a55a1ff33c8c9c92":[2,0,1245,2],
+"d2/db0/classOperVirtualDns.html#a4fed30c439156ae5cdc0dcbbc5fa58b0":[2,0,1245,6],
+"d2/db0/classOperVirtualDns.html#a5b0ba7f2fe62fef2160750a0004bd1e0":[2,0,1245,1],
+"d2/db0/classOperVirtualDns.html#a9e32b49cad54c508d1651c2d07c02ef2":[2,0,1245,0],
+"d2/db0/classOperVirtualDns.html#ab364ca64407acbafc5384919fc707382":[2,0,1245,3],
+"d2/db2/libvirt__instance__adapter_8cc.html":[3,0,688],
+"d2/db2/libvirt__instance__adapter_8cc.html#a2bfe476ff110de276ff8b537bd565b86":[3,0,688,1],
 "d2/db2/libvirt__instance__adapter_8cc.html#a947e4930ea3004d9a0b03826c9dc405c":[3,0,688,3],
 "d2/db2/libvirt__instance__adapter_8cc.html#a960b8204785fb05bea1bd7713e073016":[3,0,688,2],
 "d2/db2/libvirt__instance__adapter_8cc.html#aa0330f6bf58a16c3760a752c5aff0cfb":[3,0,688,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX38 =
 "d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911a02116cac9a2ec92b205566d88570f835":[2,0,1836,0,0,2],
 "d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911a3b7e0adb2ad820164513008c1f8138f9":[2,0,1836,0,0,0],
 "d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911a5374d27ed55770f1faf2bf15effe5177":[2,0,1836,0,0,8],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911a6ad32533be260e5b39c171aabd651c90":[2,0,1836,0,0,1],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911aaf89847363440f9a3729786d6eb830f2":[2,0,1836,0,0,7],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911abe6638fae60a752972b5c6c25193a632":[2,0,1836,0,0,5],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911ad22d790eda0f0bfd0da2ffbd7be79e6a":[2,0,1836,0,0,3],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911ad728cd35be32f7ca40b60720bd57b34a":[2,0,1836,0,0,4],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911adce9c82770728509229f45619e9b4821":[2,0,1836,0,0,6],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a108c9b09e5bd09649178acc4e6d05caa":[2,0,1836,0,13],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a390f129d3c80755cd52e2a7b911e2b55":[2,0,1836,0,11],
-"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a43e8af4aae8e207b15721d018b2e260f":[2,0,1836,0,3]
+"d2/db6/structVnswInterfaceListenerBase_1_1Event.html#a089d1ea001fd0a965092e917baa10911a6ad32533be260e5b39c171aabd651c90":[2,0,1836,0,0,1]
 };

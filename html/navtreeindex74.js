@@ -1,5 +1,13 @@
 var NAVTREEINDEX74 =
 {
+"d5/d21/classVmInterface.html#a78254483ee958ae7d3086adfcf31751e":[2,0,1793,244],
+"d5/d21/classVmInterface.html#a7855ebb99d9f803d58bdc222b94e0333":[2,0,1793,245],
+"d5/d21/classVmInterface.html#a78c63ca14823a7be78b9e9d7f600a50c":[2,0,1793,197],
+"d5/d21/classVmInterface.html#a7a34d4c4cc26623bcec4cebfd5c6003e":[2,0,1793,236],
+"d5/d21/classVmInterface.html#a7b543aa9c928a1789fa65b7ecdc18245":[2,0,1793,204],
+"d5/d21/classVmInterface.html#a7bf6dd020c6961d8203ab677b64e9be0":[2,0,1793,183],
+"d5/d21/classVmInterface.html#a7dd219e8d47fd949b0ef8c1a54981182":[2,0,1793,52],
+"d5/d21/classVmInterface.html#a7dd219e8d47fd949b0ef8c1a54981182a306fc6849b955e1ce836b6b4620a4643":[2,0,1793,52,3],
 "d5/d21/classVmInterface.html#a7dd219e8d47fd949b0ef8c1a54981182a6ea7ef81f2bf9f2789e9bbd698e0a43f":[2,0,1793,52,5],
 "d5/d21/classVmInterface.html#a7dd219e8d47fd949b0ef8c1a54981182a717348c7a1ee59a47cb6c4980477efc3":[2,0,1793,52,4],
 "d5/d21/classVmInterface.html#a7dd219e8d47fd949b0ef8c1a54981182a7eaa838d2dae46339922586ae249b15b":[2,0,1793,52,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX74 =
 "d5/d21/classetcdserverpb_1_1SnapshotRequest.html#af9934a190ca0c1921504ffb6ac957623":[2,0,11,102,25],
 "d5/d22/structVirtualGatewayConfig_1_1Subnet.html":[2,0,1773,0],
 "d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a23ddf5619dfeb8cd71e777b1d1663b67":[2,0,1773,0,3],
-"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a41b432ab28797766308b436fa4a74c34":[2,0,1773,0,5],
-"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a44c52c63202866ab7e38ed43ed9b6520":[2,0,1773,0,4],
-"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a5c03654105a4ff775dcd2d45ab87edbe":[2,0,1773,0,1],
-"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#aea7bb94843d43cc303a7c95619059116":[2,0,1773,0,2],
-"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#af6221a61ee7064eeea10d478ad3d4976":[2,0,1773,0,0],
-"d5/d24/structVmInterface_1_1FloatingIp.html":[2,0,1793,9],
-"d5/d24/structVmInterface_1_1FloatingIp.html#a0140fd852569826b27b8f729d90c362f":[2,0,1793,9,12],
-"d5/d24/structVmInterface_1_1FloatingIp.html#a0ef2fb62b540b4091dc397a8fa2ced28":[2,0,1793,9,32],
-"d5/d24/structVmInterface_1_1FloatingIp.html#a1e414deb2f6ba5e8ffa9785a6a5f3c00":[2,0,1793,9,34]
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a41b432ab28797766308b436fa4a74c34":[2,0,1773,0,5]
 };

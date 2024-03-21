@@ -1,4 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; Protocol_, Super_ \&gt;" alt="" coords="127,5,313,61"/>
-<area shape="rect" id="node3" href="$d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html" title="contrail::sandesh::\ltransport::TVirtualTransport\l\&lt; Transport_, Super_ \&gt;" alt="" coords="120,85,320,141"/>
+<area shape="rect" id="node1" href="$d8/d89/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolFactory.html" title="contrail::sandesh::\lprotocol::TProtocolFactory" alt="" coords="6,86,197,127"/>
+<area shape="rect" id="node2" href="$d6/d78/classcontrail_1_1sandesh_1_1protocol_1_1TBinaryProtocolFactoryT.html" title="contrail::sandesh::\lprotocol::TBinaryProtocolFactory\lT\&lt; Transport_ \&gt;" alt="" coords="246,5,479,61"/>
+<area shape="rect" id="node3" href="$dd/d35/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocolFactory.html" title="contrail::sandesh::\lprotocol::TJSONProtocolFactory" alt="" coords="251,86,474,127"/>
+<area shape="rect" id="node4" href="$dc/df3/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocolFactory.html" title="contrail::sandesh::\lprotocol::TXMLProtocolFactory" alt="" coords="253,151,472,193"/>
 </map>

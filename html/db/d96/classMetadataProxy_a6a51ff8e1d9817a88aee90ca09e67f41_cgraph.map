@@ -1,0 +1,7 @@
+<map id="MetadataProxy::NetlinkGetVhostIp" name="MetadataProxy::NetlinkGetVhostIp">
+<area shape="rect" id="node2" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="257,5,457,32"/>
+<area shape="rect" id="node3" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="273,56,442,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="251,107,464,133"/>
+<area shape="rect" id="node5" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class. " alt="" coords="281,158,434,199"/>
+<area shape="rect" id="node6" href="$d5/d9c/structaux_1_1NetlinkResponse.html#a9abab8266a96e6dacbd012ff7311ebe5" title="Iterates over all response parts. " alt="" coords="276,223,439,265"/>
+</map>

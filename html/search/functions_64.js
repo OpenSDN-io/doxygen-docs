@@ -386,6 +386,7 @@ var searchData=
   ['deleteunsolnaentry',['DeleteUnsolNaEntry',['../dc/d3a/classIcmpv6Proto.html#a0190e214c3f3f339333d01bd3e8de085',1,'Icmpv6Proto']]],
   ['deletevgw',['DeleteVgw',['../da/d40/classVirtualGatewayConfigTable.html#a50b93549b41ab0892435c242af5acd04',1,'VirtualGatewayConfigTable::DeleteVgw(const std::string &amp;interface_name)'],['../da/d40/classVirtualGatewayConfigTable.html#a5b4465ccd2b342653281923cf2aae3ad',1,'VirtualGatewayConfigTable::DeleteVgw(Table::iterator it)']]],
   ['deletevhost',['DeleteVhost',['../d8/d16/classAgentInit.html#aec5d494763c2affe9ff1131a2a0d0593',1,'AgentInit']]],
+  ['deletevhostroute',['DeleteVhostRoute',['../db/d96/classMetadataProxy.html#a310d717e78d98fc95d84a7f33820c5c7',1,'MetadataProxy']]],
   ['deletevirtualnetworkmapping',['DeleteVirtualNetworkMapping',['../d2/d72/classRoutingInstanceMgr.html#a7a5074aa0b729588931053733d98ab18',1,'RoutingInstanceMgr']]],
   ['deletevlan',['DeleteVlan',['../d2/d66/classVrfAssignTable.html#a8817bdcff4e5b1443c447ddbe13a492c',1,'VrfAssignTable']]],
   ['deletevlanmplsresourceentry',['DeleteVlanMplsResourceEntry',['../d7/ded/classResourceSandeshMaps.html#abbc9a2d37d726add72f322287c380f19',1,'ResourceSandeshMaps']]],

@@ -1,5 +1,13 @@
 var NAVTREEINDEX75 =
 {
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a44c52c63202866ab7e38ed43ed9b6520":[2,0,1773,0,4],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a5c03654105a4ff775dcd2d45ab87edbe":[2,0,1773,0,1],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#aea7bb94843d43cc303a7c95619059116":[2,0,1773,0,2],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#af6221a61ee7064eeea10d478ad3d4976":[2,0,1773,0,0],
+"d5/d24/structVmInterface_1_1FloatingIp.html":[2,0,1793,9],
+"d5/d24/structVmInterface_1_1FloatingIp.html#a0140fd852569826b27b8f729d90c362f":[2,0,1793,9,12],
+"d5/d24/structVmInterface_1_1FloatingIp.html#a0ef2fb62b540b4091dc397a8fa2ced28":[2,0,1793,9,32],
+"d5/d24/structVmInterface_1_1FloatingIp.html#a1e414deb2f6ba5e8ffa9785a6a5f3c00":[2,0,1793,9,34],
 "d5/d24/structVmInterface_1_1FloatingIp.html#a1f86050f6ac56d660ac20bca17dba03b":[2,0,1793,9,20],
 "d5/d24/structVmInterface_1_1FloatingIp.html#a216d938cf25df6f14f7cf02810a941d1":[2,0,1793,9,9],
 "d5/d24/structVmInterface_1_1FloatingIp.html#a246a03d63238875944bfb36833e6781a":[2,0,1793,9,31],
@@ -241,13 +249,5 @@ var NAVTREEINDEX75 =
 "d5/d27/gmpr__private_8h.html#aaff252bee20fd28844deac43d1029249":[3,0,479,78],
 "d5/d27/gmpr__private_8h.html#ab2dbd89f1c2c38d392c72d01a25a4beb":[3,0,479,58],
 "d5/d27/gmpr__private_8h.html#ab35fdddd68a84f3418f43c764f1bcd1b":[3,0,479,54],
-"d5/d27/gmpr__private_8h.html#ab505d1f3051f81c6c56750b0f89e8c35":[3,0,479,114],
-"d5/d27/gmpr__private_8h.html#aba25286ddabe4d2493e5a209b5c1d72a":[3,0,479,128],
-"d5/d27/gmpr__private_8h.html#aba2e3b8e9de5f549a79853debe235a9a":[3,0,479,53],
-"d5/d27/gmpr__private_8h.html#abb1e117f56869fcdc7ce607e3fa317dd":[3,0,479,134],
-"d5/d27/gmpr__private_8h.html#abd6536fab4fef8a169e20e81fc046a5b":[3,0,479,98],
-"d5/d27/gmpr__private_8h.html#abe37431dbc5a025641684849bedaad86":[3,0,479,136],
-"d5/d27/gmpr__private_8h.html#ac63b180db120c86269fc6254710790b8":[3,0,479,167],
-"d5/d27/gmpr__private_8h.html#acafea0e5fa52e258f5f17f73898f7b1a":[3,0,479,169],
-"d5/d27/gmpr__private_8h.html#acc013efc56bfc3310cf0630c16fb2e7d":[3,0,479,151]
+"d5/d27/gmpr__private_8h.html#ab505d1f3051f81c6c56750b0f89e8c35":[3,0,479,114]
 };

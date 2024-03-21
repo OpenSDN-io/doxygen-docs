@@ -2150,7 +2150,7 @@ var searchData=
   ['gr_5fstale',['GR_STALE',['../d2/d82/structBgpXmppChannel_1_1SubscriptionState.html#a02cda59024b269e91db8038b21dcfbdeafac3498ecc39e7c7715ea7a9d1e95f30',1,'BgpXmppChannel::SubscriptionState']]],
   ['gr_5ftime',['gr_time',['../d5/d70/classBgpGlobalSystemConfig.html#a8bcfff89f3c7cfbe36057e30d25070dd',1,'BgpGlobalSystemConfig']]],
   ['gr_5ftime_5f',['gr_time_',['../d5/d70/classBgpGlobalSystemConfig.html#a13bfbf89a76241188497e7fe75474644',1,'BgpGlobalSystemConfig']]],
-  ['gr_5ftimer',['GR_TIMER',['../df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba60978f6264866cd4275d6e106c1b1192',1,'PeerCloseManager::GR_TIMER()'],['../dc/dff/structPeerCloseManager_1_1Stats.html#acd4b2d2ed14677469cb41393960cfceb',1,'PeerCloseManager::Stats::gr_timer()']]],
+  ['gr_5ftimer',['gr_timer',['../dc/dff/structPeerCloseManager_1_1Stats.html#acd4b2d2ed14677469cb41393960cfceb',1,'PeerCloseManager::Stats::gr_timer()'],['../df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba60978f6264866cd4275d6e106c1b1192',1,'PeerCloseManager::GR_TIMER()']]],
   ['gr_5ftimer_5f',['gr_timer_',['../df/ddb/classPeerCloseManager.html#a92d1dc64367aef94291d7811da1a8411',1,'PeerCloseManager']]],
   ['gr_5fxmpp_5fhelper',['gr_xmpp_helper',['../d5/d70/classBgpGlobalSystemConfig.html#a63cbec575ca8edd42729b59a8f89d439',1,'BgpGlobalSystemConfig']]],
   ['gr_5fxmpp_5fhelper_5f',['gr_xmpp_helper_',['../d5/d70/classBgpGlobalSystemConfig.html#a37febee739fb895b7671d3b4497518c6',1,'BgpGlobalSystemConfig']]],

@@ -1,5 +1,0 @@
-<map id="aux::read_ack_response" name="aux::read_ack_response">
-<area shape="rect" id="node2" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class. " alt="" coords="239,5,393,46"/>
-<area shape="rect" id="node3" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct. " alt="" coords="243,70,389,111"/>
-<area shape="rect" id="node4" href="$de/dc3/classaux_1_1NetlinkSocket.html#a1ce0b628aeab6a4f22fc22006a11f72a" title="Returns a reference to the Netlink socket descriptor. " alt="" coords="233,136,399,163"/>
-</map>

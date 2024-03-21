@@ -1,3 +1,15 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/ddb/classPeerCloseManager.html" title="PeerCloseManager" alt="" coords="6,5,149,32"/>
+<area shape="rect" id="node1" href="$dd/d38/classIPeerUpdate.html" title="IPeerUpdate" alt="" coords="6,31,109,57"/>
+<area shape="rect" id="node2" href="$dd/d38/classIPeer.html" title="IPeer" alt="" coords="197,31,251,57"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html" title="BgpPeer" alt="" coords="407,56,483,83"/>
+<area shape="rect" id="node4" href="$da/d07/classBgpXmppChannel_1_1XmppPeer.html" title="BgpXmppChannel::XmppPeer" alt="" coords="339,5,552,32"/>
+<area shape="rect" id="node5" href="$d6/dd4/classPeer.html" title="Peer" alt="" coords="32,233,83,260"/>
+<area shape="rect" id="node6" href="$d9/d37/classDynamicPeer.html" title="DynamicPeer" alt="" coords="169,81,279,108"/>
+<area shape="rect" id="node8" href="$df/d2f/classEcmpPeer.html" title="EcmpPeer" alt="" coords="181,132,267,159"/>
+<area shape="rect" id="node9" href="$d1/d7c/classEvpnPeer.html" title="EvpnPeer" alt="" coords="183,183,265,209"/>
+<area shape="rect" id="node10" href="$d4/df3/classEvpnRoutingPeer.html" title="EvpnRoutingPeer" alt="" coords="158,233,290,260"/>
+<area shape="rect" id="node11" href="$d7/d8c/classInetEvpnPeer.html" title="InetEvpnPeer" alt="" coords="170,284,278,311"/>
+<area shape="rect" id="node12" href="$de/d0d/classLocalVmPortPeer.html" title="LocalVmPortPeer" alt="" coords="157,335,291,361"/>
+<area shape="rect" id="node13" href="$d4/dc1/classVxlanBgpPeer.html" title="VxlanBgpPeer" alt="" coords="167,385,281,412"/>
+<area shape="rect" id="node7" href="$d7/db8/classOvsPeer.html" title="OvsPeer" alt="" coords="407,107,483,133"/>
 </map>

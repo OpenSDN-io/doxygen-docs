@@ -1,5 +1,13 @@
 var NAVTREEINDEX42 =
 {
+"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#afaf1467b265af41697f4dcc04c602149":[2,0,11,139,9],
+"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#afe11a70220ef82e639ab2a65f930384b":[2,0,11,139,39],
+"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aff5df13612c2cb22f71ce7200af4d6fc":[2,0,11,139,11],
+"d2/df1/thrift__transport_8h.html":[3,0,1176],
+"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aa":[3,0,1176,3],
+"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaaa507c5d1723e0e6a0acea48092605e89":[3,0,1176,3,1],
+"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaaabb7a71d8a1cb107ea57ea84b35dfcf5":[3,0,1176,3,0],
+"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaabacc09e5560ee2ab3b1ffd570d292af5":[3,0,1176,3,2],
 "d2/df1/thrift__transport_8h.html#a1f6f18ae1e72652d9ce2d8b0b99b40db":[3,0,1176,1],
 "d2/df1/thrift__transport_8h.html#a5afa0f2bca430f8879b4e0254575fe8d":[3,0,1176,2],
 "d2/df1/thrift__transport_8h.html#a5afa0f2bca430f8879b4e0254575fe8da023beaea65bcffb4fc69ee7894b13519":[3,0,1176,2,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX42 =
 "d3/d03/classVnUveEntry.html#acf2707ea91d1c98dde47d8516fd9121c":[2,0,1841,43],
 "d3/d03/classVnUveEntry.html#ad1d5e23eec3543382f1a0531b00f1303":[2,0,1841,38],
 "d3/d03/classVnUveEntry.html#aeb03b90563d291665ce037c36a9d18aa":[2,0,1841,21],
-"d3/d03/classVnUveEntry.html#aee60931d3881f6f517f5699748792166":[2,0,1841,40],
-"d3/d03/classVnUveEntry.html#af39ed7af4e2e033c526df58eb0e3e607":[2,0,1841,10],
-"d3/d03/classVnUveEntry.html#af41fba76e5e1fdb11313bd53c7afbf63":[2,0,1841,30],
-"d3/d03/struct__ThriftFakeTransport.html":[2,0,40],
-"d3/d03/struct__ThriftFakeTransport.html#a0fa94cbd28e88992ada5193888e30dd9":[2,0,40,0],
-"d3/d04/hbf_8h.html":[3,0,490],
-"d3/d04/hbf_8h.html#a48620fb458a599aa42ac03db7da36485":[3,0,490,4],
-"d3/d04/hbf_8h.html#a4fee55ec86f61a2b9145b8313c845f51":[3,0,490,3],
-"d3/d04/hbf_8h_source.html":[3,0,490]
+"d3/d03/classVnUveEntry.html#aee60931d3881f6f517f5699748792166":[2,0,1841,40]
 };

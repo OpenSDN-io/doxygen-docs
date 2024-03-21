@@ -1,5 +1,13 @@
 var NAVTREEINDEX41 =
 {
+"d2/ddd/classKSyncDBEntry.html#a1a58e565d9e563faa2104a066c316b6a":[2,0,988,8],
+"d2/ddd/classKSyncDBEntry.html#a1d2d77ec80df469040fd746665325264":[2,0,988,5],
+"d2/ddd/classKSyncDBEntry.html#a39bb4a1cc163f7acdb6869277ad90e8d":[2,0,988,2],
+"d2/ddd/classKSyncDBEntry.html#a880a03833b71878e861d099d621cd8d8":[2,0,988,4],
+"d2/ddd/classKSyncDBEntry.html#acc282f349bfc79b23c725b4c3e593967":[2,0,988,0],
+"d2/ddd/classKSyncDBEntry.html#ad09f9913e7f593a824f1f3ae0d9b6210":[2,0,988,6],
+"d2/ddd/classKSyncDBEntry.html#af200b8e7eb8c25be8158805b11bc44ec":[2,0,988,7],
+"d2/ddd/classKSyncDBEntry.html#af5b7655e73d0d3e7da1a5cd871129bbc":[2,0,988,3],
 "d2/ddd/classKSyncDBEntry.html#afafe60f53241f72a3ce128b8e61fbf11":[2,0,988,1],
 "d2/ddd/classVirtualGateway.html":[2,0,1772],
 "d2/ddd/classVirtualGateway.html#a0a6cf28665978c964d69da7c121f9641":[2,0,1772,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX41 =
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ac2c7efdc991fd05fe845f977a5aa3e83":[2,0,11,139,44],
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ac6a045b8dda95d33e16daffa402cd990":[2,0,11,139,30],
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ae1089c060d48d51e517b4f90c7da6bff":[2,0,11,139,25],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aeafabfba074514c7089f03924c735652":[2,0,11,139,22],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#afaf1467b265af41697f4dcc04c602149":[2,0,11,139,9],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#afe11a70220ef82e639ab2a65f930384b":[2,0,11,139,39],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aff5df13612c2cb22f71ce7200af4d6fc":[2,0,11,139,11],
-"d2/df1/thrift__transport_8h.html":[3,0,1176],
-"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aa":[3,0,1176,3],
-"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaaa507c5d1723e0e6a0acea48092605e89":[3,0,1176,3,1],
-"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaaabb7a71d8a1cb107ea57ea84b35dfcf5":[3,0,1176,3,0],
-"d2/df1/thrift__transport_8h.html#a18936a29d581eec5f03d099a432307aaabacc09e5560ee2ab3b1ffd570d292af5":[3,0,1176,3,2]
+"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aeafabfba074514c7089f03924c735652":[2,0,11,139,22]
 };

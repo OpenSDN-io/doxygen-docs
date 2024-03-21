@@ -1,5 +1,13 @@
 var NAVTREEINDEX151 =
 {
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a8170f43ae4bf9c3d093c41b0dcee03f0":[2,0,424,1,5],
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a88fa10989cd50b10ca4303c75f5d49d4":[2,0,424,1,11],
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#ad5616e0468d94edf43d505a1b0c27d10":[2,0,424,1,6],
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#af62967b0e332c8a2c3556742e1c02552":[2,0,424,1,3],
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#af857ee3bcf59de96bc041b5597a6ffea":[2,0,424,1,10],
+"da/d5c/structBgpXmppChannel_1_1ErrorStats.html#afe8e870ddc4df0a9cc61c9dad435a911":[2,0,424,1,0],
+"da/d5c/structResolveRouteState.html":[2,0,1412],
+"da/d5c/structResolveRouteState.html#a0477ce6b95a32a5ef364c7ee93e33703":[2,0,1412,1],
 "da/d5c/structResolveRouteState.html#a26030aa2e0504591d803c9ba4d1a3617":[2,0,1412,8],
 "da/d5c/structResolveRouteState.html#a2cbc247f8c252296d4e836e534410845":[2,0,1412,9],
 "da/d5c/structResolveRouteState.html#a42a9706f3050b31485628f9a7f253c62":[2,0,1412,7],
@@ -241,13 +249,5 @@ var NAVTREEINDEX151 =
 "da/d81/gmph__private_8h.html#a577a0bcb1acde1617be2910321b5ef69":[3,0,477,80],
 "da/d81/gmph__private_8h.html#a58afb2a0e1098e5a22f3ba6c75c99abb":[3,0,477,33],
 "da/d81/gmph__private_8h.html#a5a1a176f9e5267ee751a02ca6b40c55d":[3,0,477,57],
-"da/d81/gmph__private_8h.html#a5a702632b1498546314c35c9c3734815":[3,0,477,69],
-"da/d81/gmph__private_8h.html#a5b00c277389572166f9f976b5bd18c31":[3,0,477,28],
-"da/d81/gmph__private_8h.html#a5e3c47c3dd81d6eb31252cd90e4a8bb4":[3,0,477,38],
-"da/d81/gmph__private_8h.html#a60a497540f78988ccbfd826cb1f6fafd":[3,0,477,10],
-"da/d81/gmph__private_8h.html#a65771eec318785cf7dc0b903bdd60ea6":[3,0,477,52],
-"da/d81/gmph__private_8h.html#a6787c0d9376b268fe48a0bcaf0ec86e3":[3,0,477,75],
-"da/d81/gmph__private_8h.html#a6845092446e95dbb20e7a21e5a781f78":[3,0,477,54],
-"da/d81/gmph__private_8h.html#a6aa1f2df820b37fa45b9e388a50d8877":[3,0,477,43],
-"da/d81/gmph__private_8h.html#a6aa706314407e9f4999432a403d41304":[3,0,477,93]
+"da/d81/gmph__private_8h.html#a5a702632b1498546314c35c9c3734815":[3,0,477,69]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX55 =
 {
+"d3/dd0/structStatsManager_1_1VrfStats.html#a2dfcccb60789252983ac05272478f8b3":[2,0,1642,2,42],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a2f0fc34454c8e772f2f4cbce3476032e":[2,0,1642,2,62],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a340744dd232fbe973fb674c2d156d430":[2,0,1642,2,57],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a354c0b853ac0f592dfb4fa765a998878":[2,0,1642,2,41],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a36583e9f636721ac95fb13ea828c5465":[2,0,1642,2,58],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a3bd1a80adfa5aae672ec63d7baf2a49a":[2,0,1642,2,1],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a40dbc4ce977419ecb1e9f225befdb8ac":[2,0,1642,2,28],
+"d3/dd0/structStatsManager_1_1VrfStats.html#a42f4ea15e879304fadf9f7827de14042":[2,0,1642,2,12],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a481960e32c1ceda732030d30eb515691":[2,0,1642,2,25],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a4abcc3770e48a1e9393cfbd1b2e4c996":[2,0,1642,2,15],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a4c44502b741d823475d4a4e3b2bbc932":[2,0,1642,2,60],
@@ -241,13 +249,5 @@ var NAVTREEINDEX55 =
 "d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#af1afd76b5d9df2110d69437fed8a45bb":[2,0,11,9,5,2],
 "d3/ddb/mac__ip__learning_8cc.html":[3,0,713],
 "d3/ddb/mac__ip__learning_8cc_source.html":[3,0,713],
-"d3/ddd/classBFD_1_1DetectionTimeMultiplier.html":[2,0,4,8],
-"d3/ddd/classBFD_1_1DetectionTimeMultiplier.html#a1babece5adb6f520eb831f0341243149":[2,0,4,8,0],
-"d3/ddd/classBFD_1_1DetectionTimeMultiplier.html#a3c4f2479832d11cf9c6cddef8c6cc72d":[2,0,4,8,2],
-"d3/ddd/classBFD_1_1DetectionTimeMultiplier.html#a447180ef80bbc99c06f8cb281208cbb5":[2,0,4,8,1],
-"d3/ddd/classKSyncUserSockVrfAssignContext.html":[2,0,1036],
-"d3/ddd/classKSyncUserSockVrfAssignContext.html#a0a36413c20ff7d2b4746002d622e1049":[2,0,1036,3],
-"d3/ddd/classKSyncUserSockVrfAssignContext.html#a5c98c9da79e7d2436f9e2eb23da85280":[2,0,1036,1],
-"d3/ddd/classKSyncUserSockVrfAssignContext.html#a6ce8cade36903169504bb10e0a17e274":[2,0,1036,0],
-"d3/ddd/classKSyncUserSockVrfAssignContext.html#a769dc38b51f7dac6ccf403a73f026fc8":[2,0,1036,2]
+"d3/ddd/classBFD_1_1DetectionTimeMultiplier.html":[2,0,4,8]
 };

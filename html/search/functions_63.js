@@ -267,7 +267,6 @@ var searchData=
   ['channeltodscp',['ChannelToDscp',['../dd/d1d/classDnsAgentXmppChannelManager.html#a263a959d0b4346f8e40a9026a25dced8',1,'DnsAgentXmppChannelManager::ChannelToDscp()'],['../d4/d31/controller__sandesh_8cc.html#a6c9eda3b43136f8d955df315b76c4c1c',1,'ChannelToDscp():&#160;controller_sandesh.cc']]],
   ['channeltype',['ChannelType',['../d2/db3/classXmppStateMachine.html#a6512fddd994e086365de23ffb3d83fda',1,'XmppStateMachine']]],
   ['check',['Check',['../d2/d3d/classConcurrencyChecker.html#ac324b1fce8f893ee97088d8a2c42b299',1,'ConcurrencyChecker']]],
-  ['check_5faddress_5fflags',['check_address_flags',['../df/d1f/namespaceaux.html#a9be8709a66cb1285eaf7292e19e5c388',1,'aux']]],
   ['check_5finvariants',['check_invariants',['../d6/dd0/classBitSet.html#a48442c1f44d3d16590434bc7673110ad',1,'BitSet']]],
   ['check_5fmarker',['check_marker',['../d5/d68/classAgentStatsSandeshContext.html#aeb871f72b5adf68abe4ad967b2e87ec8',1,'AgentStatsSandeshContext']]],
   ['check_5fmulti_5finfo',['check_multi_info',['../df/dbf/http__curl_8cc.html#a7f0b2b5750e0480de401cb1616b31696',1,'http_curl.cc']]],

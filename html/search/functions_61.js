@@ -499,6 +499,7 @@ var searchData=
   ['advertisereset',['AdvertiseReset',['../d0/d3d/classIFMapUpdate.html#a519b84fb0494a75830adccc4304a2661',1,'IFMapUpdate']]],
   ['advertiseslist',['AdvertiseSList',['../d6/ddb/classAdvertiseSList.html#a25e01ba1c66ef04438eabe5296550afd',1,'AdvertiseSList']]],
   ['advertiseslistclearbits',['AdvertiseSListClearBits',['../d0/d5f/classRibUpdateMonitor.html#a5a89e4a52ee28d7e85e3237bc57c6504',1,'RibUpdateMonitor']]],
+  ['advertisevhostroute',['AdvertiseVhostRoute',['../db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c',1,'MetadataProxy']]],
   ['afiname',['AfiName',['../d6/d89/xmpp__message__builder_8cc.html#ab80cbcdcd75a902e9eb6e43a49022e4b',1,'xmpp_message_builder.cc']]],
   ['afisafitofamily',['AfiSafiToFamily',['../d4/dc3/classBgpAf.html#ae2c45f2bc1070881b2c7910c5204daf1',1,'BgpAf']]],
   ['age',['Age',['../d7/d54/classPortCacheTable.html#abcbd858c161ac72a0cbf6851b8b884ba',1,'PortCacheTable']]],
