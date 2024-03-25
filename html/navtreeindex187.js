@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"dc/df2/classKSyncEntry.html#a51bce6b19961c7c7631a136ed4adc692":[2,0,991,21],
+"dc/df2/classKSyncEntry.html#a562aad8c8927a5875f35b9cacda8e492":[2,0,991,36],
 "dc/df2/classKSyncEntry.html#a5a0f556bf2d25aa58b33a14223af5b74":[2,0,991,16],
 "dc/df2/classKSyncEntry.html#a7676535b8748aef032fe68edb8932160":[2,0,991,38],
 "dc/df2/classKSyncEntry.html#a7937d6429cfbd7c26feb43d3ac968645":[2,0,991,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "dd/d00/unionigmp__packet__.html#aff26c3863bacd0f1b75b065dd9c60d95":[2,0,881,1],
 "dd/d00/vrouter__uve__entry_8cc.html":[3,0,1297],
 "dd/d00/vrouter__uve__entry_8cc_source.html":[3,0,1297],
-"dd/d02/bgp__as__service_8cc.html":[3,0,98],
-"dd/d02/bgp__as__service_8cc.html#a5bca964d32e787178442b3ddf2ebceea":[3,0,98,1],
-"dd/d02/bgp__as__service_8cc.html#a8324a0967b3d0900eada8c27659525c2":[3,0,98,2]
+"dd/d02/bgp__as__service_8cc.html":[3,0,98]
 };

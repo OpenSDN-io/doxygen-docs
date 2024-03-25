@@ -1,5 +1,8 @@
 var NAVTREEINDEX197 =
 {
+"dd/da3/classForwardingClassTable.html#aa5b7fc09074bc341d30735a165c0d457":[2,0,740,13],
+"dd/da3/classForwardingClassTable.html#aae606efbf04083689f2b2e9b775e8ed6":[2,0,740,10],
+"dd/da3/classForwardingClassTable.html#ab739e8841c538f525ee4de270092863a":[2,0,740,5],
 "dd/da3/classForwardingClassTable.html#ab7ba9cbd2fd1e985eff2c7837ae8f39f":[2,0,740,16],
 "dd/da3/classForwardingClassTable.html#ac0c7759c0c4450f1669ad37d5feade4c":[2,0,740,12],
 "dd/da3/classForwardingClassTable.html#acaf57015225588a566d5aac168b79277":[2,0,740,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX197 =
 "dd/dca/classetcdserverpb_1_1LeaseRevokeRequestDefaultTypeInternal.html":[2,0,11,34],
 "dd/dca/classetcdserverpb_1_1LeaseRevokeRequestDefaultTypeInternal.html#acc9dc00cbb9ad299e54d1eed9b662f49":[2,0,11,34,0],
 "dd/dca/structgmp__intf__handle__.html":[2,0,753],
-"dd/dca/structgmp__intf__handle__.html#a383d4dd094f31351b9b7c6d461cab29b":[2,0,753,1],
-"dd/dca/structgmp__intf__handle__.html#aff6215019c01de61d4900ad950e3db33":[2,0,753,0],
-"dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html":[2,0,973,2],
-"dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a414fbcc331df556199fb40d091bcf5ba":[2,0,973,2,3]
+"dd/dca/structgmp__intf__handle__.html#a383d4dd094f31351b9b7c6d461cab29b":[2,0,753,1]
 };

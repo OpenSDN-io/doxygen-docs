@@ -25,6 +25,8 @@ var classMetadataProxy =
     [ "InitializeHttp6Server", "db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53", null ],
     [ "Ipv6ServiceAddress", "db/d96/classMetadataProxy.html#a950b6a04b9d6aab960030771f20df545", null ],
     [ "metadatastats", "db/d96/classMetadataProxy.html#ae3d957a049a93eca6d53327c8e6352cc", null ],
+    [ "NetlinkAddInterfaceRoute", "db/d96/classMetadataProxy.html#aa66919db6dfadb17b89292ab99e42ba9", null ],
+    [ "NetlinkAddVhostNb", "db/d96/classMetadataProxy.html#a2dd15df80598cda1d4c8331744fa461b", null ],
     [ "NetlinkGetVhostIp", "db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41", null ],
     [ "OnAFabricRouteChange", "db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe", null ],
     [ "OnAnInterfaceChange", "db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386", null ],

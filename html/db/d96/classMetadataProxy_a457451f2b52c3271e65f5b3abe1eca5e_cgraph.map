@@ -1,51 +1,51 @@
 <map id="MetadataProxy::RegisterListeners" name="MetadataProxy::RegisterListeners">
-<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="1115,1523,1285,1549"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="1137,1085,1263,1112"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="575,141,743,168"/>
-<area shape="rect" id="node5" href="$db/d96/classMetadataProxy.html#a5158bc7b73d949b2d2ba461978d96e7a" title="A callback that is invoked each time when a VRF entry is modified: added, changed or deleted..." alt="" coords="293,309,515,336"/>
-<area shape="rect" id="node19" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="1117,1472,1283,1499"/>
-<area shape="rect" id="node20" href="$db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386" title="A callback which is invoked everytime any vm interface is changed. Handles deletion of routes associa..." alt="" coords="294,1365,514,1406"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="570,1163,747,1189"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="1135,309,1265,336"/>
-<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1363,321,1549,362"/>
-<area shape="rect" id="node11" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="563,193,755,234"/>
-<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1597,361,1773,388"/>
-<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1822,361,2026,388"/>
-<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="832,107,1008,133"/>
-<area shape="rect" id="node14" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="821,56,1019,83"/>
-<area shape="rect" id="node17" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="845,157,995,184"/>
-<area shape="rect" id="node18" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="825,208,1015,235"/>
-<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1109,107,1291,133"/>
-<area shape="rect" id="node15" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1151,5,1249,32"/>
-<area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="1115,56,1285,83"/>
-<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="1115,1136,1285,1163"/>
-<area shape="rect" id="node22" href="$db/d96/classMetadataProxy.html#a9dee541a1187248c19409e9101dc2b14" title="Deletes an announced earlier route to a vm interface via a given IPv6 address. " alt="" coords="819,774,1021,815"/>
-<area shape="rect" id="node39" href="$db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53" title="Initializes an HTTP server for IPv6 requests. " alt="" coords="567,1551,750,1593"/>
-<area shape="rect" id="node50" href="$db/d96/classMetadataProxy.html#a310d717e78d98fc95d84a7f33820c5c7" title="Deletes the LL route to vhost0 interface in the fabric VRF instance. " alt="" coords="817,1249,1023,1290"/>
-<area shape="rect" id="node23" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="1393,984,1519,1011"/>
-<area shape="rect" id="node24" href="$d5/d21/classVmInterface.html#a943722fbc345ef703ca74284c24e8fd8" title="VmInterface::vrf_name" alt="" coords="1114,528,1286,555"/>
-<area shape="rect" id="node25" href="$d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="1086,984,1314,1011"/>
-<area shape="rect" id="node26" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="1121,360,1279,387"/>
-<area shape="rect" id="node28" href="$da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="1097,1187,1303,1229"/>
-<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="1105,680,1295,707"/>
-<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="1113,1253,1287,1280"/>
-<area shape="rect" id="node31" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="1137,731,1263,757"/>
-<area shape="rect" id="node32" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="1129,781,1271,808"/>
-<area shape="rect" id="node33" href="$d0/dcc/classInterface.html#aa2755f1f1c94e334025487d8af0b410e" title="Interface::label" alt="" coords="1140,1035,1260,1061"/>
-<area shape="rect" id="node34" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="1119,832,1281,859"/>
-<area shape="rect" id="node35" href="$d5/d21/classVmInterface.html#a6344182855dee8af59fec527fde66c84" title="VmInterface::peer" alt="" coords="1131,883,1269,909"/>
-<area shape="rect" id="node36" href="$d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="1111,933,1289,960"/>
-<area shape="rect" id="node37" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1128,411,1272,437"/>
-<area shape="rect" id="node38" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="1117,462,1283,503"/>
-<area shape="rect" id="node27" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1363,386,1549,427"/>
-<area shape="rect" id="node40" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses. " alt="" coords="821,1838,1019,1879"/>
-<area shape="rect" id="node41" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="1100,1819,1300,1845"/>
-<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="1093,1873,1307,1900"/>
-<area shape="rect" id="node43" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title="HttpServer::RegisterHandler" alt="" coords="818,1483,1022,1509"/>
-<area shape="rect" id="node44" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title="MetadataProxy::HandleMetadata\lRequest" alt="" coords="803,1366,1037,1407"/>
-<area shape="rect" id="node45" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title="TcpServer::Initialize" alt="" coords="845,1533,995,1560"/>
-<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#a932a9c38e1ccf272cbc11d625e2a256a" title="Agent::metadata_server_port" alt="" coords="814,1584,1026,1611"/>
-<area shape="rect" id="node47" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance. " alt="" coords="825,1183,1015,1225"/>
-<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#a1471e814a192e7b14d81058d8b510985" title="Agent::link_local_peer" alt="" coords="1117,1421,1283,1448"/>
-<area shape="rect" id="node49" href="$db/d96/classMetadataProxy.html#a950b6a04b9d6aab960030771f20df545" title="Returns an IPv6 address of the Metadata TF link local service. " alt="" coords="1099,1355,1301,1397"/>
+<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="1115,386,1285,413"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="1137,656,1263,682"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="575,1752,743,1778"/>
+<area shape="rect" id="node5" href="$db/d96/classMetadataProxy.html#a5158bc7b73d949b2d2ba461978d96e7a" title="A callback that is invoked each time when a VRF entry is modified: added, changed or deleted..." alt="" coords="293,1374,515,1401"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="1117,321,1283,348"/>
+<area shape="rect" id="node21" href="$db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386" title="A callback which is invoked everytime any vm interface is changed. Handles deletion of routes associa..." alt="" coords="294,735,514,776"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="831,1214,1009,1241"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="1135,1549,1265,1576"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1363,1491,1549,1532"/>
+<area shape="rect" id="node11" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="563,1367,755,1408"/>
+<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1597,1498,1773,1525"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1822,1498,2026,1525"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="832,1549,1008,1576"/>
+<area shape="rect" id="node14" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="821,1498,1019,1525"/>
+<area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="845,1265,995,1292"/>
+<area shape="rect" id="node17" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="825,1316,1015,1342"/>
+<area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#a59a1f65611be4d86e4201704f6dfa55b" title="VmInterface::mdata\l_ip6_addr" alt="" coords="844,1367,996,1408"/>
+<area shape="rect" id="node19" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="837,1432,1003,1474"/>
+<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1109,1650,1291,1677"/>
+<area shape="rect" id="node15" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1151,1600,1249,1626"/>
+<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="1115,605,1285,632"/>
+<area shape="rect" id="node23" href="$db/d96/classMetadataProxy.html#a9dee541a1187248c19409e9101dc2b14" title="Deletes an announced earlier route to a vm interface via a given IPv6 address. " alt="" coords="819,1070,1021,1111"/>
+<area shape="rect" id="node39" href="$db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53" title="Initializes an HTTP server for IPv6 requests. " alt="" coords="567,204,750,246"/>
+<area shape="rect" id="node50" href="$db/d96/classMetadataProxy.html#a310d717e78d98fc95d84a7f33820c5c7" title="Deletes the LL route to vhost0 interface in the fabric VRF instance. " alt="" coords="817,684,1023,726"/>
+<area shape="rect" id="node24" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="1393,874,1519,901"/>
+<area shape="rect" id="node25" href="$d5/d21/classVmInterface.html#a943722fbc345ef703ca74284c24e8fd8" title="VmInterface::vrf_name" alt="" coords="1114,1296,1286,1322"/>
+<area shape="rect" id="node26" href="$d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="1086,1077,1314,1104"/>
+<area shape="rect" id="node27" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="1121,1245,1279,1272"/>
+<area shape="rect" id="node28" href="$da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="1097,808,1303,850"/>
+<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="1105,1346,1295,1373"/>
+<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="1113,757,1287,784"/>
+<area shape="rect" id="node31" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="1137,1397,1263,1424"/>
+<area shape="rect" id="node32" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="1129,1448,1271,1474"/>
+<area shape="rect" id="node33" href="$d0/dcc/classInterface.html#aa2755f1f1c94e334025487d8af0b410e" title="Interface::label" alt="" coords="1140,706,1260,733"/>
+<area shape="rect" id="node34" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="1119,925,1281,952"/>
+<area shape="rect" id="node35" href="$d5/d21/classVmInterface.html#a6344182855dee8af59fec527fde66c84" title="VmInterface::peer" alt="" coords="1131,976,1269,1002"/>
+<area shape="rect" id="node36" href="$d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="1111,1026,1289,1053"/>
+<area shape="rect" id="node37" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1128,1128,1272,1154"/>
+<area shape="rect" id="node38" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="1117,1179,1283,1220"/>
+<area shape="rect" id="node40" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses. " alt="" coords="821,234,1019,275"/>
+<area shape="rect" id="node41" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="1100,33,1300,60"/>
+<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="1093,136,1307,162"/>
+<area shape="rect" id="node43" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title="HttpServer::RegisterHandler" alt="" coords="818,81,1022,108"/>
+<area shape="rect" id="node44" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title="MetadataProxy::HandleMetadata\lRequest" alt="" coords="803,299,1037,340"/>
+<area shape="rect" id="node45" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title="TcpServer::Initialize" alt="" coords="845,132,995,158"/>
+<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#a932a9c38e1ccf272cbc11d625e2a256a" title="Agent::metadata_server_port" alt="" coords="814,182,1026,209"/>
+<area shape="rect" id="node47" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance. " alt="" coords="825,619,1015,660"/>
+<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#a1471e814a192e7b14d81058d8b510985" title="Agent::link_local_peer" alt="" coords="1117,488,1283,514"/>
+<area shape="rect" id="node49" href="$db/d96/classMetadataProxy.html#a950b6a04b9d6aab960030771f20df545" title="Returns an IPv6 address of the Metadata TF link local service. " alt="" coords="1099,539,1301,580"/>
 </map>
