@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Tungsten Fabric source code", "index.html", [
+  [ "OpenSDN source code", "index.html", [
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
