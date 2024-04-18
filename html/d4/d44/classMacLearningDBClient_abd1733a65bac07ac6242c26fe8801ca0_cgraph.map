@@ -3,11 +3,11 @@
 <area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#a5511cad61266b2de197dc2b469e4f723" title="AgentRoute::is_multicast" alt="" coords="245,56,429,83"/>
 <area shape="rect" id="node4" href="$dc/dd7/classEvpnRouteEntry.html#a43b2b590d7a88e7dee8044154f38d672" title="EvpnRouteEntry::IsType2" alt="" coords="247,107,428,133"/>
 <area shape="rect" id="node8" href="$d4/d57/classAgentRoute.html#a4ab2e9e00a91215fb5bc6fd43d107d07" title="AgentRoute::FindLocalVmPortPath" alt="" coords="217,157,458,184"/>
-<area shape="rect" id="node13" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="247,208,427,235"/>
-<area shape="rect" id="node14" href="$dc/dd7/classEvpnRouteEntry.html#a1b292c0cf704555690aed4805d6eba83" title="EvpnRouteEntry::mac" alt="" coords="257,259,417,285"/>
-<area shape="rect" id="node15" href="$d4/d57/classAgentRoute.html#a5ef1c9cd15040eb818a897725cf8597e" title="AgentRoute::vrf_id" alt="" coords="266,309,409,336"/>
-<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a95e375c57b6cfa5799037b5c154e584d" title="Agent::mac_learning\l_proto" alt="" coords="259,361,415,402"/>
-<area shape="rect" id="node18" href="$d9/d3e/classMacLearningProto.html#a835aa2441d2900bb7da9917f394a461b" title="MacLearningProto::Enqueue" alt="" coords="236,427,439,453"/>
+<area shape="rect" id="node13" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="248,209,427,250"/>
+<area shape="rect" id="node14" href="$dc/dd7/classEvpnRouteEntry.html#a1b292c0cf704555690aed4805d6eba83" title="EvpnRouteEntry::mac" alt="" coords="257,275,417,301"/>
+<area shape="rect" id="node15" href="$d4/d57/classAgentRoute.html#a5ef1c9cd15040eb818a897725cf8597e" title="AgentRoute::vrf_id" alt="" coords="266,325,409,352"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a95e375c57b6cfa5799037b5c154e584d" title="Agent::mac_learning\l_proto" alt="" coords="259,377,415,418"/>
+<area shape="rect" id="node18" href="$d9/d3e/classMacLearningProto.html#a835aa2441d2900bb7da9917f394a461b" title="MacLearningProto::Enqueue" alt="" coords="236,443,439,469"/>
 <area shape="rect" id="node5" href="$dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="512,56,693,83"/>
 <area shape="rect" id="node6" href="$d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="772,56,921,83"/>
 <area shape="rect" id="node7" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="1029,56,1123,83"/>
@@ -15,11 +15,11 @@
 <area shape="rect" id="node10" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="540,157,665,184"/>
 <area shape="rect" id="node11" href="$d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="507,208,698,235"/>
 <area shape="rect" id="node12" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="547,259,659,285"/>
-<area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="543,309,662,336"/>
-<area shape="rect" id="node19" href="$d9/d3e/classMacLearningProto.html#a12ae820b90d9dcc41d9e4706ff7dade8" title="MacLearningProto::Hash" alt="" coords="513,376,692,403"/>
-<area shape="rect" id="node21" href="$d9/d3e/classMacLearningProto.html#a04aef62c9a74a9bdbfd01936eb500aa7" title="MacLearningProto::Find" alt="" coords="517,427,689,453"/>
-<area shape="rect" id="node22" href="$d4/d2b/classMacLearningPartition.html#abbe7c3b478518afe7f7e108a09184898" title="MacLearningPartition\l::Enqueue" alt="" coords="523,478,682,519"/>
-<area shape="rect" id="node20" href="$d3/df5/classMacAddress.html#a848c2fc67fd7cdf6ce2bf0c052d4d935" title="MacAddress::ToArray" alt="" coords="768,376,925,403"/>
-<area shape="rect" id="node23" href="$de/d85/classMacLearningRequestQueue.html#a9978a3c682bf07371faf8e6eaa05b066" title="MacLearningRequestQueue\l::Enqueue" alt="" coords="747,478,946,519"/>
-<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="995,485,1157,512"/>
+<area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="543,325,662,352"/>
+<area shape="rect" id="node19" href="$d9/d3e/classMacLearningProto.html#a12ae820b90d9dcc41d9e4706ff7dade8" title="MacLearningProto::Hash" alt="" coords="513,392,692,419"/>
+<area shape="rect" id="node21" href="$d9/d3e/classMacLearningProto.html#a04aef62c9a74a9bdbfd01936eb500aa7" title="MacLearningProto::Find" alt="" coords="517,443,689,469"/>
+<area shape="rect" id="node22" href="$d4/d2b/classMacLearningPartition.html#abbe7c3b478518afe7f7e108a09184898" title="MacLearningPartition\l::Enqueue" alt="" coords="523,494,682,535"/>
+<area shape="rect" id="node20" href="$d3/df5/classMacAddress.html#a848c2fc67fd7cdf6ce2bf0c052d4d935" title="MacAddress::ToArray" alt="" coords="768,392,925,419"/>
+<area shape="rect" id="node23" href="$de/d85/classMacLearningRequestQueue.html#a9978a3c682bf07371faf8e6eaa05b066" title="MacLearningRequestQueue\l::Enqueue" alt="" coords="747,494,946,535"/>
+<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="995,501,1157,528"/>
 </map>

@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4..." alt="" coords="294,275,458,317"/>
 <area shape="rect" id="node5" href="$d1/d67/classVxlanRoutingVrfMapper.html#a6211ae9c5cb778835ee7080ceda0cb22" title="Find the UUID of the LR using a given route (AgentRoute). " alt="" coords="272,100,480,156"/>
 <area shape="rect" id="node9" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="299,341,453,368"/>
-<area shape="rect" id="node10" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="286,392,466,419"/>
+<area shape="rect" id="node10" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="287,393,465,434"/>
 <area shape="rect" id="node6" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="549,107,713,149"/>
 <area shape="rect" id="node8" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="529,56,733,83"/>
 <area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="781,115,973,141"/>

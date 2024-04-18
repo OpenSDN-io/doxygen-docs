@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; PmsiTunnel, PmsiTunnelPtr,\l PmsiTunnelSpec, PmsiTunnelCompare,\l PmsiTunnelDB \&gt;" alt="" coords="6,5,282,75"/>
-<area shape="rect" id="node2" href="$de/d07/classPmsiTunnelDB.html" title="PmsiTunnelDB" alt="" coords="331,27,445,53"/>
+<area shape="rect" id="node1" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; OriginVnPath, OriginVnPath\lPtr, OriginVnPathSpec, OriginVnPath\lCompare, OriginVnPathDB \&gt;" alt="" coords="6,5,261,75"/>
+<area shape="rect" id="node2" href="$d0/d28/classOriginVnPathDB.html" title="OriginVnPathDB" alt="" coords="309,27,435,53"/>
 </map>

@@ -7,6 +7,7 @@ var agent__route_8h =
     [ "RouteTableWalkerState", "d1/db4/structRouteTableWalkerState.html", "d1/db4/structRouteTableWalkerState" ],
     [ "AgentRouteTable", "dc/d2b/classAgentRouteTable.html", "dc/d2b/classAgentRouteTable" ],
     [ "AgentRoute", "d4/d57/classAgentRoute.html", "d4/d57/classAgentRoute" ],
+    [ "AgentRoutePrefix", "d5/d9a/classAgentRoutePrefix.html", "d5/d9a/classAgentRoutePrefix" ],
     [ "AGENT_ROUTE_LOG", "de/d30/agent__route_8h.html#a4a77b330504129b05d4b4ec4f26e51e9", null ],
     [ "GETPEERNAME", "de/d30/agent__route_8h.html#aacc069b59b0243ccc1b2068b3e2ef71f", null ],
     [ "OPER_TRACE_ROUTE", "de/d30/agent__route_8h.html#a9deeab9ba468fa945a013aac54f2e546", null ],

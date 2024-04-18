@@ -1,6 +1,6 @@
 var classEvpnRouteEntry =
 [
-    [ "EvpnRouteEntry", "dc/dd7/classEvpnRouteEntry.html#a023fddcbeafc2cda4d89b0b95a6b8d88", null ],
+    [ "EvpnRouteEntry", "dc/dd7/classEvpnRouteEntry.html#a811eb0c58a79e24b157b25ee046c883e", null ],
     [ "~EvpnRouteEntry", "dc/dd7/classEvpnRouteEntry.html#a1124a7b98b1a4518c63ca682590939ad", null ],
     [ "CompareTo", "dc/dd7/classEvpnRouteEntry.html#a9e9fd27c442736deb7743a972366c79a", null ],
     [ "DBEntrySandesh", "dc/dd7/classEvpnRouteEntry.html#a955f23f44cd884aec8885a708c4bc7fe", null ],
@@ -13,12 +13,10 @@ var classEvpnRouteEntry =
     [ "GetDBRequestKey", "dc/dd7/classEvpnRouteEntry.html#ac6e53693668a772f3fa6fd4d8b9785ca", null ],
     [ "GetSourceAddressString", "dc/dd7/classEvpnRouteEntry.html#a99c4d06929b5d071dbd6e1cdc5b224d1", null ],
     [ "GetTableType", "dc/dd7/classEvpnRouteEntry.html#ae221a863ea5cd969cbe20a1de1240b0b", null ],
-    [ "GetVmIpPlen", "dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f", null ],
-    [ "ip_addr", "dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6", null ],
     [ "IsType2", "dc/dd7/classEvpnRouteEntry.html#a43b2b590d7a88e7dee8044154f38d672", null ],
     [ "IsType5", "dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a", null ],
     [ "mac", "dc/dd7/classEvpnRouteEntry.html#a1b292c0cf704555690aed4805d6eba83", null ],
-    [ "plen", "dc/dd7/classEvpnRouteEntry.html#a4a52d7ac1bd9d9ac796d13d5c3d841ee", null ],
+    [ "prefix_length", "dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77", null ],
     [ "publish_to_bridge_route_table", "dc/dd7/classEvpnRouteEntry.html#a0b8c22f89bf602e247524792e7268141", null ],
     [ "publish_to_inet_route_table", "dc/dd7/classEvpnRouteEntry.html#a61fb306b10be09a3723f273de744d8ea", null ],
     [ "ReComputePathDeletion", "dc/dd7/classEvpnRouteEntry.html#a8b443667929ae83bf27d924d312becc9", null ],
@@ -30,9 +28,7 @@ var classEvpnRouteEntry =
     [ "UpdateDerivedRoutes", "dc/dd7/classEvpnRouteEntry.html#a29ee4fcd92c67829c795294eb8cb91c9", null ],
     [ "UpdateNH", "dc/dd7/classEvpnRouteEntry.html#a6087ac6c5a5fc7432ebf5a319c5ff17f", null ],
     [ "ethernet_tag_", "dc/dd7/classEvpnRouteEntry.html#a2093240b40e43d21d930bb53d84387e2", null ],
-    [ "ip_addr_", "dc/dd7/classEvpnRouteEntry.html#ab23aaf2f54e8b06510f5819010ac1bb6", null ],
     [ "mac_", "dc/dd7/classEvpnRouteEntry.html#a7594d30998c1d3f70b957e1988b2afe1", null ],
-    [ "plen_", "dc/dd7/classEvpnRouteEntry.html#aa9a4486c59509bfe09edd794684058f9", null ],
     [ "publish_to_bridge_route_table_", "dc/dd7/classEvpnRouteEntry.html#a76f90cafc06a677dc55535e819b52b93", null ],
     [ "publish_to_inet_route_table_", "dc/dd7/classEvpnRouteEntry.html#a17e1bf3b768ea3432ae325dcf92c3f5b", null ]
 ];

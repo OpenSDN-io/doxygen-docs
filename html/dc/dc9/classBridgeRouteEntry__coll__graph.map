@@ -1,48 +1,48 @@
 <map id="BridgeRouteEntry" name="BridgeRouteEntry">
-<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html" title="AgentRoute" alt="" coords="2206,47,2303,73"/>
+<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html" title="AgentRoute" alt="" coords="2262,140,2359,167"/>
 <area shape="rect" id="node3" href="$de/df8/classRoute.html" title="Route" alt="" coords="511,5,569,32"/>
-<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="163,677,237,704"/>
-<area shape="rect" id="node10" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="306,1604,419,1631"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="5,677,112,704"/>
-<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="1129,1631,1204,1657"/>
-<area shape="rect" id="node17" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1481,892,1541,919"/>
-<area shape="rect" id="node7" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; VrfEntry \&gt;" alt="" coords="643,1581,845,1608"/>
-<area shape="rect" id="node18" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="869,1477,1056,1504"/>
-<area shape="rect" id="node29" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="913,1263,1012,1289"/>
-<area shape="rect" id="node31" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="714,541,774,568"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="905,1189,1020,1216"/>
-<area shape="rect" id="node48" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1780,1051,1895,1077"/>
-<area shape="rect" id="node9" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="672,1632,816,1659"/>
-<area shape="rect" id="node11" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="643,1753,845,1780"/>
-<area shape="rect" id="node14" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1772,1668,1903,1695"/>
-<area shape="rect" id="node37" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="1778,605,1897,632"/>
-<area shape="rect" id="node49" href="$d5/d06/classAgentDnsXmppChannel.html" title="AgentDnsXmppChannel" alt="" coords="1749,733,1925,760"/>
-<area shape="rect" id="node22" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="2173,1349,2336,1376"/>
-<area shape="rect" id="node23" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="2160,1546,2349,1587"/>
-<area shape="rect" id="node28" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="2168,1635,2341,1661"/>
-<area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; AgentRouteTable \&gt;" alt="" coords="2137,1700,2373,1727"/>
-<area shape="rect" id="node15" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="1464,1807,1557,1833"/>
-<area shape="rect" id="node16" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1129,1807,1204,1833"/>
-<area shape="rect" id="node24" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1762,844,1913,871"/>
-<area shape="rect" id="node25" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1806,937,1869,964"/>
-<area shape="rect" id="node30" href="$d0/d29/classFlowStatsManager.html" title="FlowStatsManager" alt="" coords="1767,379,1908,405"/>
-<area shape="rect" id="node33" href="$de/d13/classAgentConfig.html" title="AgentConfig" alt="" coords="1787,535,1888,561"/>
-<area shape="rect" id="node19" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1123,496,1211,523"/>
-<area shape="rect" id="node20" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1127,648,1206,675"/>
-<area shape="rect" id="node21" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="694,660,794,687"/>
-<area shape="rect" id="node34" href="$dc/d3a/classIcmpv6Proto.html" title="Icmpv6Proto" alt="" coords="1115,597,1219,624"/>
-<area shape="rect" id="node46" href="$d8/d04/classDhcpProto.html" title="DhcpProto" alt="" coords="1122,699,1211,725"/>
-<area shape="rect" id="node26" href="$d5/d6d/classIFMapAgentParser.html" title="IFMapAgentParser" alt="" coords="1097,856,1236,883"/>
-<area shape="rect" id="node27" href="$dd/da3/classForwardingClassTable.html" title="ForwardingClassTable" alt="" coords="1085,907,1248,933"/>
-<area shape="rect" id="node45" href="$d8/dd0/classFlowProto.html" title="FlowProto" alt="" coords="1123,395,1210,421"/>
-<area shape="rect" id="node32" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="295,541,430,568"/>
-<area shape="rect" id="node35" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="1130,996,1203,1023"/>
-<area shape="rect" id="node38" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="1081,1047,1253,1073"/>
-<area shape="rect" id="node39" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="1087,1097,1246,1124"/>
-<area shape="rect" id="node40" href="$d7/dc2/classVxLanTable.html" title="VxLanTable" alt="" coords="1119,1211,1215,1237"/>
-<area shape="rect" id="node41" href="$db/d2a/classVmTable.html" title="VmTable" alt="" coords="1127,1377,1206,1404"/>
-<area shape="rect" id="node42" href="$db/d35/classVrfTable.html" title="VrfTable" alt="" coords="1129,1467,1204,1493"/>
-<area shape="rect" id="node43" href="$db/d24/classHealthCheckTable.html" title="HealthCheckTable" alt="" coords="1097,547,1236,573"/>
-<area shape="rect" id="node44" href="$d9/d3e/classMacLearningProto.html" title="MacLearningProto" alt="" coords="1097,1517,1236,1544"/>
-<area shape="rect" id="node47" href="$d8/dbb/classPolicySetTable.html" title="PolicySetTable" alt="" coords="1109,445,1225,472"/>
+<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="163,60,237,87"/>
+<area shape="rect" id="node10" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="306,148,419,175"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="5,60,112,87"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="1129,215,1204,241"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1561,863,1621,889"/>
+<area shape="rect" id="node7" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; VrfEntry \&gt;" alt="" coords="643,604,845,631"/>
+<area shape="rect" id="node18" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="869,1664,1056,1691"/>
+<area shape="rect" id="node29" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="913,1603,1012,1629"/>
+<area shape="rect" id="node31" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="714,720,774,747"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="905,1529,1020,1556"/>
+<area shape="rect" id="node48" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1848,1267,1963,1293"/>
+<area shape="rect" id="node9" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="672,148,816,175"/>
+<area shape="rect" id="node11" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="643,97,845,124"/>
+<area shape="rect" id="node14" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1840,385,1971,412"/>
+<area shape="rect" id="node37" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="1846,559,1965,585"/>
+<area shape="rect" id="node22" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="2229,565,2392,592"/>
+<area shape="rect" id="node23" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="2216,682,2405,723"/>
+<area shape="rect" id="node28" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="2224,481,2397,508"/>
+<area shape="rect" id="node49" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; AgentRouteTable \&gt;" alt="" coords="2193,415,2429,441"/>
+<area shape="rect" id="node15" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="1544,148,1637,175"/>
+<area shape="rect" id="node16" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1129,148,1204,175"/>
+<area shape="rect" id="node24" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1830,785,1981,812"/>
+<area shape="rect" id="node25" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1874,953,1937,980"/>
+<area shape="rect" id="node30" href="$d0/d29/classFlowStatsManager.html" title="FlowStatsManager" alt="" coords="1835,1067,1976,1093"/>
+<area shape="rect" id="node33" href="$de/d13/classAgentConfig.html" title="AgentConfig" alt="" coords="1855,863,1956,889"/>
+<area shape="rect" id="node19" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1123,1376,1211,1403"/>
+<area shape="rect" id="node20" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1127,888,1206,915"/>
+<area shape="rect" id="node21" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="694,901,794,928"/>
+<area shape="rect" id="node34" href="$dc/d3a/classIcmpv6Proto.html" title="Icmpv6Proto" alt="" coords="1115,837,1219,864"/>
+<area shape="rect" id="node46" href="$d8/d04/classDhcpProto.html" title="DhcpProto" alt="" coords="1122,545,1211,572"/>
+<area shape="rect" id="node50" href="$d5/d9a/classAgentRoutePrefix.html" title="AgentRoutePrefix\&lt; MacAddress \&gt;" alt="" coords="1277,1525,1520,1552"/>
+<area shape="rect" id="node26" href="$d5/d6d/classIFMapAgentParser.html" title="IFMapAgentParser" alt="" coords="1097,393,1236,420"/>
+<area shape="rect" id="node27" href="$dd/da3/classForwardingClassTable.html" title="ForwardingClassTable" alt="" coords="1085,444,1248,471"/>
+<area shape="rect" id="node45" href="$d8/dd0/classFlowProto.html" title="FlowProto" alt="" coords="1123,495,1210,521"/>
+<area shape="rect" id="node32" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="295,720,430,747"/>
+<area shape="rect" id="node35" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="1130,635,1203,661"/>
+<area shape="rect" id="node38" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="1081,685,1253,712"/>
+<area shape="rect" id="node39" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="1087,736,1246,763"/>
+<area shape="rect" id="node40" href="$d7/dc2/classVxLanTable.html" title="VxLanTable" alt="" coords="1119,787,1215,813"/>
+<area shape="rect" id="node41" href="$db/d2a/classVmTable.html" title="VmTable" alt="" coords="1127,977,1206,1004"/>
+<area shape="rect" id="node42" href="$db/d35/classVrfTable.html" title="VrfTable" alt="" coords="1129,1067,1204,1093"/>
+<area shape="rect" id="node43" href="$db/d24/classHealthCheckTable.html" title="HealthCheckTable" alt="" coords="1097,1117,1236,1144"/>
+<area shape="rect" id="node44" href="$d9/d3e/classMacLearningProto.html" title="MacLearningProto" alt="" coords="1097,1168,1236,1195"/>
+<area shape="rect" id="node47" href="$d8/dbb/classPolicySetTable.html" title="PolicySetTable" alt="" coords="1109,1325,1225,1352"/>
 </map>

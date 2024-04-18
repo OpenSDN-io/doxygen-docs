@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$d6/de0/classTsnElector.html#af5d284f0b62f7b79e77332f987cfef39" title="TsnElector::RouteNotify" alt="" coords="251,253,424,280"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="515,5,632,32"/>
 <area shape="rect" id="node5" href="$dc/dd4/classAgentParam.html#aeb56cb6a2e162f22eb00993b56020126" title="AgentParam::IsConfigured\lTsnHostRoute" alt="" coords="478,57,669,98"/>
-<area shape="rect" id="node6" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="490,122,657,163"/>
+<area shape="rect" id="node6" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="484,122,663,163"/>
 <area shape="rect" id="node7" href="$d5/d9f/classInetUnicastRouteEntry.html#aa421ef2ce5261c4ff2c9e31e54d34ab5" title="InetUnicastRouteEntry\l::GetAddressString" alt="" coords="490,187,657,229"/>
 <area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="485,253,662,280"/>
 <area shape="rect" id="node9" href="$dc/dd4/classAgentParam.html#af4f292c234beadd1061ba03985fcf485" title="AgentParam::vhost_addr" alt="" coords="483,304,664,331"/>

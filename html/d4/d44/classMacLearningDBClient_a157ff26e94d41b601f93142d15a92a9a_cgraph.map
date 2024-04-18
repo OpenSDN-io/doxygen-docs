@@ -3,11 +3,11 @@
 <area shape="rect" id="node3" href="$d9/d3e/classMacLearningProto.html#a12ae820b90d9dcc41d9e4706ff7dade8" title="MacLearningProto::Hash" alt="" coords="216,71,395,97"/>
 <area shape="rect" id="node5" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="244,121,367,148"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="246,172,365,199"/>
-<area shape="rect" id="node7" href="$da/dfb/classBridgeRouteEntry.html#af1b6fa3e594c89f6d87728de7a07ea3b" title="BridgeRouteEntry::mac" alt="" coords="220,223,391,249"/>
-<area shape="rect" id="node8" href="$d9/d3e/classMacLearningProto.html#a04aef62c9a74a9bdbfd01936eb500aa7" title="MacLearningProto::Find" alt="" coords="219,273,391,300"/>
-<area shape="rect" id="node9" href="$d4/d2b/classMacLearningPartition.html#a202f635020034c2c8e55e7835870d6f4" title="MacLearningPartition\l::ReleaseToken" alt="" coords="226,325,385,366"/>
+<area shape="rect" id="node7" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="216,223,395,265"/>
+<area shape="rect" id="node8" href="$d9/d3e/classMacLearningProto.html#a04aef62c9a74a9bdbfd01936eb500aa7" title="MacLearningProto::Find" alt="" coords="219,289,391,316"/>
+<area shape="rect" id="node9" href="$d4/d2b/classMacLearningPartition.html#a202f635020034c2c8e55e7835870d6f4" title="MacLearningPartition\l::ReleaseToken" alt="" coords="226,341,385,382"/>
 <area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#a848c2fc67fd7cdf6ce2bf0c052d4d935" title="MacAddress::ToArray" alt="" coords="463,71,620,97"/>
-<area shape="rect" id="node10" href="$d4/d2b/classMacLearningPartition.html#a175438c228949a745a8aefce28d8f731" title="MacLearningPartition\l::Find" alt="" coords="462,259,621,301"/>
-<area shape="rect" id="node11" href="$d7/dcf/classMacLearningEntry.html#a9bdbd05380abada294bfae39b58508d8" title="MacLearningEntry::Release\lToken" alt="" coords="443,325,639,366"/>
-<area shape="rect" id="node12" href="$d7/dcf/classMacLearningEntry.html#aa5982275d27ad7dfd568dd4a7a82079c" title="MacLearningEntry::deleted" alt="" coords="444,391,639,417"/>
+<area shape="rect" id="node10" href="$d4/d2b/classMacLearningPartition.html#a175438c228949a745a8aefce28d8f731" title="MacLearningPartition\l::Find" alt="" coords="462,275,621,317"/>
+<area shape="rect" id="node11" href="$d7/dcf/classMacLearningEntry.html#a9bdbd05380abada294bfae39b58508d8" title="MacLearningEntry::Release\lToken" alt="" coords="443,341,639,382"/>
+<area shape="rect" id="node12" href="$d7/dcf/classMacLearningEntry.html#aa5982275d27ad7dfd568dd4a7a82079c" title="MacLearningEntry::deleted" alt="" coords="444,407,639,433"/>
 </map>

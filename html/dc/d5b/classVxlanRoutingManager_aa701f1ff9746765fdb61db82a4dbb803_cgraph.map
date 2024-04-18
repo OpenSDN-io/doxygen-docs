@@ -1,7 +1,7 @@
 <map id="VxlanRoutingManager::NbComputeMac" name="VxlanRoutingManager::NbComputeMac">
 <area shape="rect" id="node2" href="$d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="235,43,411,69"/>
 <area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="243,93,402,120"/>
-<area shape="rect" id="node10" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="239,145,406,186"/>
+<area shape="rect" id="node10" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="233,145,412,186"/>
 <area shape="rect" id="node11" href="$dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="219,279,426,335"/>
 <area shape="rect" id="node13" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="515,201,664,228"/>
 <area shape="rect" id="node20" href="$d0/daf/classTunnelNH.html#a29d4d33d46d836e8014f15feb2b8b57b" title="TunnelNH::GetDmac" alt="" coords="246,359,399,385"/>

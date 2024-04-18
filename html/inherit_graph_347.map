@@ -1,6 +1,10 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d8/d89/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolFactory.html" title="contrail::sandesh::\lprotocol::TProtocolFactory" alt="" coords="6,86,197,127"/>
-<area shape="rect" id="node2" href="$d6/d78/classcontrail_1_1sandesh_1_1protocol_1_1TBinaryProtocolFactoryT.html" title="contrail::sandesh::\lprotocol::TBinaryProtocolFactory\lT\&lt; Transport_ \&gt;" alt="" coords="246,5,479,61"/>
-<area shape="rect" id="node3" href="$dd/d35/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocolFactory.html" title="contrail::sandesh::\lprotocol::TJSONProtocolFactory" alt="" coords="251,86,474,127"/>
-<area shape="rect" id="node4" href="$dc/df3/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocolFactory.html" title="contrail::sandesh::\lprotocol::TXMLProtocolFactory" alt="" coords="253,151,472,193"/>
+<area shape="rect" id="node1" href="$d9/de9/classcontrail_1_1sandesh_1_1protocol_1_1TProtocol.html" title="contrail::sandesh::\lprotocol::TProtocol" alt="" coords="5,93,149,134"/>
+<area shape="rect" id="node2" href="$d3/da4/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolDefaults.html" title="contrail::sandesh::\lprotocol::TProtocolDefaults" alt="" coords="198,93,397,134"/>
+<area shape="rect" id="node3" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; TBinaryProtocolT\&lt; Transport_ \&gt; \&gt;" alt="" coords="446,5,706,61"/>
+<area shape="rect" id="node5" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; TJSONProtocol \&gt;" alt="" coords="483,85,669,141"/>
+<area shape="rect" id="node7" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; TXMLProtocol \&gt;" alt="" coords="483,165,669,221"/>
+<area shape="rect" id="node4" href="$dc/d9b/classcontrail_1_1sandesh_1_1protocol_1_1TBinaryProtocolT.html" title="contrail::sandesh::\lprotocol::TBinaryProtocolT\l\&lt; Transport_ \&gt;" alt="" coords="755,5,949,61"/>
+<area shape="rect" id="node6" href="$de/d3c/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocol.html" title="contrail::sandesh::\lprotocol::TJSONProtocol" alt="" coords="764,93,940,134"/>
+<area shape="rect" id="node8" href="$de/d75/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol.html" title="contrail::sandesh::\lprotocol::TXMLProtocol" alt="" coords="767,173,937,214"/>
 </map>

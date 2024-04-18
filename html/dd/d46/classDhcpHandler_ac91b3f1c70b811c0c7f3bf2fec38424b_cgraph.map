@@ -13,8 +13,8 @@
 <area shape="rect" id="node11" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="613,249,765,276"/>
 <area shape="rect" id="node44" href="$d8/dfe/classAgent.html#a07dfd8db3b505175642d2b515c7d51fb" title="Agent::vhost_default\l_gateway" alt="" coords="317,1021,475,1062"/>
 <area shape="rect" id="node45" href="$de/d5f/address__util_8cc.html#a5e958eac5d2990de5abb8931e07058ef" title="IsIp4SubnetMember" alt="" coords="321,1087,471,1113"/>
-<area shape="rect" id="node47" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="313,1138,479,1179"/>
-<area shape="rect" id="node48" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="313,1203,479,1245"/>
+<area shape="rect" id="node47" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="307,1138,485,1179"/>
+<area shape="rect" id="node48" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="313,1203,479,1245"/>
 <area shape="rect" id="node32" href="$dd/d46/classDhcpHandler.html#a6b168ec21745d41535330e085e7d51ee" title="DhcpHandler::FillDhcpInfo" alt="" coords="594,756,785,783"/>
 <area shape="rect" id="node17" href="$d8/dfe/classAgent.html#ae45040fa59c05a496eb4a49a1d5674f9" title="Agent::GetDhcpProto" alt="" coords="610,300,769,327"/>
 <area shape="rect" id="node30" href="$d8/d04/classDhcpProto.html#adf442324d980cc71dd9c37d671c7e90a" title="DhcpProto::IncrStatsErrors" alt="" coords="593,705,785,732"/>

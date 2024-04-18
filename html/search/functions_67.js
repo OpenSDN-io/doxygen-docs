@@ -1204,7 +1204,6 @@ var searchData=
   ['getvmi',['GetVmi',['../dc/d1c/classPortSubscribeTable.html#a8f093420e902c17edb1ee2277b1550ae',1,'PortSubscribeTable']]],
   ['getvmicfg',['GetVmiCfg',['../da/d9b/structVmInterfaceConfigData.html#a06593da7df49dcd4d543fa085a7ab5b4',1,'VmInterfaceConfigData']]],
   ['getvminterfacegateway',['GetVmInterfaceGateway',['../d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a8f5e55148f95fde1d6f0cfe48766d66a',1,'InterfaceUveTable::UveInterfaceEntry']]],
-  ['getvmipplen',['GetVmIpPlen',['../dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f',1,'EvpnRouteEntry']]],
   ['getvmitovmitype',['GetVmiToVmiType',['../d2/d73/classInterfaceTable.html#a3a95ed7ef4184a63aeb7e8977cb9e8ea',1,'InterfaceTable']]],
   ['getvmname',['GetVmName',['../d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a41abb594222080c4f81a78c1dbb1673e',1,'InterfaceUveTable::UveInterfaceEntry']]],
   ['getvmnodebyuuid',['GetVmNodeByUuid',['../d4/db2/classIFMapServer.html#abe7779d8fe4e75baa899ee261595ecce',1,'IFMapServer::GetVmNodeByUuid()'],['../df/df1/classIFMapVmUuidMapper.html#afbb4e0f47bb65112b5271c80902070d9',1,'IFMapVmUuidMapper::GetVmNodeByUuid()']]],

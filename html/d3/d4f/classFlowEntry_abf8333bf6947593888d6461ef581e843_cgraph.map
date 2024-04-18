@@ -4,8 +4,8 @@
 <area shape="rect" id="node4" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="801,288,999,315"/>
 <area shape="rect" id="node7" href="$d3/d4f/classFlowEntry.html#a755f500e25812a645fc0fe63ca0cd275" title="FlowEntry::is_flags_set" alt="" coords="290,389,459,416"/>
 <area shape="rect" id="node8" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="289,237,460,264"/>
-<area shape="rect" id="node19" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="291,441,458,482"/>
-<area shape="rect" id="node20" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="291,506,458,547"/>
+<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="285,441,464,482"/>
+<area shape="rect" id="node20" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="291,506,458,547"/>
 <area shape="rect" id="node21" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="313,572,436,599"/>
 <area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="315,623,434,649"/>
 <area shape="rect" id="node23" href="$d9/ddc/classFlowHandler.html#a916d65e5e1999739a991a8dbfc29b26a" title="FlowHandler::UnknownVnList" alt="" coords="269,673,481,700"/>
@@ -14,11 +14,11 @@
 <area shape="rect" id="node26" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="287,841,462,868"/>
 <area shape="rect" id="node27" href="$d4/d3d/classAgentPath.html#adbb3e137ddd2ae97891b544496b820f1" title="AgentPath::origin_vn" alt="" coords="297,892,453,919"/>
 <area shape="rect" id="node28" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="305,943,444,969"/>
-<area shape="rect" id="node29" href="$d4/d57/classAgentRoute.html#a73288a67d18c16ae2d341e40dd40d3ef" title="AgentRoute::plen" alt="" coords="308,993,441,1020"/>
-<area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="303,1044,447,1071"/>
+<area shape="rect" id="node29" href="$d4/d57/classAgentRoute.html#ac00c6adb09d082b606de09701de88a63" title="! Returns the length of a stored prefix address " alt="" coords="303,994,446,1035"/>
+<area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="303,1060,447,1087"/>
 <area shape="rect" id="node31" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="261,339,488,365"/>
-<area shape="rect" id="node41" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="305,1095,445,1121"/>
-<area shape="rect" id="node42" href="$d8/da7/classVrfNH.html#a71d8a131e926b6de4a5d4a5d021654b1" title="VrfNH::GetVrf" alt="" coords="319,1145,430,1172"/>
+<area shape="rect" id="node41" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="305,1111,445,1137"/>
+<area shape="rect" id="node42" href="$d8/da7/classVrfNH.html#a71d8a131e926b6de4a5d4a5d021654b1" title="VrfNH::GetVrf" alt="" coords="319,1161,430,1188"/>
 <area shape="rect" id="node5" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1089,263,1188,289"/>
 <area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="1054,313,1223,340"/>
 <area shape="rect" id="node9" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="584,237,701,264"/>

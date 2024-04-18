@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="793,44,975,71"/>
 <area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="522,356,699,383"/>
 <area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="261,403,443,429"/>
-<area shape="rect" id="node18" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="269,454,435,495"/>
+<area shape="rect" id="node18" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="263,454,441,495"/>
 <area shape="rect" id="node19" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="253,520,451,547"/>
 <area shape="rect" id="node22" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="289,571,415,597"/>
 <area shape="rect" id="node23" href="$d8/dfe/classAgent.html#a1471e814a192e7b14d81058d8b510985" title="Agent::link_local_peer" alt="" coords="269,621,435,648"/>

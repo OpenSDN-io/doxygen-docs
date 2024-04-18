@@ -183,7 +183,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
 <div class="line"><a name="l00076"></a><span class="lineno"><a class="line" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a3e753f7c670c3136c4d8dbba39aaf637">   76</a></span>&#160;<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a010166084edc97ab2577b9f8e401af12">KSyncVxlanFdbEntry::KSyncVxlanFdbEntry</a>(<a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html">KSyncVxlanRouteObject</a> *obj,</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                                       <span class="keyword">const</span> <a class="code" href="../../da/dfb/classBridgeRouteEntry.html">BridgeRouteEntry</a> *route) :</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="code" href="../../d2/d94/classKSyncVxlanRouteEntry.html">KSyncVxlanRouteEntry</a>(obj, route), bridge_(NULL), mac_(route-&gt;mac()),</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="code" href="../../d2/d94/classKSyncVxlanRouteEntry.html">KSyncVxlanRouteEntry</a>(obj, route), bridge_(NULL), mac_(route-&gt;prefix_address()),</div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    port_(NULL), tunnel_dest_() {</div>
 <div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;}</div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;</div>

@@ -14,16 +14,12 @@ var classBridgeRouteEntry =
     [ "GetDBRequestKey", "da/dfb/classBridgeRouteEntry.html#a7a17479884a8f788022e003ba465a674", null ],
     [ "GetSourceAddressString", "da/dfb/classBridgeRouteEntry.html#a3e62613b8226a873e93d1db29474f345", null ],
     [ "GetTableType", "da/dfb/classBridgeRouteEntry.html#aa0a713294a4acf156dd3d628b1ebab65", null ],
-    [ "mac", "da/dfb/classBridgeRouteEntry.html#af1b6fa3e594c89f6d87728de7a07ea3b", null ],
-    [ "plen", "da/dfb/classBridgeRouteEntry.html#a7f66508d3d7a53f1c48253e1f415dd22", null ],
+    [ "prefix_length", "da/dfb/classBridgeRouteEntry.html#ac8bfb47ae4225953038199c3a6cbb0d2", null ],
     [ "ReComputePathAdd", "da/dfb/classBridgeRouteEntry.html#a54bd5b1454036d9338458b5f2cf50e52", null ],
     [ "ReComputePathDeletion", "da/dfb/classBridgeRouteEntry.html#a01bad534aa3777dd099a9567e3b97b42", null ],
     [ "SetKey", "da/dfb/classBridgeRouteEntry.html#ad3b090d5ac52fb3c23541e109571a0c7", null ],
-    [ "setplen", "da/dfb/classBridgeRouteEntry.html#abc8f5f3bdb9a2460ba848822c018a1b1", null ],
     [ "ToString", "da/dfb/classBridgeRouteEntry.html#a2016ceca23653e1901135748c3f41dab", null ],
     [ "UpdateDependantRoutes", "da/dfb/classBridgeRouteEntry.html#aba29e53b91577a0929fadfc66e6f6e28", null ],
     [ "UpdateNH", "da/dfb/classBridgeRouteEntry.html#a766041febce061cc509b8f983bee6279", null ],
-    [ "ValidateMcastSrc", "da/dfb/classBridgeRouteEntry.html#aad1a61878a4789204ec96d6dd35e9696", null ],
-    [ "l3_plen_", "da/dfb/classBridgeRouteEntry.html#a908d48356814cb3fe8d0608572b85478", null ],
-    [ "mac_", "da/dfb/classBridgeRouteEntry.html#ab41bd5e0e864aec80423dac3055d95d1", null ]
+    [ "ValidateMcastSrc", "da/dfb/classBridgeRouteEntry.html#aad1a61878a4789204ec96d6dd35e9696", null ]
 ];

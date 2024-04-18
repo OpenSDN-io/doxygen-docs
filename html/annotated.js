@@ -125,6 +125,7 @@ var annotated =
     [ "AgentRoute", "d4/d57/classAgentRoute.html", "d4/d57/classAgentRoute" ],
     [ "AgentRouteData", "d4/de9/structAgentRouteData.html", "d4/de9/structAgentRouteData" ],
     [ "AgentRouteKey", "d6/d2a/structAgentRouteKey.html", "d6/d2a/structAgentRouteKey" ],
+    [ "AgentRoutePrefix", "d5/d9a/classAgentRoutePrefix.html", "d5/d9a/classAgentRoutePrefix" ],
     [ "AgentRouteResync", "d4/d59/classAgentRouteResync.html", "d4/d59/classAgentRouteResync" ],
     [ "AgentRouteTable", "dc/d2b/classAgentRouteTable.html", "dc/d2b/classAgentRouteTable" ],
     [ "AgentRouteWalker", "dc/db1/classAgentRouteWalker.html", "dc/db1/classAgentRouteWalker" ],

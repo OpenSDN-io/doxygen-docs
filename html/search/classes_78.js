@@ -2,8 +2,8 @@ var searchData=
 [
   ['xmlbase',['XmlBase',['../d2/d78/classXmlBase.html',1,'']]],
   ['xmlpugi',['XmlPugi',['../dd/d50/classXmlPugi.html',1,'']]],
-  ['xmlwriter',['XmlWriter',['../d8/dbe/classXmlWriter.html',1,'']]],
   ['xmlwriter',['XmlWriter',['../d2/d64/classBgpXmppMessage_1_1XmlWriter.html',1,'BgpXmppMessage']]],
+  ['xmlwriter',['XmlWriter',['../d8/dbe/classXmlWriter.html',1,'']]],
   ['xmpp_5fbuf_5fwrite',['xmpp_buf_write',['../d7/db4/structXmlPugi_1_1xmpp__buf__write.html',1,'XmlPugi']]],
   ['xmppchannel',['XmppChannel',['../d6/d81/classXmppChannel.html',1,'']]],
   ['xmppchannelconfig',['XmppChannelConfig',['../d0/d8b/classXmppChannelConfig.html',1,'']]],

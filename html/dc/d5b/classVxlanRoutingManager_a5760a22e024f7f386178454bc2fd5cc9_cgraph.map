@@ -2,6 +2,6 @@
 <area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="272,5,371,32"/>
 <area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="219,56,423,83"/>
 <area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="239,107,404,149"/>
-<area shape="rect" id="node5" href="$dc/dd7/classEvpnRouteEntry.html#ae0c998143684b740647216f3912559a6" title="EvpnRouteEntry::ip_addr" alt="" coords="491,89,671,116"/>
-<area shape="rect" id="node6" href="$dc/dd7/classEvpnRouteEntry.html#a6dac28db92e8a959031248a7c841759f" title="EvpnRouteEntry::GetVmIpPlen" alt="" coords="473,140,690,167"/>
+<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="472,74,651,115"/>
+<area shape="rect" id="node6" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="477,139,646,181"/>
 </map>

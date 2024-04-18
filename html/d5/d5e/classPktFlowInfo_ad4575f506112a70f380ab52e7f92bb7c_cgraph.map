@@ -19,8 +19,8 @@
 <area shape="rect" id="node5" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="567,79,737,105"/>
 <area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="812,325,999,366"/>
 <area shape="rect" id="node17" href="$da/dcd/classInetUnicastAgentRouteTable.html#a51f883814f3fb71817e6584b1560331e" title="InetUnicastAgentRouteTable\l::FindRoute" alt="" coords="549,434,755,475"/>
-<area shape="rect" id="node20" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="569,499,735,541"/>
-<area shape="rect" id="node21" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="569,565,735,606"/>
+<area shape="rect" id="node20" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="563,499,741,541"/>
+<area shape="rect" id="node21" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="569,565,735,606"/>
 <area shape="rect" id="node22" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="589,681,715,708"/>
 <area shape="rect" id="node23" href="$de/df8/classRoute.html#a8d74e299482bd9229bee96a96c5d6be8" title="Route::insert" alt="" coords="600,884,704,911"/>
 <area shape="rect" id="node27" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="581,732,723,759"/>

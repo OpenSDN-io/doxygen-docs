@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="851,343,1034,369"/>
 <area shape="rect" id="node6" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="276,111,503,137"/>
 <area shape="rect" id="node18" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="295,279,484,305"/>
-<area shape="rect" id="node19" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="306,330,473,371"/>
+<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="300,330,479,371"/>
 <area shape="rect" id="node20" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="328,396,451,423"/>
 <area shape="rect" id="node21" href="$dc/d3a/classIcmpv6Proto.html#a682bb0fdbb23f520144981f722a7d16a" title="Icmpv6Proto::UnsolNaEntry" alt="" coords="289,228,490,255"/>
 <area shape="rect" id="node23" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="317,497,461,524"/>
@@ -12,7 +12,7 @@
 <area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1371,707,1549,733"/>
 <area shape="rect" id="node26" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="298,665,481,692"/>
 <area shape="rect" id="node35" href="$d4/d57/classAgentRoute.html#a5ef1c9cd15040eb818a897725cf8597e" title="AgentRoute::vrf_id" alt="" coords="318,884,461,911"/>
-<area shape="rect" id="node37" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="306,818,473,859"/>
+<area shape="rect" id="node37" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="306,818,473,859"/>
 <area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="304,767,475,793"/>
 <area shape="rect" id="node39" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="319,935,459,961"/>
 <area shape="rect" id="node40" href="$db/de3/classProto.html#a4e095767d39cf3f1371ea22b6e4959d4" title="Proto::agent" alt="" coords="339,985,440,1012"/>

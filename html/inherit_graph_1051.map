@@ -1,3 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d8/d35/classPathPreference.html" title="PathPreference" alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node1" href="$db/dc7/classPath.html" title="Path" alt="" coords="5,171,56,197"/>
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html" title="AgentPath" alt="" coords="104,132,192,159"/>
+<area shape="rect" id="node8" href="$d7/d0c/classBgpPath.html" title="BgpPath" alt="" coords="111,208,185,235"/>
+<area shape="rect" id="node3" href="$db/df3/classEvpnDerivedPath.html" title="EvpnDerivedPath" alt="" coords="247,5,380,32"/>
+<area shape="rect" id="node4" href="$dd/d64/classEvpnRoutingPath.html" title="EvpnRoutingPath" alt="" coords="248,56,379,83"/>
+<area shape="rect" id="node5" href="$d4/dc9/classInetEvpnRoutePath.html" title="InetEvpnRoutePath" alt="" coords="241,107,385,133"/>
+<area shape="rect" id="node6" href="$db/dce/classMacVmBindingPath.html" title="MacVmBindingPath" alt="" coords="240,157,387,184"/>
+<area shape="rect" id="node7" href="$dd/df6/classMulticastRoutePath.html" title="MulticastRoutePath" alt="" coords="240,208,387,235"/>
+<area shape="rect" id="node9" href="$d8/d0e/classBgpSecondaryPath.html" title="BgpSecondaryPath" alt="" coords="242,259,385,285"/>
 </map>

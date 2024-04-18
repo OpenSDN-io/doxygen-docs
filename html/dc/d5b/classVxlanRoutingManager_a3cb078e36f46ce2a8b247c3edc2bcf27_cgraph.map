@@ -5,8 +5,8 @@
 <area shape="rect" id="node6" href="$da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="235,159,440,200"/>
 <area shape="rect" id="node47" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="276,225,399,251"/>
 <area shape="rect" id="node48" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="265,275,409,302"/>
-<area shape="rect" id="node49" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="254,327,421,368"/>
-<area shape="rect" id="node50" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="254,392,421,433"/>
+<area shape="rect" id="node49" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="248,327,427,368"/>
+<area shape="rect" id="node50" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="254,392,421,433"/>
 <area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="516,57,641,83"/>
 <area shape="rect" id="node7" href="$d1/d16/inet__unicast__route_8cc.html#abfb108dbebce1037765fc41ffda58cb7" title="InetUnicastTableProcess" alt="" coords="489,141,669,167"/>
 <area shape="rect" id="node46" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="505,191,652,218"/>

@@ -31,8 +31,8 @@
 <area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="1471,416,1641,443"/>
 <area shape="rect" id="node23" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="1453,365,1659,392"/>
 <area shape="rect" id="node24" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="1444,315,1668,341"/>
-<area shape="rect" id="node26" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="2030,1073,2197,1114"/>
-<area shape="rect" id="node27" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="2030,1233,2197,1274"/>
+<area shape="rect" id="node26" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="2024,1073,2203,1114"/>
+<area shape="rect" id="node27" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="2030,1233,2197,1274"/>
 <area shape="rect" id="node33" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="1717,1139,1944,1165"/>
 <area shape="rect" id="node34" href="$de/dbc/structRouteLeakState.html#a7b391ec6db87100291a667e8438d7836" title="RouteLeakState::CanAdd" alt="" coords="1465,1240,1647,1267"/>
 <area shape="rect" id="node35" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1486,1072,1626,1099"/>

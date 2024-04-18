@@ -15,8 +15,8 @@
 <area shape="rect" id="node23" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="477,584,685,611"/>
 <area shape="rect" id="node24" href="$dc/d2b/classAgentRouteTable.html#ad782abc7c8c0ef8e79a49f837efeabf6" title="AgentRouteTable::FindActive\lEntry" alt="" coords="222,158,429,199"/>
 <area shape="rect" id="node36" href="$d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="246,813,405,840"/>
-<area shape="rect" id="node39" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="242,865,409,906"/>
-<area shape="rect" id="node40" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="242,930,409,971"/>
+<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="236,865,415,906"/>
+<area shape="rect" id="node40" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="242,930,409,971"/>
 <area shape="rect" id="node41" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="266,996,385,1023"/>
 <area shape="rect" id="node4" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="521,56,642,83"/>
 <area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="493,107,670,133"/>

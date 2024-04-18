@@ -50,7 +50,7 @@ var classAgentRoute =
     [ "IsLess", "d4/d57/classAgentRoute.html#afe06a79b9d5822ee56756dc94a6b294d", null ],
     [ "IsRPFInvalid", "d4/d57/classAgentRoute.html#ac47370a3f8ac235f31fece2bd84e61af", null ],
     [ "IsTunnelNHListEmpty", "d4/d57/classAgentRoute.html#a4eb12087c8f70246f9c1ed259cf1ff95", null ],
-    [ "plen", "d4/d57/classAgentRoute.html#a73288a67d18c16ae2d341e40dd40d3ef", null ],
+    [ "prefix_length", "d4/d57/classAgentRoute.html#ac00c6adb09d082b606de09701de88a63", null ],
     [ "ProcessPath", "d4/d57/classAgentRoute.html#a294905fa0d5d9eff7fb223174ffd4168", null ],
     [ "ReComputeMulticastPaths", "d4/d57/classAgentRoute.html#a1768e23407d804074cd2fd0601f05b54", null ],
     [ "ReComputePathAdd", "d4/d57/classAgentRoute.html#ab12916f30d67063b25eafd29816571e5", null ],

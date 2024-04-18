@@ -7,8 +7,8 @@
 <area shape="rect" id="node9" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="303,284,428,311"/>
 <area shape="rect" id="node10" href="$da/dcd/classInetUnicastAgentRouteTable.html#a0a69f9bda433021efce5ee82461b7c75" title="InetUnicastAgentRouteTable\l::AddVHostRecvRoute" alt="" coords="263,335,468,377"/>
 <area shape="rect" id="node47" href="$d8/dfe/classAgent.html#a32c698a9829e91a27e88b8f2513a8172" title="Agent::fabric_rt_export_peer" alt="" coords="262,401,469,428"/>
-<area shape="rect" id="node48" href="$d5/d9f/classInetUnicastRouteEntry.html#a8e0b05e04e64665da147d9ac1ef6a537" title="InetUnicastRouteEntry\l::addr" alt="" coords="282,453,449,494"/>
-<area shape="rect" id="node49" href="$d5/d9f/classInetUnicastRouteEntry.html#a057ff607da224e353ef6d7ad3c3aaa4e" title="InetUnicastRouteEntry\l::plen" alt="" coords="282,518,449,559"/>
+<area shape="rect" id="node48" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="276,453,455,494"/>
+<area shape="rect" id="node49" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="282,518,449,559"/>
 <area shape="rect" id="node50" href="$d8/dfe/classAgent.html#a1359f08f2868207392c26e4c424edf77" title="Agent::fabric_vn_name" alt="" coords="279,584,451,611"/>
 <area shape="rect" id="node3" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="571,5,669,32"/>
 <area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="535,56,705,83"/>

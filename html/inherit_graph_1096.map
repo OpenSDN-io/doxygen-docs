@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/d9e/classPortCacheEntry.html" title="PortCacheEntry" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node1" href="$d3/d7b/classPort.html" title="Port" alt="" coords="5,31,53,57"/>
+<area shape="rect" id="node2" href="$de/df7/classTcpPort.html" title="TcpPort" alt="" coords="104,5,173,32"/>
+<area shape="rect" id="node3" href="$d5/dfd/classUdpPort.html" title="UdpPort" alt="" coords="101,56,176,83"/>
 </map>

@@ -161,6 +161,14 @@ var hierarchy =
     [ "AgentRefCount< VxLanId >", "d5/d7f/classAgentRefCount.html", [
       [ "VxLanId", "d0/d0f/classVxLanId.html", null ]
     ] ],
+    [ "AgentRoutePrefix< PrefixType >", "d5/d9a/classAgentRoutePrefix.html", null ],
+    [ "AgentRoutePrefix< IpAddress >", "d5/d9a/classAgentRoutePrefix.html", [
+      [ "EvpnRouteEntry", "dc/dd7/classEvpnRouteEntry.html", null ],
+      [ "InetUnicastRouteEntry", "d5/d9f/classInetUnicastRouteEntry.html", null ]
+    ] ],
+    [ "AgentRoutePrefix< MacAddress >", "d5/d9a/classAgentRoutePrefix.html", [
+      [ "BridgeRouteEntry", "da/dfb/classBridgeRouteEntry.html", null ]
+    ] ],
     [ "AgentRouteWalker", "dc/db1/classAgentRouteWalker.html", [
       [ "AgentRouteResync", "d4/d59/classAgentRouteResync.html", null ],
       [ "ControllerRouteWalker", "d4/de8/classControllerRouteWalker.html", null ],
@@ -2657,13 +2665,13 @@ var hierarchy =
     ] ],
     [ "ObjectProcessReq", "d2/d94/classObjectProcessReq.html", null ],
     [ "ConfigCassandraPartition::ObjectProcessRequestType", "d9/d13/structConfigCassandraPartition_1_1ObjectProcessRequestType.html", null ],
-    [ "DnsConfigManager::Observers", "db/d4d/structDnsConfigManager_1_1Observers.html", null ],
     [ "BgpConfigManager::Observers", "d7/d50/structBgpConfigManager_1_1Observers.html", null ],
-    [ "BgpPathAttributeMpReachNlriSequence::Offset", "d0/de5/structBgpPathAttributeMpReachNlriSequence_1_1Offset.html", null ],
+    [ "DnsConfigManager::Observers", "db/d4d/structDnsConfigManager_1_1Observers.html", null ],
     [ "BgpPathAttributeMpUnreachNlriSequence::Offset", "d7/d14/structBgpPathAttributeMpUnreachNlriSequence_1_1Offset.html", null ],
     [ "BgpPathAttributeList::Offset", "dc/db8/structBgpPathAttributeList_1_1Offset.html", null ],
     [ "BgpPathAttributeAs4List::Offset", "d2/d94/structBgpPathAttributeAs4List_1_1Offset.html", null ],
     [ "BgpMsgLength::Offset", "d5/d94/structBgpMsgLength_1_1Offset.html", null ],
+    [ "BgpPathAttributeMpReachNlriSequence::Offset", "d0/de5/structBgpPathAttributeMpReachNlriSequence_1_1Offset.html", null ],
     [ "OlistTunnelEntry", "dd/d17/structOlistTunnelEntry.html", null ],
     [ "GenDb::Op", "d7/d9d/structGenDb_1_1Op.html", null ],
     [ "OperDB", "dc/dff/classOperDB.html", null ],
@@ -2986,8 +2994,8 @@ var hierarchy =
     [ "etcdserverpb::ResponseOp::ResponseUnion", "da/d14/unionetcdserverpb_1_1ResponseOp_1_1ResponseUnion.html", null ],
     [ "BFD::RESTClient", "df/d00/classBFD_1_1RESTClient.html", null ],
     [ "BFD::RESTClientSession", "d2/d0e/classBFD_1_1RESTClientSession.html", null ],
-    [ "RESTServer::RESTData", "d4/d63/structRESTServer_1_1RESTData.html", null ],
     [ "BFD::RESTServer::RESTData", "d4/d7c/structBFD_1_1RESTServer_1_1RESTData.html", null ],
+    [ "RESTServer::RESTData", "d4/d63/structRESTServer_1_1RESTData.html", null ],
     [ "BFD::RESTServer", "dd/d65/classBFD_1_1RESTServer.html", null ],
     [ "RESTServer", "d5/db1/classRESTServer.html", null ],
     [ "RevFlowDepParams", "d1/dfa/structRevFlowDepParams.html", null ],
@@ -3199,8 +3207,8 @@ var hierarchy =
     [ "SessionFlowStatsInfo", "d1/de3/structSessionFlowStatsInfo.html", null ],
     [ "SessionFlowStatsParams", "d7/d28/structSessionFlowStatsParams.html", null ],
     [ "BFD::SessionIndex", "da/d30/structBFD_1_1SessionIndex.html", null ],
-    [ "BFD::SessionKey", "d6/d27/structBFD_1_1SessionKey.html", null ],
     [ "SessionKey", "d9/d0c/structSessionKey.html", null ],
+    [ "BFD::SessionKey", "d6/d27/structBFD_1_1SessionKey.html", null ],
     [ "SessionKeyCmp", "df/d86/structSessionKeyCmp.html", null ],
     [ "SessionPolicy", "d8/d16/structSessionPolicy.html", null ],
     [ "SessionPreAggInfo", "d8/d56/structSessionPreAggInfo.html", null ],
@@ -3212,15 +3220,15 @@ var hierarchy =
     [ "SessionStatsParams", "d5/dea/structSessionStatsParams.html", null ],
     [ "SessionStatsReq", "d5/db3/classSessionStatsReq.html", null ],
     [ "BgpPathAttrAsPathSegmentLength::SetLength", "db/d74/structBgpPathAttrAsPathSegmentLength_1_1SetLength.html", null ],
+    [ "BgpPathAttrAsPath4ByteSegmentLength::SetLength", "d7/dc7/structBgpPathAttrAsPath4ByteSegmentLength_1_1SetLength.html", null ],
     [ "BgpPathAttrAs4PathSegmentLength::SetLength", "d7/dac/structBgpPathAttrAs4PathSegmentLength_1_1SetLength.html", null ],
     [ "BgpPathAttributeForwardingEdgeLen::SetLength", "d4/d15/structBgpPathAttributeForwardingEdgeLen_1_1SetLength.html", null ],
-    [ "BgpPathAttrAsPath4ByteSegmentLength::SetLength", "d7/dc7/structBgpPathAttrAsPath4ByteSegmentLength_1_1SetLength.html", null ],
     [ "BgpMsgLength::SetLength", "d3/d85/structBgpMsgLength_1_1SetLength.html", null ],
-    [ "BFD::Flags::Setter", "dc/d95/structBFD_1_1Flags_1_1Setter.html", null ],
     [ "BFD::RequiredMinEchoRXInterval::Setter", "d4/d5a/structBFD_1_1RequiredMinEchoRXInterval_1_1Setter.html", null ],
-    [ "BFD::RequiredMinRxInterval::Setter", "db/d11/structBFD_1_1RequiredMinRxInterval_1_1Setter.html", null ],
+    [ "BFD::Flags::Setter", "dc/d95/structBFD_1_1Flags_1_1Setter.html", null ],
     [ "BFD::VersionAndDiagnostic::Setter", "d8/d4c/structBFD_1_1VersionAndDiagnostic_1_1Setter.html", null ],
     [ "BFD::DesiredMinTxInterval::Setter", "de/d08/structBFD_1_1DesiredMinTxInterval_1_1Setter.html", null ],
+    [ "BFD::RequiredMinRxInterval::Setter", "db/d11/structBFD_1_1RequiredMinRxInterval_1_1Setter.html", null ],
     [ "settings_", null, [
       [ "HttpSession", "da/d27/structHttpSession.html", [
         [ "MetadataServerSession", "d0/d06/classMetadataServerSession.html", null ]
@@ -3266,8 +3274,8 @@ var hierarchy =
     [ "SmartPointerComparator< KeyType, SmartPointer >", "dd/df9/structSmartPointerComparator.html", null ],
     [ "etcdserverpb::SnapshotRequestDefaultTypeInternal", "d6/dc3/classetcdserverpb_1_1SnapshotRequestDefaultTypeInternal.html", null ],
     [ "etcdserverpb::SnapshotResponseDefaultTypeInternal", "d7/d3a/classetcdserverpb_1_1SnapshotResponseDefaultTypeInternal.html", null ],
-    [ "io::SocketStats", "d2/dfc/structio_1_1SocketStats.html", null ],
     [ "IPeerDebugStats::SocketStats", "de/dad/structIPeerDebugStats_1_1SocketStats.html", null ],
+    [ "io::SocketStats", "d2/dfc/structio_1_1SocketStats.html", null ],
     [ "SourceAs", "db/d5d/classSourceAs.html", null ],
     [ "SourceGroupInfo", "df/de5/structSourceGroupInfo.html", null ],
     [ "SslConfig", "d4/d96/structSslConfig.html", null ],
@@ -3328,10 +3336,10 @@ var hierarchy =
       [ "DbDataValuePrinter", "dd/d95/classDbDataValuePrinter.html", null ],
       [ "DbDataValueSizeVisitor", "d9/d4b/classDbDataValueSizeVisitor.html", null ]
     ] ],
-    [ "protobuf_etcdserver_2eproto::StaticDescriptorInitializer", "d4/dde/structprotobuf__etcdserver__2eproto_1_1StaticDescriptorInitializer.html", null ],
-    [ "protobuf_kv_2eproto::StaticDescriptorInitializer", "dd/dbf/structprotobuf__kv__2eproto_1_1StaticDescriptorInitializer.html", null ],
-    [ "protobuf_auth_2eproto::StaticDescriptorInitializer", "d2/d02/structprotobuf__auth__2eproto_1_1StaticDescriptorInitializer.html", null ],
     [ "protobuf_rpc_2eproto::StaticDescriptorInitializer", "da/d73/structprotobuf__rpc__2eproto_1_1StaticDescriptorInitializer.html", null ],
+    [ "protobuf_kv_2eproto::StaticDescriptorInitializer", "dd/dbf/structprotobuf__kv__2eproto_1_1StaticDescriptorInitializer.html", null ],
+    [ "protobuf_etcdserver_2eproto::StaticDescriptorInitializer", "d4/dde/structprotobuf__etcdserver__2eproto_1_1StaticDescriptorInitializer.html", null ],
+    [ "protobuf_auth_2eproto::StaticDescriptorInitializer", "d2/d02/structprotobuf__auth__2eproto_1_1StaticDescriptorInitializer.html", null ],
     [ "StaticMirrorNhData", "dc/d4e/structStaticMirrorNhData.html", null ],
     [ "StaticRouteBase< T1, T2, T3, T4 >", "d6/da5/structStaticRouteBase.html", null ],
     [ "StaticRouteBase< Inet6Route, Inet6VpnRoute, Inet6Prefix, Ip6Address >", "d6/da5/structStaticRouteBase.html", [
@@ -3343,10 +3351,10 @@ var hierarchy =
     [ "StaticRouteConfig", "d7/db3/structStaticRouteConfig.html", null ],
     [ "StaticRouteRequest", "dd/d04/structStaticRouteRequest.html", null ],
     [ "PeerCloseManager::Stats", "dc/dff/structPeerCloseManager_1_1Stats.html", null ],
-    [ "RibOutUpdates::Stats", "df/d5a/structRibOutUpdates_1_1Stats.html", null ],
     [ "IcmpErrorProto::Stats", "df/d1f/structIcmpErrorProto_1_1Stats.html", null ],
     [ "BgpXmppChannel::Stats", "dc/d1c/structBgpXmppChannel_1_1Stats.html", null ],
     [ "Icmpv6ErrorProto::Stats", "de/d0a/structIcmpv6ErrorProto_1_1Stats.html", null ],
+    [ "RibOutUpdates::Stats", "df/d5a/structRibOutUpdates_1_1Stats.html", null ],
     [ "StatsClient", "d5/dcd/classStatsClient.html", [
       [ "StatsClientRemote", "d5/d72/classStatsClientRemote.html", null ]
     ] ],
@@ -3361,20 +3369,20 @@ var hierarchy =
     [ "etcdserverpb::StatusResponseDefaultTypeInternal", "d5/d42/classetcdserverpb_1_1StatusResponseDefaultTypeInternal.html", null ],
     [ "detail::StoreContext< T, ChildContextType >", "d9/df7/structdetail_1_1StoreContext.html", null ],
     [ "detail::StoreContext< void, ChildContextType >", "d8/d51/structdetail_1_1StoreContext_3_01void_00_01ChildContextType_01_4.html", null ],
-    [ "etcdserverpb::Lease::StubInterface", "d5/dee/classetcdserverpb_1_1Lease_1_1StubInterface.html", [
-      [ "etcdserverpb::Lease::Stub", "dc/da8/classetcdserverpb_1_1Lease_1_1Stub.html", null ]
+    [ "etcdserverpb::KV::StubInterface", "d7/dc8/classetcdserverpb_1_1KV_1_1StubInterface.html", [
+      [ "etcdserverpb::KV::Stub", "d5/d3d/classetcdserverpb_1_1KV_1_1Stub.html", null ]
+    ] ],
+    [ "etcdserverpb::Watch::StubInterface", "d3/d94/classetcdserverpb_1_1Watch_1_1StubInterface.html", [
+      [ "etcdserverpb::Watch::Stub", "da/d30/classetcdserverpb_1_1Watch_1_1Stub.html", null ]
     ] ],
     [ "etcdserverpb::Auth::StubInterface", "d7/db6/classetcdserverpb_1_1Auth_1_1StubInterface.html", [
       [ "etcdserverpb::Auth::Stub", "dd/dcc/classetcdserverpb_1_1Auth_1_1Stub.html", null ]
     ] ],
-    [ "etcdserverpb::KV::StubInterface", "d7/dc8/classetcdserverpb_1_1KV_1_1StubInterface.html", [
-      [ "etcdserverpb::KV::Stub", "d5/d3d/classetcdserverpb_1_1KV_1_1Stub.html", null ]
-    ] ],
     [ "etcdserverpb::Maintenance::StubInterface", "d1/dda/classetcdserverpb_1_1Maintenance_1_1StubInterface.html", [
       [ "etcdserverpb::Maintenance::Stub", "d8/d24/classetcdserverpb_1_1Maintenance_1_1Stub.html", null ]
     ] ],
-    [ "etcdserverpb::Watch::StubInterface", "d3/d94/classetcdserverpb_1_1Watch_1_1StubInterface.html", [
-      [ "etcdserverpb::Watch::Stub", "da/d30/classetcdserverpb_1_1Watch_1_1Stub.html", null ]
+    [ "etcdserverpb::Lease::StubInterface", "d5/dee/classetcdserverpb_1_1Lease_1_1StubInterface.html", [
+      [ "etcdserverpb::Lease::Stub", "dc/da8/classetcdserverpb_1_1Lease_1_1Stub.html", null ]
     ] ],
     [ "etcdserverpb::Cluster::StubInterface", "de/d7d/classetcdserverpb_1_1Cluster_1_1StubInterface.html", [
       [ "etcdserverpb::Cluster::Stub", "d9/d74/classetcdserverpb_1_1Cluster_1_1Stub.html", null ]
@@ -3431,19 +3439,16 @@ var hierarchy =
     [ "BgpXmppChannel::TableMembershipRequestState", "d1/d1d/structBgpXmppChannel_1_1TableMembershipRequestState.html", null ],
     [ "TableState", "dd/d9a/classTableState.html", null ],
     [ "GenDb::DbTableStatistics::TableStats", "d2/d9d/structGenDb_1_1DbTableStatistics_1_1TableStats.html", null ],
-    [ "protobuf_etcdserver_2eproto::TableStruct", "d9/d70/structprotobuf__etcdserver__2eproto_1_1TableStruct.html", null ],
-    [ "protobuf_auth_2eproto::TableStruct", "d2/d26/structprotobuf__auth__2eproto_1_1TableStruct.html", null ],
     [ "protobuf_kv_2eproto::TableStruct", "d1/da3/structprotobuf__kv__2eproto_1_1TableStruct.html", null ],
     [ "protobuf_rpc_2eproto::TableStruct", "d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html", null ],
+    [ "protobuf_etcdserver_2eproto::TableStruct", "d9/d70/structprotobuf__etcdserver__2eproto_1_1TableStruct.html", null ],
+    [ "protobuf_auth_2eproto::TableStruct", "d2/d26/structprotobuf__auth__2eproto_1_1TableStruct.html", null ],
     [ "DBTable::TableWalker", "d6/de5/classDBTable_1_1TableWalker.html", null ],
     [ "Tag", "db/dac/classTag.html", null ],
     [ "Tag4ByteAs", "d1/d00/classTag4ByteAs.html", null ],
     [ "tag_stack_t", "d6/db2/structtag__stack__t.html", null ],
     [ "VmInterface::TagEntryList", "d1/ded/structVmInterface_1_1TagEntryList.html", null ],
     [ "etcdserverpb::Compare::TargetUnionUnion", "dc/d67/unionetcdserverpb_1_1Compare_1_1TargetUnionUnion.html", null ],
-    [ "task", null, [
-      [ "TaskImpl", "d1/dee/classTaskImpl.html", null ]
-    ] ],
     [ "Task", "d6/d9c/classTask.html", [
       [ "BgpSenderPartition::Worker", "de/d95/classBgpSenderPartition_1_1Worker.html", null ],
       [ "cass::cql::impl::WorkerTask", "d1/dcd/classcass_1_1cql_1_1impl_1_1WorkerTask.html", null ],
@@ -3550,6 +3555,9 @@ var hierarchy =
       [ "Timer::TimerTask", "d0/dd4/classTimer_1_1TimerTask.html", null ],
       [ "UdpServer::Reader", "dc/dcf/classUdpServer_1_1Reader.html", null ],
       [ "VxLanConfigSandeshTask", "db/df7/classVxLanConfigSandeshTask.html", null ]
+    ] ],
+    [ "task", null, [
+      [ "TaskImpl", "d1/dee/classTaskImpl.html", null ]
     ] ],
     [ "task_", "db/d5c/structtask__.html", null ],
     [ "task_timer_", "d5/de7/structtask__timer__.html", null ],
@@ -3744,8 +3752,8 @@ var hierarchy =
     [ "detail::VarLengthSizeValue< void, T >", "d1/df1/structdetail_1_1VarLengthSizeValue_3_01void_00_01T_01_4.html", null ],
     [ "VectorAccessor< C, T, Member >", "da/ddd/structVectorAccessor.html", null ],
     [ "DBGraph::VertexPredicate", "db/d6e/structDBGraph_1_1VertexPredicate.html", null ],
-    [ "PolicyGraphBase::VertexProperties", "d7/dfb/structPolicyGraphBase_1_1VertexProperties.html", null ],
     [ "DBGraphBase::VertexProperties", "d4/dd5/structDBGraphBase_1_1VertexProperties.html", null ],
+    [ "PolicyGraphBase::VertexProperties", "d7/dfb/structPolicyGraphBase_1_1VertexProperties.html", null ],
     [ "VirtualGateway", "d2/ddd/classVirtualGateway.html", null ],
     [ "VirtualGatewayConfig", "df/dc6/classVirtualGatewayConfig.html", null ],
     [ "VirtualGatewayConfigTable::VirtualGatewayConfigCompare", "d0/d8a/structVirtualGatewayConfigTable_1_1VirtualGatewayConfigCompare.html", null ],
