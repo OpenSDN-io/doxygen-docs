@@ -6,7 +6,7 @@
 <area shape="rect" id="node37" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="1467,964,1586,991"/>
 <area shape="rect" id="node40" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="1836,401,1911,428"/>
 <area shape="rect" id="node14" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1151,1029,1211,1056"/>
-<area shape="rect" id="node44" href="$d4/d57/classAgentRoute.html" title="AgentRoute" alt="" coords="2170,559,2267,585"/>
+<area shape="rect" id="node44" href="$d4/d57/classAgentRoute.html" title="Base class for all Route entries in agent. " alt="" coords="2170,559,2267,585"/>
 <area shape="rect" id="node7" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="283,1179,383,1205"/>
 <area shape="rect" id="node17" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="703,1216,782,1243"/>
 <area shape="rect" id="node34" href="$dc/d3a/classIcmpv6Proto.html" title="Icmpv6Proto" alt="" coords="691,1059,795,1085"/>
@@ -22,7 +22,7 @@
 <area shape="rect" id="node43" href="$d4/dec/classNextHop.html" title="NextHop" alt="" coords="1487,643,1566,669"/>
 <area shape="rect" id="node13" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="705,335,780,361"/>
 <area shape="rect" id="node45" href="$de/df8/classRoute.html" title="Route" alt="" coords="1337,193,1396,220"/>
-<area shape="rect" id="node19" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1461,761,1592,788"/>
+<area shape="rect" id="node19" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1461,761,1592,788"/>
 <area shape="rect" id="node25" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1451,1075,1602,1101"/>
 <area shape="rect" id="node26" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1495,1149,1558,1176"/>
 <area shape="rect" id="node31" href="$d0/d29/classFlowStatsManager.html" title="FlowStatsManager" alt="" coords="672,1008,813,1035"/>

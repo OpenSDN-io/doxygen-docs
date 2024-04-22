@@ -23,7 +23,7 @@
 <area shape="rect" id="node33" href="$d5/d6d/classIFMapAgentParser.html" title="IFMapAgentParser" alt="" coords="548,1259,687,1285"/>
 <area shape="rect" id="node47" href="$db/d35/classVrfTable.html" title="VrfTable" alt="" coords="580,1348,655,1375"/>
 <area shape="rect" id="node20" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1373,1201,1435,1228"/>
-<area shape="rect" id="node26" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1339,372,1469,399"/>
+<area shape="rect" id="node26" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1339,372,1469,399"/>
 <area shape="rect" id="node32" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1329,817,1479,844"/>
 <area shape="rect" id="node38" href="$de/d13/classAgentConfig.html" title="AgentConfig" alt="" coords="1353,988,1455,1015"/>
 <area shape="rect" id="node22" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="524,1500,711,1527"/>

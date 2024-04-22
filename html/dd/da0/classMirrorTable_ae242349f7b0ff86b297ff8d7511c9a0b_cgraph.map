@@ -20,7 +20,7 @@
 <area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="472,758,648,784"/>
 <area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="731,758,935,784"/>
 <area shape="rect" id="node22" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="499,474,621,500"/>
-<area shape="rect" id="node23" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="471,525,649,566"/>
+<area shape="rect" id="node23" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="471,525,649,566"/>
 <area shape="rect" id="node24" href="$da/dfb/classBridgeRouteEntry.html#ac9736fe7fab92aa19da8a37597459efd" title="BridgeRouteEntry::GetActive\lLabel" alt="" coords="457,590,663,632"/>
 <area shape="rect" id="node27" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="461,656,659,683"/>
 <area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="485,707,635,734"/>

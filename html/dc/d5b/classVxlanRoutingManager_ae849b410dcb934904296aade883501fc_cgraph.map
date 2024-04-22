@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="219,71,413,97"/>
 <area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a34ecfb88b157cf239d075b6732e9e438" title="DBTablePartBase::GetFirst" alt="" coords="221,121,411,148"/>
 <area shape="rect" id="node14" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="245,172,387,199"/>
-<area shape="rect" id="node15" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="227,223,405,265"/>
+<area shape="rect" id="node15" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="227,223,405,265"/>
 <area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="241,289,391,316"/>
 <area shape="rect" id="node17" href="$d4/dec/classNextHop.html#add7d0c3a9ffce49c62ca63e37ed53348" title="NextHop::ToString" alt="" coords="247,340,385,367"/>
 <area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="253,391,379,417"/>

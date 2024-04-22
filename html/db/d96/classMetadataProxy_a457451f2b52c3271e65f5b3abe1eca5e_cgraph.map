@@ -16,7 +16,7 @@
 <area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="845,1265,995,1292"/>
 <area shape="rect" id="node17" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="825,1316,1015,1342"/>
 <area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#a59a1f65611be4d86e4201704f6dfa55b" title="VmInterface::mdata\l_ip6_addr" alt="" coords="844,1367,996,1408"/>
-<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="831,1432,1009,1474"/>
+<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="831,1432,1009,1474"/>
 <area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1109,1650,1291,1677"/>
 <area shape="rect" id="node15" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1151,1600,1249,1626"/>
 <area shape="rect" id="node22" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="1115,605,1285,632"/>

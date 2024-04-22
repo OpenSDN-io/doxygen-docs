@@ -33,7 +33,7 @@
 <area shape="rect" id="node19" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="1085,705,1309,732"/>
 <area shape="rect" id="node23" href="$d3/d81/classVnswInterfaceListenerBase.html#a3965b2d84888178658bde80824ec558a" title="VnswInterfaceListenerBase\l::Activate" alt="" coords="1371,412,1570,454"/>
 <area shape="rect" id="node26" href="$d5/d9f/classInetUnicastRouteEntry.html#a18873110423a6295b40d6a519e02ac94" title="InetUnicastRouteEntry\l::GetTableType" alt="" coords="825,1346,991,1387"/>
-<area shape="rect" id="node28" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="819,1514,997,1555"/>
+<area shape="rect" id="node28" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="819,1514,997,1555"/>
 <area shape="rect" id="node29" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="809,1462,1007,1489"/>
 <area shape="rect" id="node31" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="845,1294,971,1321"/>
 <area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a1471e814a192e7b14d81058d8b510985" title="Agent::link_local_peer" alt="" coords="825,1412,991,1438"/>

@@ -1,7 +1,7 @@
 <map id="MirrorTable::BridgeRouteTableNotify" name="MirrorTable::BridgeRouteTableNotify">
 <area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="250,5,427,32"/>
 <area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="277,56,400,83"/>
-<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="249,107,428,149"/>
+<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="249,107,428,149"/>
 <area shape="rect" id="node5" href="$da/dfb/classBridgeRouteEntry.html#ac9736fe7fab92aa19da8a37597459efd" title="BridgeRouteEntry::GetActive\lLabel" alt="" coords="235,173,442,214"/>
 <area shape="rect" id="node8" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="240,239,437,265"/>
 <area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="264,289,413,316"/>

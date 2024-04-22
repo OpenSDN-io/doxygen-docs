@@ -4,7 +4,7 @@
 <area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1286,503,1469,529"/>
 <area shape="rect" id="node7" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="736,528,963,555"/>
 <area shape="rect" id="node11" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="488,757,677,784"/>
-<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="760,782,939,823"/>
+<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="760,782,939,823"/>
 <area shape="rect" id="node13" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="788,1132,911,1159"/>
 <area shape="rect" id="node14" href="$d6/d21/classArpProto.html#aabcc868a9b426058bd762729e4760d95" title="ArpProto::GratuitousArpEntry" alt="" coords="477,1077,688,1104"/>
 <area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="761,224,938,251"/>

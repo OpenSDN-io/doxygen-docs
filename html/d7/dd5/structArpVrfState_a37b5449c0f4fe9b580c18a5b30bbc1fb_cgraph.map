@@ -8,7 +8,7 @@
 <area shape="rect" id="node5" href="$d1/dec/classDBTableWalkMgr.html#a197121e7e6cee9e285690b6bb8a68241" title="DBTableWalkMgr::AllocWalker" alt="" coords="751,13,967,40"/>
 <area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a12024c5ff7cc47d84456108998e7ff99" title="DBTableBase::incr_walker\l_count" alt="" coords="1034,6,1225,47"/>
 <area shape="rect" id="node8" href="$d7/dd5/structArpVrfState.html#aced4fb230f7c608fabced445cfcfb76b" title="ArpVrfState::EvpnRouteUpdate" alt="" coords="748,384,969,411"/>
-<area shape="rect" id="node9" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="1307,874,1485,915"/>
+<area shape="rect" id="node9" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1307,874,1485,915"/>
 <area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="1043,207,1215,233"/>
 <area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1038,89,1221,116"/>
 <area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1307,527,1485,553"/>

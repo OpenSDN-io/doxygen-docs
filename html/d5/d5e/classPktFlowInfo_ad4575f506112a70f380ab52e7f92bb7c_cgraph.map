@@ -19,7 +19,7 @@
 <area shape="rect" id="node5" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="567,79,737,105"/>
 <area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="812,325,999,366"/>
 <area shape="rect" id="node17" href="$da/dcd/classInetUnicastAgentRouteTable.html#a51f883814f3fb71817e6584b1560331e" title="InetUnicastAgentRouteTable\l::FindRoute" alt="" coords="549,434,755,475"/>
-<area shape="rect" id="node20" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="563,499,741,541"/>
+<area shape="rect" id="node20" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="563,499,741,541"/>
 <area shape="rect" id="node21" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="569,565,735,606"/>
 <area shape="rect" id="node22" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="589,681,715,708"/>
 <area shape="rect" id="node23" href="$de/df8/classRoute.html#a8d74e299482bd9229bee96a96c5d6be8" title="Route::insert" alt="" coords="600,884,704,911"/>

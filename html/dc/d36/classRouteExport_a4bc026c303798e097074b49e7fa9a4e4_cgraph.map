@@ -24,7 +24,7 @@
 <area shape="rect" id="node16" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="792,1517,981,1558"/>
 <area shape="rect" id="node18" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1053,1113,1235,1140"/>
 <area shape="rect" id="node25" href="$da/d25/classAgentXmppChannel.html#a590dc25862c7d006b89fd609b8ed3a4e" title="AgentXmppChannel::agent" alt="" coords="506,893,702,920"/>
-<area shape="rect" id="node26" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="515,1230,693,1271"/>
+<area shape="rect" id="node26" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="515,1230,693,1271"/>
 <area shape="rect" id="node27" href="$d3/df5/classMacAddress.html#a6fb1333e2f0a73a54b04ab3d81876561" title="MacAddress::BroadcastMac" alt="" coords="505,1011,703,1037"/>
 <area shape="rect" id="node28" href="$dc/d36/classRouteExport.html#affdb294cf5610bbd4baaf1b8f4bc7a9a" title="RouteExport::MulticastRoute\lCanDissociate" alt="" coords="501,945,707,986"/>
 <area shape="rect" id="node29" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="513,1549,695,1576"/>

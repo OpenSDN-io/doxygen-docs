@@ -1,7 +1,7 @@
 <map id="PktControlInfo" name="PktControlInfo">
 <area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="991,819,1065,845"/>
 <area shape="rect" id="node13" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1425,1539,1485,1565"/>
-<area shape="rect" id="node43" href="$d4/d57/classAgentRoute.html" title="AgentRoute" alt="" coords="2179,704,2277,731"/>
+<area shape="rect" id="node43" href="$d4/d57/classAgentRoute.html" title="Base class for all Route entries in agent. " alt="" coords="2179,704,2277,731"/>
 <area shape="rect" id="node3" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; VrfEntry \&gt;" alt="" coords="485,884,688,911"/>
 <area shape="rect" id="node14" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="721,1176,908,1203"/>
 <area shape="rect" id="node19" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; Interface \&gt;" alt="" coords="1139,1068,1346,1095"/>
@@ -19,7 +19,7 @@
 <area shape="rect" id="node7" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="5,199,80,225"/>
 <area shape="rect" id="node44" href="$de/df8/classRoute.html" title="Route" alt="" coords="353,181,412,208"/>
 <area shape="rect" id="node8" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="486,665,687,692"/>
-<area shape="rect" id="node11" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1749,860,1880,887"/>
+<area shape="rect" id="node11" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1749,860,1880,887"/>
 <area shape="rect" id="node21" href="$d1/dfc/structInterfaceOsParams.html" title="InterfaceOsParams" alt="" coords="1382,1985,1527,2012"/>
 <area shape="rect" id="node39" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="1755,1676,1874,1703"/>
 <area shape="rect" id="node24" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="2147,1207,2309,1233"/>

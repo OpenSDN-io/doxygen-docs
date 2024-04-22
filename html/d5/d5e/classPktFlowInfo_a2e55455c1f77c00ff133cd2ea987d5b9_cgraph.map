@@ -1,5 +1,5 @@
 <map id="PktFlowInfo::ChangeFloatingIpEncap" name="PktFlowInfo::ChangeFloatingIpEncap">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="771,5,949,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="771,5,949,46"/>
 <area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="1004,484,1201,511"/>
 <area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a21f985f05c85152a52ff8960498a2e0f" title="AgentPath::tunnel_bmap" alt="" coords="267,567,448,593"/>
 <area shape="rect" id="node7" href="$d9/db2/pkt__flow__info_8cc.html#aad88f1ec2073d4343fa3d0be78cab8b1" title="RouteToVn" alt="" coords="312,516,403,543"/>
@@ -16,7 +16,7 @@
 <area shape="rect" id="node16" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="502,75,719,101"/>
 <area shape="rect" id="node19" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="525,297,696,324"/>
 <area shape="rect" id="node30" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="527,247,695,273"/>
-<area shape="rect" id="node33" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="! Sets the length of a stored prefix address " alt="" coords="529,349,692,390"/>
+<area shape="rect" id="node33" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="529,349,692,390"/>
 <area shape="rect" id="node17" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="777,122,943,163"/>
 <area shape="rect" id="node18" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="784,71,936,97"/>
 <area shape="rect" id="node20" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="801,356,919,383"/>

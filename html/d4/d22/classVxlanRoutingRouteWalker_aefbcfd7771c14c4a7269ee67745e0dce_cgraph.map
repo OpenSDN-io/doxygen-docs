@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="246,66,410,107"/>
 <area shape="rect" id="node6" href="$dc/d5b/classVxlanRoutingManager.html#aecd7ebb41ca01d15d2a0fbb4d9181bb2" title="Routes leaking functions. " alt="" coords="246,1122,410,1163"/>
 <area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="480,30,672,57"/>
-<area shape="rect" id="node7" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="1053,642,1232,683"/>
+<area shape="rect" id="node7" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1053,642,1232,683"/>
 <area shape="rect" id="node8" href="$d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="459,1311,693,1352"/>
 <area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="751,89,959,116"/>
 <area shape="rect" id="node11" href="$d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="473,1008,679,1050"/>

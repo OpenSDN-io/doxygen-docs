@@ -4,7 +4,7 @@
 <area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a34ecfb88b157cf239d075b6732e9e438" title="DBTablePartBase::GetFirst" alt="" coords="250,107,441,133"/>
 <area shape="rect" id="node14" href="$dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="255,157,436,184"/>
 <area shape="rect" id="node17" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="275,208,416,235"/>
-<area shape="rect" id="node18" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="256,259,435,301"/>
+<area shape="rect" id="node18" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="256,259,435,301"/>
 <area shape="rect" id="node19" href="$dc/dd7/classEvpnRouteEntry.html#a47ad22c4a26634706b5a7ca2113f64ad" title="EvpnRouteEntry::ethernet_tag" alt="" coords="238,325,453,352"/>
 <area shape="rect" id="node20" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="271,376,420,403"/>
 <area shape="rect" id="node21" href="$d4/dec/classNextHop.html#add7d0c3a9ffce49c62ca63e37ed53348" title="NextHop::ToString" alt="" coords="276,427,415,453"/>

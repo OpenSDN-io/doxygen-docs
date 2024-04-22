@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1566,259,1743,285"/>
 <area shape="rect" id="node6" href="$d1/dbd/classVrfKSyncObject.html#af09078c140ac84f6f26059ce49f0681d" title="VrfKSyncObject::DelIpMac\lBinding" alt="" coords="266,861,457,902"/>
 <area shape="rect" id="node36" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="300,927,423,953"/>
-<area shape="rect" id="node37" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="272,978,451,1019"/>
+<area shape="rect" id="node37" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="272,978,451,1019"/>
 <area shape="rect" id="node38" href="$dc/dd7/classEvpnRouteEntry.html#a1b292c0cf704555690aed4805d6eba83" title="EvpnRouteEntry::mac" alt="" coords="281,1044,441,1071"/>
 <area shape="rect" id="node39" href="$dc/dd7/classEvpnRouteEntry.html#a47ad22c4a26634706b5a7ca2113f64ad" title="EvpnRouteEntry::ethernet_tag" alt="" coords="254,1095,469,1121"/>
 <area shape="rect" id="node40" href="$d1/dbd/classVrfKSyncObject.html#ae8f535aa0985c4214c9c8a7aecb51914" title="VrfKSyncObject::AddIpMac\lBinding" alt="" coords="264,1146,459,1187"/>

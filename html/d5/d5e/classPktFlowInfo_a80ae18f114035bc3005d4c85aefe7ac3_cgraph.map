@@ -29,10 +29,10 @@
 <area shape="rect" id="node29" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="515,388,733,415"/>
 <area shape="rect" id="node33" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="539,236,709,263"/>
 <area shape="rect" id="node37" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="540,76,708,103"/>
-<area shape="rect" id="node40" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="! Sets the length of a stored prefix address " alt="" coords="543,439,705,481"/>
+<area shape="rect" id="node40" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="543,439,705,481"/>
 <area shape="rect" id="node30" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="793,322,959,363"/>
 <area shape="rect" id="node41" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="565,185,683,212"/>
-<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="787,439,965,481"/>
+<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="787,439,965,481"/>
 <area shape="rect" id="node32" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="800,388,952,415"/>
 <area shape="rect" id="node34" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="817,220,935,247"/>
 <area shape="rect" id="node35" href="$d4/d57/classAgentRoute.html#ac47370a3f8ac235f31fece2bd84e61af" title="AgentRoute::IsRPFInvalid" alt="" coords="784,271,968,297"/>

@@ -6,7 +6,7 @@
 <area shape="rect" id="node8" href="$de/d8b/classEvpnAgentRouteTable.html#abb3c7450431fbeb2228f939030ee19c2" title="EvpnAgentRouteTable\l::Delete" alt="" coords="551,457,713,498"/>
 <area shape="rect" id="node48" href="$d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="526,573,738,600"/>
 <area shape="rect" id="node49" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="560,624,704,651"/>
-<area shape="rect" id="node50" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="543,675,721,717"/>
+<area shape="rect" id="node50" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="543,675,721,717"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="787,573,963,600"/>
 <area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1014,573,1218,600"/>
 <area shape="rect" id="node9" href="$de/d8b/classEvpnAgentRouteTable.html#ad66d3730d31a25bfaf328d6999aa6874" title="EvpnAgentRouteTable\l::ComputeHostIpPlen" alt="" coords="793,457,956,498"/>

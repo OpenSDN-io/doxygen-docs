@@ -1,7 +1,7 @@
 <map id="MetadataProxy::AdvertiseMetaDataLinkLocalRoutes" name="MetadataProxy::AdvertiseMetaDataLinkLocalRoutes">
 <area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="255,5,441,46"/>
 <area shape="rect" id="node5" href="$da/dcd/classInetUnicastAgentRouteTable.html#a51f883814f3fb71817e6584b1560331e" title="InetUnicastAgentRouteTable\l::FindRoute" alt="" coords="245,70,451,111"/>
-<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="259,135,437,177"/>
+<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="259,135,437,177"/>
 <area shape="rect" id="node9" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="265,201,431,242"/>
 <area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="285,267,411,293"/>
 <area shape="rect" id="node11" href="$de/df8/classRoute.html#a8d74e299482bd9229bee96a96c5d6be8" title="Route::insert" alt="" coords="296,317,400,344"/>

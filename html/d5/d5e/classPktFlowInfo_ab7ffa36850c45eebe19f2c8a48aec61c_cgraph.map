@@ -3,10 +3,10 @@
 <area shape="rect" id="node3" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="246,87,463,113"/>
 <area shape="rect" id="node7" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="269,305,440,332"/>
 <area shape="rect" id="node21" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="271,188,439,215"/>
-<area shape="rect" id="node24" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="! Sets the length of a stored prefix address " alt="" coords="273,239,436,281"/>
+<area shape="rect" id="node24" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="273,239,436,281"/>
 <area shape="rect" id="node4" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="521,122,687,163"/>
 <area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="295,356,414,383"/>
-<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="515,5,693,46"/>
+<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="515,5,693,46"/>
 <area shape="rect" id="node6" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="528,71,680,97"/>
 <area shape="rect" id="node8" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="545,356,663,383"/>
 <area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="525,305,683,332"/>

@@ -1,5 +1,5 @@
 <map id="VrfKSyncObject::RouteNeedsMacBinding" name="VrfKSyncObject::RouteNeedsMacBinding">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="288,5,467,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="288,5,467,46"/>
 <area shape="rect" id="node3" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="294,70,461,111"/>
 <area shape="rect" id="node4" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="316,136,439,163"/>
 <area shape="rect" id="node5" href="$d7/de7/classKSync.html#ab1e820796025be29618710fb70a35486" title="KSync::agent" alt="" coords="324,187,431,213"/>

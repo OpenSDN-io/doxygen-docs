@@ -34,7 +34,7 @@
 <area shape="rect" id="node31" href="$d5/d12/classIFMapAgentLinkTable.html" title="IFMapAgentLinkTable" alt="" coords="690,831,849,857"/>
 <area shape="rect" id="node33" href="$d7/d4c/classIFMapAgentTable.html" title="IFMapAgentTable" alt="" coords="703,881,835,908"/>
 <area shape="rect" id="node34" href="$dc/dd4/classIFMapServerTable.html" title="IFMapServerTable" alt="" coords="701,932,837,959"/>
-<area shape="rect" id="node37" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="467,1048,597,1075"/>
+<area shape="rect" id="node37" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="467,1048,597,1075"/>
 <area shape="rect" id="node42" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="491,1328,573,1355"/>
 <area shape="rect" id="node38" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="683,983,856,1009"/>
 <area shape="rect" id="node39" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="688,1033,851,1060"/>

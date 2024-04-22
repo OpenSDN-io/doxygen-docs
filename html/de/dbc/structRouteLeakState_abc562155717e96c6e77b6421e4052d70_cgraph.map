@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="571,31,768,57"/>
 <area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="595,81,744,108"/>
 <area shape="rect" id="node6" href="$d5/d9f/classInetUnicastRouteEntry.html#a47934844d3883ffadec90c4bdd3d5a6e" title="InetUnicastRouteEntry\l::IsHostRoute" alt="" coords="307,786,474,827"/>
-<area shape="rect" id="node10" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="580,503,759,545"/>
+<area shape="rect" id="node10" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="580,503,759,545"/>
 <area shape="rect" id="node11" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="327,852,454,879"/>
 <area shape="rect" id="node12" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="296,903,485,929"/>
 <area shape="rect" id="node13" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="306,953,475,980"/>

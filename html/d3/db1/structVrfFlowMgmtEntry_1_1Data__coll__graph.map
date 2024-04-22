@@ -12,7 +12,7 @@
 <area shape="rect" id="node6" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="302,176,415,203"/>
 <area shape="rect" id="node7" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="43,176,117,203"/>
 <area shape="rect" id="node8" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="258,309,459,336"/>
-<area shape="rect" id="node11" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="719,275,849,301"/>
+<area shape="rect" id="node11" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="719,275,849,301"/>
 <area shape="rect" id="node34" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="1934,1000,2053,1027"/>
 <area shape="rect" id="node19" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="1133,303,1296,329"/>
 <area shape="rect" id="node20" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="1120,354,1309,395"/>

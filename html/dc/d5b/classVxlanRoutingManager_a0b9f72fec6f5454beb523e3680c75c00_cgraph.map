@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="320,56,419,83"/>
 <area shape="rect" id="node4" href="$dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="279,107,460,133"/>
 <area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="280,158,459,199"/>
-<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="280,223,459,265"/>
+<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="280,223,459,265"/>
 <area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1278,223,1455,249"/>
 <area shape="rect" id="node14" href="$da/dcd/classInetUnicastAgentRouteTable.html#acbec4b79373a009b950f3f837b9c6be8" title="InetUnicastAgentRouteTable\l::DeleteReq" alt="" coords="267,406,472,447"/>
 <area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="297,472,441,499"/>

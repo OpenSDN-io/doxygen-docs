@@ -5,7 +5,7 @@
 <area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="821,225,998,252"/>
 <area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="538,276,721,302"/>
 <area shape="rect" id="node17" href="$d4/d57/classAgentRoute.html#a5ef1c9cd15040eb818a897725cf8597e" title="AgentRoute::vrf_id" alt="" coords="558,377,701,404"/>
-<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="540,428,719,470"/>
+<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="540,428,719,470"/>
 <area shape="rect" id="node20" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="545,494,714,535"/>
 <area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="544,166,715,193"/>
 <area shape="rect" id="node22" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="568,560,691,586"/>

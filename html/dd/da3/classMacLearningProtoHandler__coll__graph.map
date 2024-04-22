@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$df/da5/classProtoHandler.html" title="ProtoHandler" alt="" coords="1739,852,1845,879"/>
 <area shape="rect" id="node3" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1135,1068,1195,1095"/>
 <area shape="rect" id="node12" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1548,512,1663,539"/>
-<area shape="rect" id="node19" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1540,1336,1671,1363"/>
+<area shape="rect" id="node19" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1540,1336,1671,1363"/>
 <area shape="rect" id="node21" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1530,1019,1681,1045"/>
 <area shape="rect" id="node22" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1574,1072,1637,1099"/>
 <area shape="rect" id="node27" href="$d0/d29/classFlowStatsManager.html" title="FlowStatsManager" alt="" coords="1535,1181,1676,1208"/>

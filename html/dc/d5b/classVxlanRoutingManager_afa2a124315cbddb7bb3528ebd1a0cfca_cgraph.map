@@ -4,7 +4,7 @@
 <area shape="rect" id="node6" href="$d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="559,164,718,191"/>
 <area shape="rect" id="node9" href="$d4/d57/classAgentRoute.html#ac8c03c68d77e4e90336538147db1ed07" title="AgentRoute::DeletePathFromPeer" alt="" coords="235,727,472,753"/>
 <area shape="rect" id="node50" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="265,778,441,819"/>
-<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="549,98,728,139"/>
+<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="549,98,728,139"/>
 <area shape="rect" id="node5" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="554,33,723,74"/>
 <area shape="rect" id="node7" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="868,5,1009,32"/>
 <area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="876,56,1001,83"/>

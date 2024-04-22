@@ -36,9 +36,9 @@
 <area shape="rect" id="node36" href="$d4/d57/classAgentRoute.html#adc94209fc35201be6b9b082911337c9b" title="AgentRoute::GetTableType" alt="" coords="536,203,728,229"/>
 <area shape="rect" id="node37" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="523,371,741,397"/>
 <area shape="rect" id="node41" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="548,421,716,448"/>
-<area shape="rect" id="node44" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="! Sets the length of a stored prefix address " alt="" coords="551,305,713,346"/>
+<area shape="rect" id="node44" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="551,305,713,346"/>
 <area shape="rect" id="node38" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="801,230,967,271"/>
-<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="795,347,973,389"/>
+<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="795,347,973,389"/>
 <area shape="rect" id="node40" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="808,296,960,323"/>
 <area shape="rect" id="node42" href="$d2/d3d/classVrfEntry.html#ac32cfcd6a11cd0050853c45a682f1464" title="VrfEntry::GetBridgeRoute\lTable" alt="" coords="1037,365,1221,406"/>
 <area shape="rect" id="node43" href="$d8/d2e/classBridgeAgentRouteTable.html#a78b7240ac336fa7d2cb97ab12f99d8fb" title="BridgeAgentRouteTable\l::FindRouteNoLock" alt="" coords="797,413,971,454"/>

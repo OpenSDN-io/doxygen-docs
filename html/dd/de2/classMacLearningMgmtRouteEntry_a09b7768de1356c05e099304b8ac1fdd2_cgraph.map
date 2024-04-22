@@ -1,5 +1,5 @@
 <map id="MacLearningMgmtRouteEntry::MacLearningMgmtRouteEntry" name="MacLearningMgmtRouteEntry::MacLearningMgmtRouteEntry">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="275,5,453,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="275,5,453,46"/>
 <area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="303,71,425,97"/>
 <area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="292,121,436,148"/>
 </map>

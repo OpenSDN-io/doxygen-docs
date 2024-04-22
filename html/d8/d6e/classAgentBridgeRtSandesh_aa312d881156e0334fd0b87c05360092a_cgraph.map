@@ -1,6 +1,6 @@
 <map id="AgentBridgeRtSandesh::UpdateResp" name="AgentBridgeRtSandesh::UpdateResp">
 <area shape="rect" id="node2" href="$d9/dbb/agent__sandesh_8cc.html#a1859b9b74e485a9702eee477b6bf36aa" title="MatchSubString" alt="" coords="260,5,383,32"/>
-<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="232,57,411,98"/>
+<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="232,57,411,98"/>
 <area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="1028,297,1188,324"/>
 <area shape="rect" id="node5" href="$da/dfb/classBridgeRouteEntry.html#aaa74014650f887c24c587d355974e93a" title="BridgeRouteEntry::DBEntry\lSandesh" alt="" coords="224,1241,419,1282"/>
 <area shape="rect" id="node6" href="$d3/d34/physical__device_8cc.html#abe277d7cc3127e27773b18c2e4e5e84a" title="ToString" alt="" coords="531,1248,605,1275"/>

@@ -1,5 +1,5 @@
 <map id="VrfEntry::GetUcRoute" name="VrfEntry::GetUcRoute">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="227,5,405,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="227,5,405,46"/>
 <area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="223,70,409,111"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="223,135,409,177"/>
 <area shape="rect" id="node7" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="213,201,419,242"/>

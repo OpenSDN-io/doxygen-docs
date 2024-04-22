@@ -29,7 +29,7 @@
 <area shape="rect" id="node21" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1205,1424,1331,1451"/>
 <area shape="rect" id="node22" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1180,1475,1356,1501"/>
 <area shape="rect" id="node23" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="1162,1373,1374,1400"/>
-<area shape="rect" id="node25" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="1461,449,1640,490"/>
+<area shape="rect" id="node25" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1461,449,1640,490"/>
 <area shape="rect" id="node26" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="1467,558,1634,599"/>
 <area shape="rect" id="node32" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="1155,144,1381,171"/>
 <area shape="rect" id="node36" href="$de/dbc/structRouteLeakState.html#a7b391ec6db87100291a667e8438d7836" title="RouteLeakState::CanAdd" alt="" coords="902,271,1085,297"/>

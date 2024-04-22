@@ -10,7 +10,7 @@
 <area shape="rect" id="node15" href="$dc/d5b/classVxlanRoutingManager.html#aa701f1ff9746765fdb61db82a4dbb803" title="Returns the MAC address for the IP of a given neighbouring compute. " alt="" coords="529,211,693,253"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="771,51,947,77"/>
 <area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="779,101,938,128"/>
-<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="769,153,948,194"/>
+<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="769,153,948,194"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1032,5,1219,46"/>
 <area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1032,70,1219,111"/>
 <area shape="rect" id="node10" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1023,135,1228,177"/>

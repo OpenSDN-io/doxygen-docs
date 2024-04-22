@@ -21,7 +21,7 @@
 <area shape="rect" id="node14" href="$d3/def/structDBState.html" title="DBState" alt="" coords="947,228,1021,255"/>
 <area shape="rect" id="node15" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="947,279,1021,305"/>
 <area shape="rect" id="node16" href="$d5/df4/classOVSDB_1_1OvsdbEntryBase.html" title="OVSDB::OvsdbEntryBase" alt="" coords="1237,279,1419,305"/>
-<area shape="rect" id="node17" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1631,724,1761,751"/>
+<area shape="rect" id="node17" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1631,724,1761,751"/>
 <area shape="rect" id="node25" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="2021,963,2184,989"/>
 <area shape="rect" id="node26" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="2008,529,2197,570"/>
 <area shape="rect" id="node31" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="2016,655,2189,681"/>

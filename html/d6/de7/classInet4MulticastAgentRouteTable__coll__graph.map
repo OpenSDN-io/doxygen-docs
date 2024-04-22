@@ -1,6 +1,6 @@
 <map id="Inet4MulticastAgentRouteTable" name="Inet4MulticastAgentRouteTable">
 <area shape="rect" id="node5" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="794,869,854,896"/>
-<area shape="rect" id="node2" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1153,88,1284,115"/>
+<area shape="rect" id="node2" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1153,88,1284,115"/>
 <area shape="rect" id="node10" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="1496,184,1659,211"/>
 <area shape="rect" id="node15" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="1491,100,1664,127"/>
 <area shape="rect" id="node40" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="1540,263,1615,289"/>

@@ -1,5 +1,5 @@
 <map id="PktFlowInfo::RouteToPrefixLen" name="PktFlowInfo::RouteToPrefixLen">
 <area shape="rect" id="node2" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="278,5,445,46"/>
-<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="272,70,451,111"/>
+<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="272,70,451,111"/>
 <area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="285,136,437,163"/>
 </map>

@@ -19,7 +19,7 @@
 <area shape="rect" id="node25" href="$d5/d6d/classIFMapAgentParser.html" title="IFMapAgentParser" alt="" coords="951,1209,1089,1236"/>
 <area shape="rect" id="node39" href="$db/d35/classVrfTable.html" title="VrfTable" alt="" coords="983,1743,1057,1769"/>
 <area shape="rect" id="node11" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1685,987,1747,1013"/>
-<area shape="rect" id="node18" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="577,217,708,244"/>
+<area shape="rect" id="node18" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="577,217,708,244"/>
 <area shape="rect" id="node24" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1641,213,1791,240"/>
 <area shape="rect" id="node30" href="$de/d13/classAgentConfig.html" title="AgentConfig" alt="" coords="1665,1075,1767,1101"/>
 <area shape="rect" id="node45" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1659,803,1773,829"/>

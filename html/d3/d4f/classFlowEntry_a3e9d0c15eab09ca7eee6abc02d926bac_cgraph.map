@@ -34,7 +34,7 @@
 <area shape="rect" id="node32" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="809,1093,949,1119"/>
 <area shape="rect" id="node21" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="1040,1194,1237,1221"/>
 <area shape="rect" id="node30" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="795,1027,962,1068"/>
-<area shape="rect" id="node34" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="789,1733,968,1775"/>
+<area shape="rect" id="node34" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="789,1733,968,1775"/>
 <area shape="rect" id="node35" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="819,1799,938,1826"/>
 <area shape="rect" id="node36" href="$d9/ddc/classFlowHandler.html#a916d65e5e1999739a991a8dbfc29b26a" title="FlowHandler::UnknownVnList" alt="" coords="773,1245,985,1271"/>
 <area shape="rect" id="node37" href="$d9/ddc/classFlowHandler.html#ae91acc57b72b670c730cb8e2a53d9d14" title="FlowHandler::UnknownVn" alt="" coords="784,1295,973,1322"/>
@@ -42,7 +42,7 @@
 <area shape="rect" id="node39" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="791,1413,966,1439"/>
 <area shape="rect" id="node40" href="$d4/d3d/classAgentPath.html#adbb3e137ddd2ae97891b544496b820f1" title="AgentPath::origin_vn" alt="" coords="801,1463,957,1490"/>
 <area shape="rect" id="node41" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="809,1514,948,1541"/>
-<area shape="rect" id="node42" href="$d4/d57/classAgentRoute.html#ac00c6adb09d082b606de09701de88a63" title="! Returns the length of a stored prefix address " alt="" coords="807,1565,950,1607"/>
+<area shape="rect" id="node42" href="$d4/d57/classAgentRoute.html#ac00c6adb09d082b606de09701de88a63" title="Returns the length of a stored prefix address. " alt="" coords="807,1565,950,1607"/>
 <area shape="rect" id="node43" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="807,1631,951,1658"/>
 <area shape="rect" id="node44" href="$d8/da7/classVrfNH.html#a71d8a131e926b6de4a5d4a5d021654b1" title="VrfNH::GetVrf" alt="" coords="823,1682,934,1709"/>
 <area shape="rect" id="node47" href="$d5/d21/classVmInterface.html#aa07a202f53a28c39f09dddbeefaa607d" title="VmInterface::max_flows" alt="" coords="515,597,695,623"/>

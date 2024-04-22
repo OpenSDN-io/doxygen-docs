@@ -16,7 +16,7 @@
 <area shape="rect" id="node28" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="308,1159,407,1185"/>
 <area shape="rect" id="node29" href="$d8/d00/classVnEntry.html#aae3c427a380b487ce39541979400c4ef" title="VnEntry::mac_ip_learning\l_enable" alt="" coords="264,1210,451,1251"/>
 <area shape="rect" id="node30" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="298,1276,417,1303"/>
-<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="268,1327,447,1369"/>
+<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="268,1327,447,1369"/>
 <area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a95e375c57b6cfa5799037b5c154e584d" title="Agent::mac_learning\l_proto" alt="" coords="279,1393,435,1434"/>
 <area shape="rect" id="node33" href="$d9/d3e/classMacLearningProto.html#a04aef62c9a74a9bdbfd01936eb500aa7" title="MacLearningProto::Find" alt="" coords="271,1459,443,1485"/>
 <area shape="rect" id="node34" href="$d4/db4/classPathPreferenceSM.html#a041201314403f8ddeedfa78a31b2b855" title="PathPreferenceSM::wait\l_for_traffic" alt="" coords="270,1510,445,1551"/>

@@ -4,7 +4,7 @@
 <area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1110,343,1293,369"/>
 <area shape="rect" id="node7" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="535,111,761,137"/>
 <area shape="rect" id="node19" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="553,279,743,305"/>
-<area shape="rect" id="node20" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="559,330,737,371"/>
+<area shape="rect" id="node20" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="559,330,737,371"/>
 <area shape="rect" id="node21" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="587,396,709,423"/>
 <area shape="rect" id="node22" href="$dc/d3a/classIcmpv6Proto.html#a682bb0fdbb23f520144981f722a7d16a" title="Icmpv6Proto::UnsolNaEntry" alt="" coords="547,228,749,255"/>
 <area shape="rect" id="node24" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="576,497,720,524"/>

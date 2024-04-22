@@ -7,7 +7,7 @@
 <area shape="rect" id="node11" href="$df/dd0/classMplsTable.html#ab2832528f492ba8f436e54270bbab1e8" title="MplsTable::FindMplsLabel" alt="" coords="293,309,478,336"/>
 <area shape="rect" id="node15" href="$df/de8/classMplsLabel.html#a120304e249c7b7391d2448a966d21f95" title="MplsLabel::nexthop" alt="" coords="311,563,459,589"/>
 <area shape="rect" id="node16" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="598,715,738,741"/>
-<area shape="rect" id="node17" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="296,614,475,655"/>
+<area shape="rect" id="node17" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="296,614,475,655"/>
 <area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#a789fc4f427b7c46a382d431547fe0c72" title="AgentPath::set_peer\l_sequence_number" alt="" coords="309,679,461,721"/>
 <area shape="rect" id="node19" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="581,785,755,812"/>
 <area shape="rect" id="node20" href="$d4/d3d/classAgentPath.html#a35e86ca4311bf5ab526fb0c0bc3dd77c" title="AgentPath::set_dest\l_vn_list" alt="" coords="310,797,461,838"/>

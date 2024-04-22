@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="307,95,472,137"/>
 <area shape="rect" id="node6" href="$d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="300,212,479,239"/>
 <area shape="rect" id="node12" href="$dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="275,521,504,562"/>
-<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="569,70,748,111"/>
+<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="569,70,748,111"/>
 <area shape="rect" id="node5" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="574,5,743,46"/>
 <area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="596,237,721,264"/>
 <area shape="rect" id="node8" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="603,288,715,315"/>

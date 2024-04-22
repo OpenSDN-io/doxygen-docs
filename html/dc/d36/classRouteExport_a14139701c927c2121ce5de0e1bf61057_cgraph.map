@@ -36,7 +36,7 @@
 <area shape="rect" id="node23" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="805,208,904,235"/>
 <area shape="rect" id="node24" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="770,157,939,184"/>
 <area shape="rect" id="node35" href="$da/d25/classAgentXmppChannel.html#a590dc25862c7d006b89fd609b8ed3a4e" title="AgentXmppChannel::agent" alt="" coords="757,879,953,905"/>
-<area shape="rect" id="node36" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="765,1519,944,1561"/>
+<area shape="rect" id="node36" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="765,1519,944,1561"/>
 <area shape="rect" id="node37" href="$d3/df5/classMacAddress.html#a6fb1333e2f0a73a54b04ab3d81876561" title="MacAddress::BroadcastMac" alt="" coords="755,929,954,956"/>
 <area shape="rect" id="node38" href="$dc/d36/classRouteExport.html#affdb294cf5610bbd4baaf1b8f4bc7a9a" title="RouteExport::MulticastRoute\lCanDissociate" alt="" coords="752,762,957,803"/>
 <area shape="rect" id="node39" href="$da/d25/classAgentXmppChannel.html#a08f396faded8e72e4fbd9d3d5029ee3c" title="AgentXmppChannel::Controller\lSendMcastRouteDelete" alt="" coords="1021,1162,1243,1203"/>

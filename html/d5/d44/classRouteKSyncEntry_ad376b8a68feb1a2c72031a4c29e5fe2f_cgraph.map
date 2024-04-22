@@ -42,7 +42,7 @@
 <area shape="rect" id="node29" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="561,309,673,336"/>
 <area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="516,360,719,387"/>
 <area shape="rect" id="node31" href="$d8/d35/classPathPreference.html#a1192c808001f4e82442205bb834809f3" title="PathPreference::wait\l_for_traffic" alt="" coords="539,411,695,453"/>
-<area shape="rect" id="node38" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="528,1371,707,1413"/>
+<area shape="rect" id="node38" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="528,1371,707,1413"/>
 <area shape="rect" id="node39" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="534,1437,701,1478"/>
 <area shape="rect" id="node41" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="552,1503,683,1529"/>
 <area shape="rect" id="node42" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="568,1320,667,1347"/>

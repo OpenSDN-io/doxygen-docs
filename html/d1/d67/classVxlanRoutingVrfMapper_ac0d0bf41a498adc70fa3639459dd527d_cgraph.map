@@ -8,7 +8,7 @@
 <area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1072,791,1248,817"/>
 <area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1321,791,1525,817"/>
 <area shape="rect" id="node7" href="$de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="561,346,724,387"/>
-<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="808,405,987,446"/>
+<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="808,405,987,446"/>
 <area shape="rect" id="node9" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="813,281,982,322"/>
 <area shape="rect" id="node10" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="560,281,725,322"/>
 <area shape="rect" id="node11" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="561,463,724,505"/>

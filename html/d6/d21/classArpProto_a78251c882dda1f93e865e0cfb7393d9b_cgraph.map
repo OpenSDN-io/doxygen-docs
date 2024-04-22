@@ -27,7 +27,7 @@
 <area shape="rect" id="node23" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="487,1978,663,2005"/>
 <area shape="rect" id="node26" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="728,537,955,564"/>
 <area shape="rect" id="node27" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="480,1101,669,1128"/>
-<area shape="rect" id="node28" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="752,824,931,866"/>
+<area shape="rect" id="node28" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="752,824,931,866"/>
 <area shape="rect" id="node29" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="780,1257,903,1284"/>
 <area shape="rect" id="node30" href="$d6/d21/classArpProto.html#aabcc868a9b426058bd762729e4760d95" title="ArpProto::GratuitousArpEntry" alt="" coords="469,1202,680,1229"/>
 <area shape="rect" id="node31" href="$d6/d21/classArpProto.html#aac330f0a9bd413fc5884843641d81031" title="ArpProto::DeleteGratuitous\lArpEntry" alt="" coords="743,1351,940,1392"/>

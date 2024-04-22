@@ -8,7 +8,7 @@
 <area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="301,501,475,528"/>
 <area shape="rect" id="node21" href="$da/dcd/classInetUnicastAgentRouteTable.html#a073b3c877351e5162e08f14e102a04c6" title="InetUnicastAgentRouteTable\l::FindResolveRoute" alt="" coords="285,370,491,411"/>
 <area shape="rect" id="node36" href="$d8/dfe/classAgent.html#a07dfd8db3b505175642d2b515c7d51fb" title="Agent::vhost_default\l_gateway" alt="" coords="309,553,467,594"/>
-<area shape="rect" id="node37" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="299,618,477,659"/>
+<area shape="rect" id="node37" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="299,618,477,659"/>
 <area shape="rect" id="node38" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="305,683,471,725"/>
 <area shape="rect" id="node39" href="$da/dcd/classInetUnicastAgentRouteTable.html#ad19d376841d249ba861532445d62916f" title="InetUnicastAgentRouteTable\l::AddGatewayRoute" alt="" coords="285,305,491,346"/>
 <area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="572,39,748,65"/>

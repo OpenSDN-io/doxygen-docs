@@ -11,7 +11,7 @@
 <area shape="rect" id="node9" href="$d8/d13/classKSyncDBObject.html" title="KSyncDBObject" alt="" coords="355,121,477,148"/>
 <area shape="rect" id="node34" href="$de/d08/classPortIpcHandler.html" title="PortIpcHandler" alt="" coords="357,972,475,999"/>
 <area shape="rect" id="node16" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="799,1207,859,1233"/>
-<area shape="rect" id="node13" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="1151,789,1281,816"/>
+<area shape="rect" id="node13" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1151,789,1281,816"/>
 <area shape="rect" id="node21" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="1517,845,1680,872"/>
 <area shape="rect" id="node22" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="1504,1143,1693,1185"/>
 <area shape="rect" id="node27" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="1512,1324,1685,1351"/>

@@ -14,7 +14,7 @@
 <area shape="rect" id="node30" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="651,1380,791,1407"/>
 <area shape="rect" id="node31" href="$d7/d22/classEcmpData.html#a4eeb96a46d4db62034dc8fd70ff07337" title="EcmpData::GetLocalNextHop" alt="" coords="309,1089,520,1116"/>
 <area shape="rect" id="node16" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="638,589,805,630"/>
-<area shape="rect" id="node15" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="632,523,811,565"/>
+<area shape="rect" id="node15" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="632,523,811,565"/>
 <area shape="rect" id="node40" href="$d5/d96/classFlowMgmtDbClient.html#a27c58f12621585f48cb1248d4cc1baa1" title="FlowMgmtDbClient::Handle\lTrackingIpChange" alt="" coords="315,1322,514,1363"/>
 <area shape="rect" id="node44" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="331,1607,498,1649"/>
 <area shape="rect" id="node45" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="343,1673,487,1700"/>

@@ -3,7 +3,7 @@
 <area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="231,56,407,83"/>
 <area shape="rect" id="node6" href="$da/dcd/classInetUnicastAgentRouteTable.html#aa9efd5ca75880d632a2f07940645db33" title="InetUnicastAgentRouteTable\l::GetSuperNetRoute" alt="" coords="216,107,421,149"/>
 <area shape="rect" id="node10" href="$d4/d3d/classAgentPath.html#ab023f19bfe90f27ccbc6420d26a30c4d" title="AgentPath::set_gw_ip" alt="" coords="238,173,399,200"/>
-<area shape="rect" id="node11" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="229,225,408,266"/>
+<area shape="rect" id="node11" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="229,225,408,266"/>
 <area shape="rect" id="node12" href="$d4/d3d/classAgentPath.html#a297b43c6beeca4d858be43d0d7f9d41f" title="AgentPath::ResetDependant\lRoute" alt="" coords="217,290,420,331"/>
 <area shape="rect" id="node14" href="$d4/d3d/classAgentPath.html#abc49b2a0d61e175d649862dc88a474fd" title="AgentPath::set_unresolved" alt="" coords="221,356,416,383"/>
 <area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#af6343e44e0c09d95b5e5a691ac6d3382" title="AgentPath::ClearDependant\lRoute" alt="" coords="218,407,419,449"/>

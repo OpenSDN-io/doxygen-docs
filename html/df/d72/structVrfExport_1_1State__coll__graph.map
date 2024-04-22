@@ -5,7 +5,7 @@
 <area shape="rect" id="node5" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="6,681,135,708"/>
 <area shape="rect" id="node6" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="233,683,447,725"/>
 <area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; AgentRouteTable \&gt;" alt="" coords="222,768,458,795"/>
-<area shape="rect" id="node7" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="611,835,741,861"/>
+<area shape="rect" id="node7" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="611,835,741,861"/>
 <area shape="rect" id="node15" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="971,744,1133,771"/>
 <area shape="rect" id="node16" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="957,795,1147,837"/>
 <area shape="rect" id="node21" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="965,861,1139,888"/>

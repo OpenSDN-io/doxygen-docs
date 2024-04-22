@@ -1,7 +1,7 @@
 <map id="TsnElector::RouteNotify" name="TsnElector::RouteNotify">
 <area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="269,5,387,32"/>
 <area shape="rect" id="node3" href="$dc/dd4/classAgentParam.html#aeb56cb6a2e162f22eb00993b56020126" title="AgentParam::IsConfigured\lTsnHostRoute" alt="" coords="233,57,423,98"/>
-<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="239,122,417,163"/>
+<area shape="rect" id="node4" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="239,122,417,163"/>
 <area shape="rect" id="node5" href="$d5/d9f/classInetUnicastRouteEntry.html#aa421ef2ce5261c4ff2c9e31e54d34ab5" title="InetUnicastRouteEntry\l::GetAddressString" alt="" coords="245,187,411,229"/>
 <area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="239,253,417,280"/>
 <area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#af4f292c234beadd1061ba03985fcf485" title="AgentParam::vhost_addr" alt="" coords="237,304,419,331"/>

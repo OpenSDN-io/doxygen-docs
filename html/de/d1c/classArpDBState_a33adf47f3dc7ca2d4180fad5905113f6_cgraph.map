@@ -1,6 +1,6 @@
 <map id="ArpDBState::Delete" name="ArpDBState::Delete">
 <area shape="rect" id="node2" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="215,5,382,46"/>
-<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="209,70,388,111"/>
+<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="209,70,388,111"/>
 <area shape="rect" id="node4" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="237,136,360,163"/>
 <area shape="rect" id="node5" href="$d6/d21/classArpProto.html#a2774217efa574e2d73da0f25cd8c0209" title="ArpProto::FindUpperBound\lArpEntry" alt="" coords="203,187,395,229"/>
 <area shape="rect" id="node6" href="$d6/d21/classArpProto.html#a5d49714ad83391a23616ec0466931769" title="ArpProto::arp_cache" alt="" coords="223,253,375,280"/>

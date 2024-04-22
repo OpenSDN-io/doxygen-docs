@@ -19,7 +19,7 @@
 <area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1235,165,1413,192"/>
 <area shape="rect" id="node14" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="762,5,945,32"/>
 <area shape="rect" id="node21" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="503,466,670,507"/>
-<area shape="rect" id="node22" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="497,531,676,573"/>
+<area shape="rect" id="node22" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="497,531,676,573"/>
 <area shape="rect" id="node23" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="525,597,648,624"/>
 <area shape="rect" id="node24" href="$d6/d21/classArpProto.html#a2774217efa574e2d73da0f25cd8c0209" title="ArpProto::FindUpperBound\lArpEntry" alt="" coords="491,298,683,339"/>
 <area shape="rect" id="node25" href="$d6/d21/classArpProto.html#a5d49714ad83391a23616ec0466931769" title="ArpProto::arp_cache" alt="" coords="511,364,663,391"/>

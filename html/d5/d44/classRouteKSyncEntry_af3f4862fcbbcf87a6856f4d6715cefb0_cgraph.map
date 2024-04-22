@@ -1,6 +1,6 @@
 <map id="RouteKSyncEntry::RouteKSyncEntry" name="RouteKSyncEntry::RouteKSyncEntry">
 <area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html#adc94209fc35201be6b9b082911337c9b" title="AgentRoute::GetTableType" alt="" coords="297,5,489,32"/>
-<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="304,57,483,98"/>
+<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="304,57,483,98"/>
 <area shape="rect" id="node4" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="310,122,477,163"/>
 <area shape="rect" id="node5" href="$d4/d57/classAgentRoute.html#a4ab2e9e00a91215fb5bc6fd43d107d07" title="AgentRoute::FindLocalVmPortPath" alt="" coords="273,188,514,215"/>
 <area shape="rect" id="node10" href="$d4/d3d/classAgentPath.html#a7bb6c9faaf9f193c7ec598202af05b09" title="AgentPath::IsDynamicLearnt\lRoute" alt="" coords="290,239,497,281"/>

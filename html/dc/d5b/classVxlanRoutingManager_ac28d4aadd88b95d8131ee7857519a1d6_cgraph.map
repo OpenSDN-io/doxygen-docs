@@ -19,7 +19,7 @@
 <area shape="rect" id="node26" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="538,193,665,220"/>
 <area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="760,267,936,293"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="769,317,927,344"/>
-<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="759,369,937,410"/>
+<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="759,369,937,410"/>
 <area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1021,375,1208,417"/>
 <area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1021,441,1208,482"/>
 <area shape="rect" id="node10" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1012,310,1217,351"/>

@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#ac32cfcd6a11cd0050853c45a682f1464" title="VrfEntry::GetBridgeRoute\lTable" alt="" coords="291,70,475,111"/>
 <area shape="rect" id="node6" href="$d8/d2e/classBridgeAgentRouteTable.html#a6aa8974fda54450ef9cef72bcc6ec00c" title="BridgeAgentRouteTable\l::DeleteBridgeRoute" alt="" coords="296,247,469,289"/>
 <area shape="rect" id="node39" href="$d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="293,135,472,177"/>
-<area shape="rect" id="node42" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix\&lt; IpAddress\l \&gt;::prefix_address" alt="" coords="533,431,747,473"/>
+<area shape="rect" id="node42" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="533,431,747,473"/>
 <area shape="rect" id="node43" href="$da/dcd/classInetUnicastAgentRouteTable.html#a95e0a0e766ea61f8914edfb197da18d6" title="InetUnicastAgentRouteTable\l::DeleteEvpnRoute" alt="" coords="280,555,485,597"/>
 <area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="801,53,977,80"/>
 <area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1033,53,1237,80"/>

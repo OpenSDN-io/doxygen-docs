@@ -38,7 +38,7 @@
 <area shape="rect" id="node35" href="$d5/d9f/classInetUnicastRouteEntry.html#ad5f438d0075ee200dda00ac72f42d2d2" title="InetUnicastRouteEntry\l::ipam_subnet_route" alt="" coords="1099,1011,1266,1053"/>
 <area shape="rect" id="node36" href="$d5/d9f/classInetUnicastRouteEntry.html#a82920d2581971814c641721cf9bd2af6" title="InetUnicastRouteEntry\l::ipam_host_route" alt="" coords="1099,946,1266,987"/>
 <area shape="rect" id="node37" href="$d5/d9f/classInetUnicastRouteEntry.html#a7b971f402113c85b0a7b04b5334eb29a" title="InetUnicastRouteEntry\l::proxy_arp" alt="" coords="1099,881,1266,922"/>
-<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="548,798,727,839"/>
+<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="548,798,727,839"/>
 <area shape="rect" id="node40" href="$de/d6b/classAddress.html#a212395ba95041b3c303efe85cf2af109" title="Address::GetIp4SubnetAddress" alt="" coords="526,864,749,891"/>
 <area shape="rect" id="node41" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="526,696,749,723"/>
 <area shape="rect" id="node42" href="$d5/d9f/classInetUnicastRouteEntry.html#ab9303c2a7c8bdc9a07a8b364980db3d2" title="InetUnicastRouteEntry\l::UpdateIpamHostFlags" alt="" coords="550,915,725,957"/>

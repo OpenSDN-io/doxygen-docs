@@ -1,5 +1,5 @@
 <map id="InetUnicastAgentRouteTable::ResyncSubnetRoutes" name="InetUnicastAgentRouteTable::ResyncSubnetRoutes">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="281,5,460,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="281,5,460,46"/>
 <area shape="rect" id="node3" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="766,31,933,73"/>
 <area shape="rect" id="node4" href="$de/d6b/classAddress.html#a212395ba95041b3c303efe85cf2af109" title="Address::GetIp4SubnetAddress" alt="" coords="259,121,482,148"/>
 <area shape="rect" id="node5" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="259,172,482,199"/>

@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#a5511cad61266b2de197dc2b469e4f723" title="AgentRoute::is_multicast" alt="" coords="245,56,429,83"/>
 <area shape="rect" id="node4" href="$dc/dd7/classEvpnRouteEntry.html#a43b2b590d7a88e7dee8044154f38d672" title="EvpnRouteEntry::IsType2" alt="" coords="247,107,428,133"/>
 <area shape="rect" id="node8" href="$d4/d57/classAgentRoute.html#a4ab2e9e00a91215fb5bc6fd43d107d07" title="AgentRoute::FindLocalVmPortPath" alt="" coords="217,157,458,184"/>
-<area shape="rect" id="node13" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="248,209,427,250"/>
+<area shape="rect" id="node13" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="248,209,427,250"/>
 <area shape="rect" id="node14" href="$dc/dd7/classEvpnRouteEntry.html#a1b292c0cf704555690aed4805d6eba83" title="EvpnRouteEntry::mac" alt="" coords="257,275,417,301"/>
 <area shape="rect" id="node15" href="$d4/d57/classAgentRoute.html#a5ef1c9cd15040eb818a897725cf8597e" title="AgentRoute::vrf_id" alt="" coords="266,325,409,352"/>
 <area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a95e375c57b6cfa5799037b5c154e584d" title="Agent::mac_learning\l_proto" alt="" coords="259,377,415,418"/>

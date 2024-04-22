@@ -1,6 +1,6 @@
 <map id="VxlanRoutingState" name="VxlanRoutingState">
 <area shape="rect" id="node2" href="$d3/def/structDBState.html" title="DBState" alt="" coords="481,1775,556,1801"/>
-<area shape="rect" id="node3" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="453,1348,584,1375"/>
+<area shape="rect" id="node3" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="453,1348,584,1375"/>
 <area shape="rect" id="node11" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="837,451,1000,477"/>
 <area shape="rect" id="node12" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="824,603,1013,645"/>
 <area shape="rect" id="node17" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="832,720,1005,747"/>

@@ -1,5 +1,5 @@
 <map id="RouteTable" name="RouteTable">
-<area shape="rect" id="node4" href="$dc/d2b/classAgentRouteTable.html" title="AgentRouteTable" alt="" coords="424,115,555,141"/>
+<area shape="rect" id="node4" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="424,115,555,141"/>
 <area shape="rect" id="node9" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="449,376,530,403"/>
 <area shape="rect" id="node2" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="160,245,235,272"/>
 <area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="5,245,112,272"/>

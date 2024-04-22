@@ -17,7 +17,7 @@
 <area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1302,336,1485,363"/>
 <area shape="rect" id="node5" href="$da/dcd/classInetUnicastAgentRouteTable.html#a4e25de64eef5d352574770b22772c5a1" title="InetUnicastAgentRouteTable\l::GetTableType" alt="" coords="505,63,711,105"/>
 <area shape="rect" id="node6" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="525,129,691,170"/>
-<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="519,325,697,366"/>
+<area shape="rect" id="node8" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="519,325,697,366"/>
 <area shape="rect" id="node9" href="$da/dcd/classInetUnicastAgentRouteTable.html#aa9efd5ca75880d632a2f07940645db33" title="InetUnicastAgentRouteTable\l::GetSuperNetRoute" alt="" coords="505,390,711,431"/>
 <area shape="rect" id="node13" href="$dc/d2b/classAgentRouteTable.html#a7b46a5c85785bbdd22badd849f64e642" title="AgentRouteTable::Evaluate\lUnresolvedRoutes" alt="" coords="510,455,706,497"/>
 <area shape="rect" id="node14" href="$da/dcd/classInetUnicastAgentRouteTable.html#ad77056ed4b75263569a77934f1261077" title="InetUnicastAgentRouteTable\l::GetSubnetAddress" alt="" coords="505,194,711,235"/>

@@ -31,7 +31,7 @@
 <area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="776,1385,952,1411"/>
 <area shape="rect" id="node29" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="751,566,977,593"/>
 <area shape="rect" id="node30" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="769,617,959,643"/>
-<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="775,820,953,861"/>
+<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="775,820,953,861"/>
 <area shape="rect" id="node32" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="803,769,925,795"/>
 <area shape="rect" id="node33" href="$dc/d3a/classIcmpv6Proto.html#a682bb0fdbb23f520144981f722a7d16a" title="Icmpv6Proto::UnsolNaEntry" alt="" coords="763,667,965,694"/>
 <area shape="rect" id="node34" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="777,886,951,913"/>

@@ -20,7 +20,7 @@
 <area shape="rect" id="node50" href="$d9/db2/pkt__flow__info_8cc.html#a18cc1cdff4f3b8c6bc0e3172b435602c" title="NhToVrf" alt="" coords="574,1643,647,1669"/>
 <area shape="rect" id="node35" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="765,753,992,780"/>
 <area shape="rect" id="node4" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="1049,122,1215,163"/>
-<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="1043,5,1221,46"/>
+<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1043,5,1221,46"/>
 <area shape="rect" id="node6" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="1056,71,1208,97"/>
 <area shape="rect" id="node8" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="1073,243,1191,269"/>
 <area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="1053,293,1211,320"/>
@@ -28,7 +28,7 @@
 <area shape="rect" id="node11" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="1272,445,1469,472"/>
 <area shape="rect" id="node17" href="$d4/d57/classAgentRoute.html#adc94209fc35201be6b9b082911337c9b" title="AgentRoute::GetTableType" alt="" coords="783,176,975,203"/>
 <area shape="rect" id="node18" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="795,227,963,253"/>
-<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="! Sets the length of a stored prefix address " alt="" coords="797,278,960,319"/>
+<area shape="rect" id="node19" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="797,278,960,319"/>
 <area shape="rect" id="node21" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="820,1389,937,1416"/>
 <area shape="rect" id="node22" href="$d5/d5e/classPktFlowInfo.html#a2740f9c2cff95cfa593563e8ed494565" title="PktFlowInfo::ChangeEncap" alt="" coords="513,816,708,843"/>
 <area shape="rect" id="node23" href="$d5/d21/classVmInterface.html#a23ac5c4261a48b1449da37d30bfd95e9" title="VmInterface::vrf_assign_acl" alt="" coords="509,867,712,893"/>

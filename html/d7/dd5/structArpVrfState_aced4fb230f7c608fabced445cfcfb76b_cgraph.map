@@ -1,5 +1,5 @@
 <map id="ArpVrfState::EvpnRouteUpdate" name="ArpVrfState::EvpnRouteUpdate">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="805,5,984,46"/>
+<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="805,5,984,46"/>
 <area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="281,724,453,751"/>
 <area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1077,593,1259,620"/>
 <area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1550,695,1727,721"/>

@@ -6,7 +6,7 @@
 <area shape="rect" id="node18" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="344,255,467,281"/>
 <area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="301,488,509,515"/>
 <area shape="rect" id="node22" href="$de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="324,357,487,398"/>
-<area shape="rect" id="node23" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="316,422,495,463"/>
+<area shape="rect" id="node23" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="316,422,495,463"/>
 <area shape="rect" id="node24" href="$da/dfb/classBridgeRouteEntry.html#ac9736fe7fab92aa19da8a37597459efd" title="BridgeRouteEntry::GetActive\lLabel" alt="" coords="302,670,509,711"/>
 <area shape="rect" id="node27" href="$d5/d77/classOVSDB_1_1UnicastMacRemoteEntry.html#a8f2c635348ec69fa3b3815749fad5697" title="OVSDB::UnicastMacRemoteEntry\l::self_exported_route" alt="" coords="288,539,523,581"/>
 <area shape="rect" id="node28" href="$d5/d77/classOVSDB_1_1UnicastMacRemoteEntry.html#aa6dd780d614d98a8b0dcc259d3b0cd71" title="OVSDB::UnicastMacRemoteEntry\l::self_sequence" alt="" coords="288,605,523,646"/>

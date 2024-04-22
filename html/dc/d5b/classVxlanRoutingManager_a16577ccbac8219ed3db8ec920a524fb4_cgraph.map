@@ -20,7 +20,7 @@
 <area shape="rect" id="node13" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="1080,56,1275,83"/>
 <area shape="rect" id="node14" href="$d3/da7/classDBTablePartBase.html#a34ecfb88b157cf239d075b6732e9e438" title="DBTablePartBase::GetFirst" alt="" coords="1082,107,1273,133"/>
 <area shape="rect" id="node15" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1339,640,1483,667"/>
-<area shape="rect" id="node16" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="1088,457,1267,498"/>
+<area shape="rect" id="node16" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1088,457,1267,498"/>
 <area shape="rect" id="node17" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="1093,391,1262,433"/>
 <area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="1089,158,1265,199"/>
 <area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a145882169c492c445cfea2ad0d4e3489" title="DBTablePartBase::GetNext" alt="" coords="1080,5,1275,32"/>

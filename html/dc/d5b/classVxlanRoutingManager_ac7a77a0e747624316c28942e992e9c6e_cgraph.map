@@ -9,7 +9,7 @@
 <area shape="rect" id="node13" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="275,392,415,419"/>
 <area shape="rect" id="node14" href="$d0/daf/classTunnelNH.html#ab6838feedf038e489355b779bfe2acf5" title="TunnelNH::GetDip" alt="" coords="277,443,414,469"/>
 <area shape="rect" id="node15" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="266,544,425,571"/>
-<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="AgentRoutePrefix::prefix\l_address" alt="" coords="533,322,712,363"/>
+<area shape="rect" id="node5" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="533,322,712,363"/>
 <area shape="rect" id="node22" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="219,595,472,621"/>
 <area shape="rect" id="node23" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="264,645,427,672"/>
 <area shape="rect" id="node6" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="538,174,707,215"/>
