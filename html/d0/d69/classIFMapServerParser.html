@@ -122,13 +122,13 @@ $(document).ready(function(){initNavTree('d0/d69/classIFMapServerParser.html','.
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:aa662de0a548672f94d570fc0e92bdc03"><td class="memItemLeft" align="right" valign="top">typedef boost::function&lt; bool(const <br class="typebreak"/>
+<tr class="memitem:a946f45b192bc43de535c5b6108c1f946"><td class="memItemLeft" align="right" valign="top">typedef boost::function&lt; bool(const <br class="typebreak"/>
 pugi::xml_node <br class="typebreak"/>
-&amp;, std::auto_ptr<br class="typebreak"/>
-&lt; <a class="el" href="../../da/d14/structAutogenProperty.html">AutogenProperty</a> &gt; *) &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">MetadataParseFn</a></td></tr>
-<tr class="separator:aa662de0a548672f94d570fc0e92bdc03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+&amp;, std::unique_ptr<br class="typebreak"/>
+&lt; <a class="el" href="../../da/d14/structAutogenProperty.html">AutogenProperty</a> &gt; *) &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">MetadataParseFn</a></td></tr>
+<tr class="separator:a946f45b192bc43de535c5b6108c1f946"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f9b76928398ff51a596888f65424165"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; std::string, <br class="typebreak"/>
-<a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">MetadataParseFn</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a5f9b76928398ff51a596888f65424165">MetadataParseMap</a></td></tr>
+<a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">MetadataParseFn</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a5f9b76928398ff51a596888f65424165">MetadataParseMap</a></td></tr>
 <tr class="separator:a5f9b76928398ff51a596888f65424165"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc069cc34a27384ec8e5766d46118894"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; struct <br class="typebreak"/>
 <a class="el" href="../../d7/df9/structDBRequest.html">DBRequest</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#afc069cc34a27384ec8e5766d46118894">RequestList</a></td></tr>
@@ -140,7 +140,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a46d6c02ec8c25e33b5c581a5ebbff9e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a195e3f95782d1fc2ef45895a65393fab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a195e3f95782d1fc2ef45895a65393fab">ParseResults</a> (const pugi::xml_document &amp;xdoc, <a class="el" href="../../d0/d69/classIFMapServerParser.html#afc069cc34a27384ec8e5766d46118894">RequestList</a> *list) const </td></tr>
 <tr class="separator:a195e3f95782d1fc2ef45895a65393fab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0076c81de5554947e0b8fc8b0c3a17af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a0076c81de5554947e0b8fc8b0c3a17af">MetadataRegister</a> (const std::string &amp;metadata, <a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">MetadataParseFn</a> parser)</td></tr>
+<tr class="memitem:a0076c81de5554947e0b8fc8b0c3a17af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a0076c81de5554947e0b8fc8b0c3a17af">MetadataRegister</a> (const std::string &amp;metadata, <a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">MetadataParseFn</a> parser)</td></tr>
 <tr class="separator:a0076c81de5554947e0b8fc8b0c3a17af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6f890927e85ac9f0be5e53712847a23"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d69/classIFMapServerParser.html#aa6f890927e85ac9f0be5e53712847a23">MetadataClear</a> (const std::string &amp;module)</td></tr>
 <tr class="separator:aa6f890927e85ac9f0be5e53712847a23"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -181,12 +181,12 @@ Static Private Attributes</h2></td></tr>
 <div class="textblock">
 <p>Definition at line <a class="el" href="../../d6/d7f/ifmap__server__parser_8h_source.html#l00021">21</a> of file <a class="el" href="../../d6/d7f/ifmap__server__parser_8h_source.html">ifmap_server_parser.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a class="anchor" id="aa662de0a548672f94d570fc0e92bdc03"></a>
+<a class="anchor" id="a946f45b192bc43de535c5b6108c1f946"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef boost::function&lt; bool(const pugi::xml_node &amp;, std::auto_ptr&lt;<a class="el" href="../../da/d14/structAutogenProperty.html">AutogenProperty</a> &gt; *) &gt; <a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">IFMapServerParser::MetadataParseFn</a></td>
+          <td class="memname">typedef boost::function&lt; bool(const pugi::xml_node &amp;, std::unique_ptr&lt;<a class="el" href="../../da/d14/structAutogenProperty.html">AutogenProperty</a>&gt; *) &gt; <a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">IFMapServerParser::MetadataParseFn</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -200,7 +200,7 @@ Static Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;std::string, <a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">MetadataParseFn</a>&gt; <a class="el" href="../../d0/d69/classIFMapServerParser.html#a5f9b76928398ff51a596888f65424165">IFMapServerParser::MetadataParseMap</a></td>
+          <td class="memname">typedef std::map&lt;std::string, <a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">MetadataParseFn</a>&gt; <a class="el" href="../../d0/d69/classIFMapServerParser.html#a5f9b76928398ff51a596888f65424165">IFMapServerParser::MetadataParseMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -329,7 +329,7 @@ Static Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d69/classIFMapServerParser.html#aa662de0a548672f94d570fc0e92bdc03">MetadataParseFn</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d69/classIFMapServerParser.html#a946f45b192bc43de535c5b6108c1f946">MetadataParseFn</a>&#160;</td>
           <td class="paramname"><em>parser</em>&#160;</td>
         </tr>
         <tr>
