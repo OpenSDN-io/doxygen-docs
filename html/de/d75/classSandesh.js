@@ -165,7 +165,7 @@ var classSandesh =
     [ "msg_stats_", "de/d75/classSandesh.html#ab2389dd62dfafb656e96c159deb08a12", null ],
     [ "name_", "de/d75/classSandesh.html#a399e6c49d9ecb350b238ad928372501a", null ],
     [ "node_type_", "de/d75/classSandesh.html#a685a21d63c58c106e1fa1f273b96054f", null ],
-    [ "recv_queue_", "de/d75/classSandesh.html#a508f7d6aac6a9e797fbe6c559a7f9aff", null ],
+    [ "recv_queue_", "de/d75/classSandesh.html#a366a5a1900067164a99e90b683fd2149", null ],
     [ "recv_task_id_", "de/d75/classSandesh.html#a8b5fb8b3a00df78f134a48a01eae90b1", null ],
     [ "response_callback_", "de/d75/classSandesh.html#ac505c8c28fc2b41152da563a8cb7eede", null ],
     [ "role_", "de/d75/classSandesh.html#ac38a396c90dd93d239694af459fd391d", null ],

@@ -209,7 +209,7 @@ $(document).ready(function(){initNavTree('d5/dd9/sandesh__trace_8cc_source.html'
 <div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;        }</div>
 <div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;        <span class="keywordflow">return</span>;</div>
 <div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    }</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    std::auto_ptr&lt;SandeshTraceRequestRunner&gt; trace_req_runner(<span class="keyword">new</span></div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    std::unique_ptr&lt;SandeshTraceRequestRunner&gt; trace_req_runner(<span class="keyword">new</span></div>
 <div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;            <a class="code" href="../../d3/deb/classSandeshTraceRequestRunner.html">SandeshTraceRequestRunner</a>(trace_buf, context(),</div>
 <div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;                read_context, get_count()));</div>
 <div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;    trace_req_runner-&gt;Run();</div>
@@ -226,7 +226,7 @@ $(document).ready(function(){initNavTree('d5/dd9/sandesh__trace_8cc_source.html'
 <div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;    <span class="keywordflow">if</span> (!trace_buf) {</div>
 <div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;        <span class="keywordflow">return</span>;</div>
 <div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;    }</div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    std::auto_ptr&lt;SandeshTraceRequestRunner&gt; trace_req_runner(<span class="keyword">new</span></div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    std::unique_ptr&lt;SandeshTraceRequestRunner&gt; trace_req_runner(<span class="keyword">new</span></div>
 <div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;            <a class="code" href="../../d3/deb/classSandeshTraceRequestRunner.html">SandeshTraceRequestRunner</a>(trace_buf, <span class="stringliteral">&quot;&quot;</span>, <span class="stringliteral">&quot;Collector&quot;</span>, trace_count));</div>
 <div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;    trace_req_runner-&gt;Run();</div>
 <div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;}</div>

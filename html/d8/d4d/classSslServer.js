@@ -16,7 +16,7 @@ var classSslServer =
     [ "set_accept_socket", "d8/d4d/classSslServer.html#a79a7e215918f4a8b57fedbe6bfe125b0", null ],
     [ "SslSession", "d8/d4d/classSslServer.html#ae4b3876b3dfdfbf9d9cf54a46275a554", null ],
     [ "context_", "d8/d4d/classSslServer.html#aedd216b8a24244f27c23a0ff1f15d662", null ],
-    [ "so_ssl_accept_", "d8/d4d/classSslServer.html#a9d49797a6acf02ca81c3452838bae0ce", null ],
+    [ "so_ssl_accept_", "d8/d4d/classSslServer.html#aedddb94d181d173b2af7bd1982977f8f", null ],
     [ "ssl_enabled_", "d8/d4d/classSslServer.html#a6a4e6812ef62ddfa9efb9c703e62c4c5", null ],
     [ "ssl_handshake_delayed_", "d8/d4d/classSslServer.html#ae87924e71dfa5b73e86571df2d972b2f", null ]
 ];

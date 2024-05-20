@@ -11,5 +11,5 @@ var classzookeeper_1_1client_1_1ZookeeperClient =
     [ "::ZookeeperClientTest", "d0/d80/classzookeeper_1_1client_1_1ZookeeperClient.html#ae31b01c95d8b06fdce8e6478f346aad2", null ],
     [ "ZookeeperLock", "d0/d80/classzookeeper_1_1client_1_1ZookeeperClient.html#abdb284ff1c9ef7383a165c600076437a", null ],
     [ "cb", "d0/d80/classzookeeper_1_1client_1_1ZookeeperClient.html#af1c90c2b7da99ac89b428dddcf4cdaa6", null ],
-    [ "impl_", "d0/d80/classzookeeper_1_1client_1_1ZookeeperClient.html#ac8d03882033733d713a676ffb98dc85c", null ]
+    [ "impl_", "d0/d80/classzookeeper_1_1client_1_1ZookeeperClient.html#a2cf85c0497e66cecaca8cddd499d6da1", null ]
 ];

@@ -21,5 +21,5 @@ var classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl =
     [ "kSessionTimeoutMSec_", "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a5dd900b1017bf42eab19022003aaab27", null ],
     [ "servers_", "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a832a88efd289c165864f2d5e4a20bc05", null ],
     [ "zk_handle_", "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#ae12646790a87a7df441f802f2028ef85", null ],
-    [ "zki_", "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#ae057d702903394056f43840441a2a84d", null ]
+    [ "zki_", "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a52a3a6a359e329b1d035065260f590a7", null ]
 ];

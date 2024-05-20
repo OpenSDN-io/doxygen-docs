@@ -27,5 +27,5 @@ var classTaskMonitor =
     [ "poll_interval_msec_", "d0/db0/classTaskMonitor.html#acb21d81ee3c405a2a4ba5e9f482f9851", null ],
     [ "scheduler_", "d0/db0/classTaskMonitor.html#a223ecd0b932900cfa267fcbac26f183c", null ],
     [ "tbb_keepawake_time_msec_", "d0/db0/classTaskMonitor.html#a4e05615f984a2a94dec4892c8e85371e", null ],
-    [ "timer_impl_", "d0/db0/classTaskMonitor.html#a1d5661f909d36b0173c7ada971c5f507", null ]
+    [ "timer_impl_", "d0/db0/classTaskMonitor.html#a3e8f5d6ed41de5b36b0877d2282c68dd", null ]
 ];

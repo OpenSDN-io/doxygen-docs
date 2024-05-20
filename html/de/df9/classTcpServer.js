@@ -75,7 +75,7 @@ var classTcpServer =
     [ "refcount_", "de/df9/classTcpServer.html#a0be9eb4b7e87265b236dc34c1df20c23", null ],
     [ "session_map_", "de/df9/classTcpServer.html#ac2d273b0406dff874193aa0666f8a54d", null ],
     [ "session_ref_", "de/df9/classTcpServer.html#af7a2aa8bba5186a50f55da2eb53201a6", null ],
-    [ "so_accept_", "de/df9/classTcpServer.html#aa4994f0c7d5f8ef940619cbe08ce94c2", null ],
+    [ "so_accept_", "de/df9/classTcpServer.html#a4967167e29cbba89e842475d85cfa636", null ],
     [ "socket_open_failure_", "de/df9/classTcpServer.html#ab1db0dfc859761af6b69395cc271890f", null ],
     [ "stats_", "de/df9/classTcpServer.html#a0c1810b6ed658058e1e3675428fe6f9b", null ]
 ];
