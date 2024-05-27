@@ -172,7 +172,7 @@ var searchData=
   ['work_5fqueue',['work_queue',['../d5/d94/classPktHandler.html#aae26fa37544ab3aecb5191f54d59fd94',1,'PktHandler::work_queue()'],['../db/de3/classProto.html#abe349f4c207f9870328820b61a8b8c1a',1,'Proto::work_queue()']]],
   ['work_5fqueue_5findex',['work_queue_index',['../d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824',1,'KSyncBulkMsgContext']]],
   ['workbase',['WorkBase',['../df/dff/structBgpSenderPartition_1_1WorkBase.html#a6d8d95de2a3a43015428116adf179022',1,'BgpSenderPartition::WorkBase']]],
-  ['workdequeue',['WorkDequeue',['../d7/d93/classBgpSenderPartition.html#adb166bd2dca4d9af4de5a8c9ea1b1c7a',1,'BgpSenderPartition']]],
+  ['workdequeue',['WorkDequeue',['../d7/d93/classBgpSenderPartition.html#a18df5d697107c1f6bae547aa40a9072e',1,'BgpSenderPartition']]],
   ['workdone',['WorkDone',['../d6/daf/classWorkProcessor.html#a8338811ad7d5c521f17e43bccfd89c50',1,'WorkProcessor']]],
   ['workenqueue',['WorkEnqueue',['../d7/d93/classBgpSenderPartition.html#ade428dcdc46692b639ca4e0fe0cb24d6',1,'BgpSenderPartition']]],
   ['worker',['Worker',['../de/d95/classBgpSenderPartition_1_1Worker.html#a9987efa770ff8feb1287d2d5d743b6fb',1,'BgpSenderPartition::Worker::Worker()'],['../d3/d64/classDBTableWalker_1_1Worker.html#a3db695560140fcffa13fbb866178c7d1',1,'DBTableWalker::Worker::Worker()']]],

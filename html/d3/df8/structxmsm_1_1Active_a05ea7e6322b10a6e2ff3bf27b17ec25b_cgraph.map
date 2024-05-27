@@ -26,24 +26,24 @@
 <area shape="rect" id="node49" href="$d2/db3/classXmppStateMachine.html#a759b40da560a8af455b7b8571d6b4aa8" title="XmppStateMachine::TimerError\lHandler" alt="" coords="567,805,793,846"/>
 <area shape="rect" id="node23" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="920,775,1032,801"/>
 <area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1147,876,1349,903"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1425,775,1591,801"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1425,775,1591,801"/>
 <area shape="rect" id="node39" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1187,825,1309,852"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1400,1036,1616,1063"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1678,1079,1869,1121"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1678,506,1869,547"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1400,1036,1616,1063"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1678,1079,1869,1121"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1678,506,1869,547"/>
 <area shape="rect" id="node30" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1712,927,1835,953"/>
 <area shape="rect" id="node31" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1690,977,1857,1004"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1931,535,2122,577"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1931,535,2122,577"/>
 <area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1694,1028,1853,1055"/>
 <area shape="rect" id="node33" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1670,623,1877,649"/>
-<area shape="rect" id="node34" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1664,673,1883,700"/>
-<area shape="rect" id="node35" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1667,724,1880,751"/>
+<area shape="rect" id="node34" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1664,673,1883,700"/>
+<area shape="rect" id="node35" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1667,724,1880,751"/>
 <area shape="rect" id="node36" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1693,825,1853,852"/>
-<area shape="rect" id="node37" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1682,775,1865,801"/>
-<area shape="rect" id="node38" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1685,876,1862,903"/>
+<area shape="rect" id="node37" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1682,775,1865,801"/>
+<area shape="rect" id="node38" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1685,876,1862,903"/>
 <area shape="rect" id="node41" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="927,825,1025,852"/>
 <area shape="rect" id="node42" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="893,927,1059,953"/>
-<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1159,927,1337,953"/>
+<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1159,927,1337,953"/>
 <area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1409,919,1607,961"/>
 <area shape="rect" id="node46" href="$d2/db3/classXmppStateMachine.html#a6512fddd994e086365de23ffb3d83fda" title="XmppStateMachine::ChannelType" alt="" coords="857,673,1095,700"/>
 <area shape="rect" id="node47" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="870,724,1082,751"/>

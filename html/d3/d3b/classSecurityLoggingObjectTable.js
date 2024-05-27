@@ -2,7 +2,7 @@ var classSecurityLoggingObjectTable =
 [
     [ "SecurityLoggingObjectTable", "d3/d3b/classSecurityLoggingObjectTable.html#a32b9e2ccb06eb692a88ada713e222b91", null ],
     [ "~SecurityLoggingObjectTable", "d3/d3b/classSecurityLoggingObjectTable.html#a4e9f94bf86810806eca99523ff4e95e5", null ],
-    [ "AllocEntry", "d3/d3b/classSecurityLoggingObjectTable.html#a8831447e76b4192bde81e402ff98b32e", null ],
+    [ "AllocEntry", "d3/d3b/classSecurityLoggingObjectTable.html#a8c687d41c475d374d96d20eafa41475f", null ],
     [ "BuildData", "d3/d3b/classSecurityLoggingObjectTable.html#a7de2978424513c55ea1ea45d116d893c", null ],
     [ "CreateTable", "d3/d3b/classSecurityLoggingObjectTable.html#a6e5a5535c9693c9cbd5ea9338732c369", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/d3b/classSecurityLoggingObjectTable.html#aa0ce9be70d1ab8b01212f1d538152d02", null ],

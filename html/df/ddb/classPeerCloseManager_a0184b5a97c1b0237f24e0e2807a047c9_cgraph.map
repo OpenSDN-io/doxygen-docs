@@ -2,21 +2,21 @@
 <area shape="rect" id="node2" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="367,357,479,384"/>
 <area shape="rect" id="node20" href="$df/ddb/classPeerCloseManager.html#a3a1cf3b9b9869d61944b948d4737bdec" title="PeerCloseManager::CloseInternal" alt="" coords="304,724,541,751"/>
 <area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="590,147,791,173"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="607,332,774,359"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="607,332,774,359"/>
 <area shape="rect" id="node19" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="629,383,752,409"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="844,12,1060,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1133,5,1323,46"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="857,63,1047,105"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="844,12,1060,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1133,5,1323,46"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="857,63,1047,105"/>
 <area shape="rect" id="node10" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="891,129,1013,156"/>
 <area shape="rect" id="node11" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="869,180,1035,207"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1133,173,1323,214"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1133,173,1323,214"/>
 <area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="873,281,1031,308"/>
 <area shape="rect" id="node13" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="849,332,1055,359"/>
-<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="843,383,1061,409"/>
-<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="845,433,1059,460"/>
+<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="843,383,1061,409"/>
+<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="845,433,1059,460"/>
 <area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="872,484,1032,511"/>
-<area shape="rect" id="node17" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="861,535,1043,561"/>
-<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="863,585,1041,612"/>
+<area shape="rect" id="node17" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="861,535,1043,561"/>
+<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="863,585,1041,612"/>
 <area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1128,71,1328,97"/>
 <area shape="rect" id="node21" href="$dc/dff/structPeerCloseManager_1_1Stats.html#afdcfdc0d5b2975ab2a2e25fc1c7bfc75" title="PeerCloseManager::Stats\l::ResetRouteStats" alt="" coords="599,677,783,718"/>
 <area shape="rect" id="node23" href="$df/ddb/classPeerCloseManager.html#aaf2cdcaf74d2737a52adfa99dd7c55d2" title="PeerCloseManager::Process\lClosure" alt="" coords="590,797,791,838"/>

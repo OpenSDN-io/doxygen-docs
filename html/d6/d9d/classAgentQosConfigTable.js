@@ -4,7 +4,7 @@ var classAgentQosConfigTable =
     [ "AgentQosConfigNamePair", "d6/d9d/classAgentQosConfigTable.html#ae62723c687db8ed3498ea4aaffb4c068", null ],
     [ "AgentQosConfigTable", "d6/d9d/classAgentQosConfigTable.html#abd44d2421f451ebcf93ad21b6d4282d5", null ],
     [ "~AgentQosConfigTable", "d6/d9d/classAgentQosConfigTable.html#afdb5c13ff36e0f5198e7ca716c6d149c", null ],
-    [ "AllocEntry", "d6/d9d/classAgentQosConfigTable.html#ab2ef3e5cfaba204feba92a10ab2570d8", null ],
+    [ "AllocEntry", "d6/d9d/classAgentQosConfigTable.html#af6feae4a103fa7c95b0d9ad3b97b424d", null ],
     [ "BuildData", "d6/d9d/classAgentQosConfigTable.html#a6e6c49d48969ba055e4b9d8c6e6259c8", null ],
     [ "CreateTable", "d6/d9d/classAgentQosConfigTable.html#a381d7fc40477d7d0d9f30cb2bfa06cad", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d6/d9d/classAgentQosConfigTable.html#a2a98214b7864260c5a36236d471b6040", null ],

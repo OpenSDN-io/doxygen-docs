@@ -13,11 +13,11 @@ var classContrailAgentInit =
     [ "StatsCollectorShutdown", "d5/db7/classContrailAgentInit.html#a9d781e0f8fda980a4f4869ce199dc04b", null ],
     [ "UveShutdown", "d5/db7/classContrailAgentInit.html#ab37c95b30f74393d8d64816c8c2b46d8", null ],
     [ "WaitForIdle", "d5/db7/classContrailAgentInit.html#ad53cf997b2015ea08597292dcdf5ef0b", null ],
-    [ "flow_stats_manager_", "d5/db7/classContrailAgentInit.html#a8b057a1c8c8d257a4e7a240a032e45da", null ],
-    [ "ksync_", "d5/db7/classContrailAgentInit.html#afefb1579bad972cd22be137353f41cbd", null ],
-    [ "pkt0_", "d5/db7/classContrailAgentInit.html#a7e472d9924567a90c63fcf8639116fdf", null ],
-    [ "port_ipc_handler_", "d5/db7/classContrailAgentInit.html#ac31f291e601989f025e3d6bac1137f38", null ],
-    [ "rest_server_", "d5/db7/classContrailAgentInit.html#a22f27e46a7b8e86097df3cefe6ff0857", null ],
-    [ "stats_collector_", "d5/db7/classContrailAgentInit.html#a53928f0685af89415ab44b4058917b99", null ],
-    [ "uve_", "d5/db7/classContrailAgentInit.html#aab535a6d2429d8fdc0016f02b1c0295a", null ]
+    [ "flow_stats_manager_", "d5/db7/classContrailAgentInit.html#afb2633f5ceca62e91d41690dcfa16994", null ],
+    [ "ksync_", "d5/db7/classContrailAgentInit.html#accfb8d0ce8484eb96a927ec50dc865da", null ],
+    [ "pkt0_", "d5/db7/classContrailAgentInit.html#a32b63eb754ca1aca958811f88e6db18c", null ],
+    [ "port_ipc_handler_", "d5/db7/classContrailAgentInit.html#af7b743af3cdb0b54c06ce835c97fefe4", null ],
+    [ "rest_server_", "d5/db7/classContrailAgentInit.html#ad4e9d05a30fef3920540b664b3c1b10e", null ],
+    [ "stats_collector_", "d5/db7/classContrailAgentInit.html#a0cb5ee65b5f9b3c89f3ad289cf8c77d3", null ],
+    [ "uve_", "d5/db7/classContrailAgentInit.html#ac8d72d45618d983f15be2fef73f2d3e5", null ]
 ];

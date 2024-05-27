@@ -44,7 +44,7 @@
 <area shape="rect" id="node43" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1445,953,1568,980"/>
 <area shape="rect" id="node44" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1423,1004,1590,1031"/>
 <area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1679,1025,1881,1052"/>
-<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1691,975,1869,1001"/>
+<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1691,975,1869,1001"/>
 <area shape="rect" id="node48" href="$dd/de1/classDnsManager.html#aca1a42be3f688274a351393def2e9464" title="DnsManager::ResendRecordsin\lBatch" alt="" coords="1396,870,1617,911"/>
 <area shape="rect" id="node49" href="$dd/de1/classDnsManager.html#a646945138905a60b4bceebf30d89373a" title="DnsManager::SendRetransmit" alt="" coords="1673,924,1887,951"/>
 <area shape="rect" id="node50" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title="Timer::Reschedule" alt="" coords="1709,873,1851,900"/>

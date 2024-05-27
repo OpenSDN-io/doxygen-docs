@@ -1,5 +1,9 @@
 var NAVTREEINDEX12 =
 {
+"d0/dbd/structVxlanRoutingVnState.html":[2,0,1903],
+"d0/dbd/structVxlanRoutingVnState.html#a1bbeb67ac1060b26759b159024657dac":[2,0,1903,0],
+"d0/dbd/structVxlanRoutingVnState.html#a42488ff1f9a41e059fd5d8988919a475":[2,0,1903,11],
+"d0/dbd/structVxlanRoutingVnState.html#a46652bc73cb715b3263beabe187a3e78":[2,0,1903,7],
 "d0/dbd/structVxlanRoutingVnState.html#aa665e2a4741e6b57e9121f979ad767e7":[2,0,1903,4],
 "d0/dbd/structVxlanRoutingVnState.html#aad3b9e52f60c494249e689fec99152fe":[2,0,1903,6],
 "d0/dbd/structVxlanRoutingVnState.html#aaf45b5029dababb1cdeb7dfb4f3477f2":[2,0,1903,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dcb/classEdgeDiscovery.html#a341e556c8a0b831c08e67fc100358acd":[2,0,623,10],
 "d0/dcb/classEdgeDiscovery.html#a360f78d6908ce90668aee09a64713f37":[2,0,623,3],
 "d0/dcb/classEdgeDiscovery.html#a4772791b78635cbecf652e747542f18c":[2,0,623,14],
-"d0/dcb/classEdgeDiscovery.html#a57cc7f44ed9a3549868f2504c7e617f4":[2,0,623,9],
-"d0/dcb/classEdgeDiscovery.html#a5b5e5163e83d8128f0659d715b26c1d8":[2,0,623,6],
-"d0/dcb/classEdgeDiscovery.html#a60a30916308c8e30b3889731b70b9ee6":[2,0,623,7],
-"d0/dcb/classEdgeDiscovery.html#a842f11a49aba3c821e5169b3d4d7d2c5":[2,0,623,4],
-"d0/dcb/classEdgeDiscovery.html#a9f0ff2ff71255acf7b8cd4ef38e829b3":[2,0,623,11]
+"d0/dcb/classEdgeDiscovery.html#a57cc7f44ed9a3549868f2504c7e617f4":[2,0,623,9]
 };

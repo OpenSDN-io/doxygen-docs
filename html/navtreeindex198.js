@@ -1,5 +1,9 @@
 var NAVTREEINDEX198 =
 {
+"dd/dca/structgmp__intf__handle__.html#a383d4dd094f31351b9b7c6d461cab29b":[2,0,754,1],
+"dd/dca/structgmp__intf__handle__.html#aff6215019c01de61d4900ad950e3db33":[2,0,754,0],
+"dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html":[2,0,974,2],
+"dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a414fbcc331df556199fb40d091bcf5ba":[2,0,974,2,3],
 "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a88f30343a4cd0d23ceedf7cc4d2f9e89":[2,0,974,2,0],
 "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#aaaf77cb5d09e256a45ec722c18bbf8e7":[2,0,974,2,1],
 "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#abc5fa9646a4f0b0feeb049568f3100c8":[2,0,974,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX198 =
 "dd/dd0/classIFMapDependencyManager.html#a503bb455fbe2b70966f3928386f44536":[2,0,843,37],
 "dd/dd0/classIFMapDependencyManager.html#a5db1b7907ed440e56b6484119c53deaa":[2,0,843,31],
 "dd/dd0/classIFMapDependencyManager.html#a63a2b73971d903932d5033c941b5660a":[2,0,843,9],
-"dd/dd0/classIFMapDependencyManager.html#a669460c7f6c279b810b63a57ea41b3ad":[2,0,843,24],
-"dd/dd0/classIFMapDependencyManager.html#a6d05af5bc3d057178eccda11649b8846":[2,0,843,18],
-"dd/dd0/classIFMapDependencyManager.html#a70fb82e03bc2fda72c6ee5f32eb4d422":[2,0,843,3],
-"dd/dd0/classIFMapDependencyManager.html#a7169e6855c8968db566e09d4e8294369":[2,0,843,39],
-"dd/dd0/classIFMapDependencyManager.html#a72e254eaac7db802b84e5d4628c9d833":[2,0,843,7]
+"dd/dd0/classIFMapDependencyManager.html#a669460c7f6c279b810b63a57ea41b3ad":[2,0,843,24]
 };

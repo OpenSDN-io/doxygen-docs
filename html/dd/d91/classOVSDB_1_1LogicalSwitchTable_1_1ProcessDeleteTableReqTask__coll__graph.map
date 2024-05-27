@@ -1,5 +1,5 @@
 <map id="OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask" name="OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="128,5,179,32"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="128,5,179,32"/>
 <area shape="rect" id="node11" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="261,96,395,123"/>
 <area shape="rect" id="node3" href="$d3/d9a/classOVSDB_1_1LogicalSwitchTable.html" title="OVSDB::LogicalSwitchTable" alt="" coords="105,536,303,563"/>
 <area shape="rect" id="node4" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html" title="OVSDB::OvsdbDBObject" alt="" coords="123,459,301,485"/>

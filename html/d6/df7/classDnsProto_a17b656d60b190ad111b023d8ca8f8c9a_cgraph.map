@@ -24,7 +24,7 @@
 <area shape="rect" id="node15" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title="DnsProto::SendDnsUpdateIpc" alt="" coords="479,864,691,891"/>
 <area shape="rect" id="node50" href="$d5/d06/classAgentDnsXmppChannel.html#adc64a7964d38a646b7133961335ebdb8" title="AgentDnsXmppChannel\l::set_dns_xmpp_event\l_handler_cb" alt="" coords="228,1620,404,1676"/>
 <area shape="rect" id="node7" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="492,5,679,32"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="477,56,693,83"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="477,56,693,83"/>
 <area shape="rect" id="node13" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="527,528,644,555"/>
 <area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="497,1133,674,1160"/>
 <area shape="rect" id="node16" href="$d5/d21/classVmInterface.html#aaf5ac68356ca238c6c549e6d370b335a" title="VmInterface::vm_name" alt="" coords="762,520,937,547"/>

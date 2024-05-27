@@ -31,8 +31,8 @@
 <area shape="rect" id="node28" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="875,859,1016,885"/>
 <area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1109,829,1310,856"/>
 <area shape="rect" id="node32" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1094,881,1325,922"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1373,829,1589,856"/>
-<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1638,822,1829,863"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1373,829,1589,856"/>
+<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1638,822,1829,863"/>
 <area shape="rect" id="node35" href="$d3/d0d/classDBGraphVertex.html#a6228262a54afbcae1c3711e1f0b6921e" title="DBGraphVertex::vertex" alt="" coords="593,960,765,987"/>
 <area shape="rect" id="node36" href="$d3/d0d/classDBGraphVertex.html#a7bdfdc8a766797b56a3055282fdbe7db" title="DBGraphVertex::VertexInvalidate" alt="" coords="560,1011,797,1037"/>
 <area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="583,1061,774,1088"/>

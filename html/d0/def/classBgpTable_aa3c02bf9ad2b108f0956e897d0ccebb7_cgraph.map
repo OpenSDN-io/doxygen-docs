@@ -5,8 +5,8 @@
 <area shape="rect" id="node11" href="$d2/db6/classRibOutUpdates.html#a601122e592b039d6ad92a53926f84496" title="RibOutUpdates::queue\l_marker_count" alt="" coords="284,202,452,243"/>
 <area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="533,12,734,39"/>
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="518,63,749,105"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="797,12,1013,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1062,5,1253,46"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="797,12,1013,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1062,5,1253,46"/>
 <area shape="rect" id="node9" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title="RibOutUpdates::queue" alt="" coords="549,191,717,217"/>
 <area shape="rect" id="node10" href="$d2/db4/classUpdateQueue.html#a5ea13959c2978e5ac4edc4d7db167ba3" title="UpdateQueue::size" alt="" coords="561,140,706,167"/>
 <area shape="rect" id="node12" href="$d2/db4/classUpdateQueue.html#a6d0511fcb7fa3b6df5863f37f5de0087" title="UpdateQueue::marker\l_count" alt="" coords="550,242,717,283"/>

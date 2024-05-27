@@ -5,7 +5,7 @@
 <area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="1013,467,1240,538"/>
 <area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="287,505,414,532"/>
 <area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="639,665,855,692"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,768,75,795"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,768,75,795"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,725,479,766"/>
 <area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="704,103,789,129"/>
 <area shape="rect" id="node13" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1376,328,1565,355"/>

@@ -117,21 +117,27 @@ $(document).ready(function(){initNavTree('d9/d8c/structTaskStats.html','../../')
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a9f01a66481ef9daf05a10be20529324b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#a9f01a66481ef9daf05a10be20529324b">wait_count_</a></td></tr>
+<tr class="memdesc:a9f01a66481ef9daf05a10be20529324b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of entries in waitq.  <a href="#a9f01a66481ef9daf05a10be20529324b">More...</a><br/></td></tr>
 <tr class="separator:a9f01a66481ef9daf05a10be20529324b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c09478785e20e0a21ddecc701c8e3ed"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#a7c09478785e20e0a21ddecc701c8e3ed">run_count_</a></td></tr>
+<tr class="memdesc:a7c09478785e20e0a21ddecc701c8e3ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of entries currently running.  <a href="#a7c09478785e20e0a21ddecc701c8e3ed">More...</a><br/></td></tr>
 <tr class="separator:a7c09478785e20e0a21ddecc701c8e3ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e0a43e61fb228a44a53b1771e8fba1d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#a8e0a43e61fb228a44a53b1771e8fba1d">defer_count_</a></td></tr>
+<tr class="memdesc:a8e0a43e61fb228a44a53b1771e8fba1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of entries in deferq.  <a href="#a8e0a43e61fb228a44a53b1771e8fba1d">More...</a><br/></td></tr>
 <tr class="separator:a8e0a43e61fb228a44a53b1771e8fba1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac55788caad840d36fb80ac18100f41d9"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#ac55788caad840d36fb80ac18100f41d9">enqueue_count_</a></td></tr>
+<tr class="memdesc:ac55788caad840d36fb80ac18100f41d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of tasks enqueued.  <a href="#ac55788caad840d36fb80ac18100f41d9">More...</a><br/></td></tr>
 <tr class="separator:ac55788caad840d36fb80ac18100f41d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ac8ab45950693b26c711f59f50badd3"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#a0ac8ab45950693b26c711f59f50badd3">total_tasks_completed_</a></td></tr>
+<tr class="memdesc:a0ac8ab45950693b26c711f59f50badd3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of total tasks ran.  <a href="#a0ac8ab45950693b26c711f59f50badd3">More...</a><br/></td></tr>
 <tr class="separator:a0ac8ab45950693b26c711f59f50badd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4fb6b9f601d1dc959715a376d5a5528e"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html#a4fb6b9f601d1dc959715a376d5a5528e">last_exit_time_</a></td></tr>
+<tr class="memdesc:a4fb6b9f601d1dc959715a376d5a5528e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of time stamp of latest exist.  <a href="#a4fb6b9f601d1dc959715a376d5a5528e">More...</a><br/></td></tr>
 <tr class="separator:a4fb6b9f601d1dc959715a376d5a5528e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00052">52</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00026">26</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a8e0a43e61fb228a44a53b1771e8fba1d"></a>
 <div class="memitem">
@@ -143,7 +149,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00055">55</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of entries in deferq. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00035">35</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -157,7 +165,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00056">56</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of tasks enqueued. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00038">38</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -171,7 +181,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00058">58</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of time stamp of latest exist. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00044">44</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -185,7 +197,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00054">54</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of entries currently running. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00032">32</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -199,7 +213,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00057">57</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of total tasks ran. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00041">41</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -213,7 +229,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00053">53</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Number of entries in waitq. </p>
+
+<p>Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00029">29</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>

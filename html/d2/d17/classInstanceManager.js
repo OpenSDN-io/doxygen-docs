@@ -67,7 +67,7 @@ var classInstanceManager =
     [ "netns_reattempts_", "d2/d17/classInstanceManager.html#a342edc2a521c84e7a29ed39b5a06ca00", null ],
     [ "netns_timeout_", "d2/d17/classInstanceManager.html#a9a3e2e23f923a95a62b343d2f05f55f4", null ],
     [ "si_listener_", "d2/d17/classInstanceManager.html#a963c9be2fa53eabb3ff8dd5534522e17", null ],
-    [ "stale_cleaner_", "d2/d17/classInstanceManager.html#ab0d4c97d1742e90ef5557772dc6ae1ae", null ],
+    [ "stale_cleaner_", "d2/d17/classInstanceManager.html#abfe938d06f9e6682b84d3e55a8faac72", null ],
     [ "stale_timer_", "d2/d17/classInstanceManager.html#af24f55345f7b0b3f80d5914e75a54b49", null ],
     [ "stale_timer_interval_", "d2/d17/classInstanceManager.html#ad86c6607dceb580e3a1d28976120ac93", null ],
     [ "task_queues_", "d2/d17/classInstanceManager.html#a6cfe486ad0fa95f208e75192b133632d", null ],

@@ -68,7 +68,7 @@ var classFlowMgmtManager =
     [ "bgp_as_a_service_flow_mgmt_tree_", "d0/d9c/classFlowMgmtManager.html#aa4f2503825748d99160bef7be93d02ac", null ],
     [ "bridge_route_flow_mgmt_tree_", "d0/d9c/classFlowMgmtManager.html#a4e62bd2192eab197e407a36bbd41628f", null ],
     [ "db_event_queue_", "d0/d9c/classFlowMgmtManager.html#a2b5686380b4f96f4625d8fe6bcec7cd3", null ],
-    [ "flow_mgmt_dbclient_", "d0/d9c/classFlowMgmtManager.html#af2e524179e74863a7b632a622c6d0d3f", null ],
+    [ "flow_mgmt_dbclient_", "d0/d9c/classFlowMgmtManager.html#a12ece647cb41ddf195b50875231c5222", null ],
     [ "interface_flow_mgmt_tree_", "d0/d9c/classFlowMgmtManager.html#a34f20332e13feb85938aab9fa2e57581", null ],
     [ "ip4_route_flow_mgmt_tree_", "d0/d9c/classFlowMgmtManager.html#a53380106cf5c467ffca8a2867e4f3c88", null ],
     [ "ip6_route_flow_mgmt_tree_", "d0/d9c/classFlowMgmtManager.html#ae1f47e4179f5a9ed4e036fddf85279e9", null ],

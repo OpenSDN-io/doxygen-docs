@@ -25,20 +25,20 @@
 <area shape="rect" id="node19" href="$d3/de9/classHttpConnection.html#a246bb9b842c4a9ed4ab726e402945c37" title="HttpConnection::HttpClientCb" alt="" coords="2102,288,2317,315"/>
 <area shape="rect" id="node21" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="2153,161,2265,188"/>
 <area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="2366,56,2567,83"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="2383,169,2550,196"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="2383,169,2550,196"/>
 <area shape="rect" id="node29" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="2405,111,2528,137"/>
-<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="2616,52,2832,79"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="2629,103,2819,145"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2616,52,2832,79"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="2629,103,2819,145"/>
 <area shape="rect" id="node27" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="2663,220,2785,247"/>
 <area shape="rect" id="node28" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="2641,271,2807,297"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="2881,133,3071,174"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="2881,133,3071,174"/>
 <area shape="rect" id="node31" href="$d4/d6e/classHttpClient.html#aa00df120afe63591dac49b4a460543ea" title="HttpClient::StartTimer" alt="" coords="1123,187,1288,213"/>
 <area shape="rect" id="node37" href="$df/dbf/http__curl_8cc.html#a9d0a1036a5a10057ef5f7c165511670f" title="timer_cb" alt="" coords="1631,263,1710,289"/>
 <area shape="rect" id="node32" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="1889,60,1988,87"/>
 <area shape="rect" id="node36" href="$d4/d6e/classHttpClient.html#a35415753a3d008dfcc934607d0ebf24e" title="HttpClient::TimerCb" alt="" coords="1351,212,1502,239"/>
 <area shape="rect" id="node33" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="2160,111,2259,137"/>
 <area shape="rect" id="node34" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="2126,9,2293,36"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="2377,5,2556,32"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="2377,5,2556,32"/>
 <area shape="rect" id="node41" href="$df/d00/classBFD_1_1RESTClient.html#a101deebf9f8efc2b5125ad9bba8183cc" title="BFD::RESTClient::SetError" alt="" coords="888,516,1075,543"/>
 <area shape="rect" id="node42" href="$df/d00/classBFD_1_1RESTClient.html#a192c7ea68694db243015f9081f8aa22a" title="BFD::RESTClient::Stop" alt="" coords="1124,516,1287,543"/>
 <area shape="rect" id="node43" href="$d4/d6e/classHttpClient.html#ad63d0375c26b2fb95602029b21a961a4" title="HttpClient::Shutdown" alt="" coords="1347,516,1507,543"/>

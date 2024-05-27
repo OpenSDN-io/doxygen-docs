@@ -2,8 +2,8 @@
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="227,23,429,49"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="235,77,421,104"/>
 <area shape="rect" id="node6" href="$d0/d5a/classKSyncSock.html#a870acb6465230e67358c4ace9535f889" title="KSyncSock::AllocQueue" alt="" coords="241,129,415,156"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="481,15,697,41"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="758,5,949,46"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="481,15,697,41"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="758,5,949,46"/>
 <area shape="rect" id="node7" href="$d0/d5a/classKSyncSock.html#a216109c0a684dcda2283b0782606c210" title="KSyncSock::ProcessKernelData" alt="" coords="478,129,701,156"/>
 <area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#adfdf14c9aec59ed072c3e6447d0d1253" title="WorkQueue::set_name" alt="" coords="505,180,674,207"/>
 <area shape="rect" id="node8" href="$d0/d5a/classKSyncSock.html#a3bf0550e7f00e90d035c9bb883b1ee3e" title="KSyncSock::GetSeqno" alt="" coords="771,71,935,97"/>

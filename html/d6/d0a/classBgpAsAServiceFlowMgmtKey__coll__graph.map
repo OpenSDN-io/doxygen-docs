@@ -17,7 +17,7 @@
 <area shape="rect" id="node13" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; HealthCheck\lService \&gt;" alt="" coords="401,1758,618,1799"/>
 <area shape="rect" id="node21" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="1357,617,1544,644"/>
 <area shape="rect" id="node32" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1728,504,1827,531"/>
-<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="2056,560,2171,587"/>
+<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="2056,560,2171,587"/>
 <area shape="rect" id="node14" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="2648,1780,2792,1807"/>
 <area shape="rect" id="node16" href="$db/d24/classHealthCheckTable.html" title="HealthCheckTable" alt="" coords="2249,1663,2388,1689"/>
 <area shape="rect" id="node17" href="$d6/dee/classAgentOperDBTable.html" title="AgentOperDBTable" alt="" coords="1859,1012,2003,1039"/>
@@ -42,5 +42,5 @@
 <area shape="rect" id="node44" href="$d9/d3e/classMacLearningProto.html" title="MacLearningProto" alt="" coords="2249,668,2388,695"/>
 <area shape="rect" id="node49" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; HealthCheck\lInstanceEvent *, WorkQueue\l\&lt; HealthCheckInstanceEvent * \&gt; \&gt;" alt="" coords="1080,1883,1333,1939"/>
 <area shape="rect" id="node47" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="242,2079,369,2105"/>
-<area shape="rect" id="node50" href="$d6/d9c/classTask.html" title="Task" alt="" coords="743,1941,793,1968"/>
+<area shape="rect" id="node50" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="743,1941,793,1968"/>
 </map>

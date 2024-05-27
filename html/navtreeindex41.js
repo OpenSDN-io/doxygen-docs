@@ -1,5 +1,9 @@
 var NAVTREEINDEX41 =
 {
+"d2/ddc/overlay__traceroute_8h_source.html":[3,0,827],
+"d2/ddd/classKSyncDBEntry.html":[2,0,989],
+"d2/ddd/classKSyncDBEntry.html#a0a5a1da7504c2e2bc8a6ca1630503441":[2,0,989,10],
+"d2/ddd/classKSyncDBEntry.html#a15facb50ddc2c731415404785a573b99":[2,0,989,9],
 "d2/ddd/classKSyncDBEntry.html#a1a58e565d9e563faa2104a066c316b6a":[2,0,989,8],
 "d2/ddd/classKSyncDBEntry.html#a1d2d77ec80df469040fd746665325264":[2,0,989,5],
 "d2/ddd/classKSyncDBEntry.html#a39bb4a1cc163f7acdb6869277ad90e8d":[2,0,989,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX41 =
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#a9dfd2e1f7d58cb43ee4a45198c1ef0cb":[2,0,11,139,20],
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aa2a83720b391cba8de06ec237a526b6a":[2,0,11,139,29],
 "d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aa64b614f0fe62203abdd095f332e7674":[2,0,11,139,31],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ab14231ed4ad6db51f9d45540b8c5c026":[2,0,11,139,43],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ac2c7efdc991fd05fe845f977a5aa3e83":[2,0,11,139,44],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ac6a045b8dda95d33e16daffa402cd990":[2,0,11,139,30],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ae1089c060d48d51e517b4f90c7da6bff":[2,0,11,139,25],
-"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#aeafabfba074514c7089f03924c735652":[2,0,11,139,22]
+"d2/df0/classetcdserverpb_1_1AuthRoleAddRequest.html#ab14231ed4ad6db51f9d45540b8c5c026":[2,0,11,139,43]
 };

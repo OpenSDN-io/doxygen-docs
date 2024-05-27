@@ -10,7 +10,7 @@
 <area shape="rect" id="node9" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,723,349,749"/>
 <area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="902,239,1159,281"/>
 <area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,164,355,191"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task" alt="" coords="584,244,635,271"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="584,244,635,271"/>
 <area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="907,363,1154,405"/>
 <area shape="rect" id="node20" href="$d3/d0a/classIFMapConfigListener_1_1ConfigManager.html" title="IFMapConfigListener\l::ConfigManager" alt="" coords="954,866,1107,907"/>
 <area shape="rect" id="node21" href="$d0/d0c/classDBGraph.html" title="DBGraph" alt="" coords="991,932,1071,959"/>

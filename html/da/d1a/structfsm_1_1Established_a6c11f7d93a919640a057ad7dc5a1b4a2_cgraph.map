@@ -7,7 +7,7 @@
 <area shape="rect" id="node10" href="$d0/dc5/classStateMachine.html#a0daeb5a4bff4b16f45dcf9d40007e85a" title="StateMachine::HoldTimerExpired" alt="" coords="500,1415,735,1441"/>
 <area shape="rect" id="node14" href="$d0/dc5/classStateMachine.html#ad6027cf6fdec914310d937524baa8ce1" title="StateMachine::TimerError\lHanlder" alt="" coords="524,1349,711,1390"/>
 <area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1067,1525,1269,1552"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1085,1297,1251,1324"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1085,1297,1251,1324"/>
 <area shape="rect" id="node6" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1107,1391,1229,1417"/>
 <area shape="rect" id="node8" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="856,1617,955,1644"/>
 <area shape="rect" id="node9" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="822,1567,989,1593"/>

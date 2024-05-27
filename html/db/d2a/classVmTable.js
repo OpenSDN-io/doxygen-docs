@@ -2,7 +2,7 @@ var classVmTable =
 [
     [ "VmTable", "db/d2a/classVmTable.html#a15edd5d4f1d5816ae9bb255b051678a1", null ],
     [ "~VmTable", "db/d2a/classVmTable.html#aa6f57612f8486304d8680d81781d28a7", null ],
-    [ "AllocEntry", "db/d2a/classVmTable.html#a9f3b5259869522e3cab53d9b06f9de82", null ],
+    [ "AllocEntry", "db/d2a/classVmTable.html#a8a9b8e3de3cf250cc4d7ff469532a68a", null ],
     [ "CreateTable", "db/d2a/classVmTable.html#acfebf159780b984cb2abf0fef741702e", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d2a/classVmTable.html#a290bc95ea52e570a0c82d3155804c507", null ],
     [ "GetAgentSandesh", "db/d2a/classVmTable.html#a7f138a11f9b40483c65a4495bc32a606", null ],

@@ -9,7 +9,7 @@ var classVxLanTable =
     [ "~VxLanTable", "d7/dc2/classVxLanTable.html#a9f14ec10b9e19711b4345b2e4e55235d", null ],
     [ "Add", "d7/dc2/classVxLanTable.html#a9f15a77007d3c721f8f15a30d05b9ecc", null ],
     [ "AddCompositeNH", "d7/dc2/classVxLanTable.html#aba51879a8ad1581c644a0836c8f3c200", null ],
-    [ "AllocEntry", "d7/dc2/classVxLanTable.html#a9400187ae415f474ea3b37bf0a93e5ad", null ],
+    [ "AllocEntry", "d7/dc2/classVxLanTable.html#a2a87fc90ba29501e8ee8982a7fb6c989", null ],
     [ "ChangeHandler", "d7/dc2/classVxLanTable.html#a1ae7ecebe367ad528ce09fcc2ed32bbf", null ],
     [ "config_tree", "d7/dc2/classVxLanTable.html#a5b4357717754676c45900bd2979dff13", null ],
     [ "Create", "d7/dc2/classVxLanTable.html#aa5ce3269a1a3feb189f476a6d7f8a9e3", null ],

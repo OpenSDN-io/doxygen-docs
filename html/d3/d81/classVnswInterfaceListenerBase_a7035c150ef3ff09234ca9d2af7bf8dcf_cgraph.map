@@ -40,8 +40,8 @@
 <area shape="rect" id="node38" href="$d5/de2/classVnswInterfaceListenerBase_1_1VnDBState.html#a94c26f540641e488806fa904db6dde7e" title="VnswInterfaceListenerBase\l::VnDBState::Add" alt="" coords="534,1134,733,1175"/>
 <area shape="rect" id="node37" href="$d3/d81/classVnswInterfaceListenerBase.html#a0e66e9080227f5dc9f000539ead22fab" title="VnswInterfaceListenerBase\l::Enqueue" alt="" coords="823,1071,1022,1112"/>
 <area shape="rect" id="node39" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="846,1141,999,1168"/>
-<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="525,1590,741,1617"/>
-<area shape="rect" id="node42" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="827,1587,1018,1628"/>
+<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="525,1590,741,1617"/>
+<area shape="rect" id="node42" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="827,1587,1018,1628"/>
 <area shape="rect" id="node45" href="$d6/da6/vnswif__listener__base_8cc.html#a6662d3d09049bca02a90a7053c71babc" title="EventTypeToString" alt="" coords="563,102,704,129"/>
 <area shape="rect" id="node46" href="$d3/d81/classVnswInterfaceListenerBase.html#a4f8bfd9b6d8e42b5e1d78dc3148abe2a" title="VnswInterfaceListenerBase\l::HandleAddressEvent" alt="" coords="534,284,733,326"/>
 <area shape="rect" id="node48" href="$d3/d81/classVnswInterfaceListenerBase.html#a4bb58a09d2504683dc5580821e8285a1" title="VnswInterfaceListenerBase\l::HandleInterfaceEvent" alt="" coords="534,36,733,78"/>

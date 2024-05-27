@@ -26,7 +26,7 @@
 <area shape="rect" id="node19" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="1449,141,1575,168"/>
 <area shape="rect" id="node17" href="$d2/d07/classMcastManagerPartition.html" title="McastManagerPartition" alt="" coords="1877,1445,2048,1472"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; McastSGEntry\l *, WorkQueue\&lt; McastSGEntry * \&gt; \&gt;" alt="" coords="1506,409,1768,450"/>
-<area shape="rect" id="node21" href="$d6/d9c/classTask.html" title="Task" alt="" coords="1795,299,1845,325"/>
+<area shape="rect" id="node21" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="1795,299,1845,325"/>
 <area shape="rect" id="node22" href="$d3/dbd/classMcastTreeManager.html" title="McastTreeManager" alt="" coords="2191,1345,2333,1372"/>
 <area shape="rect" id="node23" href="$d3/db0/classErmVpnTable.html" title="ErmVpnTable" alt="" coords="2277,1240,2384,1267"/>
 <area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; McastTreeManager \&gt;" alt="" coords="2285,1445,2533,1472"/>

@@ -1,5 +1,5 @@
 <map id="ChannelEventProcTask" name="ChannelEventProcTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,1521,75,1548"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,1521,75,1548"/>
 <area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapServer\l::QueueEntry, WorkQueue\&lt;\l IFMapServer::QueueEntry \&gt; \&gt;" alt="" coords="237,1723,470,1779"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="222,719,485,790"/>
 <area shape="rect" id="node27" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,1318,482,1359"/>

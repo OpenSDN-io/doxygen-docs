@@ -40,7 +40,7 @@
 <area shape="rect" id="node42" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="1835,571,1933,597"/>
 <area shape="rect" id="node45" href="$dd/d26/classVrouterUveEntryBase.html#aa677bde873566901fb44148a2eb51a16" title="VrouterUveEntryBase\l::TimerExpiry" alt="" coords="1803,745,1965,786"/>
 <area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="2262,532,2463,559"/>
-<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="2041,431,2207,457"/>
+<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="2041,431,2207,457"/>
 <area shape="rect" id="node41" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="2063,532,2185,559"/>
 <area shape="rect" id="node43" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="2075,633,2173,660"/>
 <area shape="rect" id="node44" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="2041,583,2207,609"/>

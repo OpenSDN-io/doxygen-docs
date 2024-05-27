@@ -35,16 +35,16 @@
 <area shape="rect" id="node31" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1183,632,1305,659"/>
 <area shape="rect" id="node32" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1161,683,1327,709"/>
 <area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1425,653,1626,680"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1436,708,1615,735"/>
-<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1675,575,1891,601"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1949,491,2139,533"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1436,708,1615,735"/>
+<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1675,575,1891,601"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1949,491,2139,533"/>
 <area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1684,702,1881,743"/>
 <area shape="rect" id="node38" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1965,557,2123,584"/>
 <area shape="rect" id="node39" href="$d6/d9c/classTask.html#a0161a7d110d066b7ba16ed4f44ec1bc8" title="Task::GetSeqno" alt="" coords="1983,608,2105,635"/>
 <area shape="rect" id="node40" href="$d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a" title="Task::SetSeqNo" alt="" coords="1983,659,2105,685"/>
-<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="2198,760,2413,787"/>
+<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="2198,760,2413,787"/>
 <area shape="rect" id="node42" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1983,760,2105,787"/>
-<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="TaskScheduler::GetTaskEntry" alt="" coords="1939,811,2149,837"/>
+<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1939,811,2149,837"/>
 <area shape="rect" id="node44" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1961,861,2127,888"/>
 <area shape="rect" id="node45" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="1961,912,2127,939"/>
 <area shape="rect" id="node50" href="$d2/d43/structRibExportPolicy.html#a30d3782906c7a6ef6d0f1ba0c27689a6" title="RibExportPolicy::SetRemove\lPrivatePolicy" alt="" coords="549,655,755,697"/>

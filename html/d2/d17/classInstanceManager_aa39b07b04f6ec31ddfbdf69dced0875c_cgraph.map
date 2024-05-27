@@ -47,5 +47,5 @@
 <area shape="rect" id="node45" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="591,1934,713,1960"/>
 <area shape="rect" id="node46" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="569,1984,735,2011"/>
 <area shape="rect" id="node47" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="827,1959,1029,1986"/>
-<area shape="rect" id="node48" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="839,2010,1017,2036"/>
+<area shape="rect" id="node48" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="839,2010,1017,2036"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="RestServerGetVmCfgTask" name="RestServerGetVmCfgTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="1221,99,1272,125"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="1221,99,1272,125"/>
 <area shape="rect" id="node3" href="$d4/d63/structRESTServer_1_1RESTData.html" title="RESTServer::RESTData" alt="" coords="809,211,978,237"/>
 <area shape="rect" id="node4" href="$d5/d1b/classHttpRequest.html" title="HttpRequest" alt="" coords="451,313,554,340"/>
 <area shape="rect" id="node6" href="$da/d27/structHttpSession.html" title="HttpSession" alt="" coords="453,68,553,95"/>
@@ -29,7 +29,7 @@
 <area shape="rect" id="node21" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="416,1537,589,1564"/>
 <area shape="rect" id="node22" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="453,1588,552,1615"/>
 <area shape="rect" id="node26" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="466,1728,539,1755"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="445,1779,560,1805"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="445,1779,560,1805"/>
 <area shape="rect" id="node28" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="417,1829,589,1856"/>
 <area shape="rect" id="node29" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="423,1880,582,1907"/>
 <area shape="rect" id="node30" href="$d7/dc2/classVxLanTable.html" title="VxLanTable" alt="" coords="455,1931,551,1957"/>

@@ -2,8 +2,8 @@ var classInetTable =
 [
     [ "RequestKey", "d0/daa/structInetTable_1_1RequestKey.html", "d0/daa/structInetTable_1_1RequestKey" ],
     [ "InetTable", "d1/dc4/classInetTable.html#a4aa8f6c0904b1f34ede75c35e8621077", null ],
-    [ "AllocEntry", "d1/dc4/classInetTable.html#aebdd942f8dcf65a1ace41e147d06cdf3", null ],
-    [ "AllocEntryStr", "d1/dc4/classInetTable.html#ac7ce75af91477ab2ec22dd365a5ca33c", null ],
+    [ "AllocEntry", "d1/dc4/classInetTable.html#ac0d80ac80ebbe2ba4d7a14c8968d26b8", null ],
+    [ "AllocEntryStr", "d1/dc4/classInetTable.html#ac8681be18f9e2e3721b51f4c39b973a6", null ],
     [ "CreatePathResolver", "d1/dc4/classInetTable.html#a53479ad555b60df48e6fbed776d04765", null ],
     [ "CreateTable", "d1/dc4/classInetTable.html#a2193a3c4b6852a278744a3bd824e7e34", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d1/dc4/classInetTable.html#ae9565be17b702a242a3a96983a4fc727", null ],

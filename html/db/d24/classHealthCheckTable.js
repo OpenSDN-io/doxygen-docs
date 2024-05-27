@@ -11,7 +11,7 @@ var classHealthCheckTable =
     ] ],
     [ "HealthCheckTable", "db/d24/classHealthCheckTable.html#a1df554f3bc11034bb0978acbbf9fd8f4", null ],
     [ "~HealthCheckTable", "db/d24/classHealthCheckTable.html#a427b473ef861ee02d8635471da71c43e", null ],
-    [ "AllocEntry", "db/d24/classHealthCheckTable.html#ae4b3c74c56151651d9bca1feede589ca", null ],
+    [ "AllocEntry", "db/d24/classHealthCheckTable.html#ab960b7f4dc5952edaa22b4fcd8aae9b5", null ],
     [ "CreateTable", "db/d24/classHealthCheckTable.html#ab2025cbc071a510d39ce21030a921dd3", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d24/classHealthCheckTable.html#a44095e04ccd087d6dcf5e9658dd5e6c4", null ],
     [ "Find", "db/d24/classHealthCheckTable.html#a7658b8f5c84feed97bf9f5857f716694", null ],

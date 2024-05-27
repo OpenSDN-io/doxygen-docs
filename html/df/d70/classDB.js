@@ -41,6 +41,6 @@ var classDB =
     [ "partitions_", "df/d70/classDB.html#a5ecd082c7042f3a2167796dee6a8e988", null ],
     [ "tables_", "df/d70/classDB.html#aab405c684d565473646747285d037d3b", null ],
     [ "task_id_", "df/d70/classDB.html#a6fcafc5caa3cb085d06f3f1ef487be7b", null ],
-    [ "walk_mgr_", "df/d70/classDB.html#af8ab0ed784e3ce61b4e90eaa1a2e261c", null ],
-    [ "walker_", "df/d70/classDB.html#afc8d6343b0fcd490ba26c8d43cc75192", null ]
+    [ "walk_mgr_", "df/d70/classDB.html#a49a2f7e96a01a06616e7dfdc77db4739", null ],
+    [ "walker_", "df/d70/classDB.html#a27585f68d9517bfac071ae0dac37e99c", null ]
 ];

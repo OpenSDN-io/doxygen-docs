@@ -8,7 +8,7 @@ var classDBTable =
     [ "DBTable", "d5/d0a/classDBTable.html#ac62d4e5336e7ecbc4083f2896c473156", null ],
     [ "~DBTable", "d5/d0a/classDBTable.html#a7c7f14f167ceb4d02b1563fd01afce30", null ],
     [ "Add", "d5/d0a/classDBTable.html#ac0ac5b005b87621946edf290a3490475", null ],
-    [ "AllocEntry", "d5/d0a/classDBTable.html#a3b671048482af28d6adb3c4b80a0afc1", null ],
+    [ "AllocEntry", "d5/d0a/classDBTable.html#a2cc4f3290d7138cfda1e03521c817840", null ],
     [ "AllocPartition", "d5/d0a/classDBTable.html#a7e6305b56f5f8f9cd3e81a2afade21eb", null ],
     [ "AllocWalker", "d5/d0a/classDBTable.html#a4cd7cf25eb51341e32e98c8005f33bb3", null ],
     [ "Change", "d5/d0a/classDBTable.html#a637c34ed7e308738fe8b4af139f29a8b", null ],
@@ -55,6 +55,6 @@ var classDBTable =
     [ "max_walk_iteration_to_yield_", "d5/d0a/classDBTable.html#a46d0e1bf42a137045c4248620b18f25d", null ],
     [ "partitions_", "d5/d0a/classDBTable.html#a793b8f5222dff8fa1b8c7a1a49d0eb45", null ],
     [ "walk_ref_", "d5/d0a/classDBTable.html#a798d8af7292c348f5d9a5d870284bf39", null ],
-    [ "walker_", "d5/d0a/classDBTable.html#a799ab86aac248f62ec10f3e31c8f3243", null ],
+    [ "walker_", "d5/d0a/classDBTable.html#a160341771b3e9b2d445a40bd253f7718", null ],
     [ "walker_task_id_", "d5/d0a/classDBTable.html#a03ec63abf44935d9d288e382d1db7246", null ]
 ];

@@ -1,6 +1,6 @@
 <map id="SandeshVmVnToVmiTask" name="SandeshVmVnToVmiTask">
 <area shape="rect" id="node2" href="$df/dc1/classSandeshPortSubscribeTask.html" title="SandeshPortSubscribeTask" alt="" coords="1563,1209,1757,1236"/>
-<area shape="rect" id="node3" href="$d6/d9c/classTask.html" title="Task" alt="" coords="1371,597,1421,624"/>
+<area shape="rect" id="node3" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="1371,597,1421,624"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="723,1539,783,1565"/>
 <area shape="rect" id="node11" href="$d2/db9/classAgentStatsCollector.html" title="AgentStatsCollector" alt="" coords="1002,1357,1153,1384"/>
 <area shape="rect" id="node12" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="1046,1448,1109,1475"/>
@@ -27,7 +27,7 @@
 <area shape="rect" id="node15" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="331,1379,504,1405"/>
 <area shape="rect" id="node16" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="368,1429,467,1456"/>
 <area shape="rect" id="node20" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="381,1519,454,1545"/>
-<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="360,1569,475,1596"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="360,1569,475,1596"/>
 <area shape="rect" id="node41" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="380,143,455,169"/>
 <area shape="rect" id="node24" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="331,1620,503,1647"/>
 <area shape="rect" id="node25" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="338,1671,497,1697"/>

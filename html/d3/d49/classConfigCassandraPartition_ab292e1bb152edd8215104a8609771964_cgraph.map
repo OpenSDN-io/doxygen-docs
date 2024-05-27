@@ -3,8 +3,8 @@
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="1372,1596,1559,1623"/>
 <area shape="rect" id="node6" href="$d3/d49/classConfigCassandraPartition.html#a1e321a9f89bed3645df3bf2db52499a9" title="ConfigCassandraPartition\l::ConfigReader" alt="" coords="249,510,434,551"/>
 <area shape="rect" id="node49" href="$d3/d49/classConfigCassandraPartition.html#a6e6c3b3fa85d7f9e9335fcf17751dd30" title="ConfigCassandraPartition\l::RequestHandler" alt="" coords="249,203,434,245"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="2163,1545,2379,1572"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2427,1538,2618,1579"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2163,1545,2379,1572"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2427,1538,2618,1579"/>
 <area shape="rect" id="node7" href="$d3/d49/classConfigCassandraPartition.html#a8623137138cad95a61f1cdb9c5122cab" title="ConfigCassandraPartition\l::client" alt="" coords="1906,675,2091,717"/>
 <area shape="rect" id="node8" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="1665,172,1818,199"/>
 <area shape="rect" id="node9" href="$de/d27/classConfigClientManager.html#a68bc8ebe7b2aeaefa2e9dc96f3ed75f1" title="ConfigClientManager\l::is_reinit_triggered" alt="" coords="511,477,668,518"/>

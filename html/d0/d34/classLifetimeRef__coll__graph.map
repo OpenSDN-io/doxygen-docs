@@ -6,6 +6,6 @@
 <area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="478,154,701,195"/>
 <area shape="rect" id="node9" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="856,94,1083,165"/>
 <area shape="rect" id="node7" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="202,5,329,32"/>
-<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task" alt="" coords="564,81,615,108"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="564,81,615,108"/>
 <area shape="rect" id="node13" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="872,258,1067,299"/>
 </map>

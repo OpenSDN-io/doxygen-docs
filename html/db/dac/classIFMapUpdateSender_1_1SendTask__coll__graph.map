@@ -1,5 +1,5 @@
 <map id="IFMapUpdateSender::SendTask" name="IFMapUpdateSender::SendTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,1965,75,1992"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,1965,75,1992"/>
 <area shape="rect" id="node9" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="222,1733,485,1803"/>
 <area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,1154,482,1195"/>
 <area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,1385,470,1441"/>

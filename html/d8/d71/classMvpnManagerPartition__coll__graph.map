@@ -18,7 +18,7 @@
 <area shape="rect" id="node31" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="647,665,863,692"/>
 <area shape="rect" id="node33" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="648,909,861,936"/>
 <area shape="rect" id="node23" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1910,908,2061,935"/>
-<area shape="rect" id="node12" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,357,75,384"/>
+<area shape="rect" id="node12" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,357,75,384"/>
 <area shape="rect" id="node32" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,453,479,494"/>
 <area shape="rect" id="node34" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="227,783,474,825"/>
 <area shape="rect" id="node20" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1119,137,1225,164"/>

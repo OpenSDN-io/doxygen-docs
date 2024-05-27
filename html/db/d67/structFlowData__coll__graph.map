@@ -34,7 +34,7 @@
 <area shape="rect" id="node33" href="$d7/dbb/classprocess_1_1ConnectionStateManager.html" title="process::ConnectionState\lManager" alt="" coords="1533,481,1720,522"/>
 <area shape="rect" id="node34" href="$d0/d0f/classFlowStatsCollectorObject.html" title="FlowStatsCollectorObject" alt="" coords="754,232,939,259"/>
 <area shape="rect" id="node37" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; FlowExportReq\l \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; FlowExportReq \&gt; \&gt; \&gt;" alt="" coords="195,43,418,114"/>
-<area shape="rect" id="node38" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,19,61,45"/>
+<area shape="rect" id="node38" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="11,19,61,45"/>
 <area shape="rect" id="node40" href="$d2/df6/structFlowAgingTableKey.html" title="FlowAgingTableKey" alt="" coords="3011,325,3157,352"/>
 <area shape="rect" id="node42" href="$da/dde/classFlowEntryFreeList.html" title="FlowEntryFreeList" alt="" coords="2296,732,2432,759"/>
 <area shape="rect" id="node48" href="$db/d47/classFlowTableKSyncEntry.html" title="FlowTableKSyncEntry" alt="" coords="2668,809,2828,836"/>

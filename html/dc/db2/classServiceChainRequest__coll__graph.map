@@ -27,7 +27,7 @@
 <area shape="rect" id="node15" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="978,1219,1110,1245"/>
 <area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="931,1335,1157,1406"/>
 <area shape="rect" id="node17" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,1384,355,1411"/>
-<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task" alt="" coords="593,1356,644,1383"/>
+<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="593,1356,644,1383"/>
 <area shape="rect" id="node29" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="915,1430,1173,1471"/>
 <area shape="rect" id="node31" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="921,803,1167,845"/>
 <area shape="rect" id="node21" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="947,1270,1141,1311"/>

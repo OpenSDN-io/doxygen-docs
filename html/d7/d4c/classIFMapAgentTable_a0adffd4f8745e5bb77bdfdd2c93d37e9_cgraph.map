@@ -6,7 +6,7 @@
 <area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="293,208,459,235"/>
 <area shape="rect" id="node9" href="$d9/d04/classIFMapObject.html#a3c0732d12a4c6f800955bd88de9e640e" title="IFMapObject::sequence\l_number" alt="" coords="290,259,462,301"/>
 <area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#a18bc4289a44f649c27cb78fa0a5a14c1" title="IFMapNode::Remove" alt="" coords="299,325,453,352"/>
-<area shape="rect" id="node14" href="$d7/d4c/classIFMapAgentTable.html#aae77dc430c818daeb79c5a01a2ec15af" title="IFMapAgentTable::AllocEntry" alt="" coords="273,376,479,403"/>
+<area shape="rect" id="node14" href="$d7/d4c/classIFMapAgentTable.html#af90c4debd6b52a31bc1748bf0d6b2e3a" title="IFMapAgentTable::AllocEntry" alt="" coords="273,376,479,403"/>
 <area shape="rect" id="node15" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="279,427,473,453"/>
 <area shape="rect" id="node23" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="295,544,457,571"/>
 <area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#ac8b8a12905bd83bd062bcd178025e538" title="DBGraphVertex::set\l_vertex" alt="" coords="578,121,729,162"/>
@@ -19,8 +19,8 @@
 <area shape="rect" id="node17" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="859,377,1000,404"/>
 <area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1095,377,1297,404"/>
 <area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1081,429,1311,470"/>
-<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1360,377,1576,404"/>
-<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1625,370,1815,411"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1360,377,1576,404"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1625,370,1815,411"/>
 <area shape="rect" id="node24" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="566,478,741,519"/>
 <area shape="rect" id="node25" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="563,544,743,571"/>
 <area shape="rect" id="node30" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="562,595,745,621"/>

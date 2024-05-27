@@ -13,6 +13,6 @@ var classLinuxVxlanAgentInit =
     [ "Start", "d4/d07/classLinuxVxlanAgentInit.html#a64be8f37af11445ec8eb3222e54beb6d", null ],
     [ "UveShutdown", "d4/d07/classLinuxVxlanAgentInit.html#afac1b9c91201f515abbab50c2315c7fd", null ],
     [ "WaitForIdle", "d4/d07/classLinuxVxlanAgentInit.html#ada2c9337feb66215ef80ef63638fa7cf", null ],
-    [ "ksync_vxlan_", "d4/d07/classLinuxVxlanAgentInit.html#a1649d053041585be72063a5be83d8ea0", null ],
-    [ "uve_", "d4/d07/classLinuxVxlanAgentInit.html#a008d7414929eed5243eb4dddede5b163", null ]
+    [ "ksync_vxlan_", "d4/d07/classLinuxVxlanAgentInit.html#aac15069eead74061b583188de43986eb", null ],
+    [ "uve_", "d4/d07/classLinuxVxlanAgentInit.html#a9790eafd6727864906c9c88d0a4946ff", null ]
 ];

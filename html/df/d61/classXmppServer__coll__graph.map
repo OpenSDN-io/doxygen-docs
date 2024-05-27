@@ -8,6 +8,6 @@
 <area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,273,349,300"/>
 <area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="969,493,1226,534"/>
 <area shape="rect" id="node11" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,557,355,584"/>
-<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task" alt="" coords="624,557,675,584"/>
+<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="624,557,675,584"/>
 <area shape="rect" id="node16" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="981,661,1214,717"/>
 </map>

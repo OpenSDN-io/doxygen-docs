@@ -21,10 +21,10 @@
 <area shape="rect" id="node13" href="$d1/d03/classInstanceState.html#acbdee11150a46d7e52f5c73c9f0b8808" title="InstanceState::status" alt="" coords="1118,553,1277,580"/>
 <area shape="rect" id="node20" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="887,81,999,108"/>
 <area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1097,56,1298,83"/>
-<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1114,107,1281,133"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1114,107,1281,133"/>
 <area shape="rect" id="node25" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1136,5,1259,32"/>
-<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1352,52,1568,79"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1365,103,1555,145"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1352,52,1568,79"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1365,103,1555,145"/>
 <area shape="rect" id="node27" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1371,265,1549,292"/>
 <area shape="rect" id="node28" href="$d1/d03/classInstanceState.html#a0d16a4d4a836c89bb39c65a8a88bd9fc" title="InstanceState::tasks\l_running" alt="" coords="865,361,1020,402"/>
 <area shape="rect" id="node29" href="$d2/d17/classInstanceManager.html#aa5c0b69224eb538cc43da1b6d9bed47d" title="InstanceManager::ClearState" alt="" coords="838,309,1047,336"/>

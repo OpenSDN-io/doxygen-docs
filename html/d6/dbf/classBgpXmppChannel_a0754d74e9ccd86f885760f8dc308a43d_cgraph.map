@@ -46,6 +46,6 @@
 <area shape="rect" id="node42" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2ab0899a2190ba5ce936b6c687d96ba2" title="BgpMembershipManager\l::PeerRibState::set_action" alt="" coords="1199,618,1388,659"/>
 <area shape="rect" id="node43" href="$d2/d45/classBgpMembershipManager.html#a5a7ecc59c9b20109b1827214164c1dff" title="BgpMembershipManager\l::EnqueueEvent" alt="" coords="1202,683,1385,725"/>
 <area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1193,960,1394,987"/>
-<area shape="rect" id="node47" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1210,1011,1377,1037"/>
+<area shape="rect" id="node47" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1210,1011,1377,1037"/>
 <area shape="rect" id="node48" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1232,1061,1355,1088"/>
 </map>

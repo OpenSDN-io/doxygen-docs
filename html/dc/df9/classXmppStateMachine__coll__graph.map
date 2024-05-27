@@ -18,6 +18,6 @@
 <area shape="rect" id="node18" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1056,351,1139,377"/>
 <area shape="rect" id="node20" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,16,349,43"/>
 <area shape="rect" id="node24" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="969,1126,1226,1167"/>
-<area shape="rect" id="node25" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,1237,317,1264"/>
+<area shape="rect" id="node25" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,1237,317,1264"/>
 <area shape="rect" id="node29" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::intrusive_ptr\&lt; const\l sc::event_base \&gt;, WorkQueue\l\&lt; boost::intrusive_ptr\&lt; const\l sc::event_base \&gt; \&gt; \&gt;" alt="" coords="987,1293,1208,1379"/>
 </map>

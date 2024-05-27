@@ -1,11 +1,11 @@
 <map id="VNController::XmppMessageProcess" name="VNController::XmppMessageProcess">
 <area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a4771ad79ea5a22b9ac8f222093760a4f" title="Agent::controller_xmpp\l_channel" alt="" coords="865,1302,1039,1343"/>
-<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#a767dee153722d95cdcb5d6783cb28b6f" title="AgentXmppChannel::Receive\lBgpMessage" alt="" coords="277,587,488,629"/>
+<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#add343beacfc76e9751193db5308b5978" title="AgentXmppChannel::Receive\lBgpMessage" alt="" coords="277,587,488,629"/>
 <area shape="rect" id="node34" href="$da/d25/classAgentXmppChannel.html#af6f1010944144beb9b27457d60ce087f" title="AgentXmppChannel::Handle\lAgentXmppClientChannelEvent" alt="" coords="269,1243,496,1285"/>
 <area shape="rect" id="node40" href="$d8/dfe/classAgent.html#a0d70b7a1ea4297d58f71d553a6cd64ca" title="Agent::ifmap_xmpp_channel" alt="" coords="279,1192,487,1219"/>
-<area shape="rect" id="node41" href="$df/dac/classAgentIfMapXmppChannel.html#ab94e4b2e2af255f2a40b38e866af4aa1" title="AgentIfMapXmppChannel\l::ReceiveConfigMessage" alt="" coords="577,1470,764,1511"/>
+<area shape="rect" id="node41" href="$df/dac/classAgentIfMapXmppChannel.html#ad31e9e739e249c65fc6e0b271472b45b" title="AgentIfMapXmppChannel\l::ReceiveConfigMessage" alt="" coords="577,1470,764,1511"/>
 <area shape="rect" id="node45" href="$d8/dfe/classAgent.html#aaaafb03206c9ff816fbf49fb93a74945" title="Agent::dns_xmpp_channel" alt="" coords="286,1309,479,1336"/>
-<area shape="rect" id="node46" href="$d5/d06/classAgentDnsXmppChannel.html#a8f37f80a90420f9825874a2dc242e8b8" title="AgentDnsXmppChannel\l::ReceiveDnsMessage" alt="" coords="295,1061,471,1102"/>
+<area shape="rect" id="node46" href="$d5/d06/classAgentDnsXmppChannel.html#a0e1760f05c24d9355a9a4eb32a229cc5" title="AgentDnsXmppChannel\l::ReceiveDnsMessage" alt="" coords="295,1061,471,1102"/>
 <area shape="rect" id="node48" href="$d5/d06/classAgentDnsXmppChannel.html#ae9dbbfbf6eda4bc0ef5854139b061805" title="AgentDnsXmppChannel\l::HandleXmppClientChannelEvent" alt="" coords="261,1126,504,1167"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="902,1133,1002,1160"/>
 <area shape="rect" id="node5" href="$d0/d98/classAgentStats.html#a28c8cb8b9eb359da7b7180a3e7f5a46e" title="AgentStats::incr_xmpp\l_in_msgs" alt="" coords="586,734,755,775"/>

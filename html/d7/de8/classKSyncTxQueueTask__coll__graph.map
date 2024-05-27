@@ -1,5 +1,5 @@
 <map id="KSyncTxQueueTask" name="KSyncTxQueueTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="432,141,483,168"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="432,141,483,168"/>
 <area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; KSyncRx\lQueueData, WorkQueue\&lt;\l KSyncRxQueueData \&gt; \&gt;" alt="" coords="720,436,931,492"/>
 <area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; QueueEntry\lT, WorkQueue\&lt; QueueEntryT \&gt; \&gt;" alt="" coords="704,793,947,834"/>
 <area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IoContext\l *, WorkQueue\&lt; IoContext * \&gt; \&gt;" alt="" coords="708,154,943,195"/>

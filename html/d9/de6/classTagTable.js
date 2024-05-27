@@ -11,7 +11,7 @@ var classTagTable =
     [ "INVALID", "d9/de6/classTagTable.html#ad0e279a6b05f21bd17a0209d648d9f23aad21327380fcc6b04d258087883bcd68", null ],
     [ "TagTable", "d9/de6/classTagTable.html#a9ac4e89db471f5863b8ed951e6df4648", null ],
     [ "~TagTable", "d9/de6/classTagTable.html#a41a7a357ee70bac755e1b7bf30e2686f", null ],
-    [ "AllocEntry", "d9/de6/classTagTable.html#a06740e74c22dfa962780436d5d5300e6", null ],
+    [ "AllocEntry", "d9/de6/classTagTable.html#affa87b6ac5d46fb0b3b44c1db28e3baf", null ],
     [ "BuildData", "d9/de6/classTagTable.html#a0c8bc56aef73db7835f5d2f7553fe811", null ],
     [ "ChangeHandler", "d9/de6/classTagTable.html#af4e74a49075178bf5c8e3ecc07db47e2", null ],
     [ "CreateTable", "d9/de6/classTagTable.html#aaf91cb580eb7994d61c7da252e4a0046", null ],

@@ -8,7 +8,7 @@ var classResourceBackupManager =
     [ "BackupResource", "db/d1b/classResourceBackupManager.html#a5244ad0147a02a268150b3022b42f71c", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d1b/classResourceBackupManager.html#a5665c8cc666e65f18480b4c50d139009", null ],
     [ "Init", "db/d1b/classResourceBackupManager.html#ade875c915512109ac2a6b9169ed7f896", null ],
-    [ "ReadResourceDataFromFile", "db/d1b/classResourceBackupManager.html#a5272aba355f1c530efdc055972400239", null ],
+    [ "ReadResourceDataFromFile", "db/d1b/classResourceBackupManager.html#a191d505c6bf3bb3eab855f32288df7b3", null ],
     [ "resource_manager", "db/d1b/classResourceBackupManager.html#ad2be7f75dadb5bc7549b730b79043f70", null ],
     [ "sandesh_maps", "db/d1b/classResourceBackupManager.html#a9a7bd8672281a2b175181b7ebf698d5b", null ],
     [ "WorkQueueBackUpProcess", "db/d1b/classResourceBackupManager.html#abd4c0fc8f006524377c32534102e1b88", null ],

@@ -31,6 +31,6 @@ var classIFMapGraphWalker =
     [ "link_delete_clients_", "de/dd8/classIFMapGraphWalker.html#ad3b265459e56b1722defdfcc332f03ed", null ],
     [ "link_delete_walk_trigger_", "de/dd8/classIFMapGraphWalker.html#a758f89168b9d39bfdd0b51343e05d0b3", null ],
     [ "new_reachable_nodes_tracker_", "de/dd8/classIFMapGraphWalker.html#a3b1e64f6a2ecad466f1e4387ae7e8fbf", null ],
-    [ "traversal_white_list_", "de/dd8/classIFMapGraphWalker.html#a5ecfc01b316ac6a42afd9bbfe2af98ba", null ],
+    [ "traversal_white_list_", "de/dd8/classIFMapGraphWalker.html#af9b0abd2f53137584eed2de36312887c", null ],
     [ "walk_client_index_", "de/dd8/classIFMapGraphWalker.html#a62f40489675ba712e1b9d54d138c18fe", null ]
 ];

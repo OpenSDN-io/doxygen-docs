@@ -1,5 +1,5 @@
 <map id="ConfigEtcdClient::EtcdWatcher" name="ConfigEtcdClient::EtcdWatcher">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="425,531,476,557"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="425,531,476,557"/>
 <area shape="rect" id="node3" href="$d4/db8/classConfigEtcdClient.html" title="ConfigEtcdClient" alt="" coords="501,531,629,557"/>
 <area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html" title="ConfigDbClient" alt="" coords="369,440,487,467"/>
 <area shape="rect" id="node5" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="349,349,507,376"/>

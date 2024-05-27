@@ -19,5 +19,5 @@ var classVirtualGatewayConfigTable =
     [ "table", "da/d40/classVirtualGatewayConfigTable.html#a4cafb3186b188393e09bb4bf60b5d15c", null ],
     [ "agent_", "da/d40/classVirtualGatewayConfigTable.html#ad84fc8460076e32673fcb6e8bf293fd3", null ],
     [ "table_", "da/d40/classVirtualGatewayConfigTable.html#af535b33fb77df527070810884c0bfab5", null ],
-    [ "work_queue_", "da/d40/classVirtualGatewayConfigTable.html#ac7401eeb12eec17a0756a2e4f0000d50", null ]
+    [ "work_queue_", "da/d40/classVirtualGatewayConfigTable.html#ad0ff2f1eba91427541f0733d112ac69b", null ]
 ];

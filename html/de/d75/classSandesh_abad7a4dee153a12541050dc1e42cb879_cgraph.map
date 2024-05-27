@@ -6,12 +6,12 @@
 <area shape="rect" id="node5" href="$de/df9/classTcpServer.html#add33239746452389f6188521166aee3c" title="TcpServer::WaitForEmpty" alt="" coords="707,43,891,69"/>
 <area shape="rect" id="node6" href="$de/de4/classServerManager.html#af8feafe14c4add22d2d78f0d5b28b805" title="ServerManager::DeleteServer" alt="" coords="692,93,905,120"/>
 <area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="441,161,642,188"/>
-<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#ae2fb16a2e170034945e3825be4a525c0" title="TaskScheduler::IsEmpty" alt="" coords="453,231,629,257"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="691,148,907,175"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="955,141,1146,182"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#ae2fb16a2e170034945e3825be4a525c0" title="Returns true if there are no tasks running and/or enqueued If running_only is true, enqueued tasks are ignored i.e. return true if there are no running tasks. Ignore TaskGroup or TaskEntry if it is disabled. " alt="" coords="453,231,629,257"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="691,148,907,175"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="955,141,1146,182"/>
 <area shape="rect" id="node12" href="$d1/d72/classTaskGroup.html#a220c3532954c5c626d2c151ea623ada2" title="TaskGroup::TaskRunCount" alt="" coords="704,199,893,225"/>
 <area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="715,249,882,276"/>
-<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="TaskGroup::IsWaitQEmpty" alt="" coords="703,300,894,327"/>
+<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="Returns true, if the waiq_ of all the tasks in the group are empty. " alt="" coords="703,300,894,327"/>
 <area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="971,275,1130,301"/>
 <area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="971,325,1131,352"/>
 </map>

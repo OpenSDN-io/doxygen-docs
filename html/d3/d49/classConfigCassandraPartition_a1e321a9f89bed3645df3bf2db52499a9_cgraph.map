@@ -35,9 +35,9 @@
 <area shape="rect" id="node26" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1457,536,1569,563"/>
 <area shape="rect" id="node31" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="1406,318,1621,344"/>
 <area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1685,708,1886,735"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1702,511,1869,538"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1702,511,1869,538"/>
 <area shape="rect" id="node30" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1724,562,1847,588"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1949,708,2165,735"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1949,708,2165,735"/>
 <area shape="rect" id="node34" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="1435,765,1592,806"/>
 <area shape="rect" id="node35" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title="ConfigJsonParserBase\l::Receive" alt="" coords="1432,588,1595,629"/>
 <area shape="rect" id="node39" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="1120,780,1325,807"/>

@@ -3,7 +3,7 @@ var classVnTable =
     [ "VnTable", "d2/d5c/classVnTable.html#aba58b0ec6dcd016f32f899220fa13ad1", null ],
     [ "~VnTable", "d2/d5c/classVnTable.html#a43d4cc138866455e8fffd101fd85ebdf", null ],
     [ "AddVn", "d2/d5c/classVnTable.html#a44cd23a7c3592335f68d65bb61e98bb5", null ],
-    [ "AllocEntry", "d2/d5c/classVnTable.html#a8ea40b275c945752071988b4ef1f329e", null ],
+    [ "AllocEntry", "d2/d5c/classVnTable.html#a28fefbd4e8583b476288a944333a8141", null ],
     [ "BuildData", "d2/d5c/classVnTable.html#adf60aa56b446819d6392fa7c4a60230d", null ],
     [ "BuildVnIpamData", "d2/d5c/classVnTable.html#a53910f3e07f2fa6cedcfdccd5386e65b", null ],
     [ "CfgForwardingFlags", "d2/d5c/classVnTable.html#a57db3e71f06f1caa5f460f79c8123384", null ],

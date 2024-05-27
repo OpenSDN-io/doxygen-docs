@@ -1,7 +1,7 @@
 <map id="DBTable::WalkWorker::Run" name="DBTable::WalkWorker::Run">
 <area shape="rect" id="node2" href="$d6/de5/classDBTable_1_1TableWalker.html#a01a0287ea1472cfdb51a448f31b9196b" title="DBTable::TableWalker\l::table" alt="" coords="284,5,447,46"/>
 <area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#a6a22304e13998dc7e545f12f8598b5a6" title="DBTable::GetWalkIteration\lToYield" alt="" coords="269,70,462,111"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a3b671048482af28d6adb3c4b80a0afc1" title="DBTable::AllocEntry" alt="" coords="291,136,440,163"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a2cc4f3290d7138cfda1e03521c817840" title="DBTable::AllocEntry" alt="" coords="291,136,440,163"/>
 <area shape="rect" id="node5" href="$df/d9e/classDBTablePartition.html#aad8f9670eae172cd2b30f9dac636a969" title="DBTablePartition::lower\l_bound" alt="" coords="279,187,452,229"/>
 <area shape="rect" id="node6" href="$df/d9e/classDBTablePartition.html#ae6d3dc74129d1e88f4b4d014b31cc040" title="DBTablePartition::GetFirst" alt="" coords="272,253,459,280"/>
 <area shape="rect" id="node7" href="$df/d9e/classDBTablePartition.html#aa06a20a900892cd9b2b663679b6afde5" title="DBTablePartition::GetNext" alt="" coords="270,304,461,331"/>

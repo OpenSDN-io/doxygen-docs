@@ -2,13 +2,13 @@
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="265,12,466,39"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="272,63,459,89"/>
 <area shape="rect" id="node6" href="$de/d27/classConfigClientManager.html#ab4f72075d5e6d3ea783b43f32be7fa5b" title="ConfigClientManager\l::GetNumConfigReader" alt="" coords="280,114,451,155"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a7de4915ea03556ed492242fa80ad811a" title="TaskScheduler::SetPolicy" alt="" coords="274,180,457,207"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="515,12,731,39"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="791,5,982,46"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="779,147,994,173"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a7de4915ea03556ed492242fa80ad811a" title="Sets the task exclusion policy. Adds policy entries for the task Examples: " alt="" coords="274,180,457,207"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="515,12,731,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="791,5,982,46"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="779,147,994,173"/>
 <area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title="TaskGroup::GetTaskEntry" alt="" coords="795,248,979,275"/>
 <area shape="rect" id="node10" href="$d1/d72/classTaskGroup.html#ae9559f655b182cf1b81765411a7b20bf" title="TaskGroup::PolicySet" alt="" coords="543,223,702,249"/>
 <area shape="rect" id="node11" href="$d1/d72/classTaskGroup.html#a285d1b92f38039e4ad857e29bd9fdc8b" title="TaskGroup::AddPolicy" alt="" coords="541,273,704,300"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="TaskScheduler::GetTaskEntry" alt="" coords="518,172,727,199"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="518,172,727,199"/>
 <area shape="rect" id="node13" href="$d9/daa/classTaskEntry.html#a4b6d647952992a5f869dbf84351d59f3" title="TaskEntry::AddPolicy" alt="" coords="545,71,701,97"/>
 </map>

@@ -34,10 +34,10 @@
 <area shape="rect" id="node40" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="1171,819,1269,845"/>
 <area shape="rect" id="node43" href="$dd/d26/classVrouterUveEntryBase.html#aa677bde873566901fb44148a2eb51a16" title="VrouterUveEntryBase\l::TimerExpiry" alt="" coords="1139,870,1301,911"/>
 <area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1643,831,1845,857"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1399,675,1566,701"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1399,675,1566,701"/>
 <area shape="rect" id="node39" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1421,776,1544,803"/>
-<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1893,831,2109,857"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1649,667,1839,709"/>
+<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1893,831,2109,857"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1649,667,1839,709"/>
 <area shape="rect" id="node37" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1683,733,1805,760"/>
 <area shape="rect" id="node38" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1661,616,1827,643"/>
 <area shape="rect" id="node41" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="1433,827,1532,853"/>

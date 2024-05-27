@@ -37,13 +37,13 @@
 <area shape="rect" id="node34" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2ab0899a2190ba5ce936b6c687d96ba2" title="BgpMembershipManager\l::PeerRibState::set_action" alt="" coords="1111,202,1300,243"/>
 <area shape="rect" id="node35" href="$d2/d45/classBgpMembershipManager.html#a5a7ecc59c9b20109b1827214164c1dff" title="BgpMembershipManager\l::EnqueueEvent" alt="" coords="1114,529,1297,570"/>
 <area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="841,981,1042,1008"/>
-<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="858,1061,1025,1088"/>
+<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="858,1061,1025,1088"/>
 <area shape="rect" id="node46" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="880,1112,1003,1139"/>
-<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1097,952,1313,979"/>
-<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1110,1054,1301,1095"/>
+<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1097,952,1313,979"/>
+<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1110,1054,1301,1095"/>
 <area shape="rect" id="node43" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1144,1120,1267,1147"/>
 <area shape="rect" id="node44" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1122,1171,1289,1197"/>
-<area shape="rect" id="node42" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1387,1054,1578,1095"/>
+<area shape="rect" id="node42" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1387,1054,1578,1095"/>
 <area shape="rect" id="node45" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1126,1221,1285,1248"/>
 <area shape="rect" id="node48" href="$d2/d45/classBgpMembershipManager.html#a48416107ce49836c472fdde4e1cc9740" title="BgpMembershipManager\l::Unregister" alt="" coords="587,341,770,382"/>
 <area shape="rect" id="node49" href="$d2/d45/classBgpMembershipManager.html#afa259e3c287436d031d75a899518ea0a" title="BgpMembershipManager\l::AssertUnregister" alt="" coords="1114,267,1297,309"/>

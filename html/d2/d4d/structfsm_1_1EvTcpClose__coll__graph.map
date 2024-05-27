@@ -24,7 +24,7 @@
 <area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,811,349,837"/>
 <area shape="rect" id="node16" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="945,149,1202,190"/>
 <area shape="rect" id="node14" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,203,355,229"/>
-<area shape="rect" id="node17" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,419,317,445"/>
+<area shape="rect" id="node17" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,419,317,445"/>
 <area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="950,339,1197,381"/>
 <area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpPeer \&gt;" alt="" coords="2947,1324,3128,1351"/>
 <area shape="rect" id="node24" href="$d9/d37/classDynamicPeer.html" title="DynamicPeer" alt="" coords="1459,1536,1568,1563"/>

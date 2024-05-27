@@ -48,7 +48,7 @@ var classPortIpcHandler =
     [ "agent_", "de/d08/classPortIpcHandler.html#a7b8a87b7aedd64aab0df8e7f2da6c0f1", null ],
     [ "interface_stale_cleaner_", "de/d08/classPortIpcHandler.html#aaa138ffe17d0d91dbf9a44f62697d732", null ],
     [ "kPortsDir", "de/d08/classPortIpcHandler.html#acac7948cee6e50d75ec6718348e5afd5", null ],
-    [ "port_subscribe_table_", "de/d08/classPortIpcHandler.html#a7bab4544569e31ee0fbb9cb41815749f", null ],
+    [ "port_subscribe_table_", "de/d08/classPortIpcHandler.html#a54f16b359ddcd068156979cac85f1c9e", null ],
     [ "ports_dir_", "de/d08/classPortIpcHandler.html#a857fd63eb17fe204b9e66d0faf1fd044", null ],
     [ "version_", "de/d08/classPortIpcHandler.html#a2c78724449034d7e2dfc719d86e1445e", null ],
     [ "vmvn_dir_", "de/d08/classPortIpcHandler.html#aebd1593e10b1099e4f448368342ebcbf", null ]

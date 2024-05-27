@@ -6,7 +6,7 @@
 <area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="617,525,831,552"/>
 <area shape="rect" id="node34" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1846,632,1997,659"/>
 <area shape="rect" id="node24" href="$d3/d2d/classBgpPeer.html" title="BgpPeer" alt="" coords="2673,1587,2749,1613"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,727,61,753"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="11,727,61,753"/>
 <area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="195,894,453,935"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="201,545,447,586"/>
 <area shape="rect" id="node28" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="657,2204,791,2231"/>

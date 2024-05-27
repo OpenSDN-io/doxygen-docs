@@ -28,18 +28,18 @@
 <area shape="rect" id="node22" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1196,291,1308,317"/>
 <area shape="rect" id="node36" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="1145,557,1359,584"/>
 <area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1423,240,1625,267"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1441,291,1607,317"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1441,291,1607,317"/>
 <area shape="rect" id="node35" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1463,341,1585,368"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1689,88,1905,115"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1955,81,2146,122"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1702,393,1893,434"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1689,88,1905,115"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1955,81,2146,122"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1702,393,1893,434"/>
 <area shape="rect" id="node29" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1736,291,1859,317"/>
 <area shape="rect" id="node30" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1714,341,1881,368"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1955,313,2146,354"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1955,313,2146,354"/>
 <area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1718,459,1877,485"/>
 <area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1694,509,1901,536"/>
-<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1688,139,1907,165"/>
-<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1691,189,1904,216"/>
+<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1688,139,1907,165"/>
+<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1691,189,1904,216"/>
 <area shape="rect" id="node39" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="1175,857,1329,884"/>
 <area shape="rect" id="node40" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="1173,726,1331,767"/>
 <area shape="rect" id="node41" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title="ConfigJsonParserBase\l::Receive" alt="" coords="1171,791,1333,833"/>

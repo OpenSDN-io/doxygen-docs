@@ -21,7 +21,7 @@
 <area shape="rect" id="node21" href="$d0/d64/classXmppConnection.html#a984d2a28f3876d7a8166064f3b6a6ebc" title="XmppConnection::StartKeep\lAliveTimer" alt="" coords="1006,334,1210,375"/>
 <area shape="rect" id="node17" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1315,248,1427,275"/>
 <area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1531,248,1733,275"/>
-<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1549,197,1715,224"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1549,197,1715,224"/>
 <area shape="rect" id="node20" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1571,299,1693,325"/>
 <area shape="rect" id="node22" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="1321,299,1420,325"/>
 <area shape="rect" id="node23" href="$d0/d64/classXmppConnection.html#a103e99a7c914f284452486c9ca0f14eb" title="XmppConnection::KeepAlive\lTimerExpired" alt="" coords="1267,350,1474,391"/>

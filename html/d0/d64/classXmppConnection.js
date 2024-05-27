@@ -124,7 +124,7 @@ var classXmppConnection =
     [ "kAuthTypeNil", "d0/d64/classXmppConnection.html#a45ea9024cb954cc29fc131e4b784701a", null ],
     [ "kAuthTypeTls", "d0/d64/classXmppConnection.html#ab8a044cff1ee23164946b4635552f421", null ],
     [ "keepalive_timer_", "d0/d64/classXmppConnection.html#a296b30c3678e2996b23b0dc8c2ff591e", null ],
-    [ "last_msg_", "d0/d64/classXmppConnection.html#af97a4d8effe4f2b4badce830cae24d1a", null ],
+    [ "last_msg_", "d0/d64/classXmppConnection.html#aa4421116f53058dd444b13ab2ace9ba8", null ],
     [ "local_endpoint_", "d0/d64/classXmppConnection.html#a0121b0b782cec4a5c2cb1f4a05ae7e22", null ],
     [ "log_uve_", "d0/d64/classXmppConnection.html#a7910fb2f07bd25a86cd60f9c014fe2dc", null ],
     [ "mux_", "d0/d64/classXmppConnection.html#aa80b22de4191d8c83ac789083deaf994", null ],

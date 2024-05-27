@@ -6,7 +6,7 @@
 <area shape="rect" id="node23" href="$db/df6/classKSyncBulkSandeshContext.html" title="KSyncBulkSandeshContext" alt="" coords="2589,881,2787,907"/>
 <area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; KSyncRxQueueData \&gt;" alt="" coords="1102,513,1359,539"/>
 <area shape="rect" id="node5" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; KSyncRx\lQueueData, WorkQueue\&lt;\l KSyncRxQueueData \&gt; \&gt;" alt="" coords="1551,453,1761,509"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task" alt="" coords="432,106,483,133"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="432,106,483,133"/>
 <area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IoContext\l *, WorkQueue\&lt; IoContext * \&gt; \&gt;" alt="" coords="1539,261,1773,303"/>
 <area shape="rect" id="node15" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; QueueEntry\lT, WorkQueue\&lt; QueueEntryT \&gt; \&gt;" alt="" coords="704,543,947,584"/>
 <area shape="rect" id="node7" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="762,629,889,655"/>

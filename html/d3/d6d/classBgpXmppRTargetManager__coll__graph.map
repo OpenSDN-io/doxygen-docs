@@ -12,7 +12,7 @@
 <area shape="rect" id="node12" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1899,1016,2002,1043"/>
 <area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="740,1540,825,1567"/>
 <area shape="rect" id="node36" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="753,1887,813,1913"/>
-<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,1455,76,1481"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,1455,76,1481"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,1274,482,1315"/>
 <area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,879,470,935"/>
 <area shape="rect" id="node26" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="230,1773,477,1814"/>

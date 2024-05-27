@@ -22,20 +22,20 @@
 <area shape="rect" id="node18" href="$d3/d2d/classBgpPeer.html#a007afab1d1a269c28e9ac82af799a306" title="BgpPeer::negotiated\l_families" alt="" coords="1092,209,1247,250"/>
 <area shape="rect" id="node19" href="$d3/d2d/classBgpPeer.html#a022240911b6f54662656ed3fd3ad06dc" title="BgpPeer::BGPPeerInfoSend" alt="" coords="1071,275,1268,301"/>
 <area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1069,528,1270,555"/>
-<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1086,376,1253,403"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1086,376,1253,403"/>
 <area shape="rect" id="node35" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1108,427,1231,453"/>
-<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1332,579,1548,605"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1345,259,1535,301"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1332,579,1548,605"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1345,259,1535,301"/>
 <area shape="rect" id="node26" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1379,325,1501,352"/>
 <area shape="rect" id="node27" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1357,376,1523,403"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1598,339,1789,381"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1598,339,1789,381"/>
 <area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1361,477,1519,504"/>
 <area shape="rect" id="node29" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1337,528,1543,555"/>
-<area shape="rect" id="node30" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1331,5,1549,32"/>
-<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1333,56,1547,83"/>
+<area shape="rect" id="node30" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1331,5,1549,32"/>
+<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1333,56,1547,83"/>
 <area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1360,107,1520,133"/>
-<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1349,157,1531,184"/>
-<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1351,208,1529,235"/>
+<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1349,157,1531,184"/>
+<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1351,208,1529,235"/>
 <area shape="rect" id="node37" href="$d3/d2d/classBgpPeer.html#a8db31e5144fec0e3ec74d7b49f0b7408" title="BgpPeer::IsRouterTypeBGPaaS" alt="" coords="1061,731,1278,757"/>
 <area shape="rect" id="node38" href="$d3/d2d/classBgpPeer.html#abaf66eb5863b6912c2217f18e53f89bd" title="BgpPeer::GetRTargetTable" alt="" coords="1075,629,1264,656"/>
 <area shape="rect" id="node42" href="$d3/d2d/classBgpPeer.html#ac2c2d0452c0048c316767db3054883a4" title="BgpPeer::BGPaaSDeleteRTarget" alt="" coords="1057,680,1282,707"/>

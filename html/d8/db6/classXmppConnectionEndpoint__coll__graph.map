@@ -17,5 +17,5 @@
 <area shape="rect" id="node17" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1008,687,1091,713"/>
 <area shape="rect" id="node19" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,433,352,460"/>
 <area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="921,1042,1178,1083"/>
-<area shape="rect" id="node24" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,935,76,961"/>
+<area shape="rect" id="node24" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,935,76,961"/>
 </map>

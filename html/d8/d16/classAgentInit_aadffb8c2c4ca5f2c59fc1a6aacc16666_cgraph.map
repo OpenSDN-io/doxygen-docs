@@ -37,7 +37,7 @@
 <area shape="rect" id="node27" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1121,409,1325,436"/>
 <area shape="rect" id="node34" href="$d8/d16/classAgentInit.html#a85e2cea82244c44d0c4f8bd2ffb5ea24" title="AgentInit::CreateNextHops" alt="" coords="595,624,791,651"/>
 <area shape="rect" id="node36" href="$d8/d16/classAgentInit.html#a93a31bfeddd416a9e43502c5ec8d7ab6" title="AgentInit::CreateInterfaces" alt="" coords="595,675,792,701"/>
-<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#afd2fdca805ca1e222ca355493e3771e2" title="TaskScheduler::EnableLatency\lThresholds" alt="" coords="584,726,803,767"/>
+<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#afd2fdca805ca1e222ca355493e3771e2" title="Enable logging of tasks exceeding configured latency. " alt="" coords="584,726,803,767"/>
 <area shape="rect" id="node39" href="$dc/dd4/classAgentParam.html#a4e145a1181a5da6ca727aa6d005a3e90" title="AgentParam::tbb_exec\l_delay" alt="" coords="609,791,777,833"/>
 <area shape="rect" id="node40" href="$dc/dd4/classAgentParam.html#a10f155686bfadcfdcfca5413f0428379" title="AgentParam::tbb_schedule\l_delay" alt="" coords="596,857,791,898"/>
 <area shape="rect" id="node41" href="$dc/dd4/classAgentParam.html#a3e4f1bfa02b38ecfb23f331d83c1e766" title="AgentParam::vgw_config\l_table" alt="" coords="602,922,785,963"/>
@@ -46,6 +46,6 @@
 <area shape="rect" id="node47" href="$d8/d16/classAgentInit.html#a9315dae334bb9e146f6fcc28b462b28b" title="AgentInit::InitDone" alt="" coords="621,1119,765,1145"/>
 <area shape="rect" id="node43" href="$da/d40/classVirtualGatewayConfigTable.html#a9dd3f5fea4f03d4aee9fa6c3b2fd237b" title="VirtualGatewayConfigTable\l::ProcessRequest" alt="" coords="863,987,1062,1029"/>
 <area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="869,1107,1056,1133"/>
-<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="855,1056,1070,1083"/>
+<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="855,1056,1070,1083"/>
 <area shape="rect" id="node50" href="$d8/d16/classAgentInit.html#a77622d7bddc17634efe3135d3899ef3c" title="AgentInit::ConnectToController" alt="" coords="583,1169,803,1196"/>
 </map>

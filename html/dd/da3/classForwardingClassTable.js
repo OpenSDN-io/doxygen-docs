@@ -2,7 +2,7 @@ var classForwardingClassTable =
 [
     [ "ForwardingClassTable", "dd/da3/classForwardingClassTable.html#a76b630f403e7f8977c4f8d2351676e75", null ],
     [ "~ForwardingClassTable", "dd/da3/classForwardingClassTable.html#a54f1fe53c56a8d80c128f02c5a35d967", null ],
-    [ "AllocEntry", "dd/da3/classForwardingClassTable.html#af689b2e3730296f2480c5e1fb7c3a45e", null ],
+    [ "AllocEntry", "dd/da3/classForwardingClassTable.html#aafbe82d1a3b6bcff0006c4b5b71da6be", null ],
     [ "BuildData", "dd/da3/classForwardingClassTable.html#a0af0fa9466462f67523607952d3a4ae8", null ],
     [ "CreateTable", "dd/da3/classForwardingClassTable.html#a16d9e745441f437040936bee7e4ae73f", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dd/da3/classForwardingClassTable.html#ab739e8841c538f525ee4de270092863a", null ],

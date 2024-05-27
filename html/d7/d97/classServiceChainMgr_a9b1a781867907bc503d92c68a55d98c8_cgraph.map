@@ -9,8 +9,8 @@
 <area shape="rect" id="node46" href="$db/d26/classBgpServer.html#ae1b50989fe8347f00f3acb93e86198cb" title="BgpServer::membership_mgr" alt="" coords="258,1171,470,1197"/>
 <area shape="rect" id="node47" href="$d2/d45/classBgpMembershipManager.html#a686b77e23ab04c7a36bce9418506cdfc" title="BgpMembershipManager\l::RegisterPeerRegistrationCallback" alt="" coords="241,1222,487,1263"/>
 <area shape="rect" id="node48" href="$d7/d97/classServiceChainMgr.html#adf33a17fe776e31ea0d4c142cd93a216" title="ServiceChainMgr::PeerRegistration\lCallback" alt="" coords="241,1805,487,1846"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="540,12,756,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="810,5,1001,46"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="540,12,756,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="810,5,1001,46"/>
 <area shape="rect" id="node8" href="$d4/da2/classConditionMatchState.html#a54c52df005749115acb6666b20eb7855" title="ConditionMatchState\l::deleted" alt="" coords="569,259,727,301"/>
 <area shape="rect" id="node9" href="$d4/da2/classConditionMatchState.html#a6ef8720a30dd2ac60a35d3dee31908c2" title="ConditionMatchState\l::reset_deleted" alt="" coords="569,325,727,366"/>
 <area shape="rect" id="node10" href="$d2/d39/classServiceChain.html#a3ce3f3a96004cc809cb5a1c6717d0582" title="ServiceChain::AddMoreSpecific" alt="" coords="537,391,759,417"/>

@@ -1,5 +1,5 @@
 <map id="MacLearningSandeshResp" name="MacLearningSandeshResp">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="728,5,779,32"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="728,5,779,32"/>
 <area shape="rect" id="node3" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="6,349,106,376"/>
 <area shape="rect" id="node7" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="378,736,457,763"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="723,1303,783,1329"/>
@@ -27,7 +27,7 @@
 <area shape="rect" id="node15" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="368,1360,467,1387"/>
 <area shape="rect" id="node49" href="$db/dfd/classIntfMirrorCfgTable.html" title="IntfMirrorCfgTable" alt="" coords="1307,1685,1445,1712"/>
 <area shape="rect" id="node19" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="381,1500,454,1527"/>
-<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="360,1551,475,1577"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="360,1551,475,1577"/>
 <area shape="rect" id="node40" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="380,1411,455,1437"/>
 <area shape="rect" id="node23" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="331,1601,503,1628"/>
 <area shape="rect" id="node24" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="338,1652,497,1679"/>

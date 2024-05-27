@@ -9,7 +9,7 @@
 <area shape="rect" id="node5" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html#a8aab157d3a855795d47a968befebce15" title="OVSDB::OvsdbClientIdl\l::ConcurrencyCheck" alt="" coords="1267,114,1437,155"/>
 <area shape="rect" id="node11" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html#ae157b5aeacf5dbc8cd68b79a3c2e3c95" title="OVSDB::OvsdbClientIdl\l::EncodeSendTxn" alt="" coords="759,194,929,235"/>
 <area shape="rect" id="node24" href="$d0/d6f/ovsdb__wrapper_8h.html#a5b37eacac9fef214add1edbbd95dd377" title="ovsdb_wrapper_idl_txn\l_create" alt="" coords="758,259,930,301"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Task::Running" alt="" coords="1557,121,1667,148"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Returns a pointer to the current task the code is executing under. " alt="" coords="1557,121,1667,148"/>
 <area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a83eccbcd01c1cb6be586608dbb445f37" title="Agent::task_scheduler" alt="" coords="1529,172,1695,199"/>
 <area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="1519,223,1705,249"/>
 <area shape="rect" id="node9" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#a4782a701f2bb5d4881109115a0c78654" title="OVSDB::OvsdbClientSession\l::TestConcurrencyAllow" alt="" coords="1509,5,1715,46"/>

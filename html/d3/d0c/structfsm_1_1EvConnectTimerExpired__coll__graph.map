@@ -1,5 +1,5 @@
 <map id="fsm::EvConnectTimerExpired" name="fsm::EvConnectTimerExpired">
 <area shape="rect" id="node3" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="275,195,335,221"/>
 <area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="362,96,496,123"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task" alt="" coords="356,5,407,32"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="356,5,407,32"/>
 </map>

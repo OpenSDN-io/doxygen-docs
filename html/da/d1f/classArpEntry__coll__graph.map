@@ -10,7 +10,7 @@
 <area shape="rect" id="node16" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="659,907,845,933"/>
 <area shape="rect" id="node26" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="703,828,801,855"/>
 <area shape="rect" id="node28" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="539,1443,599,1469"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="512,168,627,195"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="512,168,627,195"/>
 <area shape="rect" id="node47" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1687,901,1801,928"/>
 <area shape="rect" id="node6" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="1672,1987,1816,2013"/>
 <area shape="rect" id="node7" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="1306,1987,1419,2013"/>
@@ -34,7 +34,7 @@
 <area shape="rect" id="node24" href="$dd/da3/classForwardingClassTable.html" title="ForwardingClassTable" alt="" coords="883,621,1045,648"/>
 <area shape="rect" id="node44" href="$d8/dd0/classFlowProto.html" title="FlowProto" alt="" coords="921,1485,1007,1512"/>
 <area shape="rect" id="node29" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="171,1561,306,1588"/>
-<area shape="rect" id="node30" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,1536,76,1563"/>
+<area shape="rect" id="node30" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,1536,76,1563"/>
 <area shape="rect" id="node34" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="927,761,1001,788"/>
 <area shape="rect" id="node37" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="878,1053,1050,1080"/>
 <area shape="rect" id="node38" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="885,1104,1043,1131"/>

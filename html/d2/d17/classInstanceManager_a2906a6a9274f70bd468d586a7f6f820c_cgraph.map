@@ -40,7 +40,7 @@
 <area shape="rect" id="node29" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1351,919,1473,945"/>
 <area shape="rect" id="node37" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="839,1003,951,1029"/>
 <area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1049,1020,1250,1047"/>
-<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1066,1071,1233,1097"/>
+<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1066,1071,1233,1097"/>
 <area shape="rect" id="node44" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1323,89,1501,116"/>
 <area shape="rect" id="node45" href="$d1/d03/classInstanceState.html#a0d16a4d4a836c89bb39c65a8a88bd9fc" title="InstanceState::tasks\l_running" alt="" coords="817,82,972,123"/>
 <area shape="rect" id="node46" href="$d2/d17/classInstanceManager.html#aa5c0b69224eb538cc43da1b6d9bed47d" title="InstanceManager::ClearState" alt="" coords="790,213,999,240"/>

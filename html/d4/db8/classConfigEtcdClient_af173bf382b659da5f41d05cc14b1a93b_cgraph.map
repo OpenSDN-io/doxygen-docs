@@ -26,6 +26,6 @@
 <area shape="rect" id="node24" href="$df/d58/classprocess_1_1ConnectionState.html#aee01aea290e3aa072aed9fe6acac04f6" title="process::ConnectionState\l::GetInstance" alt="" coords="835,142,1021,183"/>
 <area shape="rect" id="node26" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title="process::ConnectionState\l::Update" alt="" coords="835,207,1021,248"/>
 <area shape="rect" id="node25" href="$df/d58/classprocess_1_1ConnectionState.html#a16dc4b9616ab7c1c26b51b86ec0d2dbf" title="process::ConnectionState\l::ConnectionState" alt="" coords="1127,142,1313,183"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="528,744,744,770"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="833,736,1023,778"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="528,744,744,770"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="833,736,1023,778"/>
 </map>

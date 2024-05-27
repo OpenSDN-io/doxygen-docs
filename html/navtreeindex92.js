@@ -1,5 +1,9 @@
 var NAVTREEINDEX92 =
 {
+"d6/d28/classMessage.html":[2,0,1134],
+"d6/d28/classMessage.html#a001217ae44b196b969385154bb92e1d6":[2,0,1134,10],
+"d6/d28/classMessage.html#a07d953c2cdadac9c2ec46c5931042924":[2,0,1134,8],
+"d6/d28/classMessage.html#a48f64cd474fc9d141a3e35a22e31e473":[2,0,1134,6],
 "d6/d28/classMessage.html#a4fc4f717b634e66070366cb7722d7761":[2,0,1134,0],
 "d6/d28/classMessage.html#a5f1efe538685b23629f5d851f62ce649":[2,0,1134,5],
 "d6/d28/classMessage.html#a7bed4723ea2245ca6a8e613d6a8355d9":[2,0,1134,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX92 =
 "d6/d3f/structCommunitySpec.html#af42794778fe078d469baeee69cdb4cb1":[2,0,471,2],
 "d6/d40/agent__stats__collector_8h.html":[3,0,40],
 "d6/d40/agent__stats__collector_8h_source.html":[3,0,40],
-"d6/d40/bgp__router_8h.html":[3,0,166],
-"d6/d40/bgp__router_8h.html#a0590f52e0e887b92cc5de4e01a2d067c":[3,0,166,6],
-"d6/d40/bgp__router_8h.html#a1ebe2a41127343d26819a95e9131ae93":[3,0,166,8],
-"d6/d40/bgp__router_8h.html#a2f2b3a5d51b808e4de4370bff5a5382a":[3,0,166,7],
-"d6/d40/bgp__router_8h.html#aab673f394bd9d5a99989102690912602":[3,0,166,3]
+"d6/d40/bgp__router_8h.html":[3,0,166]
 };

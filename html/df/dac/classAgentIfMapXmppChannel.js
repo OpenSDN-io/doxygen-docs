@@ -11,7 +11,7 @@ var classAgentIfMapXmppChannel =
     [ "identifier", "df/dac/classAgentIfMapXmppChannel.html#a759954b6dbbc285399d2aa8c2d06f3b3", null ],
     [ "NewSeqNumber", "df/dac/classAgentIfMapXmppChannel.html#a4ae47aa6d67a35310c65c6b34f43a21e", null ],
     [ "ProcessEndOfConfig", "df/dac/classAgentIfMapXmppChannel.html#a28b4354936d97a7a31e25f542a07fa90", null ],
-    [ "ReceiveConfigMessage", "df/dac/classAgentIfMapXmppChannel.html#ab94e4b2e2af255f2a40b38e866af4aa1", null ],
+    [ "ReceiveConfigMessage", "df/dac/classAgentIfMapXmppChannel.html#ad31e9e739e249c65fc6e0b271472b45b", null ],
     [ "ReceiveInternal", "df/dac/classAgentIfMapXmppChannel.html#a5dd2c0b9d840c7bc5f1d0b7c2a74adc7", null ],
     [ "ReceiveUpdate", "df/dac/classAgentIfMapXmppChannel.html#a4dc10933841451a277300dc3914fad35", null ],
     [ "SendUpdate", "df/dac/classAgentIfMapXmppChannel.html#ac6e205d55466107ddfbda2d455fa2e9a", null ],

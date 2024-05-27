@@ -23,8 +23,8 @@
 <area shape="rect" id="node31" href="$dc/dd4/classAgentParam.html#aafdd671ed0faf5a8573df04bf73e6601" title="AgentParam::Validate" alt="" coords="404,1116,567,1143"/>
 <area shape="rect" id="node33" href="$dc/dd4/classAgentParam.html#aa9ddd2a2802aaee6709b8a65de6e0c43" title="AgentParam::PostValidate\lLogConfig" alt="" coords="390,1167,581,1209"/>
 <area shape="rect" id="node34" href="$d8/d16/classAgentInit.html#a9e23896ec28770e6091b0fd59b45e3fe" title="AgentInit::InitBase" alt="" coords="414,1233,557,1260"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="644,12,860,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="917,5,1107,46"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="644,12,860,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="917,5,1107,46"/>
 <area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a85132f17b5a17edaa2b54197e3f61272" title="AgentParam::platform" alt="" coords="669,63,835,89"/>
 <area shape="rect" id="node11" href="$dc/dd4/classAgentParam.html#a3acdf70f71724c8031836fbd1da98eda" title="AgentParam::agent_name" alt="" coords="657,113,847,140"/>
 <area shape="rect" id="node15" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title="CheckEnvironmentAndUpdate" alt="" coords="643,367,861,393"/>

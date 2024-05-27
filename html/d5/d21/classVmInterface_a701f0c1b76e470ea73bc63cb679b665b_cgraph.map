@@ -27,7 +27,7 @@
 <area shape="rect" id="node48" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="499,1094,704,1121"/>
 <area shape="rect" id="node19" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="812,1183,924,1210"/>
 <area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1025,1183,1226,1210"/>
-<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1042,1234,1209,1261"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1042,1234,1209,1261"/>
 <area shape="rect" id="node22" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1064,1133,1187,1159"/>
 <area shape="rect" id="node24" href="$db/d35/classVrfTable.html#a9c5dcf08620bc3a9b314c965ded8ff23" title="VrfTable::GetRouteTable" alt="" coords="779,189,957,215"/>
 <area shape="rect" id="node25" href="$db/d35/classVrfTable.html#a0bf510f7d2deec00ba81677a6f6252d5" title="VrfTable::DeleteFromDbTree" alt="" coords="767,239,969,266"/>

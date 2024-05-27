@@ -9,7 +9,7 @@ var classAgentDnsXmppChannel =
     [ "GetXmppServer", "d5/d06/classAgentDnsXmppChannel.html#a7845104cbef942cdd6ac11e36672ebd0", null ],
     [ "GetXmppServerIdx", "d5/d06/classAgentDnsXmppChannel.html#a2cd17059f24eac53e28d87e85c649e63", null ],
     [ "HandleXmppClientChannelEvent", "d5/d06/classAgentDnsXmppChannel.html#ae9dbbfbf6eda4bc0ef5854139b061805", null ],
-    [ "ReceiveDnsMessage", "d5/d06/classAgentDnsXmppChannel.html#a8f37f80a90420f9825874a2dc242e8b8", null ],
+    [ "ReceiveDnsMessage", "d5/d06/classAgentDnsXmppChannel.html#a0e1760f05c24d9355a9a4eb32a229cc5", null ],
     [ "ReceiveInternal", "d5/d06/classAgentDnsXmppChannel.html#a223913f9431d51eb5cfdd690091bb1c3", null ],
     [ "ReceiveMsg", "d5/d06/classAgentDnsXmppChannel.html#ab12324016d833c5b7adc5d8e4361a7b3", null ],
     [ "RegisterXmppChannel", "d5/d06/classAgentDnsXmppChannel.html#ac6b0f6c94e667b4f147012127c8df6f7", null ],

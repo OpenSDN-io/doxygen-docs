@@ -52,7 +52,7 @@ var classDBTableBase =
     [ "walker_count", "d7/df2/classDBTableBase.html#a66e3ea37fd009a19ec7b9578100b4fcf", null ],
     [ "db_", "d7/df2/classDBTableBase.html#a15719406a4f833d2a0211de43283b49c", null ],
     [ "enqueue_count_", "d7/df2/classDBTableBase.html#a5a6967750df975c146c2060e60aadc2d", null ],
-    [ "info_", "d7/df2/classDBTableBase.html#aee009b156632ec2ef67815608841cf26", null ],
+    [ "info_", "d7/df2/classDBTableBase.html#a720dd06b9d8e9b4d93cab80e3efe81a0", null ],
     [ "input_count_", "d7/df2/classDBTableBase.html#aef740dc352a9a5ebcf3ff86061de0299", null ],
     [ "kInvalidId", "d7/df2/classDBTableBase.html#a9f280152749cd0aa47c12b622daf6ccb", null ],
     [ "name_", "d7/df2/classDBTableBase.html#a6d738778531201e35b6415520fd458f1", null ],

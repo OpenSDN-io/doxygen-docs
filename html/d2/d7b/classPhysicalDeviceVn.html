@@ -145,7 +145,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad50e5e890eebb76ff4ab0cf75279bd6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3b7a88bb9bafd954a9e420b675a43e4c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/classPhysicalDeviceVn.html#a3b7a88bb9bafd954a9e420b675a43e4c">GetRefCount</a> () const </td></tr>
 <tr class="separator:a3b7a88bb9bafd954a9e420b675a43e4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25e36f72106f172d43bd825d844a3177"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d44/classDBEntryBase.html#a86c180015eb5b2392c29a58d554f0885">DBEntryBase::KeyPtr</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/classPhysicalDeviceVn.html#a25e36f72106f172d43bd825d844a3177">GetDBRequestKey</a> () const </td></tr>
+<tr class="memitem:a25e36f72106f172d43bd825d844a3177"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d44/classDBEntryBase.html#a2d4d190b8f196e68a9dd1d2af7840b15">DBEntryBase::KeyPtr</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/classPhysicalDeviceVn.html#a25e36f72106f172d43bd825d844a3177">GetDBRequestKey</a> () const </td></tr>
 <tr class="separator:a25e36f72106f172d43bd825d844a3177"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c24b728e98ffa6dc09e2d433fa33933"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../dc/dbd/policy__config__spec_8h.html#a48ee1bc5880e8af422e6f9cf40eb11dc">boost::uuids::uuid</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/classPhysicalDeviceVn.html#a7c24b728e98ffa6dc09e2d433fa33933">device_uuid</a> () const </td></tr>
 <tr class="separator:a7c24b728e98ffa6dc09e2d433fa33933"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -313,9 +313,9 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_types_classDBEntryBase"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classDBEntryBase')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d8/d44/classDBEntryBase.html">DBEntryBase</a></td></tr>
 <tr class="memitem:a44931257fe6b09e83e5b24f4b38b7658 inherit pub_types_classDBEntryBase"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d7/df2/classDBTableBase.html#acec2b821673f83ccdbcbf2205d766328">DBTableBase::ListenerId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d44/classDBEntryBase.html#a44931257fe6b09e83e5b24f4b38b7658">ListenerId</a></td></tr>
 <tr class="separator:a44931257fe6b09e83e5b24f4b38b7658 inherit pub_types_classDBEntryBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a86c180015eb5b2392c29a58d554f0885 inherit pub_types_classDBEntryBase"><td class="memItemLeft" align="right" valign="top">typedef std::auto_ptr<br class="typebreak"/>
-&lt; <a class="el" href="../../d5/d65/classDBRequestKey.html">DBRequestKey</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d44/classDBEntryBase.html#a86c180015eb5b2392c29a58d554f0885">KeyPtr</a></td></tr>
-<tr class="separator:a86c180015eb5b2392c29a58d554f0885 inherit pub_types_classDBEntryBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d4d190b8f196e68a9dd1d2af7840b15 inherit pub_types_classDBEntryBase"><td class="memItemLeft" align="right" valign="top">typedef std::unique_ptr<br class="typebreak"/>
+&lt; <a class="el" href="../../d5/d65/classDBRequestKey.html">DBRequestKey</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d44/classDBEntryBase.html#a2d4d190b8f196e68a9dd1d2af7840b15">KeyPtr</a></td></tr>
+<tr class="separator:a2d4d190b8f196e68a9dd1d2af7840b15 inherit pub_types_classDBEntryBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_attribs_classDBEntryBase"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_classDBEntryBase')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d8/d44/classDBEntryBase.html">DBEntryBase</a></td></tr>
 <tr class="memitem:a45bf7e584fe3fa00a210a2f5e20c5b95 inherit pub_attribs_classDBEntryBase"><td class="memItemLeft" align="right" valign="top">boost::intrusive::list_member_hook&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d44/classDBEntryBase.html#a45bf7e584fe3fa00a210a2f5e20c5b95">chg_list_</a></td></tr>
 <tr class="separator:a45bf7e584fe3fa00a210a2f5e20c5b95 inherit pub_attribs_classDBEntryBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -577,7 +577,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d44/classDBEntryBase.html#a86c180015eb5b2392c29a58d554f0885">DBEntryBase::KeyPtr</a> PhysicalDeviceVn::GetDBRequestKey </td>
+          <td class="memname"><a class="el" href="../../d8/d44/classDBEntryBase.html#a2d4d190b8f196e68a9dd1d2af7840b15">DBEntryBase::KeyPtr</a> PhysicalDeviceVn::GetDBRequestKey </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>

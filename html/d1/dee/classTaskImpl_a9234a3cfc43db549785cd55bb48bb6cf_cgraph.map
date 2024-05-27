@@ -4,8 +4,8 @@
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#affc5f7a4873ba5900992e6048488a6a3" title="TaskScheduler::schedule\l_delay" alt="" coords="205,107,387,149"/>
 <area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a52d183f66f6650299b62bab84ac7865b" title="TaskScheduler::track\l_run_time" alt="" coords="218,173,374,214"/>
 <area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a5245d749726c7323aed41f0f5ba71a16" title="TaskScheduler::execute\l_delay" alt="" coords="209,238,383,279"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="201,303,391,345"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="201,303,391,345"/>
 <area shape="rect" id="node10" href="$d1/d72/classTaskGroup.html#a0d1605d4d72979e464f59bc1cc578a90" title="TaskGroup::IncrementTotal\lRunTime" alt="" coords="199,369,393,410"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="445,56,661,83"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="710,49,901,90"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="445,56,661,83"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="710,49,901,90"/>
 </map>

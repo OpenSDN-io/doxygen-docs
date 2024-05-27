@@ -35,7 +35,7 @@ var classBgpSenderPartition =
     [ "UpdatePeer", "d7/d93/classBgpSenderPartition.html#aa7bed314f26d88c51777b92fab3ae3ec", null ],
     [ "UpdatePeerQueue", "d7/d93/classBgpSenderPartition.html#ac41d49d9b19f7f0b49d3fb2c3b1af522", null ],
     [ "UpdateRibOut", "d7/d93/classBgpSenderPartition.html#ae5fe45114928ebb1e6795f58f88b69ee", null ],
-    [ "WorkDequeue", "d7/d93/classBgpSenderPartition.html#adb166bd2dca4d9af4de5a8c9ea1b1c7a", null ],
+    [ "WorkDequeue", "d7/d93/classBgpSenderPartition.html#a18df5d697107c1f6bae547aa40a9072e", null ],
     [ "WorkEnqueue", "d7/d93/classBgpSenderPartition.html#ade428dcdc46692b639ca4e0fe0cb24d6", null ],
     [ "WorkPeerEnqueue", "d7/d93/classBgpSenderPartition.html#a96eb8e8cfd75dad6f2905ad865766a41", null ],
     [ "WorkPeerInvalidate", "d7/d93/classBgpSenderPartition.html#aeb6d093ebb18003882f3e211e5fcd604", null ],

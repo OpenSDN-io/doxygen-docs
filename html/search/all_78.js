@@ -175,7 +175,7 @@ var searchData=
   ['xmppiqsubtype',['XmppIqSubtype',['../d0/d0d/structXmppStanza_1_1XmppMessageIq.html#a4123eff2f89a137893ad8147b3b44171',1,'XmppStanza::XmppMessageIq']]],
   ['xmpplifetimemanager',['XmppLifetimeManager',['../df/d67/classXmppLifetimeManager.html',1,'XmppLifetimeManager'],['../df/d67/classXmppLifetimeManager.html#a67f1c7ca7e392947f332ebc6e426ee78',1,'XmppLifetimeManager::XmppLifetimeManager()']]],
   ['xmppmessage',['XmppMessage',['../d0/d5c/classXmppStanza_1_1XmppMessage.html',1,'XmppStanza']]],
-  ['xmppmessage',['XmppMessage',['../d0/d5c/classXmppStanza_1_1XmppMessage.html#a32ea6ed39d860ab3fbbdcf7ba24582be',1,'XmppStanza::XmppMessage']]],
+  ['xmppmessage',['XmppMessage',['../d0/d5c/classXmppStanza_1_1XmppMessage.html#a32ea6ed39d860ab3fbbdcf7ba24582be',1,'XmppStanza::XmppMessage::XmppMessage(XmppMessageType type)'],['../d0/d5c/classXmppStanza_1_1XmppMessage.html#a6cba4ff5df760231d933f1310445f71b',1,'XmppStanza::XmppMessage::XmppMessage(const XmppMessage &amp;)=delete'],['../d0/d5c/classXmppStanza_1_1XmppMessage.html#adbde5064dd682a4854d9b1498f1ffd69',1,'XmppStanza::XmppMessage::XmppMessage(XmppMessage &amp;&amp;)=delete']]],
   ['xmppmessagebuildertest',['XmppMessageBuilderTest',['../d2/db6/classRibOutUpdates.html#ac2f2b44e73518c69b1fd75dd2e86c2ec',1,'RibOutUpdates']]],
   ['xmppmessageiq',['XmppMessageIq',['../d0/d0d/structXmppStanza_1_1XmppMessageIq.html',1,'XmppStanza']]],
   ['xmppmessageiq',['XmppMessageIq',['../d0/d0d/structXmppStanza_1_1XmppMessageIq.html#aead469036ca07ca017ef0cb6db64b93d',1,'XmppStanza::XmppMessageIq']]],

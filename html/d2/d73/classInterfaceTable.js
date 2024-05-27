@@ -11,7 +11,7 @@ var classInterfaceTable =
     [ "AddDhcpSnoopEntry", "d2/d73/classInterfaceTable.html#aa41e60dbecd0f5c024559b9768606cb1", null ],
     [ "AddVmiToVmiType", "d2/d73/classInterfaceTable.html#a67ed4c4d3eee03c2f70c355c6284963f", null ],
     [ "agent", "d2/d73/classInterfaceTable.html#ac5744c4d9b287f8ab0aeca108ccb1a09", null ],
-    [ "AllocEntry", "d2/d73/classInterfaceTable.html#a2376ec37700bc094514372e12c93d1fe", null ],
+    [ "AllocEntry", "d2/d73/classInterfaceTable.html#af75827ca18a74842168a52f11b7fe48d", null ],
     [ "AuditDhcpSnoopTable", "d2/d73/classInterfaceTable.html#ac0fa2aea65c3bebe1ee30f67659110af", null ],
     [ "Clear", "d2/d73/classInterfaceTable.html#ae3b1052a4c4e686d0cc89346aad93a02", null ],
     [ "CreateTable", "d2/d73/classInterfaceTable.html#a7a3de5c6961782a470a879d473d9439e", null ],

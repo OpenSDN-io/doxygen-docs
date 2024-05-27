@@ -1,5 +1,5 @@
 <map id="DhcpLeaseDb" name="DhcpLeaseDb">
 <area shape="rect" id="node3" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="151,187,211,213"/>
 <area shape="rect" id="node5" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="227,96,361,123"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task" alt="" coords="221,5,272,32"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="221,5,272,32"/>
 </map>

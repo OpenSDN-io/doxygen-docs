@@ -11,7 +11,7 @@
 <area shape="rect" id="node20" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="485,1527,672,1553"/>
 <area shape="rect" id="node31" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="529,1720,628,1747"/>
 <area shape="rect" id="node33" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="370,747,430,773"/>
-<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="521,1803,636,1829"/>
+<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="521,1803,636,1829"/>
 <area shape="rect" id="node11" href="$db/ddb/classAgentOperDBEntry.html" title="AgentOperDBEntry" alt="" coords="1487,133,1631,160"/>
 <area shape="rect" id="node13" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="1089,449,1290,476"/>
 <area shape="rect" id="node16" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge, EVPN (Type2/Type5). This base class contains common code for all types of route tables. " alt="" coords="1493,981,1624,1008"/>

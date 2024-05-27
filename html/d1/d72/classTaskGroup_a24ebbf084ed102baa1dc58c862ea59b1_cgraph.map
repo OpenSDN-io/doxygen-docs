@@ -2,10 +2,10 @@
 <area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title="TaskGroup::ActiveGroupIn\lPolicy" alt="" coords="267,5,458,46"/>
 <area shape="rect" id="node3" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="283,71,442,97"/>
 <area shape="rect" id="node4" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="277,121,448,148"/>
-<area shape="rect" id="node10" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="271,172,454,199"/>
+<area shape="rect" id="node10" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="271,172,454,199"/>
 <area shape="rect" id="node5" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title="Task::SetState" alt="" coords="557,71,672,97"/>
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="514,121,715,148"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="507,172,722,199"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="771,121,987,148"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1035,114,1226,155"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="507,172,722,199"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="771,121,987,148"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1035,114,1226,155"/>
 </map>

@@ -3,8 +3,8 @@
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="915,43,1101,69"/>
 <area shape="rect" id="node6" href="$d4/de3/classConfigEtcdPartition.html#a9164944ebc782bab6572928eaa8b138f" title="ConfigEtcdPartition\l::ConfigReader" alt="" coords="209,897,354,938"/>
 <area shape="rect" id="node49" href="$d4/de3/classConfigEtcdPartition.html#a1dd0c00423731c52dbe5cad502ffa834" title="ConfigEtcdPartition\l::RequestHandler" alt="" coords="209,518,354,559"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1984,93,2200,120"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2249,86,2439,127"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1984,93,2200,120"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2249,86,2439,127"/>
 <area shape="rect" id="node7" href="$d4/de3/classConfigEtcdPartition.html#add24a8f23501f4e424e6832a2ed1e1af" title="ConfigEtcdPartition\l::client" alt="" coords="1215,873,1361,914"/>
 <area shape="rect" id="node8" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="1211,957,1365,984"/>
 <area shape="rect" id="node9" href="$de/d27/classConfigClientManager.html#a68bc8ebe7b2aeaefa2e9dc96f3ed75f1" title="ConfigClientManager\l::is_reinit_triggered" alt="" coords="405,926,563,967"/>
@@ -26,9 +26,9 @@
 <area shape="rect" id="node15" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="1521,156,1618,183"/>
 <area shape="rect" id="node16" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1513,257,1625,284"/>
 <area shape="rect" id="node20" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="1462,207,1677,233"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1751,283,1918,309"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1751,283,1918,309"/>
 <area shape="rect" id="node19" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1773,232,1896,259"/>
-<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1997,275,2187,317"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1997,275,2187,317"/>
 <area shape="rect" id="node22" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a8531e945cd03ffc90dfd17ed3cf53d27" title="ConfigEtcdPartition\l::UUIDCacheEntry::IsRetryTimer\lRunning" alt="" coords="894,708,1122,764"/>
 <area shape="rect" id="node25" href="$df/d87/classObjectCacheEntry.html#a1becf5711b5bf7ac8d8883812935c495" title="ObjectCacheEntry::GetObjType" alt="" coords="1178,559,1398,585"/>
 <area shape="rect" id="node26" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="1209,1009,1367,1050"/>

@@ -10,6 +10,6 @@
 <area shape="rect" id="node19" href="$df/d70/classDB.html" title="DB" alt="" coords="925,501,966,528"/>
 <area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,720,349,747"/>
 <area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1038,239,1295,281"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task" alt="" coords="720,311,771,337"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="720,311,771,337"/>
 <area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="1043,397,1290,438"/>
 </map>

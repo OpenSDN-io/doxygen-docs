@@ -11,7 +11,7 @@ var structDBRequest =
     [ "~DBRequest", "d7/df9/structDBRequest.html#a517e508535056a04a14dc0c6c16f1547", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d7/df9/structDBRequest.html#a8ba66142658447e3191a585971760adc", null ],
     [ "Swap", "d7/df9/structDBRequest.html#abfaba02072d4c3e9917154e6be4e515f", null ],
-    [ "data", "d7/df9/structDBRequest.html#a9c03224f92a1538c335740866c4e84d9", null ],
-    [ "key", "d7/df9/structDBRequest.html#a2a8f761e1f2e87452a049f1ebd82abe9", null ],
+    [ "data", "d7/df9/structDBRequest.html#ad287a746780e9771d3073c392045d64e", null ],
+    [ "key", "d7/df9/structDBRequest.html#a94c88f5224b1f8cb6adad61400c970d4", null ],
     [ "oper", "d7/df9/structDBRequest.html#a54b713cdde96ab6887520e208872ac25", null ]
 ];

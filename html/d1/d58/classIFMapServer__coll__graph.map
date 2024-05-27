@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d7/db7/classIFMapChannelManager.html" title="IFMapChannelManager" alt="" coords="2155,1591,2325,1617"/>
 <area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt;" alt="" coords="685,467,944,509"/>
 <area shape="rect" id="node4" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="1134,461,1397,531"/>
-<area shape="rect" id="node5" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,347,75,373"/>
+<area shape="rect" id="node5" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,347,75,373"/>
 <area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,367,479,409"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="234,901,467,957"/>
 <area shape="rect" id="node27" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapServer\l::QueueEntry, WorkQueue\&lt;\l IFMapServer::QueueEntry \&gt; \&gt;" alt="" coords="234,1689,467,1745"/>

@@ -7,7 +7,7 @@ var classVrfTable =
     [ "VrfNameTree", "db/d35/classVrfTable.html#a498b6674612b35a7c937831a10a5b99c", null ],
     [ "VrfTable", "db/d35/classVrfTable.html#a6b4987e775e5882ccc76e00691feeb9e", null ],
     [ "~VrfTable", "db/d35/classVrfTable.html#a0d357318a0d5c20510d402444260658d", null ],
-    [ "AllocEntry", "db/d35/classVrfTable.html#a2eb51b69f0648c01656ca4d6bbb15790", null ],
+    [ "AllocEntry", "db/d35/classVrfTable.html#ad9fb6aae95584c62a0a65bc5c6e4a8d5", null ],
     [ "Clear", "db/d35/classVrfTable.html#a624bfb3eba62c8d5a2a602cf4af2ab9b", null ],
     [ "CreateFabricPolicyVrf", "db/d35/classVrfTable.html#a2dc6d8dcfb8ba2456fa2907725bea1f1", null ],
     [ "CreateStaticVrf", "db/d35/classVrfTable.html#abbf75cd46f528a1d0d630567d551efd0", null ],

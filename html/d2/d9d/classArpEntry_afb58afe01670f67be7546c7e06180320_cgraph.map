@@ -29,13 +29,13 @@
 <area shape="rect" id="node33" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="748,595,847,621"/>
 <area shape="rect" id="node36" href="$d6/d21/classArpProto.html#a95dc2fb1d365a86d8086776174d9a923" title="ArpProto::TimerExpiry" alt="" coords="715,519,880,545"/>
 <area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1174,581,1375,608"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="947,747,1114,773"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="947,747,1114,773"/>
 <area shape="rect" id="node32" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="969,645,1092,672"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1424,581,1640,608"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1179,823,1370,865"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1424,581,1640,608"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1179,823,1370,865"/>
 <area shape="rect" id="node30" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1213,721,1336,748"/>
 <area shape="rect" id="node31" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1191,772,1358,799"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1437,743,1627,785"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1437,743,1627,785"/>
 <area shape="rect" id="node34" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="981,595,1080,621"/>
 <area shape="rect" id="node35" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="947,544,1114,571"/>
 <area shape="rect" id="node37" href="$d6/d21/classArpProto.html#ab394172bfb815b12464841c623ddc523" title="ArpProto::SendArpIpc" alt="" coords="951,493,1110,520"/>

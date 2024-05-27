@@ -32,7 +32,7 @@
 <area shape="rect" id="node49" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; PktInfo \&gt; \&gt;" alt="" coords="824,399,1024,441"/>
 <area shape="rect" id="node24" href="$db/d49/classIntrusivePtrRef.html" title="IntrusivePtrRef\&lt; VrfEntry \&gt;" alt="" coords="6,1165,207,1192"/>
 <area shape="rect" id="node26" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="482,1667,555,1693"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="461,1717,576,1744"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="461,1717,576,1744"/>
 <area shape="rect" id="node29" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="433,1768,605,1795"/>
 <area shape="rect" id="node30" href="$d0/d61/classServiceInstanceTable.html" title="ServiceInstanceTable" alt="" coords="439,545,598,572"/>
 <area shape="rect" id="node31" href="$d7/dc2/classVxLanTable.html" title="VxLanTable" alt="" coords="471,596,567,623"/>

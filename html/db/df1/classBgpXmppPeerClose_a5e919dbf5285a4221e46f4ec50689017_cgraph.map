@@ -41,10 +41,10 @@
 <area shape="rect" id="node38" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2ab0899a2190ba5ce936b6c687d96ba2" title="BgpMembershipManager\l::PeerRibState::set_action" alt="" coords="1401,202,1591,243"/>
 <area shape="rect" id="node39" href="$d2/d45/classBgpMembershipManager.html#a5a7ecc59c9b20109b1827214164c1dff" title="BgpMembershipManager\l::EnqueueEvent" alt="" coords="1405,675,1587,717"/>
 <area shape="rect" id="node42" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1131,1013,1333,1040"/>
-<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1149,1065,1315,1092"/>
+<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1149,1065,1315,1092"/>
 <area shape="rect" id="node46" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1171,963,1293,989"/>
-<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1388,1011,1604,1037"/>
-<area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1401,1062,1591,1103"/>
+<area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1388,1011,1604,1037"/>
+<area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1401,1062,1591,1103"/>
 <area shape="rect" id="node48" href="$d2/d45/classBgpMembershipManager.html#a48416107ce49836c472fdde4e1cc9740" title="BgpMembershipManager\l::Unregister" alt="" coords="878,341,1061,382"/>
 <area shape="rect" id="node49" href="$d2/d45/classBgpMembershipManager.html#afa259e3c287436d031d75a899518ea0a" title="BgpMembershipManager\l::AssertUnregister" alt="" coords="1405,267,1587,309"/>
 <area shape="rect" id="node50" href="$d2/d45/classBgpMembershipManager.html#a4b56aa2aa34e346df5964a5769f632d2" title="BgpMembershipManager\l::UnregisterRibInUnlocked" alt="" coords="1136,202,1328,243"/>

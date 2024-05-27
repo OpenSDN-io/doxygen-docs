@@ -16,7 +16,7 @@
 <area shape="rect" id="node7" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="488,224,693,251"/>
 <area shape="rect" id="node10" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="541,275,640,301"/>
 <area shape="rect" id="node11" href="$dc/d17/classGmpProto.html#ad22706471cb978bf6081a6c2988c4f62" title="GmpProto::GmpNotification\lTimer" alt="" coords="490,107,691,149"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="757,325,973,352"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="757,325,973,352"/>
 <area shape="rect" id="node13" href="$d5/df8/gmp__externs_8h.html#ab27c438190abc8f8536118dad306431e" title="gmp_register_io" alt="" coords="527,629,654,656"/>
 <area shape="rect" id="node14" href="$d3/df0/gmp__map_8cc.html#a7d767ee8882ed69ddbc1cad324dce3dd" title="gmp_xmit_ready" alt="" coords="525,680,657,707"/>
 <area shape="rect" id="node15" href="$d5/df8/gmp__externs_8h.html#aca80f44de9ad3d81bb48d17fd66d7387" title="gmp_register_peek_function" alt="" coords="487,731,694,757"/>

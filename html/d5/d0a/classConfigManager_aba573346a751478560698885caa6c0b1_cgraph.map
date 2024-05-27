@@ -8,34 +8,34 @@
 <area shape="rect" id="node7" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="508,991,631,1017"/>
 <area shape="rect" id="node8" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="486,940,653,967"/>
 <area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1682,747,1883,773"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="701,704,880,731"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1939,747,2155,773"/>
-<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2203,739,2394,781"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="701,704,880,731"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1939,747,2155,773"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2203,739,2394,781"/>
 <area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="928,503,1125,545"/>
 <area shape="rect" id="node14" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1704,5,1861,32"/>
 <area shape="rect" id="node15" href="$d6/d9c/classTask.html#a0161a7d110d066b7ba16ed4f44ec1bc8" title="Task::GetSeqno" alt="" coords="1219,207,1341,233"/>
 <area shape="rect" id="node16" href="$d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a" title="Task::SetSeqNo" alt="" coords="1219,257,1341,284"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="1675,485,1890,512"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1675,485,1890,512"/>
 <area shape="rect" id="node18" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1469,283,1592,309"/>
-<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="TaskScheduler::GetTaskEntry" alt="" coords="1175,409,1385,436"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1175,409,1385,436"/>
 <area shape="rect" id="node21" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1447,333,1614,360"/>
 <area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="1197,511,1363,537"/>
 <area shape="rect" id="node23" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1200,561,1360,588"/>
 <area shape="rect" id="node24" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="1445,747,1616,773"/>
-<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="TaskGroup::AddToDisableQ" alt="" coords="1182,612,1378,639"/>
+<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ. " alt="" coords="1182,612,1378,639"/>
 <area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1451,797,1610,824"/>
-<area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1442,629,1619,656"/>
+<area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1442,629,1619,656"/>
 <area shape="rect" id="node29" href="$d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title="TaskGroup::DeferOnPolicyFail" alt="" coords="1173,865,1387,892"/>
 <area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title="TaskEntry::DeferOnPolicyFail" alt="" coords="1177,713,1383,740"/>
-<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="TaskEntry::RunTask" alt="" coords="1207,156,1353,183"/>
+<area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="Starts a task. If there are more entries in waitq_ add them to deferq_. " alt="" coords="1207,156,1353,183"/>
 <area shape="rect" id="node20" href="$d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title="TaskGroup::GetTaskEntry" alt="" coords="1439,435,1623,461"/>
 <area shape="rect" id="node25" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title="Task::SetState" alt="" coords="1725,336,1840,363"/>
 <area shape="rect" id="node30" href="$d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title="TaskGroup::ActiveGroupIn\lPolicy" alt="" coords="1435,899,1626,941"/>
-<area shape="rect" id="node31" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1439,848,1622,875"/>
+<area shape="rect" id="node31" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1439,848,1622,875"/>
 <area shape="rect" id="node33" href="$d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title="TaskEntry::ActiveEntryIn\lPolicy" alt="" coords="1441,681,1620,722"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1435,115,1626,157"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1435,115,1626,157"/>
 <area shape="rect" id="node36" href="$d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e" title="TaskGroup::TaskStarted" alt="" coords="1443,181,1618,208"/>
-<area shape="rect" id="node37" href="$d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Task::StartTask" alt="" coords="1471,64,1590,91"/>
+<area shape="rect" id="node37" href="$d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Starts execution of a task. " alt="" coords="1471,64,1590,91"/>
 <area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#affc5f7a4873ba5900992e6048488a6a3" title="TaskScheduler::schedule\l_delay" alt="" coords="1692,122,1873,163"/>
 <area shape="rect" id="node39" href="$d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a" title="Task::SetTbbState" alt="" coords="1713,188,1852,215"/>
 <area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#a982e4022a634caa0ea0e1f5e2e6413d3" title="TaskScheduler::use\l_spawn" alt="" coords="1709,57,1856,98"/>

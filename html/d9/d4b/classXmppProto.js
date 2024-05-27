@@ -29,5 +29,5 @@ var classXmppProto =
     [ "SetFrom", "d9/d4b/classXmppProto.html#a2240b4de050385961114319d01e4f09e", null ],
     [ "SetTo", "d9/d4b/classXmppProto.html#a29802e98bf625ac3638b512325e0ae46", null ],
     [ "SetXmlns", "d9/d4b/classXmppProto.html#a3f0991659eb938478baa1fc1dc1a5c32", null ],
-    [ "open_doc_", "d9/d4b/classXmppProto.html#a09a9c212e2f990daba059a887f690642", null ]
+    [ "open_doc_", "d9/d4b/classXmppProto.html#ada1d799203fcf49aac945915ac779284", null ]
 ];

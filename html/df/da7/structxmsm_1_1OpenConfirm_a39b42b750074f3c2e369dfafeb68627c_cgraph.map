@@ -17,8 +17,8 @@
 <area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1173,684,1317,711"/>
 <area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a0d53793b1e02e3c542738392fd738800" title="TcpSession::AsyncReadHandler" alt="" coords="1134,557,1357,584"/>
 <area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1406,504,1607,531"/>
-<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1417,555,1596,581"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1656,504,1872,531"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1417,555,1596,581"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1656,504,1872,531"/>
 <area shape="rect" id="node17" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title="XmppProto::EncodeStream" alt="" coords="578,551,774,577"/>
 <area shape="rect" id="node18" href="$d0/d64/classXmppConnection.html#a2ae8250762a5581bc4efac608d962288" title="XmppConnection::inc\l_open_fail" alt="" coords="596,602,756,643"/>
 <area shape="rect" id="node19" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="573,668,779,695"/>
@@ -31,9 +31,9 @@
 <area shape="rect" id="node35" href="$dd/d43/classXmppServer.html#a95ae202c3be8ef85c166994b3d00274f" title="XmppServer::IsPeerCloseGraceful" alt="" coords="555,937,797,964"/>
 <area shape="rect" id="node38" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="555,836,797,863"/>
 <area shape="rect" id="node25" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="909,456,1021,483"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1162,612,1329,639"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1162,612,1329,639"/>
 <area shape="rect" id="node28" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1184,456,1307,483"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1411,606,1602,647"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1411,606,1602,647"/>
 <area shape="rect" id="node31" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="870,1040,1061,1067"/>
 <area shape="rect" id="node33" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="856,1091,1075,1133"/>
 <area shape="rect" id="node34" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title="XmppServer::NotifyConnection\lEvent" alt="" coords="854,974,1077,1015"/>

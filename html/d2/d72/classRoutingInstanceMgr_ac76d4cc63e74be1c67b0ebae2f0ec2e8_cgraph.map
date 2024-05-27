@@ -4,8 +4,8 @@
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="214,1533,445,1574"/>
 <area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a9dc4e2791fc50b5503be36ebc8d5afb9" title="RoutingInstanceMgr\l::ProcessInstanceConfigList" alt="" coords="230,1598,429,1639"/>
 <area shape="rect" id="node45" href="$d2/d72/classRoutingInstanceMgr.html#ac42029b3bc13980863a4e54db8c91c48" title="RoutingInstanceMgr\l::ProcessNeighborConfigList" alt="" coords="228,1817,431,1858"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="507,516,723,543"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="791,5,982,46"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="507,516,723,543"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="791,5,982,46"/>
 <area shape="rect" id="node8" href="$d2/d72/classRoutingInstanceMgr.html#a2b2cb49334f2bd76b58ff45fe11e31e5" title="RoutingInstanceMgr\l::deleted" alt="" coords="539,1758,690,1799"/>
 <area shape="rect" id="node9" href="$d2/d72/classRoutingInstanceMgr.html#a2562d9b4e0ecc2eb1bd51049f7152bc9" title="RoutingInstanceMgr\l::deleter" alt="" coords="811,1707,962,1749"/>
 <area shape="rect" id="node11" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="517,1656,712,1683"/>

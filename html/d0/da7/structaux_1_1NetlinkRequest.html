@@ -162,9 +162,9 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:a9ac1a8bf1737f0c090d0d64d961fb746"><td class="memItemLeft" align="right" valign="top">iovec&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da7/structaux_1_1NetlinkRequest.html#a9ac1a8bf1737f0c090d0d64d961fb746">iov_</a></td></tr>
 <tr class="memdesc:a9ac1a8bf1737f0c090d0d64d961fb746"><td class="mdescLeft">&#160;</td><td class="mdescRight">An iovec struct to keep headers with data.  <a href="#a9ac1a8bf1737f0c090d0d64d961fb746">More...</a><br/></td></tr>
 <tr class="separator:a9ac1a8bf1737f0c090d0d64d961fb746"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50662b16d4457bcebb3b24007bff0589"><td class="memItemLeft" align="right" valign="top">std::auto_ptr&lt; msghdr &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da7/structaux_1_1NetlinkRequest.html#a50662b16d4457bcebb3b24007bff0589">msg_ptr_</a></td></tr>
-<tr class="memdesc:a50662b16d4457bcebb3b24007bff0589"><td class="mdescLeft">&#160;</td><td class="mdescRight">A pointer to the Netlink message header.  <a href="#a50662b16d4457bcebb3b24007bff0589">More...</a><br/></td></tr>
-<tr class="separator:a50662b16d4457bcebb3b24007bff0589"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad69fc812f3731683392c5cba5bf1f53b"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; msghdr &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da7/structaux_1_1NetlinkRequest.html#ad69fc812f3731683392c5cba5bf1f53b">msg_ptr_</a></td></tr>
+<tr class="memdesc:ad69fc812f3731683392c5cba5bf1f53b"><td class="mdescLeft">&#160;</td><td class="mdescRight">A pointer to the Netlink message header.  <a href="#ad69fc812f3731683392c5cba5bf1f53b">More...</a><br/></td></tr>
+<tr class="separator:ad69fc812f3731683392c5cba5bf1f53b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><h3>template&lt;class T&gt;<br/>
@@ -419,7 +419,7 @@ template&lt;class T&gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a50662b16d4457bcebb3b24007bff0589"></a>
+<a class="anchor" id="ad69fc812f3731683392c5cba5bf1f53b"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -429,7 +429,7 @@ template&lt;class T&gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::auto_ptr&lt;msghdr&gt; <a class="el" href="../../d0/da7/structaux_1_1NetlinkRequest.html">aux::NetlinkRequest</a>&lt; T &gt;::msg_ptr_</td>
+          <td class="memname">std::unique_ptr&lt;msghdr&gt; <a class="el" href="../../d0/da7/structaux_1_1NetlinkRequest.html">aux::NetlinkRequest</a>&lt; T &gt;::msg_ptr_</td>
         </tr>
       </table>
   </td>

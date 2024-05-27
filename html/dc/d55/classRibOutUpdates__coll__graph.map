@@ -13,7 +13,7 @@
 <area shape="rect" id="node26" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1140,589,1247,616"/>
 <area shape="rect" id="node27" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="1759,784,1886,811"/>
 <area shape="rect" id="node38" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="899,633,1042,660"/>
-<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,664,75,691"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,664,75,691"/>
 <area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,646,479,687"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="227,358,474,399"/>
 <area shape="rect" id="node35" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="237,1117,464,1187"/>

@@ -44,7 +44,7 @@
 <area shape="rect" id="node45" href="$d0/dcd/classIFMapClient.html#a2a0f0ae8fc9d47dcba270287f5332b60" title="IFMapClient::HasVms" alt="" coords="563,996,723,1023"/>
 <area shape="rect" id="node46" href="$d7/db7/classIFMapChannelManager.html#a9b15e192627e650ef147def4a5cffef1" title="IFMapChannelManager\l::incr_duplicate_vmsub\l_messages" alt="" coords="557,735,729,791"/>
 <area shape="rect" id="node43" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="839,1173,1041,1200"/>
-<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="851,1123,1029,1149"/>
+<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="851,1123,1029,1149"/>
 <area shape="rect" id="node48" href="$d7/db7/classIFMapChannelManager.html#aea64d4048ef38947486de8ee69012e0b" title="IFMapChannelManager\l::incr_vmunsub_novrsub\l_messages" alt="" coords="553,1329,733,1385"/>
 <area shape="rect" id="node49" href="$d0/dcd/classIFMapClient.html#acaff8fcb9698dbf94b112bb852e67bec" title="IFMapClient::DeleteVm" alt="" coords="557,1199,728,1225"/>
 <area shape="rect" id="node50" href="$d7/db7/classIFMapChannelManager.html#aafb090a3b145bb7e9eb3a886cfd4e037" title="IFMapChannelManager\l::incr_vmunsub_novmsub\l_messages" alt="" coords="549,1249,737,1305"/>

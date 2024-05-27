@@ -35,8 +35,8 @@
 <area shape="rect" id="node25" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="881,1076,1004,1103"/>
 <area shape="rect" id="node26" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="859,1127,1026,1153"/>
 <area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1106,1099,1307,1125"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1117,1153,1296,1180"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1357,1096,1573,1123"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1117,1153,1296,1180"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1357,1096,1573,1123"/>
 <area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1367,1147,1564,1189"/>
 <area shape="rect" id="node33" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1135,941,1279,968"/>
 <area shape="rect" id="node34" href="$de/df9/classTcpServer.html#a80992c9419f511b798cd87cd3cf8140c" title="TcpServer::ConnectHandler" alt="" coords="1108,857,1305,884"/>

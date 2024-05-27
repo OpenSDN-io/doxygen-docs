@@ -20,7 +20,7 @@
 <area shape="rect" id="node17" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1051,709,1133,736"/>
 <area shape="rect" id="node19" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,7,349,33"/>
 <area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="963,1055,1221,1097"/>
-<area shape="rect" id="node24" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,1269,317,1296"/>
+<area shape="rect" id="node24" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,1269,317,1296"/>
 <area shape="rect" id="node33" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="979,1390,1205,1461"/>
 <area shape="rect" id="node28" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1387,1104,1517,1131"/>
 <area shape="rect" id="node29" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1742,1091,1957,1133"/>

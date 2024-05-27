@@ -2,7 +2,7 @@ var classQosQueueTable =
 [
     [ "QosQueueTable", "db/d81/classQosQueueTable.html#a895b423b20e83c6678f5e33d96d36db9", null ],
     [ "~QosQueueTable", "db/d81/classQosQueueTable.html#a39dab531f4e62c46326fee7213414e23", null ],
-    [ "AllocEntry", "db/d81/classQosQueueTable.html#a7a9b60a154d928aa3fbc4e9fa180a9b9", null ],
+    [ "AllocEntry", "db/d81/classQosQueueTable.html#aef92da6d74cb35fe92b67fab7e8bca88", null ],
     [ "CreateTable", "db/d81/classQosQueueTable.html#a57828fdadf481e77a99922b53ba51640", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d81/classQosQueueTable.html#a1063bbd1d1ed2b0ab7abf2802187f893", null ],
     [ "GetAgentSandesh", "db/d81/classQosQueueTable.html#aeed46d015e204f05ae5351afc9c52825", null ],

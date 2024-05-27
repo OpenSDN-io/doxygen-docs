@@ -1,6 +1,6 @@
 <map id="SessionStatsCollector::SessionTask" name="SessionStatsCollector::SessionTask">
 <area shape="rect" id="node3" href="$df/d96/classSessionStatsCollector.html" title="SessionStatsCollector" alt="" coords="2829,1459,2992,1485"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,1560,61,1587"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="11,1560,61,1587"/>
 <area shape="rect" id="node9" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="209,1373,343,1400"/>
 <area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; FlowStatsCollector\lReq \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; FlowStatsCollectorReq \&gt; \&gt; \&gt;" alt="" coords="1139,1778,1391,1849"/>
 <area shape="rect" id="node49" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; SessionStatsReq\l \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; SessionStatsReq \&gt; \&gt; \&gt;" alt="" coords="1154,1873,1377,1943"/>
@@ -17,7 +17,7 @@
 <area shape="rect" id="node48" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; SessionStatsReq \&gt; \&gt;" alt="" coords="685,1921,885,1962"/>
 <area shape="rect" id="node16" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="928,324,1115,351"/>
 <area shape="rect" id="node27" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1451,416,1549,443"/>
-<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="964,887,1079,913"/>
+<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="964,887,1079,913"/>
 <area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="213,1899,339,1925"/>
 <area shape="rect" id="node44" href="$d6/d34/classIndexVector.html" title="IndexVector\&lt; FlowStatsCollector * \&gt;" alt="" coords="381,2100,643,2127"/>
 <area shape="rect" id="node23" href="$d7/de7/classKSync.html" title="KSync" alt="" coords="2503,952,2566,979"/>

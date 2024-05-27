@@ -1,4 +1,4 @@
 <map id="TaskDeferEntryCmp::operator()" name="TaskDeferEntryCmp::operator()">
-<area shape="rect" id="node2" href="$d9/daa/classTaskEntry.html#ab40ba85ba1ac4835a43d615e225944f1" title="TaskEntry::GetTaskDeferEntry\lSeqno" alt="" coords="214,5,429,46"/>
+<area shape="rect" id="node2" href="$d9/daa/classTaskEntry.html#ab40ba85ba1ac4835a43d615e225944f1" title="Addition/deletion of TaskEntry in the deferq_ is based on the seqno. seqno of the first Task in the w..." alt="" coords="214,5,429,46"/>
 <area shape="rect" id="node3" href="$d6/d9c/classTask.html#a0161a7d110d066b7ba16ed4f44ec1bc8" title="Task::GetSeqno" alt="" coords="477,12,600,39"/>
 </map>

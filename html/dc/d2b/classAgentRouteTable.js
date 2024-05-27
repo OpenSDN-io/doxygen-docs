@@ -9,7 +9,7 @@ var classAgentRouteTable =
     [ "AddUnresolvedNH", "dc/d2b/classAgentRouteTable.html#af3512221b599a37a413a251a6245a84b", null ],
     [ "AddUnresolvedRoute", "dc/d2b/classAgentRouteTable.html#a79d6545e76764b006066fadb0501c6d2", null ],
     [ "agent", "dc/d2b/classAgentRouteTable.html#a50d9519550f0502381cf5e42e9a83218", null ],
-    [ "AllocEntry", "dc/d2b/classAgentRouteTable.html#a2e65166fec8e6a94e85605b3745e2ef9", null ],
+    [ "AllocEntry", "dc/d2b/classAgentRouteTable.html#afb1ca17a1348dfbdd88d7f51f270852a", null ],
     [ "deleter", "dc/d2b/classAgentRouteTable.html#a670d969ec4f8069e0c183e892ff1b341", null ],
     [ "DeleteRouteDone", "dc/d2b/classAgentRouteTable.html#a7269db02446d97c5b47a7defa79577a0", null ],
     [ "DelExplicitRouteWalkerCb", "dc/d2b/classAgentRouteTable.html#a1b3653e8abc29e1afd06ab3107663eb9", null ],

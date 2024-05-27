@@ -2,7 +2,7 @@ var classBridgeDomainTable =
 [
     [ "BridgeDomainTable", "df/daf/classBridgeDomainTable.html#af039820e6cc5c599695b51ec0fc93672", null ],
     [ "~BridgeDomainTable", "df/daf/classBridgeDomainTable.html#acf1ba6eab66714fa59874b36840d7bff", null ],
-    [ "AllocEntry", "df/daf/classBridgeDomainTable.html#aa0b75bfeb2ab7590311731c2568835f5", null ],
+    [ "AllocEntry", "df/daf/classBridgeDomainTable.html#aba36135a86f2497c15cf3d6d9b48ba93", null ],
     [ "CreateTable", "df/daf/classBridgeDomainTable.html#a31f1d3732f600df1b6971cbf71ab9f06", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "df/daf/classBridgeDomainTable.html#af635ebd20e689eefa9cdf7219938e16b", null ],
     [ "Find", "df/daf/classBridgeDomainTable.html#ab264f9ec9bc18814dee519160c355479", null ],

@@ -34,10 +34,10 @@
 <area shape="rect" id="node24" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="804,881,916,908"/>
 <area shape="rect" id="node30" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="811,805,909,832"/>
 <area shape="rect" id="node33" href="$d8/d04/classDhcpProto.html#a7d8bdbd4f1f6b0027514ab4db935d3ec" title="DhcpProto::LeaseFileCleanup\lExpiry" alt="" coords="755,697,965,738"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1039,957,1206,984"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1039,957,1206,984"/>
 <area shape="rect" id="node29" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1061,856,1184,883"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1531,907,1747,933"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1795,899,1986,941"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1531,907,1747,933"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1795,899,1986,941"/>
 <area shape="rect" id="node31" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="1073,755,1172,781"/>
 <area shape="rect" id="node32" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1039,805,1206,832"/>
 <area shape="rect" id="node34" href="$d8/d04/classDhcpProto.html#ad6a99a7ef000dbd65162631f3169f3b3" title="DhcpProto::GetLeaseFileName" alt="" coords="1013,653,1232,680"/>

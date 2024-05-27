@@ -25,7 +25,7 @@
 <area shape="rect" id="node29" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="555,522,797,549"/>
 <area shape="rect" id="node16" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="909,375,1021,402"/>
 <area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1137,274,1338,301"/>
-<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1154,375,1321,402"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1154,375,1321,402"/>
 <area shape="rect" id="node19" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1176,325,1299,351"/>
 <area shape="rect" id="node22" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="870,609,1061,635"/>
 <area shape="rect" id="node24" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="856,660,1075,701"/>
@@ -38,7 +38,7 @@
 <area shape="rect" id="node43" href="$d2/db3/classXmppStateMachine.html#a759b40da560a8af455b7b8571d6b4aa8" title="XmppStateMachine::TimerError\lHandler" alt="" coords="563,340,789,381"/>
 <area shape="rect" id="node35" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="916,274,1015,301"/>
 <area shape="rect" id="node36" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="882,223,1049,250"/>
-<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1148,223,1327,250"/>
+<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1148,223,1327,250"/>
 <area shape="rect" id="node39" href="$d2/db3/classXmppStateMachine.html#a6512fddd994e086365de23ffb3d83fda" title="XmppStateMachine::ChannelType" alt="" coords="846,122,1085,149"/>
 <area shape="rect" id="node41" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="859,173,1071,199"/>
 <area shape="rect" id="node40" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title="XmppStateMachine::IsActive\lChannel" alt="" coords="1133,107,1341,148"/>

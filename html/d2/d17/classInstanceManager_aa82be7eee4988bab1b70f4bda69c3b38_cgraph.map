@@ -38,9 +38,9 @@
 <area shape="rect" id="node27" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1087,862,1209,889"/>
 <area shape="rect" id="node28" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1065,803,1231,830"/>
 <area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1310,866,1511,893"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1560,866,1776,893"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1560,866,1776,893"/>
 <area shape="rect" id="node38" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="839,982,951,1009"/>
-<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1065,982,1231,1009"/>
+<area shape="rect" id="node39" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1065,982,1231,1009"/>
 <area shape="rect" id="node44" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1059,87,1237,114"/>
 <area shape="rect" id="node45" href="$d1/d03/classInstanceState.html#a0d16a4d4a836c89bb39c65a8a88bd9fc" title="InstanceState::tasks\l_running" alt="" coords="572,80,727,121"/>
 <area shape="rect" id="node46" href="$d2/d17/classInstanceManager.html#aa5c0b69224eb538cc43da1b6d9bed47d" title="InstanceManager::ClearState" alt="" coords="545,211,754,238"/>

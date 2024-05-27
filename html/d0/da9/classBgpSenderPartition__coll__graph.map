@@ -10,7 +10,7 @@
 <area shape="rect" id="node5" href="$d2/d48/classBgpUpdateSender.html" title="BgpUpdateSender" alt="" coords="1587,527,1725,553"/>
 <area shape="rect" id="node9" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IPeerUpdate\l *, WorkQueue\&lt; IPeerUpdate * \&gt; \&gt;" alt="" coords="225,898,477,939"/>
 <area shape="rect" id="node14" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="701,216,787,243"/>
-<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task" alt="" coords="24,337,75,364"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,337,75,364"/>
 <area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,250,479,291"/>
 <area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="227,589,474,630"/>
 <area shape="rect" id="node23" href="$df/d70/classDB.html" title="DB" alt="" coords="925,149,966,176"/>

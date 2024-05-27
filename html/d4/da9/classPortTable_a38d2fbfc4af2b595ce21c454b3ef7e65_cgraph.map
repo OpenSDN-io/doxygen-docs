@@ -2,8 +2,8 @@
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="2223,549,2425,576"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="267,701,453,728"/>
 <area shape="rect" id="node6" href="$d4/da9/classPortTable.html#a9843e471b24cda0723173d8bdbc24616" title="PortTable::HandlePortConfig" alt="" coords="259,651,461,677"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="2477,549,2693,576"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2742,542,2933,583"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2477,549,2693,576"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2742,542,2933,583"/>
 <area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="994,613,1115,640"/>
 <area shape="rect" id="node8" href="$d4/da9/classPortTable.html#ac667554298adcaa0617bbc1d31f7fab8" title="PortTable::IsValidPort" alt="" coords="510,651,669,677"/>
 <area shape="rect" id="node9" href="$d4/da9/classPortTable.html#a6a6cd4f17c8350dc1a90e46da71f7e26" title="PortTable::DeletePort" alt="" coords="735,803,894,829"/>
@@ -21,7 +21,7 @@
 <area shape="rect" id="node14" href="$df/d9e/classPortCacheEntry.html#a65cf270bcaf124d87204c8057eb874a1" title="PortCacheEntry::key" alt="" coords="1753,651,1906,677"/>
 <area shape="rect" id="node15" href="$d7/d54/classPortCacheTable.html#a3af1552f84bb0f5895a7edac16616a5a" title="PortCacheTable::StopTimer" alt="" coords="1731,600,1928,627"/>
 <area shape="rect" id="node16" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="2017,600,2129,627"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="2241,651,2407,677"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="2241,651,2407,677"/>
 <area shape="rect" id="node18" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="2263,600,2385,627"/>
 <area shape="rect" id="node24" href="$d8/dd0/classFlowProto.html#a8cd206665e5beaa0bca2abdaa26e72d6" title="FlowProto::EnqueueFlowEvent" alt="" coords="1465,257,1682,284"/>
 <area shape="rect" id="node25" href="$dc/d05/classFlowEvent.html#a459c4bb26b0bf6bb39811a54ed000039" title="FlowEvent::event" alt="" coords="2257,148,2391,175"/>

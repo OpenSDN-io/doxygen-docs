@@ -23,8 +23,8 @@
 <area shape="rect" id="node19" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1740,41,1881,68"/>
 <area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1979,12,2181,39"/>
 <area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1965,63,2195,105"/>
-<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="2253,12,2469,39"/>
-<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="2518,5,2709,46"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2253,12,2469,39"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2518,5,2709,46"/>
 <area shape="rect" id="node26" href="$df/d9e/classDBTablePartition.html#ad2d8bc96b30dc1c6cc4fb81435b98280" title="DBTablePartition::table" alt="" coords="1492,244,1663,271"/>
 <area shape="rect" id="node27" href="$d7/df2/classDBTableBase.html#a54daa0c57733e5b639fcfa9008b916e5" title="DBTableBase::incr_input\l_count" alt="" coords="1488,574,1667,615"/>
 <area shape="rect" id="node28" href="$d5/d0a/classDBTable.html#a429b962cf1e5dfb24a6a942b5574a166" title="DBTable::Input" alt="" coords="1519,523,1635,549"/>
@@ -43,7 +43,7 @@
 <area shape="rect" id="node37" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="2272,537,2451,564"/>
 <area shape="rect" id="node38" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="2298,436,2425,463"/>
 <area shape="rect" id="node39" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="2259,487,2463,513"/>
-<area shape="rect" id="node41" href="$d5/d0a/classDBTable.html#a3b671048482af28d6adb3c4b80a0afc1" title="DBTable::AllocEntry" alt="" coords="2005,649,2155,676"/>
+<area shape="rect" id="node41" href="$d5/d0a/classDBTable.html#a2cc4f3290d7138cfda1e03521c817840" title="DBTable::AllocEntry" alt="" coords="2005,649,2155,676"/>
 <area shape="rect" id="node43" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="1993,399,2167,441"/>
 <area shape="rect" id="node44" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="1955,348,2205,375"/>
 <area shape="rect" id="node47" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="1985,548,2175,575"/>

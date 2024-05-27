@@ -13,7 +13,7 @@ var classMirrorTable =
     [ "AddMirrorEntry", "dd/da0/classMirrorTable.html#a30b7c62e7129c0f7ef2bc753169a85fc", null ],
     [ "AddResolvedVrfMirrorEntry", "dd/da0/classMirrorTable.html#ab25315b6b26caf215440207d569c5d09", null ],
     [ "AddUnresolved", "dd/da0/classMirrorTable.html#a22b79c7865654784422d4b124759a650", null ],
-    [ "AllocEntry", "dd/da0/classMirrorTable.html#ad5f13394ca88f9e4786a42009250307b", null ],
+    [ "AllocEntry", "dd/da0/classMirrorTable.html#a3cbe709fc938a0dd114954b3c0554b84", null ],
     [ "BridgeRouteTableNotify", "dd/da0/classMirrorTable.html#a1d0ab424fff4ae0802adb1d24f9b8913", null ],
     [ "CreateTable", "dd/da0/classMirrorTable.html#a05d11776497090e842bc23dc0b1374fc", null ],
     [ "DecodeMirrorFlag", "dd/da0/classMirrorTable.html#a166418f89ab7770becb0b2e0b04395a4", null ],
@@ -50,7 +50,7 @@ var classMirrorTable =
     [ "mirror_table_", "dd/da0/classMirrorTable.html#aa5eec77050b8aeb7918b2817db11220c", null ],
     [ "resolved_entry_list_", "dd/da0/classMirrorTable.html#a141141218f6a58304ceaed43df1b0ae8", null ],
     [ "rx_buff_", "dd/da0/classMirrorTable.html#a906aa19a2f2ccfd844dc32ffb9737a02", null ],
-    [ "udp_sock_", "dd/da0/classMirrorTable.html#a77bfad17bec7e16ac9c1683a20a5fdd7", null ],
+    [ "udp_sock_", "dd/da0/classMirrorTable.html#aec47bb5ca12cec00f3c18d4b772007e1", null ],
     [ "unresolved_entry_list_", "dd/da0/classMirrorTable.html#a6c63ecedf620a1e1aae74bcc4a050918", null ],
     [ "vrf_listener_id_", "dd/da0/classMirrorTable.html#ac7624971b03c708593a9b489035fe956", null ]
 ];

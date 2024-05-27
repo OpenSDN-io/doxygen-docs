@@ -1,5 +1,9 @@
 var NAVTREEINDEX93 =
 {
+"d6/d40/bgp__router_8h.html#a0590f52e0e887b92cc5de4e01a2d067c":[3,0,166,6],
+"d6/d40/bgp__router_8h.html#a1ebe2a41127343d26819a95e9131ae93":[3,0,166,8],
+"d6/d40/bgp__router_8h.html#a2f2b3a5d51b808e4de4370bff5a5382a":[3,0,166,7],
+"d6/d40/bgp__router_8h.html#aab673f394bd9d5a99989102690912602":[3,0,166,3],
 "d6/d40/bgp__router_8h.html#ac92d3be2fcf777e65a7505d316f8911b":[3,0,166,4],
 "d6/d40/bgp__router_8h.html#af0ab6426acf5ed6c2fcd8c1394fd6690":[3,0,166,5],
 "d6/d40/bgp__router_8h_source.html":[3,0,166],
@@ -245,9 +249,5 @@ var NAVTREEINDEX93 =
 "d6/d5e/acl__entry__spec_8h_source.html":[3,0,5],
 "d6/d5f/sandesh__ksync_8cc.html":[3,0,1024],
 "d6/d5f/sandesh__ksync_8cc.html#a839fd15f8538717d5ca2449e0529f474":[3,0,1024,0],
-"d6/d5f/sandesh__ksync_8cc_source.html":[3,0,1024],
-"d6/d5f/structgmpr__group__addr__entry__.html":[2,0,782],
-"d6/d5f/structgmpr__group__addr__entry__.html#a0e5923f341c6a54e9ec1c5abccd92e38":[2,0,782,6],
-"d6/d5f/structgmpr__group__addr__entry__.html#a3431ab6bc04fb9b4288d84cbaf5f5579":[2,0,782,5],
-"d6/d5f/structgmpr__group__addr__entry__.html#a5b3834ba45471115d90f5b5203e7e339":[2,0,782,4]
+"d6/d5f/sandesh__ksync_8cc_source.html":[3,0,1024]
 };

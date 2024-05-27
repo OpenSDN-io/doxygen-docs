@@ -1,6 +1,6 @@
 <map id="BgpSenderPartition::Worker" name="BgpSenderPartition::Worker">
 <area shape="rect" id="node3" href="$d7/d93/classBgpSenderPartition.html" title="BgpSenderPartition" alt="" coords="1931,267,2077,293"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task" alt="" coords="588,365,639,392"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="588,365,639,392"/>
 <area shape="rect" id="node11" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IPeerUpdate\l *, WorkQueue\&lt; IPeerUpdate * \&gt; \&gt;" alt="" coords="910,225,1162,266"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="907,546,1165,587"/>
 <area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="913,418,1159,459"/>

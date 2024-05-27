@@ -22,7 +22,7 @@
 <area shape="rect" id="node13" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,706,358,732"/>
 <area shape="rect" id="node30" href="$d6/dd0/classBitSet.html" title="BitSet" alt="" coords="264,1744,325,1771"/>
 <area shape="rect" id="node29" href="$d3/dc6/classIndexAllocator.html" title="IndexAllocator" alt="" coords="642,1834,758,1860"/>
-<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,210,76,236"/>
+<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,210,76,236"/>
 <area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1022,141,1279,182"/>
 <area shape="rect" id="node27" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="1034,818,1267,874"/>
 <area shape="rect" id="node33" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="227,1052,362,1079"/>

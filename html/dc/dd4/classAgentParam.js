@@ -422,7 +422,7 @@ var classAgentParam =
     [ "tunnel_type_", "dc/dd4/classAgentParam.html#a89059bb7da24a06e682ddd17fcc8df58", null ],
     [ "use_syslog_", "dc/dd4/classAgentParam.html#a68a5f7632f952aee8a9ced839c2600da", null ],
     [ "var_map_", "dc/dd4/classAgentParam.html#a8fa2a4869952baab9bee711cabe71ae9", null ],
-    [ "vgw_config_table_", "dc/dd4/classAgentParam.html#a736231eaa62f03c8ac42415f825c7e27", null ],
+    [ "vgw_config_table_", "dc/dd4/classAgentParam.html#a63a99c8c1b336d661a1ee83ff35dcb01", null ],
     [ "vhost_", "dc/dd4/classAgentParam.html#a14ec5cef97b12548be5c900a72a260b6", null ],
     [ "vmi_vm_vn_uve_interval_", "dc/dd4/classAgentParam.html#a419c01b068079fa632c1346ddccc5bd1", null ],
     [ "vmware_mode_", "dc/dd4/classAgentParam.html#ac24c658c12448185f2278e72ffba7a73", null ],

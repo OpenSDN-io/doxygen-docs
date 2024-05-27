@@ -17,5 +17,5 @@ var classDBPartition =
     [ "total_request_count", "dd/dd6/classDBPartition.html#acbfe8aec28e2e733154f6b8d53648b8d", null ],
     [ "db_", "dd/dd6/classDBPartition.html#a9af002416fb72a4569eb0225304483d2", null ],
     [ "db_partition_task_id_", "dd/dd6/classDBPartition.html#ae07bd80b02ab754cba36256a8c9bf504", null ],
-    [ "work_queue_", "dd/dd6/classDBPartition.html#a44eb1607f03280177c33900cf6300b76", null ]
+    [ "work_queue_", "dd/dd6/classDBPartition.html#af895b6a844d6278d23be554377305584", null ]
 ];

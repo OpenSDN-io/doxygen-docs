@@ -41,7 +41,7 @@
 <area shape="rect" id="node41" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="556,1279,655,1305"/>
 <area shape="rect" id="node45" href="$d6/d2d/classKSyncObject.html#a1c6e727e211d65971025bf4a979ef1ff" title="KSyncObject::StaleEntryCleanupCb" alt="" coords="481,1127,730,1153"/>
 <area shape="rect" id="node38" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="797,1051,984,1077"/>
-<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1307,1380,1523,1407"/>
+<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1307,1380,1523,1407"/>
 <area shape="rect" id="node42" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="1103,1228,1201,1255"/>
 <area shape="rect" id="node43" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="829,1304,952,1331"/>
 <area shape="rect" id="node44" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="807,1355,974,1381"/>

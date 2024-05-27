@@ -11,7 +11,7 @@ var classPhysicalDeviceTable =
     [ "PhysicalDeviceTable", "da/dee/classPhysicalDeviceTable.html#ae453ef2c3b0785531f2b1b51c58c2fef", null ],
     [ "~PhysicalDeviceTable", "da/dee/classPhysicalDeviceTable.html#a90b73ed4389af52d97bb85b79cc85dce", null ],
     [ "AddDeviceToVrfEntry", "da/dee/classPhysicalDeviceTable.html#a14455416529a9569a5934d10ec839c4d", null ],
-    [ "AllocEntry", "da/dee/classPhysicalDeviceTable.html#a77ddbdfc376a15b86566c31d497740bc", null ],
+    [ "AllocEntry", "da/dee/classPhysicalDeviceTable.html#a46b4bb5631d5342cfd185941fa8b288d", null ],
     [ "CreateTable", "da/dee/classPhysicalDeviceTable.html#aa503d81d9edf5a3cf4fcab2090e1a5d7", null ],
     [ "DeleteIpToDevEntry", "da/dee/classPhysicalDeviceTable.html#a6ced9e81043cb4e3fd6f7b9f99158bab", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "da/dee/classPhysicalDeviceTable.html#a2181023f0d04cfd441f3e9aa37f1126c", null ],

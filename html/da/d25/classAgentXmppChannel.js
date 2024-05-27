@@ -58,7 +58,7 @@ var classAgentXmppChannel =
     [ "PrefixToRouteMplsTable", "da/d25/classAgentXmppChannel.html#ad8d0ca3d155578c2b9468ae8263071d2", null ],
     [ "PrefixToRouteTable", "da/d25/classAgentXmppChannel.html#adfa11fedb5b105967f4f3d624c075f9a", null ],
     [ "Ready", "da/d25/classAgentXmppChannel.html#a902d184b136ea331ef17ba4173126102", null ],
-    [ "ReceiveBgpMessage", "da/d25/classAgentXmppChannel.html#a767dee153722d95cdcb5d6783cb28b6f", null ],
+    [ "ReceiveBgpMessage", "da/d25/classAgentXmppChannel.html#add343beacfc76e9751193db5308b5978", null ],
     [ "ReceiveEvpnUpdate", "da/d25/classAgentXmppChannel.html#ae1f51c45643d4ee45d49ac0cbd5e42ec", null ],
     [ "ReceiveInet4MplsUpdate", "da/d25/classAgentXmppChannel.html#ab59c79c29254d3441d422d5e6845de24", null ],
     [ "ReceiveInternal", "da/d25/classAgentXmppChannel.html#a7ad24e80e5765c5073f10166bf763fef", null ],

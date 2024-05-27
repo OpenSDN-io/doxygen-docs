@@ -18,8 +18,8 @@
 <area shape="rect" id="node12" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="829,128,952,155"/>
 <area shape="rect" id="node13" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="807,179,974,205"/>
 <area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1049,124,1250,151"/>
-<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="1060,179,1239,205"/>
-<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1299,120,1515,147"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1060,179,1239,205"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1299,120,1515,147"/>
 <area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1308,171,1505,213"/>
 <area shape="rect" id="node19" href="$d8/dfe/classAgent.html#af06305ec4d16f902a58e899fcc606bf5" title="Agent::ovsdb_client" alt="" coords="815,267,966,293"/>
 <area shape="rect" id="node20" href="$d6/dfe/classOVSDB_1_1OvsdbClient.html#ada6725bdd32293b335255c90fff847a4" title="OVSDB::OvsdbClient\l::ha_stale_route_interval" alt="" coords="799,318,982,359"/>

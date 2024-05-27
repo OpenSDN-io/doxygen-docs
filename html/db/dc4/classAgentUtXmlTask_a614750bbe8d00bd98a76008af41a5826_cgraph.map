@@ -1,36 +1,36 @@
 <map id="AgentUtXmlTask::Run" name="AgentUtXmlTask::Run">
 <area shape="rect" id="node2" href="$d9/da9/controller_2src_2control-node_2main_8cc.html#adcfdd689c641a1965efaac7cc0cc80e7" title="WaitForIdle" alt="" coords="453,81,547,108"/>
 <area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1415,195,1617,221"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a0b577a89d4f594c8119f6c635063d12a" title="TaskScheduler::Stop" alt="" coords="217,183,369,209"/>
-<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a989539cc8a7a0cce3a1d7e9489ca20e9" title="TaskScheduler::Start" alt="" coords="216,132,371,159"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#ae2fb16a2e170034945e3825be4a525c0" title="TaskScheduler::IsEmpty" alt="" coords="648,119,824,145"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1672,195,1888,221"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1937,187,2127,229"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a0b577a89d4f594c8119f6c635063d12a" title="Stops scheduling of all tasks. " alt="" coords="217,183,369,209"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a989539cc8a7a0cce3a1d7e9489ca20e9" title="Starts scheduling of all tasks. " alt="" coords="216,132,371,159"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#ae2fb16a2e170034945e3825be4a525c0" title="Returns true if there are no tasks running and/or enqueued If running_only is true, enqueued tasks are ignored i.e. return true if there are no running tasks. Ignore TaskGroup or TaskEntry if it is disabled. " alt="" coords="648,119,824,145"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1672,195,1888,221"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1937,187,2127,229"/>
 <area shape="rect" id="node7" href="$d1/d72/classTaskGroup.html#a220c3532954c5c626d2c151ea623ada2" title="TaskGroup::TaskRunCount" alt="" coords="903,144,1092,171"/>
 <area shape="rect" id="node8" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="914,93,1081,120"/>
-<area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="TaskGroup::IsWaitQEmpty" alt="" coords="902,195,1093,221"/>
+<area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="Returns true, if the waiq_ of all the tasks in the group are empty. " alt="" coords="902,195,1093,221"/>
 <area shape="rect" id="node10" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1177,363,1335,389"/>
 <area shape="rect" id="node11" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1176,144,1336,171"/>
-<area shape="rect" id="node14" href="$d9/daa/classTaskEntry.html#a4ac53cb337f372974dcc217fea284bfd" title="TaskEntry::RunDeferQ" alt="" coords="419,228,581,255"/>
-<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="629,228,843,255"/>
+<area shape="rect" id="node14" href="$d9/daa/classTaskEntry.html#a4ac53cb337f372974dcc217fea284bfd" title="Starts executing tasks from deferq_ of a TaskEntry. " alt="" coords="419,228,581,255"/>
+<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="629,228,843,255"/>
 <area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#aab57d24bf46fe3e747eb3576721594c2" title="TaskEntry::RunDeferEntry" alt="" coords="643,388,829,415"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="1409,473,1623,500"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1409,473,1623,500"/>
 <area shape="rect" id="node18" href="$d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title="TaskGroup::DeferOnPolicyFail" alt="" coords="891,363,1104,389"/>
 <area shape="rect" id="node23" href="$d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title="TaskEntry::DeferOnPolicyFail" alt="" coords="894,413,1101,440"/>
 <area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#ac4658b599daa022c59cc1f85f96823a0" title="TaskEntry::RunWaitQ" alt="" coords="920,632,1075,659"/>
 <area shape="rect" id="node19" href="$d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title="TaskGroup::ActiveGroupIn\lPolicy" alt="" coords="1161,246,1351,287"/>
 <area shape="rect" id="node20" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="1171,413,1341,440"/>
-<area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1165,312,1347,339"/>
+<area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1165,312,1347,339"/>
 <area shape="rect" id="node21" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title="Task::SetState" alt="" coords="1723,441,1837,468"/>
 <area shape="rect" id="node24" href="$d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title="TaskEntry::ActiveEntryIn\lPolicy" alt="" coords="1167,465,1345,506"/>
-<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="1167,531,1345,557"/>
+<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1167,531,1345,557"/>
 <area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1153,683,1359,709"/>
-<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="TaskEntry::RunTask" alt="" coords="1183,632,1329,659"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="Starts a task. If there are more entries in waitq_ add them to deferq_. " alt="" coords="1183,632,1329,659"/>
 <area shape="rect" id="node29" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1433,680,1599,707"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1421,731,1611,773"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1421,731,1611,773"/>
 <area shape="rect" id="node31" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1455,528,1577,555"/>
 <area shape="rect" id="node32" href="$d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e" title="TaskGroup::TaskStarted" alt="" coords="1429,579,1603,605"/>
-<area shape="rect" id="node33" href="$d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Task::StartTask" alt="" coords="1457,629,1575,656"/>
+<area shape="rect" id="node33" href="$d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Starts execution of a task. " alt="" coords="1457,629,1575,656"/>
 <area shape="rect" id="node34" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1701,541,1859,568"/>
 <area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#affc5f7a4873ba5900992e6048488a6a3" title="TaskScheduler::schedule\l_delay" alt="" coords="1689,593,1871,634"/>
 <area shape="rect" id="node36" href="$d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a" title="Task::SetTbbState" alt="" coords="1711,659,1849,685"/>

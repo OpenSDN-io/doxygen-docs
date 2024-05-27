@@ -2,7 +2,7 @@ var classServiceInstanceTable =
 [
     [ "ServiceInstanceTable", "d0/d61/classServiceInstanceTable.html#a69dec69e865bb4015d3a0bb65acbd843", null ],
     [ "Add", "d0/d61/classServiceInstanceTable.html#a4a180cd5e0f1336e8c2d2cdf130f5ff5", null ],
-    [ "AllocEntry", "d0/d61/classServiceInstanceTable.html#a9ff60e19030f483662ea49f4196cd542", null ],
+    [ "AllocEntry", "d0/d61/classServiceInstanceTable.html#a79fad6411ef618ff49256734c22c6eec", null ],
     [ "CalculateProperties", "d0/d61/classServiceInstanceTable.html#a4ab5f95d67e9de2cc0094c9d8944cd83", null ],
     [ "ChangeEventHandler", "d0/d61/classServiceInstanceTable.html#a094677d4534488a2c109366dc006d0a8", null ],
     [ "CreateTable", "d0/d61/classServiceInstanceTable.html#a48b543f5153b5b30603cb4f4ede62b06", null ],

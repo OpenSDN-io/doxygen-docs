@@ -3,7 +3,7 @@ var classMplsTable =
     [ "MplsTable", "df/dd0/classMplsTable.html#ad60d03aee9081849a13efaf83e79a870", null ],
     [ "~MplsTable", "df/dd0/classMplsTable.html#a6cd1e69c6006ee51bbdc3f1fccc8b7e2", null ],
     [ "Add", "df/dd0/classMplsTable.html#ae36aa9ac1066cb99ba18f216e78605ef", null ],
-    [ "AllocEntry", "df/dd0/classMplsTable.html#a6b354a6cccb949fcc1fc59450e8cbb69", null ],
+    [ "AllocEntry", "df/dd0/classMplsTable.html#af0099ed62fa0d57a9fd32c104868cc74", null ],
     [ "AllocLabel", "df/dd0/classMplsTable.html#a7a270a29efac123b61cd803e54da3892", null ],
     [ "AllocLabel", "df/dd0/classMplsTable.html#a0511e8a862975807b99a718f32cba7ee", null ],
     [ "ChangeHandler", "df/dd0/classMplsTable.html#ada53418f5d95b9914dfbd64be411b6b6", null ],

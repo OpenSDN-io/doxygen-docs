@@ -14,6 +14,6 @@ var classXmppConfigManager =
     [ "PeerConfigDiff", "d3/da9/classXmppConfigManager.html#aaf4bbc7b13f6203322f03a3e3261fd8f", null ],
     [ "SetFuture", "d3/da9/classXmppConfigManager.html#a8e1c767c8ddfe35902b2620c19076425", null ],
     [ "Terminate", "d3/da9/classXmppConfigManager.html#ad85a07bd0d54cb6de8e6fe573d778302", null ],
-    [ "current_", "d3/da9/classXmppConfigManager.html#aa76d0235e72097fefdd7c7df2e33d3c9", null ],
-    [ "future_", "d3/da9/classXmppConfigManager.html#a8cca759dd8eb28f993555b779feda4a9", null ]
+    [ "current_", "d3/da9/classXmppConfigManager.html#aaf70652566117a2c4c2e9c477c402255", null ],
+    [ "future_", "d3/da9/classXmppConfigManager.html#a82d454b658b206031974a197ed64c0f2", null ]
 ];

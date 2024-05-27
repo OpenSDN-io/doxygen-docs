@@ -2,8 +2,8 @@ var classErmVpnTable =
 [
     [ "RequestKey", "dd/dac/structErmVpnTable_1_1RequestKey.html", "dd/dac/structErmVpnTable_1_1RequestKey" ],
     [ "ErmVpnTable", "d3/db0/classErmVpnTable.html#a17d384891fea739ccf8cddcc89244137", null ],
-    [ "AllocEntry", "d3/db0/classErmVpnTable.html#a018c18ef6db9f06ab1a36a841afd7377", null ],
-    [ "AllocEntryStr", "d3/db0/classErmVpnTable.html#a809ee967dba5192d99ab624b5d4f00dc", null ],
+    [ "AllocEntry", "d3/db0/classErmVpnTable.html#a2b6ef144e0b2f2d705c820a6f358a982", null ],
+    [ "AllocEntryStr", "d3/db0/classErmVpnTable.html#a8829ab86c1c087db65d1c8b67e61c185", null ],
     [ "CreateMvpnProjectManager", "d3/db0/classErmVpnTable.html#ad5bf6127e4ffca3f089c014c4513de63", null ],
     [ "CreateTable", "d3/db0/classErmVpnTable.html#a4e1c2fa5a939537a14c27429fa6325bb", null ],
     [ "CreateTreeManager", "d3/db0/classErmVpnTable.html#a974d045cea7ca264a1619bc8c7ce403c", null ],

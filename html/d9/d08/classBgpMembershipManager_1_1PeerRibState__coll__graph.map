@@ -23,7 +23,7 @@
 <area shape="rect" id="node15" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="950,1265,1207,1306"/>
 <area shape="rect" id="node13" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,1118,355,1144"/>
 <area shape="rect" id="node44" href="$d6/dd0/classBitSet.html" title="BitSet" alt="" coords="413,1515,475,1542"/>
-<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task" alt="" coords="616,1350,667,1376"/>
+<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="616,1350,667,1376"/>
 <area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="955,1410,1202,1452"/>
 <area shape="rect" id="node42" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IPeerUpdate\l *, WorkQueue\&lt; IPeerUpdate * \&gt; \&gt;" alt="" coords="953,990,1205,1032"/>
 <area shape="rect" id="node45" href="$d2/d43/structRibExportPolicy.html" title="RibExportPolicy" alt="" coords="1017,888,1141,915"/>

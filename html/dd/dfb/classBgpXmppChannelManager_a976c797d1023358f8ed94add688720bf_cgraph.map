@@ -19,7 +19,7 @@
 <area shape="rect" id="node6" href="$db/d26/classBgpServer.html#aed5cb3413763cf4f2202d8e8a68eb3f1" title="BgpServer::IsReadyForDeletion" alt="" coords="553,107,775,133"/>
 <area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="873,56,1074,83"/>
 <area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="880,107,1067,133"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#ad14e4248ac1df2a2cb85a72737ca40c7" title="TaskScheduler::IsTaskGroup\lEmpty" alt="" coords="872,158,1075,199"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#ad14e4248ac1df2a2cb85a72737ca40c7" title="Check if there are any Tasks in the given TaskGroup. Assumes that all task ids are mutually exclusive..." alt="" coords="872,158,1075,199"/>
 <area shape="rect" id="node10" href="$df/d70/classDB.html#ac69426112234cc31af0ed98abfff47aa" title="DB::IsDBQueueEmpty" alt="" coords="892,5,1055,32"/>
 <area shape="rect" id="node13" href="$dd/dfb/classBgpXmppChannelManager.html#afad7741955d03782ac258c36f0956149" title="BgpXmppChannelManager\l::CreateChannel" alt="" coords="567,523,761,565"/>
 <area shape="rect" id="node14" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="577,589,751,616"/>

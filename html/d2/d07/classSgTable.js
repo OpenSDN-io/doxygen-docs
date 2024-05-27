@@ -2,7 +2,7 @@ var classSgTable =
 [
     [ "SgTable", "d2/d07/classSgTable.html#ade6f50e5ce6a17186e151b8b283e592c", null ],
     [ "~SgTable", "d2/d07/classSgTable.html#a66bd967033cd8909356904b138be1988", null ],
-    [ "AllocEntry", "d2/d07/classSgTable.html#a7bc8ef6c36c7cd4f0b52b53231536c7c", null ],
+    [ "AllocEntry", "d2/d07/classSgTable.html#a5451a301b322334aba780a7baff34bf2", null ],
     [ "ChangeHandler", "d2/d07/classSgTable.html#a199cf59db12774a4de473177622e4260", null ],
     [ "CreateTable", "d2/d07/classSgTable.html#a1b9f69427e91863af92d94991c163281", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d2/d07/classSgTable.html#a6576761b8c679465d699b926e55511d1", null ],

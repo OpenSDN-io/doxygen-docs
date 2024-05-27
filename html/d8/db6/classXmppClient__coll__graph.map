@@ -7,5 +7,5 @@
 <area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,217,349,244"/>
 <area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="875,377,1133,418"/>
 <area shape="rect" id="node11" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,535,355,561"/>
-<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task" alt="" coords="587,281,637,308"/>
+<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="587,281,637,308"/>
 </map>

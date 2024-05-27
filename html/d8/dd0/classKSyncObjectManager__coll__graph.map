@@ -2,5 +2,5 @@
 <area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; KSyncObjectEvent * \&gt;" alt="" coords="478,188,735,215"/>
 <area shape="rect" id="node5" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; KSyncObject\lEvent *, WorkQueue\&lt; KSyncObject\lEvent * \&gt; \&gt;" alt="" coords="891,124,1141,180"/>
 <area shape="rect" id="node3" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="202,5,329,32"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task" alt="" coords="581,108,632,135"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="581,108,632,135"/>
 </map>

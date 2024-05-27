@@ -15,10 +15,10 @@
 <area shape="rect" id="node19" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1443,1029,1503,1056"/>
 <area shape="rect" id="node20" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="773,303,960,329"/>
 <area shape="rect" id="node31" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="817,228,916,255"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="809,424,924,451"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="809,424,924,451"/>
 <area shape="rect" id="node48" href="$d2/d73/classInterfaceTable.html" title="InterfaceTable" alt="" coords="1743,1052,1857,1079"/>
 <area shape="rect" id="node8" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="198,1493,333,1520"/>
-<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,1817,61,1844"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="11,1817,61,1844"/>
 <area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Intrusive\lPtrRef\&lt; VrfEntry \&gt;, WorkQueue\l\&lt; IntrusivePtrRef\&lt; VrfEntry \&gt; \&gt; \&gt;" alt="" coords="985,1968,1231,2024"/>
 <area shape="rect" id="node11" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="202,1907,329,1933"/>
 <area shape="rect" id="node14" href="$d7/db8/classOvsPeer.html" title="OvsPeer" alt="" coords="2043,1816,2119,1843"/>

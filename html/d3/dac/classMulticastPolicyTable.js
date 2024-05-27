@@ -2,7 +2,7 @@ var classMulticastPolicyTable =
 [
     [ "MulticastPolicyTable", "d3/dac/classMulticastPolicyTable.html#a84eae13546f0dbf0ed62378601470e60", null ],
     [ "~MulticastPolicyTable", "d3/dac/classMulticastPolicyTable.html#af4576f3ca4f66a720e20ce3314d3f470", null ],
-    [ "AllocEntry", "d3/dac/classMulticastPolicyTable.html#a9bf879a6041e6043d243f287d7dd0ab2", null ],
+    [ "AllocEntry", "d3/dac/classMulticastPolicyTable.html#ae65784efbfae59baae0d59d9161cca98", null ],
     [ "ChangeHandler", "d3/dac/classMulticastPolicyTable.html#a23757158e5bebb1e50bd0d82dda8e85b", null ],
     [ "CreateTable", "d3/dac/classMulticastPolicyTable.html#a4adf02221df1ddbe0dc176ec0937502e", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/dac/classMulticastPolicyTable.html#ad7784e9726a89295113a24887cfd0f5f", null ],

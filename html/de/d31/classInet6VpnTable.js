@@ -2,8 +2,8 @@ var classInet6VpnTable =
 [
     [ "RequestKey", "df/d3a/structInet6VpnTable_1_1RequestKey.html", "df/d3a/structInet6VpnTable_1_1RequestKey" ],
     [ "Inet6VpnTable", "de/d31/classInet6VpnTable.html#aaa4464322cffddb8b54ec34fbd3338e9", null ],
-    [ "AllocEntry", "de/d31/classInet6VpnTable.html#a7c206945eae2225113f9057b55de8ab8", null ],
-    [ "AllocEntryStr", "de/d31/classInet6VpnTable.html#a530cd504eeabf5f9239d1df5be4c630e", null ],
+    [ "AllocEntry", "de/d31/classInet6VpnTable.html#a4be9491a1130f774e707f026020ad140", null ],
+    [ "AllocEntryStr", "de/d31/classInet6VpnTable.html#a4fbcf8013026fb07f559982ee54f6493", null ],
     [ "CreateTable", "de/d31/classInet6VpnTable.html#aea9c030f5d4ed5a9ee5038eb1de81ce0", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "de/d31/classInet6VpnTable.html#ad9a3f1adb31901dbc8cedf3e4fca20af", null ],
     [ "Export", "de/d31/classInet6VpnTable.html#af0168ac555a60d1f984a3eac512b984a", null ],

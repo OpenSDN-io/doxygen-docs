@@ -11,8 +11,8 @@
 <area shape="rect" id="node5" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="676,57,823,98"/>
 <area shape="rect" id="node6" href="$de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5" title="TcpServer::event_manager" alt="" coords="652,123,847,149"/>
 <area shape="rect" id="node7" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="655,173,844,200"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="641,224,857,251"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="975,187,1166,229"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="641,224,857,251"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="975,187,1166,229"/>
 <area shape="rect" id="node16" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="653,1513,845,1540"/>
 <area shape="rect" id="node17" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="648,304,851,331"/>
 <area shape="rect" id="node20" href="$d6/dbf/classBgpXmppChannel.html#acdd61885ed878059d2af813263fdda26" title="BgpXmppChannel::peer\l_deleted" alt="" coords="662,1317,837,1358"/>

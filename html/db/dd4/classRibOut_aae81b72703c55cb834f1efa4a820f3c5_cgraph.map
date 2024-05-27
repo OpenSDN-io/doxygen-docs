@@ -10,8 +10,8 @@
 <area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="497,56,599,83"/>
 <area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="447,107,649,133"/>
 <area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="433,158,663,199"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="712,35,928,61"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="977,27,1167,69"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="712,35,928,61"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="977,27,1167,69"/>
 <area shape="rect" id="node12" href="$d2/d48/classBgpUpdateSender.html#a37f00e7cfc9fa00d69235a0c7288e6da" title="BgpUpdateSender::partition" alt="" coords="447,275,649,301"/>
 <area shape="rect" id="node13" href="$d7/d93/classBgpSenderPartition.html#a580482bf827afd353d2f2664741b36ad" title="BgpSenderPartition\l::Remove" alt="" coords="475,326,621,367"/>
 <area shape="rect" id="node14" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#aff87868e3bb643acdb031bc7abcb7184" title="BgpSenderPartition\l::RibState::Remove" alt="" coords="747,267,893,309"/>

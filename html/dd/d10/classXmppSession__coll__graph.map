@@ -15,6 +15,6 @@
 <area shape="rect" id="node13" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="1735,452,1940,479"/>
 <area shape="rect" id="node22" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1043,151,1125,177"/>
 <area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,25,349,52"/>
-<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,911,317,937"/>
+<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,911,317,937"/>
 <area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="955,1031,1213,1073"/>
 </map>

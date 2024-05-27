@@ -1,5 +1,9 @@
 var NAVTREEINDEX64 =
 {
+"d4/d69/structWaitForTraffic.html#a30ac36bee565d23a332ac0721f332cc6":[2,0,1906,2],
+"d4/d69/structWaitForTraffic.html#a6cb9aba37a76aa5bef1ad0d1c634f88f":[2,0,1906,3],
+"d4/d69/structWaitForTraffic.html#a787c92900fa15a03c30e4c32556f8452":[2,0,1906,1],
+"d4/d69/structWaitForTraffic.html#ab3f1263292679909b51f0c2a9b45e07a":[2,0,1906,5],
 "d4/d69/structWaitForTraffic.html#ab7ad2da8cb5792a98248baabedb20324":[2,0,1906,0],
 "d4/d69/structWaitForTraffic.html#aca6988ca1e981f1fb37ebc58c4015930":[2,0,1906,4],
 "d4/d69/structWaitForTraffic.html#ad8b6eac3b0b6bcb69e6877717134b90a":[2,0,1906,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX64 =
 "d4/d7f/classInstanceTask.html#a2c154a03b2b6cc1061328a07f6d013ec":[2,0,934,13],
 "d4/d7f/classInstanceTask.html#a30436ab7a0ade82c8f0c4d092664ed87":[2,0,934,14],
 "d4/d7f/classInstanceTask.html#a41e3cb3cedeac85f4876b84bf5c372b3":[2,0,934,2],
-"d4/d7f/classInstanceTask.html#a5009cb47ea7d2e778dd9eed1714e3a6b":[2,0,934,8],
-"d4/d7f/classInstanceTask.html#a58d4f2d3a46450c6722a1f3124ea9e40":[2,0,934,6],
-"d4/d7f/classInstanceTask.html#a6b5aa417ef3d1ad51ccd3f04a66e354e":[2,0,934,3],
-"d4/d7f/classInstanceTask.html#a754c27aee254741dc0fbe2717543e179":[2,0,934,15],
-"d4/d7f/classInstanceTask.html#a7721988ea757187029ef924a09891760":[2,0,934,1]
+"d4/d7f/classInstanceTask.html#a5009cb47ea7d2e778dd9eed1714e3a6b":[2,0,934,8]
 };

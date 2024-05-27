@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/d9c/classTask.html" title="Task" alt="" coords="5,2851,56,2877"/>
+<area shape="rect" id="node1" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="5,2851,56,2877"/>
 <area shape="rect" id="node2" href="$de/d95/classBgpSenderPartition_1_1Worker.html" title="BgpSenderPartition\l::Worker" alt="" coords="204,5,351,46"/>
 <area shape="rect" id="node3" href="$d1/dcd/classcass_1_1cql_1_1impl_1_1WorkerTask.html" title="cass::cql::impl::WorkerTask" alt="" coords="178,71,377,97"/>
 <area shape="rect" id="node4" href="$d2/d34/classChannelEventProcTask.html" title="ChannelEventProcTask" alt="" coords="193,121,362,148"/>

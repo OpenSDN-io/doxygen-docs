@@ -34,18 +34,18 @@
 <area shape="rect" id="node33" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html#a6f098ee51d80c72749d7c3b92a6d0e99" title="OVSDB::OvsdbDBObject\l::client_idl" alt="" coords="557,1150,736,1191"/>
 <area shape="rect" id="node34" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html#a9f0465c7ba6e2925548d9a1f46e7ca40" title="OVSDB::OvsdbClientIdl\l::agent" alt="" coords="561,1215,732,1257"/>
 <area shape="rect" id="node35" href="$d8/dfe/classAgent.html#a83eccbcd01c1cb6be586608dbb445f37" title="Agent::task_scheduler" alt="" coords="563,1048,730,1075"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="563,1099,730,1125"/>
-<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="817,1226,1007,1267"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="563,1099,730,1125"/>
+<area shape="rect" id="node37" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="817,1226,1007,1267"/>
 <area shape="rect" id="node40" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="851,1292,973,1319"/>
 <area shape="rect" id="node41" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="829,1343,995,1369"/>
-<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1074,1167,1265,1209"/>
+<area shape="rect" id="node38" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1074,1167,1265,1209"/>
 <area shape="rect" id="node42" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="833,1393,991,1420"/>
 <area shape="rect" id="node43" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="809,871,1015,897"/>
-<area shape="rect" id="node44" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="803,921,1021,948"/>
-<area shape="rect" id="node45" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="805,972,1019,999"/>
+<area shape="rect" id="node44" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="803,921,1021,948"/>
+<area shape="rect" id="node45" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="805,972,1019,999"/>
 <area shape="rect" id="node46" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="832,1023,992,1049"/>
-<area shape="rect" id="node47" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="821,1073,1003,1100"/>
-<area shape="rect" id="node48" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="823,1124,1001,1151"/>
+<area shape="rect" id="node47" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="821,1073,1003,1100"/>
+<area shape="rect" id="node48" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="823,1124,1001,1151"/>
 <area shape="rect" id="node39" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1069,1233,1269,1260"/>
 <area shape="rect" id="node50" href="$db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a83a2d99731fe811f2a3c3f1e636ebef9" title="OVSDB::PhysicalLocatorEntry\l::ReleaseCreateRequest" alt="" coords="1585,817,1797,858"/>
 </map>

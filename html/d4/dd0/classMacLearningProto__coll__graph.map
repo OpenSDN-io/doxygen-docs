@@ -29,7 +29,7 @@
 <area shape="rect" id="node15" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="275,421,373,448"/>
 <area shape="rect" id="node48" href="$db/dfd/classIntfMirrorCfgTable.html" title="IntfMirrorCfgTable" alt="" coords="1275,1149,1413,1176"/>
 <area shape="rect" id="node19" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="287,511,361,537"/>
-<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="267,561,381,588"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="267,561,381,588"/>
 <area shape="rect" id="node39" href="$d2/d3d/classVrfEntry.html" title="VrfEntry" alt="" coords="287,1425,361,1452"/>
 <area shape="rect" id="node49" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; PktInfo \&gt; \&gt;" alt="" coords="443,70,643,111"/>
 <area shape="rect" id="node23" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="238,612,410,639"/>

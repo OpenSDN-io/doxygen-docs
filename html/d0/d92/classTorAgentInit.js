@@ -18,7 +18,7 @@ var classTorAgentInit =
     [ "Start", "d0/d92/classTorAgentInit.html#a4a039a9bc6329b2db0179022fe6a0556", null ],
     [ "UveShutdown", "d0/d92/classTorAgentInit.html#ac85196f5baa48536eddcacbaa00f387a", null ],
     [ "WaitForIdle", "d0/d92/classTorAgentInit.html#a187482ada3d4609055c746f3e7ba1bec", null ],
-    [ "ovs_peer_manager_", "d0/d92/classTorAgentInit.html#a007a91260af82d54dd4f24913ab0d9e3", null ],
-    [ "ovsdb_client_", "d0/d92/classTorAgentInit.html#a83f3a789b16e99da2e51aae69cc8f71c", null ],
-    [ "uve_", "d0/d92/classTorAgentInit.html#a53f7e7794893375c50ef59be74dcb5ed", null ]
+    [ "ovs_peer_manager_", "d0/d92/classTorAgentInit.html#a0d054efe3201f6477b91c5edf8c72540", null ],
+    [ "ovsdb_client_", "d0/d92/classTorAgentInit.html#a215bc6875b87d715a77d787354136126", null ],
+    [ "uve_", "d0/d92/classTorAgentInit.html#a518c595db7477280d54759655fa6f0e3", null ]
 ];

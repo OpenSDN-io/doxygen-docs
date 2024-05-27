@@ -109,7 +109,7 @@ var classRoutingInstance =
     [ "mvpn_project_manager_network_", "de/ddf/classRoutingInstance.html#a1a0a4c8f95a6dff6ca4f7bc9466239a3", null ],
     [ "name_", "de/ddf/classRoutingInstance.html#acac566a753753722e26039d6336d20d5", null ],
     [ "peer_manager_", "de/ddf/classRoutingInstance.html#ab7c03a6cb598cae2d3c22ba86b748dac", null ],
-    [ "rd_", "de/ddf/classRoutingInstance.html#aafd1d6c652335d132df2a39b187161ae", null ],
+    [ "rd_", "de/ddf/classRoutingInstance.html#a1e7a8d801b51f34787206364b4145bf5", null ],
     [ "routing_policies_", "de/ddf/classRoutingInstance.html#a3a7799e6448a0cfdd6e98c6f3926ae59", null ],
     [ "server_", "de/ddf/classRoutingInstance.html#abbb5c62acdd1701e4d36c9fab8209aa2", null ],
     [ "trace_buffer_", "de/ddf/classRoutingInstance.html#a6a41fa880763f438f70d5d6180ca8ca6", null ],

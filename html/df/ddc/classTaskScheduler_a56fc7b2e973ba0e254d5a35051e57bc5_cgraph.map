@@ -1,9 +1,9 @@
 <map id="TaskScheduler::DisableTaskGroup" name="TaskScheduler::DisableTaskGroup">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="TaskScheduler::GetTaskGroup" alt="" coords="270,5,485,32"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="270,5,485,32"/>
 <area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="294,56,461,83"/>
 <area shape="rect" id="node4" href="$d1/d72/classTaskGroup.html#a0bf9787f92c28e47c5bfa5e8b9dc429f" title="TaskGroup::SetDisable" alt="" coords="293,107,461,133"/>
-<area shape="rect" id="node5" href="$d1/d72/classTaskGroup.html#a69f3c63b509316919d7658ddcc3a084a" title="TaskGroup::AddEntriesToDisableQ" alt="" coords="257,157,498,184"/>
+<area shape="rect" id="node5" href="$d1/d72/classTaskGroup.html#a69f3c63b509316919d7658ddcc3a084a" title="Add TaskEntries to disable_entry_ which have tasks enqueued and are already disabled. " alt="" coords="257,157,498,184"/>
 <area shape="rect" id="node6" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="566,132,725,159"/>
-<area shape="rect" id="node7" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="TaskGroup::AddToDisableQ" alt="" coords="547,183,743,209"/>
-<area shape="rect" id="node8" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="793,183,970,209"/>
+<area shape="rect" id="node7" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ. " alt="" coords="547,183,743,209"/>
+<area shape="rect" id="node8" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="793,183,970,209"/>
 </map>

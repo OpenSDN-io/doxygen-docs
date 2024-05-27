@@ -18,10 +18,10 @@
 <area shape="rect" id="node9" href="$d7/d54/classPortCacheTable.html#a3af1552f84bb0f5895a7edac16616a5a" title="PortCacheTable::StopTimer" alt="" coords="1208,131,1405,157"/>
 <area shape="rect" id="node10" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1495,76,1607,103"/>
 <area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1701,12,1902,39"/>
-<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1718,63,1885,89"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1718,63,1885,89"/>
 <area shape="rect" id="node16" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1740,113,1863,140"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1955,12,2171,39"/>
-<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1967,114,2158,155"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1955,12,2171,39"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1967,114,2158,155"/>
 <area shape="rect" id="node15" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="2001,63,2124,89"/>
 <area shape="rect" id="node22" href="$d8/dd0/classFlowProto.html#a8cd206665e5beaa0bca2abdaa26e72d6" title="FlowProto::EnqueueFlowEvent" alt="" coords="942,437,1159,464"/>
 <area shape="rect" id="node23" href="$dc/d05/classFlowEvent.html#a459c4bb26b0bf6bb39811a54ed000039" title="FlowEvent::event" alt="" coords="1734,164,1869,191"/>

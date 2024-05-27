@@ -25,25 +25,25 @@
 <area shape="rect" id="node41" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="527,872,625,899"/>
 <area shape="rect" id="node45" href="$d6/d21/classArpProto.html#a95dc2fb1d365a86d8086776174d9a923" title="ArpProto::TimerExpiry" alt="" coords="493,796,659,823"/>
 <area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="939,923,1141,949"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="711,1217,878,1244"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="711,1217,878,1244"/>
 <area shape="rect" id="node40" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="733,923,856,949"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1197,923,1413,949"/>
-<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1462,915,1653,957"/>
-<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="945,1075,1135,1117"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1197,923,1413,949"/>
+<area shape="rect" id="node26" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1462,915,1653,957"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="945,1075,1135,1117"/>
 <area shape="rect" id="node31" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="979,1141,1101,1168"/>
 <area shape="rect" id="node32" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="957,1192,1123,1219"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1210,1185,1401,1226"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1210,1185,1401,1226"/>
 <area shape="rect" id="node33" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="961,1293,1119,1320"/>
 <area shape="rect" id="node34" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="937,1344,1143,1371"/>
-<area shape="rect" id="node35" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="931,1395,1149,1421"/>
-<area shape="rect" id="node36" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="933,1445,1147,1472"/>
+<area shape="rect" id="node35" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="931,1395,1149,1421"/>
+<area shape="rect" id="node36" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="933,1445,1147,1472"/>
 <area shape="rect" id="node37" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="960,1496,1120,1523"/>
-<area shape="rect" id="node38" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="949,973,1131,1000"/>
-<area shape="rect" id="node39" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="TaskEntry::AddToDeferQ" alt="" coords="951,1024,1129,1051"/>
+<area shape="rect" id="node38" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="949,973,1131,1000"/>
+<area shape="rect" id="node39" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="951,1024,1129,1051"/>
 <area shape="rect" id="node30" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1205,1083,1405,1109"/>
 <area shape="rect" id="node42" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="745,821,844,848"/>
 <area shape="rect" id="node43" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="711,872,878,899"/>
-<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="TaskScheduler::Enqueue" alt="" coords="951,872,1129,899"/>
+<area shape="rect" id="node44" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="951,872,1129,899"/>
 <area shape="rect" id="node46" href="$d6/d21/classArpProto.html#ab394172bfb815b12464841c623ddc523" title="ArpProto::SendArpIpc" alt="" coords="715,771,874,797"/>
 <area shape="rect" id="node47" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="995,821,1085,848"/>
 <area shape="rect" id="node48" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="953,720,1127,747"/>

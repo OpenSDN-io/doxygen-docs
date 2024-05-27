@@ -16,8 +16,8 @@ var classKSyncVxlan =
     [ "Shutdown", "d6/d7d/classKSyncVxlan.html#a0d2386f9675bc155bf89da72a8d85a0f", null ],
     [ "vrf_obj", "d6/d7d/classKSyncVxlan.html#ac7f18cc80a10aa8f9cae8b060ac3a5d4", null ],
     [ "agent_", "d6/d7d/classKSyncVxlan.html#a981fc5d6a019a88eb14d398f1e086946", null ],
-    [ "bridge_obj_", "d6/d7d/classKSyncVxlan.html#a49ca3e3aabaa7f8a55588f5c6b91533a", null ],
+    [ "bridge_obj_", "d6/d7d/classKSyncVxlan.html#a90f3dbb060f98c1bda0a7bb6ab946540", null ],
     [ "defer_entry_", "d6/d7d/classKSyncVxlan.html#a6d42bd3b9cddf0e9b6cd6f5bc45cc994", null ],
-    [ "port_obj_", "d6/d7d/classKSyncVxlan.html#a0e3ca295d3ab40451572b90a2c5287b8", null ],
-    [ "vrf_obj_", "d6/d7d/classKSyncVxlan.html#a6fd348de15883d391f7f64c0a2722471", null ]
+    [ "port_obj_", "d6/d7d/classKSyncVxlan.html#a4aed5e81d871e44038ca6dc199c7f46a", null ],
+    [ "vrf_obj_", "d6/d7d/classKSyncVxlan.html#ac274a3fe88f79e285264dbfc694d8459", null ]
 ];

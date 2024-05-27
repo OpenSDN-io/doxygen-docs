@@ -4,7 +4,7 @@ var classIFMapLinkTable =
     [ "RequestKey", "d8/d3a/structIFMapLinkTable_1_1RequestKey.html", "d8/d3a/structIFMapLinkTable_1_1RequestKey" ],
     [ "IFMapLinkTable", "d5/d9c/classIFMapLinkTable.html#afbb4bfd937bf62756e72de3c340a4300", null ],
     [ "AddLink", "d5/d9c/classIFMapLinkTable.html#a938ba9651472f94387a469e50005032c", null ],
-    [ "AllocEntry", "d5/d9c/classIFMapLinkTable.html#a0d0d4105c519d47b3395a864903e5d3b", null ],
+    [ "AllocEntry", "d5/d9c/classIFMapLinkTable.html#a86fbb9e048cce967a6ea8d183185e2f0", null ],
     [ "Clear", "d5/d9c/classIFMapLinkTable.html#a20e0c993807794de518924629c70228f", null ],
     [ "CreateTable", "d5/d9c/classIFMapLinkTable.html#a4dd3b468991de6ccec1e30b5254a7c49", null ],
     [ "DeleteLink", "d5/d9c/classIFMapLinkTable.html#aa419d7344dfab4fed5b95f2bb02647b4", null ],

@@ -71,15 +71,15 @@ var classAgentInit =
     [ "VgwShutdownBase", "d8/d16/classAgentInit.html#a99e56e86f69945aa20380ce54784f9a4", null ],
     [ "WaitForDBEmpty", "d8/d16/classAgentInit.html#a32cd6d9121f4dbec9d676be658b16c41", null ],
     [ "WaitForIdle", "d8/d16/classAgentInit.html#a79c6551e6c4e86059d30d28df5a1b1d6", null ],
-    [ "agent_", "d8/d16/classAgentInit.html#a881de3736d2620f221b3ab30cddf17e1", null ],
+    [ "agent_", "d8/d16/classAgentInit.html#aee005338b84b771b7020eb82b6b9e1d9", null ],
     [ "agent_param_", "d8/d16/classAgentInit.html#af88ffdd3f7c9b71d99d3fcfedd4fc66d", null ],
-    [ "cfg_", "d8/d16/classAgentInit.html#a0c292adcec85662ffe61c3098d7327e8", null ],
-    [ "controller_", "d8/d16/classAgentInit.html#adc70c00e1d8f93fea1732c8b9b9f1571", null ],
+    [ "cfg_", "d8/d16/classAgentInit.html#aeef3702d084ea31ebb4ebfe65619c515", null ],
+    [ "controller_", "d8/d16/classAgentInit.html#a76edde13fb7f19102d185f56976265bc", null ],
     [ "enable_controller_", "d8/d16/classAgentInit.html#a9f1640c3a53234b9de98d4882dbc998e", null ],
-    [ "event_notifier_", "d8/d16/classAgentInit.html#a79863a3fc9184a2ce9ccddd4c0e9053d", null ],
+    [ "event_notifier_", "d8/d16/classAgentInit.html#a8cdef4e00bd4d4f4075d46e5da68fb33", null ],
     [ "init_mutex_", "d8/d16/classAgentInit.html#aa5836a52dacb790358734c5d532a2a1c", null ],
-    [ "oper_", "d8/d16/classAgentInit.html#af7cb4ae7117ec2a7ce394e5b899217a8", null ],
-    [ "resource_manager_", "d8/d16/classAgentInit.html#a52f93e9f747abd29a9ee53e054b67b6d", null ],
-    [ "stats_", "d8/d16/classAgentInit.html#a78f9ccdf1f59f0355079113908250c55", null ],
-    [ "trigger_", "d8/d16/classAgentInit.html#a39a82ed86b7c035041ba46098a0e11ab", null ]
+    [ "oper_", "d8/d16/classAgentInit.html#ae88d66e189f16913ef1b61731c750ca3", null ],
+    [ "resource_manager_", "d8/d16/classAgentInit.html#a049460b3102327ae7a3fab5b2dae57d6", null ],
+    [ "stats_", "d8/d16/classAgentInit.html#aae32c4a4910f89f13798189d3fd45e30", null ],
+    [ "trigger_", "d8/d16/classAgentInit.html#a6092d56fc441e5c0aa049e6b113ec705", null ]
 ];

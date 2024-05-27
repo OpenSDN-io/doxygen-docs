@@ -7,7 +7,7 @@ var classBgpTable =
     [ "TableSet", "d0/def/classBgpTable.html#a9b3cc10341ec2e60e8af5b04f5ba8ece", null ],
     [ "BgpTable", "d0/def/classBgpTable.html#a7d458d9922b4442df96414530d93da6a", null ],
     [ "~BgpTable", "d0/def/classBgpTable.html#a7c2099c983bbaa7385dea786039b1a7d", null ],
-    [ "AllocEntryStr", "d0/def/classBgpTable.html#a5d03fee5a90aff7fbe21a266059ff0f6", null ],
+    [ "AllocEntryStr", "d0/def/classBgpTable.html#ab224b851d20f558b7b44f9d70064d838", null ],
     [ "CheckAggregatorAttr", "d0/def/classBgpTable.html#a5618a71a6529e577821b010d639c7c6e", null ],
     [ "CreateAs4Path", "d0/def/classBgpTable.html#ad68ac1adfe9261176c75da0d55bfaa66", null ],
     [ "CreateAsPath2Byte", "d0/def/classBgpTable.html#a32ac7e00ec6d5aa264ba3988c42c1fdd", null ],

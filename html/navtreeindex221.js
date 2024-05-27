@@ -1,5 +1,9 @@
 var NAVTREEINDEX221 =
 {
+"df/d87/classObjectCacheEntry.html#a56055399805b1b9fa269e35baa786492":[2,0,1239,1],
+"df/d87/classObjectCacheEntry.html#a73dac961d1252d726ab3db4368fadbe9":[2,0,1239,10],
+"df/d87/classObjectCacheEntry.html#a833ab0d22761e932d625316676b65fd9":[2,0,1239,5],
+"df/d87/classObjectCacheEntry.html#a8dd06055677471c1cdaa2102a32ba68a":[2,0,1239,7],
 "df/d87/classObjectCacheEntry.html#a932d674c9c498c9b7203e9f7a891c432":[2,0,1239,3],
 "df/d87/classObjectCacheEntry.html#ac6bf3a79247443e860b142565990fa33":[2,0,1239,8],
 "df/d87/classObjectCacheEntry.html#ac94203cc9eed691573eb8fb22f132e84":[2,0,1239,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX221 =
 "df/d96/classSessionStatsCollector.html#a7af2cb212b3c9e1b1105714dc338d96a":[2,0,1589,22],
 "df/d96/classSessionStatsCollector.html#a7b16f08976777d06c0abf1c2d3f266f9":[2,0,1589,59],
 "df/d96/classSessionStatsCollector.html#a7da628b9994f5c9d1868b240b45df5e9":[2,0,1589,76],
-"df/d96/classSessionStatsCollector.html#a7e4a9d398f128e72af4d535253a87a23":[2,0,1589,14],
-"df/d96/classSessionStatsCollector.html#a7ff2e2469a9fb685f6e4471b5520ad61":[2,0,1589,32],
-"df/d96/classSessionStatsCollector.html#a81810dae332ec8cc9d218ba2129d2ec0":[2,0,1589,56],
-"df/d96/classSessionStatsCollector.html#a81b5ff8129ffd2cb2227462567d4512b":[2,0,1589,73],
-"df/d96/classSessionStatsCollector.html#a86787faabfe0becf0170e6fc16591ff2":[2,0,1589,64]
+"df/d96/classSessionStatsCollector.html#a7e4a9d398f128e72af4d535253a87a23":[2,0,1589,14]
 };

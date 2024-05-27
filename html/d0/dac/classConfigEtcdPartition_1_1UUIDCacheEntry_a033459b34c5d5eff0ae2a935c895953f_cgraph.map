@@ -5,6 +5,6 @@
 <area shape="rect" id="node8" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a217b88d3f8fdb758b945c586af473e2a" title="ConfigEtcdPartition\l::UUIDCacheEntry::EtcdRead\lRetryTimerExpired" alt="" coords="272,157,477,213"/>
 <area shape="rect" id="node9" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a067b85a726adba449cd81a960f9f74f0" title="ConfigEtcdPartition\l::UUIDCacheEntry::EtcdRead\lRetryTimerErrorHandler" alt="" coords="272,237,477,293"/>
 <area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="540,5,727,32"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="525,56,741,83"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="790,49,981,90"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="525,56,741,83"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="790,49,981,90"/>
 </map>

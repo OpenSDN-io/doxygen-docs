@@ -13,5 +13,5 @@
 <area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,268,352,295"/>
 <area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Enqueued\lCb, WorkQueue\&lt; EnqueuedCb \&gt; \&gt;" alt="" coords="891,823,1139,865"/>
 <area shape="rect" id="node15" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,1017,358,1044"/>
-<area shape="rect" id="node18" href="$d6/d9c/classTask.html" title="Task" alt="" coords="25,679,76,705"/>
+<area shape="rect" id="node18" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,679,76,705"/>
 </map>

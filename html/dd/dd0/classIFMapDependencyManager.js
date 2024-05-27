@@ -42,6 +42,6 @@ var classIFMapDependencyManager =
     [ "event_map_", "dd/dd0/classIFMapDependencyManager.html#a7169e6855c8968db566e09d4e8294369", null ],
     [ "graph_", "dd/dd0/classIFMapDependencyManager.html#a3d779a3ef3411feef7f9f7f36fc43013", null ],
     [ "table_map_", "dd/dd0/classIFMapDependencyManager.html#a7f026ecf04f9878a040090d6c51b273f", null ],
-    [ "tracker_", "dd/dd0/classIFMapDependencyManager.html#aa3daf262351fb78f542fa20c33240874", null ],
-    [ "trigger_", "dd/dd0/classIFMapDependencyManager.html#a778e4f435873cb433be38e9c8918090f", null ]
+    [ "tracker_", "dd/dd0/classIFMapDependencyManager.html#aa4858232fa7e4a1a4d77bc13bfb5b6a6", null ],
+    [ "trigger_", "dd/dd0/classIFMapDependencyManager.html#ab8b32ed4dd137c0a9c09e172436cb297", null ]
 ];

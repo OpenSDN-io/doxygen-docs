@@ -1,5 +1,9 @@
 var NAVTREEINDEX11 =
 {
+"d0/db1/classEvpnPrefix.html#a484548cbe0405dec7a9e630a1348ced1":[2,0,665,11],
+"d0/db1/classEvpnPrefix.html#a490856fc690ba9b8aedcd9d0cdda1ecb":[2,0,665,66],
+"d0/db1/classEvpnPrefix.html#a4c1bcb477cf229372349a684544b8001":[2,0,665,52],
+"d0/db1/classEvpnPrefix.html#a4cac122062086e00d14de9d82aa74f56":[2,0,665,73],
 "d0/db1/classEvpnPrefix.html#a4faf57733cf2f1e5150c8e092ba1066e":[2,0,665,25],
 "d0/db1/classEvpnPrefix.html#a52f526e690e967057d6d7a1f4ae312d6":[2,0,665,36],
 "d0/db1/classEvpnPrefix.html#a5a0dbdd900e097c7a7486158e7ce99d9":[2,0,665,40],
@@ -245,9 +249,5 @@ var NAVTREEINDEX11 =
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#ac0a2a27009469bbc3225f85dc887494e":[2,0,1794,4,4],
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#ae2d6cdc4f46f37e9666c5aaba5c795cb":[2,0,1794,4,9],
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#ae9d4ae12bbbfa3fcde2e394571cdf6b0":[2,0,1794,4,6],
-"d0/dbd/structVmInterface_1_1BridgeDomain.html#af2e2418ab0b30b889ffe7a7bda77bea4":[2,0,1794,4,7],
-"d0/dbd/structVxlanRoutingVnState.html":[2,0,1903],
-"d0/dbd/structVxlanRoutingVnState.html#a1bbeb67ac1060b26759b159024657dac":[2,0,1903,0],
-"d0/dbd/structVxlanRoutingVnState.html#a42488ff1f9a41e059fd5d8988919a475":[2,0,1903,11],
-"d0/dbd/structVxlanRoutingVnState.html#a46652bc73cb715b3263beabe187a3e78":[2,0,1903,7]
+"d0/dbd/structVmInterface_1_1BridgeDomain.html#af2e2418ab0b30b889ffe7a7bda77bea4":[2,0,1794,4,7]
 };

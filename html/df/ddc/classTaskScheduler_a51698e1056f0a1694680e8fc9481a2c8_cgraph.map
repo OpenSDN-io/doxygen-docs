@@ -1,3 +1,3 @@
 <map id="TaskScheduler::TaskScheduler" name="TaskScheduler::TaskScheduler">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="270,5,461,46"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="270,5,461,46"/>
 </map>

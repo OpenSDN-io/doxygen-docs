@@ -13,7 +13,7 @@ var classAclTable =
     [ "AddImplicitRule", "de/d9d/classAclTable.html#a0d4884ede3eaa434052916e1f44e0be1", null ],
     [ "AddressTypeEqual", "de/d9d/classAclTable.html#aebbfe2bf9ec7dddef6a75722c9581cf8", null ],
     [ "AddUnresolvedEntry", "de/d9d/classAclTable.html#a41d33ce3e27ff45f16f6685bf269e0af", null ],
-    [ "AllocEntry", "de/d9d/classAclTable.html#aaaa02c96c9d1efd472d07b1a2fc01db9", null ],
+    [ "AllocEntry", "de/d9d/classAclTable.html#a43b739e1ee89e578baa35f6dc549a70d", null ],
     [ "ConvertActionString", "de/d9d/classAclTable.html#af7b9e4ed1d7eea0ae43413bb506bbdd4", null ],
     [ "CreateTable", "de/d9d/classAclTable.html#a7023b7bdde69f7b09aaa6e7b05fe4cb3", null ],
     [ "DeleteUnresolvedEntry", "de/d9d/classAclTable.html#afd209f8c3c54d905ce87870ba754eba4", null ],

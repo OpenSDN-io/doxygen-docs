@@ -7,7 +7,7 @@
 <area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,988,355,1015"/>
 <area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="540,891,756,917"/>
 <area shape="rect" id="node27" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1047,608,1137,635"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task" alt="" coords="267,1276,317,1303"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,1276,317,1303"/>
 <area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="963,867,1221,909"/>
 <area shape="rect" id="node33" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="581,1195,715,1221"/>
 <area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="605,348,691,375"/>

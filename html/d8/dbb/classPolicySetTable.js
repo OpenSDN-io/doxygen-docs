@@ -2,7 +2,7 @@ var classPolicySetTable =
 [
     [ "PolicySetTable", "d8/dbb/classPolicySetTable.html#af650e582cab153136b0930547a768ba9", null ],
     [ "~PolicySetTable", "d8/dbb/classPolicySetTable.html#a873f34deda42a27c89e54681090c3350", null ],
-    [ "AllocEntry", "d8/dbb/classPolicySetTable.html#abffddda84359aca5ef506f2590b4d66d", null ],
+    [ "AllocEntry", "d8/dbb/classPolicySetTable.html#a9709be8e8bdc47370bfafc3cac7000da", null ],
     [ "CreateTable", "d8/dbb/classPolicySetTable.html#ad039744a8b26e129640a74485790c2aa", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d8/dbb/classPolicySetTable.html#a480015ae1f8d74c19942c26f0c5de104", null ],
     [ "Find", "d8/dbb/classPolicySetTable.html#aab5758852dd90ab6d0205f65797c6de0", null ],

@@ -10,7 +10,7 @@ var classKSyncObjectManager =
     [ "Process", "d1/dcb/classKSyncObjectManager.html#a3e4cd63d9eb5e299fb2445bde6d9c262", null ],
     [ "Shutdown", "d1/dcb/classKSyncObjectManager.html#a4749fcff2a40fee3bf45977ed6d97d9d", null ],
     [ "Unregister", "d1/dcb/classKSyncObjectManager.html#aceeba758aedefa017739b76b92749e1f", null ],
-    [ "default_defer_entry_", "d1/dcb/classKSyncObjectManager.html#ab0ac6cbdc9d1b019b43722daf52c5eea", null ],
+    [ "default_defer_entry_", "d1/dcb/classKSyncObjectManager.html#a01c1bc8df4c700b580596f54d6be6e13", null ],
     [ "event_queue_", "d1/dcb/classKSyncObjectManager.html#a09f12c42f6fbbb00fb10b2186114a28a", null ],
     [ "kMaxEntriesProcess", "d1/dcb/classKSyncObjectManager.html#acb32f7b5b1487ed1bc22ec1ab1323a89", null ],
     [ "singleton_", "d1/dcb/classKSyncObjectManager.html#ac0ca4cfe2d817219e98faf4293864e98", null ]

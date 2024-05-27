@@ -8,7 +8,7 @@
 <area shape="rect" id="node12" href="$dc/d2b/classFlowTable.html#a5577658246ca787090bb12790a00ca40" title="FlowTable::Locate" alt="" coords="430,1586,567,1613"/>
 <area shape="rect" id="node15" href="$dc/d2b/classFlowTable.html#a430729e773a68adc8ca67f33db242fb4" title="FlowTable::AddInternal" alt="" coords="414,569,583,596"/>
 <area shape="rect" id="node5" href="$dc/d2b/classFlowTable.html#afb1b26ae293e3f56675f04669dc84f8b" title="FlowTable::ConcurrencyCheck" alt="" coords="647,1528,862,1554"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Task::Running" alt="" coords="979,1594,1090,1621"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Returns a pointer to the current task the code is executing under. " alt="" coords="979,1594,1090,1621"/>
 <area shape="rect" id="node7" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="973,1645,1096,1672"/>
 <area shape="rect" id="node8" href="$df/d96/classSessionStatsCollector.html#af290ae83d84fe2e517f18cbff3f7816a" title="SessionStatsCollector\l::task_id" alt="" coords="953,1478,1116,1519"/>
 <area shape="rect" id="node9" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="951,1544,1118,1570"/>

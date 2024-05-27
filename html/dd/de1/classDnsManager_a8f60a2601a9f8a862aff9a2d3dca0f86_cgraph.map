@@ -45,7 +45,7 @@
 <area shape="rect" id="node41" href="$dd/de1/classDnsManager.html#a5bd79fe18219fa94a26cd27e7fd96ca6" title="DnsManager::PendingListZone\lDelete" alt="" coords="1024,1314,1243,1355"/>
 <area shape="rect" id="node42" href="$d3/d00/classNamedConfig.html#aa157b5827fd84432c359a5ab01532773" title="NamedConfig::AddZone" alt="" coords="1045,1212,1221,1239"/>
 <area shape="rect" id="node44" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="531,1329,717,1356"/>
-<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="516,1380,732,1407"/>
+<area shape="rect" id="node46" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="516,1380,732,1407"/>
 <area shape="rect" id="node48" href="$dc/dea/classTimer.html#a7c72a98be7a1d0f1ec2db60e351bcb35" title="Timer::running" alt="" coords="565,1431,683,1457"/>
 <area shape="rect" id="node49" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="575,1481,673,1508"/>
 </map>

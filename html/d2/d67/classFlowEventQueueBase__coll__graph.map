@@ -21,7 +21,7 @@
 <area shape="rect" id="node6" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="856,960,1043,987"/>
 <area shape="rect" id="node18" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1265,1093,1364,1120"/>
 <area shape="rect" id="node20" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1459,1523,1519,1549"/>
-<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="TaskScheduler" alt="" coords="1615,1172,1729,1199"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="1615,1172,1729,1199"/>
 <area shape="rect" id="node46" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; PktInfo \&gt; \&gt;" alt="" coords="627,959,827,1001"/>
 <area shape="rect" id="node49" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; QueueEntryT \&gt;" alt="" coords="621,1456,832,1483"/>
 <area shape="rect" id="node10" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="1810,1452,1910,1479"/>
@@ -31,7 +31,7 @@
 <area shape="rect" id="node16" href="$dd/da3/classForwardingClassTable.html" title="ForwardingClassTable" alt="" coords="1779,1016,1941,1043"/>
 <area shape="rect" id="node17" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="1773,1067,1947,1093"/>
 <area shape="rect" id="node22" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="462,1592,597,1619"/>
-<area shape="rect" id="node23" href="$d6/d9c/classTask.html" title="Task" alt="" coords="11,1583,61,1609"/>
+<area shape="rect" id="node23" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="11,1583,61,1609"/>
 <area shape="rect" id="node50" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; QueueEntry\lT, WorkQueue\&lt; QueueEntryT \&gt; \&gt;" alt="" coords="195,1539,437,1581"/>
 <area shape="rect" id="node26" href="$d2/d5c/classVnTable.html" title="VnTable" alt="" coords="1823,213,1897,240"/>
 <area shape="rect" id="node29" href="$d5/dab/classPhysicalDeviceVnTable.html" title="PhysicalDeviceVnTable" alt="" coords="1774,264,1946,291"/>

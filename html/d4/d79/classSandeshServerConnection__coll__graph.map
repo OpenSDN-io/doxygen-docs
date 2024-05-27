@@ -15,6 +15,6 @@
 <area shape="rect" id="node17" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1539,634,1754,675"/>
 <area shape="rect" id="node19" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="962,799,1094,825"/>
 <area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="915,703,1141,774"/>
-<area shape="rect" id="node23" href="$d6/d9c/classTask.html" title="Task" alt="" coords="623,667,673,693"/>
+<area shape="rect" id="node23" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="623,667,673,693"/>
 <area shape="rect" id="node24" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="931,638,1125,679"/>
 </map>

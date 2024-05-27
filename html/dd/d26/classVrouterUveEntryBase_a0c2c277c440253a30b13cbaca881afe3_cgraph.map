@@ -30,19 +30,19 @@
 <area shape="rect" id="node43" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="960,877,1059,904"/>
 <area shape="rect" id="node46" href="$dd/d26/classVrouterUveEntryBase.html#aa677bde873566901fb44148a2eb51a16" title="VrouterUveEntryBase\l::TimerExpiry" alt="" coords="928,979,1091,1020"/>
 <area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1411,744,1613,770"/>
-<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="1174,994,1341,1021"/>
+<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1174,994,1341,1021"/>
 <area shape="rect" id="node42" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1196,877,1319,904"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1669,744,1885,770"/>
-<area shape="rect" id="node32" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1417,998,1607,1039"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1669,744,1885,770"/>
+<area shape="rect" id="node32" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1417,998,1607,1039"/>
 <area shape="rect" id="node34" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1451,896,1573,922"/>
 <area shape="rect" id="node35" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1429,946,1595,973"/>
-<area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="TaskScheduler::QueryTask\lGroup" alt="" coords="1682,918,1873,959"/>
+<area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1682,918,1873,959"/>
 <area shape="rect" id="node36" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1433,1064,1591,1090"/>
 <area shape="rect" id="node37" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1409,1114,1615,1141"/>
-<area shape="rect" id="node38" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="TaskGroup::DeleteFromDeferQ" alt="" coords="1403,1165,1621,1192"/>
-<area shape="rect" id="node39" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="TaskEntry::DeleteFromDeferQ" alt="" coords="1405,1216,1619,1242"/>
+<area shape="rect" id="node38" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1403,1165,1621,1192"/>
+<area shape="rect" id="node39" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1405,1216,1619,1242"/>
 <area shape="rect" id="node40" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1432,1266,1592,1293"/>
-<area shape="rect" id="node41" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="TaskGroup::AddToDeferQ" alt="" coords="1421,794,1603,821"/>
+<area shape="rect" id="node41" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1421,794,1603,821"/>
 <area shape="rect" id="node44" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="1208,826,1307,853"/>
 <area shape="rect" id="node45" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="1174,754,1341,781"/>
 <area shape="rect" id="node47" href="$dd/d26/classVrouterUveEntryBase.html#a10fd2e17b4207ee65e55be5f2b24d510" title="VrouterUveEntryBase::Run" alt="" coords="1160,1045,1355,1072"/>

@@ -23,6 +23,6 @@ var classBgpYamlConfigManager =
     [ "UpdateNeighbor", "d2/d7a/classBgpYamlConfigManager.html#a2826a21c2bd6928ab21257881ca20474", null ],
     [ "UpdateNeighbors", "d2/d7a/classBgpYamlConfigManager.html#ac556062f16c0e08d89ff46be1f8e726e", null ],
     [ "UpdateProtocol", "d2/d7a/classBgpYamlConfigManager.html#a294abccdbd81da17c2daac39497cc6fc", null ],
-    [ "data_", "d2/d7a/classBgpYamlConfigManager.html#a00b5caae6075e94fdd2ae7da83120403", null ],
+    [ "data_", "d2/d7a/classBgpYamlConfigManager.html#a8b0784761e2f9f1d1a3636fa29e9cd64", null ],
     [ "kMaxHoldTime", "d2/d7a/classBgpYamlConfigManager.html#aa527fc5c5aa123a85753144343d22341", null ]
 ];

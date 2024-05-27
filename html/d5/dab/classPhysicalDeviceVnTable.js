@@ -6,7 +6,7 @@ var classPhysicalDeviceVnTable =
     [ "~PhysicalDeviceVnTable", "d5/dab/classPhysicalDeviceVnTable.html#abee00bfa525e1628317a456a6f480ffe", null ],
     [ "Add", "d5/dab/classPhysicalDeviceVnTable.html#ac0255a7720d00de75c3a2196adaad3fd", null ],
     [ "AddConfigEntry", "d5/dab/classPhysicalDeviceVnTable.html#ac8d2c052b11a7e9bda525d364f13bbbd", null ],
-    [ "AllocEntry", "d5/dab/classPhysicalDeviceVnTable.html#ae6a9d63ae6da1c5422eb0c85bb3234c0", null ],
+    [ "AllocEntry", "d5/dab/classPhysicalDeviceVnTable.html#a34a1f63f95cb57dde813cf1f189f7b88", null ],
     [ "Clear", "d5/dab/classPhysicalDeviceVnTable.html#acd1f874e4ac3eed0c08629cac8afaaaa", null ],
     [ "config_tree", "d5/dab/classPhysicalDeviceVnTable.html#a5a39ee0a3301b56de87b6dc7877cca6c", null ],
     [ "CreateTable", "d5/dab/classPhysicalDeviceVnTable.html#a48650181ee2b7f673b9e4efa73b88456", null ],

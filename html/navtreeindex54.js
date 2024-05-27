@@ -1,5 +1,9 @@
 var NAVTREEINDEX54 =
 {
+"d3/db0/classErmVpnTable.html#afc3663e091dd98509f69c7768bf5e297":[2,0,645,23],
+"d3/db0/classErmVpnTable.html#aff60b31353875e70ae74c08f181f92a7":[2,0,645,27],
+"d3/db1/classKSyncBridgeMemory.html":[2,0,986],
+"d3/db1/classKSyncBridgeMemory.html#a189623b873d77582c8702d1b9e46f8b8":[2,0,986,4],
 "d3/db1/classKSyncBridgeMemory.html#a38b4c1eb4dfd7e79430c3ca02aeaa402":[2,0,986,0],
 "d3/db1/classKSyncBridgeMemory.html#a38fd1572e2ef2f30305564e4ccb970d0":[2,0,986,6],
 "d3/db1/classKSyncBridgeMemory.html#a3da79907a09fdc463b52c3b1b4d6d946":[2,0,986,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX54 =
 "d3/dd0/structStatsManager_1_1VrfStats.html#a1fe4d6479efe953b7fadb0226dd4b4e9":[2,0,1643,2,76],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a22c018adff4a2c1db818abd8cfe96d0e":[2,0,1643,2,29],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a2389bbc892535598575cf6ba4e49bbba":[2,0,1643,2,27],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a263231d91b66b5981cc2735f66701352":[2,0,1643,2,56],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a2801f76eb046a865008d1b8d76b886bd":[2,0,1643,2,32],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a2a63ea41f41d818dccc538363cccadf1":[2,0,1643,2,3],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a2b21fea8b0187b4a55984bf4b58cd2b6":[2,0,1643,2,10],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a2d07d8d181316b105ada62ac3e8046b5":[2,0,1643,2,45]
+"d3/dd0/structStatsManager_1_1VrfStats.html#a263231d91b66b5981cc2735f66701352":[2,0,1643,2,56]
 };

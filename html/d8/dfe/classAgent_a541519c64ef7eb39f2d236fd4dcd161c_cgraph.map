@@ -1,10 +1,10 @@
 <map id="Agent::InitDone" name="Agent::InitDone">
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="183,12,385,39"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a5f40b7359c46c4230f2b57ca4447dd8e" title="TaskScheduler::ModifyTbb\lKeepAwakeTimeout" alt="" coords="189,63,379,105"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a79fee9688d3b81020d84e2d82a5919d4" title="TaskScheduler::EnableMonitor" alt="" coords="176,129,392,156"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a79fee9688d3b81020d84e2d82a5919d4" title="Enable Task monitoring. " alt="" coords="176,129,392,156"/>
 <area shape="rect" id="node17" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="199,180,369,207"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="440,12,656,39"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="709,5,899,46"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="440,12,656,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="709,5,899,46"/>
 <area shape="rect" id="node6" href="$dd/d34/classTaskTbbKeepAwake.html#ab78374b5e6d13bac9723029c464a0d5f" title="TaskTbbKeepAwake::Modify\lTbbKeepAwakeTimeout" alt="" coords="447,63,649,105"/>
 <area shape="rect" id="node8" href="$d0/db0/classTaskMonitor.html#ac70dc60ac61eeb17f40eaa8fb75e63c5" title="TaskMonitor::Start" alt="" coords="479,129,617,156"/>
 <area shape="rect" id="node9" href="$d0/db0/classTaskMonitor.html#a47efbb018528b47724baf8ea50a6113d" title="TaskMonitor::UpdateTimers" alt="" coords="704,79,904,105"/>

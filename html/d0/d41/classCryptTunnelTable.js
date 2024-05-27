@@ -4,7 +4,7 @@ var classCryptTunnelTable =
     [ "CryptTunnelTable", "d0/d41/classCryptTunnelTable.html#adafce655c5b9ea70b31a3cfebc2bfada", null ],
     [ "~CryptTunnelTable", "d0/d41/classCryptTunnelTable.html#ae873802d857238c9f0aae0a988c390ca", null ],
     [ "Add", "d0/d41/classCryptTunnelTable.html#a18be0f2f511eeae0100c734c27e4a17a", null ],
-    [ "AllocEntry", "d0/d41/classCryptTunnelTable.html#a14c9243c3349b7b36bd6443250619e4e", null ],
+    [ "AllocEntry", "d0/d41/classCryptTunnelTable.html#a8f07de4713d98b87a4b2b9fc8c284124", null ],
     [ "ChangeHandler", "d0/d41/classCryptTunnelTable.html#a306afd5a3659cdd514abdd0dce8b05f5", null ],
     [ "Create", "d0/d41/classCryptTunnelTable.html#ac321dd6990baa873b2af61401feed939", null ],
     [ "CreateTable", "d0/d41/classCryptTunnelTable.html#a41aacefc5e6e354716b03043de760b8b", null ],

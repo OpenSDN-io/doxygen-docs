@@ -1,5 +1,9 @@
 var NAVTREEINDEX63 =
 {
+"d4/d54/classPathResolver_1_1DeleteActor.html#a7b4256d26577f50a34ac387b3d1682bf":[2,0,1285,0,3],
+"d4/d54/classPathResolver_1_1DeleteActor.html#aec6d9e98223f27fb5f8f71ae98a0015a":[2,0,1285,0,1],
+"d4/d55/server__manager_8h.html":[3,0,1053],
+"d4/d55/server__manager_8h_source.html":[3,0,1053],
 "d4/d56/classOVSDB_1_1ConnectionStateEntry.html":[2,0,20,12],
 "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a1aaaa3cdfca16d1161959c0a27fae33b":[2,0,20,12,4],
 "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a204fa90f72459db7120ae6e941d73fc2":[2,0,20,12,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX63 =
 "d4/d69/classMacIpLearningProtoHandler.html#aa70f7f2257188b93f4a2410b96433796":[2,0,1086,4],
 "d4/d69/classMacIpLearningProtoHandler.html#ab3e87185fd6df62abb25a91fb66270ef":[2,0,1086,7],
 "d4/d69/classMacIpLearningProtoHandler.html#ac62d7faf938f9f5931b3e60ec121d0f9":[2,0,1086,6],
-"d4/d69/structWaitForTraffic.html":[2,0,1906],
-"d4/d69/structWaitForTraffic.html#a30ac36bee565d23a332ac0721f332cc6":[2,0,1906,2],
-"d4/d69/structWaitForTraffic.html#a6cb9aba37a76aa5bef1ad0d1c634f88f":[2,0,1906,3],
-"d4/d69/structWaitForTraffic.html#a787c92900fa15a03c30e4c32556f8452":[2,0,1906,1],
-"d4/d69/structWaitForTraffic.html#ab3f1263292679909b51f0c2a9b45e07a":[2,0,1906,5]
+"d4/d69/structWaitForTraffic.html":[2,0,1906]
 };

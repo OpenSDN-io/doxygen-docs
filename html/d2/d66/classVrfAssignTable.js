@@ -3,7 +3,7 @@ var classVrfAssignTable =
     [ "VrfAssignTable", "d2/d66/classVrfAssignTable.html#a8a869acf21457237275ee834cbe65afd", null ],
     [ "~VrfAssignTable", "d2/d66/classVrfAssignTable.html#a86afad0c9ba8e14ff50a742d0ba90429", null ],
     [ "Add", "d2/d66/classVrfAssignTable.html#ad401a4cc73f880feb0716db10ac990b4", null ],
-    [ "AllocEntry", "d2/d66/classVrfAssignTable.html#af616a18a6d67f35ddf2fff44e22f2589", null ],
+    [ "AllocEntry", "d2/d66/classVrfAssignTable.html#a392542c2d8f6f930b180bdb3253cc54b", null ],
     [ "AllocWithKey", "d2/d66/classVrfAssignTable.html#a6e27d7f454f56e472e14372ef37c874e", null ],
     [ "CreateTable", "d2/d66/classVrfAssignTable.html#a9d81002569ec8478fe60b801ec5d5cec", null ],
     [ "CreateVlan", "d2/d66/classVrfAssignTable.html#aa9ac136418827ecc8dd199225b80b542", null ],

@@ -15,10 +15,10 @@
 <area shape="rect" id="node48" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="243,223,448,249"/>
 <area shape="rect" id="node6" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="556,71,668,97"/>
 <area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="783,71,985,97"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="TaskScheduler::Cancel" alt="" coords="801,121,967,148"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="801,121,967,148"/>
 <area shape="rect" id="node12" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="823,20,945,47"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="1048,71,1264,97"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="TaskScheduler::QueryTask\lEntry" alt="" coords="1061,173,1251,214"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1048,71,1264,97"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1061,173,1251,214"/>
 <area shape="rect" id="node11" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1095,121,1217,148"/>
 <area shape="rect" id="node16" href="$db/d35/classVrfTable.html#a9c5dcf08620bc3a9b314c965ded8ff23" title="VrfTable::GetRouteTable" alt="" coords="523,527,701,553"/>
 <area shape="rect" id="node17" href="$db/d35/classVrfTable.html#a0bf510f7d2deec00ba81677a6f6252d5" title="VrfTable::DeleteFromDbTree" alt="" coords="511,628,713,655"/>

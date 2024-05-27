@@ -3,8 +3,8 @@
 <area shape="rect" id="node7" href="$da/d47/classRTargetGroupMgr.html#a7dbac133a48b843fd015b72c59d37eab" title="RTargetGroupMgr::Process\lRouteTargetList" alt="" coords="243,122,434,163"/>
 <area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="498,12,699,39"/>
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="483,63,714,105"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler::TaskScheduler" alt="" coords="763,12,979,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="TaskScheduler::GetThread\lCount" alt="" coords="1034,5,1225,46"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="763,12,979,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1034,5,1225,46"/>
 <area shape="rect" id="node8" href="$da/d47/classRTargetGroupMgr.html#af9c43a9d0c9958d7a1a80f2e98dc82d9" title="RTargetGroupMgr::GetRtGroup" alt="" coords="490,129,707,156"/>
 <area shape="rect" id="node9" href="$db/d6b/classRtGroup.html#a1e4d303972d1755a3e03cb370cbe7a64" title="RtGroup::NotifyDepRoutes" alt="" coords="502,180,695,207"/>
 <area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="783,143,959,185"/>

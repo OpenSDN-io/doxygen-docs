@@ -1,5 +1,9 @@
 var NAVTREEINDEX75 =
 {
+"d5/d21/classetcdserverpb_1_1SnapshotRequest.html#af9934a190ca0c1921504ffb6ac957623":[2,0,11,102,25],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html":[2,0,1774,0],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a23ddf5619dfeb8cd71e777b1d1663b67":[2,0,1774,0,3],
+"d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a41b432ab28797766308b436fa4a74c34":[2,0,1774,0,5],
 "d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a44c52c63202866ab7e38ed43ed9b6520":[2,0,1774,0,4],
 "d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a5c03654105a4ff775dcd2d45ab87edbe":[2,0,1774,0,1],
 "d5/d22/structVirtualGatewayConfig_1_1Subnet.html#aea7bb94843d43cc303a7c95619059116":[2,0,1774,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX75 =
 "d5/d27/gmpr__private_8h.html#aac129b8d8fae75f0375dd40a51564722":[3,0,479,69],
 "d5/d27/gmpr__private_8h.html#aac27bdc5dfb5870f84523bbb8b7929de":[3,0,479,109],
 "d5/d27/gmpr__private_8h.html#aaee6ef7712fd8b3f34c8cab5b0b3280e":[3,0,479,127],
-"d5/d27/gmpr__private_8h.html#aaf695b6d7a7d63b04f148d044db52562":[3,0,479,105],
-"d5/d27/gmpr__private_8h.html#aaff252bee20fd28844deac43d1029249":[3,0,479,78],
-"d5/d27/gmpr__private_8h.html#ab2dbd89f1c2c38d392c72d01a25a4beb":[3,0,479,58],
-"d5/d27/gmpr__private_8h.html#ab35fdddd68a84f3418f43c764f1bcd1b":[3,0,479,54],
-"d5/d27/gmpr__private_8h.html#ab505d1f3051f81c6c56750b0f89e8c35":[3,0,479,114]
+"d5/d27/gmpr__private_8h.html#aaf695b6d7a7d63b04f148d044db52562":[3,0,479,105]
 };
