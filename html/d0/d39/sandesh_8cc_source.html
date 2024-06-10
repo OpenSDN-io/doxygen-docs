@@ -1149,9 +1149,9 @@ $(document).ready(function(){initNavTree('d0/d39/sandesh_8cc_source.html','../..
 <div class="line"><a name="l01041"></a><span class="lineno"> 1041</span>&#160;        props.setProperty(LOG4CPLUS_TEXT(<span class="stringliteral">&quot;ident&quot;</span>), syslogident);</div>
 <div class="line"><a name="l01042"></a><span class="lineno"> 1042</span>&#160;        props.setProperty(LOG4CPLUS_TEXT(<span class="stringliteral">&quot;additivity&quot;</span>), <span class="stringliteral">&quot;false&quot;</span>);</div>
 <div class="line"><a name="l01043"></a><span class="lineno"> 1043</span>&#160;        SharedAppenderPtr syslogappender(<span class="keyword">new</span> SysLogAppender(props));</div>
-<div class="line"><a name="l01044"></a><span class="lineno"> 1044</span>&#160;        std::auto_ptr&lt;Layout&gt; syslog_layout_ptr(<span class="keyword">new</span> PatternLayout(</div>
+<div class="line"><a name="l01044"></a><span class="lineno"> 1044</span>&#160;        std::unique_ptr&lt;Layout&gt; syslog_layout_ptr(<span class="keyword">new</span> PatternLayout(</div>
 <div class="line"><a name="l01045"></a><span class="lineno"> 1045</span>&#160;                                                    <a class="code" href="../../d0/d39/sandesh_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
-<div class="line"><a name="l01046"></a><span class="lineno"> 1046</span>&#160;        syslogappender-&gt;setLayout(syslog_layout_ptr);</div>
+<div class="line"><a name="l01046"></a><span class="lineno"> 1046</span>&#160;        syslogappender-&gt;setLayout(std::move(syslog_layout_ptr));</div>
 <div class="line"><a name="l01047"></a><span class="lineno"> 1047</span>&#160;        logger.addAppender(syslogappender);</div>
 <div class="line"><a name="l01048"></a><span class="lineno"> 1048</span>&#160;        <span class="keywordflow">if</span> (is_sampled_logger) {</div>
 <div class="line"><a name="l01049"></a><span class="lineno"> 1049</span>&#160;            <a class="code" href="../../de/d75/classSandesh.html#aaabfb6b786d712a7796093329327915e">Sandesh::sampled_to_logger_</a> = <span class="keyword">true</span>;</div>

@@ -160,8 +160,8 @@ $(document).ready(function(){initNavTree('d8/d11/logging_8cc_source.html','../..
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    BasicConfigurator config;</div>
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    config.configure();</div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    Logger logger = Logger::getRoot();</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    std::auto_ptr&lt;Layout&gt; layout_ptr(<span class="keyword">new</span> PatternLayout(<a class="code" href="../../d8/d11/logging_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    logger.getAllAppenders().at(0)-&gt;setLayout(layout_ptr);</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    std::unique_ptr&lt;Layout&gt; layout_ptr(<span class="keyword">new</span> PatternLayout(<a class="code" href="../../d8/d11/logging_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    logger.getAllAppenders().at(0)-&gt;setLayout(std::move(layout_ptr));</div>
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <a class="code" href="../../d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c">CheckEnvironmentAndUpdate</a>();</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;}</div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;</div>
@@ -181,9 +181,9 @@ $(document).ready(function(){initNavTree('d8/d11/logging_8cc_source.html','../..
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;                        : syslogFacility);</div>
 <div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;        props.setProperty(LOG4CPLUS_TEXT(<span class="stringliteral">&quot;ident&quot;</span>), syslogident);</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;        SharedAppenderPtr syslogappender(<span class="keyword">new</span> SysLogAppender(props));</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;        std::auto_ptr&lt;Layout&gt; syslog_layout_ptr(<span class="keyword">new</span> PatternLayout(</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;        std::unique_ptr&lt;Layout&gt; syslog_layout_ptr(<span class="keyword">new</span> PatternLayout(</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                                                    <a class="code" href="../../d8/d11/logging_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;        syslogappender-&gt;setLayout(syslog_layout_ptr);</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;        syslogappender-&gt;setLayout(std::move(syslog_layout_ptr));</div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;        logger.addAppender(syslogappender);</div>
 <div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;        <a class="code" href="../../d8/d11/logging_8cc.html#abdb013eff1b49df228d7a354e93a852f">use_syslog_</a> = useSyslog;</div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    } <span class="keywordflow">else</span> {</div>
@@ -196,8 +196,8 @@ $(document).ready(function(){initNavTree('d8/d11/logging_8cc_source.html','../..
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;            logger.addAppender(fileappender);</div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;        }</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        std::auto_ptr&lt;Layout&gt; layout_ptr(<span class="keyword">new</span> PatternLayout(<a class="code" href="../../d8/d11/logging_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;        logger.getAllAppenders().at(0)-&gt;setLayout(layout_ptr);</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        std::unique_ptr&lt;Layout&gt; layout_ptr(<span class="keyword">new</span> PatternLayout(<a class="code" href="../../d8/d11/logging_8cc.html#a12a5211526b363ef45802fd5dd337bd5">loggingPattern</a>));</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;        logger.getAllAppenders().at(0)-&gt;setLayout(std::move(layout_ptr));</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    }</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    <a class="code" href="../../d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c">CheckEnvironmentAndUpdate</a>();</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;}</div>
