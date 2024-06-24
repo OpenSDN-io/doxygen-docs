@@ -143,24 +143,33 @@ This graph shows which files directly or indirectly include this file:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html">EvpnMcastNode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is the base class for a multicast node in an EVPN instance. The node could either represent a local vRouter that's connected to a control node via XMPP or a remote vRouter/PE that's discovered via BGP.  <a href="../../dd/de9/classEvpnMcastNode.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/classEvpnLocalMcastNode.html">EvpnLocalMcastNode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents (in the context of an EVPN instance) a local vRouter that's connected to a control node via XMPP. An <a class="el" href="../../db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont...">EvpnLocalMcastNode</a> gets created and associated as <a class="el" href="../../d3/def/structDBState.html">DBState</a> with the broadcast MAC route advertised by the vRouter.  <a href="../../db/dc8/classEvpnLocalMcastNode.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1b/classEvpnRemoteMcastNode.html">EvpnRemoteMcastNode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents (in the context of an EVPN instance) a remote vRouter or PE discovered via BGP. An <a class="el" href="../../d0/d1b/classEvpnRemoteMcastNode.html" title="This class represents (in the context of an EVPN instance) a remote vRouter or PE discovered via BGP...">EvpnRemoteMcastNode</a> is created and associated as <a class="el" href="../../d3/def/structDBState.html">DBState</a> with the Inclusive Multicast route in question.  <a href="../../d0/d1b/classEvpnRemoteMcastNode.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d17/classEvpnSegment.html">EvpnSegment</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it. An <a class="el" href="../../dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it...">EvpnSegment</a> is created when we see a MAC route with a non-NULL ESI or when we see an AD route for the ESI in question.  <a href="../../dd/d17/classEvpnSegment.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/classEvpnSegment_1_1RemotePe.html">EvpnSegment::RemotePe</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db9/classEvpnMacState.html">EvpnMacState</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents the <a class="el" href="../../d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. ">EvpnManager</a> state associated with a MAC route.  <a href="../../de/db9/classEvpnMacState.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d10/classEvpnState.html">EvpnState</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class holds Evpn state for a particular &lt;S,G&gt; at any given time.  <a href="../../dc/d10/classEvpnState.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d44/structEvpnState_1_1SG.html">EvpnState::SG</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simple structure to hold &lt;S,G&gt;. Source as "0.0.0.0" can be used to encode &lt;*,G&gt; as well.  <a href="../../d1/d44/structEvpnState_1_1SG.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dd0/classEvpnManagerPartition.html">EvpnManagerPartition</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents a partition in the <a class="el" href="../../d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. ">EvpnManager</a>.  <a href="../../d9/dd0/classEvpnManagerPartition.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d15/classEvpnManager.html">EvpnManager</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents the EVPN manager for an <a class="el" href="../../da/da4/classEvpnTable.html">EvpnTable</a> in a VRF.  <a href="../../d4/d15/classEvpnManager.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
@@ -181,8 +190,10 @@ Typedefs</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a40a85e6b62f1995bf39ae6f509a563e7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc5/bgp__evpn_8h.html#a40a85e6b62f1995bf39ae6f509a563e7">intrusive_ptr_add_ref</a> (<a class="el" href="../../dc/d10/classEvpnState.html">EvpnState</a> *evpn_state)</td></tr>
+<tr class="memdesc:a40a85e6b62f1995bf39ae6f509a563e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Increment refcont atomically.  <a href="#a40a85e6b62f1995bf39ae6f509a563e7">More...</a><br/></td></tr>
 <tr class="separator:a40a85e6b62f1995bf39ae6f509a563e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a117e44da66d134fea8b7591d14a6feeb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc5/bgp__evpn_8h.html#a117e44da66d134fea8b7591d14a6feeb">intrusive_ptr_release</a> (<a class="el" href="../../dc/d10/classEvpnState.html">EvpnState</a> *evpn_state)</td></tr>
+<tr class="memdesc:a117e44da66d134fea8b7591d14a6feeb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decrement refcount of an evpn_state. If the refcount falls to 1, it implies that there is no more reference to this particular state from any other data structure. Hence, it can be deleted from the container map and destroyed as well.  <a href="#a117e44da66d134fea8b7591d14a6feeb">More...</a><br/></td></tr>
 <tr class="separator:a117e44da66d134fea8b7591d14a6feeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
@@ -219,7 +230,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="routing__instance__log_8h_html_a2c53b36e6de95a188257cb4e55a75e98"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#a2c53b36e6de95a188257cb4e55a75e98">RTINSTANCE_LOG_FLAG_ALL</a></div><div class="ttdeci">#define RTINSTANCE_LOG_FLAG_ALL</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00030">routing_instance_log.h:30</a></div></div>
 <div class="ttc" id="routing__instance__log_8h_html_aad289538a3639c10f0328d91dc1da1b6"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6">RTINSTANCE_LOG</a></div><div class="ttdeci">#define RTINSTANCE_LOG(type, rtinstance, level, flags,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00062">routing_instance_log.h:62</a></div></div>
 </div><!-- fragment -->
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00601">601</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00795">795</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -257,7 +268,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="classEvpnRoute_html"><div class="ttname"><a href="../../d1/d3a/classEvpnRoute.html">EvpnRoute</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d2a/bgp_2evpn_2evpn__route_8h_source.html#l00154">bgp/evpn/evpn_route.h:154</a></div></div>
 <div class="ttc" id="routing__instance__log_8h_html_aad289538a3639c10f0328d91dc1da1b6"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6">RTINSTANCE_LOG</a></div><div class="ttdeci">#define RTINSTANCE_LOG(type, rtinstance, level, flags,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00062">routing_instance_log.h:62</a></div></div>
 </div><!-- fragment -->
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00593">593</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00787">787</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -290,7 +301,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="routing__instance__log_8h_html_a2c53b36e6de95a188257cb4e55a75e98"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#a2c53b36e6de95a188257cb4e55a75e98">RTINSTANCE_LOG_FLAG_ALL</a></div><div class="ttdeci">#define RTINSTANCE_LOG_FLAG_ALL</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00030">routing_instance_log.h:30</a></div></div>
 <div class="ttc" id="routing__instance__log_8h_html_aad289538a3639c10f0328d91dc1da1b6"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6">RTINSTANCE_LOG</a></div><div class="ttdeci">#define RTINSTANCE_LOG(type, rtinstance, level, flags,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00062">routing_instance_log.h:62</a></div></div>
 </div><!-- fragment -->
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00609">609</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00803">803</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -332,7 +343,9 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00565">565</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Increment refcont atomically. </p>
+
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00759">759</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -358,14 +371,16 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00573">573</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Decrement refcount of an evpn_state. If the refcount falls to 1, it implies that there is no more reference to this particular state from any other data structure. Hence, it can be deleted from the container map and destroyed as well. </p>
+
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00767">767</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d6/dc5/bgp__evpn_8h_a117e44da66d134fea8b7591d14a6feeb_cgraph.png" border="0" usemap="#d6/dc5/bgp__evpn_8h_a117e44da66d134fea8b7591d14a6feeb_cgraph" alt=""/></div>
 <map name="d6/dc5/bgp__evpn_8h_a117e44da66d134fea8b7591d14a6feeb_cgraph" id="d6/dc5/bgp__evpn_8h_a117e44da66d134fea8b7591d14a6feeb_cgraph">
-<area shape="rect" id="node2" href="../../dc/d10/classEvpnState.html#ae1db42e84f2200b19e34b872cb6b3c43" title="EvpnState::states" alt="" coords="243,5,379,32"/><area shape="rect" id="node3" href="../../dc/d10/classEvpnState.html#a88c0870eae3085b8da81bb326228b57b" title="EvpnState::sg" alt="" coords="255,56,366,83"/><area shape="rect" id="node4" href="../../dc/d10/classEvpnState.html#a54bedbd66a068bcb5782c02f26ec2b43" title="EvpnState::manager" alt="" coords="233,107,388,133"/><area shape="rect" id="node5" href="../../d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="EvpnManager::deleter" alt="" coords="229,157,393,184"/><area shape="rect" id="node6" href="../../dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="221,208,401,235"/><area shape="rect" id="node7" href="../../dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="213,259,408,285"/><area shape="rect" id="node8" href="../../dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="457,259,653,285"/><area shape="rect" id="node9" href="../../dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="702,251,885,293"/></map>
+<area shape="rect" id="node2" href="../../dc/d10/classEvpnState.html#ae1db42e84f2200b19e34b872cb6b3c43" title="EvpnState::states" alt="" coords="243,5,379,32"/><area shape="rect" id="node3" href="../../dc/d10/classEvpnState.html#a88c0870eae3085b8da81bb326228b57b" title="EvpnState::sg" alt="" coords="255,56,366,83"/><area shape="rect" id="node4" href="../../dc/d10/classEvpnState.html#a54bedbd66a068bcb5782c02f26ec2b43" title="EvpnState::manager" alt="" coords="233,107,388,133"/><area shape="rect" id="node5" href="../../d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="Return the LifetimeActor for the EvpnManager. " alt="" coords="229,157,393,184"/><area shape="rect" id="node6" href="../../dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="221,208,401,235"/><area shape="rect" id="node7" href="../../dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="213,259,408,285"/><area shape="rect" id="node8" href="../../dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="457,259,653,285"/><area shape="rect" id="node9" href="../../dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="702,251,885,293"/></map>
 </div>
 </p>
 

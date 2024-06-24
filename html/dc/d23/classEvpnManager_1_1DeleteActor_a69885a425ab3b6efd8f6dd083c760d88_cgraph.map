@@ -1,8 +1,8 @@
 <map id="EvpnManager::DeleteActor::Destroy" name="EvpnManager::DeleteActor::Destroy">
 <area shape="rect" id="node2" href="$da/da4/classEvpnTable.html#ad1b91579f2a0056fba835a6e56b2700b" title="EvpnTable::DestroyEvpnManager" alt="" coords="248,31,483,57"/>
-<area shape="rect" id="node3" href="$d4/d15/classEvpnManager.html#aa490d23ef53293e59052b354fd6bfc1b" title="EvpnManager::Terminate" alt="" coords="531,31,714,57"/>
+<area shape="rect" id="node3" href="$d4/d15/classEvpnManager.html#aa490d23ef53293e59052b354fd6bfc1b" title="Terminate the EvpnManager. We free the EvpnManagerPartitions and unregister from the EvpnTable..." alt="" coords="531,31,714,57"/>
 <area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="775,5,958,32"/>
-<area shape="rect" id="node6" href="$d4/d15/classEvpnManager.html#a85da9e01956616e9d20c19db150a755f" title="EvpnManager::FreePartitions" alt="" coords="763,56,970,83"/>
+<area shape="rect" id="node6" href="$d4/d15/classEvpnManager.html#a85da9e01956616e9d20c19db150a755f" title="Free the EvpnManagerPartitions. " alt="" coords="763,56,970,83"/>
 <area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="1019,5,1211,32"/>
 <area shape="rect" id="node7" href="$d8/d3c/util_8h.html#a6a5e9319fe8e7bf71605737943de589e" title="STLDeleteValues" alt="" coords="1049,56,1180,83"/>
 </map>

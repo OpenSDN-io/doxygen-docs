@@ -1,5 +1,5 @@
 <map id="EvpnManagerPartition" name="EvpnManagerPartition">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="881,1115,991,1141"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="881,1115,991,1141"/>
 <area shape="rect" id="node3" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="999,1213,1087,1240"/>
 <area shape="rect" id="node45" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="651,1213,865,1240"/>
 <area shape="rect" id="node4" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="1187,933,1268,960"/>

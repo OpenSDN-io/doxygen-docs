@@ -1,5 +1,5 @@
 <map id="EvpnTable" name="EvpnTable">
-<area shape="rect" id="node38" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="2599,65,2710,92"/>
+<area shape="rect" id="node38" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="2599,65,2710,92"/>
 <area shape="rect" id="node2" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="1803,681,1885,708"/>
 <area shape="rect" id="node35" href="$d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="2189,704,2296,731"/>
 <area shape="rect" id="node37" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="2149,591,2336,617"/>

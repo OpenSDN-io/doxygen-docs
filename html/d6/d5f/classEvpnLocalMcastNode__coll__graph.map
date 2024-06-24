@@ -1,5 +1,5 @@
 <map id="EvpnLocalMcastNode" name="EvpnLocalMcastNode">
-<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html" title="EvpnMcastNode" alt="" coords="1270,1371,1396,1397"/>
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo..." alt="" coords="1270,1371,1396,1397"/>
 <area shape="rect" id="node3" href="$d3/def/structDBState.html" title="DBState" alt="" coords="2989,1272,3064,1299"/>
 <area shape="rect" id="node4" href="$d1/d3a/classEvpnRoute.html" title="EvpnRoute" alt="" coords="1239,1173,1329,1200"/>
 <area shape="rect" id="node5" href="$d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="2126,1083,2209,1109"/>
@@ -25,8 +25,8 @@
 <area shape="rect" id="node16" href="$d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="5,295,152,321"/>
 <area shape="rect" id="node35" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1614,528,1767,555"/>
 <area shape="rect" id="node19" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="498,295,643,321"/>
-<area shape="rect" id="node20" href="$d9/dd0/classEvpnManagerPartition.html" title="EvpnManagerPartition" alt="" coords="1354,1272,1517,1299"/>
-<area shape="rect" id="node21" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="1609,1173,1719,1200"/>
+<area shape="rect" id="node20" href="$d9/dd0/classEvpnManagerPartition.html" title="This class represents a partition in the EvpnManager. " alt="" coords="1354,1272,1517,1299"/>
+<area shape="rect" id="node21" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="1609,1173,1719,1200"/>
 <area shape="rect" id="node22" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="1728,1083,1816,1109"/>
 <area shape="rect" id="node49" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="1542,1272,1756,1299"/>
 <area shape="rect" id="node23" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2170,984,2251,1011"/>

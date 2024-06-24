@@ -25,8 +25,8 @@
 <area shape="rect" id="node15" href="$d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="847,295,993,321"/>
 <area shape="rect" id="node35" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1627,520,1780,547"/>
 <area shape="rect" id="node18" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="105,295,249,321"/>
-<area shape="rect" id="node19" href="$d9/dd0/classEvpnManagerPartition.html" title="EvpnManagerPartition" alt="" coords="1718,1544,1881,1571"/>
-<area shape="rect" id="node20" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="2767,1445,2877,1472"/>
+<area shape="rect" id="node19" href="$d9/dd0/classEvpnManagerPartition.html" title="This class represents a partition in the EvpnManager. " alt="" coords="1718,1544,1881,1571"/>
+<area shape="rect" id="node20" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="2767,1445,2877,1472"/>
 <area shape="rect" id="node21" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="2821,1355,2909,1381"/>
 <area shape="rect" id="node49" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="2811,1544,3025,1571"/>
 <area shape="rect" id="node22" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2545,1264,2625,1291"/>

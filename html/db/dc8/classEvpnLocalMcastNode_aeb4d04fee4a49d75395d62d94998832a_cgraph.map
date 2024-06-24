@@ -4,22 +4,22 @@
 <area shape="rect" id="node4" href="$d0/db1/classEvpnPrefix.html#a52f526e690e967057d6d7a1f4ae312d6" title="EvpnPrefix::route_distinguisher" alt="" coords="276,107,500,133"/>
 <area shape="rect" id="node5" href="$dc/d73/classRouteDistinguisher.html#a32d6d2b523136daf1aef8f005aa6b00d" title="RouteDistinguisher\l::GetVrfId" alt="" coords="315,223,461,265"/>
 <area shape="rect" id="node8" href="$d0/db1/classEvpnPrefix.html#ab1b0d68b036a3d45fbb88faea0cb0c55" title="EvpnPrefix::tag" alt="" coords="328,289,448,316"/>
-<area shape="rect" id="node9" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="EvpnManagerPartition\l::GetTablePartition" alt="" coords="306,341,470,382"/>
+<area shape="rect" id="node9" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="Get the DBTablePartition for the EvpnTable for our partition id. " alt="" coords="306,341,470,382"/>
 <area shape="rect" id="node11" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title="EvpnMcastNode::route" alt="" coords="304,407,472,433"/>
 <area shape="rect" id="node12" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="307,457,469,484"/>
 <area shape="rect" id="node14" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="307,559,469,585"/>
 <area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="292,1455,484,1481"/>
-<area shape="rect" id="node20" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="EvpnManagerPartition\l::server" alt="" coords="306,1389,470,1430"/>
+<area shape="rect" id="node20" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="Return the BgpServer for the EvpnManagerPartition. " alt="" coords="306,1389,470,1430"/>
 <area shape="rect" id="node23" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title="BgpServer::extcomm_db" alt="" coords="881,763,1063,789"/>
 <area shape="rect" id="node24" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="901,841,1043,868"/>
 <area shape="rect" id="node25" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title="BgpAttrDB::ReplaceExtCommunity\lAndLocate" alt="" coords="265,1323,511,1365"/>
 <area shape="rect" id="node28" href="$dc/d73/classRouteDistinguisher.html#a65e5d7c8ba5ec6961f615812b64107de" title="RouteDistinguisher\l::GetAddress" alt="" coords="315,158,461,199"/>
 <area shape="rect" id="node29" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title="BgpRoute::InsertPath" alt="" coords="309,1272,467,1299"/>
 <area shape="rect" id="node16" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="595,388,775,415"/>
-<area shape="rect" id="node50" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="EvpnManagerPartition\l::table" alt="" coords="306,1506,470,1547"/>
+<area shape="rect" id="node50" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="Return the EvpnTable for the EvpnManagerPartition. " alt="" coords="306,1506,470,1547"/>
 <area shape="rect" id="node6" href="$dc/d73/classRouteDistinguisher.html#a5e725b404f680d503d960bf8b998be1d" title="RouteDistinguisher\l::Type" alt="" coords="613,166,758,207"/>
 <area shape="rect" id="node7" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title="get_value" alt="" coords="929,173,1015,200"/>
-<area shape="rect" id="node10" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="EvpnManager::GetTablePartition" alt="" coords="571,287,800,313"/>
+<area shape="rect" id="node10" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="Get the DBTablePartition for the EvpnTable for given partition id. " alt="" coords="571,287,800,313"/>
 <area shape="rect" id="node13" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="579,337,792,364"/>
 <area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="598,490,773,531"/>
 <area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1358,816,1541,843"/>

@@ -1,12 +1,12 @@
 <map id="EvpnManager::AutoDiscoveryRouteListener" name="EvpnManager::AutoDiscoveryRouteListener">
 <area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="291,64,463,91"/>
 <area shape="rect" id="node5" href="$d1/d3a/classEvpnRoute.html#a2db39b5de0842fa2703413165cc130d3" title="EvpnRoute::IsValid" alt="" coords="306,433,449,460"/>
-<area shape="rect" id="node19" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="EvpnManager::LocateSegment" alt="" coords="268,484,487,511"/>
+<area shape="rect" id="node19" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="Find or create the EvpnSegment for the given EthernetSegmentId. " alt="" coords="268,484,487,511"/>
 <area shape="rect" id="node22" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="298,535,457,561"/>
 <area shape="rect" id="node23" href="$d0/db1/classEvpnPrefix.html#ac503131a95fcc108585f63ce760ac26e" title="EvpnPrefix::esi" alt="" coords="318,585,437,612"/>
 <area shape="rect" id="node24" href="$dd/d17/classEvpnSegment.html#a2bd9f9f9e3dd8bae9dcd2bea00bd1d51" title="EvpnSegment::set_esi\l_ad_route" alt="" coords="294,637,461,678"/>
 <area shape="rect" id="node26" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="292,123,463,149"/>
-<area shape="rect" id="node28" href="$d4/d15/classEvpnManager.html#ab90639a78acdcc2e70c979fe3f8f7f89" title="EvpnManager::TriggerSegment\lUpdate" alt="" coords="267,702,487,743"/>
+<area shape="rect" id="node28" href="$d4/d15/classEvpnManager.html#ab90639a78acdcc2e70c979fe3f8f7f89" title="Trigger update of the given EvpnSegment. The EvpnSegment is added to a set of EvpnSegments for which ..." alt="" coords="267,702,487,743"/>
 <area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="536,5,763,32"/>
 <area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="555,57,744,98"/>
 <area shape="rect" id="node6" href="$d6/dbd/classBgpRoute.html#a74a20cdf5b5f4327ce2c919c1dc254b2" title="BgpRoute::IsValid" alt="" coords="582,357,717,384"/>

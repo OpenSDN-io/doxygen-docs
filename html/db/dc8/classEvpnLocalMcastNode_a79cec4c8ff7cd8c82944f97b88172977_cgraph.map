@@ -1,5 +1,5 @@
 <map id="EvpnLocalMcastNode::GetUpdateInfo" name="EvpnLocalMcastNode::GetUpdateInfo">
-<area shape="rect" id="node2" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="EvpnManagerPartition\l::table" alt="" coords="247,5,411,46"/>
+<area shape="rect" id="node2" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="Return the EvpnTable for the EvpnManagerPartition. " alt="" coords="247,5,411,46"/>
 <area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="231,71,428,97"/>
 <area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#aa1f8995440d2db6fd834f8f6fc412a1a" title="RoutingInstance::virtual\l_network_pbb_evpn_enable" alt="" coords="228,122,431,163"/>
 <area shape="rect" id="node6" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="250,188,409,215"/>
@@ -17,7 +17,7 @@
 <area shape="rect" id="node18" href="$da/d36/classExtCommunity.html#a76aa4ad4dfccdc28c6dc03c41ae169ea" title="ExtCommunity::GetTunnelEncap" alt="" coords="214,843,445,869"/>
 <area shape="rect" id="node26" href="$d9/dd0/classEvpnManagerPartition.html#acb46ef9fca1b305f0c5a9a7d6ee7f02a" title="EvpnManagerPartition\l::leaf_node_list" alt="" coords="247,894,411,935"/>
 <area shape="rect" id="node27" href="$dd/de9/classEvpnMcastNode.html#afaaf16e260bc5599d7ea8b5d0e97b34c" title="EvpnMcastNode::replicator\l_address" alt="" coords="231,959,427,1001"/>
-<area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="EvpnManagerPartition\l::server" alt="" coords="247,1025,411,1066"/>
+<area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="Return the BgpServer for the EvpnManagerPartition. " alt="" coords="247,1025,411,1066"/>
 <area shape="rect" id="node32" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="258,1091,401,1117"/>
 <area shape="rect" id="node33" href="$d7/d34/classBgpAttrDB.html#a48bab4b09808345c52fefb7f517b4a68" title="BgpAttrDB::ReplaceOListAnd\lLocate" alt="" coords="226,1207,433,1249"/>
 <area shape="rect" id="node38" href="$d7/d34/classBgpAttrDB.html#a5cb92dcbcaa838883a9e658f77c053a4" title="BgpAttrDB::ReplaceLeafOList\lAndLocate" alt="" coords="224,1142,435,1183"/>

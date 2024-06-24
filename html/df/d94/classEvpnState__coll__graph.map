@@ -1,5 +1,5 @@
 <map id="EvpnState" name="EvpnState">
-<area shape="rect" id="node2" href="$d1/d44/structEvpnState_1_1SG.html" title="EvpnState::SG" alt="" coords="1193,353,1308,380"/>
+<area shape="rect" id="node2" href="$d1/d44/structEvpnState_1_1SG.html" title="Simple structure to hold &lt;S,G&gt;. Source as &quot;0.0.0.0&quot; can be used to encode &lt;*,G&gt; as well..." alt="" coords="1193,353,1308,380"/>
 <area shape="rect" id="node33" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="943,497,1097,524"/>
 <area shape="rect" id="node4" href="$df/def/classErmVpnRoute.html" title="ErmVpnRoute" alt="" coords="3202,115,3313,141"/>
 <area shape="rect" id="node5" href="$d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="2803,117,2887,144"/>
@@ -23,7 +23,7 @@
 <area shape="rect" id="node14" href="$d6/d1d/classErmVpnPrefix.html" title="ErmVpnPrefix" alt="" coords="743,7,854,33"/>
 <area shape="rect" id="node15" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="195,51,341,77"/>
 <area shape="rect" id="node30" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="205,375,331,401"/>
-<area shape="rect" id="node17" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="3202,383,3313,409"/>
+<area shape="rect" id="node17" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="3202,383,3313,409"/>
 <area shape="rect" id="node18" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="2801,383,2889,409"/>
 <area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="3587,428,3802,455"/>
 <area shape="rect" id="node19" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2406,472,2487,499"/>

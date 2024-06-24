@@ -5,9 +5,9 @@
 <area shape="rect" id="node4" href="$d3/dc9/classArpInterfaceState.html" title="ArpInterfaceState" alt="" coords="295,1803,431,1829"/>
 <area shape="rect" id="node5" href="$d7/dd5/structArpVrfState.html" title="ArpVrfState" alt="" coords="314,1853,411,1880"/>
 <area shape="rect" id="node6" href="$dc/df7/classCfgDBState.html" title="CfgDBState" alt="" coords="314,1904,411,1931"/>
-<area shape="rect" id="node7" href="$de/db9/classEvpnMacState.html" title="EvpnMacState" alt="" coords="305,1955,420,1981"/>
-<area shape="rect" id="node8" href="$dd/de9/classEvpnMcastNode.html" title="EvpnMcastNode" alt="" coords="299,2005,426,2032"/>
-<area shape="rect" id="node11" href="$dd/d17/classEvpnSegment.html" title="EvpnSegment" alt="" coords="307,2056,419,2083"/>
+<area shape="rect" id="node7" href="$de/db9/classEvpnMacState.html" title="This class represents the EvpnManager state associated with a MAC route. " alt="" coords="305,1955,420,1981"/>
+<area shape="rect" id="node8" href="$dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo..." alt="" coords="299,2005,426,2032"/>
+<area shape="rect" id="node11" href="$dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi&#45;homed to it..." alt="" coords="307,2056,419,2083"/>
 <area shape="rect" id="node12" href="$da/d8d/structFlowMgmtDbClient_1_1FlowMgmtState.html" title="FlowMgmtDbClient::FlowMgmt\lState" alt="" coords="253,2107,473,2149"/>
 <area shape="rect" id="node19" href="$d0/d5b/structHBFIntfDBState.html" title="HBFIntfDBState" alt="" coords="301,2173,424,2200"/>
 <area shape="rect" id="node20" href="$da/d18/classIcmpv6RouteState.html" title="Icmpv6RouteState" alt="" coords="292,2224,433,2251"/>
@@ -69,8 +69,8 @@
 <area shape="rect" id="node111" href="$d5/d70/structVxlanRoutingState.html" title="This state tracks inet and evpn table listeners. The state establishes link between Inet tables of a ..." alt="" coords="291,2609,434,2636"/>
 <area shape="rect" id="node112" href="$d6/d3b/structVxlanRoutingVmiState.html" title="Tracks movement of a VmInterface amongth LRs. This is used to associate VmInterface with a LR and a V..." alt="" coords="279,2660,447,2687"/>
 <area shape="rect" id="node113" href="$d0/dbd/structVxlanRoutingVnState.html" title="This state tracks all virtual machine interfaces (VmInterface) attached to a Logical Router (LR)..." alt="" coords="283,2711,442,2737"/>
-<area shape="rect" id="node9" href="$db/dc8/classEvpnLocalMcastNode.html" title="EvpnLocalMcastNode" alt="" coords="571,1928,731,1955"/>
-<area shape="rect" id="node10" href="$d0/d1b/classEvpnRemoteMcastNode.html" title="EvpnRemoteMcastNode" alt="" coords="563,1877,739,1904"/>
+<area shape="rect" id="node9" href="$db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont..." alt="" coords="571,1928,731,1955"/>
+<area shape="rect" id="node10" href="$d0/d1b/classEvpnRemoteMcastNode.html" title="This class represents (in the context of an EVPN instance) a remote vRouter or PE discovered via BGP..." alt="" coords="563,1877,739,1904"/>
 <area shape="rect" id="node13" href="$d9/d71/structFlowMgmtDbClient_1_1AclFlowHandlerState.html" title="FlowMgmtDbClient::AclFlow\lHandlerState" alt="" coords="549,2175,752,2217"/>
 <area shape="rect" id="node14" href="$d0/d5c/structFlowMgmtDbClient_1_1NhFlowHandlerState.html" title="FlowMgmtDbClient::NhFlow\lHandlerState" alt="" coords="550,2241,751,2282"/>
 <area shape="rect" id="node15" href="$d3/d4f/structFlowMgmtDbClient_1_1RouteFlowHandlerState.html" title="FlowMgmtDbClient::RouteFlow\lHandlerState" alt="" coords="541,2306,761,2347"/>

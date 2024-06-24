@@ -1,49 +1,49 @@
 <map id="EvpnManager::Initialize" name="EvpnManager::Initialize">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a3035df43fc45826365a4125b8260b470" title="EvpnManager::AllocPartitions" alt="" coords="229,588,440,615"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a3035df43fc45826365a4125b8260b470" title="Allocate the EvpnManagerPartitions. " alt="" coords="229,588,440,615"/>
 <area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="251,1237,419,1264"/>
-<area shape="rect" id="node7" href="$d4/d15/classEvpnManager.html#a0474ea87a2859bef853e6d3de91e9c53" title="EvpnManager::RouteListener" alt="" coords="231,1288,438,1315"/>
+<area shape="rect" id="node7" href="$d4/d15/classEvpnManager.html#a0474ea87a2859bef853e6d3de91e9c53" title="DBListener callback handler for the EvpnTable. " alt="" coords="231,1288,438,1315"/>
 <area shape="rect" id="node40" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="236,1339,433,1365"/>
 <area shape="rect" id="node41" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="239,1389,430,1416"/>
-<area shape="rect" id="node42" href="$d4/d15/classEvpnManager.html#a03a628df692317d4be3d9328dac52266" title="EvpnManager::ErmVpnRoute\lListener" alt="" coords="505,1910,711,1951"/>
+<area shape="rect" id="node42" href="$d4/d15/classEvpnManager.html#a03a628df692317d4be3d9328dac52266" title="ErmVpnTable route listener callback function. " alt="" coords="505,1910,711,1951"/>
 <area shape="rect" id="node3" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="537,64,679,91"/>
 <area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="798,5,999,32"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="783,57,1014,98"/>
-<area shape="rect" id="node8" href="$d4/d15/classEvpnManager.html#a6a167006cd2c7cad23706533497b3dfa" title="EvpnManager::GetPartition" alt="" coords="801,1765,996,1792"/>
+<area shape="rect" id="node8" href="$d4/d15/classEvpnManager.html#a6a167006cd2c7cad23706533497b3dfa" title="Get the EvpnManagerPartition for the given partition id. " alt="" coords="801,1765,996,1792"/>
 <area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="811,1816,987,1843"/>
-<area shape="rect" id="node10" href="$d4/d15/classEvpnManager.html#a9d7782395a5a4ecc429c9dc08ae9f1f1" title="EvpnManager::AutoDiscovery\lRouteListener" alt="" coords="501,1357,715,1398"/>
-<area shape="rect" id="node23" href="$d4/d15/classEvpnManager.html#a93bb25d4dfc3341aa016837b0886a4a3" title="EvpnManager::InclusiveMulticast\lRouteListener" alt="" coords="491,1030,725,1071"/>
-<area shape="rect" id="node29" href="$d4/d15/classEvpnManager.html#a6f786afcf4a988bc2229024206d28568" title="EvpnManager::MacAdvertisement\lRouteListener" alt="" coords="488,499,728,541"/>
-<area shape="rect" id="node37" href="$d4/d15/classEvpnManager.html#aa9b8f5186cabcb0f1bbe799283778cb4" title="EvpnManager::SelectiveMulticast\lRouteListener" alt="" coords="489,1205,727,1246"/>
+<area shape="rect" id="node10" href="$d4/d15/classEvpnManager.html#a9d7782395a5a4ecc429c9dc08ae9f1f1" title="DBListener callback handler for AutoDisocvery routes in the EvpnTable. " alt="" coords="501,1357,715,1398"/>
+<area shape="rect" id="node23" href="$d4/d15/classEvpnManager.html#a93bb25d4dfc3341aa016837b0886a4a3" title="DBListener callback handler for InclusiveMulticast routes in the EvpnTable. " alt="" coords="491,1030,725,1071"/>
+<area shape="rect" id="node29" href="$d4/d15/classEvpnManager.html#a6f786afcf4a988bc2229024206d28568" title="DBListener callback handler for MacAdvertisement routes in the EvpnTable. " alt="" coords="488,499,728,541"/>
+<area shape="rect" id="node37" href="$d4/d15/classEvpnManager.html#aa9b8f5186cabcb0f1bbe799283778cb4" title="DBListener callback handler for SelectiveMulticast routes in the EvpnTable. " alt="" coords="489,1205,727,1246"/>
 <area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="813,1364,985,1391"/>
 <area shape="rect" id="node12" href="$d1/d3a/classEvpnRoute.html#a2db39b5de0842fa2703413165cc130d3" title="EvpnRoute::IsValid" alt="" coords="827,811,970,837"/>
-<area shape="rect" id="node16" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="EvpnManager::LocateSegment" alt="" coords="789,608,1008,635"/>
+<area shape="rect" id="node16" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="Find or create the EvpnSegment for the given EthernetSegmentId. " alt="" coords="789,608,1008,635"/>
 <area shape="rect" id="node18" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="1079,1103,1238,1129"/>
 <area shape="rect" id="node19" href="$d0/db1/classEvpnPrefix.html#ac503131a95fcc108585f63ce760ac26e" title="EvpnPrefix::esi" alt="" coords="839,1465,958,1492"/>
 <area shape="rect" id="node20" href="$dd/d17/classEvpnSegment.html#a2bd9f9f9e3dd8bae9dcd2bea00bd1d51" title="EvpnSegment::set_esi\l_ad_route" alt="" coords="815,1517,982,1558"/>
 <area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="813,1263,984,1289"/>
-<area shape="rect" id="node22" href="$d4/d15/classEvpnManager.html#ab90639a78acdcc2e70c979fe3f8f7f89" title="EvpnManager::TriggerSegment\lUpdate" alt="" coords="789,1699,1009,1741"/>
+<area shape="rect" id="node22" href="$d4/d15/classEvpnManager.html#ab90639a78acdcc2e70c979fe3f8f7f89" title="Trigger update of the given EvpnSegment. The EvpnSegment is added to a set of EvpnSegments for which ..." alt="" coords="789,1699,1009,1741"/>
 <area shape="rect" id="node13" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="1084,811,1233,837"/>
 <area shape="rect" id="node14" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="1093,684,1224,711"/>
 <area shape="rect" id="node15" href="$d0/db1/classEvpnPrefix.html#aca4c3968dbc0bc7e64c51218a3d129dd" title="EvpnPrefix::type" alt="" coords="1095,861,1223,888"/>
 <area shape="rect" id="node17" href="$d2/d98/classEthernetSegmentId.html#aec62dbf6e046f1fa2d1baa6277f0cd7c" title="EthernetSegmentId::\lIsZero" alt="" coords="1081,499,1236,541"/>
-<area shape="rect" id="node24" href="$d9/dd0/classEvpnManagerPartition.html#a728efd4bc2a3cde5ebcb60f8327f0fbf" title="EvpnManagerPartition\l::AddMcastNode" alt="" coords="817,1030,981,1071"/>
+<area shape="rect" id="node24" href="$d9/dd0/classEvpnManagerPartition.html#a728efd4bc2a3cde5ebcb60f8327f0fbf" title="Add an EvpnMcastNode to the EvpnManagerPartition. " alt="" coords="817,1030,981,1071"/>
 <area shape="rect" id="node25" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="807,1583,990,1609"/>
-<area shape="rect" id="node26" href="$d9/dd0/classEvpnManagerPartition.html#ad56cd7aa38a10f548c7038c4b9a3bc2f" title="EvpnManagerPartition\l::DeleteMcastNode" alt="" coords="817,1095,981,1137"/>
-<area shape="rect" id="node27" href="$dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="EvpnMcastNode::UpdateAttributes" alt="" coords="776,659,1021,685"/>
-<area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#a65b50665fe583c22dcb47981764a7010" title="EvpnManagerPartition\l::UpdateMcastNode" alt="" coords="817,913,981,954"/>
+<area shape="rect" id="node26" href="$d9/dd0/classEvpnManagerPartition.html#ad56cd7aa38a10f548c7038c4b9a3bc2f" title="Delete an EvpnMcastNode from the EvpnManagerPartition. " alt="" coords="817,1095,981,1137"/>
+<area shape="rect" id="node27" href="$dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="Update the label and attributes for a EvpnMcastNode. Return true if either of them changed..." alt="" coords="776,659,1021,685"/>
+<area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#a65b50665fe583c22dcb47981764a7010" title="Update an EvpnMcastNode in the EvpnManagerPartition. Need to remove/add EvpnMcastNode from the replic..." alt="" coords="817,913,981,954"/>
 <area shape="rect" id="node30" href="$d5/dcf/classBgpAttr.html#a08142fed9251b99d844766b206147cd6" title="BgpAttr::esi" alt="" coords="849,456,948,483"/>
 <area shape="rect" id="node31" href="$de/db9/classEvpnMacState.html#a60ec4a143d29e8eddb4d86b6877c405a" title="EvpnMacState::set_segment" alt="" coords="795,355,1002,381"/>
-<area shape="rect" id="node33" href="$dd/d17/classEvpnSegment.html#a26c43f7e7898d958de01f4350fa028c7" title="EvpnSegment::AddMacRoute" alt="" coords="795,507,1003,533"/>
+<area shape="rect" id="node33" href="$dd/d17/classEvpnSegment.html#a26c43f7e7898d958de01f4350fa028c7" title="Add the given MAC route as a dependent of this EvpnSegment. " alt="" coords="795,507,1003,533"/>
 <area shape="rect" id="node34" href="$d9/dd0/classEvpnManagerPartition.html#a9aa1134ea3bd3b32ebcfeef170339438" title="EvpnManagerPartition\l::part_id" alt="" coords="817,122,981,163"/>
-<area shape="rect" id="node35" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="EvpnManagerPartition\l::TriggerMacRouteUpdate" alt="" coords="807,187,991,229"/>
+<area shape="rect" id="node35" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="Add the given MAC route to the update list. This method gets called either when the MAC route itself ..." alt="" coords="807,187,991,229"/>
 <area shape="rect" id="node32" href="$de/db9/classEvpnMacState.html#affc24180ee61ab2049ee62c37fa561f4" title="EvpnMacState::segment" alt="" coords="1069,304,1248,331"/>
-<area shape="rect" id="node36" href="$dd/d17/classEvpnSegment.html#a1a8f2c5e361526f57c1e4a180525980b" title="EvpnSegment::DeleteMacRoute" alt="" coords="785,304,1012,331"/>
+<area shape="rect" id="node36" href="$dd/d17/classEvpnSegment.html#a1a8f2c5e361526f57c1e4a180525980b" title="Delete the given MAC route as a dependent of this EvpnSegment. Trigger deletion of the EvpnSegment if..." alt="" coords="785,304,1012,331"/>
 <area shape="rect" id="node38" href="$d4/d15/classEvpnManager.html#a6b13cac920d87e35d0eb918a67566b80" title="EvpnManager::ermvpn\l_table" alt="" coords="1075,2062,1243,2103"/>
 <area shape="rect" id="node39" href="$d9/dd0/classEvpnManagerPartition.html#af4087ca2a5d751af037fa61a4343ad62" title="EvpnManagerPartition\l::LocateState" alt="" coords="817,1634,981,1675"/>
 <area shape="rect" id="node43" href="$df/def/classErmVpnRoute.html#a71b9f4d56c04406de611ea42ff39e235" title="ErmVpnRoute::GetPrefix" alt="" coords="1069,2240,1248,2267"/>
 <area shape="rect" id="node44" href="$d6/d1d/classErmVpnPrefix.html#ada86c8dd25620d11912dd92582fb0091" title="ErmVpnPrefix::type" alt="" coords="825,2120,972,2147"/>
 <area shape="rect" id="node45" href="$d4/d15/classEvpnManager.html#aa5f298b3bfa303fa824ac38b32f5a3d5" title="EvpnManager::ermvpn\l_listener_id" alt="" coords="815,2237,983,2278"/>
-<area shape="rect" id="node46" href="$d4/d15/classEvpnManager.html#acd8db9093c69498cc916d0822d70710b" title="EvpnManager::IsUsableGlobal\lTreeRootRoute" alt="" coords="791,2171,1007,2213"/>
+<area shape="rect" id="node46" href="$d4/d15/classEvpnManager.html#acd8db9093c69498cc916d0822d70710b" title="Check whether an ErmVpnRoute is locally originated GlobalTreeRoute. " alt="" coords="791,2171,1007,2213"/>
 <area shape="rect" id="node47" href="$dd/de9/classEvpnMcastNode.html#a2d3bdf897a1aaac31c7486124469ee5c" title="EvpnMcastNode::state" alt="" coords="815,2353,982,2380"/>
 <area shape="rect" id="node48" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="825,1917,972,1944"/>
 <area shape="rect" id="node49" href="$d7/d0c/classBgpPath.html#af5f249f4aaa9dfc175010ef58836d915" title="BgpPath::SetCheckErmVpn" alt="" coords="801,1968,996,1995"/>

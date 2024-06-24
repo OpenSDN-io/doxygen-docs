@@ -1,5 +1,5 @@
 <map id="EvpnManagerPartition::EvpnManagerPartition" name="EvpnManagerPartition::EvpnManagerPartition">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="EvpnManager::GetTablePartition" alt="" coords="227,67,456,93"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="Get the DBTablePartition for the EvpnTable for given partition id. " alt="" coords="227,67,456,93"/>
 <area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="504,67,699,93"/>
 <area shape="rect" id="node4" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="747,41,869,68"/>
 <area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="750,92,866,119"/>

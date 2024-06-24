@@ -1,6 +1,6 @@
 <map id="EvpnMacState" name="EvpnMacState">
 <area shape="rect" id="node2" href="$d3/def/structDBState.html" title="DBState" alt="" coords="275,1173,349,1200"/>
-<area shape="rect" id="node19" href="$dd/d17/classEvpnSegment.html" title="EvpnSegment" alt="" coords="801,1272,913,1299"/>
+<area shape="rect" id="node19" href="$dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi&#45;homed to it..." alt="" coords="801,1272,913,1299"/>
 <area shape="rect" id="node3" href="$d1/d3a/classEvpnRoute.html" title="EvpnRoute" alt="" coords="927,1173,1017,1200"/>
 <area shape="rect" id="node4" href="$d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="1713,1083,1796,1109"/>
 <area shape="rect" id="node5" href="$de/df8/classRoute.html" title="Route" alt="" coords="2089,992,2148,1019"/>
@@ -25,7 +25,7 @@
 <area shape="rect" id="node15" href="$d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="5,295,152,321"/>
 <area shape="rect" id="node35" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1459,528,1612,555"/>
 <area shape="rect" id="node18" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="259,295,404,321"/>
-<area shape="rect" id="node20" href="$d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="2977,1173,3087,1200"/>
+<area shape="rect" id="node20" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="2977,1173,3087,1200"/>
 <area shape="rect" id="node21" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="2988,1083,3076,1109"/>
 <area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="3023,1272,3237,1299"/>
 <area shape="rect" id="node22" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2271,992,2352,1019"/>

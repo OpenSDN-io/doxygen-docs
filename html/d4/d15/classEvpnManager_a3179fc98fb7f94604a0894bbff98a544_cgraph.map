@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$db/dc8/classEvpnLocalMcastNode.html#a79cec4c8ff7cd8c82944f97b88172977" title="EvpnLocalMcastNode\l::GetUpdateInfo" alt="" coords="273,727,433,769"/>
 <area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="491,5,717,32"/>
 <area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="509,57,699,98"/>
-<area shape="rect" id="node6" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="EvpnManagerPartition\l::table" alt="" coords="522,501,686,542"/>
+<area shape="rect" id="node6" href="$d9/dd0/classEvpnManagerPartition.html#a498f8492774132778b4fd3e5a5dc7ae2" title="Return the EvpnTable for the EvpnManagerPartition. " alt="" coords="522,501,686,542"/>
 <area shape="rect" id="node8" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="505,567,703,593"/>
 <area shape="rect" id="node9" href="$de/ddf/classRoutingInstance.html#aa1f8995440d2db6fd834f8f6fc412a1a" title="RoutingInstance::virtual\l_network_pbb_evpn_enable" alt="" coords="503,618,705,659"/>
 <area shape="rect" id="node10" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="525,684,683,711"/>
@@ -21,7 +21,7 @@
 <area shape="rect" id="node22" href="$da/d36/classExtCommunity.html#a76aa4ad4dfccdc28c6dc03c41ae169ea" title="ExtCommunity::GetTunnelEncap" alt="" coords="489,1339,719,1365"/>
 <area shape="rect" id="node30" href="$d9/dd0/classEvpnManagerPartition.html#acb46ef9fca1b305f0c5a9a7d6ee7f02a" title="EvpnManagerPartition\l::leaf_node_list" alt="" coords="522,122,686,163"/>
 <area shape="rect" id="node31" href="$dd/de9/classEvpnMcastNode.html#afaaf16e260bc5599d7ea8b5d0e97b34c" title="EvpnMcastNode::replicator\l_address" alt="" coords="506,187,702,229"/>
-<area shape="rect" id="node32" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="EvpnManagerPartition\l::server" alt="" coords="522,253,686,294"/>
+<area shape="rect" id="node32" href="$d9/dd0/classEvpnManagerPartition.html#ae13decc09835dca938101a4acf78488a" title="Return the BgpServer for the EvpnManagerPartition. " alt="" coords="522,253,686,294"/>
 <area shape="rect" id="node36" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="533,319,675,345"/>
 <area shape="rect" id="node37" href="$d7/d34/classBgpAttrDB.html#a48bab4b09808345c52fefb7f517b4a68" title="BgpAttrDB::ReplaceOListAnd\lLocate" alt="" coords="501,370,707,411"/>
 <area shape="rect" id="node42" href="$d7/d34/classBgpAttrDB.html#a5cb92dcbcaa838883a9e658f77c053a4" title="BgpAttrDB::ReplaceLeafOList\lAndLocate" alt="" coords="499,435,709,477"/>

@@ -18,7 +18,7 @@
 <area shape="rect" id="node18" href="$da/da4/classEvpnTable.html#a9f3d3a0e93817125f058a0dd69acc0d3" title="EvpnTable::ip_route\l_count" alt="" coords="477,466,627,507"/>
 <area shape="rect" id="node19" href="$da/da4/classEvpnTable.html#a8c878884f4647e5fcb6336d1b1601040" title="EvpnTable::IsVpnTable" alt="" coords="469,633,635,660"/>
 <area shape="rect" id="node23" href="$da/da4/classEvpnTable.html#a180a66443b71e31137f158f49961da6b" title="EvpnTable::GetEvpnManager" alt="" coords="449,583,655,609"/>
-<area shape="rect" id="node24" href="$d4/d15/classEvpnManager.html#ab6c53ce3927e71025d77dbbe5f82180a" title="EvpnManager::FillShowInfo" alt="" coords="454,684,650,711"/>
+<area shape="rect" id="node24" href="$d4/d15/classEvpnManager.html#ab6c53ce3927e71025d77dbbe5f82180a" title="Fill information for introspect command. Note that all IM routes are always in partition 0..." alt="" coords="454,684,650,711"/>
 <area shape="rect" id="node13" href="$d0/d91/time__util_8h.html#a31337b6b9e97c9c772ea8fe38dcf92c8" title="UTCUsecToPTime" alt="" coords="737,867,871,893"/>
 <area shape="rect" id="node20" href="$da/da4/classEvpnTable.html#a41972656c304b1c19b776202925b86a1" title="EvpnTable::IsMaster" alt="" coords="729,501,879,528"/>
 <area shape="rect" id="node21" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="952,472,1149,499"/>

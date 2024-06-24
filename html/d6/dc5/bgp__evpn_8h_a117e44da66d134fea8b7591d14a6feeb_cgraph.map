@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$dc/d10/classEvpnState.html#ae1db42e84f2200b19e34b872cb6b3c43" title="EvpnState::states" alt="" coords="243,5,379,32"/>
 <area shape="rect" id="node3" href="$dc/d10/classEvpnState.html#a88c0870eae3085b8da81bb326228b57b" title="EvpnState::sg" alt="" coords="255,56,366,83"/>
 <area shape="rect" id="node4" href="$dc/d10/classEvpnState.html#a54bedbd66a068bcb5782c02f26ec2b43" title="EvpnState::manager" alt="" coords="233,107,388,133"/>
-<area shape="rect" id="node5" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="EvpnManager::deleter" alt="" coords="229,157,393,184"/>
+<area shape="rect" id="node5" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="Return the LifetimeActor for the EvpnManager. " alt="" coords="229,157,393,184"/>
 <area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="221,208,401,235"/>
 <area shape="rect" id="node7" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="213,259,408,285"/>
 <area shape="rect" id="node8" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="457,259,653,285"/>

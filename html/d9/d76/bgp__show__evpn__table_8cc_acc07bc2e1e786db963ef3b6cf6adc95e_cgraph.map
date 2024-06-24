@@ -10,7 +10,7 @@
 <area shape="rect" id="node12" href="$da/da4/classEvpnTable.html#a9f3d3a0e93817125f058a0dd69acc0d3" title="EvpnTable::ip_route\l_count" alt="" coords="213,470,363,511"/>
 <area shape="rect" id="node13" href="$da/da4/classEvpnTable.html#a8c878884f4647e5fcb6336d1b1601040" title="EvpnTable::IsVpnTable" alt="" coords="205,536,371,563"/>
 <area shape="rect" id="node17" href="$da/da4/classEvpnTable.html#a180a66443b71e31137f158f49961da6b" title="EvpnTable::GetEvpnManager" alt="" coords="185,587,391,613"/>
-<area shape="rect" id="node18" href="$d4/d15/classEvpnManager.html#ab6c53ce3927e71025d77dbbe5f82180a" title="EvpnManager::FillShowInfo" alt="" coords="190,675,386,701"/>
+<area shape="rect" id="node18" href="$d4/d15/classEvpnManager.html#ab6c53ce3927e71025d77dbbe5f82180a" title="Fill information for introspect command. Note that all IM routes are always in partition 0..." alt="" coords="190,675,386,701"/>
 <area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="450,107,630,133"/>
 <area shape="rect" id="node7" href="$d0/d91/time__util_8h.html#a31337b6b9e97c9c772ea8fe38dcf92c8" title="UTCUsecToPTime" alt="" coords="473,157,607,184"/>
 <area shape="rect" id="node14" href="$da/da4/classEvpnTable.html#a41972656c304b1c19b776202925b86a1" title="EvpnTable::IsMaster" alt="" coords="465,517,615,544"/>

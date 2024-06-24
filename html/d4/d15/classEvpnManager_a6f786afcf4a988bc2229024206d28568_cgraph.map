@@ -6,13 +6,13 @@
 <area shape="rect" id="node19" href="$d5/dcf/classBgpAttr.html#a08142fed9251b99d844766b206147cd6" title="BgpAttr::esi" alt="" coords="357,688,456,715"/>
 <area shape="rect" id="node20" href="$d2/d98/classEthernetSegmentId.html#aec62dbf6e046f1fa2d1baa6277f0cd7c" title="EthernetSegmentId::\lIsZero" alt="" coords="604,759,759,801"/>
 <area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="321,123,492,149"/>
-<area shape="rect" id="node24" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="EvpnManager::LocateSegment" alt="" coords="297,789,516,816"/>
+<area shape="rect" id="node24" href="$d4/d15/classEvpnManager.html#a7a38d3b2bad1f75f5042e49ffc75ad0d" title="Find or create the EvpnSegment for the given EthernetSegmentId. " alt="" coords="297,789,516,816"/>
 <area shape="rect" id="node25" href="$de/db9/classEvpnMacState.html#a60ec4a143d29e8eddb4d86b6877c405a" title="EvpnMacState::set_segment" alt="" coords="303,891,510,917"/>
-<area shape="rect" id="node27" href="$dd/d17/classEvpnSegment.html#a26c43f7e7898d958de01f4350fa028c7" title="EvpnSegment::AddMacRoute" alt="" coords="303,941,511,968"/>
+<area shape="rect" id="node27" href="$dd/d17/classEvpnSegment.html#a26c43f7e7898d958de01f4350fa028c7" title="Add the given MAC route as a dependent of this EvpnSegment. " alt="" coords="303,941,511,968"/>
 <area shape="rect" id="node28" href="$d9/dd0/classEvpnManagerPartition.html#a9aa1134ea3bd3b32ebcfeef170339438" title="EvpnManagerPartition\l::part_id" alt="" coords="325,993,489,1034"/>
-<area shape="rect" id="node29" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="EvpnManagerPartition\l::TriggerMacRouteUpdate" alt="" coords="315,1058,499,1099"/>
+<area shape="rect" id="node29" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="Add the given MAC route to the update list. This method gets called either when the MAC route itself ..." alt="" coords="315,1058,499,1099"/>
 <area shape="rect" id="node26" href="$de/db9/classEvpnMacState.html#affc24180ee61ab2049ee62c37fa561f4" title="EvpnMacState::segment" alt="" coords="592,865,771,892"/>
-<area shape="rect" id="node30" href="$dd/d17/classEvpnSegment.html#a1a8f2c5e361526f57c1e4a180525980b" title="EvpnSegment::DeleteMacRoute" alt="" coords="293,1124,520,1151"/>
+<area shape="rect" id="node30" href="$dd/d17/classEvpnSegment.html#a1a8f2c5e361526f57c1e4a180525980b" title="Delete the given MAC route as a dependent of this EvpnSegment. Trigger deletion of the EvpnSegment if..." alt="" coords="293,1124,520,1151"/>
 <area shape="rect" id="node32" href="$de/db9/classEvpnMacState.html#a3c400a735ec67bda1c927733df00d1a6" title="EvpnMacState::clear\l_segment" alt="" coords="329,1175,484,1217"/>
 <area shape="rect" id="node33" href="$dd/d17/classEvpnSegment.html#a6ae68cecc5758e5628867e0cb8041baf" title="EvpnSegment::esi" alt="" coords="337,1241,476,1268"/>
 <area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="568,5,795,32"/>
@@ -30,5 +30,5 @@
 <area shape="rect" id="node11" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="1273,636,1413,663"/>
 <area shape="rect" id="node21" href="$d2/d98/classEthernetSegmentId.html#a41b9bc61d5fb0ee49973d0de490f3cba" title="EthernetSegmentId::\lCompareTo" alt="" coords="843,759,997,801"/>
 <area shape="rect" id="node23" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="578,174,785,215"/>
-<area shape="rect" id="node31" href="$d4/d15/classEvpnManager.html#a664f082d71a2fba9a475c4166691fe8a" title="EvpnManager::TriggerSegment\lDelete" alt="" coords="571,1117,791,1158"/>
+<area shape="rect" id="node31" href="$d4/d15/classEvpnManager.html#a664f082d71a2fba9a475c4166691fe8a" title="Trigger deletion of the given EvpnSegment. The EvpnSegment is added to a set of EvpnSegments that can..." alt="" coords="571,1117,791,1158"/>
 </map>

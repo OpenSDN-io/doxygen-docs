@@ -1,5 +1,5 @@
 <map id="EvpnMcastNode::EvpnMcastNode" name="EvpnMcastNode::EvpnMcastNode">
-<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="EvpnMcastNode::UpdateAttributes" alt="" coords="293,256,539,283"/>
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="Update the label and attributes for a EvpnMcastNode. Return true if either of them changed..." alt="" coords="293,256,539,283"/>
 <area shape="rect" id="node3" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/>
 <area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/>
 <area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/>

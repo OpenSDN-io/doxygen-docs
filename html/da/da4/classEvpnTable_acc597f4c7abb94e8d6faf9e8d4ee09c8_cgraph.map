@@ -5,14 +5,14 @@
 <area shape="rect" id="node43" href="$d0/db1/classEvpnPrefix.html#aca4c3968dbc0bc7e64c51218a3d129dd" title="EvpnPrefix::type" alt="" coords="235,2205,363,2231"/>
 <area shape="rect" id="node44" href="$d0/db1/classEvpnPrefix.html#a482d33eed94acd15eeb4da1c6ce4b2fc" title="EvpnPrefix::mac_addr" alt="" coords="217,2255,380,2282"/>
 <area shape="rect" id="node45" href="$d3/df5/classMacAddress.html#a62cac93a94ebf40f782a7f1705d3d157" title="MacAddress::IsBroadcast" alt="" coords="207,2306,391,2333"/>
-<area shape="rect" id="node46" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="EvpnManager::deleter" alt="" coords="217,2357,381,2383"/>
+<area shape="rect" id="node46" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="Return the LifetimeActor for the EvpnManager. " alt="" coords="217,2357,381,2383"/>
 <area shape="rect" id="node47" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="209,2407,389,2434"/>
 <area shape="rect" id="node4" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="499,101,648,127"/>
 <area shape="rect" id="node13" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="506,50,641,77"/>
 <area shape="rect" id="node48" href="$db/dd4/classRibOut.html#ac23d73d65e85a746b7b58dad209a748b" title="RibOut::IsRegistered" alt="" coords="221,2458,376,2485"/>
 <area shape="rect" id="node49" href="$db/dd4/classRibOut.html#a0cc70102d3334b512e825d280adc9150" title="RibOut::GetPeerIndex" alt="" coords="217,2509,380,2535"/>
 <area shape="rect" id="node25" href="$d6/dd0/classBitSet.html#a8df98e6888d3f594109600d72bb20269" title="BitSet::test" alt="" coords="779,2002,874,2029"/>
-<area shape="rect" id="node50" href="$d4/d15/classEvpnManager.html#a3179fc98fb7f94604a0894bbff98a544" title="EvpnManager::GetUpdateInfo" alt="" coords="192,2559,405,2586"/>
+<area shape="rect" id="node50" href="$d4/d15/classEvpnManager.html#a3179fc98fb7f94604a0894bbff98a544" title="Construct export state for the given EvpnRoute. Note that the route only needs to be exported to the ..." alt="" coords="192,2559,405,2586"/>
 <area shape="rect" id="node34" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="529,2053,618,2079"/>
 <area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a2cddc24414ad3515cc356edd1df074aa" title="BgpPath::IsFeasible" alt="" coords="500,1079,647,1106"/>
 <area shape="rect" id="node7" href="$d0/def/classBgpTable.html#a0e0b10378f2f18132c729f4431293227" title="BgpTable::IsRouteAggregation\lSupported" alt="" coords="465,1131,681,1172"/>

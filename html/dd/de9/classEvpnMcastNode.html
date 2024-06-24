@@ -115,20 +115,23 @@ $(document).ready(function(){initNavTree('dd/de9/classEvpnMcastNode.html','../..
 </div><!--header-->
 <div class="contents">
 
+<p>This is the base class for a multicast node in an EVPN instance. The node could either represent a local vRouter that's connected to a control node via XMPP or a remote vRouter/PE that's discovered via BGP.  
+ <a href="../../dd/de9/classEvpnMcastNode.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for EvpnMcastNode:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d6/df9/classEvpnMcastNode__inherit__graph.png" border="0" usemap="#EvpnMcastNode_inherit__map" alt="Inheritance graph"/></div>
 <map name="EvpnMcastNode_inherit__map" id="EvpnMcastNode_inherit__map">
-<area shape="rect" id="node3" href="../../db/dc8/classEvpnLocalMcastNode.html" title="EvpnLocalMcastNode" alt="" coords="5,155,165,181"/><area shape="rect" id="node4" href="../../d0/d1b/classEvpnRemoteMcastNode.html" title="EvpnRemoteMcastNode" alt="" coords="189,155,365,181"/><area shape="rect" id="node2" href="../../d3/def/structDBState.html" title="DBState" alt="" coords="144,5,219,32"/></map>
+<area shape="rect" id="node3" href="../../db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont..." alt="" coords="5,155,165,181"/><area shape="rect" id="node4" href="../../d0/d1b/classEvpnRemoteMcastNode.html" title="This class represents (in the context of an EVPN instance) a remote vRouter or PE discovered via BGP..." alt="" coords="189,155,365,181"/><area shape="rect" id="node2" href="../../d3/def/structDBState.html" title="DBState" alt="" coords="144,5,219,32"/></map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for EvpnMcastNode:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d8/d5e/classEvpnMcastNode__coll__graph.png" border="0" usemap="#EvpnMcastNode_coll__map" alt="Collaboration graph"/></div>
 <map name="EvpnMcastNode_coll__map" id="EvpnMcastNode_coll__map">
-<area shape="rect" id="node2" href="../../d3/def/structDBState.html" title="DBState" alt="" coords="5,1544,80,1571"/><area shape="rect" id="node3" href="../../d1/d3a/classEvpnRoute.html" title="EvpnRoute" alt="" coords="1061,1173,1152,1200"/><area shape="rect" id="node4" href="../../d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="1503,1083,1587,1109"/><area shape="rect" id="node5" href="../../de/df8/classRoute.html" title="Route" alt="" coords="1516,984,1575,1011"/><area shape="rect" id="node6" href="../../d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="1512,885,1587,912"/><area shape="rect" id="node7" href="../../d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="1503,768,1609,795"/><area shape="rect" id="node8" href="../../d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="2165,619,2296,645"/><area shape="rect" id="node50" href="../../df/d9e/classDBTablePartition.html" title="DBTablePartition" alt="" coords="2281,768,2409,795"/><area shape="rect" id="node9" href="../../d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="2177,520,2284,547"/><area shape="rect" id="node24" href="../../d5/d0a/classDBTable.html" title="DBTable" alt="" coords="2349,619,2424,645"/><area shape="rect" id="node32" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="2175,287,2397,329"/><area shape="rect" id="node36" href="../../de/df9/classTcpServer.html" title="TcpServer" alt="" coords="2056,295,2141,321"/><area shape="rect" id="node37" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="1372,295,1588,321"/><area shape="rect" id="node38" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="1617,295,1831,321"/><area shape="rect" id="node25" href="../../de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="1923,1173,2049,1200"/><area shape="rect" id="node40" href="../../d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="1394,452,1536,479"/><area shape="rect" id="node11" href="../../df/d70/classDB.html" title="DB" alt="" coords="2422,295,2463,321"/><area shape="rect" id="node34" href="../../db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1758,619,1847,645"/><area shape="rect" id="node30" href="../../dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="2717,619,2827,645"/><area shape="rect" id="node26" href="../../d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1979,1083,2129,1109"/><area shape="rect" id="node41" href="../../d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="2407,1355,2513,1381"/><area shape="rect" id="node13" href="../../d0/db1/classEvpnPrefix.html" title="EvpnPrefix" alt="" coords="739,520,829,547"/><area shape="rect" id="node14" href="../../d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="598,295,697,321"/><area shape="rect" id="node15" href="../../d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="847,295,993,321"/><area shape="rect" id="node35" href="../../d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1627,520,1780,547"/><area shape="rect" id="node18" href="../../dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="105,295,249,321"/><area shape="rect" id="node19" href="../../d9/dd0/classEvpnManagerPartition.html" title="EvpnManagerPartition" alt="" coords="1718,1544,1881,1571"/><area shape="rect" id="node20" href="../../d4/d15/classEvpnManager.html" title="EvpnManager" alt="" coords="2767,1445,2877,1472"/><area shape="rect" id="node21" href="../../da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="2821,1355,2909,1381"/><area shape="rect" id="node49" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="2811,1544,3025,1571"/><area shape="rect" id="node22" href="../../d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2545,1264,2625,1291"/><area shape="rect" id="node43" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="2560,1355,2747,1381"/><area shape="rect" id="node44" href="../../d3/db0/classErmVpnTable.html" title="ErmVpnTable" alt="" coords="3128,1355,3235,1381"/><area shape="rect" id="node23" href="../../d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="2427,835,2520,861"/><area shape="rect" id="node39" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="1931,1264,2161,1291"/><area shape="rect" id="node27" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="2092,977,2308,1018"/><area shape="rect" id="node28" href="../../d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="2842,885,2971,912"/><area shape="rect" id="node29" href="../../d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="2733,761,2947,802"/><area shape="rect" id="node42" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="2415,1445,2625,1472"/><area shape="rect" id="node46" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; MvpnProject\lManager \&gt;" alt="" coords="3155,1537,3347,1578"/><area shape="rect" id="node48" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; McastTreeManager \&gt;" alt="" coords="3371,1544,3619,1571"/><area shape="rect" id="node31" href="../../dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="2309,520,2440,547"/><area shape="rect" id="node33" href="../../d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="2668,513,2863,554"/><area shape="rect" id="node45" href="../../d5/dd5/classMvpnProjectManager.html" title="MvpnProjectManager" alt="" coords="3126,1445,3284,1472"/><area shape="rect" id="node47" href="../../d3/dbd/classMcastTreeManager.html" title="McastTreeManager" alt="" coords="3377,1445,3519,1472"/></map>
+<area shape="rect" id="node2" href="../../d3/def/structDBState.html" title="DBState" alt="" coords="5,1544,80,1571"/><area shape="rect" id="node3" href="../../d1/d3a/classEvpnRoute.html" title="EvpnRoute" alt="" coords="1061,1173,1152,1200"/><area shape="rect" id="node4" href="../../d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="1503,1083,1587,1109"/><area shape="rect" id="node5" href="../../de/df8/classRoute.html" title="Route" alt="" coords="1516,984,1575,1011"/><area shape="rect" id="node6" href="../../d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="1512,885,1587,912"/><area shape="rect" id="node7" href="../../d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="1503,768,1609,795"/><area shape="rect" id="node8" href="../../d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="2165,619,2296,645"/><area shape="rect" id="node50" href="../../df/d9e/classDBTablePartition.html" title="DBTablePartition" alt="" coords="2281,768,2409,795"/><area shape="rect" id="node9" href="../../d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="2177,520,2284,547"/><area shape="rect" id="node24" href="../../d5/d0a/classDBTable.html" title="DBTable" alt="" coords="2349,619,2424,645"/><area shape="rect" id="node32" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="2175,287,2397,329"/><area shape="rect" id="node36" href="../../de/df9/classTcpServer.html" title="TcpServer" alt="" coords="2056,295,2141,321"/><area shape="rect" id="node37" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="1372,295,1588,321"/><area shape="rect" id="node38" href="../../d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="1617,295,1831,321"/><area shape="rect" id="node25" href="../../de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="1923,1173,2049,1200"/><area shape="rect" id="node40" href="../../d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="1394,452,1536,479"/><area shape="rect" id="node11" href="../../df/d70/classDB.html" title="DB" alt="" coords="2422,295,2463,321"/><area shape="rect" id="node34" href="../../db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1758,619,1847,645"/><area shape="rect" id="node30" href="../../dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="2717,619,2827,645"/><area shape="rect" id="node26" href="../../d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1979,1083,2129,1109"/><area shape="rect" id="node41" href="../../d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="2407,1355,2513,1381"/><area shape="rect" id="node13" href="../../d0/db1/classEvpnPrefix.html" title="EvpnPrefix" alt="" coords="739,520,829,547"/><area shape="rect" id="node14" href="../../d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="598,295,697,321"/><area shape="rect" id="node15" href="../../d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="847,295,993,321"/><area shape="rect" id="node35" href="../../d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1627,520,1780,547"/><area shape="rect" id="node18" href="../../dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="105,295,249,321"/><area shape="rect" id="node19" href="../../d9/dd0/classEvpnManagerPartition.html" title="This class represents a partition in the EvpnManager. " alt="" coords="1718,1544,1881,1571"/><area shape="rect" id="node20" href="../../d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="2767,1445,2877,1472"/><area shape="rect" id="node21" href="../../da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="2821,1355,2909,1381"/><area shape="rect" id="node49" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="2811,1544,3025,1571"/><area shape="rect" id="node22" href="../../d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2545,1264,2625,1291"/><area shape="rect" id="node43" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="2560,1355,2747,1381"/><area shape="rect" id="node44" href="../../d3/db0/classErmVpnTable.html" title="ErmVpnTable" alt="" coords="3128,1355,3235,1381"/><area shape="rect" id="node23" href="../../d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="2427,835,2520,861"/><area shape="rect" id="node39" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="1931,1264,2161,1291"/><area shape="rect" id="node27" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="2092,977,2308,1018"/><area shape="rect" id="node28" href="../../d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="2842,885,2971,912"/><area shape="rect" id="node29" href="../../d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="2733,761,2947,802"/><area shape="rect" id="node42" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="2415,1445,2625,1472"/><area shape="rect" id="node46" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; MvpnProject\lManager \&gt;" alt="" coords="3155,1537,3347,1578"/><area shape="rect" id="node48" href="../../d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; McastTreeManager \&gt;" alt="" coords="3371,1544,3619,1571"/><area shape="rect" id="node31" href="../../dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="2309,520,2440,547"/><area shape="rect" id="node33" href="../../d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="2668,513,2863,554"/><area shape="rect" id="node45" href="../../d5/dd5/classMvpnProjectManager.html" title="MvpnProjectManager" alt="" coords="3126,1445,3284,1472"/><area shape="rect" id="node47" href="../../d3/dbd/classMcastTreeManager.html" title="McastTreeManager" alt="" coords="3377,1445,3519,1472"/></map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
@@ -141,14 +144,17 @@ Public Types</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a47cd5ad9b311d5b6754b6ab3c689b512"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#a47cd5ad9b311d5b6754b6ab3c689b512">EvpnMcastNode</a> (<a class="el" href="../../d9/dd0/classEvpnManagerPartition.html">EvpnManagerPartition</a> *partition, <a class="el" href="../../d1/d3a/classEvpnRoute.html">EvpnRoute</a> *<a class="el" href="../../dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425">route</a>, uint8_t <a class="el" href="../../dd/de9/classEvpnMcastNode.html#ab4dcfb228b588e137c8ea47e8f9a82ea">type</a>)</td></tr>
+<tr class="memdesc:a47cd5ad9b311d5b6754b6ab3c689b512"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor for <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>. The type indicates whether this is a local or remote <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>.  <a href="#a47cd5ad9b311d5b6754b6ab3c689b512">More...</a><br/></td></tr>
 <tr class="separator:a47cd5ad9b311d5b6754b6ab3c689b512"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a91789f0d681e16856aa9696367b0e6c7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#a91789f0d681e16856aa9696367b0e6c7">EvpnMcastNode</a> (<a class="el" href="../../d9/dd0/classEvpnManagerPartition.html">EvpnManagerPartition</a> *partition, <a class="el" href="../../d1/d3a/classEvpnRoute.html">EvpnRoute</a> *<a class="el" href="../../dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425">route</a>, uint8_t <a class="el" href="../../dd/de9/classEvpnMcastNode.html#ab4dcfb228b588e137c8ea47e8f9a82ea">type</a>, <a class="el" href="../../d6/dc5/bgp__evpn_8h.html#acaae23e6eaa078b90d5f935d1ab9a401">EvpnStatePtr</a> <a class="el" href="../../dd/de9/classEvpnMcastNode.html#a2d3bdf897a1aaac31c7486124469ee5c">state</a>)</td></tr>
 <tr class="separator:a91789f0d681e16856aa9696367b0e6c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a58a0c95b8a8cc38f65adacd265938ee9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#a58a0c95b8a8cc38f65adacd265938ee9">~EvpnMcastNode</a> ()</td></tr>
 <tr class="separator:a58a0c95b8a8cc38f65adacd265938ee9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2ee83c120ae3885fa84305315fd2e5b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b">UpdateAttributes</a> (<a class="el" href="../../d1/d3a/classEvpnRoute.html">EvpnRoute</a> *<a class="el" href="../../dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425">route</a>)</td></tr>
+<tr class="memdesc:ad2ee83c120ae3885fa84305315fd2e5b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update the label and attributes for a <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>. Return true if either of them changed.  <a href="#ad2ee83c120ae3885fa84305315fd2e5b">More...</a><br/></td></tr>
 <tr class="separator:ad2ee83c120ae3885fa84305315fd2e5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d47350d5145f277d1cbe30d0decf455"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#a9d47350d5145f277d1cbe30d0decf455">TriggerUpdate</a> ()=0</td></tr>
+<tr class="memdesc:a9d47350d5145f277d1cbe30d0decf455"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handle update of <a class="el" href="../../db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont...">EvpnLocalMcastNode</a>.  <a href="#a9d47350d5145f277d1cbe30d0decf455">More...</a><br/></td></tr>
 <tr class="separator:a9d47350d5145f277d1cbe30d0decf455"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d3bdf897a1aaac31c7486124469ee5c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dc5/bgp__evpn_8h.html#acaae23e6eaa078b90d5f935d1ab9a401">EvpnStatePtr</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classEvpnMcastNode.html#a2d3bdf897a1aaac31c7486124469ee5c">state</a> ()</td></tr>
 <tr class="separator:a2d3bdf897a1aaac31c7486124469ee5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -207,8 +213,10 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a1105d7369f990b3d3da1aeb1a8a7a3a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock">
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00047">47</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<div class="textblock"><p>This is the base class for a multicast node in an EVPN instance. The node could either represent a local vRouter that's connected to a control node via XMPP or a remote vRouter/PE that's discovered via BGP. </p>
+<p>In normal operation, the EvpnMcastNodes corresponding to vRouters (local or remote) support edge replication, while those corresponding to EVPN PEs do not. However, for test purposes, it's possible to have vRouters that no not support edge replication. </p>
+
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00046">46</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a class="anchor" id="a4417751538697fa23fa5beb48ae5476c"></a>
 <div class="memitem">
@@ -226,7 +234,7 @@ Private Member Functions</h2></td></tr>
 </td></tr>
 </table>
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00049">49</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00048">48</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -261,6 +269,8 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Constructor for <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>. The type indicates whether this is a local or remote <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>. </p>
+
 <p>Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00079">79</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 
 <p><div class="dynheader">
@@ -268,7 +278,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dd/de9/classEvpnMcastNode_a47cd5ad9b311d5b6754b6ab3c689b512_cgraph.png" border="0" usemap="#dd/de9/classEvpnMcastNode_a47cd5ad9b311d5b6754b6ab3c689b512_cgraph" alt=""/></div>
 <map name="dd/de9/classEvpnMcastNode_a47cd5ad9b311d5b6754b6ab3c689b512_cgraph" id="dd/de9/classEvpnMcastNode_a47cd5ad9b311d5b6754b6ab3c689b512_cgraph">
-<area shape="rect" id="node2" href="../../dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="EvpnMcastNode::UpdateAttributes" alt="" coords="293,256,539,283"/><area shape="rect" id="node3" href="../../d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/><area shape="rect" id="node6" href="../../d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/><area shape="rect" id="node7" href="../../d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/><area shape="rect" id="node8" href="../../dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="587,183,786,225"/><area shape="rect" id="node9" href="../../d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="614,249,759,290"/><area shape="rect" id="node10" href="../../d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="605,315,768,341"/><area shape="rect" id="node11" href="../../dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="593,366,781,407"/><area shape="rect" id="node12" href="../../dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="593,431,781,473"/><area shape="rect" id="node13" href="../../d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="621,497,753,524"/><area shape="rect" id="node4" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="835,5,976,32"/><area shape="rect" id="node5" href="../../d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="835,56,975,83"/></map>
+<area shape="rect" id="node2" href="../../dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="Update the label and attributes for a EvpnMcastNode. Return true if either of them changed..." alt="" coords="293,256,539,283"/><area shape="rect" id="node3" href="../../d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/><area shape="rect" id="node6" href="../../d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/><area shape="rect" id="node7" href="../../d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/><area shape="rect" id="node8" href="../../dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="587,183,786,225"/><area shape="rect" id="node9" href="../../d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="614,249,759,290"/><area shape="rect" id="node10" href="../../d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="605,315,768,341"/><area shape="rect" id="node11" href="../../dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="593,366,781,407"/><area shape="rect" id="node12" href="../../dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="593,431,781,473"/><area shape="rect" id="node13" href="../../d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="621,497,753,524"/><area shape="rect" id="node4" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="835,5,976,32"/><area shape="rect" id="node5" href="../../d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="835,56,975,83"/></map>
 </div>
 </p>
 
@@ -317,7 +327,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dd/de9/classEvpnMcastNode_a91789f0d681e16856aa9696367b0e6c7_cgraph.png" border="0" usemap="#dd/de9/classEvpnMcastNode_a91789f0d681e16856aa9696367b0e6c7_cgraph" alt=""/></div>
 <map name="dd/de9/classEvpnMcastNode_a91789f0d681e16856aa9696367b0e6c7_cgraph" id="dd/de9/classEvpnMcastNode_a91789f0d681e16856aa9696367b0e6c7_cgraph">
-<area shape="rect" id="node2" href="../../dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="EvpnMcastNode::UpdateAttributes" alt="" coords="293,256,539,283"/><area shape="rect" id="node3" href="../../d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/><area shape="rect" id="node6" href="../../d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/><area shape="rect" id="node7" href="../../d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/><area shape="rect" id="node8" href="../../dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="587,183,786,225"/><area shape="rect" id="node9" href="../../d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="614,249,759,290"/><area shape="rect" id="node10" href="../../d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="605,315,768,341"/><area shape="rect" id="node11" href="../../dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="593,366,781,407"/><area shape="rect" id="node12" href="../../dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="593,431,781,473"/><area shape="rect" id="node13" href="../../d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="621,497,753,524"/><area shape="rect" id="node4" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="835,5,976,32"/><area shape="rect" id="node5" href="../../d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="835,56,975,83"/></map>
+<area shape="rect" id="node2" href="../../dd/de9/classEvpnMcastNode.html#ad2ee83c120ae3885fa84305315fd2e5b" title="Update the label and attributes for a EvpnMcastNode. Return true if either of them changed..." alt="" coords="293,256,539,283"/><area shape="rect" id="node3" href="../../d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="612,31,761,57"/><area shape="rect" id="node6" href="../../d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="616,81,757,108"/><area shape="rect" id="node7" href="../../d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="621,132,752,159"/><area shape="rect" id="node8" href="../../dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="587,183,786,225"/><area shape="rect" id="node9" href="../../d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="614,249,759,290"/><area shape="rect" id="node10" href="../../d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="605,315,768,341"/><area shape="rect" id="node11" href="../../dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="593,366,781,407"/><area shape="rect" id="node12" href="../../dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="593,431,781,473"/><area shape="rect" id="node13" href="../../d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="621,497,753,524"/><area shape="rect" id="node4" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="835,5,976,32"/><area shape="rect" id="node5" href="../../d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="835,56,975,83"/></map>
 </div>
 </p>
 
@@ -371,7 +381,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00069">69</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00077">77</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -396,7 +406,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00077">77</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00085">85</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -421,7 +431,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00074">74</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00082">82</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -446,7 +456,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00067">67</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00075">75</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -495,7 +505,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00071">71</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00079">79</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -520,7 +530,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00068">68</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00076">76</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -545,7 +555,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00070">70</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00078">78</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -570,7 +580,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00065">65</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00073">73</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -596,7 +606,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00064">64</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00072">72</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -630,7 +640,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00063">63</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00071">71</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -654,6 +664,9 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Handle update of <a class="el" href="../../db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont...">EvpnLocalMcastNode</a>. </p>
+<p>We delete and add the Inclusive Multicast route to ensure that all the attributes are updated. An in-place update is not always possible since the vRouter address is part of the key for the Inclusive Multicast route. </p>
 
 <p>Implemented in <a class="el" href="../../d0/d1b/classEvpnRemoteMcastNode.html#afee3c1d07ffee39d9fb64aed60905340">EvpnRemoteMcastNode</a>, and <a class="el" href="../../db/dc8/classEvpnLocalMcastNode.html#a949fdc5a49400e6208927c84280b76c3">EvpnLocalMcastNode</a>.</p>
 
@@ -680,7 +693,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00066">66</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00074">74</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -697,6 +710,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Update the label and attributes for a <a class="el" href="../../dd/de9/classEvpnMcastNode.html" title="This is the base class for a multicast node in an EVPN instance. The node could either represent a lo...">EvpnMcastNode</a>. Return true if either of them changed. </p>
 
 <p>Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00117">117</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 
@@ -730,7 +745,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00088">88</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00096">96</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -752,7 +767,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00092">92</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00100">100</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -774,7 +789,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00091">91</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00099">99</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -796,7 +811,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00086">86</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00094">94</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -818,7 +833,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00090">90</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00098">98</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -840,7 +855,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00087">87</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00095">95</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -862,7 +877,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00082">82</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00090">90</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -884,7 +899,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00089">89</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00097">97</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -906,7 +921,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00084">84</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00092">92</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -928,7 +943,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00083">83</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00091">91</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -950,7 +965,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00085">85</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00093">93</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>

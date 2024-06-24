@@ -1,8 +1,8 @@
 <map id="EvpnManagerPartition::NotifyReplicatorNodeRoutes" name="EvpnManagerPartition::NotifyReplicatorNodeRoutes">
-<area shape="rect" id="node2" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="EvpnManagerPartition\l::GetTablePartition" alt="" coords="275,82,439,123"/>
+<area shape="rect" id="node2" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="Get the DBTablePartition for the EvpnTable for our partition id. " alt="" coords="275,82,439,123"/>
 <area shape="rect" id="node12" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="267,169,447,196"/>
 <area shape="rect" id="node17" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title="EvpnMcastNode::route" alt="" coords="273,220,441,247"/>
-<area shape="rect" id="node3" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="EvpnManager::GetTablePartition" alt="" coords="496,68,725,95"/>
+<area shape="rect" id="node3" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="Get the DBTablePartition for the EvpnTable for given partition id. " alt="" coords="496,68,725,95"/>
 <area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="773,68,968,95"/>
 <area shape="rect" id="node5" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1016,43,1139,69"/>
 <area shape="rect" id="node11" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1019,93,1135,120"/>
