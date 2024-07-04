@@ -1,5 +1,7 @@
 var NAVTREEINDEX84 =
 {
+"d5/da1/classInterfaceKSyncObject.html#ae8ec64a10d0d19d0ed7beddc8b6f2227":[2,0,949,1],
+"d5/da1/classInterfaceKSyncObject.html#af4f4a485299a1d2d59dbf9f0d481d8c7":[2,0,949,7],
 "d5/da2/classVlanLogicalInterface.html":[2,0,1780],
 "d5/da2/classVlanLogicalInterface.html#a273237f176dcf9656847d70a1d8500e5":[2,0,1780,3],
 "d5/da2/classVlanLogicalInterface.html#a3f70e3e86510501d2f2e760e302a96f4":[2,0,1780,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX84 =
 "d5/da8/structPktInfo.html#a8ec7310b9447f5d17c882310bf4dc65d":[2,0,1323,10],
 "d5/da8/structPktInfo.html#a8ed59fa62263d57ae9c6db08458885f2":[2,0,1323,21],
 "d5/da8/structPktInfo.html#a9281e06ce82d613719895da2c92387fd":[2,0,1323,23],
-"d5/da8/structPktInfo.html#a9835d99a3ecc1c30be658972d74526c9":[2,0,1323,37],
-"d5/da8/structPktInfo.html#a9af3e51b7169506f28e8bda89bcd0bf1":[2,0,1323,40],
-"d5/da8/structPktInfo.html#a9ce84d4ac75e447a71244cb9101fb976":[2,0,1323,33]
+"d5/da8/structPktInfo.html#a9835d99a3ecc1c30be658972d74526c9":[2,0,1323,37]
 };

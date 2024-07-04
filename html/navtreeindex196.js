@@ -1,5 +1,8 @@
 var NAVTREEINDEX196 =
 {
+"dd/d91/structVmInterface_1_1StaticRoute.html#adbb3116ef186d4d9d8d15d488d692f4f":[2,0,1794,21,1],
+"dd/d91/structVmInterface_1_1StaticRoute.html#af4ed6d47f202467b376b01a4b61f55e4":[2,0,1794,21,0],
+"dd/d91/structVmiRouteState.html":[2,0,1810],
 "dd/d91/structVmiRouteState.html#a03a19b6bfa75e8bf0c37be66f0f20b52":[2,0,1810,12],
 "dd/d91/structVmiRouteState.html#a16d27223065df6e479f6a6f2c9a7be38":[2,0,1810,6],
 "dd/d91/structVmiRouteState.html#a23ae6458e5705aa926dfa60275592070":[2,0,1810,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX196 =
 "dd/da3/classForwardingClassTable.html#a0af0fa9466462f67523607952d3a4ae8":[2,0,741,3],
 "dd/da3/classForwardingClassTable.html#a16d9e745441f437040936bee7e4ae73f":[2,0,741,4],
 "dd/da3/classForwardingClassTable.html#a20df30acdfe0eaf05354be70c113e0d9":[2,0,741,9],
-"dd/da3/classForwardingClassTable.html#a54f1fe53c56a8d80c128f02c5a35d967":[2,0,741,1],
-"dd/da3/classForwardingClassTable.html#a55817a451dc1a51c45fc3b5d7af4b8be":[2,0,741,8],
-"dd/da3/classForwardingClassTable.html#a76b630f403e7f8977c4f8d2351676e75":[2,0,741,0],
-"dd/da3/classForwardingClassTable.html#a876a8c3324bb38c99f71c68e769ea6a8":[2,0,741,14]
+"dd/da3/classForwardingClassTable.html#a54f1fe53c56a8d80c128f02c5a35d967":[2,0,741,1]
 };

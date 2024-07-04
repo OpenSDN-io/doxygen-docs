@@ -1,5 +1,8 @@
 var NAVTREEINDEX146 =
 {
+"da/d00/classIPeerClose.html#ab6342620b90fdaec97f5db92cbbebadf":[2,0,973,0],
+"da/d00/classIPeerClose.html#ab8750c2bfcc41a221cac4a037f4322a2":[2,0,973,3],
+"da/d00/classIPeerClose.html#ab9aafe8b10a6aa26bd056b2d1f874860":[2,0,973,5],
 "da/d00/classIPeerClose.html#adba3e3d89ca2f81202a0a92321fe261e":[2,0,973,15],
 "da/d00/classIPeerClose.html#ade0b5761ba130a6ade69f2b9237d69cf":[2,0,973,22],
 "da/d00/classIPeerClose.html#ae0271ba47caf87391b0ff67766af521b":[2,0,973,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX146 =
 "da/d0d/structArpProto_1_1ArpIpc.html#acd9f964c2ec9d79ffb20cfed04c8edf5":[2,0,203,0,2],
 "da/d0f/classBgpPathAttrAsPathSegmentList.html":[2,0,339],
 "da/d0f/classBgpPathAttrAsPathSegmentList.html#a4b696b70a34abcfddd6551121b521d03":[2,0,339,1],
-"da/d0f/classBgpPathAttrAsPathSegmentList.html#a713603d5070688f7fb27fdf0f1804325":[2,0,339,4],
-"da/d0f/classBgpPathAttrAsPathSegmentList.html#a71365ad8aae19d6aebda1b44d71266c7":[2,0,339,2],
-"da/d0f/classBgpPathAttrAsPathSegmentList.html#a8a98638314e95986e7efc50e1b9b5b90":[2,0,339,3],
-"da/d0f/classBgpPathAttrAsPathSegmentList.html#af516b9df9ff31b3ac275aa160b549d4d":[2,0,339,0]
+"da/d0f/classBgpPathAttrAsPathSegmentList.html#a713603d5070688f7fb27fdf0f1804325":[2,0,339,4]
 };

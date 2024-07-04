@@ -1,5 +1,7 @@
 var NAVTREEINDEX92 =
 {
+"d6/d27/structBFD_1_1SessionKey.html#aacf29205f501fd5145b18aec8c4cbb87":[2,0,4,3,6],
+"d6/d27/structBFD_1_1SessionKey.html#ab2a5035f5106ef38b6127229fbe030b5":[2,0,4,3,5],
 "d6/d28/classMessage.html":[2,0,1134],
 "d6/d28/classMessage.html#a001217ae44b196b969385154bb92e1d6":[2,0,1134,10],
 "d6/d28/classMessage.html#a07d953c2cdadac9c2ec46c5931042924":[2,0,1134,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX92 =
 "d6/d3f/structCommunitySpec.html#ad769ff763150ac47d1e74dea5ed220a0":[2,0,471,4],
 "d6/d3f/structCommunitySpec.html#adc37525a0552ccd87e887fa661f761d0":[2,0,471,5],
 "d6/d3f/structCommunitySpec.html#af42794778fe078d469baeee69cdb4cb1":[2,0,471,2],
-"d6/d40/agent__stats__collector_8h.html":[3,0,40],
-"d6/d40/agent__stats__collector_8h_source.html":[3,0,40],
-"d6/d40/bgp__router_8h.html":[3,0,166]
+"d6/d40/agent__stats__collector_8h.html":[3,0,40]
 };

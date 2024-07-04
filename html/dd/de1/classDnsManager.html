@@ -174,6 +174,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a646945138905a60b4bceebf30d89373a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0a6636aef93c5a46efe64e0517ed93a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#ad0a6636aef93c5a46efe64e0517ed93a">UpdateAll</a> ()</td></tr>
 <tr class="separator:ad0a6636aef93c5a46efe64e0517ed93a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48c39a5808be88a043ac0b8ac955208b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a48c39a5808be88a043ac0b8ac955208b">StartEndofConfigTimer</a> ()</td></tr>
+<tr class="separator:a48c39a5808be88a043ac0b8ac955208b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5a799642ba8f13c8ceeec13d9b1d9fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#af5a799642ba8f13c8ceeec13d9b1d9fe">BindEventHandler</a> (<a class="el" href="../../d8/d80/classBindStatus.html#ab90bafa79cda06e4497f5a49695a724a">BindStatus::Event</a> ev)</td></tr>
 <tr class="separator:af5a799642ba8f13c8ceeec13d9b1d9fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1b33f7a69237c923912539c76cd9a4c4"><td class="memTemplParams" colspan="2">template&lt;typename ConfigType &gt; </td></tr>
@@ -210,7 +212,7 @@ Public Member Functions</h2></td></tr>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:ab5851dd6893c3f8d907bf43c2f9bb47f"><td class="memItemLeft" align="right" valign="top">static const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#ab5851dd6893c3f8d907bf43c2f9bb47f">max_records_per_sandesh</a> = 100</td></tr>
 <tr class="separator:ab5851dd6893c3f8d907bf43c2f9bb47f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d2cffc774476be1870f0153f88ae48c"><td class="memItemLeft" align="right" valign="top">static const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a6d2cffc774476be1870f0153f88ae48c">kEndOfConfigCheckTime</a> = 3000</td></tr>
+<tr class="memitem:a6d2cffc774476be1870f0153f88ae48c"><td class="memItemLeft" align="right" valign="top">static const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a6d2cffc774476be1870f0153f88ae48c">kEndOfConfigCheckTime</a> = 1000</td></tr>
 <tr class="separator:a6d2cffc774476be1870f0153f88ae48c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e16cf64aa649fb27889f6b709a15df9"><td class="memItemLeft" align="right" valign="top">static const uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a0e16cf64aa649fb27889f6b709a15df9">kMaxRetransmitCount</a> = 6</td></tr>
 <tr class="separator:a0e16cf64aa649fb27889f6b709a15df9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -251,8 +253,6 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a6cbcd408f2b1b6057cf5cdac9376cac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07e1dbe0508afd609ea69fe96494752e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a07e1dbe0508afd609ea69fe96494752e">PendingTimerExpiry</a> ()</td></tr>
 <tr class="separator:a07e1dbe0508afd609ea69fe96494752e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a48c39a5808be88a043ac0b8ac955208b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a48c39a5808be88a043ac0b8ac955208b">StartEndofConfigTimer</a> ()</td></tr>
-<tr class="separator:a48c39a5808be88a043ac0b8ac955208b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a66333af4bc4e68555eed82fc3a2b024d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#a66333af4bc4e68555eed82fc3a2b024d">CancelEndofConfigTimer</a> ()</td></tr>
 <tr class="separator:a66333af4bc4e68555eed82fc3a2b024d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac2b4c00eb5bafb7b35c6ca9dc2f22985"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de1/classDnsManager.html#ac2b4c00eb5bafb7b35c6ca9dc2f22985">EndofConfigTimerExpiry</a> ()</td></tr>
@@ -400,7 +400,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dd/de1/classDnsManager_a8f60a2601a9f8a862aff9a2d3dca0f86_cgraph.png" border="0" usemap="#dd/de1/classDnsManager_a8f60a2601a9f8a862aff9a2d3dca0f86_cgraph" alt=""/></div>
 <map name="dd/de1/classDnsManager_a8f60a2601a9f8a862aff9a2d3dca0f86_cgraph" id="dd/de1/classDnsManager_a8f60a2601a9f8a862aff9a2d3dca0f86_cgraph">
-<area shape="rect" id="node2" href="../../d9/d13/classDns.html#af1e7c78098916a72dbd0d402526b9793" title="Dns::GetDnsPort" alt="" coords="291,5,421,32"/><area shape="rect" id="node3" href="../../d0/d5b/classBindResolver.html#aa3fee70d237ac2dd5c2ba415ca62dbc7" title="BindResolver::Init" alt="" coords="288,56,424,83"/><area shape="rect" id="node5" href="../../d9/d13/classDns.html#a455a244296fa3b5b5f3a6aa067024ce4" title="Dns::GetEventManager" alt="" coords="271,107,441,133"/><area shape="rect" id="node6" href="../../d0/dd6/classContrailPorts.html#a599c7041b32dd0e8df2ae215fc91b2e8" title="ContrailPorts::ContrailDns\lClientUdpPort" alt="" coords="261,158,451,199"/><area shape="rect" id="node8" href="../../dd/de1/classDnsManager.html#ad810202068b7b51e577c05675cb5ea8a" title="DnsManager::HandleUpdate\lResponse" alt="" coords="254,223,458,265"/><area shape="rect" id="node12" href="../../d9/d13/classDns.html#a4bb09861f1cbd1aa68c0fd9259ac9e93" title="Dns::SetDnsConfigManager" alt="" coords="257,289,455,316"/><area shape="rect" id="node13" href="../../d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title="Dns::GetDnsConfigManager" alt="" coords="256,340,456,367"/><area shape="rect" id="node14" href="../../d7/db3/classDnsConfigManager.html#a4493e3b5305855d6b3fea40b4532122d" title="DnsConfigManager::Register\lObservers" alt="" coords="253,391,459,433"/><area shape="rect" id="node15" href="../../dd/de1/classDnsManager.html#ab6698cadf4f59f493af9db0bf52bcee4" title="DnsManager::DnsView" alt="" coords="272,781,440,808"/><area shape="rect" id="node28" href="../../dd/de1/classDnsManager.html#adcdf4ffff6db68dcba5d4e9961e42643" title="DnsManager::DnsRecord" alt="" coords="785,604,965,631"/><area shape="rect" id="node39" href="../../dd/de1/classDnsManager.html#a6528f87a21906600fee2f11d75a812b4" title="DnsManager::DnsPtrZone" alt="" coords="781,1161,968,1188"/><area shape="rect" id="node43" href="../../d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="253,1300,459,1327"/><area shape="rect" id="node45" href="../../df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="255,1361,457,1388"/><area shape="rect" id="node47" href="../../dd/de1/classDnsManager.html#a48c39a5808be88a043ac0b8ac955208b" title="DnsManager::StartEndofConfig\lTimer" alt="" coords="246,1418,466,1459"/><area shape="rect" id="node50" href="../../d3/dc6/classIndexAllocator.html#a50e54cb70161d141247d3c7e58807565" title="IndexAllocator::AllocIndex" alt="" coords="260,1484,452,1511"/><area shape="rect" id="node4" href="../../d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba" title="BindResolver::BindResolver" alt="" coords="524,52,724,79"/><area shape="rect" id="node7" href="../../d0/dd6/classContrailPorts.html#a998de7e7681589c41e90a5781b6d029d" title="ContrailPorts::VnsPorts" alt="" coords="539,103,709,129"/><area shape="rect" id="node9" href="../../d8/d1a/classBindUtil.html#ac22506bf9e098165d244a11d8783ab01" title="BindUtil::ParseDnsResponse" alt="" coords="522,255,726,281"/><area shape="rect" id="node10" href="../../d8/d1a/classBindUtil.html#a0444758d056656ad8b2e764f5788167e" title="BindUtil::DnsResponseCode" alt="" coords="523,153,725,180"/><area shape="rect" id="node11" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="543,204,705,231"/><area shape="rect" id="node16" href="../../d8/d80/classBindStatus.html#a44f4759e20fdcd05c4b2f5b75dcd2ac2" title="BindStatus::IsUp" alt="" coords="1069,761,1198,788"/><area shape="rect" id="node17" href="../../d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="1346,787,1505,813"/><area shape="rect" id="node18" href="../../d4/da5/structDnsConfig.html#aceb4e7ae6bfcbaaa5b0946904e8e3c66" title="DnsConfig::ToEventString" alt="" coords="1041,812,1226,839"/><area shape="rect" id="node19" href="../../d4/da5/structDnsConfig.html#a962f06b2d8cc77b7963c73ed3414cfd0" title="DnsConfig::ClearNotified" alt="" coords="1043,356,1224,383"/><area shape="rect" id="node20" href="../../d0/d31/structVirtualDnsConfig.html#a063838e2bcc1d8d1344ca7f3eb21013d" title="VirtualDnsConfig::GetDomainName" alt="" coords="1299,1045,1551,1072"/><area shape="rect" id="node21" href="../../d3/d00/classNamedConfig.html#a8756e037d775fdc3bc3c8a37d10aefd2" title="NamedConfig::GetNamedConfig\lObject" alt="" coords="1019,1045,1248,1086"/><area shape="rect" id="node22" href="../../dd/de1/classDnsManager.html#a5c9ef6be024b17ea454c1234f527438d" title="DnsManager::CheckName" alt="" coords="1330,352,1521,379"/><area shape="rect" id="node23" href="../../d4/da5/structDnsConfig.html#a4bc0d97fcdd5a498db21d4c4c669b39f" title="DnsConfig::MarkNotified" alt="" coords="1044,407,1223,433"/><area shape="rect" id="node24" href="../../d3/d00/classNamedConfig.html#aa92f78dc8aaf27264a80150cde1e9c42" title="NamedConfig::AddView" alt="" coords="537,1060,711,1087"/><area shape="rect" id="node25" href="../../d3/d00/classNamedConfig.html#affd92206662f1c286917b7c702b9c0d2" title="NamedConfig::ChangeView" alt="" coords="525,959,723,985"/><area shape="rect" id="node26" href="../../d0/d31/structVirtualDnsConfig.html#ac00b9a3ab075d2ea8ce27e85199d250b" title="VirtualDnsConfig::GetOld\lDomainName" alt="" coords="783,909,967,950"/><area shape="rect" id="node27" href="../../dd/de1/classDnsManager.html#aac2ed75ddb41a32a9d5fa8af80b68739" title="DnsManager::NotifyAllDns\lRecords" alt="" coords="527,625,721,666"/><area shape="rect" id="node34" href="../../d0/d31/structVirtualDnsConfig.html#adf75a5ac9d0111790ec6e3f43c8067fe" title="VirtualDnsConfig::HasReverse\lResolutionChanged" alt="" coords="516,1162,732,1203"/><area shape="rect" id="node35" href="../../d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="1032,979,1235,1021"/><area shape="rect" id="node36" href="../../dd/de1/classDnsManager.html#a5a7ec42a694305e83c2dd9a9b0fd8ef1" title="DnsManager::NotifyReverse\lDnsRecords" alt="" coords="523,690,725,731"/><area shape="rect" id="node37" href="../../d3/d00/classNamedConfig.html#af6a85e0979d2424111449b8259cfd00a" title="NamedConfig::DelView" alt="" coords="538,508,710,535"/><area shape="rect" id="node38" href="../../dd/de1/classDnsManager.html#a0d97953593ab2242065d233c2057e5a8" title="DnsManager::PendingListView\lDelete" alt="" coords="515,559,733,601"/><area shape="rect" id="node29" href="../../d1/d12/structVirtualDnsRecordConfig.html#a6827cc1f8cdb4c209c18c05d629603f4" title="VirtualDnsRecordConfig\l::GetRecord" alt="" coords="1338,599,1513,641"/><area shape="rect" id="node30" href="../../d1/d12/structVirtualDnsRecordConfig.html#a541f5e40f559355eab1edc0421342c80" title="VirtualDnsRecordConfig\l::GetViewName" alt="" coords="1338,453,1513,494"/><area shape="rect" id="node31" href="../../d1/d12/structVirtualDnsRecordConfig.html#a09bed4dcc8b752c23b16a8372beb44a8" title="VirtualDnsRecordConfig\l::GetVirtualDns" alt="" coords="1338,523,1513,565"/><area shape="rect" id="node32" href="../../d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="1064,660,1203,687"/><area shape="rect" id="node33" href="../../dd/de1/classDnsManager.html#af8a934148ac47543c4ec9bf7f9d1675a" title="DnsManager::SendRecordUpdate" alt="" coords="1016,559,1251,585"/><area shape="rect" id="node40" href="../../d3/d00/classNamedConfig.html#a5fae39ac8e855eaef104880fc7dbabed" title="NamedConfig::DelZone" alt="" coords="1047,1263,1220,1289"/><area shape="rect" id="node41" href="../../dd/de1/classDnsManager.html#a5bd79fe18219fa94a26cd27e7fd96ca6" title="DnsManager::PendingListZone\lDelete" alt="" coords="1024,1314,1243,1355"/><area shape="rect" id="node42" href="../../d3/d00/classNamedConfig.html#aa157b5827fd84432c359a5ab01532773" title="NamedConfig::AddZone" alt="" coords="1045,1212,1221,1239"/><area shape="rect" id="node44" href="../../d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="531,1329,717,1356"/><area shape="rect" id="node46" href="../../df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="516,1380,732,1407"/><area shape="rect" id="node48" href="../../dc/dea/classTimer.html#a7c72a98be7a1d0f1ec2db60e351bcb35" title="Timer::running" alt="" coords="565,1431,683,1457"/><area shape="rect" id="node49" href="../../dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="575,1481,673,1508"/></map>
+<area shape="rect" id="node2" href="../../d9/d13/classDns.html#af1e7c78098916a72dbd0d402526b9793" title="Dns::GetDnsPort" alt="" coords="283,5,413,32"/><area shape="rect" id="node3" href="../../d0/d5b/classBindResolver.html#aa3fee70d237ac2dd5c2ba415ca62dbc7" title="BindResolver::Init" alt="" coords="280,56,416,83"/><area shape="rect" id="node5" href="../../d9/d13/classDns.html#a455a244296fa3b5b5f3a6aa067024ce4" title="Dns::GetEventManager" alt="" coords="263,107,433,133"/><area shape="rect" id="node6" href="../../d0/dd6/classContrailPorts.html#a599c7041b32dd0e8df2ae215fc91b2e8" title="ContrailPorts::ContrailDns\lClientUdpPort" alt="" coords="253,158,443,199"/><area shape="rect" id="node8" href="../../dd/de1/classDnsManager.html#ad810202068b7b51e577c05675cb5ea8a" title="DnsManager::HandleUpdate\lResponse" alt="" coords="246,223,450,265"/><area shape="rect" id="node12" href="../../d9/d13/classDns.html#a4bb09861f1cbd1aa68c0fd9259ac9e93" title="Dns::SetDnsConfigManager" alt="" coords="249,289,447,316"/><area shape="rect" id="node13" href="../../d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title="Dns::GetDnsConfigManager" alt="" coords="248,340,448,367"/><area shape="rect" id="node14" href="../../d7/db3/classDnsConfigManager.html#a4493e3b5305855d6b3fea40b4532122d" title="DnsConfigManager::Register\lObservers" alt="" coords="245,391,451,433"/><area shape="rect" id="node15" href="../../dd/de1/classDnsManager.html#ab6698cadf4f59f493af9db0bf52bcee4" title="DnsManager::DnsView" alt="" coords="264,809,432,836"/><area shape="rect" id="node28" href="../../dd/de1/classDnsManager.html#adcdf4ffff6db68dcba5d4e9961e42643" title="DnsManager::DnsRecord" alt="" coords="769,581,949,608"/><area shape="rect" id="node39" href="../../dd/de1/classDnsManager.html#a6528f87a21906600fee2f11d75a812b4" title="DnsManager::DnsPtrZone" alt="" coords="765,1163,952,1189"/><area shape="rect" id="node43" href="../../d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="245,1319,451,1345"/><area shape="rect" id="node45" href="../../df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="247,1395,449,1421"/><area shape="rect" id="node47" href="../../d3/dc6/classIndexAllocator.html#a50e54cb70161d141247d3c7e58807565" title="IndexAllocator::AllocIndex" alt="" coords="252,1536,444,1563"/><area shape="rect" id="node4" href="../../d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba" title="BindResolver::BindResolver" alt="" coords="508,56,708,83"/><area shape="rect" id="node7" href="../../d0/dd6/classContrailPorts.html#a998de7e7681589c41e90a5781b6d029d" title="ContrailPorts::VnsPorts" alt="" coords="523,129,693,156"/><area shape="rect" id="node9" href="../../d8/d1a/classBindUtil.html#ac22506bf9e098165d244a11d8783ab01" title="BindUtil::ParseDnsResponse" alt="" coords="506,180,710,207"/><area shape="rect" id="node10" href="../../d8/d1a/classBindUtil.html#a0444758d056656ad8b2e764f5788167e" title="BindUtil::DnsResponseCode" alt="" coords="507,231,709,257"/><area shape="rect" id="node11" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="527,281,689,308"/><area shape="rect" id="node16" href="../../d8/d80/classBindStatus.html#a44f4759e20fdcd05c4b2f5b75dcd2ac2" title="BindStatus::IsUp" alt="" coords="1053,784,1182,811"/><area shape="rect" id="node17" href="../../d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="1330,784,1489,811"/><area shape="rect" id="node18" href="../../d4/da5/structDnsConfig.html#aceb4e7ae6bfcbaaa5b0946904e8e3c66" title="DnsConfig::ToEventString" alt="" coords="1025,835,1210,861"/><area shape="rect" id="node19" href="../../d4/da5/structDnsConfig.html#a962f06b2d8cc77b7963c73ed3414cfd0" title="DnsConfig::ClearNotified" alt="" coords="1027,379,1208,405"/><area shape="rect" id="node20" href="../../d0/d31/structVirtualDnsConfig.html#a063838e2bcc1d8d1344ca7f3eb21013d" title="VirtualDnsConfig::GetDomainName" alt="" coords="1283,1228,1535,1255"/><area shape="rect" id="node21" href="../../d3/d00/classNamedConfig.html#a8756e037d775fdc3bc3c8a37d10aefd2" title="NamedConfig::GetNamedConfig\lObject" alt="" coords="1003,937,1232,978"/><area shape="rect" id="node22" href="../../dd/de1/classDnsManager.html#a5c9ef6be024b17ea454c1234f527438d" title="DnsManager::CheckName" alt="" coords="1314,349,1505,376"/><area shape="rect" id="node23" href="../../d4/da5/structDnsConfig.html#a4bc0d97fcdd5a498db21d4c4c669b39f" title="DnsConfig::MarkNotified" alt="" coords="1028,733,1207,760"/><area shape="rect" id="node24" href="../../d3/d00/classNamedConfig.html#aa92f78dc8aaf27264a80150cde1e9c42" title="NamedConfig::AddView" alt="" coords="521,885,695,912"/><area shape="rect" id="node25" href="../../d3/d00/classNamedConfig.html#affd92206662f1c286917b7c702b9c0d2" title="NamedConfig::ChangeView" alt="" coords="509,1205,707,1232"/><area shape="rect" id="node26" href="../../d0/d31/structVirtualDnsConfig.html#ac00b9a3ab075d2ea8ce27e85199d250b" title="VirtualDnsConfig::GetOld\lDomainName" alt="" coords="767,1097,951,1138"/><area shape="rect" id="node27" href="../../dd/de1/classDnsManager.html#aac2ed75ddb41a32a9d5fa8af80b68739" title="DnsManager::NotifyAllDns\lRecords" alt="" coords="511,601,705,642"/><area shape="rect" id="node34" href="../../d0/d31/structVirtualDnsConfig.html#adf75a5ac9d0111790ec6e3f43c8067fe" title="VirtualDnsConfig::HasReverse\lResolutionChanged" alt="" coords="500,1089,716,1130"/><area shape="rect" id="node35" href="../../d0/d31/structVirtualDnsConfig.html#abf89a46efc8e9c97ef90ff651e1647d7" title="VirtualDnsConfig::IsReverse\lResolutionEnabled" alt="" coords="1016,1002,1219,1043"/><area shape="rect" id="node36" href="../../dd/de1/classDnsManager.html#a5a7ec42a694305e83c2dd9a9b0fd8ef1" title="DnsManager::NotifyReverse\lDnsRecords" alt="" coords="507,718,709,759"/><area shape="rect" id="node37" href="../../d3/d00/classNamedConfig.html#af6a85e0979d2424111449b8259cfd00a" title="NamedConfig::DelView" alt="" coords="522,484,694,511"/><area shape="rect" id="node38" href="../../dd/de1/classDnsManager.html#a0d97953593ab2242065d233c2057e5a8" title="DnsManager::PendingListView\lDelete" alt="" coords="499,535,717,577"/><area shape="rect" id="node29" href="../../d1/d12/structVirtualDnsRecordConfig.html#a6827cc1f8cdb4c209c18c05d629603f4" title="VirtualDnsRecordConfig\l::GetRecord" alt="" coords="1322,514,1497,555"/><area shape="rect" id="node30" href="../../d1/d12/structVirtualDnsRecordConfig.html#a541f5e40f559355eab1edc0421342c80" title="VirtualDnsRecordConfig\l::GetViewName" alt="" coords="1322,615,1497,657"/><area shape="rect" id="node31" href="../../d1/d12/structVirtualDnsRecordConfig.html#a09bed4dcc8b752c23b16a8372beb44a8" title="VirtualDnsRecordConfig\l::GetVirtualDns" alt="" coords="1322,431,1497,473"/><area shape="rect" id="node32" href="../../d4/da5/structDnsConfig.html#a881109c5d05cea1c96b644dc582ea114" title="DnsConfig::IsValid" alt="" coords="1048,531,1187,557"/><area shape="rect" id="node33" href="../../dd/de1/classDnsManager.html#af8a934148ac47543c4ec9bf7f9d1675a" title="DnsManager::SendRecordUpdate" alt="" coords="1000,581,1235,608"/><area shape="rect" id="node40" href="../../d3/d00/classNamedConfig.html#a5fae39ac8e855eaef104880fc7dbabed" title="NamedConfig::DelZone" alt="" coords="1031,1220,1204,1247"/><area shape="rect" id="node41" href="../../dd/de1/classDnsManager.html#a5bd79fe18219fa94a26cd27e7fd96ca6" title="DnsManager::PendingListZone\lDelete" alt="" coords="1008,1271,1227,1313"/><area shape="rect" id="node42" href="../../d3/d00/classNamedConfig.html#aa157b5827fd84432c359a5ab01532773" title="NamedConfig::AddZone" alt="" coords="1029,1169,1205,1196"/><area shape="rect" id="node44" href="../../d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="515,1397,701,1424"/><area shape="rect" id="node46" href="../../df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="500,1448,716,1475"/><area shape="rect" id="node48" href="../../d6/dd0/classBitSet.html#a89a6f905eee008680aa6199ff88442a3" title="BitSet::find_first\l_clear" alt="" coords="545,1499,671,1541"/><area shape="rect" id="node49" href="../../d6/dd0/classBitSet.html#a50596a71ed47f9a4ffad10dc7853a9fe" title="BitSet::find_next_clear" alt="" coords="524,1565,692,1592"/><area shape="rect" id="node50" href="../../d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="563,1616,653,1643"/></map>
 </div>
 </p>
 
@@ -427,7 +427,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00084">84</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00083">83</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -491,7 +491,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00528">528</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00532">532</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -518,7 +518,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00727">727</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00731">731</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -555,7 +555,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l01126">1126</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l01130">1130</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -589,7 +589,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00762">762</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00766">766</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -623,7 +623,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00630">630</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00634">634</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -668,7 +668,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00715">715</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00719">719</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -713,7 +713,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00597">597</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00601">601</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 </div>
 </div>
@@ -738,7 +738,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00098">98</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00099">99</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -763,7 +763,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00580">580</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00584">584</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 </div>
 </div>
@@ -789,7 +789,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00565">565</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00569">569</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -850,7 +850,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00918">918</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00922">922</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -893,7 +893,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00207">207</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00206">206</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -930,7 +930,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00238">238</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00237">237</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -967,7 +967,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00161">161</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00160">160</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1001,7 +1001,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00766">766</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00770">770</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1035,7 +1035,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00091">91</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00092">92</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -1085,7 +1085,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00097">97</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00098">98</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -1110,7 +1110,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00707">707</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00711">711</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1147,7 +1147,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00454">454</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00458">458</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1232,7 +1232,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00067">67</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00066">66</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1266,7 +1266,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00086">86</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00087">87</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1300,7 +1300,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00092">92</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00093">93</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1361,7 +1361,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00793">793</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00797">797</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 </div>
 </div>
@@ -1397,7 +1397,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00665">665</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00669">669</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1448,7 +1448,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00684">684</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00688">688</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1474,7 +1474,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00638">638</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00642">642</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1509,7 +1509,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00472">472</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00476">476</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1544,7 +1544,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00585">585</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00589">589</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1589,7 +1589,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00606">606</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00610">610</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1623,7 +1623,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00634">634</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00638">638</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1672,7 +1672,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00129">129</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00128">128</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1717,7 +1717,7 @@ template&lt;typename ConfigType &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00099">99</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00098">98</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1751,7 +1751,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00477">477</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00481">481</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1786,7 +1786,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00711">711</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00715">715</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1831,7 +1831,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00282">282</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00281">281</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1892,7 +1892,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00401">401</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00400">400</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1941,7 +1941,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00385">385</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00384">384</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1976,7 +1976,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00088">88</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00089">89</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -1993,7 +1993,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00092">92</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00091">91</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2009,9 +2009,6 @@ Here is the call graph for this function:</div>
 <a class="anchor" id="a48c39a5808be88a043ac0b8ac955208b"></a>
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">void DnsManager::StartEndofConfigTimer </td>
@@ -2020,14 +2017,9 @@ Here is the call graph for this function:</div>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00755">755</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00759">759</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2062,7 +2054,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00623">623</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00627">627</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2088,7 +2080,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00417">417</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00416">416</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2139,7 +2131,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00549">549</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00553">553</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2182,7 +2174,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l01000">1000</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l01004">1004</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2219,7 +2211,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00841">841</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html#l00845">845</a> of file <a class="el" href="../../d4/d85/dns__mgr_8cc_source.html">dns_mgr.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2251,7 +2243,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00107">107</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00108">108</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -2273,7 +2265,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00108">108</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d3/d81/dns__mgr_8h_source.html#l00109">109</a> of file <a class="el" href="../../d3/d81/dns__mgr_8h_source.html">dns_mgr.h</a>.</p>
 
 </div>
 </div>
@@ -2462,7 +2454,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const int DnsManager::kEndOfConfigCheckTime = 3000</td>
+          <td class="memname">const int DnsManager::kEndOfConfigCheckTime = 1000</td>
         </tr>
       </table>
   </td>

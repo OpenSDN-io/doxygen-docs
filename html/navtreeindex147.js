@@ -1,5 +1,8 @@
 var NAVTREEINDEX147 =
 {
+"da/d0f/classBgpPathAttrAsPathSegmentList.html#a71365ad8aae19d6aebda1b44d71266c7":[2,0,339,2],
+"da/d0f/classBgpPathAttrAsPathSegmentList.html#a8a98638314e95986e7efc50e1b9b5b90":[2,0,339,3],
+"da/d0f/classBgpPathAttrAsPathSegmentList.html#af516b9df9ff31b3ac275aa160b549d4d":[2,0,339,0],
 "da/d10/classetcdserverpb_1_1Request.html":[2,0,11,2],
 "da/d10/classetcdserverpb_1_1Request.html#a00ff97fc8d0753ac3ebfdd55c93d88f5":[2,0,11,2,2],
 "da/d10/classetcdserverpb_1_1Request.html#a0275a532388958511c9506bd32b7ebd0":[2,0,11,2,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX147 =
 "da/d13/classDnsHandler.html#a74a99a727f4036208bbdfd7496b4b546":[2,0,600,18],
 "da/d13/classDnsHandler.html#a7786dd6f0e3cdd22d88b107994b02721":[2,0,600,61],
 "da/d13/classDnsHandler.html#a77a967c801ef5e0a3e53f36d07d40456":[2,0,600,15],
-"da/d13/classDnsHandler.html#a7df6293bcd0533a87a8a92072a408da3":[2,0,600,37],
-"da/d13/classDnsHandler.html#a8351eddc69a79b60876b001d8b8879e8":[2,0,600,43],
-"da/d13/classDnsHandler.html#a8a7a41f3f85da8884b23e1755a886865":[2,0,600,40],
-"da/d13/classDnsHandler.html#a8afd045b985c76573d54c875126965ef":[2,0,600,70]
+"da/d13/classDnsHandler.html#a7df6293bcd0533a87a8a92072a408da3":[2,0,600,37]
 };

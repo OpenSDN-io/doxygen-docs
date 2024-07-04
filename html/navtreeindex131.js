@@ -1,5 +1,9 @@
 var NAVTREEINDEX131 =
 {
+"d8/df9/structStatsManager_1_1InterfaceStats.html#ad66e695e4c8c218def4c68f867aadba4":[2,0,1643,1,17],
+"d8/df9/structStatsManager_1_1InterfaceStats.html#aedf966e0d455831b3048a940cbf3dcb4":[2,0,1643,1,2],
+"d8/df9/structStatsManager_1_1InterfaceStats.html#af542b140ee9b004ef6c0725157cdc7d3":[2,0,1643,1,9],
+"d8/df9/structStatsManager_1_1InterfaceStats.html#af55a6abacd51aec51cb448e3c13b09d4":[2,0,1643,1,3],
 "d8/dfb/bgp__peer__close_8cc.html":[3,0,151],
 "d8/dfb/bgp__peer__close_8cc_source.html":[3,0,151],
 "d8/dfc/router__mac_8h.html":[3,0,986],
@@ -245,9 +249,5 @@ var NAVTREEINDEX131 =
 "d8/dfe/classAgent.html#a5ce2c29913cb75b5a3787c6889f3cffc":[2,0,71,126],
 "d8/dfe/classAgent.html#a5d0f4de03588d2a2e912c7f5c4710835":[2,0,71,610],
 "d8/dfe/classAgent.html#a5e43f1c4cc14012251384928f4944259":[2,0,71,461],
-"d8/dfe/classAgent.html#a5ec43a49739c4bc9fb2e4fae36281486":[2,0,71,597],
-"d8/dfe/classAgent.html#a5f2d10cdf8d244068166a51fbe571793":[2,0,71,303],
-"d8/dfe/classAgent.html#a60a2074097cbd930db27a9090912c92d":[2,0,71,381],
-"d8/dfe/classAgent.html#a620c8846225017d589c52cf0e3a90e7e":[2,0,71,593],
-"d8/dfe/classAgent.html#a632683d9751202bb818894dbd6d5f5aa":[2,0,71,196]
+"d8/dfe/classAgent.html#a5ec43a49739c4bc9fb2e4fae36281486":[2,0,71,597]
 };

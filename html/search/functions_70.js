@@ -578,6 +578,7 @@ var searchData=
   ['printallobjects',['PrintAllObjects',['../dc/d17/classIFMapNode.html#a8de53a431622b352c1255b495e2e6871',1,'IFMapNode']]],
   ['printallpendingvmregentries',['PrintAllPendingVmRegEntries',['../df/df1/classIFMapVmUuidMapper.html#a35d56cf4bfd5a955cefa3bba3a8b4416',1,'IFMapVmUuidMapper']]],
   ['printalluuidmapperentries',['PrintAllUuidMapperEntries',['../df/df1/classIFMapVmUuidMapper.html#a0b16559918d9b9ffbc64e2e7d35ade0b',1,'IFMapVmUuidMapper']]],
+  ['printbulksyncstats',['PrintBulkSyncStats',['../d2/d76/controller_2src_2dns_2main_8cc.html#ab46d9717a580dc9e426a9e43e2ed0d74',1,'main.cc']]],
   ['printdoc',['PrintDoc',['../d2/d78/classXmlBase.html#ae5c0f4d429de54992b021aa7ddf3735f',1,'XmlBase::PrintDoc()'],['../dd/d50/classXmlPugi.html#ae3871bfdff232d87145a4be3502963db',1,'XmlPugi::PrintDoc()']]],
   ['printdocformatted',['PrintDocFormatted',['../dd/d50/classXmlPugi.html#a8e3184efcfaf8b00dc7f7a819521f49b',1,'XmlPugi']]],
   ['printevpntable',['PrintEvpnTable',['../dc/d5b/classVxlanRoutingManager.html#a95b81fe17b84928a39f81c2d8d35eed9',1,'VxlanRoutingManager']]],

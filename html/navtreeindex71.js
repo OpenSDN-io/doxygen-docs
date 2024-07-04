@@ -1,5 +1,7 @@
 var NAVTREEINDEX71 =
 {
+"d5/d07/classKSyncUserVrouterOpsContext.html#a34fdb5bc4a38501d248d6b3a22ab93b7":[2,0,1041,1],
+"d5/d07/classKSyncUserVrouterOpsContext.html#a40a763dd1958d633c1c101291da0bee2":[2,0,1041,2],
 "d5/d07/classKSyncUserVrouterOpsContext.html#ae7d6c1708334e91b463e9a1d059c9b8f":[2,0,1041,0],
 "d5/d07/classKSyncUserVrouterOpsContext.html#afe2a61e6b98e2d2012d83545a16b146a":[2,0,1041,3],
 "d5/d08/bgp__xmpp__peer__close_8cc.html":[3,0,201],
@@ -247,7 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d12/classPacketBuffer.html#a779104866ac6874ed103f8518ed98f2c":[2,0,1267,9],
 "d5/d12/classPacketBuffer.html#a7be5a5fac4a018c63672ef0539c9b791":[2,0,1267,16],
 "d5/d12/classPacketBuffer.html#a81bc2ba764ed3d88fde68c355b70bbd8":[2,0,1267,17],
-"d5/d12/classPacketBuffer.html#a84df7ce5e55d4bb34f84881fb6eacff1":[2,0,1267,3],
-"d5/d12/classPacketBuffer.html#a869494565f8aea0e46d28c8927116bb3":[2,0,1267,11],
-"d5/d12/classPacketBuffer.html#a957c2c0ddf174ad78af64283888e35a8":[2,0,1267,10]
+"d5/d12/classPacketBuffer.html#a84df7ce5e55d4bb34f84881fb6eacff1":[2,0,1267,3]
 };

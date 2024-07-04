@@ -33,6 +33,8 @@ var classDnsConfigManager =
     [ "Terminate", "d7/db3/classDnsConfigManager.html#aac587f98a63d414e467d64707300fe64", null ],
     [ "ToEventString", "d7/db3/classDnsConfigManager.html#a06db61caf4ea751c54dc4f379ab7c25f", null ],
     [ "config_task_id_", "d7/db3/classDnsConfigManager.html#a4e25b541e65b49491f5ab20799161570", null ],
+    [ "config_types", "d7/db3/classDnsConfigManager.html#aa3f255159ccd4d1ea5467efe2925d6c9", null ],
+    [ "config_types_size", "d7/db3/classDnsConfigManager.html#ad16389e19370080fed08a601ef73b0e4", null ],
     [ "db_", "d7/db3/classDnsConfigManager.html#ad585ac87a96aaaf011cbebdb2683f520", null ],
     [ "db_graph_", "d7/db3/classDnsConfigManager.html#a674bfe92c2a8e6a575b5ccb3152192a7", null ],
     [ "EventString", "d7/db3/classDnsConfigManager.html#a1dc67e1cbc23abaacd654b09937f4dd4", null ],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX151 =
 {
+"da/d58/classRoutingPolicyUpdateAction.html#ad5857de85ea695712f2d4a66ceb24899":[2,0,1480,2],
+"da/d58/classRoutingPolicyUpdateAction.html#af8efc4ddda0d3f98315e8241534f6ae3":[2,0,1480,1],
+"da/d5a/agent__uve__stats_8h.html":[3,0,48],
 "da/d5a/agent__uve__stats_8h_source.html":[3,0,48],
 "da/d5c/structBgpXmppChannel_1_1ErrorStats.html":[2,0,425,1],
 "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a2180b9d0203893da6932680e97c22465":[2,0,425,1,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX151 =
 "da/d81/gmph__private_8h.html#a312f2a121f900fd9c8af9fe2126bbf19":[3,0,477,89],
 "da/d81/gmph__private_8h.html#a37e890e2bd45b8baed43b4dd84a1aa26":[3,0,477,47],
 "da/d81/gmph__private_8h.html#a3943ba36da3eb074961a37d6057db3e9":[3,0,477,77],
-"da/d81/gmph__private_8h.html#a39bf79cc896ee2d83461df3986c414bd":[3,0,477,70],
-"da/d81/gmph__private_8h.html#a3c6a650051c5df770c7fee1388171842":[3,0,477,51],
-"da/d81/gmph__private_8h.html#a40bd7227007d6f60c3aa21f3d04a44cc":[3,0,477,41],
-"da/d81/gmph__private_8h.html#a42898f957c517f57923f060513934b55":[3,0,477,32]
+"da/d81/gmph__private_8h.html#a39bf79cc896ee2d83461df3986c414bd":[3,0,477,70]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX44 =
 {
+"d3/d0d/structVmInterfaceState.html#a9b3a279c9fab11cf50f763c5c3e7f3fa":[2,0,1809,7],
+"d3/d0d/structVmInterfaceState.html#ab797b45a832c9a839e7480a760c88fcc":[2,0,1809,10],
 "d3/d0d/structVmInterfaceState.html#acc13f34b80e21341f01869f982244ada":[2,0,1809,1],
 "d3/d0d/structVmInterfaceState.html#aeae5b1dd9ce7b9b1d60133c2fc6e357a":[2,0,1809,12],
 "d3/d0d/structVmInterfaceState.html#af1151705cf2de0d052d5afa00466a947":[2,0,1809,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX44 =
 "d3/d28/bgp__xmpp__rtarget__manager_8h_source.html":[3,0,204],
 "d3/d2a/dns__config_8h.html":[3,0,355],
 "d3/d2a/dns__config_8h.html#a329e125489c4b9b97d2e229f6484394f":[3,0,355,4],
-"d3/d2a/dns__config_8h.html#a3a4a1fbe9ed373754bdcaaa51dd1307a":[3,0,355,6],
-"d3/d2a/dns__config_8h.html#a42eeae330e605e34b7b4e3d156808281":[3,0,355,5],
-"d3/d2a/dns__config_8h_source.html":[3,0,355]
+"d3/d2a/dns__config_8h.html#a3a4a1fbe9ed373754bdcaaa51dd1307a":[3,0,355,6]
 };

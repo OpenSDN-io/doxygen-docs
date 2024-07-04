@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d4/dc3/classBgpAf.html#a9dce2de0c64040ff04fceeb08d0eba35":[2,0,230,3],
+"d4/dc3/classBgpAf.html#ab16718e60776df3b918c692f4dc079fe":[2,0,230,5],
 "d4/dc3/classBgpAf.html#ae1b298caf3c626e2280fb359402778c6":[2,0,230,0],
 "d4/dc3/classBgpAf.html#ae1b298caf3c626e2280fb359402778c6a0c8816042f8fc743e20028b21badd457":[2,0,230,0,3],
 "d4/dc3/classBgpAf.html#ae1b298caf3c626e2280fb359402778c6a74562d83502cbde56946570f27a9a604":[2,0,230,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d4/dd7/structgmpr__intf__host__entry__.html":[2,0,790],
 "d4/dd7/structgmpr__intf__host__entry__.html#ad0fec8c02529eb742ca68ae4a5916325":[2,0,790,0],
 "d4/dd7/structgmpr__intf__host__entry__.html#adeea7d1563fdfc1ac24146dc8a5bc30a":[2,0,790,1],
-"d4/dd8/classBgpOpenCapability.html":[2,0,323],
-"d4/dd8/classBgpOpenCapability.html#acc6cfd115bb59cc5a0c39fb8fc5c17b7":[2,0,323,0],
-"d4/dda/t__struct_8h.html":[3,0,1119]
+"d4/dd8/classBgpOpenCapability.html":[2,0,323]
 };

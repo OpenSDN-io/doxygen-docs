@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d4/dec/classNextHop.html#add7d0c3a9ffce49c62ca63e37ed53348":[2,0,1217,39],
+"d4/dec/classNextHop.html#ae7556cd91af46e79f27bff1f89b0444a":[2,0,1217,40],
 "d4/dec/classNextHop.html#aea51b6bad677afefd9acf80e971afe04":[2,0,1217,32],
 "d4/dec/classNextHop.html#aedb618b9578071e0d1a4e9d444d13463":[2,0,1217,10],
 "d4/dec/classNextHop.html#af53dfdb1533efb31004639c8815df180":[2,0,1217,33],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d5/d06/config__factory_8cc_source.html":[3,0,251],
 "d5/d06/db__client_8h.html":[3,0,307],
 "d5/d06/db__client_8h_source.html":[3,0,307],
-"d5/d07/classKSyncUserVrouterOpsContext.html":[2,0,1041],
-"d5/d07/classKSyncUserVrouterOpsContext.html#a34fdb5bc4a38501d248d6b3a22ab93b7":[2,0,1041,1],
-"d5/d07/classKSyncUserVrouterOpsContext.html#a40a763dd1958d633c1c101291da0bee2":[2,0,1041,2]
+"d5/d07/classKSyncUserVrouterOpsContext.html":[2,0,1041]
 };
