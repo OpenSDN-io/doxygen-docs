@@ -13,9 +13,11 @@
 <area shape="rect" id="node13" href="$dd/db1/bgp__show__routing__instance_8cc.html" title="bgp_show_routing_instance.cc" alt="" coords="1647,80,1867,107"/>
 <area shape="rect" id="node14" href="$db/dc1/bgp__table_8cc.html" title="bgp_table.cc" alt="" coords="1892,80,1996,107"/>
 <area shape="rect" id="node15" href="$d8/d26/bgp__xmpp__sandesh_8cc.html" title="bgp_xmpp_sandesh.cc" alt="" coords="2021,80,2189,107"/>
-<area shape="rect" id="node16" href="$dd/d79/peer__manager_8cc.html" title="peer_manager.cc" alt="" coords="2215,80,2348,107"/>
-<area shape="rect" id="node17" href="$d8/dc3/rtarget__group_8cc.html" title="rtarget_group.cc" alt="" coords="2372,80,2500,107"/>
-<area shape="rect" id="node18" href="$da/d06/rtarget__group__mgr_8cc.html" title="rtarget_group_mgr.cc" alt="" coords="2524,80,2684,107"/>
-<area shape="rect" id="node19" href="$d3/dcb/state__machine_8cc.html" title="state_machine.cc" alt="" coords="2708,80,2844,107"/>
-<area shape="rect" id="node20" href="$d9/da9/controller_2src_2control-node_2main_8cc_source.html" title="main.cc" alt="" coords="2869,80,2941,107"/>
+<area shape="rect" id="node16" href="$dd/d38/inet6vpn__table_8cc.html" title="inet6vpn_table.cc" alt="" coords="2214,80,2351,107"/>
+<area shape="rect" id="node17" href="$d3/de1/inetvpn__table_8cc.html" title="inetvpn_table.cc" alt="" coords="2375,80,2504,107"/>
+<area shape="rect" id="node18" href="$dd/d79/peer__manager_8cc.html" title="peer_manager.cc" alt="" coords="2529,80,2663,107"/>
+<area shape="rect" id="node19" href="$d8/dc3/rtarget__group_8cc.html" title="rtarget_group.cc" alt="" coords="2687,80,2815,107"/>
+<area shape="rect" id="node20" href="$da/d06/rtarget__group__mgr_8cc.html" title="rtarget_group_mgr.cc" alt="" coords="2839,80,2999,107"/>
+<area shape="rect" id="node21" href="$d3/dcb/state__machine_8cc.html" title="state_machine.cc" alt="" coords="3023,80,3159,107"/>
+<area shape="rect" id="node22" href="$d9/da9/controller_2src_2control-node_2main_8cc_source.html" title="main.cc" alt="" coords="3183,80,3256,107"/>
 </map>

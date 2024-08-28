@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html":[2,0,1089,0],
 "d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a0482b6990bc468166b9ca65efe393d02":[2,0,1089,0,1],
 "d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a05abf3080cc6e737f599d7264a96173d":[2,0,1089,0,2],
 "d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a0ebfad83a0560c5b7ea0a315cb9e68fb":[2,0,1089,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d8/d71/classt__py__generator.html#a674cff0582ea251d53a09fd93b3e1acc":[2,0,1673,37],
 "d8/d71/classt__py__generator.html#a699b5be9d2e45b098c932dcf0675c1be":[2,0,1673,61],
 "d8/d71/classt__py__generator.html#a706d94af707451e7452891977743193d":[2,0,1673,28],
-"d8/d71/classt__py__generator.html#a77a15ddb67c2a6a401646549a84f4e75":[2,0,1673,13],
-"d8/d71/classt__py__generator.html#a77e6efc3392e3afd8f68258047f4314b":[2,0,1673,12]
+"d8/d71/classt__py__generator.html#a77a15ddb67c2a6a401646549a84f4e75":[2,0,1673,13]
 };

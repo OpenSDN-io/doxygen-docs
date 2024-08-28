@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d4/d69/classMacIpLearningProtoHandler.html#ab3e87185fd6df62abb25a91fb66270ef":[2,0,1086,7],
 "d4/d69/classMacIpLearningProtoHandler.html#ac62d7faf938f9f5931b3e60ec121d0f9":[2,0,1086,6],
 "d4/d69/structWaitForTraffic.html":[2,0,1906],
 "d4/d69/structWaitForTraffic.html#a30ac36bee565d23a332ac0721f332cc6":[2,0,1906,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d4/d7f/classInstanceTask.html#a0ce6a502f0bbe0d6fa10bd70f078ddc7":[2,0,934,0],
 "d4/d7f/classInstanceTask.html#a223829e5a737a46e90d8be5b69c56a53":[2,0,934,19],
 "d4/d7f/classInstanceTask.html#a2258a404a4e7576b7679dfaa4f4a3ad5":[2,0,934,21],
-"d4/d7f/classInstanceTask.html#a2c154a03b2b6cc1061328a07f6d013ec":[2,0,934,13],
-"d4/d7f/classInstanceTask.html#a30436ab7a0ade82c8f0c4d092664ed87":[2,0,934,14]
+"d4/d7f/classInstanceTask.html#a2c154a03b2b6cc1061328a07f6d013ec":[2,0,934,13]
 };

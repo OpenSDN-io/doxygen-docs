@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d4/dd8/classBgpOpenCapability.html":[2,0,323],
 "d4/dd8/classBgpOpenCapability.html#acc6cfd115bb59cc5a0c39fb8fc5c17b7":[2,0,323,0],
 "d4/dda/t__struct_8h.html":[3,0,1119],
 "d4/dda/t__struct_8h_source.html":[3,0,1119],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d4/dec/classNextHop.html#ac7c8bf9912de9a24efd9f19046e2bee6":[2,0,1217,13],
 "d4/dec/classNextHop.html#ad11a3e9c1833eeb63e975ce870d43192":[2,0,1217,3],
 "d4/dec/classNextHop.html#ad3cac137c9c059e0b41323eaaad253b1":[2,0,1217,37],
-"d4/dec/classNextHop.html#ad88119617debf82e674faab26d00027d":[2,0,1217,47],
-"d4/dec/classNextHop.html#adac7b4de9bcadccdcefaf843c603397f":[2,0,1217,34]
+"d4/dec/classNextHop.html#ad88119617debf82e674faab26d00027d":[2,0,1217,47]
 };

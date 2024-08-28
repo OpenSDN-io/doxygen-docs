@@ -1,10 +1,12 @@
 <map id="GenerateDistinguisher" name="GenerateDistinguisher">
 <area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="255,5,385,32"/>
 <area shape="rect" id="node3" href="$d5/dcf/classBgpAttr.html#a2431d429c11f3e4561c3d4383b45b69a" title="BgpAttr::source_rd" alt="" coords="249,56,391,83"/>
-<area shape="rect" id="node4" href="$dc/d73/classRouteDistinguisher.html#afd0d1ef7b23472a12ff3431bb0bfab39" title="RouteDistinguisher\l::IsZero" alt="" coords="247,107,393,149"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="253,173,387,200"/>
-<area shape="rect" id="node7" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title="IPeer::IsXmppPeer" alt="" coords="249,224,391,251"/>
-<area shape="rect" id="node8" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="221,275,419,301"/>
-<area shape="rect" id="node9" href="$de/ddf/classRoutingInstance.html#aaf56edca8a1b15a063ea1f00fff9c4e4" title="RoutingInstance::GetRD" alt="" coords="232,325,408,352"/>
-<area shape="rect" id="node5" href="$dc/d73/classRouteDistinguisher.html#a18cdc6721d5991f8f6fa51590797d6b8" title="RouteDistinguisher\l::CompareTo" alt="" coords="467,107,613,149"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="253,107,387,133"/>
+<area shape="rect" id="node5" href="$dd/d38/classIPeer.html#aef7441054a898fa8bfe98eec38ec3e18" title="IPeer::IsRouterTypeBGPaaS" alt="" coords="222,157,418,184"/>
+<area shape="rect" id="node6" href="$dc/d73/classRouteDistinguisher.html#afd0d1ef7b23472a12ff3431bb0bfab39" title="RouteDistinguisher\l::IsZero" alt="" coords="247,209,393,250"/>
+<area shape="rect" id="node8" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title="IPeer::IsXmppPeer" alt="" coords="249,275,391,301"/>
+<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="221,325,419,352"/>
+<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#aaf56edca8a1b15a063ea1f00fff9c4e4" title="RoutingInstance::GetRD" alt="" coords="232,376,408,403"/>
+<area shape="rect" id="node11" href="$dd/d38/classIPeer.html#a4770db71267187cf7aa665d344272199" title="IPeer::ToString" alt="" coords="263,427,377,453"/>
+<area shape="rect" id="node7" href="$dc/d73/classRouteDistinguisher.html#a18cdc6721d5991f8f6fa51590797d6b8" title="RouteDistinguisher\l::CompareTo" alt="" coords="467,209,613,250"/>
 </map>

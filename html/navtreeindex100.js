@@ -1,5 +1,6 @@
 var NAVTREEINDEX100 =
 {
+"d6/dbf/classBgpXmppChannel.html#a034cd90876c30eab6a21d0ddcc0f02da":[2,0,425,50],
 "d6/dbf/classBgpXmppChannel.html#a03e60ab6a81bbc2a3e9854e948ab80ad":[2,0,425,123],
 "d6/dbf/classBgpXmppChannel.html#a062de8717766eda152ce8abeafe6ce44":[2,0,425,132],
 "d6/dbf/classBgpXmppChannel.html#a07369d5406d0aef6560beb8e39df58a2":[2,0,425,103],
@@ -248,6 +249,5 @@ var NAVTREEINDEX100 =
 "d6/dc0/test__xml_8h.html#ab182ac0831708f0d2447d1e2682fae3f":[3,0,1160,8],
 "d6/dc0/test__xml_8h.html#abc5551284fc9bad08505d70508508573":[3,0,1160,11],
 "d6/dc0/test__xml_8h.html#abdb520f43eed9d98d541862e82ecfd99":[3,0,1160,9],
-"d6/dc0/test__xml_8h.html#ae11e1b3234117bf140c621c75552e49a":[3,0,1160,7],
-"d6/dc0/test__xml_8h_source.html":[3,0,1160]
+"d6/dc0/test__xml_8h.html#ae11e1b3234117bf140c621c75552e49a":[3,0,1160,7]
 };

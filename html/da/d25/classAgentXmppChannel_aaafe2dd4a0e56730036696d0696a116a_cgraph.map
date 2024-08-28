@@ -1,51 +1,51 @@
 <map id="AgentXmppChannel::ControllerSendV4V6UnicastRouteCommon" name="AgentXmppChannel::ControllerSendV4V6UnicastRouteCommon">
-<area shape="rect" id="node2" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title="XmppStanza::AllocXmppXmlImpl" alt="" coords="289,77,527,104"/>
-<area shape="rect" id="node7" href="$d4/d57/classAgentRoute.html#abe53be72ffc2c4d8feb5cbec3b0e6e5a" title="AgentRoute::ToString" alt="" coords="329,128,487,155"/>
-<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="345,179,471,205"/>
-<area shape="rect" id="node9" href="$dd/dec/controller__peer_8cc.html#a359031d5d6acdf2d1855451a07189e8d" title="PopulateEcmpHashFieldsToUse" alt="" coords="296,229,520,256"/>
-<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="323,280,493,307"/>
-<area shape="rect" id="node13" href="$d0/dcc/classInterface.html#abb83064a529ab788f6ca5cd8592def91" title="Interface::mac" alt="" coords="350,331,466,357"/>
-<area shape="rect" id="node14" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="328,381,488,408"/>
-<area shape="rect" id="node15" href="$d3/d08/classTunnelType.html#aae1568d0ad8546a9fb44316ec4a6a6f1" title="TunnelType::GREType" alt="" coords="329,432,487,459"/>
-<area shape="rect" id="node16" href="$d3/d08/classTunnelType.html#a8f1834a363b7508a7faeaf268830122d" title="TunnelType::UDPType" alt="" coords="328,483,488,509"/>
-<area shape="rect" id="node17" href="$d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="323,533,493,560"/>
-<area shape="rect" id="node18" href="$d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="305,585,511,626"/>
-<area shape="rect" id="node22" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="347,651,469,677"/>
-<area shape="rect" id="node23" href="$d2/d3d/classVrfEntry.html#a87a55dfc918b5fe86c60af961159827e" title="VrfEntry::routing_vrf" alt="" coords="331,701,485,728"/>
-<area shape="rect" id="node24" href="$d4/d3d/classAgentPath.html#a1df22ad5b86891e3894cfc6d37d17a9d" title="AgentPath::label" alt="" coords="344,752,472,779"/>
-<area shape="rect" id="node25" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="333,803,483,829"/>
-<area shape="rect" id="node26" href="$d3/d08/classTunnelType.html#a87a695aed53488469e2ee6e394d3c35d" title="TunnelType::NativeType" alt="" coords="321,853,495,880"/>
-<area shape="rect" id="node27" href="$d8/d35/classPathPreference.html#a71d5c2b9f1660379fd3fe0b39980647f" title="PathPreference::loc\l_sequence" alt="" coords="335,905,481,946"/>
-<area shape="rect" id="node28" href="$d4/d57/classAgentRoute.html#a6131816113660eea8313f97be9087afd" title="AgentRoute::intf_route_type" alt="" coords="306,971,510,997"/>
-<area shape="rect" id="node29" href="$d8/d35/classPathPreference.html#ac604fdc4c7eecd78c76e3165e0dad7ed" title="PathPreference::sequence" alt="" coords="313,1021,503,1048"/>
-<area shape="rect" id="node30" href="$d8/d35/classPathPreference.html#a75020fd748f6ab8fe1593a0e62f8dbcf" title="PathPreference::preference" alt="" coords="309,1072,507,1099"/>
-<area shape="rect" id="node31" href="$dd/d50/classXmlPugi.html#aa054d3f177373a6b7cb4e76e4ec2ca46" title="XmlPugi::AddNode" alt="" coords="337,1325,479,1352"/>
-<area shape="rect" id="node34" href="$dd/d50/classXmlPugi.html#adae8722150dda55675cec71fc00efa54" title="XmlPugi::AddAttribute" alt="" coords="325,1376,491,1403"/>
-<area shape="rect" id="node35" href="$d6/d81/classXmppChannel.html#ad328a80bd9eb6805a99999574dd10724" title="XmppChannel::FromString" alt="" coords="313,1427,503,1453"/>
-<area shape="rect" id="node36" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="321,1477,495,1504"/>
-<area shape="rect" id="node37" href="$dd/d50/classXmlPugi.html#a3d4d639bb9efd03729e830c2b722f824" title="XmlPugi::AddChildNode" alt="" coords="320,1173,496,1200"/>
-<area shape="rect" id="node38" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="336,1528,480,1555"/>
-<area shape="rect" id="node39" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="336,1579,480,1605"/>
-<area shape="rect" id="node40" href="$dd/d50/classXmlPugi.html#aef52b6ee6b251ee9d11f6a13041f00c8" title="XmlPugi::doc" alt="" coords="355,1629,461,1656"/>
-<area shape="rect" id="node41" href="$da/d25/classAgentXmppChannel.html#a198d9ef8e85bf3e815ce5db694c0aaeb" title="AgentXmppChannel::SendUpdate" alt="" coords="289,1680,527,1707"/>
-<area shape="rect" id="node46" href="$dd/d50/classXmlPugi.html#a5892f19009d8367e703968f9eb26c3f8" title="XmlPugi::DeleteNode" alt="" coords="327,1123,489,1149"/>
-<area shape="rect" id="node47" href="$dd/d50/classXmlPugi.html#a70a76e8be6c292fdd3a0876f241eef97" title="XmlPugi::ReadNode" alt="" coords="333,1224,483,1251"/>
-<area shape="rect" id="node48" href="$dd/d50/classXmlPugi.html#ad1fbbca154c09ca0e2643b0a6333c7f3" title="XmlPugi::ModifyAttribute" alt="" coords="315,1275,501,1301"/>
-<area shape="rect" id="node49" href="$da/d25/classAgentXmppChannel.html#abba494f651224db6f3bde4c75fdb4c2a" title="AgentXmppChannel::end\l_of_rib_tx_timer" alt="" coords="317,1731,499,1773"/>
-<area shape="rect" id="node50" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="331,1797,485,1824"/>
-<area shape="rect" id="node3" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="620,5,783,46"/>
-<area shape="rect" id="node5" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title="XmppXmlImplFactory\l::GetXmlImpl" alt="" coords="620,70,783,111"/>
-<area shape="rect" id="node6" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title="XmlBase::LoadDoc" alt="" coords="629,136,773,163"/>
-<area shape="rect" id="node4" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="875,5,1045,46"/>
-<area shape="rect" id="node10" href="$d1/db0/classEcmpLoadBalance.html#a62cf6255caefec76a79a827a5009dc78" title="EcmpLoadBalance::AllSet" alt="" coords="608,208,795,235"/>
-<area shape="rect" id="node11" href="$d1/db0/classEcmpLoadBalance.html#af5940a5963545a364d55b3961b739876" title="EcmpLoadBalance::GetString\lVector" alt="" coords="596,259,807,301"/>
-<area shape="rect" id="node19" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="631,541,772,568"/>
-<area shape="rect" id="node20" href="$d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="611,592,792,619"/>
-<area shape="rect" id="node21" href="$d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="593,643,810,669"/>
-<area shape="rect" id="node32" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="641,1224,762,1251"/>
-<area shape="rect" id="node33" href="$dd/d50/classXmlPugi.html#a38612caa67a5894bd7d634e2b0bd3e4c" title="XmlPugi::SetContext" alt="" coords="623,1275,779,1301"/>
-<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="651,1705,751,1732"/>
-<area shape="rect" id="node43" href="$d0/d98/classAgentStats.html#ababc68e40c33b63498a4f9894944ba9b" title="AgentStats::incr_xmpp\l_out_msgs" alt="" coords="617,1757,786,1798"/>
-<area shape="rect" id="node44" href="$d6/d81/classXmppChannel.html#afdb26525bc6003c2d82cfa0ab64af0c2" title="XmppChannel::Send" alt="" coords="625,1604,778,1631"/>
-<area shape="rect" id="node45" href="$da/d25/classAgentXmppChannel.html#a9f4de6140533680419d2495dffe7d830" title="AgentXmppChannel::WriteReadyCb" alt="" coords="576,1655,827,1681"/>
+<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="347,5,469,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="336,56,480,83"/>
+<area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a2722350adb0570b4b967aa8ef8799b9c" title="Checks whether VxLAN routing manager is enabled or not. " alt="" coords="326,107,490,149"/>
+<area shape="rect" id="node7" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="326,173,490,214"/>
+<area shape="rect" id="node10" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title="XmppStanza::AllocXmppXmlImpl" alt="" coords="289,239,527,265"/>
+<area shape="rect" id="node14" href="$d4/d57/classAgentRoute.html#abe53be72ffc2c4d8feb5cbec3b0e6e5a" title="AgentRoute::ToString" alt="" coords="329,289,487,316"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="345,340,471,367"/>
+<area shape="rect" id="node16" href="$dd/dec/controller__peer_8cc.html#a359031d5d6acdf2d1855451a07189e8d" title="PopulateEcmpHashFieldsToUse" alt="" coords="296,391,520,417"/>
+<area shape="rect" id="node19" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="323,441,493,468"/>
+<area shape="rect" id="node20" href="$d0/dcc/classInterface.html#abb83064a529ab788f6ca5cd8592def91" title="Interface::mac" alt="" coords="350,492,466,519"/>
+<area shape="rect" id="node21" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="328,543,488,569"/>
+<area shape="rect" id="node22" href="$d3/d08/classTunnelType.html#aae1568d0ad8546a9fb44316ec4a6a6f1" title="TunnelType::GREType" alt="" coords="329,593,487,620"/>
+<area shape="rect" id="node23" href="$d3/d08/classTunnelType.html#a8f1834a363b7508a7faeaf268830122d" title="TunnelType::UDPType" alt="" coords="328,644,488,671"/>
+<area shape="rect" id="node24" href="$d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="323,695,493,721"/>
+<area shape="rect" id="node25" href="$d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="305,746,511,787"/>
+<area shape="rect" id="node29" href="$d2/d3d/classVrfEntry.html#a87a55dfc918b5fe86c60af961159827e" title="VrfEntry::routing_vrf" alt="" coords="331,812,485,839"/>
+<area shape="rect" id="node30" href="$d4/d3d/classAgentPath.html#a1df22ad5b86891e3894cfc6d37d17a9d" title="AgentPath::label" alt="" coords="344,863,472,889"/>
+<area shape="rect" id="node31" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="333,913,483,940"/>
+<area shape="rect" id="node32" href="$d3/d08/classTunnelType.html#a87a695aed53488469e2ee6e394d3c35d" title="TunnelType::NativeType" alt="" coords="321,964,495,991"/>
+<area shape="rect" id="node33" href="$d8/d35/classPathPreference.html#a71d5c2b9f1660379fd3fe0b39980647f" title="PathPreference::loc\l_sequence" alt="" coords="335,1015,481,1057"/>
+<area shape="rect" id="node34" href="$d4/d57/classAgentRoute.html#a6131816113660eea8313f97be9087afd" title="AgentRoute::intf_route_type" alt="" coords="306,1081,510,1108"/>
+<area shape="rect" id="node35" href="$d8/d35/classPathPreference.html#ac604fdc4c7eecd78c76e3165e0dad7ed" title="PathPreference::sequence" alt="" coords="313,1132,503,1159"/>
+<area shape="rect" id="node36" href="$d8/d35/classPathPreference.html#a75020fd748f6ab8fe1593a0e62f8dbcf" title="PathPreference::preference" alt="" coords="309,1183,507,1209"/>
+<area shape="rect" id="node37" href="$dd/d50/classXmlPugi.html#aa054d3f177373a6b7cb4e76e4ec2ca46" title="XmlPugi::AddNode" alt="" coords="337,1233,479,1260"/>
+<area shape="rect" id="node39" href="$dd/d50/classXmlPugi.html#adae8722150dda55675cec71fc00efa54" title="XmlPugi::AddAttribute" alt="" coords="325,1284,491,1311"/>
+<area shape="rect" id="node40" href="$d6/d81/classXmppChannel.html#ad328a80bd9eb6805a99999574dd10724" title="XmppChannel::FromString" alt="" coords="313,1335,503,1361"/>
+<area shape="rect" id="node41" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="321,1385,495,1412"/>
+<area shape="rect" id="node42" href="$dd/d50/classXmlPugi.html#a3d4d639bb9efd03729e830c2b722f824" title="XmlPugi::AddChildNode" alt="" coords="320,1436,496,1463"/>
+<area shape="rect" id="node43" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="336,1487,480,1513"/>
+<area shape="rect" id="node44" href="$dd/d50/classXmlPugi.html#aef52b6ee6b251ee9d11f6a13041f00c8" title="XmlPugi::doc" alt="" coords="355,1537,461,1564"/>
+<area shape="rect" id="node45" href="$da/d25/classAgentXmppChannel.html#a198d9ef8e85bf3e815ce5db694c0aaeb" title="AgentXmppChannel::SendUpdate" alt="" coords="289,1588,527,1615"/>
+<area shape="rect" id="node46" href="$dd/d50/classXmlPugi.html#a5892f19009d8367e703968f9eb26c3f8" title="XmlPugi::DeleteNode" alt="" coords="327,1639,489,1665"/>
+<area shape="rect" id="node47" href="$dd/d50/classXmlPugi.html#a70a76e8be6c292fdd3a0876f241eef97" title="XmlPugi::ReadNode" alt="" coords="333,1689,483,1716"/>
+<area shape="rect" id="node48" href="$dd/d50/classXmlPugi.html#ad1fbbca154c09ca0e2643b0a6333c7f3" title="XmlPugi::ModifyAttribute" alt="" coords="315,1740,501,1767"/>
+<area shape="rect" id="node49" href="$da/d25/classAgentXmppChannel.html#abba494f651224db6f3bde4c75fdb4c2a" title="AgentXmppChannel::end\l_of_rib_tx_timer" alt="" coords="317,1791,499,1833"/>
+<area shape="rect" id="node50" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="331,1857,485,1884"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="625,12,745,39"/>
+<area shape="rect" id="node6" href="$dc/dff/classOperDB.html#a010101c0d735082d10e628e2fa414785" title="OperDB::vxlan_routing\l_manager" alt="" coords="601,63,770,105"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="636,129,735,156"/>
+<area shape="rect" id="node9" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="589,180,781,207"/>
+<area shape="rect" id="node11" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="604,231,767,273"/>
+<area shape="rect" id="node12" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title="XmppXmlImplFactory\l::GetXmlImpl" alt="" coords="604,297,767,338"/>
+<area shape="rect" id="node13" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title="XmlBase::LoadDoc" alt="" coords="613,363,757,389"/>
+<area shape="rect" id="node17" href="$d1/db0/classEcmpLoadBalance.html#a62cf6255caefec76a79a827a5009dc78" title="EcmpLoadBalance::AllSet" alt="" coords="592,413,779,440"/>
+<area shape="rect" id="node18" href="$d1/db0/classEcmpLoadBalance.html#af5940a5963545a364d55b3961b739876" title="EcmpLoadBalance::GetString\lVector" alt="" coords="580,465,791,506"/>
+<area shape="rect" id="node26" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="615,703,756,729"/>
+<area shape="rect" id="node27" href="$d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="595,753,776,780"/>
+<area shape="rect" id="node28" href="$d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="577,804,794,831"/>
+<area shape="rect" id="node38" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="625,1537,746,1564"/>
 </map>

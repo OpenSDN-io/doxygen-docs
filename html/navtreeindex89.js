@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d5/df5/structVrfKSyncObject_1_1VrfState.html#aa2d968b9adaf9e3ab2e9fdd53d8e4c89":[2,0,1868,0,2],
 "d5/df5/structVrfKSyncObject_1_1VrfState.html#aa4a3355ee69ec4101eba4bf62c3f313b":[2,0,1868,0,3],
 "d5/df5/structVrfKSyncObject_1_1VrfState.html#ad44e82d0344ccfc7f1db2291bc2cb644":[2,0,1868,0,4],
 "d5/df5/structVrfKSyncObject_1_1VrfState.html#ad7658c25623fbf28a3cae05075d04e60":[2,0,1868,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a29eecdfe419d381af0c07d5476b986a1":[2,0,11,111,11],
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a2aebe005d5e0098de5b8b8f3edfd6572":[2,0,11,111,38],
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a314af7b0400b519a5c20838f161a2057":[2,0,11,111,32],
-"d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a348e87431d9e46cd5b2963be97cd78e8":[2,0,11,111,24],
-"d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a3d1048771b64aa69748699dd3130fa6d":[2,0,11,111,6]
+"d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a348e87431d9e46cd5b2963be97cd78e8":[2,0,11,111,24]
 };

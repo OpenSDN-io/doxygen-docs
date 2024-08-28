@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d6/d40/agent__stats__collector_8h.html":[3,0,40],
 "d6/d40/agent__stats__collector_8h_source.html":[3,0,40],
 "d6/d40/bgp__router_8h.html":[3,0,166],
 "d6/d40/bgp__router_8h.html#a0590f52e0e887b92cc5de4e01a2d067c":[3,0,166,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d6/d5e/acl__entry__spec_8h.html#a763f6f94ac7981a059293e13a35929a1a14be5bd58406c94aefa8ef452857a432":[3,0,5,9,1],
 "d6/d5e/acl__entry__spec_8h.html#a763f6f94ac7981a059293e13a35929a1a3eeb63fde95a1318f533455d8f607e77":[3,0,5,9,2],
 "d6/d5e/acl__entry__spec_8h.html#a763f6f94ac7981a059293e13a35929a1a75c3ed5083592b3dd736ff3e870aadd2":[3,0,5,9,0],
-"d6/d5e/acl__entry__spec_8h_source.html":[3,0,5],
-"d6/d5f/sandesh__ksync_8cc.html":[3,0,1024]
+"d6/d5e/acl__entry__spec_8h_source.html":[3,0,5]
 };

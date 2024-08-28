@@ -27,6 +27,7 @@ var classRoutePathReplicator =
     [ "server", "d3/dd9/classRoutePathReplicator.html#ae0f1c4f6cb015bbe0835ed7989a9cef2", null ],
     [ "UnregisterTables", "d3/dd9/classRoutePathReplicator.html#aab2c78c5c953f3beb77293b06da9ae61", null ],
     [ "UnregisterTableState", "d3/dd9/classRoutePathReplicator.html#a63bc91dca432cf8ca22fb39d2f4bb4d9", null ],
+    [ "BGPaaSRDTest", "d3/dd9/classRoutePathReplicator.html#a834d0938a3c9508a0ee29b85e9d963f6", null ],
     [ "ReplicationTest", "d3/dd9/classRoutePathReplicator.html#a39fb31cf51f7fa041e39876b3dff1509", null ],
     [ "RtReplicated", "d3/dd9/classRoutePathReplicator.html#a00b7d2b92950b777f49f4f698a67199a", null ],
     [ "TableState", "d3/dd9/classRoutePathReplicator.html#a60094acbc00fa0082519902bc7a60f05", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"da/d9b/structVmInterfaceConfigData.html#a361521645893bc79c12736ff8a2f6e8d":[2,0,1796,28],
 "da/d9b/structVmInterfaceConfigData.html#a38703629b2a7870e3ff8b6793210af07":[2,0,1796,38],
 "da/d9b/structVmInterfaceConfigData.html#a3e77689060d312b9e79a607f52b1b212":[2,0,1796,56],
 "da/d9b/structVmInterfaceConfigData.html#a3fe773363f237f36f9d47f0f76ba8131":[2,0,1796,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "da/da5/classKSyncVxlanPortObject.html#a0e81a55c2dc65e7b581f5ea3927f78ca":[2,0,1047,4],
 "da/da5/classKSyncVxlanPortObject.html#a146c59d22dbea7a48f8a4f2033ab4b7b":[2,0,1047,0],
 "da/da5/classKSyncVxlanPortObject.html#a2ae5011cae47f32e7a3c80fa021ede1c":[2,0,1047,1],
-"da/da5/classKSyncVxlanPortObject.html#a448c33ea6d4e8c3477c9730ad458d9de":[2,0,1047,2],
-"da/da5/classKSyncVxlanPortObject.html#a8b722d84a071fc0afe42e0595746e02d":[2,0,1047,3]
+"da/da5/classKSyncVxlanPortObject.html#a448c33ea6d4e8c3477c9730ad458d9de":[2,0,1047,2]
 };

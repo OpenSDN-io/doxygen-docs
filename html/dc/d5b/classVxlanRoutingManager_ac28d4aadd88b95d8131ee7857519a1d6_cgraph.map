@@ -1,51 +1,51 @@
 <map id="VxlanRoutingManager::XmppAdvertiseInetTunnel" name="VxlanRoutingManager::XmppAdvertiseInetTunnel">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1040,5,1189,32"/>
-<area shape="rect" id="node3" href="$dc/d5b/classVxlanRoutingManager.html#a635b41495474cc8910591f960dd72ded" title="XMPP Advertising functions. " alt="" coords="251,310,458,351"/>
-<area shape="rect" id="node27" href="$d0/daf/classTunnelNH.html#ab6838feedf038e489355b779bfe2acf5" title="TunnelNH::GetDip" alt="" coords="286,376,423,403"/>
-<area shape="rect" id="node28" href="$d0/daf/classTunnelNH.html#a61636ba22008ee5960ff323a3cc063e1" title="TunnelNH::rewrite_dmac" alt="" coords="264,427,445,453"/>
-<area shape="rect" id="node29" href="$da/dcd/classInetUnicastAgentRouteTable.html#a3f792e32a6c9c9c2c3ffa2f90cc32a4e" title="InetUnicastAgentRouteTable\l::AddEvpnRoutingRoute" alt="" coords="252,529,457,570"/>
-<area shape="rect" id="node30" href="$dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="523,478,680,519"/>
-<area shape="rect" id="node44" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="285,595,424,621"/>
-<area shape="rect" id="node45" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="264,645,445,672"/>
-<area shape="rect" id="node46" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="253,696,456,723"/>
-<area shape="rect" id="node47" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="271,747,438,789"/>
-<area shape="rect" id="node48" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="283,813,427,840"/>
-<area shape="rect" id="node49" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="279,864,430,891"/>
-<area shape="rect" id="node50" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="267,915,442,941"/>
-<area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a4811cdd3e576e70973e36a5893aed468" title="Checks whether IP prefixes correspond to external EVPN Type5 tunnel routes. " alt="" coords="519,310,683,351"/>
-<area shape="rect" id="node13" href="$d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="527,376,676,403"/>
-<area shape="rect" id="node15" href="$dc/d5b/classVxlanRoutingManager.html#aa701f1ff9746765fdb61db82a4dbb803" title="Returns the MAC address for the IP of a given neighbouring compute. " alt="" coords="519,245,683,286"/>
-<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="514,427,689,453"/>
-<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="538,193,665,220"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="760,267,936,293"/>
-<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="769,317,927,344"/>
-<area shape="rect" id="node12" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="759,369,937,410"/>
-<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1021,375,1208,417"/>
-<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1021,441,1208,482"/>
-<area shape="rect" id="node10" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1012,310,1217,351"/>
-<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1316,416,1492,443"/>
-<area shape="rect" id="node11" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title="Patricia::Tree::LPMFind" alt="" coords="1321,317,1487,344"/>
-<area shape="rect" id="node14" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="801,435,895,461"/>
-<area shape="rect" id="node16" href="$dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="745,136,951,192"/>
-<area shape="rect" id="node24" href="$d0/daf/classTunnelNH.html#a29d4d33d46d836e8014f15feb2b8b57b" title="TunnelNH::GetDmac" alt="" coords="771,216,925,243"/>
-<area shape="rect" id="node17" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1044,208,1185,235"/>
-<area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1052,259,1177,285"/>
-<area shape="rect" id="node19" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1059,56,1171,83"/>
-<area shape="rect" id="node20" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1334,107,1474,133"/>
-<area shape="rect" id="node21" href="$d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="1001,157,1229,184"/>
-<area shape="rect" id="node22" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1277,157,1531,184"/>
-<area shape="rect" id="node23" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="1323,208,1485,235"/>
-<area shape="rect" id="node31" href="$dc/d2b/classAgentRouteTable.html#a2a56da1cb1d95bba675a444a2d1b456c" title="AgentRouteTable::Process" alt="" coords="507,544,696,571"/>
-<area shape="rect" id="node32" href="$dc/d2b/classAgentRouteTable.html#a50d9519550f0502381cf5e42e9a83218" title="AgentRouteTable::agent" alt="" coords="760,489,936,516"/>
-<area shape="rect" id="node33" href="$d8/dfe/classAgent.html#a6d386e8bb92e88e2c0e346903028ab43" title="Agent::ConcurrencyCheck" alt="" coords="753,540,943,567"/>
-<area shape="rect" id="node34" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="751,591,945,617"/>
-<area shape="rect" id="node38" href="$df/d9e/classDBTablePartition.html#a137537860d09631f824dfa386e75faa9" title="DBTablePartition::Process" alt="" coords="755,708,941,735"/>
-<area shape="rect" id="node35" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1053,540,1176,567"/>
-<area shape="rect" id="node37" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1057,591,1173,617"/>
-<area shape="rect" id="node36" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1333,540,1475,567"/>
-<area shape="rect" id="node39" href="$df/d9e/classDBTablePartition.html#ad2d8bc96b30dc1c6cc4fb81435b98280" title="DBTablePartition::table" alt="" coords="1029,759,1200,785"/>
-<area shape="rect" id="node40" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1313,733,1495,760"/>
-<area shape="rect" id="node41" href="$d7/df2/classDBTableBase.html#a54daa0c57733e5b639fcfa9008b916e5" title="DBTableBase::incr_input\l_count" alt="" coords="1025,642,1204,683"/>
-<area shape="rect" id="node42" href="$d5/d0a/classDBTable.html#a429b962cf1e5dfb24a6a942b5574a166" title="DBTable::Input" alt="" coords="1057,809,1173,836"/>
-<area shape="rect" id="node43" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="1323,809,1485,836"/>
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1040,42,1189,68"/>
+<area shape="rect" id="node3" href="$dc/d5b/classVxlanRoutingManager.html#a635b41495474cc8910591f960dd72ded" title="XMPP Advertising functions. " alt="" coords="251,161,458,202"/>
+<area shape="rect" id="node26" href="$d0/daf/classTunnelNH.html#ab6838feedf038e489355b779bfe2acf5" title="TunnelNH::GetDip" alt="" coords="286,227,423,254"/>
+<area shape="rect" id="node27" href="$d0/daf/classTunnelNH.html#a61636ba22008ee5960ff323a3cc063e1" title="TunnelNH::rewrite_dmac" alt="" coords="264,278,445,304"/>
+<area shape="rect" id="node28" href="$da/dcd/classInetUnicastAgentRouteTable.html#a3f792e32a6c9c9c2c3ffa2f90cc32a4e" title="InetUnicastAgentRouteTable\l::AddEvpnRoutingRoute" alt="" coords="252,380,457,421"/>
+<area shape="rect" id="node29" href="$dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="523,350,680,392"/>
+<area shape="rect" id="node44" href="$d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="285,446,424,472"/>
+<area shape="rect" id="node45" href="$d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="264,496,445,523"/>
+<area shape="rect" id="node46" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="253,547,456,574"/>
+<area shape="rect" id="node47" href="$d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="271,598,438,640"/>
+<area shape="rect" id="node48" href="$d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="283,664,427,691"/>
+<area shape="rect" id="node49" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="279,715,430,742"/>
+<area shape="rect" id="node50" href="$d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="267,766,442,792"/>
+<area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="527,82,676,108"/>
+<area shape="rect" id="node6" href="$dc/d5b/classVxlanRoutingManager.html#aa701f1ff9746765fdb61db82a4dbb803" title="Returns the MAC address for the IP of a given neighbouring compute. " alt="" coords="519,250,683,292"/>
+<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="514,143,689,170"/>
+<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="538,194,665,220"/>
+<area shape="rect" id="node5" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="801,76,895,103"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="760,258,936,284"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="769,426,927,452"/>
+<area shape="rect" id="node14" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="759,309,937,350"/>
+<area shape="rect" id="node15" href="$dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="745,178,951,234"/>
+<area shape="rect" id="node23" href="$d0/daf/classTunnelNH.html#a29d4d33d46d836e8014f15feb2b8b57b" title="TunnelNH::GetDmac" alt="" coords="771,375,925,402"/>
+<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1021,481,1208,522"/>
+<area shape="rect" id="node11" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1021,416,1208,457"/>
+<area shape="rect" id="node12" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1012,350,1217,392"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1316,456,1492,483"/>
+<area shape="rect" id="node13" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title="Patricia::Tree::LPMFind" alt="" coords="1321,358,1487,384"/>
+<area shape="rect" id="node16" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1044,244,1185,271"/>
+<area shape="rect" id="node17" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1052,295,1177,322"/>
+<area shape="rect" id="node18" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1059,92,1171,119"/>
+<area shape="rect" id="node19" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1334,143,1474,170"/>
+<area shape="rect" id="node20" href="$d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="1001,194,1229,220"/>
+<area shape="rect" id="node21" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1277,244,1531,271"/>
+<area shape="rect" id="node22" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="1323,194,1485,220"/>
+<area shape="rect" id="node30" href="$dc/d2b/classAgentRouteTable.html#a2a56da1cb1d95bba675a444a2d1b456c" title="AgentRouteTable::Process" alt="" coords="507,538,696,564"/>
+<area shape="rect" id="node31" href="$dc/d2b/classAgentRouteTable.html#a50d9519550f0502381cf5e42e9a83218" title="AgentRouteTable::agent" alt="" coords="760,487,936,514"/>
+<area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a6d386e8bb92e88e2c0e346903028ab43" title="Agent::ConcurrencyCheck" alt="" coords="753,538,943,564"/>
+<area shape="rect" id="node33" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="751,588,945,615"/>
+<area shape="rect" id="node37" href="$df/d9e/classDBTablePartition.html#a137537860d09631f824dfa386e75faa9" title="DBTablePartition::Process" alt="" coords="755,707,941,734"/>
+<area shape="rect" id="node34" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1053,598,1176,624"/>
+<area shape="rect" id="node36" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1057,547,1173,574"/>
+<area shape="rect" id="node35" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1333,598,1475,624"/>
+<area shape="rect" id="node38" href="$df/d9e/classDBTablePartition.html#ad2d8bc96b30dc1c6cc4fb81435b98280" title="DBTablePartition::table" alt="" coords="1029,766,1200,792"/>
+<area shape="rect" id="node39" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1313,694,1495,720"/>
+<area shape="rect" id="node40" href="$d7/df2/classDBTableBase.html#a54daa0c57733e5b639fcfa9008b916e5" title="DBTableBase::incr_input\l_count" alt="" coords="1025,700,1204,741"/>
+<area shape="rect" id="node41" href="$d5/d0a/classDBTable.html#a429b962cf1e5dfb24a6a942b5574a166" title="DBTable::Input" alt="" coords="1057,816,1173,843"/>
+<area shape="rect" id="node42" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="1323,842,1485,868"/>
+<area shape="rect" id="node43" href="$d5/d0a/classDBTable.html#a3502a50bdf438aaed77f174eba71b203" title="DBTable::OnChange" alt="" coords="1329,791,1479,818"/>
 </map>

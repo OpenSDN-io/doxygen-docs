@@ -1,5 +1,6 @@
 var NAVTREEINDEX111 =
 {
+"d7/d79/classQosQueue.html#a4f9c73cb85b3da9492e5901f95038282":[2,0,1388,2],
 "d7/d79/classQosQueue.html#a5389075037ad7cbd790b6831e52e088f":[2,0,1388,5],
 "d7/d79/classQosQueue.html#a54f1f85a9513620b5efd918d301bbdc7":[2,0,1388,22],
 "d7/d79/classQosQueue.html#a54fc835160084521f9152124629e5953":[2,0,1388,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX111 =
 "d7/d90/classBFD_1_1Server.html#af6a89254127dfd80dd4b8a95b28ecc66":[2,0,4,17,14],
 "d7/d90/classBFD_1_1Server.html#afa4b8ad835418f32fe123ac0bd2a0193":[2,0,4,17,18],
 "d7/d90/classRemotePhysicalInterface.html":[2,0,1402],
-"d7/d90/classRemotePhysicalInterface.html#a064e6d7ada19de929798303806eda8c3":[2,0,1402,9],
-"d7/d90/classRemotePhysicalInterface.html#a1d9cec425ae0bda931adf4dcebc5285e":[2,0,1402,5]
+"d7/d90/classRemotePhysicalInterface.html#a064e6d7ada19de929798303806eda8c3":[2,0,1402,9]
 };

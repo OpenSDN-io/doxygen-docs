@@ -1,5 +1,6 @@
 var NAVTREEINDEX131 =
 {
+"d8/df9/structStatsManager_1_1InterfaceStats.html#acfbab5d155552da752ea156cd60dccae":[2,0,1643,1,6],
 "d8/df9/structStatsManager_1_1InterfaceStats.html#ad66e695e4c8c218def4c68f867aadba4":[2,0,1643,1,17],
 "d8/df9/structStatsManager_1_1InterfaceStats.html#aedf966e0d455831b3048a940cbf3dcb4":[2,0,1643,1,2],
 "d8/df9/structStatsManager_1_1InterfaceStats.html#af542b140ee9b004ef6c0725157cdc7d3":[2,0,1643,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX131 =
 "d8/dfe/classAgent.html#a5b86d939ce0c9bb15b60f0423a96abd0":[2,0,71,285],
 "d8/dfe/classAgent.html#a5ce2c29913cb75b5a3787c6889f3cffc":[2,0,71,126],
 "d8/dfe/classAgent.html#a5d0f4de03588d2a2e912c7f5c4710835":[2,0,71,610],
-"d8/dfe/classAgent.html#a5e43f1c4cc14012251384928f4944259":[2,0,71,461],
-"d8/dfe/classAgent.html#a5ec43a49739c4bc9fb2e4fae36281486":[2,0,71,597]
+"d8/dfe/classAgent.html#a5e43f1c4cc14012251384928f4944259":[2,0,71,461]
 };

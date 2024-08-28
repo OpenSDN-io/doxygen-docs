@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d8/dde/classDstPortMatch.html#a7c023a5d7717659dac6881e6596bc3db":[2,0,616,1],
 "d8/dde/classDstPortMatch.html#afad3afc9221f433ea8fd6cfe3cfd42b0":[2,0,616,2],
 "d8/ddf/classBgpPrefixAddress.html":[2,0,401],
 "d8/ddf/classBgpPrefixAddress.html#a53fe3ea236fd23f48ea537282e42537a":[2,0,401,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d8/df9/structStatsManager_1_1InterfaceStats.html#a8d8a3f21ff1b3cf32402b4302d9ecc20":[2,0,1643,1,1],
 "d8/df9/structStatsManager_1_1InterfaceStats.html#ac0a5a168772e317c4322146150845f71":[2,0,1643,1,7],
 "d8/df9/structStatsManager_1_1InterfaceStats.html#ac11e87ea67e835db0b7809241ce9642c":[2,0,1643,1,16],
-"d8/df9/structStatsManager_1_1InterfaceStats.html#ac139287ba57fd500d75b209211357703":[2,0,1643,1,20],
-"d8/df9/structStatsManager_1_1InterfaceStats.html#acfbab5d155552da752ea156cd60dccae":[2,0,1643,1,6]
+"d8/df9/structStatsManager_1_1InterfaceStats.html#ac139287ba57fd500d75b209211357703":[2,0,1643,1,20]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"df/dc1/classBgpPathAttributeClusterListData.html#a757de6d7a79e7501cd0e39608ed8ea8a":[2,0,352,0],
 "df/dc1/classBgpPathAttributeClusterListData.html#a80e5f425f63bf9a36c9a9b883421976b":[2,0,352,1],
 "df/dc1/classSandeshPortSubscribeTask.html":[2,0,1514],
 "df/dc1/classSandeshPortSubscribeTask.html#a07f30ddabbe30cd2ad43ae03f16ebdb0":[2,0,1514,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "df/ddb/classPeerCloseManager.html#abdde28b5715847243593f352ccee86c9a9146dfd8e4ab1f9d5d2e83823225d53d":[2,0,1296,2,6],
 "df/ddb/classPeerCloseManager.html#abdde28b5715847243593f352ccee86c9ae866fcebcb762ecef4172cd32bd01427":[2,0,1296,2,4],
 "df/ddb/classPeerCloseManager.html#abdde28b5715847243593f352ccee86c9af7c0f6563c5f6dc1467c9e2dde605add":[2,0,1296,2,2],
-"df/ddb/classPeerCloseManager.html#abf261dd6f7fd954e609997b0287da684":[2,0,1296,60]
+"df/ddb/classPeerCloseManager.html#abf261dd6f7fd954e609997b0287da684":[2,0,1296,60],
+"df/ddb/classPeerCloseManager.html#ac53c055f41838f38a11c455ad45d35cc":[2,0,1296,32]
 };
