@@ -1,0 +1,51 @@
+<map id="KSyncObject::InitStaleEntryCleanup" name="KSyncObject::InitStaleEntryCleanup">
+<area shape="rect" id="node2" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="276,5,481,32"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1863,157,2065,184"/>
+<area shape="rect" id="node7" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="329,132,428,159"/>
+<area shape="rect" id="node29" href="$d6/d2d/classKSyncObject.html#a1c6e727e211d65971025bf4a979ef1ff" title="KSyncObject::StaleEntryCleanupCb" alt="" coords="254,284,503,311"/>
+<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="571,5,757,32"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2120,157,2336,184"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2385,150,2575,191"/>
+<area shape="rect" id="node8" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="884,247,983,273"/>
+<area shape="rect" id="node9" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="603,157,725,184"/>
+<area shape="rect" id="node10" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="581,107,747,133"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="844,183,1023,209"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1091,505,1288,546"/>
+<area shape="rect" id="node13" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1364,309,1521,336"/>
+<area shape="rect" id="node14" href="$d6/d9c/classTask.html#a0161a7d110d066b7ba16ed4f44ec1bc8" title="Task::GetSeqno" alt="" coords="1381,360,1504,387"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a" title="Task::SetSeqNo" alt="" coords="1381,411,1504,437"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1857,512,2071,539"/>
+<area shape="rect" id="node17" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1641,157,1764,184"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1598,461,1807,488"/>
+<area shape="rect" id="node19" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1619,259,1786,285"/>
+<area shape="rect" id="node20" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="1359,664,1526,691"/>
+<area shape="rect" id="node21" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1363,715,1523,741"/>
+<area shape="rect" id="node22" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title="TaskEntry::AddToWaitQ" alt="" coords="1617,563,1788,589"/>
+<area shape="rect" id="node23" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ. " alt="" coords="1345,867,1541,893"/>
+<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1623,765,1782,792"/>
+<area shape="rect" id="node24" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1614,867,1791,893"/>
+<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title="TaskGroup::DeferOnPolicyFail" alt="" coords="1336,613,1549,640"/>
+<area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title="TaskEntry::DeferOnPolicyFail" alt="" coords="1339,816,1546,843"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="Starts a task. If there are more entries in waitq_ add them to deferq_. " alt="" coords="1370,208,1515,235"/>
+<area shape="rect" id="node30" href="$dc/df2/classKSyncEntry.html#a827a409b274de5b5ce33c170ea62450b" title="KSyncEntry::StaleTimerExpired" alt="" coords="553,309,775,336"/>
+<area shape="rect" id="node31" href="$d6/d2d/classKSyncObject.html#af93a5cc589e385be198852bd733b18c8" title="KSyncObject::Delete" alt="" coords="587,588,741,615"/>
+<area shape="rect" id="node50" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title="Timer::Reschedule" alt="" coords="593,259,735,285"/>
+<area shape="rect" id="node32" href="$d6/d2d/classKSyncObject.html#a46ac87474cf448071fb88444996ff00e" title="KSyncObject::ClearStale" alt="" coords="844,588,1023,615"/>
+<area shape="rect" id="node33" href="$d6/d2d/classKSyncObject.html#a63708f65a95e9f715e2a5120ef6f9474" title="KSyncObject::SafeNotifyEvent" alt="" coords="824,1095,1043,1121"/>
+<area shape="rect" id="node34" href="$d6/d2d/classKSyncObject.html#aaa1c3c48db6fe5286fbada4e2d6a3703" title="KSyncObject::NotifyEvent" alt="" coords="1095,1297,1284,1324"/>
+<area shape="rect" id="node35" href="$dc/df2/classKSyncEntry.html#aa1c57be840f1f80786dbeacafe5d905d" title="KSyncEntry::GetState" alt="" coords="1363,1440,1523,1467"/>
+<area shape="rect" id="node36" href="$d6/d2d/classKSyncObject.html#a360fd1838fc6d846f532398a55c27bbe" title="KSyncObject::DoEventTrace" alt="" coords="1342,1491,1543,1517"/>
+<area shape="rect" id="node37" href="$dc/df2/classKSyncEntry.html#a34b92021c562cc4a56f1417be0ed4832" title="KSyncEntry::ToString" alt="" coords="1365,1541,1520,1568"/>
+<area shape="rect" id="node38" href="$dc/df2/classKSyncEntry.html#a32890d96739ff2b67d392592dac53d07" title="KSyncEntry::StateString" alt="" coords="1355,1592,1530,1619"/>
+<area shape="rect" id="node39" href="$dc/df2/classKSyncEntry.html#a5a0f556bf2d25aa58b33a14223af5b74" title="KSyncEntry::EventString" alt="" coords="1353,1643,1532,1669"/>
+<area shape="rect" id="node40" href="$d6/d84/ksync__object_8cc.html#abee02d836c68a6f0a75f8cf746fd1067" title="KSyncSM_Init" alt="" coords="1388,1693,1497,1720"/>
+<area shape="rect" id="node41" href="$d6/d84/ksync__object_8cc.html#af60da96d52ee944d264cbc262bfa50ef" title="KSyncSM_Temp" alt="" coords="1381,968,1504,995"/>
+<area shape="rect" id="node42" href="$d6/d84/ksync__object_8cc.html#a8e2e0bf75f55b6436718f405d51f4105" title="KSyncSM_AddDefer" alt="" coords="1368,1019,1517,1045"/>
+<area shape="rect" id="node43" href="$d6/d84/ksync__object_8cc.html#a7929f4d12f30fc2a99c1765c2bf19aa0" title="KSyncSM_ChangeDefer" alt="" coords="1356,1069,1529,1096"/>
+<area shape="rect" id="node44" href="$d6/d84/ksync__object_8cc.html#add4af72437dbb61ac04a65d62dba8665" title="KSyncSM_InSync" alt="" coords="1377,1120,1508,1147"/>
+<area shape="rect" id="node45" href="$d6/d84/ksync__object_8cc.html#a55f96620478bf659e7f24e7595ec0d43" title="KSyncSM_SyncWait" alt="" coords="1369,1171,1517,1197"/>
+<area shape="rect" id="node46" href="$d6/d84/ksync__object_8cc.html#a328a485a168b96dcc7d9ed7ee878f0e3" title="KSyncSM_NeedSync" alt="" coords="1366,1221,1519,1248"/>
+<area shape="rect" id="node47" href="$d6/d84/ksync__object_8cc.html#a6980b612e1c2ba442343a30ba9002754" title="KSyncSM_DelPending_Sync" alt="" coords="1343,1272,1543,1299"/>
+<area shape="rect" id="node48" href="$d6/d84/ksync__object_8cc.html#a496dec315b089f19b30fb4b22ad1ac5c" title="KSyncSM_DelPending_Ref" alt="" coords="1347,1323,1538,1349"/>
+<area shape="rect" id="node49" href="$d6/d84/ksync__object_8cc.html#a5a719ca6a5928461a7591b64ced36481" title="KSyncSM_DelPending\l_DelAck" alt="" coords="1361,1374,1524,1415"/>
+</map>

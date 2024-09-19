@@ -5,7 +5,7 @@ var classAgentStatsCollector =
       [ "VrfStatsType", "d2/db9/classAgentStatsCollector.html#aef4b4f8e668c256a5e8a3cf0344c2f47a84ea663861a94746cc51c36684d3681c", null ],
       [ "DropStatsType", "d2/db9/classAgentStatsCollector.html#aef4b4f8e668c256a5e8a3cf0344c2f47a3d7362c6abd3deb04ce9b885d54c3cc7", null ]
     ] ],
-    [ "AgentStatsCollector", "d2/db9/classAgentStatsCollector.html#a28ce86f7fd82f8719038b73f06aedeb8", null ],
+    [ "AgentStatsCollector", "d2/db9/classAgentStatsCollector.html#a5ca190006f4bcffc1c30b8ef3fe689f3", null ],
     [ "~AgentStatsCollector", "d2/db9/classAgentStatsCollector.html#af71d95ccfcfdf6938d5f075a59ed2d6b", null ],
     [ "agent", "d2/db9/classAgentStatsCollector.html#a109ea5c0a2502ba0355bd22be5de1bc8", null ],
     [ "AllocateIoContext", "d2/db9/classAgentStatsCollector.html#a1a7a03b09371eba8665380886c01538f", null ],

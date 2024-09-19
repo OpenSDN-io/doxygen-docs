@@ -2,7 +2,7 @@ var structtask__timer__ =
 [
     [ "agent_timer_map", "d5/de7/structtask__timer__.html#aaa4e9f4eca065340fbc5c9d032200d21", null ],
     [ "callback", "d5/de7/structtask__timer__.html#adac1168f2aacea8e58ea89117ca1742a", null ],
-    [ "deleted_entry", "d5/de7/structtask__timer__.html#a5df7b86db3e0acc501257c81a706bc61", null ],
+    [ "deleted_entry", "d5/de7/structtask__timer__.html#ab0826bde5fca1b5d6e1ace38776c0bef", null ],
     [ "oneshot", "d5/de7/structtask__timer__.html#a11b9b2f8445903c6de6f96948c38c32a", null ],
     [ "rescheduled", "d5/de7/structtask__timer__.html#a56bbd714dbfa72264da67f45de6e580e", null ],
     [ "tdata", "d5/de7/structtask__timer__.html#a718c147c0729802a2aecbe250aaf5895", null ],

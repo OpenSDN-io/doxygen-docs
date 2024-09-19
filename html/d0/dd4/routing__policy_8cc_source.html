@@ -179,7 +179,7 @@ $(document).ready(function(){initNavTree('d0/dd4/routing__policy_8cc_source.html
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;        <span class="keywordflow">return</span> policy;</div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    }</div>
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    policy = BgpObjectFactory::Create&lt;RoutingPolicy&gt;(</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    policy = BgpStaticObjectFactory::Create&lt;RoutingPolicy&gt;(</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;        config-&gt;<a class="code" href="../../d4/dbb/classBgpRoutingPolicyConfig.html#aabd426e00e4efc67c58f3db77bd2ce52">name</a>(), <a class="code" href="../../d9/d8d/classRoutingPolicyMgr.html#a22983fd4ceb1f76c7e0f7a400ea3adc4">server_</a>, <span class="keyword">this</span>, config);</div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <a class="code" href="../../d9/d8d/classRoutingPolicyMgr.html#a521f2bc61ce91ba0379d2e6fa542006a">routing_policies_</a>.insert(std::make_pair(config-&gt;<a class="code" href="../../d4/dbb/classBgpRoutingPolicyConfig.html#aabd426e00e4efc67c58f3db77bd2ce52">name</a>(), policy));</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    policy-&gt;<a class="code" href="../../dc/d96/classRoutingPolicy.html#a9749e34e72e602d725645d4f3a889888">ProcessConfig</a>();</div>

@@ -2,7 +2,7 @@ var classDhcpLeaseDb =
 [
     [ "DhcpLease", "db/df4/structDhcpLeaseDb_1_1DhcpLease.html", "db/df4/structDhcpLeaseDb_1_1DhcpLease" ],
     [ "Bitmap", "d9/d2d/classDhcpLeaseDb.html#ab78c34a019f9a90c885d0b8383d8ee23", null ],
-    [ "DhcpLeaseDb", "d9/d2d/classDhcpLeaseDb.html#afeb8a87731593979bdedf3b208bb75ec", null ],
+    [ "DhcpLeaseDb", "d9/d2d/classDhcpLeaseDb.html#a2d1a3474920d6dd13958bf74b39a8928", null ],
     [ "~DhcpLeaseDb", "d9/d2d/classDhcpLeaseDb.html#aba37d7af147939b072420d2f8fedecba", null ],
     [ "AddressToIndex", "d9/d2d/classDhcpLeaseDb.html#a849ecea08e5534beb3a2e0481d373097", null ],
     [ "Allocate", "d9/d2d/classDhcpLeaseDb.html#a6041265267626ab884bd68778425bc07", null ],

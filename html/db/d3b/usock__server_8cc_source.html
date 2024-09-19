@@ -233,7 +233,7 @@ $(document).ready(function(){initNavTree('db/d3b/usock__server_8cc_source.html',
 <div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;}</div>
 <div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;</div>
 <div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;UnixDomainSocketServer::UnixDomainSocketServer(</div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;        boost::asio::io_service *io, <span class="keyword">const</span> std::string &amp;file)</div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;        boost::asio::io_context *io, <span class="keyword">const</span> std::string &amp;file)</div>
 <div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;  : io_service_(io),</div>
 <div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    acceptor_(*io, boost::asio::local::stream_protocol::endpoint(file)),</div>
 <div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;    session_idspace_(0) {</div>

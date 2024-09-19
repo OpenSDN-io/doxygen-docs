@@ -1,12 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d0/d70/classRoutingPolicyAction.html" title="RoutingPolicyAction" alt="" coords="6,81,157,108"/>
-<area shape="rect" id="node2" href="$d3/d14/classRoutingPolicyAcceptAction.html" title="RoutingPolicyAcceptAction" alt="" coords="213,5,408,32"/>
-<area shape="rect" id="node3" href="$d0/d36/classRoutingPolicyNexTermAction.html" title="RoutingPolicyNexTermAction" alt="" coords="206,56,415,83"/>
-<area shape="rect" id="node4" href="$d9/d74/classRoutingPolicyRejectAction.html" title="RoutingPolicyRejectAction" alt="" coords="215,107,406,133"/>
-<area shape="rect" id="node5" href="$da/d58/classRoutingPolicyUpdateAction.html" title="RoutingPolicyUpdateAction" alt="" coords="211,157,410,184"/>
-<area shape="rect" id="node6" href="$d8/d34/classUpdateAsPath.html" title="UpdateAsPath" alt="" coords="491,56,605,83"/>
-<area shape="rect" id="node7" href="$d4/d99/classUpdateCommunity.html" title="UpdateCommunity" alt="" coords="475,107,621,133"/>
-<area shape="rect" id="node8" href="$d3/dbf/classUpdateExtCommunity.html" title="UpdateExtCommunity" alt="" coords="465,157,631,184"/>
-<area shape="rect" id="node9" href="$d5/dd2/classUpdateLocalPref.html" title="UpdateLocalPref" alt="" coords="483,208,613,235"/>
-<area shape="rect" id="node10" href="$d2/d28/classUpdateMed.html" title="UpdateMed" alt="" coords="500,259,596,285"/>
+<area shape="rect" id="node1" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="6,5,157,32"/>
 </map>

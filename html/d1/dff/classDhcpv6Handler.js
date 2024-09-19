@@ -3,7 +3,7 @@ var classDhcpv6Handler =
     [ "Dhcpv6IaData", "d7/d6a/structDhcpv6Handler_1_1Dhcpv6IaData.html", "d7/d6a/structDhcpv6Handler_1_1Dhcpv6IaData" ],
     [ "Dhcpv6OptionHandler", "de/d4c/structDhcpv6Handler_1_1Dhcpv6OptionHandler.html", "de/d4c/structDhcpv6Handler_1_1Dhcpv6OptionHandler" ],
     [ "Duid", "d1/dff/classDhcpv6Handler.html#a54bdf08ffbe87603277bc512f3758126", null ],
-    [ "Dhcpv6Handler", "d1/dff/classDhcpv6Handler.html#a312faa53d140c8b963c725358e26589f", null ],
+    [ "Dhcpv6Handler", "d1/dff/classDhcpv6Handler.html#a008dd2b58c8c10d6d0f59c5c525b839b", null ],
     [ "~Dhcpv6Handler", "d1/dff/classDhcpv6Handler.html#a8dd1f0a8e6d9f5be56d2f6c66f47bb8b", null ],
     [ "AddDomainNameOption", "d1/dff/classDhcpv6Handler.html#a89bdba4213dc9c1298f26f93e37beed3", null ],
     [ "AddIP", "d1/dff/classDhcpv6Handler.html#afff0e8b5f1810b61c632e3737267f547", null ],

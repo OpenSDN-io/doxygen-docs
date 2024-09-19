@@ -15,7 +15,7 @@ var classHttpClient =
     [ "DISALLOW_COPY_AND_ASSIGN", "d4/d6e/classHttpClient.html#a317dc465efa15aa7e81699ae8589b99c", null ],
     [ "GlobalInfo", "d4/d6e/classHttpClient.html#a30442a787ee04c3a20df3b6dc7a4a634", null ],
     [ "Init", "d4/d6e/classHttpClient.html#ae6f05a5b3265a7aa1c856c552093c8af", null ],
-    [ "io_service", "d4/d6e/classHttpClient.html#a62b70d41aeaf734619b3cb2b8d8f7d84", null ],
+    [ "io_service", "d4/d6e/classHttpClient.html#adab0f47077a9adca7da7177989023daa", null ],
     [ "IsErrorHard", "d4/d6e/classHttpClient.html#af27bd2df2a390dc0518a4697b531c706", null ],
     [ "ProcessEvent", "d4/d6e/classHttpClient.html#a8e473b2263ef2cdc24dce2f48eee1c52", null ],
     [ "RemoveConnection", "d4/d6e/classHttpClient.html#acf10e630c4af6a7da335b9cb934c31c3", null ],

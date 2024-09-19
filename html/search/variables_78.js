@@ -26,7 +26,7 @@ var searchData=
   ['xmpp_5fdns_5fserver_5fconnection_5fname_5fprefix_5f',['xmpp_dns_server_connection_name_prefix_',['../d8/dfe/classAgent.html#a6cee556e3fdd173f806c59a4be61f655',1,'Agent']]],
   ['xmpp_5fdns_5ftest_5fmode_5f',['xmpp_dns_test_mode_',['../d8/dfe/classAgent.html#a16bca71312656c3d1635a47c153bc629',1,'Agent']]],
   ['xmpp_5fhelper_5fenable_5f',['xmpp_helper_enable_',['../d7/d18/structGracefulRestartParameters.html#a799f0dcc810aa57f935e556b61eacd33',1,'GracefulRestartParameters']]],
-  ['xmpp_5fhold_5ftime',['xmpp_hold_time',['../dd/d0f/structFastConvergenceParameters.html#a867162c90cba6a43785690faa0b8b19f',1,'FastConvergenceParameters::xmpp_hold_time()'],['../d0/d8b/classXmppChannelConfig.html#a71b16efa83ce2d91f1f5462142ddfd40',1,'XmppChannelConfig::xmpp_hold_time()']]],
+  ['xmpp_5fhold_5ftime',['xmpp_hold_time',['../dd/d0f/structFastConvergenceParameters.html#a867162c90cba6a43785690faa0b8b19f',1,'FastConvergenceParameters::xmpp_hold_time()'],['../d0/d8b/classXmppChannelConfig.html#a444caf1ace745ef745a4ffa436c28dd1',1,'XmppChannelConfig::xmpp_hold_time()']]],
   ['xmpp_5fhold_5ftime_5f',['xmpp_hold_time_',['../d5/d70/classBgpGlobalSystemConfig.html#a8ea0a159ca3ce0dc9d08727311172c1a',1,'BgpGlobalSystemConfig']]],
   ['xmpp_5fid_5fstr_5f',['xmpp_id_str_',['../df/def/classErmVpnRoute.html#a1d66a072d5e201e9c7e08a8d76642578',1,'ErmVpnRoute::xmpp_id_str_()'],['../d1/d3a/classEvpnRoute.html#ac52939146b645f04750667df7c3f9fa5',1,'EvpnRoute::xmpp_id_str_()'],['../de/d0e/classMvpnRoute.html#addaca8c35fa0bc93c3d70700f58c0926',1,'MvpnRoute::xmpp_id_str_()']]],
   ['xmpp_5fin_5fmsgs_5f',['xmpp_in_msgs_',['../d0/d98/classAgentStats.html#a4cf3d48191cf026f62bb1f8197560191',1,'AgentStats']]],

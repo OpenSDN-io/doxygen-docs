@@ -1,10 +1,10 @@
 <map id="PeerCloseManager::PeerCloseManager" name="PeerCloseManager::PeerCloseManager">
 <area shape="rect" id="node2" href="$da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b" title="IPeerClose::peer" alt="" coords="308,5,436,32"/>
 <area shape="rect" id="node3" href="$dd/d38/classIPeer.html#aec870d4bd23076d7c0a787ec4ac40903" title="IPeer::server" alt="" coords="320,56,424,83"/>
-<area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="269,107,475,133"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a113713b1ad506591752876e74dd56ca1" title="BgpServer::ioservice" alt="" coords="294,191,450,217"/>
+<area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="269,107,475,133"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a14aa2a7a0dcf0db482a2c14a292bd390" title="BgpServer::ioservice" alt="" coords="294,191,450,217"/>
 <area shape="rect" id="node5" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="527,89,713,116"/>
 <area shape="rect" id="node7" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="547,141,693,182"/>
 <area shape="rect" id="node8" href="$de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5" title="TcpServer::event_manager" alt="" coords="523,207,717,233"/>
-<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="525,257,715,284"/>
+<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="525,257,715,284"/>
 </map>

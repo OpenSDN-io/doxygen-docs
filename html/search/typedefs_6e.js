@@ -20,6 +20,7 @@ var searchData=
   ['nexthopiterator',['NexthopIterator',['../db/d94/classNexthopDBServer.html#a8d8720afa7a91d8fb275f856842e0264',1,'NexthopDBServer']]],
   ['nexthoplist',['NextHopList',['../d0/da7/classRibOutAttr.html#a87f8d65686df166e08bf94e58e0bc981',1,'RibOutAttr::NextHopList()'],['../d9/df3/classNexthopDBClient.html#adfcd99133175205bd3dfbab92276e313',1,'NexthopDBClient::NexthopList()']]],
   ['nexthoplistiterator',['NexthopListIterator',['../d9/df3/classNexthopDBClient.html#a68f617dcde15c086083e775c74df6a81',1,'NexthopDBClient']]],
+  ['nexthopmanagerrec',['NexthopManagerRec',['../dd/dbe/agent__factory_8h.html#a1b1669ca408074dc05529914d15b06f5',1,'agent_factory.h']]],
   ['nexthoppathidlist',['NexthopPathIdList',['../d0/d2a/classStaticRoute.html#a1de9b3cc1c5bf32bd2c80ccfccb4a62e',1,'StaticRoute']]],
   ['nexthopptr',['NexthopPtr',['../d4/dd3/classNexthopDBEntry.html#a75024b7cdda9a71e57b5535205ebf998',1,'NexthopDBEntry']]],
   ['nexthopref',['NextHopRef',['../de/d9e/agent_8h.html#a7858b4c08664c57976c96dc26120a419',1,'agent.h']]],

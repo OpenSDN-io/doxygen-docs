@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d9/dd3/structInterfaceArpPathPreferenceInfo.html" title="InterfaceArpPathPreferenceInfo" alt="" coords="6,5,231,32"/>
+<area shape="rect" id="node1" href="$d4/d7f/classInstanceTask.html" title="InstanceTask" alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$d1/d26/classInstanceTaskExecvp.html" title="InstanceTaskExecvp" alt="" coords="161,5,314,32"/>
+<area shape="rect" id="node3" href="$d2/d19/classInstanceTaskMethod.html" title="InstanceTaskMethod" alt="" coords="160,56,315,83"/>
+<area shape="rect" id="node4" href="$dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html" title="LibvirtInstanceAdapter\l::DomainStartTask" alt="" coords="363,15,533,57"/>
+<area shape="rect" id="node5" href="$d4/d50/classLibvirtInstanceAdapter_1_1DomainStopTask.html" title="LibvirtInstanceAdapter\l::DomainStopTask" alt="" coords="363,81,533,122"/>
 </map>

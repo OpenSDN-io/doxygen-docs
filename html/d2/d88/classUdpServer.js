@@ -10,7 +10,7 @@ var classUdpServer =
       [ "SocketBindFailed", "d2/d88/classUdpServer.html#a4354aec08bc79b299a6595f46e9d8808a691b1db395b562b2f917aa745a4d3cf9", null ]
     ] ],
     [ "UdpServer", "d2/d88/classUdpServer.html#a29ef1024b92d8ffdaf86c7465958476c", null ],
-    [ "UdpServer", "d2/d88/classUdpServer.html#af022178fcd033059a0ed419011034ca6", null ],
+    [ "UdpServer", "d2/d88/classUdpServer.html#acb187bf2c741fe9ad8c7838534e9550b", null ],
     [ "~UdpServer", "d2/d88/classUdpServer.html#aef1871384fbc46ef425242be4474af3a", null ],
     [ "AllocateBuffer", "d2/d88/classUdpServer.html#a9c640a2dde7f274ebb6c8805419b4dd1", null ],
     [ "AllocateBuffer", "d2/d88/classUdpServer.html#a3303de1710b5b78e2bfce87aa213da65", null ],

@@ -16,7 +16,7 @@ var classXmppStateMachine =
     [ "ConnectTimerCancelled", "d2/db3/classXmppStateMachine.html#afb681691927137e41590ca17b28c35c7", null ],
     [ "ConnectTimerExpired", "d2/db3/classXmppStateMachine.html#a0dd8ba6efa198e0185f6d2e75bde447b", null ],
     [ "DeleteSession", "d2/db3/classXmppStateMachine.html#a34892f59f62a4b72e7b19619a65afd70", null ],
-    [ "DequeueEvent", "d2/db3/classXmppStateMachine.html#a9d4cf1d3b91db91baf360549a0da24c9", null ],
+    [ "DequeueEvent", "d2/db3/classXmppStateMachine.html#a4e40eec8acfaa893fdfe7cca8568e4ba", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d2/db3/classXmppStateMachine.html#ac32d4e6f374ca5c8221d56f059f59004", null ],
     [ "Enqueue", "d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3", null ],
     [ "get_connect_attempts", "d2/db3/classXmppStateMachine.html#a807a2bea6b60f5b10ebc821ac274210c", null ],

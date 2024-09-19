@@ -1,9 +1,9 @@
 var classIcmpProto =
 [
     [ "IcmpStats", "dd/dab/structIcmpProto_1_1IcmpStats.html", "dd/dab/structIcmpProto_1_1IcmpStats" ],
-    [ "IcmpProto", "d1/d41/classIcmpProto.html#a0869bd487812ac3727e5f5342989fa31", null ],
+    [ "IcmpProto", "d1/d41/classIcmpProto.html#adb549d6b2d72b0ce69e8d005ce10dc1f", null ],
     [ "~IcmpProto", "d1/d41/classIcmpProto.html#a0f63ac5831b5b345a6612cd987f2c5b7", null ],
-    [ "AllocProtoHandler", "d1/d41/classIcmpProto.html#a516190d5c93d5d98818d5bd9e42d8d30", null ],
+    [ "AllocProtoHandler", "d1/d41/classIcmpProto.html#ace406f8262d0dc38398075cb83167a0f", null ],
     [ "ClearStats", "d1/d41/classIcmpProto.html#aef27f33f340a500bbc081d130f6325a5", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d1/d41/classIcmpProto.html#aa108571ab0e096d473ffc77577126f18", null ],
     [ "GetStats", "d1/d41/classIcmpProto.html#a3ea9b477208192d57cc9862e0a8f2de2", null ],

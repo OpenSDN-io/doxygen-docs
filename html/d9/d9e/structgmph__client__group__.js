@@ -6,5 +6,5 @@ var structgmph__client__group__ =
     [ "client_group_group", "d9/d9e/structgmph__client__group__.html#a9e3b214c24808f7375054b4c8a989dce", null ],
     [ "client_group_key", "d9/d9e/structgmph__client__group__.html#a7ff691c3a5cb8380ba9ddde448ea0ddc", null ],
     [ "client_group_node", "d9/d9e/structgmph__client__group__.html#ab990d0913fa3b72e6fba8e0b57d7206f", null ],
-    [ "client_group_thread", "d9/d9e/structgmph__client__group__.html#a4c07e06fce1153f934ad14a304a96920", null ]
+    [ "client_group_thread", "d9/d9e/structgmph__client__group__.html#a128595b468c5556ca363e653671e6393", null ]
 ];

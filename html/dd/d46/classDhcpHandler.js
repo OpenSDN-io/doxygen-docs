@@ -2,7 +2,7 @@ var classDhcpHandler =
 [
     [ "DhcpRequestData", "dd/d3e/structDhcpHandler_1_1DhcpRequestData.html", "dd/d3e/structDhcpHandler_1_1DhcpRequestData" ],
     [ "Dhcpv4OptionHandler", "d9/d1f/structDhcpHandler_1_1Dhcpv4OptionHandler.html", "d9/d1f/structDhcpHandler_1_1Dhcpv4OptionHandler" ],
-    [ "DhcpHandler", "dd/d46/classDhcpHandler.html#a456070d59a7f1019edce66474e7d9479", null ],
+    [ "DhcpHandler", "dd/d46/classDhcpHandler.html#a64fef46e66b66be26129e61c08f53942", null ],
     [ "~DhcpHandler", "dd/d46/classDhcpHandler.html#ab9ec66a2ed9e2c40d98955ee1cd9db54", null ],
     [ "AddDomainNameOption", "dd/d46/classDhcpHandler.html#ac0ca05627307372599c9ef7e03b8676c", null ],
     [ "AddIP", "dd/d46/classDhcpHandler.html#a80ef49edc17c9a05f057591d687dba27", null ],

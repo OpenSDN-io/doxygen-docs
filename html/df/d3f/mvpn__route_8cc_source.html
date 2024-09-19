@@ -502,7 +502,7 @@ $(document).ready(function(){initNavTree('df/d3f/mvpn__route_8cc_source.html','.
 <div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;    <span class="keywordtype">string</span> temp_str = str.substr(pos1 + 1, *pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;    error_code rd_err;</div>
 <div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160;    prefix-&gt;<a class="code" href="../../dd/d42/classMvpnPrefix.html#af7ccc6e3819328bf6f61c11588d27d27">rd_</a> = <a class="code" href="../../dc/d73/classRouteDistinguisher.html#a9668cfed56ee6c36516946ee6127d20f">RouteDistinguisher::FromString</a>(temp_str, &amp;rd_err);</div>
-<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;    <span class="keywordflow">if</span> (rd_err != 0) {</div>
+<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;    <span class="keywordflow">if</span> (rd_err.failed()) {</div>
 <div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;            *errorp = rd_err;</div>
 <div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160;        }</div>
@@ -516,7 +516,7 @@ $(document).ready(function(){initNavTree('df/d3f/mvpn__route_8cc_source.html','.
 <div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;    <span class="keywordtype">string</span> temp_str = str.substr(pos1 + 1, string::npos);</div>
 <div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160;    error_code originator_err;</div>
 <div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;    prefix-&gt;<a class="code" href="../../dd/d42/classMvpnPrefix.html#aeb24d5ca7151f14a37332860cc881c9f">originator_</a> = Ip4Address::from_string(temp_str, originator_err);</div>
-<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;    <span class="keywordflow">if</span> (originator_err != 0) {</div>
+<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;    <span class="keywordflow">if</span> (originator_err.failed()) {</div>
 <div class="line"><a name="l00412"></a><span class="lineno">  412</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00413"></a><span class="lineno">  413</span>&#160;            *errorp = originator_err;</div>
 <div class="line"><a name="l00414"></a><span class="lineno">  414</span>&#160;        }</div>
@@ -537,7 +537,7 @@ $(document).ready(function(){initNavTree('df/d3f/mvpn__route_8cc_source.html','.
 <div class="line"><a name="l00429"></a><span class="lineno">  429</span>&#160;    <span class="keywordtype">string</span> temp_str = str.substr(pos1 + 1, *pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00430"></a><span class="lineno">  430</span>&#160;    error_code source_err;</div>
 <div class="line"><a name="l00431"></a><span class="lineno">  431</span>&#160;    prefix-&gt;<a class="code" href="../../dd/d42/classMvpnPrefix.html#ae3240ba18e4b8f43fb6e7d7ef1cb712d">source_</a> = Ip4Address::from_string(temp_str, source_err);</div>
-<div class="line"><a name="l00432"></a><span class="lineno">  432</span>&#160;    <span class="keywordflow">if</span> (source_err != 0) {</div>
+<div class="line"><a name="l00432"></a><span class="lineno">  432</span>&#160;    <span class="keywordflow">if</span> (source_err.failed()) {</div>
 <div class="line"><a name="l00433"></a><span class="lineno">  433</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00434"></a><span class="lineno">  434</span>&#160;            *errorp = source_err;</div>
 <div class="line"><a name="l00435"></a><span class="lineno">  435</span>&#160;        }</div>
@@ -563,7 +563,7 @@ $(document).ready(function(){initNavTree('df/d3f/mvpn__route_8cc_source.html','.
 <div class="line"><a name="l00455"></a><span class="lineno">  455</span>&#160;        temp_str = str.substr(pos1 + 1, *pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00456"></a><span class="lineno">  456</span>&#160;    error_code group_err;</div>
 <div class="line"><a name="l00457"></a><span class="lineno">  457</span>&#160;    prefix-&gt;<a class="code" href="../../dd/d42/classMvpnPrefix.html#a304f766085b11beb397d059828b6da7e">group_</a> = Ip4Address::from_string(temp_str, group_err);</div>
-<div class="line"><a name="l00458"></a><span class="lineno">  458</span>&#160;    <span class="keywordflow">if</span> (group_err != 0) {</div>
+<div class="line"><a name="l00458"></a><span class="lineno">  458</span>&#160;    <span class="keywordflow">if</span> (group_err.failed()) {</div>
 <div class="line"><a name="l00459"></a><span class="lineno">  459</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00460"></a><span class="lineno">  460</span>&#160;            *errorp = group_err;</div>
 <div class="line"><a name="l00461"></a><span class="lineno">  461</span>&#160;        }</div>
@@ -718,7 +718,7 @@ $(document).ready(function(){initNavTree('df/d3f/mvpn__route_8cc_source.html','.
 <div class="line"><a name="l00610"></a><span class="lineno">  610</span>&#160;        temp_str = str.substr(pos5 + 1, pos6 - pos5 - 1);</div>
 <div class="line"><a name="l00611"></a><span class="lineno">  611</span>&#160;        error_code originator_err;</div>
 <div class="line"><a name="l00612"></a><span class="lineno">  612</span>&#160;        <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> ip = Ip4Address::from_string(temp_str, originator_err);</div>
-<div class="line"><a name="l00613"></a><span class="lineno">  613</span>&#160;        <span class="keywordflow">if</span> (originator_err != 0) {</div>
+<div class="line"><a name="l00613"></a><span class="lineno">  613</span>&#160;        <span class="keywordflow">if</span> (originator_err.failed()) {</div>
 <div class="line"><a name="l00614"></a><span class="lineno">  614</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00615"></a><span class="lineno">  615</span>&#160;                *errorp = originator_err;</div>
 <div class="line"><a name="l00616"></a><span class="lineno">  616</span>&#160;            }</div>

@@ -256,7 +256,7 @@ $(document).ready(function(){initNavTree('d9/db9/gendb__if_8cc_source.html','../
 <div class="line"><a name="l00148"></a><span class="lineno"><a class="line" href="../../dd/d95/classDbDataValuePrinter.html#aeda2090ab16307b18ccff38817b30f8e">  148</a></span>&#160;    std::string <a class="code" href="../../dd/d95/classDbDataValuePrinter.html#aeda2090ab16307b18ccff38817b30f8e">operator()</a>(<span class="keyword">const</span> <a class="code" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;tipaddr)<span class="keyword"> const </span>{</div>
 <div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;        boost::system::error_code ec;</div>
 <div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;        std::string ips(tipaddr.to_string(ec));</div>
-<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;        assert(ec == 0);</div>
+<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;        assert(!ec);</div>
 <div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;        <span class="keywordflow">return</span> ips;</div>
 <div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;    }</div>
 <div class="line"><a name="l00154"></a><span class="lineno"><a class="line" href="../../dd/d95/classDbDataValuePrinter.html#a1351d0ae5e7bb2c69f32ce263aa0c303">  154</a></span>&#160;    std::string <a class="code" href="../../dd/d95/classDbDataValuePrinter.html#a1351d0ae5e7bb2c69f32ce263aa0c303">operator()</a>(<span class="keyword">const</span> <a class="code" href="../../da/dcb/structGenDb_1_1Blob.html">GenDb::Blob</a> &amp;tblob)<span class="keyword"> const </span>{</div>

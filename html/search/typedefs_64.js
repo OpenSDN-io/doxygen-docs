@@ -14,6 +14,7 @@ var searchData=
   ['dbgetrowcb',['DbGetRowCb',['../df/ded/classGenDb_1_1GenDbIf.html#a92ea0e0770d948665d79ae57e5949c0c',1,'GenDb::GenDbIf']]],
   ['dbqueuewatermarkcb',['DbQueueWaterMarkCb',['../df/ded/classGenDb_1_1GenDbIf.html#a36d07ccbc6f46696ea72d440111dac2f',1,'GenDb::GenDbIf']]],
   ['dbtablewalkref',['DBTableWalkRef',['../d5/d0a/classDBTable.html#ad3172876c9c18a7f6a12772ce54879ea',1,'DBTable']]],
+  ['defaultlinktype',['DefaultLinkType',['../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html#ae210969092e2b9ab28276eb2986d11e2',1,'StaticObjectFactory::FactoryRecord']]],
   ['defaultserverlist',['DefaultServerList',['../d6/df7/classDnsProto.html#ae595e440d5b717e612aca819c803b5b9',1,'DnsProto']]],
   ['deferq',['DeferQ',['../d6/dbf/classBgpXmppChannel.html#a35de4428ccbc339e2fe5cc15755c8125',1,'BgpXmppChannel']]],
   ['deletebfdhostcb',['DeleteBFDHostCb',['../df/d00/classBFD_1_1RESTClient.html#ae731451b1f277cb5d01a2ec36e10b32d',1,'BFD::RESTClient']]],

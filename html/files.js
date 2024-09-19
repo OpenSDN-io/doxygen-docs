@@ -16,10 +16,8 @@ var files =
     [ "agent_cmn.h", "de/d18/agent__cmn_8h.html", "de/d18/agent__cmn_8h" ],
     [ "agent_db.cc", "dc/d3f/agent__db_8cc.html", "dc/d3f/agent__db_8cc" ],
     [ "agent_db.h", "da/de1/agent__db_8h.html", "da/de1/agent__db_8h" ],
-    [ "agent_factory.cc", "df/de4/agent__factory_8cc.html", "df/de4/agent__factory_8cc" ],
-    [ "agent_factory.h", "dd/dbe/agent__factory_8h.html", [
-      [ "AgentObjectFactory", "dd/d03/classAgentObjectFactory.html", "dd/d03/classAgentObjectFactory" ]
-    ] ],
+    [ "agent_factory.cc", "df/de4/agent__factory_8cc.html", null ],
+    [ "agent_factory.h", "dd/dbe/agent__factory_8h.html", "dd/dbe/agent__factory_8h" ],
     [ "agent_init.cc", "d7/d9c/agent__init_8cc.html", "d7/d9c/agent__init_8cc" ],
     [ "agent_init.h", "d9/d24/agent__init_8h.html", [
       [ "AgentInit", "d8/d16/classAgentInit.html", "d8/d16/classAgentInit" ]
@@ -230,10 +228,8 @@ var files =
     [ "bgp_export.h", "d8/d5f/bgp__export_8h.html", [
       [ "BgpExport", "d6/d18/classBgpExport.html", "d6/d18/classBgpExport" ]
     ] ],
-    [ "bgp_factory.cc", "de/dec/bgp__factory_8cc.html", "de/dec/bgp__factory_8cc" ],
-    [ "bgp_factory.h", "d8/de2/bgp__factory_8h.html", [
-      [ "BgpObjectFactory", "da/dd2/classBgpObjectFactory.html", "da/dd2/classBgpObjectFactory" ]
-    ] ],
+    [ "bgp_factory.cc", "de/dec/bgp__factory_8cc.html", null ],
+    [ "bgp_factory.h", "d8/de2/bgp__factory_8h.html", "d8/de2/bgp__factory_8h" ],
     [ "bgp_ifmap_sandesh.cc", "dc/d25/bgp__ifmap__sandesh_8cc.html", "dc/d25/bgp__ifmap__sandesh_8cc" ],
     [ "bgp_ifmap_sandesh.h", "d5/dc9/bgp__ifmap__sandesh_8h.html", "d5/dc9/bgp__ifmap__sandesh_8h" ],
     [ "bgp_lifetime.cc", "d6/d06/bgp__lifetime_8cc.html", null ],
@@ -700,10 +696,8 @@ var files =
       [ "UUIDProcessRequestType", "dd/d8a/structConfigEtcdPartition_1_1UUIDProcessRequestType.html", "dd/d8a/structConfigEtcdPartition_1_1UUIDProcessRequestType" ],
       [ "ConfigEtcdClient", "d4/db8/classConfigEtcdClient.html", "d4/db8/classConfigEtcdClient" ]
     ] ],
-    [ "config_factory.cc", "d5/d06/config__factory_8cc.html", "d5/d06/config__factory_8cc" ],
-    [ "config_factory.h", "dd/de1/config__factory_8h.html", [
-      [ "ConfigFactory", "d8/d24/classConfigFactory.html", "d8/d24/classConfigFactory" ]
-    ] ],
+    [ "config_factory.cc", "d5/d06/config__factory_8cc.html", null ],
+    [ "config_factory.h", "dd/de1/config__factory_8h.html", "dd/de1/config__factory_8h" ],
     [ "config_json_parser.cc", "d8/d6a/config__json__parser_8cc.html", "d8/d6a/config__json__parser_8cc" ],
     [ "config_json_parser.h", "d3/d66/config__json__parser_8h.html", [
       [ "ConfigJsonParser", "dc/d22/classConfigJsonParser.html", "dc/d22/classConfigJsonParser" ]
@@ -1068,7 +1062,6 @@ var files =
       [ "EvpnTable", "da/da4/classEvpnTable.html", "da/da4/classEvpnTable" ],
       [ "RequestKey", "d1/ded/structEvpnTable_1_1RequestKey.html", "d1/ded/structEvpnTable_1_1RequestKey" ]
     ] ],
-    [ "factory.cc", "d1/d4e/factory_8cc.html", "d1/d4e/factory_8cc" ],
     [ "factory.h", "de/d06/factory_8h.html", "de/d06/factory_8h" ],
     [ "factory_macros.h", "d6/df7/factory__macros_8h.html", "d6/df7/factory__macros_8h" ],
     [ "feature_flags.cc", "d1/da1/feature__flags_8cc.html", "d1/da1/feature__flags_8cc" ],
@@ -1348,10 +1341,8 @@ var files =
     [ "ifmap_exporter.h", "d7/d31/ifmap__exporter_8h.html", [
       [ "IFMapExporter", "d3/d31/classIFMapExporter.html", "d3/d31/classIFMapExporter" ]
     ] ],
-    [ "ifmap_factory.cc", "dd/d2f/ifmap__factory_8cc.html", "dd/d2f/ifmap__factory_8cc" ],
-    [ "ifmap_factory.h", "d1/da1/ifmap__factory_8h.html", [
-      [ "IFMapFactory", "dc/d22/classIFMapFactory.html", "dc/d22/classIFMapFactory" ]
-    ] ],
+    [ "ifmap_factory.cc", "dd/d2f/ifmap__factory_8cc.html", null ],
+    [ "ifmap_factory.h", "d1/da1/ifmap__factory_8h.html", "d1/da1/ifmap__factory_8h" ],
     [ "ifmap_graph_walker.cc", "d1/dee/ifmap__graph__walker_8cc.html", [
       [ "GraphPropagateFilter", "db/d26/classGraphPropagateFilter.html", "db/d26/classGraphPropagateFilter" ]
     ] ],
@@ -3331,10 +3322,8 @@ var files =
     ] ],
     [ "xmpp_dns_agent.cc", "db/ddd/xmpp__dns__agent_8cc.html", "db/ddd/xmpp__dns__agent_8cc" ],
     [ "xmpp_dns_agent.h", "df/de2/xmpp__dns__agent_8h.html", "df/de2/xmpp__dns__agent_8h" ],
-    [ "xmpp_factory.cc", "df/d2e/xmpp__factory_8cc.html", "df/d2e/xmpp__factory_8cc" ],
-    [ "xmpp_factory.h", "db/d3c/xmpp__factory_8h.html", [
-      [ "XmppObjectFactory", "dc/d11/classXmppObjectFactory.html", "dc/d11/classXmppObjectFactory" ]
-    ] ],
+    [ "xmpp_factory.cc", "df/d2e/xmpp__factory_8cc.html", null ],
+    [ "xmpp_factory.h", "db/d3c/xmpp__factory_8h.html", "db/d3c/xmpp__factory_8h" ],
     [ "xmpp_init.cc", "d2/d24/xmpp__init_8cc.html", "d2/d24/xmpp__init_8cc" ],
     [ "xmpp_init.h", "de/dd3/xmpp__init_8h.html", [
       [ "XmppInit", "dd/d66/classXmppInit.html", "dd/d66/classXmppInit" ]

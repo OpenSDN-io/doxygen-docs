@@ -1,10 +1,10 @@
 <map id="BFD::UDPConnectionManager::UDPRecvServer" name="BFD::UDPConnectionManager::UDPRecvServer">
-<area shape="rect" id="node8" href="$d9/ddb/classBFD_1_1UDPConnectionManager.html" title="BFD::UDPConnectionManager" alt="" coords="1219,92,1432,119"/>
-<area shape="rect" id="node2" href="$d2/d88/classUdpServer.html" title="UdpServer" alt="" coords="563,77,653,104"/>
-<area shape="rect" id="node13" href="$d0/d88/classBFD_1_1UDPConnectionManager_1_1UDPCommunicator.html" title="BFD::UDPConnectionManager\l::UDPCommunicator" alt="" coords="888,70,1101,111"/>
-<area shape="rect" id="node3" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="234,76,353,103"/>
-<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="236,215,351,241"/>
-<area shape="rect" id="node11" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html" title="BFD::Server::SessionManager" alt="" coords="502,276,714,303"/>
-<area shape="rect" id="node10" href="$d7/d90/classBFD_1_1Server.html" title="BFD::Server" alt="" coords="945,204,1044,231"/>
-<area shape="rect" id="node9" href="$db/d0c/classBFD_1_1Connection.html" title="BFD::Connection" alt="" coords="543,149,673,176"/>
+<area shape="rect" id="node8" href="$d9/ddb/classBFD_1_1UDPConnectionManager.html" title="BFD::UDPConnectionManager" alt="" coords="1221,92,1435,119"/>
+<area shape="rect" id="node2" href="$d2/d88/classUdpServer.html" title="UdpServer" alt="" coords="565,77,656,104"/>
+<area shape="rect" id="node13" href="$d0/d88/classBFD_1_1UDPConnectionManager_1_1UDPCommunicator.html" title="BFD::UDPConnectionManager\l::UDPCommunicator" alt="" coords="891,70,1104,111"/>
+<area shape="rect" id="node3" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="237,76,355,103"/>
+<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="239,215,353,241"/>
+<area shape="rect" id="node11" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html" title="BFD::Server::SessionManager" alt="" coords="505,276,717,303"/>
+<area shape="rect" id="node10" href="$d7/d90/classBFD_1_1Server.html" title="BFD::Server" alt="" coords="948,204,1047,231"/>
+<area shape="rect" id="node9" href="$db/d0c/classBFD_1_1Connection.html" title="BFD::Connection" alt="" coords="546,149,675,176"/>
 </map>

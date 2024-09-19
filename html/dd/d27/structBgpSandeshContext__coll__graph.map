@@ -1,23 +1,23 @@
 <map id="BgpSandeshContext" name="BgpSandeshContext">
-<area shape="rect" id="node2" href="$de/d7f/classSandeshContext.html" title="SandeshContext" alt="" coords="2028,1027,2156,1053"/>
-<area shape="rect" id="node3" href="$dd/dfb/classBgpXmppChannelManager.html" title="BgpXmppChannelManager" alt="" coords="1995,1077,2189,1104"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpXmppChannel * \&gt;" alt="" coords="653,1407,907,1433"/>
-<area shape="rect" id="node8" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpXmpp\lChannel *, WorkQueue\&lt;\l BgpXmppChannel * \&gt; \&gt;" alt="" coords="1109,1415,1325,1471"/>
-<area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="287,969,414,996"/>
-<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="672,919,888,945"/>
-<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="635,312,925,339"/>
-<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="673,1165,887,1192"/>
-<area shape="rect" id="node11" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1745,400,1847,427"/>
-<area shape="rect" id="node14" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="737,501,823,528"/>
-<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,1508,75,1535"/>
-<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,1094,479,1135"/>
-<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="234,223,467,279"/>
-<area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="227,1326,474,1367"/>
-<area shape="rect" id="node12" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1504,461,1693,488"/>
-<area shape="rect" id="node27" href="$df/d70/classDB.html" title="DB" alt="" coords="997,864,1038,891"/>
-<area shape="rect" id="node13" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1176,491,1259,517"/>
-<area shape="rect" id="node23" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1141,1077,1294,1104"/>
-<area shape="rect" id="node15" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="291,459,410,485"/>
-<area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="293,303,408,329"/>
-<area shape="rect" id="node22" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1554,1077,1643,1104"/>
+<area shape="rect" id="node2" href="$de/d7f/classSandeshContext.html" title="SandeshContext" alt="" coords="2031,1027,2159,1053"/>
+<area shape="rect" id="node3" href="$dd/dfb/classBgpXmppChannelManager.html" title="BgpXmppChannelManager" alt="" coords="1997,1077,2192,1104"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpXmppChannel * \&gt;" alt="" coords="655,1407,910,1433"/>
+<area shape="rect" id="node8" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpXmpp\lChannel *, WorkQueue\&lt;\l BgpXmppChannel * \&gt; \&gt;" alt="" coords="1112,1415,1328,1471"/>
+<area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="290,969,417,996"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="675,919,891,945"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="637,312,928,339"/>
+<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="676,1165,889,1192"/>
+<area shape="rect" id="node11" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1747,400,1850,427"/>
+<area shape="rect" id="node14" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="740,501,825,528"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,1508,76,1535"/>
+<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,1094,482,1135"/>
+<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,223,470,279"/>
+<area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="230,1326,477,1367"/>
+<area shape="rect" id="node12" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1507,461,1696,488"/>
+<area shape="rect" id="node27" href="$df/d70/classDB.html" title="DB" alt="" coords="999,864,1041,891"/>
+<area shape="rect" id="node13" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1179,491,1261,517"/>
+<area shape="rect" id="node23" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1143,1077,1297,1104"/>
+<area shape="rect" id="node15" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="294,459,413,485"/>
+<area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="296,303,411,329"/>
+<area shape="rect" id="node22" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1557,1077,1646,1104"/>
 </map>

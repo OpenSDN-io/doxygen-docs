@@ -141,8 +141,8 @@ Public Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8a2d59c57a3355cc8d20d4b0e2caeeba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba">BindResolver</a> (boost::asio::io_service &amp;io, const std::vector&lt; <a class="el" href="../../d9/de2/structBindResolver_1_1DnsServer.html">DnsServer</a> &gt; &amp;dns_servers, uint16_t client_port, <a class="el" href="../../d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39">Callback</a> cb, uint8_t dscp)</td></tr>
-<tr class="separator:a8a2d59c57a3355cc8d20d4b0e2caeeba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f67088e7fc8af1247e70a272e6c0fa7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#a7f67088e7fc8af1247e70a272e6c0fa7">BindResolver</a> (boost::asio::io_context &amp;io, const std::vector&lt; <a class="el" href="../../d9/de2/structBindResolver_1_1DnsServer.html">DnsServer</a> &gt; &amp;dns_servers, uint16_t client_port, <a class="el" href="../../d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39">Callback</a> cb, uint8_t dscp)</td></tr>
+<tr class="separator:a7f67088e7fc8af1247e70a272e6c0fa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adba6674d1b195854d1a473f07714f7f2"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#adba6674d1b195854d1a473f07714f7f2">~BindResolver</a> ()</td></tr>
 <tr class="separator:adba6674d1b195854d1a473f07714f7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a74e43f45e72d53eeba58e597f23d3139"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#a74e43f45e72d53eeba58e597f23d3139">SetupResolver</a> (const <a class="el" href="../../d9/de2/structBindResolver_1_1DnsServer.html">DnsServer</a> &amp;server, uint8_t idx)</td></tr>
@@ -158,8 +158,8 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aa3fee70d237ac2dd5c2ba415ca62dbc7"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#aa3fee70d237ac2dd5c2ba415ca62dbc7">Init</a> (boost::asio::io_service &amp;io, const std::vector&lt; <a class="el" href="../../d9/de2/structBindResolver_1_1DnsServer.html">DnsServer</a> &gt; &amp;dns_servers, uint16_t client_port, <a class="el" href="../../d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39">Callback</a> cb, uint8_t dscp)</td></tr>
-<tr class="separator:aa3fee70d237ac2dd5c2ba415ca62dbc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc8743e442f4f0fb6a5abd2b5422b9a8"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#abc8743e442f4f0fb6a5abd2b5422b9a8">Init</a> (boost::asio::io_context &amp;io, const std::vector&lt; <a class="el" href="../../d9/de2/structBindResolver_1_1DnsServer.html">DnsServer</a> &gt; &amp;dns_servers, uint16_t client_port, <a class="el" href="../../d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39">Callback</a> cb, uint8_t dscp)</td></tr>
+<tr class="separator:abc8743e442f4f0fb6a5abd2b5422b9a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7cf3732a8d46617d9ec72cfaadcb39a2"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#a7cf3732a8d46617d9ec72cfaadcb39a2">Shutdown</a> ()</td></tr>
 <tr class="separator:a7cf3732a8d46617d9ec72cfaadcb39a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a784fbf313fe05a09e6e70cc427b21baf"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d5b/classBindResolver.html">BindResolver</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf">Resolver</a> ()</td></tr>
@@ -223,14 +223,14 @@ Static Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a8a2d59c57a3355cc8d20d4b0e2caeeba"></a>
+<a class="anchor" id="a7f67088e7fc8af1247e70a272e6c0fa7"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">BindResolver::BindResolver </td>
           <td>(</td>
-          <td class="paramtype">boost::asio::io_service &amp;&#160;</td>
+          <td class="paramtype">boost::asio::io_context &amp;&#160;</td>
           <td class="paramname"><em>io</em>, </td>
         </tr>
         <tr>
@@ -270,9 +270,9 @@ Static Private Attributes</h2></td></tr>
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../d0/d5b/classBindResolver_a8a2d59c57a3355cc8d20d4b0e2caeeba_cgraph.png" border="0" usemap="#d0/d5b/classBindResolver_a8a2d59c57a3355cc8d20d4b0e2caeeba_cgraph" alt=""/></div>
-<map name="d0/d5b/classBindResolver_a8a2d59c57a3355cc8d20d4b0e2caeeba_cgraph" id="d0/d5b/classBindResolver_a8a2d59c57a3355cc8d20d4b0e2caeeba_cgraph">
-<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="288,5,432,32"/><area shape="rect" id="node4" href="../../d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409" title="BindResolver::SetDscpSocket\lOption" alt="" coords="254,57,466,98"/><area shape="rect" id="node5" href="../../d0/d5b/classBindResolver.html#a6e443b6a4776be99b07d86d816092576" title="BindResolver::AsyncRead" alt="" coords="267,123,453,149"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="579,5,666,32"/><area shape="rect" id="node6" href="../../d0/d5b/classBindResolver.html#a5acf68efe317912a9ace1ea06dc05b10" title="BindResolver::DnsRcvHandler" alt="" coords="515,123,730,149"/></map>
+<div class="center"><img src="../../d0/d5b/classBindResolver_a7f67088e7fc8af1247e70a272e6c0fa7_cgraph.png" border="0" usemap="#d0/d5b/classBindResolver_a7f67088e7fc8af1247e70a272e6c0fa7_cgraph" alt=""/></div>
+<map name="d0/d5b/classBindResolver_a7f67088e7fc8af1247e70a272e6c0fa7_cgraph" id="d0/d5b/classBindResolver_a7f67088e7fc8af1247e70a272e6c0fa7_cgraph">
+<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="288,5,432,32"/><area shape="rect" id="node4" href="../../d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409" title="BindResolver::SetDscpSocket\lOption" alt="" coords="254,57,466,98"/><area shape="rect" id="node5" href="../../d0/d5b/classBindResolver.html#a6e443b6a4776be99b07d86d816092576" title="BindResolver::AsyncRead" alt="" coords="267,123,453,149"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="579,5,666,32"/><area shape="rect" id="node6" href="../../d0/d5b/classBindResolver.html#a5acf68efe317912a9ace1ea06dc05b10" title="BindResolver::DnsRcvHandler" alt="" coords="515,123,730,149"/></map>
 </div>
 </p>
 
@@ -552,7 +552,7 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="aa3fee70d237ac2dd5c2ba415ca62dbc7"></a>
+<a class="anchor" id="abc8743e442f4f0fb6a5abd2b5422b9a8"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -562,7 +562,7 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname">void BindResolver::Init </td>
           <td>(</td>
-          <td class="paramtype">boost::asio::io_service &amp;&#160;</td>
+          <td class="paramtype">boost::asio::io_context &amp;&#160;</td>
           <td class="paramname"><em>io</em>, </td>
         </tr>
         <tr>
@@ -607,9 +607,9 @@ Here is the call graph for this function:</div>
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../d0/d5b/classBindResolver_aa3fee70d237ac2dd5c2ba415ca62dbc7_cgraph.png" border="0" usemap="#d0/d5b/classBindResolver_aa3fee70d237ac2dd5c2ba415ca62dbc7_cgraph" alt=""/></div>
-<map name="d0/d5b/classBindResolver_aa3fee70d237ac2dd5c2ba415ca62dbc7_cgraph" id="d0/d5b/classBindResolver_aa3fee70d237ac2dd5c2ba415ca62dbc7_cgraph">
-<area shape="rect" id="node2" href="../../d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba" title="BindResolver::BindResolver" alt="" coords="189,64,389,91"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="472,5,616,32"/><area shape="rect" id="node5" href="../../d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409" title="BindResolver::SetDscpSocket\lOption" alt="" coords="438,57,650,98"/><area shape="rect" id="node6" href="../../d0/d5b/classBindResolver.html#a6e443b6a4776be99b07d86d816092576" title="BindResolver::AsyncRead" alt="" coords="451,123,637,149"/><area shape="rect" id="node4" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="763,5,850,32"/><area shape="rect" id="node7" href="../../d0/d5b/classBindResolver.html#a5acf68efe317912a9ace1ea06dc05b10" title="BindResolver::DnsRcvHandler" alt="" coords="699,123,914,149"/></map>
+<div class="center"><img src="../../d0/d5b/classBindResolver_abc8743e442f4f0fb6a5abd2b5422b9a8_cgraph.png" border="0" usemap="#d0/d5b/classBindResolver_abc8743e442f4f0fb6a5abd2b5422b9a8_cgraph" alt=""/></div>
+<map name="d0/d5b/classBindResolver_abc8743e442f4f0fb6a5abd2b5422b9a8_cgraph" id="d0/d5b/classBindResolver_abc8743e442f4f0fb6a5abd2b5422b9a8_cgraph">
+<area shape="rect" id="node2" href="../../d0/d5b/classBindResolver.html#a7f67088e7fc8af1247e70a272e6c0fa7" title="BindResolver::BindResolver" alt="" coords="189,64,389,91"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="472,5,616,32"/><area shape="rect" id="node5" href="../../d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409" title="BindResolver::SetDscpSocket\lOption" alt="" coords="438,57,650,98"/><area shape="rect" id="node6" href="../../d0/d5b/classBindResolver.html#a6e443b6a4776be99b07d86d816092576" title="BindResolver::AsyncRead" alt="" coords="451,123,637,149"/><area shape="rect" id="node4" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="763,5,850,32"/><area shape="rect" id="node7" href="../../d0/d5b/classBindResolver.html#a5acf68efe317912a9ace1ea06dc05b10" title="BindResolver::DnsRcvHandler" alt="" coords="699,123,914,149"/></map>
 </div>
 </p>
 
@@ -723,7 +723,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d0/d5b/classBindResolver_a74e43f45e72d53eeba58e597f23d3139_cgraph.png" border="0" usemap="#d0/d5b/classBindResolver_a74e43f45e72d53eeba58e597f23d3139_cgraph" alt=""/></div>
 <map name="d0/d5b/classBindResolver_a74e43f45e72d53eeba58e597f23d3139_cgraph" id="d0/d5b/classBindResolver_a74e43f45e72d53eeba58e597f23d3139_cgraph">
-<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="261,5,405,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="454,5,541,32"/></map>
+<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="261,5,405,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="454,5,541,32"/></map>
 </div>
 </p>
 

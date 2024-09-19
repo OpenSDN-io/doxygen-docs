@@ -194,7 +194,7 @@ $(document).ready(function(){initNavTree('d3/d9f/vrf__route__import_8cc_source.h
 <div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <span class="keywordtype">string</span> second(rest.substr(0, pos));</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> addr = Ip4Address::from_string(second, ec);</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <span class="keywordtype">char</span> *endptr;</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <span class="keywordflow">if</span> (ec.value() != 0) {</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) {</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;        <span class="comment">// Not an IP address.</span></div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;            *errorp = make_error_code(boost::system::errc::invalid_argument);</div>

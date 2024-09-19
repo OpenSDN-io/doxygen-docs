@@ -145,7 +145,7 @@ $(document).ready(function(){initNavTree('d0/d81/usock__server_8h_source.html','
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keyword">typedef</span> boost::function &lt;void (UnixDomainSocketSession *, Event)&gt;</div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;      EventObserver;</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keyword">explicit</span> UnixDomainSocketSession(boost::asio::io_service *io_service)</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keyword">explicit</span> UnixDomainSocketSession(boost::asio::io_context *io_service)</div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        : socket_(*io_service), session_id_(0) {</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    }</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;</div>
@@ -191,7 +191,7 @@ $(document).ready(function(){initNavTree('d0/d81/usock__server_8h_source.html','
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;                                   UnixDomainSocketSession *, <a class="code" href="../../d9/df2/http__client_8h.html#a5667b805d857c6d28f83f6038a0272d3">Event</a>) &gt;</div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;      EventObserver;</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    UnixDomainSocketServer(boost::asio::io_service *io_service,</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    UnixDomainSocketServer(boost::asio::io_context *io_service,</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;                           <span class="keyword">const</span> std::string &amp;file);</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;</div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <span class="keywordtype">void</span> HandleAccept(SessionPtr new_session,</div>
@@ -200,7 +200,7 @@ $(document).ready(function(){initNavTree('d0/d81/usock__server_8h_source.html','
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordtype">void</span> set_observer(EventObserver observer) { observer_ = observer; }</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="keyword">private</span>:</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    boost::asio::io_service *io_service_;</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    boost::asio::io_context *io_service_;</div>
 <div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    EventObserver observer_;</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    boost::asio::local::stream_protocol::acceptor acceptor_;</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    uint64_t session_idspace_;</div>

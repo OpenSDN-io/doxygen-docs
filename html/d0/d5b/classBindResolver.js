@@ -2,7 +2,7 @@ var classBindResolver =
 [
     [ "DnsServer", "d9/de2/structBindResolver_1_1DnsServer.html", "d9/de2/structBindResolver_1_1DnsServer" ],
     [ "Callback", "d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39", null ],
-    [ "BindResolver", "d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba", null ],
+    [ "BindResolver", "d0/d5b/classBindResolver.html#a7f67088e7fc8af1247e70a272e6c0fa7", null ],
     [ "~BindResolver", "d0/d5b/classBindResolver.html#adba6674d1b195854d1a473f07714f7f2", null ],
     [ "AsyncRead", "d0/d5b/classBindResolver.html#a6e443b6a4776be99b07d86d816092576", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d0/d5b/classBindResolver.html#ad0edeebf0e6468a04f24e0eba4a66afa", null ],
@@ -11,7 +11,7 @@ var classBindResolver =
     [ "DnsSend", "d0/d5b/classBindResolver.html#afaedbb58664e084f119caee00bc0cadf", null ],
     [ "DnsSendHandler", "d0/d5b/classBindResolver.html#aad79dd9db53d8811b11d41d12e9f09db", null ],
     [ "GetDscpValue", "d0/d5b/classBindResolver.html#afb8cc0a4f52efff26fce8a55f8d8363e", null ],
-    [ "Init", "d0/d5b/classBindResolver.html#aa3fee70d237ac2dd5c2ba415ca62dbc7", null ],
+    [ "Init", "d0/d5b/classBindResolver.html#abc8743e442f4f0fb6a5abd2b5422b9a8", null ],
     [ "Resolver", "d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf", null ],
     [ "SetDscpSocketOption", "d0/d5b/classBindResolver.html#ade2ceedbc18c3850e8c3a671a2cf9409", null ],
     [ "SetDscpValue", "d0/d5b/classBindResolver.html#ad140c92e7bbb2afd354d4d845396529f", null ],

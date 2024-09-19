@@ -6,7 +6,7 @@ var namespaces =
     [ "aux", "df/d1f/namespaceaux.html", null ],
     [ "BFD", "d1/d0a/namespaceBFD.html", "d1/d0a/namespaceBFD" ],
     [ "bgp_log_test", "d5/db9/namespacebgp__log__test.html", null ],
-    [ "boost", "d4/da9/namespaceboost.html", "d4/da9/namespaceboost" ],
+    [ "boost", "d4/da9/namespaceboost.html", null ],
     [ "cass", "d4/db0/namespacecass.html", "d4/db0/namespacecass" ],
     [ "contrail", "d2/dfa/namespacecontrail.html", "d2/dfa/namespacecontrail" ],
     [ "detail", "dd/d39/namespacedetail.html", null ],

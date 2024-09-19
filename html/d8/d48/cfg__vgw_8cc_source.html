@@ -192,7 +192,7 @@ $(document).ready(function(){initNavTree('d8/d48/cfg__vgw_8cc_source.html','../.
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;            boost::algorithm::trim(str);</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;            ++it;</div>
 <div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;            ec = <a class="code" href="../../dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01">Ip4PrefixParse</a>(str, &amp;addr, &amp;plen);</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;            <span class="keywordflow">if</span> (ec != 0 || plen &gt;= 32) {</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;            <span class="keywordflow">if</span> (ec.failed() || plen &gt;= 32) {</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;                <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(ERROR, <span class="stringliteral">&quot;Error in config file. Invalid gateway &quot;</span></div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;                    <span class="stringliteral">&quot;ip_block/route &quot;</span> &lt;&lt; str);</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;                <span class="keywordflow">continue</span>;</div>

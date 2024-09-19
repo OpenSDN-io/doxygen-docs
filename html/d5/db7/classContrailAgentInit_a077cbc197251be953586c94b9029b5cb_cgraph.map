@@ -1,6 +1,0 @@
-<map id="ContrailAgentInit::FactoryInit" name="ContrailAgentInit::FactoryInit">
-<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391" title="AgentInit::agent" alt="" coords="219,5,346,32"/>
-<area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#ac1a170ee2974a22fbd377b5983727943" title="AgentInit::agent_param" alt="" coords="195,56,370,83"/>
-<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#a2d0b54482678449329d39385a18d3648" title="AgentParam::vrouter\l_on_nic_mode" alt="" coords="205,107,361,149"/>
-<area shape="rect" id="node5" href="$dc/dd4/classAgentParam.html#a90b6f67f2d8bdf0e52d2d06de8bd42e6" title="AgentParam::vrouter\l_on_host_dpdk" alt="" coords="205,173,361,214"/>
-</map>

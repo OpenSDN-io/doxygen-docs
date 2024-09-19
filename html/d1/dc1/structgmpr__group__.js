@@ -6,13 +6,13 @@ var structgmpr__group__ =
     [ "rgroup_filter_mode", "d1/dc1/structgmpr__group__.html#a82459daa9a2662d35711b3dfa6a372a1", null ],
     [ "rgroup_group_timer", "d1/dc1/structgmpr__group__.html#a50d4276163706b31a20025fab773ab16", null ],
     [ "rgroup_gss_query_timer", "d1/dc1/structgmpr__group__.html#a3d98a470721b8c7c3222385cc0a0b551", null ],
-    [ "rgroup_host_group_head", "d1/dc1/structgmpr__group__.html#ac87422a44ad092d9603a24d42a92cb32", null ],
+    [ "rgroup_host_group_head", "d1/dc1/structgmpr__group__.html#acdb6ed6c7c7bac630193449f3c38b265", null ],
     [ "rgroup_intf", "d1/dc1/structgmpr__group__.html#a710e6403b14db9a0414fc45a834dcf9a", null ],
     [ "rgroup_intf_patnode", "d1/dc1/structgmpr__group__.html#a3b24542ca40c16498cc0eae17863456a", null ],
     [ "rgroup_last_reporter", "d1/dc1/structgmpr__group__.html#aac0c2e3c10b4cab1ad995dff2e476256", null ],
     [ "rgroup_leaves_host_present", "d1/dc1/structgmpr__group__.html#a894eb9373edd776f1eeda1e519def2c6", null ],
     [ "rgroup_oif_group", "d1/dc1/structgmpr__group__.html#a0da74dc05b17d470ed8ed63cfd34777d", null ],
-    [ "rgroup_oif_thread", "d1/dc1/structgmpr__group__.html#ab9dfeab5629d8cf1ef926ec720a689d8", null ],
+    [ "rgroup_oif_thread", "d1/dc1/structgmpr__group__.html#a15266304c717d4c964197594175c569e", null ],
     [ "rgroup_query_hi_timers", "d1/dc1/structgmpr__group__.html#a7e87f14339cdf185c4b55bd4936aff11", null ],
     [ "rgroup_query_lo_timers", "d1/dc1/structgmpr__group__.html#aa3fdfd1cf33caeddb8c3f4ec921b1c9e", null ],
     [ "rgroup_query_rexmit_count", "d1/dc1/structgmpr__group__.html#acf5a00879d0d6211e6ab368f9cad90c6", null ],
@@ -21,5 +21,5 @@ var structgmpr__group__ =
     [ "rgroup_send_gss_query", "d1/dc1/structgmpr__group__.html#ab889ddce4700b8880d4b95db4285c87e", null ],
     [ "rgroup_src_addr_running", "d1/dc1/structgmpr__group__.html#a156e6cd3c53f0b3dca66650ee3d09a5f", null ],
     [ "rgroup_src_addr_stopped", "d1/dc1/structgmpr__group__.html#a934c8207313816bf27d8a40e1f4eb07d", null ],
-    [ "rgroup_xmit_thread", "d1/dc1/structgmpr__group__.html#a0567dbd65e6612421c66a005d216a748", null ]
+    [ "rgroup_xmit_thread", "d1/dc1/structgmpr__group__.html#acf05db04b6b26e2af93c2c20022dd7cb", null ]
 ];

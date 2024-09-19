@@ -32,7 +32,7 @@ var classDhcpHandlerBase =
       [ "SubnetLevel", "dd/d33/classDhcpHandlerBase.html#a0ea44d6f9b0beea982e6a7a2769d33e2aa09e200c79ac28d232a5a7e671344219", null ],
       [ "IpamLevel", "dd/d33/classDhcpHandlerBase.html#a0ea44d6f9b0beea982e6a7a2769d33e2a7f4d6954516f1f9816a8436279b0ab5c", null ]
     ] ],
-    [ "DhcpHandlerBase", "dd/d33/classDhcpHandlerBase.html#a8aa99ba3d3073137e9c697a0f8b8a562", null ],
+    [ "DhcpHandlerBase", "dd/d33/classDhcpHandlerBase.html#a68320b4eccfc3c2413205a583c0957a9", null ],
     [ "~DhcpHandlerBase", "dd/d33/classDhcpHandlerBase.html#a68307aad1b647dd02a490703fdf05e4e", null ],
     [ "AddByteArrayOption", "dd/d33/classDhcpHandlerBase.html#a198eb0b8f2a4f0191d762e4c5925cba5", null ],
     [ "AddByteCompressedNameOption", "dd/d33/classDhcpHandlerBase.html#a584b3e8ac13ad9ffaa10d7c8d10bbeea", null ],

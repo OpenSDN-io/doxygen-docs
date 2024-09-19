@@ -7,7 +7,7 @@ var classTcpSession =
     [ "EventObserver", "d2/d0e/classTcpSession.html#a90f5af97068082f27c36f0d1e6941dfe", null ],
     [ "NativeSocketType", "d2/d0e/classTcpSession.html#a1b92dc416038888640c9a74d70a2c419", null ],
     [ "Socket", "d2/d0e/classTcpSession.html#ae9c78e31479f62d40499c4d8595cacc5", null ],
-    [ "Strand", "d2/d0e/classTcpSession.html#aec2a0c1db919fba43785db4bd6154db3", null ],
+    [ "Strand", "d2/d0e/classTcpSession.html#a462d58363858ba266eebac074ddad600", null ],
     [ "TcpSessionPtr", "d2/d0e/classTcpSession.html#ad69eaca543ea5480127c63a4f864456d", null ],
     [ "Direction", "d2/d0e/classTcpSession.html#ab70fedc77295e6f7ab5b4d2e73f38a58", [
       [ "ACTIVE", "d2/d0e/classTcpSession.html#ab70fedc77295e6f7ab5b4d2e73f38a58a9daeb196040201e80098368182c2b007", null ],

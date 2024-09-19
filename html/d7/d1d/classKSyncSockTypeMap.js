@@ -15,7 +15,7 @@ var classKSyncSockTypeMap =
       [ "KSYNC_FLOW_ENTRY_TYPE", "d7/d1d/classKSyncSockTypeMap.html#a079a42b0104c185edc85c3525d7481a6a1e764a94e85a1eb6c7ede4b97afb9d2d", null ],
       [ "KSYNC_MAX_ENTRY_TYPE", "d7/d1d/classKSyncSockTypeMap.html#a079a42b0104c185edc85c3525d7481a6a188cbc97fc463b23058488bb429b9c69", null ]
     ] ],
-    [ "KSyncSockTypeMap", "d7/d1d/classKSyncSockTypeMap.html#ae55e381ebde85f54e2f8c203593e0dcd", null ],
+    [ "KSyncSockTypeMap", "d7/d1d/classKSyncSockTypeMap.html#a98837c5da7f191ddb4a2991da1ddcdd3", null ],
     [ "~KSyncSockTypeMap", "d7/d1d/classKSyncSockTypeMap.html#a268741b5feabcf83ef38590ac8fc8387", null ],
     [ "AddNetlinkTxBuff", "d7/d1d/classKSyncSockTypeMap.html#a7b8ec4cda3967f593246992c2481cf1d", null ],
     [ "AsyncReceive", "d7/d1d/classKSyncSockTypeMap.html#a8093c00902ba835d3069ed8aa5942137", null ],
@@ -41,7 +41,7 @@ var classKSyncSockTypeMap =
     [ "IfStatsSet", "d7/d1d/classKSyncSockTypeMap.html#a1e70dfabfbffe66c442aee642bc941a6", null ],
     [ "IfStatsUpdate", "d7/d1d/classKSyncSockTypeMap.html#a97e6a3fb92641ceb9233daeb6a6c7c9e", null ],
     [ "IncrFlowStats", "d7/d1d/classKSyncSockTypeMap.html#a3f0cde5a491d562c1961dc6b83069796", null ],
-    [ "Init", "d7/d1d/classKSyncSockTypeMap.html#ac341dbccfecbe7bdeb5c10b795cfd268", null ],
+    [ "Init", "d7/d1d/classKSyncSockTypeMap.html#a0a181edf33167f6c3c669fbb419d6815", null ],
     [ "InitNetlinkDoneMsg", "d7/d1d/classKSyncSockTypeMap.html#ae44bb855fde88d9fc6a553ea89f01667", null ],
     [ "InterfaceAdd", "d7/d1d/classKSyncSockTypeMap.html#aca90276769b1b191d8423db9fe598634", null ],
     [ "InterfaceDelete", "d7/d1d/classKSyncSockTypeMap.html#a38fcd40ceadfec74603bdf9291c36c2c", null ],

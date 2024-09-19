@@ -1,6 +1,6 @@
 <map id="DnsManager::DnsManager" name="DnsManager::DnsManager">
 <area shape="rect" id="node2" href="$d9/d13/classDns.html#af1e7c78098916a72dbd0d402526b9793" title="Dns::GetDnsPort" alt="" coords="283,5,413,32"/>
-<area shape="rect" id="node3" href="$d0/d5b/classBindResolver.html#aa3fee70d237ac2dd5c2ba415ca62dbc7" title="BindResolver::Init" alt="" coords="280,56,416,83"/>
+<area shape="rect" id="node3" href="$d0/d5b/classBindResolver.html#abc8743e442f4f0fb6a5abd2b5422b9a8" title="BindResolver::Init" alt="" coords="280,56,416,83"/>
 <area shape="rect" id="node5" href="$d9/d13/classDns.html#a455a244296fa3b5b5f3a6aa067024ce4" title="Dns::GetEventManager" alt="" coords="263,107,433,133"/>
 <area shape="rect" id="node6" href="$d0/dd6/classContrailPorts.html#a599c7041b32dd0e8df2ae215fc91b2e8" title="ContrailPorts::ContrailDns\lClientUdpPort" alt="" coords="253,158,443,199"/>
 <area shape="rect" id="node8" href="$dd/de1/classDnsManager.html#ad810202068b7b51e577c05675cb5ea8a" title="DnsManager::HandleUpdate\lResponse" alt="" coords="246,223,450,265"/>
@@ -10,10 +10,10 @@
 <area shape="rect" id="node15" href="$dd/de1/classDnsManager.html#ab6698cadf4f59f493af9db0bf52bcee4" title="DnsManager::DnsView" alt="" coords="264,809,432,836"/>
 <area shape="rect" id="node28" href="$dd/de1/classDnsManager.html#adcdf4ffff6db68dcba5d4e9961e42643" title="DnsManager::DnsRecord" alt="" coords="769,581,949,608"/>
 <area shape="rect" id="node39" href="$dd/de1/classDnsManager.html#a6528f87a21906600fee2f11d75a812b4" title="DnsManager::DnsPtrZone" alt="" coords="765,1163,952,1189"/>
-<area shape="rect" id="node43" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="245,1319,451,1345"/>
+<area shape="rect" id="node43" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="245,1319,451,1345"/>
 <area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="247,1395,449,1421"/>
 <area shape="rect" id="node47" href="$d3/dc6/classIndexAllocator.html#a50e54cb70161d141247d3c7e58807565" title="IndexAllocator::AllocIndex" alt="" coords="252,1536,444,1563"/>
-<area shape="rect" id="node4" href="$d0/d5b/classBindResolver.html#a8a2d59c57a3355cc8d20d4b0e2caeeba" title="BindResolver::BindResolver" alt="" coords="508,56,708,83"/>
+<area shape="rect" id="node4" href="$d0/d5b/classBindResolver.html#a7f67088e7fc8af1247e70a272e6c0fa7" title="BindResolver::BindResolver" alt="" coords="508,56,708,83"/>
 <area shape="rect" id="node7" href="$d0/dd6/classContrailPorts.html#a998de7e7681589c41e90a5781b6d029d" title="ContrailPorts::VnsPorts" alt="" coords="523,129,693,156"/>
 <area shape="rect" id="node9" href="$d8/d1a/classBindUtil.html#ac22506bf9e098165d244a11d8783ab01" title="BindUtil::ParseDnsResponse" alt="" coords="506,180,710,207"/>
 <area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a0444758d056656ad8b2e764f5788167e" title="BindUtil::DnsResponseCode" alt="" coords="507,231,709,257"/>

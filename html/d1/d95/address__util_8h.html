@@ -103,7 +103,6 @@ $(document).ready(function(){initNavTree('d1/d95/address__util_8h.html','../../'
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">address_util.h File Reference</div>  </div>
@@ -112,6 +111,7 @@ $(document).ready(function(){initNavTree('d1/d95/address__util_8h.html','../../'
 <div class="textblock"><code>#include &lt;string&gt;</code><br/>
 <code>#include &lt;vector&gt;</code><br/>
 <code>#include &lt;<a class="el" href="../../d9/d9b/address_8h_source.html">base/address.h</a>&gt;</code><br/>
+<code>#include &lt;boost/asio/io_service.hpp&gt;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for address_util.h:</div>
 <div class="dyncontent">
@@ -129,13 +129,6 @@ This graph shows which files directly or indirectly include this file:</div>
 </div>
 <p><a href="../../d1/d95/address__util_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/da9/namespaceboost"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/namespaceboost.html">boost</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d2/d1e/namespaceboost_1_1asio"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1e/namespaceboost_1_1asio.html">boost::asio</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a5e958eac5d2990de5abb8931e07058ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d95/address__util_8h.html#a5e958eac5d2990de5abb8931e07058ef">IsIp4SubnetMember</a> (const <a class="el" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> &amp;ip, const <a class="el" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> &amp;prefix_ip, uint16_t plen)</td></tr>
@@ -172,8 +165,8 @@ Functions</h2></td></tr>
 <tr class="separator:a8cc59db30bce2056009f91cd98614656"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a428870ea2721da49fdb5b57c2b3deea4"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d95/address__util_8h.html#a428870ea2721da49fdb5b57c2b3deea4">VectorIpv6ToString</a> (const std::vector&lt; signed char &gt; &amp;ipv6)</td></tr>
 <tr class="separator:a428870ea2721da49fdb5b57c2b3deea4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a14510d8b8b7d44276bb43de9dddbdfa2"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d95/address__util_8h.html#a14510d8b8b7d44276bb43de9dddbdfa2">GetHostIp</a> (boost::asio::io_service *io_service, const std::string &amp;hostname)</td></tr>
-<tr class="separator:a14510d8b8b7d44276bb43de9dddbdfa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a479eb5db1688548ad6ea91f45e2b1d45"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d95/address__util_8h.html#a479eb5db1688548ad6ea91f45e2b1d45">GetHostIp</a> (boost::asio::io_context *io_service, const std::string &amp;hostname)</td></tr>
+<tr class="separator:a479eb5db1688548ad6ea91f45e2b1d45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a599b4930170ec6df50a8ed3b5a18068f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d95/address__util_8h.html#a599b4930170ec6df50a8ed3b5a18068f">GetVNFromRoutingInstance</a> (const std::string &amp;vn)</td></tr>
 <tr class="separator:a599b4930170ec6df50a8ed3b5a18068f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -209,20 +202,20 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d95/address__util_8h_a631cdc1b0d8c65b106a29ca971246d51_cgraph.png" border="0" usemap="#d1/d95/address__util_8h_a631cdc1b0d8c65b106a29ca971246d51_cgraph" alt=""/></div>
 <map name="d1/d95/address__util_8h_a631cdc1b0d8c65b106a29ca971246d51_cgraph" id="d1/d95/address__util_8h_a631cdc1b0d8c65b106a29ca971246d51_cgraph">
-<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="198,5,285,32"/></map>
+<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="198,5,285,32"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="a14510d8b8b7d44276bb43de9dddbdfa2"></a>
+<a class="anchor" id="a479eb5db1688548ad6ea91f45e2b1d45"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">std::string GetHostIp </td>
           <td>(</td>
-          <td class="paramtype">boost::asio::io_service *&#160;</td>
+          <td class="paramtype">boost::asio::io_context *&#160;</td>
           <td class="paramname"><em>io_service</em>, </td>
         </tr>
         <tr>
@@ -709,7 +702,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d95/address__util_8h_aa08c05e234a17f67f0eb5d570d53a50b_cgraph.png" border="0" usemap="#d1/d95/address__util_8h_aa08c05e234a17f67f0eb5d570d53a50b_cgraph" alt=""/></div>
 <map name="d1/d95/address__util_8h_aa08c05e234a17f67f0eb5d570d53a50b_cgraph" id="d1/d95/address__util_8h_aa08c05e234a17f67f0eb5d570d53a50b_cgraph">
-<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="229,5,373,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="422,5,509,32"/></map>
+<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="229,5,373,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="422,5,509,32"/></map>
 </div>
 </p>
 
@@ -746,7 +739,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d95/address__util_8h_a8cc59db30bce2056009f91cd98614656_cgraph.png" border="0" usemap="#d1/d95/address__util_8h_a8cc59db30bce2056009f91cd98614656_cgraph" alt=""/></div>
 <map name="d1/d95/address__util_8h_a8cc59db30bce2056009f91cd98614656_cgraph" id="d1/d95/address__util_8h_a8cc59db30bce2056009f91cd98614656_cgraph">
-<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="235,5,379,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a14510d8b8b7d44276bb43de9dddbdfa2" title="GetHostIp" alt="" coords="427,5,514,32"/></map>
+<area shape="rect" id="node2" href="../../de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="235,5,379,32"/><area shape="rect" id="node3" href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="427,5,514,32"/></map>
 </div>
 </p>
 

@@ -1,16 +1,16 @@
 <map id="vncapi.cc" name="vncapi.cc">
-<area shape="rect" id="node4" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="2049,443,2140,469"/>
-<area shape="rect" id="node5" href="$d1/d95/address__util_8h.html" title="base/address_util.h" alt="" coords="94,360,241,387"/>
-<area shape="rect" id="node10" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="783,88,900,115"/>
-<area shape="rect" id="node27" href="$df/d43/vncapi_8h.html" title="vncapi.h" alt="" coords="2581,88,2659,115"/>
-<area shape="rect" id="node8" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="215,443,335,469"/>
-<area shape="rect" id="node28" href="$d9/df2/http__client_8h.html" title="http_client.h" alt="" coords="2199,179,2301,205"/>
-<area shape="rect" id="node46" href="$de/d7f/http__curl_8h.html" title="http_curl.h" alt="" coords="2575,179,2665,205"/>
-<area shape="rect" id="node47" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="2687,269,2837,296"/>
-<area shape="rect" id="node33" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="795,269,939,296"/>
-<area shape="rect" id="node41" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="1589,269,1691,296"/>
-<area shape="rect" id="node42" href="$d2/d00/tcp__server_8h.html" title="io/tcp_server.h" alt="" coords="2036,360,2153,387"/>
-<area shape="rect" id="node43" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2113,269,2239,296"/>
-<area shape="rect" id="node39" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="1591,360,1688,387"/>
-<area shape="rect" id="node40" href="$d0/d91/time__util_8h.html" title="base/time_util.h" alt="" coords="531,360,657,387"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1853,443,1944,469"/>
+<area shape="rect" id="node5" href="$d1/d95/address__util_8h.html" title="base/address_util.h" alt="" coords="2257,360,2404,387"/>
+<area shape="rect" id="node11" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="956,88,1073,115"/>
+<area shape="rect" id="node28" href="$df/d43/vncapi_8h.html" title="vncapi.h" alt="" coords="2452,88,2529,115"/>
+<area shape="rect" id="node8" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2165,443,2285,469"/>
+<area shape="rect" id="node29" href="$d9/df2/http__client_8h.html" title="http_client.h" alt="" coords="1981,179,2083,205"/>
+<area shape="rect" id="node46" href="$de/d7f/http__curl_8h.html" title="http_curl.h" alt="" coords="2777,179,2868,205"/>
+<area shape="rect" id="node47" href="$da/d69/event__manager_8h.html" title="io/event_manager.h" alt="" coords="2623,360,2773,387"/>
+<area shape="rect" id="node34" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="577,269,721,296"/>
+<area shape="rect" id="node42" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="1514,269,1616,296"/>
+<area shape="rect" id="node43" href="$d2/d00/tcp__server_8h.html" title="io/tcp_server.h" alt="" coords="1963,360,2080,387"/>
+<area shape="rect" id="node44" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="1794,269,1920,296"/>
+<area shape="rect" id="node40" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="1467,360,1564,387"/>
+<area shape="rect" id="node41" href="$d0/d91/time__util_8h.html" title="base/time_util.h" alt="" coords="358,360,484,387"/>
 </map>

@@ -3,7 +3,7 @@ var classFlowStatsCollector =
     [ "AgeingTask", "d2/d66/classFlowStatsCollector_1_1AgeingTask.html", "d2/d66/classFlowStatsCollector_1_1AgeingTask" ],
     [ "FlowEntryTree", "db/d77/classFlowStatsCollector.html#ac505ce0b9dade852b93975c198a9dc3e", null ],
     [ "Queue", "db/d77/classFlowStatsCollector.html#a6887395a340b80ea8931fa0be2361bf5", null ],
-    [ "FlowStatsCollector", "db/d77/classFlowStatsCollector.html#a5f420add018c72d382dbdf8173073046", null ],
+    [ "FlowStatsCollector", "db/d77/classFlowStatsCollector.html#a8c5c0a88b0215eaeeea1490cf2324951", null ],
     [ "~FlowStatsCollector", "db/d77/classFlowStatsCollector.html#a7cc231d75d3760d5b0d3d820e6e534ab", null ],
     [ "AddEvent", "db/d77/classFlowStatsCollector.html#a6d9a3ae81197548dd90726073866d452", null ],
     [ "AddFlow", "db/d77/classFlowStatsCollector.html#a04e642a1cda2fbc676035b2df2b3e1c9", null ],

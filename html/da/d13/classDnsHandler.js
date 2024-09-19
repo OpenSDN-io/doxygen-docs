@@ -9,7 +9,7 @@ var classDnsHandler =
       [ "DNS_QUERY", "da/d13/classDnsHandler.html#a03c6a821f3211757dc7aafc617f7a697a8b154ef364cf6489a47cbe279bb883ab", null ],
       [ "DNS_UPDATE", "da/d13/classDnsHandler.html#a03c6a821f3211757dc7aafc617f7a697ab70415428fd4ad8f63375dcc00cf0e53", null ]
     ] ],
-    [ "DnsHandler", "da/d13/classDnsHandler.html#a59f17a4bf7ed1b93d43f522a7751892f", null ],
+    [ "DnsHandler", "da/d13/classDnsHandler.html#a7be53c5fb9902f6d40f7d1acf3e044c6", null ],
     [ "~DnsHandler", "da/d13/classDnsHandler.html#a014dd41f2b8ccfdefe64b5f764a5b068", null ],
     [ "BuildDefaultDnsResolvers", "da/d13/classDnsHandler.html#af483b005b86899c18ed26cca5b81dece", null ],
     [ "BuildDnsResolvers", "da/d13/classDnsHandler.html#a56acc736b0f5fa69164072861c24c236", null ],

@@ -1,6 +1,6 @@
 var classStatsClientRemote =
 [
-    [ "StatsClientRemote", "d5/d72/classStatsClientRemote.html#ab5cb4de0dcc6810d470235e258beec2b", null ],
+    [ "StatsClientRemote", "d5/d72/classStatsClientRemote.html#afb43f272723f7ecb500dabf96457d0db", null ],
     [ "~StatsClientRemote", "d5/d72/classStatsClientRemote.html#a7b3311f4141e18fa1edabf91034df013", null ],
     [ "Initialize", "d5/d72/classStatsClientRemote.html#ae02d3e6ba69d3fc5a597acd1e35d2a89", null ],
     [ "IsConnected", "d5/d72/classStatsClientRemote.html#ae3392cd50d762faec677d48342f4c4d1", null ],

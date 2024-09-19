@@ -92,7 +92,7 @@ var gmph__private_8h =
     [ "gmph_client_group_tag", "da/d81/gmph__private_8h.html#a03af732d8ea9bbb64ca27d3aff8f965b", null ],
     [ "gmph_client_group_thread_tag", "da/d81/gmph__private_8h.html#a0b51921afc2204cb04b2fb5fe26e3748", null ],
     [ "gmph_client_tag", "da/d81/gmph__private_8h.html#ac7656b862b58330a7c6768caf0c68a63", null ],
-    [ "gmph_global_instance_thread", "da/d81/gmph__private_8h.html#a312f2a121f900fd9c8af9fe2126bbf19", null ],
+    [ "gmph_global_instance_thread", "da/d81/gmph__private_8h.html#a137bf6459205d77ef62c521fc2f301b0", null ],
     [ "gmph_global_intf_tree", "da/d81/gmph__private_8h.html#abacbd278ed5c222a72ca1c0dcb5a0f8e", null ],
     [ "gmph_group_rpt_entry_tag", "da/d81/gmph__private_8h.html#aa7e0f5bcacb47a0b38ade8ece3cbbd64", null ],
     [ "gmph_group_tag", "da/d81/gmph__private_8h.html#aa3a2a5a674a6805c79e98c111900748d", null ],

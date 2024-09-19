@@ -9,6 +9,6 @@ var structgmpr__host__group__ =
     [ "rhgroup_lock_count", "dd/d37/structgmpr__host__group__.html#a33eb93a199edc29e27a9a56887c25678", null ],
     [ "rhgroup_node", "dd/d37/structgmpr__host__group__.html#af1751adc960cb1d657218da68b56c0aa", null ],
     [ "rhgroup_notify", "dd/d37/structgmpr__host__group__.html#ab92c81f6f6e6afa8f03a23b71fcff8c5", null ],
-    [ "rhgroup_thread", "dd/d37/structgmpr__host__group__.html#a55f19ae31ad628f9c31faeb194768e53", null ],
+    [ "rhgroup_thread", "dd/d37/structgmpr__host__group__.html#acc16afb9ca6321b7cbf349ebb6144f95", null ],
     [ "rhgroup_timer", "dd/d37/structgmpr__host__group__.html#a2f0659faecb884037305c3ccb582f61a", null ]
 ];

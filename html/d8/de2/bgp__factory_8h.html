@@ -103,7 +103,8 @@ $(document).ready(function(){initNavTree('d8/de2/bgp__factory_8h.html','../../')
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
   <div class="headertitle">
 <div class="title">bgp_factory.h File Reference</div>  </div>
 </div><!--header-->
@@ -113,28 +114,404 @@ $(document).ready(function(){initNavTree('d8/de2/bgp__factory_8h.html','../../')
 <code>#include &quot;<a class="el" href="../../de/d06/factory_8h_source.html">base/factory.h</a>&quot;</code><br/>
 <code>#include &quot;<a class="el" href="../../d9/d9b/address_8h_source.html">base/address.h</a>&quot;</code><br/>
 <code>#include &quot;<a class="el" href="../../d8/d4e/iservice__chain__mgr_8h_source.html">bgp/routing-instance/iservice_chain_mgr.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="../../d9/d96/bgp__config__ifmap_8h_source.html">bgp/bgp_config_ifmap.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="../../db/d7e/service__chaining_8h_source.html">bgp/routing-instance/service_chaining.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="../../d7/deb/static__route_8h_source.html">bgp/routing-instance/static_route.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="../../dd/d4d/route__aggregator_8h_source.html">bgp/routing-instance/route_aggregator.h</a>&quot;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for bgp_factory.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dcd/bgp__factory_8h__incl.png" border="0" usemap="#bgp__factory_8h" alt=""/></div>
 <map name="bgp__factory_8h" id="bgp__factory_8h">
-<area shape="rect" id="node4" href="../../de/d06/factory_8h.html" title="base/factory.h" alt="" coords="582,88,695,115"/><area shape="rect" id="node11" href="../../d9/d9b/address_8h.html" title="base/address.h" alt="" coords="1476,179,1596,205"/><area shape="rect" id="node13" href="../../d8/d4e/iservice__chain__mgr_8h.html" title="bgp/routing&#45;instance\l/iservice_chain_mgr.h" alt="" coords="1251,81,1413,122"/><area shape="rect" id="node9" href="../../d8/d3c/util_8h.html" title="base/util.h" alt="" coords="113,179,204,205"/><area shape="rect" id="node10" href="../../d6/df7/factory__macros_8h.html" title="base/factory_macros.h" alt="" coords="1004,179,1175,205"/></map>
+<area shape="rect" id="node4" href="../../de/d06/factory_8h.html" title="base/factory.h" alt="" coords="657,269,770,296"/><area shape="rect" id="node12" href="../../d9/d9b/address_8h.html" title="base/address.h" alt="" coords="4523,360,4643,387"/><area shape="rect" id="node14" href="../../d8/d4e/iservice__chain__mgr_8h.html" title="bgp/routing&#45;instance\l/iservice_chain_mgr.h" alt="" coords="4835,262,4998,303"/><area shape="rect" id="node17" href="../../d9/d96/bgp__config__ifmap_8h.html" title="bgp/bgp_config_ifmap.h" alt="" coords="1948,88,2125,115"/><area shape="rect" id="node37" href="../../db/d7e/service__chaining_8h.html" title="bgp/routing&#45;instance\l/service_chaining.h" alt="" coords="2895,81,3050,122"/><area shape="rect" id="node45" href="../../d7/deb/static__route_8h.html" title="bgp/routing&#45;instance\l/static_route.h" alt="" coords="3125,81,3281,122"/><area shape="rect" id="node47" href="../../dd/d4d/route__aggregator_8h.html" title="bgp/routing&#45;instance\l/route_aggregator.h" alt="" coords="3632,81,3787,122"/><area shape="rect" id="node11" href="../../d8/d3c/util_8h.html" title="base/util.h" alt="" coords="1537,360,1627,387"/><area shape="rect" id="node23" href="../../de/de9/task__trigger_8h.html" title="base/task_trigger.h" alt="" coords="910,269,1057,296"/><area shape="rect" id="node25" href="../../dc/df9/index__map_8h.html" title="base/index_map.h" alt="" coords="2175,179,2317,205"/><area shape="rect" id="node28" href="../../df/d8a/bgp__config_8h.html" title="bgp/bgp_config.h" alt="" coords="3203,179,3334,205"/><area shape="rect" id="node34" href="../../d0/df5/ifmap__config__listener_8h.html" title="ifmap/ifmap_config\l_listener.h" alt="" coords="1800,171,1947,213"/><area shape="rect" id="node36" href="../../de/d4b/ifmap__node__proxy_8h.html" title="ifmap/ifmap_node_proxy.h" alt="" coords="1182,269,1377,296"/><area shape="rect" id="node27" href="../../d1/d69/bitset_8h.html" title="base/bitset.h" alt="" coords="3339,269,3446,296"/><area shape="rect" id="node30" href="../../db/d4e/bgp__common_8h.html" title="bgp/bgp_common.h" alt="" coords="3471,269,3621,296"/><area shape="rect" id="node32" href="../../de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2985,269,3111,296"/><area shape="rect" id="node39" href="../../dc/d11/lifetime_8h.html" title="base/lifetime.h" alt="" coords="1655,179,1775,205"/><area shape="rect" id="node40" href="../../d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1889,269,2033,296"/><area shape="rect" id="node41" href="../../d5/d21/bgp__condition__listener_8h.html" title="bgp/bgp_condition_listener.h" alt="" coords="2818,179,3026,205"/><area shape="rect" id="node42" href="../../db/dda/inet__route_8h.html" title="bgp/inet/inet_route.h" alt="" coords="4203,269,4361,296"/><area shape="rect" id="node43" href="../../d2/db7/inet6__route_8h.html" title="bgp/inet6/inet6_route.h" alt="" coords="4385,269,4558,296"/><area shape="rect" id="node44" href="../../d4/d2a/bgp_2evpn_2evpn__route_8h.html" title="bgp/evpn/evpn_route.h" alt="" coords="3875,179,4046,205"/><area shape="rect" id="node46" href="../../d1/d31/istatic__route__mgr_8h.html" title="bgp/routing&#45;instance\l/istatic_route_mgr.h" alt="" coords="4853,171,5009,213"/><area shape="rect" id="node48" href="../../dc/d65/iroute__aggregator_8h.html" title="bgp/routing&#45;instance\l/iroute_aggregator.h" alt="" coords="5085,171,5241,213"/><area shape="rect" id="node49" href="../../db/d6f/inet__table_8h.html" title="bgp/inet/inet_table.h" alt="" coords="4375,179,4530,205"/><area shape="rect" id="node50" href="../../d2/d69/inet6__table_8h.html" title="bgp/inet6/inet6_table.h" alt="" coords="4555,179,4726,205"/></map>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d78/bgp__factory_8h__dep__incl.png" border="0" usemap="#bgp__factory_8hdep" alt=""/></div>
 <map name="bgp__factory_8hdep" id="bgp__factory_8hdep">
-<area shape="rect" id="node2" href="../../de/dec/bgp__factory_8cc.html" title="bgp_factory.cc" alt="" coords="5,80,120,107"/><area shape="rect" id="node3" href="../../db/d6b/bgp__peer_8cc.html" title="bgp_peer.cc" alt="" coords="144,80,243,107"/><area shape="rect" id="node4" href="../../d8/dfb/bgp__peer__close_8cc.html" title="bgp_peer_close.cc" alt="" coords="267,80,408,107"/><area shape="rect" id="node5" href="../../d0/d6d/bgp__ribout_8cc.html" title="bgp_ribout.cc" alt="" coords="432,80,541,107"/><area shape="rect" id="node6" href="../../d4/d87/bgp__server_8cc.html" title="bgp_server.cc" alt="" coords="566,80,676,107"/><area shape="rect" id="node7" href="../../d6/d11/bgp__xmpp__channel_8cc.html" title="bgp_xmpp_channel.cc" alt="" coords="701,80,867,107"/><area shape="rect" id="node8" href="../../d5/d08/bgp__xmpp__peer__close_8cc.html" title="bgp_xmpp_peer_close.cc" alt="" coords="891,80,1076,107"/><area shape="rect" id="node9" href="../../d3/d36/ermvpn__table_8cc.html" title="ermvpn_table.cc" alt="" coords="1101,80,1232,107"/><area shape="rect" id="node10" href="../../d2/d72/evpn__table_8cc.html" title="evpn_table.cc" alt="" coords="1256,80,1368,107"/><area shape="rect" id="node11" href="../../d2/d3b/message__builder_8cc.html" title="message_builder.cc" alt="" coords="1393,80,1543,107"/><area shape="rect" id="node12" href="../../de/d6d/mvpn__table_8cc.html" title="mvpn_table.cc" alt="" coords="1568,80,1685,107"/><area shape="rect" id="node13" href="../../dd/d79/peer__manager_8cc.html" title="peer_manager.cc" alt="" coords="1709,80,1843,107"/><area shape="rect" id="node14" href="../../d3/d46/routing__instance_8cc.html" title="routing_instance.cc" alt="" coords="1867,80,2015,107"/><area shape="rect" id="node15" href="../../d0/dd4/routing__policy_8cc.html" title="routing_policy.cc" alt="" coords="2040,80,2171,107"/><area shape="rect" id="node16" href="../../d1/d4e/factory_8cc.html" title="factory.cc" alt="" coords="2195,80,2279,107"/></map>
+<area shape="rect" id="node2" href="../../de/dec/bgp__factory_8cc.html" title="bgp_factory.cc" alt="" coords="5,80,120,107"/><area shape="rect" id="node3" href="../../db/d6b/bgp__peer_8cc.html" title="bgp_peer.cc" alt="" coords="144,80,243,107"/><area shape="rect" id="node4" href="../../d8/dfb/bgp__peer__close_8cc.html" title="bgp_peer_close.cc" alt="" coords="267,80,408,107"/><area shape="rect" id="node5" href="../../d0/d6d/bgp__ribout_8cc.html" title="bgp_ribout.cc" alt="" coords="432,80,541,107"/><area shape="rect" id="node6" href="../../d4/d87/bgp__server_8cc.html" title="bgp_server.cc" alt="" coords="566,80,676,107"/><area shape="rect" id="node7" href="../../d6/d11/bgp__xmpp__channel_8cc.html" title="bgp_xmpp_channel.cc" alt="" coords="701,80,867,107"/><area shape="rect" id="node8" href="../../d5/d08/bgp__xmpp__peer__close_8cc.html" title="bgp_xmpp_peer_close.cc" alt="" coords="891,80,1076,107"/><area shape="rect" id="node9" href="../../d3/d36/ermvpn__table_8cc.html" title="ermvpn_table.cc" alt="" coords="1101,80,1232,107"/><area shape="rect" id="node10" href="../../d2/d72/evpn__table_8cc.html" title="evpn_table.cc" alt="" coords="1256,80,1368,107"/><area shape="rect" id="node11" href="../../d2/d3b/message__builder_8cc.html" title="message_builder.cc" alt="" coords="1393,80,1543,107"/><area shape="rect" id="node12" href="../../de/d6d/mvpn__table_8cc.html" title="mvpn_table.cc" alt="" coords="1568,80,1685,107"/><area shape="rect" id="node13" href="../../dd/d79/peer__manager_8cc.html" title="peer_manager.cc" alt="" coords="1709,80,1843,107"/><area shape="rect" id="node14" href="../../d3/d46/routing__instance_8cc.html" title="routing_instance.cc" alt="" coords="1867,80,2015,107"/><area shape="rect" id="node15" href="../../d0/dd4/routing__policy_8cc.html" title="routing_policy.cc" alt="" coords="2040,80,2171,107"/></map>
 </div>
 </div>
 <p><a href="../../d8/de2/bgp__factory_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd2/classBgpObjectFactory.html">BgpObjectFactory</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7c/structBgpStaticObjectFactory.html">BgpStaticObjectFactory</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5d/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IServiceChainMgr_00_01SCAddress_1_1INET_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IServiceChainMgr, SCAddress::INET &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d19/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IServiceChainMgr_00_01SCAddress_1_1INET6_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IServiceChainMgr, SCAddress::INET6 &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IServiceChainMgr_00_01SCAddress_1_1EVPN_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IServiceChainMgr, SCAddress::EVPN &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1e/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IServiceChainMgr_00_01SCAddress_1_1EVPN6_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IServiceChainMgr, SCAddress::EVPN6 &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd6/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IStaticRouteMgr_00_01Address_1_1INET_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IStaticRouteMgr, Address::INET &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IStaticRouteMgr_00_01Address_1_1INET6_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IStaticRouteMgr, Address::INET6 &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d27/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IRouteAggregator, Address::INET &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d28/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET6_01_4.html">BgpStaticObjectFactory::ParameterCastTo&lt; IRouteAggregator, Address::INET6 &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a3c7d835a03bf3073ede9bc47139f09f0"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a3c7d835a03bf3073ede9bc47139f09f0">BgpConfigManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../da/d05/classBgpConfigManager.html">BgpConfigManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:a3c7d835a03bf3073ede9bc47139f09f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a232a18bb07127090094b4cfba85af5ac"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a232a18bb07127090094b4cfba85af5ac">BgpMembershipManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d2/d45/classBgpMembershipManager.html">BgpMembershipManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:a232a18bb07127090094b4cfba85af5ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a375510f67c3cbff087b287f9dcf24cf4"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a375510f67c3cbff087b287f9dcf24cf4">BgpExportRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d6/d18/classBgpExport.html">BgpExport</a>, <a class="el" href="../../db/dd4/classRibOut.html">RibOut</a> * &gt;</td></tr>
+<tr class="separator:a375510f67c3cbff087b287f9dcf24cf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd52870ac7d6e76f24690ff29111707d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#abd52870ac7d6e76f24690ff29111707d">EvpnManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d4/d15/classEvpnManager.html">EvpnManager</a>, <a class="el" href="../../da/da4/classEvpnTable.html">EvpnTable</a> * &gt;</td></tr>
+<tr class="separator:abd52870ac7d6e76f24690ff29111707d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ad250ce7e186b379723aab8c60e4994"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a3ad250ce7e186b379723aab8c60e4994">McastTreeManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d3/dbd/classMcastTreeManager.html">McastTreeManager</a>, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a> * &gt;</td></tr>
+<tr class="separator:a3ad250ce7e186b379723aab8c60e4994"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ec4ccb0fa7bec3c750d5b6ee6ddab1f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a2ec4ccb0fa7bec3c750d5b6ee6ddab1f">MvpnProjectManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d5/dd5/classMvpnProjectManager.html">MvpnProjectManager</a>, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a> * &gt;</td></tr>
+<tr class="separator:a2ec4ccb0fa7bec3c750d5b6ee6ddab1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd7db2b3a71d6d48c637e4a772203e37"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#afd7db2b3a71d6d48c637e4a772203e37">PeerCloseManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../df/ddb/classPeerCloseManager.html">PeerCloseManager</a>, <a class="el" href="../../da/d00/classIPeerClose.html">IPeerClose</a> * &gt;</td></tr>
+<tr class="separator:afd7db2b3a71d6d48c637e4a772203e37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a644e02a47831adf0286f4a25ad91134c"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a644e02a47831adf0286f4a25ad91134c">PeerManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d2/dc6/classPeerManager.html">PeerManager</a>, <a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a> * &gt;</td></tr>
+<tr class="separator:a644e02a47831adf0286f4a25ad91134c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd60699e370101b260d95f7050a56102"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#afd60699e370101b260d95f7050a56102">RoutingInstanceMgrRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d2/d72/classRoutingInstanceMgr.html">RoutingInstanceMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:afd60699e370101b260d95f7050a56102"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d22add5ddc1884b23c98691bac75b97"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a9d22add5ddc1884b23c98691bac75b97">RoutingPolicyMgrRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d9/d8d/classRoutingPolicyMgr.html">RoutingPolicyMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:a9d22add5ddc1884b23c98691bac75b97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7171ab0d80dc0283f09178a4d5110e94"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a7171ab0d80dc0283f09178a4d5110e94">RTargetGroupMgrRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../da/d47/classRTargetGroupMgr.html">RTargetGroupMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:a7171ab0d80dc0283f09178a4d5110e94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab1ef5a221954f135668d75bf831f007"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#aab1ef5a221954f135668d75bf831f007">StateMachineRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d0/dc5/classStateMachine.html">StateMachine</a>, <a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a> * &gt;</td></tr>
+<tr class="separator:aab1ef5a221954f135668d75bf831f007"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af785e81f0cb3858afb864a5177a0d83c"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#af785e81f0cb3858afb864a5177a0d83c">BgpPeerCloseRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d8/d25/classBgpPeerClose.html">BgpPeerClose</a>, <a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a> * &gt;</td></tr>
+<tr class="separator:af785e81f0cb3858afb864a5177a0d83c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46ca1dad0acb2665ae72ef235fbd2131"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a46ca1dad0acb2665ae72ef235fbd2131">MvpnManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d7/dd2/classMvpnManager.html">MvpnManager</a>, <a class="el" href="../../da/dd1/classMvpnTable.html">MvpnTable</a> *, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a> * &gt;</td></tr>
+<tr class="separator:a46ca1dad0acb2665ae72ef235fbd2131"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aedde33518157a4a6b91209cd59579d63"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#aedde33518157a4a6b91209cd59579d63">BgpLifetimeManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d8/da6/classBgpLifetimeManager.html">BgpLifetimeManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, int &gt;</td></tr>
+<tr class="separator:aedde33518157a4a6b91209cd59579d63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4855bc2a1e117e47eb01bb7f48ab03a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#af4855bc2a1e117e47eb01bb7f48ab03a">BgpSessionManagerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d1/df7/classBgpSessionManager.html">BgpSessionManager</a>, <a class="el" href="../../d2/dd9/classEventManager.html">EventManager</a> *, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> * &gt;</td></tr>
+<tr class="separator:af4855bc2a1e117e47eb01bb7f48ab03a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25659bbf491289f9ae9b8ce690be861f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a25659bbf491289f9ae9b8ce690be861f">RibOutUpdatesRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d2/db6/classRibOutUpdates.html">RibOutUpdates</a>, <a class="el" href="../../db/dd4/classRibOut.html">RibOut</a> *, int &gt;</td></tr>
+<tr class="separator:a25659bbf491289f9ae9b8ce690be861f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b27c51eb38ee29ac4f2b101a65d2ce2"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a3b27c51eb38ee29ac4f2b101a65d2ce2">BgpPeerRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a> *, const <a class="el" href="../../d0/dbd/classBgpNeighborConfig.html">BgpNeighborConfig</a> * &gt;</td></tr>
+<tr class="separator:a3b27c51eb38ee29ac4f2b101a65d2ce2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a941da38bfe32f32debf79dc0e910161a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a941da38bfe32f32debf79dc0e910161a">RoutingInstanceRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a>, std::string, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../d2/d72/classRoutingInstanceMgr.html">RoutingInstanceMgr</a> *, const <a class="el" href="../../d6/ddf/classBgpInstanceConfig.html">BgpInstanceConfig</a> * &gt;</td></tr>
+<tr class="separator:a941da38bfe32f32debf79dc0e910161a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af79e300a0ad12372b16cc764f6df1889"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#af79e300a0ad12372b16cc764f6df1889">RoutingPolicyRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../dc/d96/classRoutingPolicy.html">RoutingPolicy</a>, std::string, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../d9/d8d/classRoutingPolicyMgr.html">RoutingPolicyMgr</a> *, const <a class="el" href="../../d4/dbb/classBgpRoutingPolicyConfig.html">BgpRoutingPolicyConfig</a> * &gt;</td></tr>
+<tr class="separator:af79e300a0ad12372b16cc764f6df1889"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a6eb0cc1182b7cb7aedad10c7c47876"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a8a6eb0cc1182b7cb7aedad10c7c47876">BgpMessageBuilderRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d3/d87/classBgpMessageBuilder.html">BgpMessageBuilder</a> &gt;</td></tr>
+<tr class="separator:a8a6eb0cc1182b7cb7aedad10c7c47876"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7eed2c332f4a339054312e0d8975b7"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de2/bgp__factory_8h.html#a8f7eed2c332f4a339054312e0d8975b7">BgpXmppMessageBuilderRec</a> = <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt; <a class="el" href="../../d7/d2c/classBgpXmppMessageBuilder.html">BgpXmppMessageBuilder</a> &gt;</td></tr>
+<tr class="separator:a8f7eed2c332f4a339054312e0d8975b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a class="anchor" id="a3c7d835a03bf3073ede9bc47139f09f0"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a3c7d835a03bf3073ede9bc47139f09f0">BgpConfigManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../da/d05/classBgpConfigManager.html">BgpConfigManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00062">62</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a375510f67c3cbff087b287f9dcf24cf4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a375510f67c3cbff087b287f9dcf24cf4">BgpExportRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d6/d18/classBgpExport.html">BgpExport</a>, <a class="el" href="../../db/dd4/classRibOut.html">RibOut</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00068">68</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="aedde33518157a4a6b91209cd59579d63"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#aedde33518157a4a6b91209cd59579d63">BgpLifetimeManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d8/da6/classBgpLifetimeManager.html">BgpLifetimeManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, int&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00104">104</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a232a18bb07127090094b4cfba85af5ac"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a232a18bb07127090094b4cfba85af5ac">BgpMembershipManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d2/d45/classBgpMembershipManager.html">BgpMembershipManager</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00065">65</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a8a6eb0cc1182b7cb7aedad10c7c47876"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a8a6eb0cc1182b7cb7aedad10c7c47876">BgpMessageBuilderRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d3/d87/classBgpMessageBuilder.html">BgpMessageBuilder</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00123">123</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="af785e81f0cb3858afb864a5177a0d83c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#af785e81f0cb3858afb864a5177a0d83c">BgpPeerCloseRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d8/d25/classBgpPeerClose.html">BgpPeerClose</a>, <a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00098">98</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a3b27c51eb38ee29ac4f2b101a65d2ce2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a3b27c51eb38ee29ac4f2b101a65d2ce2">BgpPeerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a> *, const <a class="el" href="../../d0/dbd/classBgpNeighborConfig.html">BgpNeighborConfig</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00113">113</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="af4855bc2a1e117e47eb01bb7f48ab03a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#af4855bc2a1e117e47eb01bb7f48ab03a">BgpSessionManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d1/df7/classBgpSessionManager.html">BgpSessionManager</a>, <a class="el" href="../../d2/dd9/classEventManager.html">EventManager</a> *, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00107">107</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a8f7eed2c332f4a339054312e0d8975b7"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a8f7eed2c332f4a339054312e0d8975b7">BgpXmppMessageBuilderRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d7/d2c/classBgpXmppMessageBuilder.html">BgpXmppMessageBuilder</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00125">125</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="abd52870ac7d6e76f24690ff29111707d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#abd52870ac7d6e76f24690ff29111707d">EvpnManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d4/d15/classEvpnManager.html">EvpnManager</a>, <a class="el" href="../../da/da4/classEvpnTable.html">EvpnTable</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00071">71</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a3ad250ce7e186b379723aab8c60e4994"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a3ad250ce7e186b379723aab8c60e4994">McastTreeManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d3/dbd/classMcastTreeManager.html">McastTreeManager</a>, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00074">74</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a46ca1dad0acb2665ae72ef235fbd2131"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a46ca1dad0acb2665ae72ef235fbd2131">MvpnManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d7/dd2/classMvpnManager.html">MvpnManager</a>, <a class="el" href="../../da/dd1/classMvpnTable.html">MvpnTable</a> *, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00101">101</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a2ec4ccb0fa7bec3c750d5b6ee6ddab1f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a2ec4ccb0fa7bec3c750d5b6ee6ddab1f">MvpnProjectManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d5/dd5/classMvpnProjectManager.html">MvpnProjectManager</a>, <a class="el" href="../../d3/db0/classErmVpnTable.html">ErmVpnTable</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00077">77</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="afd7db2b3a71d6d48c637e4a772203e37"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#afd7db2b3a71d6d48c637e4a772203e37">PeerCloseManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../df/ddb/classPeerCloseManager.html">PeerCloseManager</a>, <a class="el" href="../../da/d00/classIPeerClose.html">IPeerClose</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00080">80</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a644e02a47831adf0286f4a25ad91134c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a644e02a47831adf0286f4a25ad91134c">PeerManagerRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d2/dc6/classPeerManager.html">PeerManager</a>, <a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00083">83</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a25659bbf491289f9ae9b8ce690be861f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a25659bbf491289f9ae9b8ce690be861f">RibOutUpdatesRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d2/db6/classRibOutUpdates.html">RibOutUpdates</a>, <a class="el" href="../../db/dd4/classRibOut.html">RibOut</a> *, int&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00110">110</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="afd60699e370101b260d95f7050a56102"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#afd60699e370101b260d95f7050a56102">RoutingInstanceMgrRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d2/d72/classRoutingInstanceMgr.html">RoutingInstanceMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00086">86</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a941da38bfe32f32debf79dc0e910161a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a941da38bfe32f32debf79dc0e910161a">RoutingInstanceRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../de/ddf/classRoutingInstance.html">RoutingInstance</a>, std::string, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../d2/d72/classRoutingInstanceMgr.html">RoutingInstanceMgr</a> *, const <a class="el" href="../../d6/ddf/classBgpInstanceConfig.html">BgpInstanceConfig</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00117">117</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a9d22add5ddc1884b23c98691bac75b97"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a9d22add5ddc1884b23c98691bac75b97">RoutingPolicyMgrRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d9/d8d/classRoutingPolicyMgr.html">RoutingPolicyMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a>*&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00089">89</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="af79e300a0ad12372b16cc764f6df1889"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#af79e300a0ad12372b16cc764f6df1889">RoutingPolicyRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../dc/d96/classRoutingPolicy.html">RoutingPolicy</a>, std::string, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *, <a class="el" href="../../d9/d8d/classRoutingPolicyMgr.html">RoutingPolicyMgr</a> *, const <a class="el" href="../../d4/dbb/classBgpRoutingPolicyConfig.html">BgpRoutingPolicyConfig</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00121">121</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a7171ab0d80dc0283f09178a4d5110e94"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#a7171ab0d80dc0283f09178a4d5110e94">RTargetGroupMgrRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../da/d47/classRTargetGroupMgr.html">RTargetGroupMgr</a>, <a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00092">92</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="aab1ef5a221954f135668d75bf831f007"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/de2/bgp__factory_8h.html#aab1ef5a221954f135668d75bf831f007">StateMachineRec</a> =  <a class="el" href="../../d4/d20/structStaticObjectFactory_1_1FactoryRecord.html">BgpStaticObjectFactory::FactoryRecord</a>&lt;<a class="el" href="../../d0/dc5/classStateMachine.html">StateMachine</a>, <a class="el" href="../../d3/d2d/classBgpPeer.html">BgpPeer</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d8/de2/bgp__factory_8h_source.html#l00095">95</a> of file <a class="el" href="../../d8/de2/bgp__factory_8h_source.html">bgp_factory.h</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

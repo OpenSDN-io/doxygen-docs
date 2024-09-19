@@ -139,7 +139,7 @@ $(document).ready(function(){initNavTree('de/d12/ksync__vxlan_8cc_source.html','
 <div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<a class="code" href="../../dc/df2/classKSyncEntry.html">KSyncEntry</a> *<a class="code" href="../../d6/d7d/classKSyncVxlan.html#a6d42bd3b9cddf0e9b6cd6f5bc45cc994">KSyncVxlan::defer_entry_</a>;</div>
 <div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;</div>
 <div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="../../d6/d7d/classKSyncVxlan.html#aaedd851c1e8e596ee39b976e448cc16f">   33</a></span>&#160;<a class="code" href="../../d6/d7d/classKSyncVxlan.html#aaedd851c1e8e596ee39b976e448cc16f">KSyncVxlan::KSyncVxlan</a>(<a class="code" href="../../d8/dfe/classAgent.html">Agent</a> *agent) :</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    agent_(agent), bridge_obj_(NULL), port_obj_(NULL), vrf_obj_(NULL) {</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    agent_(agent), bridge_obj_(nullptr), port_obj_(nullptr), vrf_obj_(nullptr) {</div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;}</div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;</div>
 <div class="line"><a name="l00037"></a><span class="lineno"><a class="line" href="../../d6/d7d/classKSyncVxlan.html#a033ce880b4dda3a3c9e76a5295f8f6a9">   37</a></span>&#160;<a class="code" href="../../d6/d7d/classKSyncVxlan.html#a033ce880b4dda3a3c9e76a5295f8f6a9">KSyncVxlan::~KSyncVxlan</a>() {</div>
@@ -191,9 +191,9 @@ $(document).ready(function(){initNavTree('de/d12/ksync__vxlan_8cc_source.html','
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;}</div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;</div>
 <div class="line"><a name="l00085"></a><span class="lineno"><a class="line" href="../../d6/d7d/classKSyncVxlan.html#a0d2386f9675bc155bf89da72a8d85a0f">   85</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d6/d7d/classKSyncVxlan.html#a0d2386f9675bc155bf89da72a8d85a0f">KSyncVxlan::Shutdown</a>() {</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#a90f3dbb060f98c1bda0a7bb6ab946540">bridge_obj_</a>.reset(NULL);</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#a4aed5e81d871e44038ca6dc199c7f46a">port_obj_</a>.reset(NULL);</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#ac274a3fe88f79e285264dbfc694d8459">vrf_obj_</a>.reset(NULL);</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#a90f3dbb060f98c1bda0a7bb6ab946540">bridge_obj_</a>.reset(<span class="keyword">nullptr</span>);</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#a4aed5e81d871e44038ca6dc199c7f46a">port_obj_</a>.reset(<span class="keyword">nullptr</span>);</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <a class="code" href="../../d6/d7d/classKSyncVxlan.html#ac274a3fe88f79e285264dbfc694d8459">vrf_obj_</a>.reset(<span class="keyword">nullptr</span>);</div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <a class="code" href="../../d1/dcb/classKSyncObjectManager.html#a4749fcff2a40fee3bf45977ed6d97d9d">KSyncObjectManager::Shutdown</a>();</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;}</div>
 <div class="ttc" id="ksync__index_8h_html"><div class="ttname"><a href="../../d6/dbe/ksync__index_8h.html">ksync_index.h</a></div></div>

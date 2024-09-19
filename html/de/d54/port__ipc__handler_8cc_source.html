@@ -754,7 +754,7 @@ $(document).ready(function(){initNavTree('de/d54/port__ipc__handler_8cc_source.h
 <div class="line"><a name="l00650"></a><span class="lineno">  650</span>&#160;    }</div>
 <div class="line"><a name="l00651"></a><span class="lineno">  651</span>&#160;    boost::system::error_code ec;</div>
 <div class="line"><a name="l00652"></a><span class="lineno">  652</span>&#160;    entry-&gt;<a class="code" href="../../d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a44c52c63202866ab7e38ed43ed9b6520">ip_</a> = Ip4Address::from_string(d[<span class="stringliteral">&quot;ip-address&quot;</span>].GetString(), ec);</div>
-<div class="line"><a name="l00653"></a><span class="lineno">  653</span>&#160;    <span class="keywordflow">if</span> (ec != 0) {</div>
+<div class="line"><a name="l00653"></a><span class="lineno">  653</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) {</div>
 <div class="line"><a name="l00654"></a><span class="lineno">  654</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00655"></a><span class="lineno">  655</span>&#160;    }</div>
 <div class="line"><a name="l00656"></a><span class="lineno">  656</span>&#160;    entry-&gt;<a class="code" href="../../d5/d22/structVirtualGatewayConfig_1_1Subnet.html#a41b432ab28797766308b436fa4a74c34">plen_</a> = d[<span class="stringliteral">&quot;prefix-len&quot;</span>].GetInt();</div>

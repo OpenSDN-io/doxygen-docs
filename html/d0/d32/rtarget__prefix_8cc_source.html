@@ -197,7 +197,7 @@ $(document).ready(function(){initNavTree('d0/d32/rtarget__prefix_8cc_source.html
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    error_code rtarget_err;</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <a class="code" href="../../dd/d0f/classRouteTarget.html">RouteTarget</a> <a class="code" href="../../de/d40/classRTargetPrefix.html#ad882d5be321245c8861266c037e8fa0d">rtarget</a>;</div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    rtarget = <a class="code" href="../../dd/d0f/classRouteTarget.html#afa1478ad4e0519594d1b140489967267">RouteTarget::FromString</a>(rtargetstr, &amp;rtarget_err);</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordflow">if</span> (rtarget_err != 0) {</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordflow">if</span> (rtarget_err.failed()) {</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL)</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;            *errorp = rtarget_err;</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;        <span class="keywordflow">return</span> prefix;</div>

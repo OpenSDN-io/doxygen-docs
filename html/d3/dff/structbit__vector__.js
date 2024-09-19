@@ -6,6 +6,6 @@ var structbit__vector__ =
     [ "bv_entry_count", "d3/dff/structbit__vector__.html#a1f94d9d6454543cb4cea274e1b6ae1b4", null ],
     [ "bv_fastvects", "d3/dff/structbit__vector__.html#aea3d0478f6f1c3d0dd978f71f45fecd1", null ],
     [ "bv_freed_ord", "d3/dff/structbit__vector__.html#a8711011a9140fcf25ac18c12b067564a", null ],
-    [ "bv_nonfull_head", "d3/dff/structbit__vector__.html#af7a0b6d653ee62f0675c1974449f09f6", null ],
+    [ "bv_nonfull_head", "d3/dff/structbit__vector__.html#a609d74100926a505464edb6bf16ee7c3", null ],
     [ "bv_root", "d3/dff/structbit__vector__.html#ad18c3f793d3d21b042a8b08de29323a4", null ]
 ];

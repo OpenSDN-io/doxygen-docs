@@ -30,7 +30,7 @@ var classPeerCloseManager =
       [ "DELETE", "df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba592700e367c53da7f339dc8138078265", null ],
       [ "END_STATE", "df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba22bc32e352d3b5fc1c2c19410c909b1b", null ]
     ] ],
-    [ "PeerCloseManager", "df/ddb/classPeerCloseManager.html#acd19e70cc04d0bd137c3f76513f5edd5", null ],
+    [ "PeerCloseManager", "df/ddb/classPeerCloseManager.html#a1e27eb9d0b907411bcc8a4c444f98929", null ],
     [ "PeerCloseManager", "df/ddb/classPeerCloseManager.html#a33d8e1ecc6c3a3d96bbf7a1e17563e7f", null ],
     [ "~PeerCloseManager", "df/ddb/classPeerCloseManager.html#a09962053c93a740c6463e01d01a51e98", null ],
     [ "AssertMembershipManagerInUse", "df/ddb/classPeerCloseManager.html#af8d69e9cc26ef54eada2578df1df0645", null ],

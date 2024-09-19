@@ -1,7 +1,7 @@
 var address__util_8h =
 [
     [ "AddressFromString", "d1/d95/address__util_8h.html#a631cdc1b0d8c65b106a29ca971246d51", null ],
-    [ "GetHostIp", "d1/d95/address__util_8h.html#a14510d8b8b7d44276bb43de9dddbdfa2", null ],
+    [ "GetHostIp", "d1/d95/address__util_8h.html#a479eb5db1688548ad6ea91f45e2b1d45", null ],
     [ "GetIp4SubnetBroadcastAddress", "d1/d95/address__util_8h.html#a92d604e4d5b78023de7180847959b0ea", null ],
     [ "GetVNFromRoutingInstance", "d1/d95/address__util_8h.html#a599b4930170ec6df50a8ed3b5a18068f", null ],
     [ "Ip6AddressToU64Array", "d1/d95/address__util_8h.html#ac7d4d0a167f7441111c5723522e12cee", null ],

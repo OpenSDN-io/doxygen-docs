@@ -4,7 +4,7 @@ var classNexthopDBServer =
     [ "ClientIterator", "db/d94/classNexthopDBServer.html#a573fb99af80996b6d683d92bb6c0e657", null ],
     [ "NexthopDB", "db/d94/classNexthopDBServer.html#af170c7c703522ad30307a07544a25209", null ],
     [ "NexthopIterator", "db/d94/classNexthopDBServer.html#a8d8720afa7a91d8fb275f856842e0264", null ],
-    [ "NexthopDBServer", "db/d94/classNexthopDBServer.html#a28102e664ddd83763b14eede6b843e95", null ],
+    [ "NexthopDBServer", "db/d94/classNexthopDBServer.html#a4f9ca053850e149e76ac965bea8e02be", null ],
     [ "AddClient", "db/d94/classNexthopDBServer.html#abee43208438e55beb4c8be2302c3e09e", null ],
     [ "AddNexthop", "db/d94/classNexthopDBServer.html#aa5b70b377e61f27c4ea0b9681319b0d9", null ],
     [ "EventHandler", "db/d94/classNexthopDBServer.html#a7d44889c8153de8afe34cc5b39afdb4f", null ],
@@ -17,7 +17,7 @@ var classNexthopDBServer =
     [ "client_table_", "db/d94/classNexthopDBServer.html#a4edc6730a24d3e6030161b14c1cb18d5", null ],
     [ "endpoint_path_", "db/d94/classNexthopDBServer.html#a8c2b0251d2220f106a16a86120e126eb", null ],
     [ "io_server_", "db/d94/classNexthopDBServer.html#a0910654e47f560d4edda22b884907e9b", null ],
-    [ "io_service_", "db/d94/classNexthopDBServer.html#ac482da292e81151101f70edea90dc052", null ],
+    [ "io_service_", "db/d94/classNexthopDBServer.html#a5c97eb3c59948bb76920eafef234fbee", null ],
     [ "mutex_", "db/d94/classNexthopDBServer.html#a47e27ee0ab333f045f8432eab1f4a9a1", null ],
     [ "nexthop_table_", "db/d94/classNexthopDBServer.html#a3716a0e41b4d13143b93a64c7a852be3", null ]
 ];

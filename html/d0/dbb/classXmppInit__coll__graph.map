@@ -1,16 +1,16 @@
 <map id="XmppInit" name="XmppInit">
-<area shape="rect" id="node2" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1663,516,1761,543"/>
-<area shape="rect" id="node3" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1405,465,1595,492"/>
-<area shape="rect" id="node17" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1661,415,1763,441"/>
-<area shape="rect" id="node4" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1056,217,1139,244"/>
-<area shape="rect" id="node5" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="607,181,692,208"/>
-<area shape="rect" id="node6" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,136,351,163"/>
-<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="541,361,757,388"/>
-<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="504,535,795,561"/>
-<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,7,349,33"/>
-<area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="969,338,1226,379"/>
-<area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,403,355,429"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="624,459,675,485"/>
-<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="981,520,1214,576"/>
-<area shape="rect" id="node16" href="$d9/d68/classXmppConfigData.html" title="XmppConfigData" alt="" coords="1646,465,1778,492"/>
+<area shape="rect" id="node2" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="1665,516,1764,543"/>
+<area shape="rect" id="node3" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1408,465,1597,492"/>
+<area shape="rect" id="node17" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1663,415,1766,441"/>
+<area shape="rect" id="node4" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1059,217,1141,244"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="609,181,695,208"/>
+<area shape="rect" id="node6" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,136,354,163"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="544,361,760,388"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="507,535,797,561"/>
+<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,7,352,33"/>
+<area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="971,338,1229,379"/>
+<area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,403,358,429"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="627,459,677,485"/>
+<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="983,520,1217,576"/>
+<area shape="rect" id="node16" href="$d9/d68/classXmppConfigData.html" title="XmppConfigData" alt="" coords="1649,465,1781,492"/>
 </map>

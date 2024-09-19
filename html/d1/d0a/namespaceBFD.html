@@ -267,8 +267,8 @@ Enumerations</h2></td></tr>
 Functions</h2></td></tr>
 <tr class="memitem:a2ed418ae25470397aec9cd6023065b1f"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0a/namespaceBFD.html#a2ed418ae25470397aec9cd6023065b1f">operator&lt;&lt;</a> (std::ostream &amp;out, <a class="el" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50d">BFDState</a> state)</td></tr>
 <tr class="separator:a2ed418ae25470397aec9cd6023065b1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6b611e56a159a68c796b4592a882b4d"><td class="memItemLeft" align="right" valign="top">boost::optional&lt; <a class="el" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50d">BFDState</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0a/namespaceBFD.html#aa6b611e56a159a68c796b4592a882b4d">BFDStateFromString</a> (const char *str)</td></tr>
-<tr class="separator:aa6b611e56a159a68c796b4592a882b4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae77490e0e47bf0456e9226de1c6ee779"><td class="memItemLeft" align="right" valign="top">boost::optional&lt; <a class="el" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50d">BFDState</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0a/namespaceBFD.html#ae77490e0e47bf0456e9226de1c6ee779">BFDStateFromString</a> (const std::string &amp;str)</td></tr>
+<tr class="separator:ae77490e0e47bf0456e9226de1c6ee779"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a381cc43c6f1244357afd041a55151317"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0a/namespaceBFD.html#a381cc43c6f1244357afd041a55151317">operator&lt;&lt;</a> (std::ostream &amp;, enum <a class="el" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50d">BFDState</a>)</td></tr>
 <tr class="separator:a381cc43c6f1244357afd041a55151317"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a010a976d71c62b4a5b54e04116a0cd7d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d11/structBFD_1_1ControlPacket.html">ControlPacket</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0a/namespaceBFD.html#a010a976d71c62b4a5b54e04116a0cd7d">ParseControlPacket</a> (const uint8_t *data, size_t size)</td></tr>
@@ -516,14 +516,14 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a class="anchor" id="aa6b611e56a159a68c796b4592a882b4d"></a>
+<a class="anchor" id="ae77490e0e47bf0456e9226de1c6ee779"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">boost::optional&lt; <a class="el" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50d">BFDState</a> &gt; BFD::BFDStateFromString </td>
           <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
           <td class="paramname"><em>str</em></td><td>)</td>
           <td></td>
         </tr>
@@ -744,10 +744,10 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">        boost::assign::list_of&lt;BFDStateNames::relation&gt;</div>
-<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da758d23c151e7063416a9fd1db28a4f83">kAdminDown</a>, <span class="stringliteral">&quot;AdminDown&quot;</span>)</div>
-<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da57c9c5eb81adfc1b83d96baccc5226fd">kDown</a>,      <span class="stringliteral">&quot;Down&quot;</span>)</div>
-<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50daf304295947b4736138e73c7f6cc5c97f">kInit</a>,      <span class="stringliteral">&quot;Init&quot;</span>)</div>
-<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da4c9b2f9d21b624be6ed1919b39c4c502">kUp</a>,        <span class="stringliteral">&quot;Up&quot;</span>)</div>
+<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da758d23c151e7063416a9fd1db28a4f83">kAdminDown</a>, std::string(<span class="stringliteral">&quot;AdminDown&quot;</span>))</div>
+<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da57c9c5eb81adfc1b83d96baccc5226fd">kDown</a>,      std::string(<span class="stringliteral">&quot;Down&quot;</span>))</div>
+<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50daf304295947b4736138e73c7f6cc5c97f">kInit</a>,      std::string(<span class="stringliteral">&quot;Init&quot;</span>))</div>
+<div class="line">        (<a class="code" href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da4c9b2f9d21b624be6ed1919b39c4c502">kUp</a>,        std::string(<span class="stringliteral">&quot;Up&quot;</span>))</div>
 <div class="ttc" id="namespaceBFD_html_a3cdbb2acd0f48982f9be67a8a093b50daf304295947b4736138e73c7f6cc5c97f"><div class="ttname"><a href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50daf304295947b4736138e73c7f6cc5c97f">BFD::kInit</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6b/bfd__common_8h_source.html#l00022">bfd_common.h:22</a></div></div>
 <div class="ttc" id="namespaceBFD_html_a3cdbb2acd0f48982f9be67a8a093b50da4c9b2f9d21b624be6ed1919b39c4c502"><div class="ttname"><a href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da4c9b2f9d21b624be6ed1919b39c4c502">BFD::kUp</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6b/bfd__common_8h_source.html#l00022">bfd_common.h:22</a></div></div>
 <div class="ttc" id="namespaceBFD_html_a3cdbb2acd0f48982f9be67a8a093b50da758d23c151e7063416a9fd1db28a4f83"><div class="ttname"><a href="../../d1/d0a/namespaceBFD.html#a3cdbb2acd0f48982f9be67a8a093b50da758d23c151e7063416a9fd1db28a4f83">BFD::kAdminDown</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6b/bfd__common_8h_source.html#l00022">bfd_common.h:22</a></div></div>

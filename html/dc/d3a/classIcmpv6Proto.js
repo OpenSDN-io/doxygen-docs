@@ -20,11 +20,11 @@ var classIcmpv6Proto =
       [ "NDP_DELETE", "dc/d3a/classIcmpv6Proto.html#aec3a0f8434a3219037d37eb995f134f2a2d2826d347ed90c170009d9dc31bb068", null ],
       [ "NDP_SEND_UNSOL_NA", "dc/d3a/classIcmpv6Proto.html#aec3a0f8434a3219037d37eb995f134f2a70028e2b786c4039a08c2ef96a46fede", null ]
     ] ],
-    [ "Icmpv6Proto", "dc/d3a/classIcmpv6Proto.html#ace74888f5ddaa980465a43866ae072c4", null ],
+    [ "Icmpv6Proto", "dc/d3a/classIcmpv6Proto.html#a1be6dea777f7599f21840619b30e0e56", null ],
     [ "~Icmpv6Proto", "dc/d3a/classIcmpv6Proto.html#a145ed4f36966c4246279d4a9234565eb", null ],
     [ "AddNdpEntry", "dc/d3a/classIcmpv6Proto.html#aad39172843a841b1994df6ee5d8b1afa", null ],
     [ "AddUnsolNaEntry", "dc/d3a/classIcmpv6Proto.html#ab3e6d8a77cb308e82b9ccf1822b40ced", null ],
-    [ "AllocProtoHandler", "dc/d3a/classIcmpv6Proto.html#a13e554bb9edd9b4cbe5185f52c5f789a", null ],
+    [ "AllocProtoHandler", "dc/d3a/classIcmpv6Proto.html#a64883b4dc895e5e4c4ef82b47974602a", null ],
     [ "ClearStats", "dc/d3a/classIcmpv6Proto.html#a0d2f634069a00e93bb5c333d2f08d046", null ],
     [ "CreateAndSetVrfState", "dc/d3a/classIcmpv6Proto.html#a489420dfa86c813ae2a31ea43315d9e8", null ],
     [ "DeleteNdpEntry", "dc/d3a/classIcmpv6Proto.html#a52e0662d586381df7d52ddb7483facf8", null ],

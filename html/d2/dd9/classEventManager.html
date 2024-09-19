@@ -137,8 +137,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a879b812c4adca36740bb33fa7cd098d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3f0b27e494ff43997a5b7ead6cda255"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#aa3f0b27e494ff43997a5b7ead6cda255">IsRunning</a> () const </td></tr>
 <tr class="separator:aa3f0b27e494ff43997a5b7ead6cda255"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a760788de9a38fe462b27e72adb9391"><td class="memItemLeft" align="right" valign="top">boost::asio::io_service *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391">io_service</a> ()</td></tr>
-<tr class="separator:a2a760788de9a38fe462b27e72adb9391"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a1c978f3464aabeda2e8e809252e128"><td class="memItemLeft" align="right" valign="top">boost::asio::io_context *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128">io_service</a> ()</td></tr>
+<tr class="separator:a7a1c978f3464aabeda2e8e809252e128"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -151,8 +151,8 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ad0f2c84772ff7c7c80d95f8f10f520b1"><td class="memItemLeft" align="right" valign="top">boost::asio::io_service&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#ad0f2c84772ff7c7c80d95f8f10f520b1">io_service_</a></td></tr>
-<tr class="separator:ad0f2c84772ff7c7c80d95f8f10f520b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05da636a681b8ba83c974a629fe705d3"><td class="memItemLeft" align="right" valign="top">boost::asio::io_context&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#a05da636a681b8ba83c974a629fe705d3">io_service_</a></td></tr>
+<tr class="separator:a05da636a681b8ba83c974a629fe705d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad98c7c66b998f7d14aec97911e76b022"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#ad98c7c66b998f7d14aec97911e76b022">shutdown_</a></td></tr>
 <tr class="separator:ad98c7c66b998f7d14aec97911e76b022"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac2aca00888cf840cccc92bf79e1fe0d6"><td class="memItemLeft" align="right" valign="top">tbb::spin_mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd9/classEventManager.html#ac2aca00888cf840cccc92bf79e1fe0d6">io_mutex_</a></td></tr>
@@ -208,7 +208,7 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a2a760788de9a38fe462b27e72adb9391"></a>
+<a class="anchor" id="a7a1c978f3464aabeda2e8e809252e128"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -216,7 +216,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">boost::asio::io_service* EventManager::io_service </td>
+          <td class="memname">boost::asio::io_context* EventManager::io_service </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -442,7 +442,7 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="ad0f2c84772ff7c7c80d95f8f10f520b1"></a>
+<a class="anchor" id="a05da636a681b8ba83c974a629fe705d3"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -450,7 +450,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">boost::asio::io_service EventManager::io_service_</td>
+          <td class="memname">boost::asio::io_context EventManager::io_service_</td>
         </tr>
       </table>
   </td>

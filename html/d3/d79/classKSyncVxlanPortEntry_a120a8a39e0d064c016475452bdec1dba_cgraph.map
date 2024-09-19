@@ -1,14 +1,15 @@
 <map id="KSyncVxlanPortEntry::Sync" name="KSyncVxlanPortEntry::Sync">
 <area shape="rect" id="node2" href="$d3/d79/classKSyncVxlanPortEntry.html#a2fcd461e757f55d276da3f5de156cd67" title="KSyncVxlanPortEntry\l::bridge" alt="" coords="234,5,393,46"/>
 <area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="250,71,377,97"/>
-<area shape="rect" id="node4" href="$da/da5/classKSyncVxlanPortObject.html#abcd89536f209be46909f1478f5468789" title="KSyncVxlanPortObject\l::ksync" alt="" coords="230,122,397,163"/>
-<area shape="rect" id="node5" href="$d6/d7d/classKSyncVxlan.html#a50176470d42c6b0372719d718f874cde" title="KSyncVxlan::bridge_obj" alt="" coords="226,188,401,215"/>
-<area shape="rect" id="node6" href="$d9/da7/classKSyncVxlanBridgeObject.html#a4c14f47550750b9d2e42501acd8601f7" title="KSyncVxlanBridgeObject\l::DBToKSyncEntry" alt="" coords="222,239,405,281"/>
-<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="213,305,413,332"/>
-<area shape="rect" id="node8" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="484,255,623,281"/>
-<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="461,305,645,332"/>
-<area shape="rect" id="node13" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="474,356,633,383"/>
-<area shape="rect" id="node10" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="708,255,852,281"/>
-<area shape="rect" id="node11" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="694,305,866,332"/>
-<area shape="rect" id="node12" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="700,356,860,383"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#ae0f4afae25688b5d1659370fc30656b2" title="VnEntry::vxlan_id_ref" alt="" coords="233,121,393,148"/>
+<area shape="rect" id="node5" href="$da/da5/classKSyncVxlanPortObject.html#abcd89536f209be46909f1478f5468789" title="KSyncVxlanPortObject\l::ksync" alt="" coords="230,173,397,214"/>
+<area shape="rect" id="node6" href="$d6/d7d/classKSyncVxlan.html#a50176470d42c6b0372719d718f874cde" title="KSyncVxlan::bridge_obj" alt="" coords="226,239,401,265"/>
+<area shape="rect" id="node7" href="$d9/da7/classKSyncVxlanBridgeObject.html#a4c14f47550750b9d2e42501acd8601f7" title="KSyncVxlanBridgeObject\l::DBToKSyncEntry" alt="" coords="222,290,405,331"/>
+<area shape="rect" id="node8" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="213,356,413,383"/>
+<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="484,305,623,332"/>
+<area shape="rect" id="node10" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="461,356,645,383"/>
+<area shape="rect" id="node14" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="474,407,633,433"/>
+<area shape="rect" id="node11" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="708,305,852,332"/>
+<area shape="rect" id="node12" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="694,356,866,383"/>
+<area shape="rect" id="node13" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="700,407,860,433"/>
 </map>

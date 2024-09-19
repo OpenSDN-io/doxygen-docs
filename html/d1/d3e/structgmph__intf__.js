@@ -21,6 +21,6 @@ var structgmph__intf__ =
     [ "hintf_suppress_reports", "d1/d3e/structgmph__intf__.html#a1d5aa6564107bcf22621d9090ba8ea16", null ],
     [ "hintf_unsol_rpt_ivl", "d1/d3e/structgmph__intf__.html#a1171b1a3b567b9a7cff2f50a9bcde664", null ],
     [ "hintf_ver", "d1/d3e/structgmph__intf__.html#a88436de5ce54c82191b355d9165fd3ff", null ],
-    [ "hintf_xmit_head", "d1/d3e/structgmph__intf__.html#a34d964b2b767520551a27bd4b9a6423a", null ],
+    [ "hintf_xmit_head", "d1/d3e/structgmph__intf__.html#a41a312e6de82f72315b6a8dad9bff425", null ],
     [ "hintf_xmit_pending", "d1/d3e/structgmph__intf__.html#a78c9f7dcba3c202d5f2bfd6562aed6d5", null ]
 ];

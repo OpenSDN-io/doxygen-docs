@@ -183,8 +183,8 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
 <div class="line"><a name="l00076"></a><span class="lineno"><a class="line" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a3e753f7c670c3136c4d8dbba39aaf637">   76</a></span>&#160;<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a010166084edc97ab2577b9f8e401af12">KSyncVxlanFdbEntry::KSyncVxlanFdbEntry</a>(<a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html">KSyncVxlanRouteObject</a> *obj,</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                                       <span class="keyword">const</span> <a class="code" href="../../da/dfb/classBridgeRouteEntry.html">BridgeRouteEntry</a> *route) :</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="code" href="../../d2/d94/classKSyncVxlanRouteEntry.html">KSyncVxlanRouteEntry</a>(obj, route), bridge_(NULL), mac_(route-&gt;prefix_address()),</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    port_(NULL), tunnel_dest_() {</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="code" href="../../d2/d94/classKSyncVxlanRouteEntry.html">KSyncVxlanRouteEntry</a>(obj, route), bridge_(nullptr), mac_(route-&gt;prefix_address()),</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    port_(nullptr), tunnel_dest_() {</div>
 <div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;}</div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;</div>
 <div class="line"><a name="l00082"></a><span class="lineno"><a class="line" href="../../db/d8e/classKSyncVxlanFdbEntry.html#affbae3dd2e68fd21414957efbc695654">   82</a></span>&#160;<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#affbae3dd2e68fd21414957efbc695654">KSyncVxlanFdbEntry::~KSyncVxlanFdbEntry</a>() {</div>
@@ -244,10 +244,10 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    }</div>
 <div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;</div>
 <div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;    <span class="comment">// Look for change in nexthop</span></div>
-<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;    <a class="code" href="../../d3/d79/classKSyncVxlanPortEntry.html">KSyncVxlanPortEntry</a> *<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a51efe833aa0364cd94a98258f1143e80">port</a> = NULL;</div>
+<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;    <a class="code" href="../../d3/d79/classKSyncVxlanPortEntry.html">KSyncVxlanPortEntry</a> *<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a51efe833aa0364cd94a98258f1143e80">port</a> = <span class="keyword">nullptr</span>;</div>
 <div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> <a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a08947136060c1271399bd30693174d5e">tunnel_dest</a> = <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a>(0);</div>
 <div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;    <span class="keyword">const</span> <a class="code" href="../../d4/dec/classNextHop.html">NextHop</a> *nh = fdb-&gt;<a class="code" href="../../d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca">GetActiveNextHop</a>();</div>
-<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;    <span class="keywordflow">if</span> (nh != NULL) {</div>
+<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;    <span class="keywordflow">if</span> (nh != <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;        <span class="keywordflow">if</span> (nh-&gt;<a class="code" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe">GetType</a>() == <a class="code" href="../../d4/dec/classNextHop.html#a6d58ef6d19818df01ad156b9b6f59fc4ac3e16d2a8d4b0350c93aea2d576542e2">NextHop::INTERFACE</a>) {</div>
 <div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;            <span class="keyword">const</span> <a class="code" href="../../de/d30/classInterfaceNH.html">InterfaceNH</a> *intf_nh = <span class="keyword">static_cast&lt;</span><span class="keyword">const </span><a class="code" href="../../de/d30/classInterfaceNH.html">InterfaceNH</a> *<span class="keyword">&gt;</span>(nh);</div>
 <div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;            <a class="code" href="../../da/da5/classKSyncVxlanPortObject.html">KSyncVxlanPortObject</a> *port_obj =</div>
@@ -280,7 +280,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;}</div>
 <div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;</div>
 <div class="line"><a name="l00174"></a><span class="lineno"><a class="line" href="../../db/d8e/classKSyncVxlanFdbEntry.html#ade16b577a2aa4b2581f6102d945f009a">  174</a></span>&#160;<a class="code" href="../../dc/df2/classKSyncEntry.html">KSyncEntry</a> *<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#ade16b577a2aa4b2581f6102d945f009a">KSyncVxlanFdbEntry::UnresolvedReference</a>() {</div>
-<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a536a1a5cba50d4f1cd2a17db6743307a">bridge_</a> == NULL) {</div>
+<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a536a1a5cba50d4f1cd2a17db6743307a">bridge_</a> == <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="../../d6/d7d/classKSyncVxlan.html#aae53c2a3b5a9dab89c55f1fa06a32e24">KSyncVxlan::defer_entry</a>();</div>
 <div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;    }</div>
 <div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;</div>
@@ -289,7 +289,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;    }</div>
 <div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;</div>
 <div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;</div>
-<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a79feee8a20277691794251230ddc5dc6">port_</a> == NULL &amp;&amp; <a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#ab5cf4afe366840dd96c7c761dd7e68df">tunnel_dest_</a>.to_ulong() == 0) {</div>
+<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a79feee8a20277691794251230ddc5dc6">port_</a> == <span class="keyword">nullptr</span> &amp;&amp; <a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#ab5cf4afe366840dd96c7c761dd7e68df">tunnel_dest_</a>.to_ulong() == 0) {</div>
 <div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="../../d6/d7d/classKSyncVxlan.html#aae53c2a3b5a9dab89c55f1fa06a32e24">KSyncVxlan::defer_entry</a>();</div>
 <div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;    }</div>
 <div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;</div>
@@ -297,7 +297,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="../../db/d8e/classKSyncVxlanFdbEntry.html#a79feee8a20277691794251230ddc5dc6">port_</a>;</div>
 <div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;    }</div>
 <div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;</div>
-<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;    <span class="keywordflow">return</span> NULL;</div>
+<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;}</div>
 <div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;</div>
 <div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;<span class="comment">/**************************************************************************</span></div>
@@ -314,7 +314,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;</div>
 <div class="line"><a name="l00207"></a><span class="lineno"><a class="line" href="../../d0/d4b/classKSyncVxlanRouteObject.html#ace826de470c5063b4708398078548101">  207</a></span>&#160;<a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html#ace826de470c5063b4708398078548101">KSyncVxlanRouteObject::~KSyncVxlanRouteObject</a>() {</div>
 <div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;    <a class="code" href="../../d8/d13/classKSyncDBObject.html#a09feac1a3019ff0085a1aed4d50cb60e">UnregisterDb</a>(<a class="code" href="../../d8/d13/classKSyncDBObject.html#a65d292178bb92b1a9f65f0262cf080c0">GetDBTable</a>());</div>
-<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;    <a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html#a87ff8ffbae14772ede19c31c9cfebd2c">table_delete_ref_</a>.<a class="code" href="../../d6/d09/classLifetimeRefBase.html#a4bc5e40c2614d1417411442d99447e75">Reset</a>(NULL);</div>
+<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;    <a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html#a87ff8ffbae14772ede19c31c9cfebd2c">table_delete_ref_</a>.<a class="code" href="../../d6/d09/classLifetimeRefBase.html#a4bc5e40c2614d1417411442d99447e75">Reset</a>(<span class="keyword">nullptr</span>);</div>
 <div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;}</div>
 <div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;</div>
 <div class="line"><a name="l00212"></a><span class="lineno"><a class="line" href="../../d0/d4b/classKSyncVxlanRouteObject.html#af31010c3267ef0504941f697f111ecac">  212</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d0/d4b/classKSyncVxlanRouteObject.html#af31010c3267ef0504941f697f111ecac">KSyncVxlanRouteObject::Unregister</a>() {</div>
@@ -389,7 +389,7 @@ $(document).ready(function(){initNavTree('dd/df3/ksync__vxlan__route_8cc_source.
 <div class="line"><a name="l00281"></a><span class="lineno">  281</span>&#160;        <span class="keywordflow">return</span>;</div>
 <div class="line"><a name="l00282"></a><span class="lineno">  282</span>&#160;    }</div>
 <div class="line"><a name="l00283"></a><span class="lineno">  283</span>&#160;</div>
-<div class="line"><a name="l00284"></a><span class="lineno">  284</span>&#160;    <span class="keywordflow">if</span> (state == NULL) {</div>
+<div class="line"><a name="l00284"></a><span class="lineno">  284</span>&#160;    <span class="keywordflow">if</span> (state == <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a name="l00285"></a><span class="lineno">  285</span>&#160;        state = <span class="keyword">new</span> <a class="code" href="../../da/def/structKSyncVxlanVrfObject_1_1VrfState.html">VrfState</a>();</div>
 <div class="line"><a name="l00286"></a><span class="lineno">  286</span>&#160;        state-&gt;<a class="code" href="../../da/def/structKSyncVxlanVrfObject_1_1VrfState.html#a31a442b422dc1d6591ffdc7b5ae55d46">seen_</a> = <span class="keyword">true</span>;</div>
 <div class="line"><a name="l00287"></a><span class="lineno">  287</span>&#160;        vrf-&gt;<a class="code" href="../../d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067">SetState</a>(partition-&gt;<a class="code" href="../../d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28">parent</a>(), <a class="code" href="../../d5/dcc/classKSyncVxlanVrfObject.html#a76be0b8a372318f78675108ff875f005">vrf_listener_id_</a>, state);</div>

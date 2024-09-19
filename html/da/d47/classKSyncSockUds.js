@@ -1,13 +1,13 @@
 var classKSyncSockUds =
 [
-    [ "KSyncSockUds", "da/d47/classKSyncSockUds.html#a2c0a0f5634f9dd487d56e0dd04d2f0c2", null ],
+    [ "KSyncSockUds", "da/d47/classKSyncSockUds.html#a8353b31a62278ed537f7f14641d1b578", null ],
     [ "~KSyncSockUds", "da/d47/classKSyncSockUds.html#a2260c3ef41691ed2b29c92ed4cb758c9", null ],
     [ "AsyncReceive", "da/d47/classKSyncSockUds.html#ad03b18bddf9c1e2dd24ac12c36e02fa5", null ],
     [ "AsyncSendTo", "da/d47/classKSyncSockUds.html#a89fee328289f99ea531521da5efcf0e9", null ],
     [ "BulkDecoder", "da/d47/classKSyncSockUds.html#ab921b8790cfb577cccc4b7228a246d1f", null ],
     [ "Decoder", "da/d47/classKSyncSockUds.html#ad4e477e044b205af356043886130d483", null ],
     [ "GetSeqno", "da/d47/classKSyncSockUds.html#aed8c1e6f460207e9fb74e05a81d524a2", null ],
-    [ "Init", "da/d47/classKSyncSockUds.html#af97e730ea47fc9c076447d0b671c872a", null ],
+    [ "Init", "da/d47/classKSyncSockUds.html#a243a16c90bfcc19882871957ffd5b3ed", null ],
     [ "IsMoreData", "da/d47/classKSyncSockUds.html#a0b3dca3469758720ab945e0b6256076f", null ],
     [ "Receive", "da/d47/classKSyncSockUds.html#abba23d05e1b32570c799b9e8349e27a9", null ],
     [ "Run", "da/d47/classKSyncSockUds.html#af5b683c06c47860e16682c1405e968fd", null ],

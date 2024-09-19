@@ -10,7 +10,7 @@ var classTimer =
       [ "Fired", "dc/dea/classTimer.html#a016af6d00552ffc6db31f8d122239d7faaa2070bc6cc1b1ab7ab2db36a3c3dcf2", null ],
       [ "Cancelled", "dc/dea/classTimer.html#a016af6d00552ffc6db31f8d122239d7faed29f273760016a422638be5c346e542", null ]
     ] ],
-    [ "Timer", "dc/dea/classTimer.html#a472461910953e523c0d70a8c06787748", null ],
+    [ "Timer", "dc/dea/classTimer.html#a31c7df73335bf1d27d35b13bbaee0ce3", null ],
     [ "~Timer", "dc/dea/classTimer.html#a14fa469c4c295c5fa6e66a4ad1092146", null ],
     [ "Cancel", "dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f", null ],
     [ "cancelled", "dc/dea/classTimer.html#af69bc49d0581fc8bb98eae171b754b13", null ],

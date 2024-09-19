@@ -1,9 +1,9 @@
 var classFlowProto =
 [
-    [ "FlowProto", "d8/dd0/classFlowProto.html#a2dad1a72857a9eda216a714007edec22", null ],
+    [ "FlowProto", "d8/dd0/classFlowProto.html#a820970c5f94a6f2cf58e5aa290277143", null ],
     [ "~FlowProto", "d8/dd0/classFlowProto.html#ac54c483256614ec71b94891ea1b940bb", null ],
     [ "AddFlow", "d8/dd0/classFlowProto.html#afe30f58e25ca93df79a16d327381a0ff", null ],
-    [ "AllocProtoHandler", "d8/dd0/classFlowProto.html#ac0f8b7eddd5a8d24b6e6df0299760705", null ],
+    [ "AllocProtoHandler", "d8/dd0/classFlowProto.html#a5a8cc43334d3a77a4e9b23dd7a5b6ec4", null ],
     [ "CreateAuditEntry", "d8/dd0/classFlowProto.html#a1a43609aa44870b40b7df38a813e1fdc", null ],
     [ "DeleteFlowRequest", "d8/dd0/classFlowProto.html#a14da9913a82d624843b7c60392a3542c", null ],
     [ "DeleteFlowRequest", "d8/dd0/classFlowProto.html#ac130bc0ce04c5ed37757bd9755b80b44", null ],

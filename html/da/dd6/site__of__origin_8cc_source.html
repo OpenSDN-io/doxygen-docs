@@ -192,7 +192,7 @@ $(document).ready(function(){initNavTree('da/dd6/site__of__origin_8cc_source.htm
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> addr = Ip4Address::from_string(second, ec);</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    <span class="keywordtype">int</span> offset;</div>
 <div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <span class="keywordtype">char</span> *endptr;</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="keywordflow">if</span> (ec.value() != 0) {</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) {</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;        <span class="comment">// Not an IP address. Try ASN</span></div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;        int64_t asn = strtol(second.c_str(), &amp;endptr, 10);</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;        <span class="keywordflow">if</span> (asn == 0 || asn &gt; 0xFFFFFFFF || *endptr != <span class="charliteral">&#39;\0&#39;</span>) {</div>

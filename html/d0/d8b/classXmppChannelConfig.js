@@ -22,5 +22,5 @@ var classXmppChannelConfig =
     [ "tcp_hold_time", "d0/d8b/classXmppChannelConfig.html#a0f37138734480ad73da88644fbd571d1", null ],
     [ "ToAddr", "d0/d8b/classXmppChannelConfig.html#afb2a85db63dbb7c5ab772eb63554343b", null ],
     [ "xmlns", "d0/d8b/classXmppChannelConfig.html#a630da18b35925f8a9267b6d8c1a1c650", null ],
-    [ "xmpp_hold_time", "d0/d8b/classXmppChannelConfig.html#a71b16efa83ce2d91f1f5462142ddfd40", null ]
+    [ "xmpp_hold_time", "d0/d8b/classXmppChannelConfig.html#a444caf1ace745ef745a4ffa436c28dd1", null ]
 ];

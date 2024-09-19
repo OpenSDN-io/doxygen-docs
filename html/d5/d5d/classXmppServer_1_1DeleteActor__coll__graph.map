@@ -1,19 +1,19 @@
 <map id="XmppServer::DeleteActor" name="XmppServer::DeleteActor">
-<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1543,1191,1654,1217"/>
-<area shape="rect" id="node3" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1146,899,1278,925"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="669,542,891,583"/>
-<area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="1099,527,1325,598"/>
-<area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="287,303,414,329"/>
-<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="672,812,888,839"/>
-<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="635,287,925,313"/>
-<area shape="rect" id="node12" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1745,571,1847,597"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="24,623,75,649"/>
-<area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="222,839,479,881"/>
-<area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="234,223,467,279"/>
-<area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="737,1008,823,1035"/>
-<area shape="rect" id="node13" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1504,883,1693,909"/>
-<area shape="rect" id="node11" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="1115,1193,1309,1234"/>
-<area shape="rect" id="node14" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1171,984,1253,1011"/>
-<area shape="rect" id="node16" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="291,1008,410,1035"/>
-<area shape="rect" id="node17" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="293,1293,408,1320"/>
+<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1546,1191,1657,1217"/>
+<area shape="rect" id="node3" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1149,899,1281,925"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="671,542,894,583"/>
+<area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="1101,527,1328,598"/>
+<area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="290,303,417,329"/>
+<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="675,812,891,839"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="637,287,928,313"/>
+<area shape="rect" id="node12" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1747,571,1850,597"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,623,76,649"/>
+<area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="225,839,482,881"/>
+<area shape="rect" id="node22" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="237,223,470,279"/>
+<area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="740,1008,825,1035"/>
+<area shape="rect" id="node13" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1507,883,1696,909"/>
+<area shape="rect" id="node11" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="1117,1193,1312,1234"/>
+<area shape="rect" id="node14" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1173,984,1256,1011"/>
+<area shape="rect" id="node16" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="294,1008,413,1035"/>
+<area shape="rect" id="node17" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="296,1293,411,1320"/>
 </map>

@@ -7,9 +7,9 @@ var classDhcpProto =
     [ "DhcpMsgType", "d8/d04/classDhcpProto.html#aba1aaca4e493dc53de9ffa4ec3c4bf73", [
       [ "DHCP_VHOST_MSG", "d8/d04/classDhcpProto.html#aba1aaca4e493dc53de9ffa4ec3c4bf73a89ac599fdff8f0dc26336d47f256d6cb", null ]
     ] ],
-    [ "DhcpProto", "d8/d04/classDhcpProto.html#acd67e5231547cf38caceff00331964af", null ],
+    [ "DhcpProto", "d8/d04/classDhcpProto.html#ad5794632b3dda527e94e829d8eee965b", null ],
     [ "~DhcpProto", "d8/d04/classDhcpProto.html#a42ca552ceefd9f665189ca3dccb20fed", null ],
-    [ "AllocProtoHandler", "d8/d04/classDhcpProto.html#adf910489ba604569ffdfbeab05011773", null ],
+    [ "AllocProtoHandler", "d8/d04/classDhcpProto.html#a2c5706765ec50edb9ba8af3bf59bf4df", null ],
     [ "AsyncRead", "d8/d04/classDhcpProto.html#a31587380afc2a850414a0ece4ebfc114", null ],
     [ "ClearStats", "d8/d04/classDhcpProto.html#a3eec1168d9165db98e76c8413135a40a", null ],
     [ "CreateLeaseDb", "d8/d04/classDhcpProto.html#afba1497be264f29b87b1415a1a1c506c", null ],

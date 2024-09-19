@@ -4,7 +4,7 @@ var classContrailAgentInit =
     [ "~ContrailAgentInit", "d5/db7/classContrailAgentInit.html#aafbb64786457355c9edcbae943800e06", null ],
     [ "CreateModules", "d5/db7/classContrailAgentInit.html#afda2eb5cea3ef502897fafb838ae5c1e", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d5/db7/classContrailAgentInit.html#a3ad541893a5cccb4aa042704dd708e0e", null ],
-    [ "FactoryInit", "d5/db7/classContrailAgentInit.html#a077cbc197251be953586c94b9029b5cb", null ],
+    [ "FactoryInit", "d5/db7/classContrailAgentInit.html#a9adaf664fcdba3721b4aab0ac6d5050e", null ],
     [ "FlowStatsCollectorShutdown", "d5/db7/classContrailAgentInit.html#a5ee4549ba6ac9900724c1a6dc0c29650", null ],
     [ "InitDone", "d5/db7/classContrailAgentInit.html#ae1a958a6d2d4aff737ff284dc2828aca", null ],
     [ "KSyncShutdown", "d5/db7/classContrailAgentInit.html#a73a66963489b9873a73d109f253fa2a9", null ],

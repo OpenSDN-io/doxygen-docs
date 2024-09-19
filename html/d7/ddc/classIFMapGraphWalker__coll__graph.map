@@ -1,29 +1,29 @@
 <map id="IFMapGraphWalker" name="IFMapGraphWalker">
-<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html" title="BitSet" alt="" coords="1117,1433,1179,1460"/>
-<area shape="rect" id="node5" href="$d4/db2/classIFMapServer.html" title="IFMapServer" alt="" coords="1521,841,1623,868"/>
-<area shape="rect" id="node10" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,1260,355,1287"/>
-<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt;" alt="" coords="568,474,827,515"/>
-<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="589,979,805,1005"/>
-<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="552,1168,843,1195"/>
-<area shape="rect" id="node13" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1883,455,1986,481"/>
-<area shape="rect" id="node28" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapServer\l::QueueEntry \&gt;" alt="" coords="601,1319,793,1361"/>
-<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html" title="IFMapExporter" alt="" coords="1877,789,1992,816"/>
-<area shape="rect" id="node6" href="$d7/db7/classIFMapChannelManager.html" title="IFMapChannelManager" alt="" coords="2169,663,2338,689"/>
-<area shape="rect" id="node8" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="1017,567,1279,638"/>
-<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="672,1095,723,1121"/>
-<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1019,1018,1277,1059"/>
-<area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="1031,1155,1265,1211"/>
-<area shape="rect" id="node29" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapServer\l::QueueEntry, WorkQueue\&lt;\l IFMapServer::QueueEntry \&gt; \&gt;" alt="" coords="1031,1353,1265,1409"/>
-<area shape="rect" id="node16" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="655,159,740,185"/>
-<area shape="rect" id="node26" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="1069,516,1227,543"/>
-<area shape="rect" id="node27" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="622,617,773,644"/>
-<area shape="rect" id="node32" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1095,853,1201,880"/>
-<area shape="rect" id="node14" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1477,261,1667,288"/>
-<area shape="rect" id="node30" href="$df/d70/classDB.html" title="DB" alt="" coords="677,780,718,807"/>
-<area shape="rect" id="node15" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1107,159,1189,185"/>
-<area shape="rect" id="node17" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,120,351,147"/>
-<area shape="rect" id="node18" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,64,349,91"/>
-<area shape="rect" id="node24" href="$d0/d0c/classDBGraph.html" title="DBGraph" alt="" coords="1108,967,1188,993"/>
-<area shape="rect" id="node25" href="$d8/d60/classDBGraphBase.html" title="DBGraphBase" alt="" coords="641,905,753,932"/>
-<area shape="rect" id="node31" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1535,740,1609,767"/>
+<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html" title="BitSet" alt="" coords="1120,1433,1181,1460"/>
+<area shape="rect" id="node5" href="$d4/db2/classIFMapServer.html" title="IFMapServer" alt="" coords="1523,841,1626,868"/>
+<area shape="rect" id="node10" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,1260,358,1287"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt;" alt="" coords="571,474,829,515"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="592,979,808,1005"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="555,1168,845,1195"/>
+<area shape="rect" id="node13" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1886,455,1989,481"/>
+<area shape="rect" id="node28" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; IFMapServer\l::QueueEntry \&gt;" alt="" coords="604,1319,796,1361"/>
+<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html" title="IFMapExporter" alt="" coords="1880,789,1995,816"/>
+<area shape="rect" id="node6" href="$d7/db7/classIFMapChannelManager.html" title="IFMapChannelManager" alt="" coords="2171,663,2341,689"/>
+<area shape="rect" id="node8" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapChannel\lManager::ConfigTaskQueueEntry,\l WorkQueue\&lt; IFMapChannelManager\l::ConfigTaskQueueEntry \&gt; \&gt;" alt="" coords="1019,567,1282,638"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="675,1095,725,1121"/>
+<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1022,1018,1279,1059"/>
+<area shape="rect" id="node23" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="1034,1155,1267,1211"/>
+<area shape="rect" id="node29" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; IFMapServer\l::QueueEntry, WorkQueue\&lt;\l IFMapServer::QueueEntry \&gt; \&gt;" alt="" coords="1034,1353,1267,1409"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="657,159,743,185"/>
+<area shape="rect" id="node26" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="1072,516,1229,543"/>
+<area shape="rect" id="node27" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="625,617,775,644"/>
+<area shape="rect" id="node32" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1097,853,1204,880"/>
+<area shape="rect" id="node14" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1480,261,1669,288"/>
+<area shape="rect" id="node30" href="$df/d70/classDB.html" title="DB" alt="" coords="679,780,721,807"/>
+<area shape="rect" id="node15" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1109,159,1192,185"/>
+<area shape="rect" id="node17" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,120,354,147"/>
+<area shape="rect" id="node18" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,64,352,91"/>
+<area shape="rect" id="node24" href="$d0/d0c/classDBGraph.html" title="DBGraph" alt="" coords="1111,967,1191,993"/>
+<area shape="rect" id="node25" href="$d8/d60/classDBGraphBase.html" title="DBGraphBase" alt="" coords="644,905,756,932"/>
+<area shape="rect" id="node31" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1537,740,1612,767"/>
 </map>

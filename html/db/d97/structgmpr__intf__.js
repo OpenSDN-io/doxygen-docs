@@ -39,11 +39,11 @@ var structgmpr__intf__ =
     [ "rintf_robustness", "db/d97/structgmpr__intf__.html#aa753fb5d22fa1f74420108d200c8e1cb", null ],
     [ "rintf_send_gen_query", "db/d97/structgmpr__intf__.html#a88af0f9a1f9317131429ffa625882b0f", null ],
     [ "rintf_startup_query_count", "db/d97/structgmpr__intf__.html#af37af2c217b4c1f428c3b7bc65dad8a5", null ],
-    [ "rintf_startup_thread", "db/d97/structgmpr__intf__.html#a4a27b218755262a979919a2b209a06aa", null ],
+    [ "rintf_startup_thread", "db/d97/structgmpr__intf__.html#a4e6a523a8bef7f775b5aa7f3af865d06", null ],
     [ "rintf_suppress_gen_query", "db/d97/structgmpr__intf__.html#a2185ac94db9b4a2ca117ef7b713e128f", null ],
     [ "rintf_suppress_gs_query", "db/d97/structgmpr__intf__.html#af45278e2e005352ea175c172ad538963", null ],
     [ "rintf_up", "db/d97/structgmpr__intf__.html#a7671506bfb28c1ebec0f01918d65fadf", null ],
     [ "rintf_ver", "db/d97/structgmpr__intf__.html#a7364fe777645fa4f0edfaa581ff51474", null ],
-    [ "rintf_xmit_head", "db/d97/structgmpr__intf__.html#a4dccc6974d9f5da096e96079c3af718a", null ],
+    [ "rintf_xmit_head", "db/d97/structgmpr__intf__.html#a69fbba9d836753cc966aa3c2347d939d", null ],
     [ "rintf_xmit_pending", "db/d97/structgmpr__intf__.html#a790230c8495f560f5cc533cb6cc1b06f", null ]
 ];

@@ -131,9 +131,9 @@ Collaboration diagram for UdpPort:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8898b7389cab79d2ecb6e5995dd6ca68"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/classUdpPort.html#a8898b7389cab79d2ecb6e5995dd6ca68">UdpPort</a> (boost::asio::io_service &amp;io, uint16_t <a class="el" href="../../d3/d7b/classPort.html#a1592dce5401e9eb76c35c6c50f41500f">port</a>)</td></tr>
-<tr class="separator:a8898b7389cab79d2ecb6e5995dd6ca68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecbe40a86d96cab6a3836f626e78ae0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/classUdpPort.html#aecbe40a86d96cab6a3836f626e78ae0c">~UdpPort</a> ()</td></tr>
+<tr class="memitem:a0c4b634505c6478e9a6ada6d9d77f6b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/classUdpPort.html#a0c4b634505c6478e9a6ada6d9d77f6b6">UdpPort</a> (boost::asio::io_context &amp;io, uint16_t <a class="el" href="../../d3/d7b/classPort.html#a1592dce5401e9eb76c35c6c50f41500f">port</a>)</td></tr>
+<tr class="separator:a0c4b634505c6478e9a6ada6d9d77f6b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecbe40a86d96cab6a3836f626e78ae0c"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/classUdpPort.html#aecbe40a86d96cab6a3836f626e78ae0c">~UdpPort</a> ()</td></tr>
 <tr class="separator:aecbe40a86d96cab6a3836f626e78ae0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c5b796ef10aba021a14775e0cd8cb71"><td class="memItemLeft" align="right" valign="top">virtual uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/classUdpPort.html#a0c5b796ef10aba021a14775e0cd8cb71">Bind</a> ()</td></tr>
 <tr class="separator:a0c5b796ef10aba021a14775e0cd8cb71"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -162,7 +162,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock">
 <p>Definition at line <a class="el" href="../../d1/d06/flow__entry_8h_source.html#l00931">931</a> of file <a class="el" href="../../d1/d06/flow__entry_8h_source.html">flow_entry.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a8898b7389cab79d2ecb6e5995dd6ca68"></a>
+<a class="anchor" id="a0c4b634505c6478e9a6ada6d9d77f6b6"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -172,7 +172,7 @@ Additional Inherited Members</h2></td></tr>
         <tr>
           <td class="memname">UdpPort::UdpPort </td>
           <td>(</td>
-          <td class="paramtype">boost::asio::io_service &amp;&#160;</td>
+          <td class="paramtype">boost::asio::io_context &amp;&#160;</td>
           <td class="paramname"><em>io</em>, </td>
         </tr>
         <tr>
@@ -201,6 +201,9 @@ Additional Inherited Members</h2></td></tr>
 <a class="anchor" id="aecbe40a86d96cab6a3836f626e78ae0c"></a>
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">UdpPort::~UdpPort </td>
@@ -209,9 +212,14 @@ Additional Inherited Members</h2></td></tr>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html#l03731">3731</a> of file <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html">flow_entry.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html#l03735">3735</a> of file <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html">flow_entry.cc</a>.</p>
 
 </div>
 </div>
@@ -239,7 +247,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d3/d7b/classPort.html#a7e15c82e0dc007750b773fa48e966ee1">Port</a>.</p>
 
-<p>Definition at line <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html#l03735">3735</a> of file <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html">flow_entry.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html#l03739">3739</a> of file <a class="el" href="../../d0/d2a/flow__entry_8cc_source.html">flow_entry.cc</a>.</p>
 
 </div>
 </div>

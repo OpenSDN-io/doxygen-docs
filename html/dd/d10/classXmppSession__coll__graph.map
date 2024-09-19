@@ -1,20 +1,20 @@
 <map id="XmppSession" name="XmppSession">
-<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html" title="XmppConnection" alt="" coords="2072,428,2205,455"/>
-<area shape="rect" id="node2" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1039,313,1129,340"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="597,492,691,519"/>
-<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="233,227,351,253"/>
-<area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="601,91,687,117"/>
-<area shape="rect" id="node14" href="$d0/d8b/classXmppChannelConfig.html" title="XmppChannelConfig" alt="" coords="776,464,931,491"/>
-<area shape="rect" id="node18" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1054,800,1114,827"/>
-<area shape="rect" id="node23" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="536,1055,752,1081"/>
-<area shape="rect" id="node21" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1349,405,1539,432"/>
-<area shape="rect" id="node19" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="577,867,711,893"/>
-<area shape="rect" id="node24" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="229,961,355,988"/>
-<area shape="rect" id="node9" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="1386,140,1502,167"/>
-<area shape="rect" id="node12" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title="XmppConnection::ProtoStats" alt="" coords="1733,401,1941,428"/>
-<area shape="rect" id="node13" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="1735,452,1940,479"/>
-<area shape="rect" id="node22" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1043,151,1125,177"/>
-<area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="235,25,349,52"/>
-<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="267,911,317,937"/>
-<area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="955,1031,1213,1073"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html" title="XmppConnection" alt="" coords="2075,428,2208,455"/>
+<area shape="rect" id="node2" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="1041,313,1132,340"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="600,492,693,519"/>
+<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,227,354,253"/>
+<area shape="rect" id="node15" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="604,91,689,117"/>
+<area shape="rect" id="node14" href="$d0/d8b/classXmppChannelConfig.html" title="XmppChannelConfig" alt="" coords="779,464,933,491"/>
+<area shape="rect" id="node18" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1057,800,1117,827"/>
+<area shape="rect" id="node23" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="539,1055,755,1081"/>
+<area shape="rect" id="node21" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1352,405,1541,432"/>
+<area shape="rect" id="node19" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="579,867,714,893"/>
+<area shape="rect" id="node24" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,961,358,988"/>
+<area shape="rect" id="node9" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="1389,140,1505,167"/>
+<area shape="rect" id="node12" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title="XmppConnection::ProtoStats" alt="" coords="1736,401,1944,428"/>
+<area shape="rect" id="node13" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title="XmppConnection::ErrorStats" alt="" coords="1737,452,1943,479"/>
+<area shape="rect" id="node22" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1045,151,1128,177"/>
+<area shape="rect" id="node16" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,25,352,52"/>
+<area shape="rect" id="node20" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="269,911,320,937"/>
+<area shape="rect" id="node25" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="958,1031,1215,1073"/>
 </map>

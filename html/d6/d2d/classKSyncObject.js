@@ -32,7 +32,7 @@ var classKSyncObject =
     [ "GetKey", "d6/d2d/classKSyncObject.html#a99f78dfadc49cd36ebe9b5f58792ebde", null ],
     [ "GetKSyncTraceBuf", "d6/d2d/classKSyncObject.html#a17507d761517e0e19f1c2a3f1473cd74", null ],
     [ "GetReference", "d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5", null ],
-    [ "InitStaleEntryCleanup", "d6/d2d/classKSyncObject.html#ad77d96ee809b54ccf492063be81914b5", null ],
+    [ "InitStaleEntryCleanup", "d6/d2d/classKSyncObject.html#add32c7fb72308ccb18486adb868d1968", null ],
     [ "IsEmpty", "d6/d2d/classKSyncObject.html#addb08452f4a000d5338ebcce93ebb1f9", null ],
     [ "IsIndexValid", "d6/d2d/classKSyncObject.html#a2f893c3672cfca8f7e3c83b84d98d608", null ],
     [ "NetlinkAck", "d6/d2d/classKSyncObject.html#a06eab361097f3b39cf061ecc6e5dc12c", null ],

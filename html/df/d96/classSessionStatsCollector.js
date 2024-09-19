@@ -5,7 +5,7 @@ var classSessionStatsCollector =
     [ "Queue", "df/d96/classSessionStatsCollector.html#a311281bbca0c7dda9536435fa09c0c98", null ],
     [ "SessionEndpointMap", "df/d96/classSessionStatsCollector.html#af5d212ff5b4df0b337d96f7abf431ef7", null ],
     [ "SessionSloRuleMap", "df/d96/classSessionStatsCollector.html#a3b515008f3a93a645e100aee670259ee", null ],
-    [ "SessionStatsCollector", "df/d96/classSessionStatsCollector.html#a216aae7e629a316f452127d54ec8b90d", null ],
+    [ "SessionStatsCollector", "df/d96/classSessionStatsCollector.html#aa502cbae468190edfcd8f3c66874d2fd", null ],
     [ "~SessionStatsCollector", "df/d96/classSessionStatsCollector.html#a90c4fd453b133f06e11ed35f9ac230fc", null ],
     [ "AddEvent", "df/d96/classSessionStatsCollector.html#acd2f3a3aa0e8c294b256e5293230d7a8", null ],
     [ "AddFlowToSessionMap", "df/d96/classSessionStatsCollector.html#a0235e82a48a02f93d5b0da873787cd5b", null ],

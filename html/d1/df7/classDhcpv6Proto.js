@@ -2,9 +2,9 @@ var classDhcpv6Proto =
 [
     [ "DhcpStats", "da/dd9/structDhcpv6Proto_1_1DhcpStats.html", "da/dd9/structDhcpv6Proto_1_1DhcpStats" ],
     [ "Duid", "da/d70/structDhcpv6Proto_1_1Duid.html", "da/d70/structDhcpv6Proto_1_1Duid" ],
-    [ "Dhcpv6Proto", "d1/df7/classDhcpv6Proto.html#adac108043cbfe2469b3e6feeff4a6b7d", null ],
+    [ "Dhcpv6Proto", "d1/df7/classDhcpv6Proto.html#ac794e80c075a65eeb682c8eb1e407fed", null ],
     [ "~Dhcpv6Proto", "d1/df7/classDhcpv6Proto.html#ae1b71d1e91d32f406607820be4651386", null ],
-    [ "AllocProtoHandler", "d1/df7/classDhcpv6Proto.html#a1bec93a19b0aa595fb27f9f80ba84fa6", null ],
+    [ "AllocProtoHandler", "d1/df7/classDhcpv6Proto.html#a63ee5ddc9e10a4eab2fb0b4c2b25f8aa", null ],
     [ "ClearStats", "d1/df7/classDhcpv6Proto.html#a0a3192eb015a17bf14004d5794d6ad5b", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d1/df7/classDhcpv6Proto.html#aa2f15b19f94dd816cc7a6333540e0841", null ],
     [ "GetStats", "d1/df7/classDhcpv6Proto.html#ab9232811349ca6780880d1c7b8231738", null ],

@@ -794,7 +794,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00686"></a><span class="lineno">  686</span>&#160;    <span class="keywordtype">string</span> temp_str = str.substr(pos1 + 1, *pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00687"></a><span class="lineno">  687</span>&#160;    boost::system::error_code source_err;</div>
 <div class="line"><a name="l00688"></a><span class="lineno">  688</span>&#160;    prefix-&gt;<a class="code" href="../../d0/db1/classEvpnPrefix.html#a2184d30f5db8c11061afe153d0b459d6">source_</a> = Ip4Address::from_string(temp_str, source_err);</div>
-<div class="line"><a name="l00689"></a><span class="lineno">  689</span>&#160;    <span class="keywordflow">if</span> (source_err != 0) {</div>
+<div class="line"><a name="l00689"></a><span class="lineno">  689</span>&#160;    <span class="keywordflow">if</span> (source_err.failed()) {</div>
 <div class="line"><a name="l00690"></a><span class="lineno">  690</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00691"></a><span class="lineno">  691</span>&#160;            *errorp = source_err;</div>
 <div class="line"><a name="l00692"></a><span class="lineno">  692</span>&#160;        }</div>
@@ -815,7 +815,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00707"></a><span class="lineno">  707</span>&#160;    <span class="keywordtype">string</span> temp_str = str.substr(pos1 + 1, *pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00708"></a><span class="lineno">  708</span>&#160;    boost::system::error_code group_err;</div>
 <div class="line"><a name="l00709"></a><span class="lineno">  709</span>&#160;    prefix-&gt;<a class="code" href="../../d0/db1/classEvpnPrefix.html#a70e6bc40f5539f9e36f4bb6d0e0d4c00">group_</a> = Ip4Address::from_string(temp_str, group_err);</div>
-<div class="line"><a name="l00710"></a><span class="lineno">  710</span>&#160;    <span class="keywordflow">if</span> (group_err != 0) {</div>
+<div class="line"><a name="l00710"></a><span class="lineno">  710</span>&#160;    <span class="keywordflow">if</span> (group_err.failed()) {</div>
 <div class="line"><a name="l00711"></a><span class="lineno">  711</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00712"></a><span class="lineno">  712</span>&#160;            *errorp = group_err;</div>
 <div class="line"><a name="l00713"></a><span class="lineno">  713</span>&#160;        }</div>
@@ -865,7 +865,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00757"></a><span class="lineno">  757</span>&#160;    <span class="keywordtype">string</span> rd_str = str.substr(pos1 + 1, pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00758"></a><span class="lineno">  758</span>&#160;    boost::system::error_code rd_err;</div>
 <div class="line"><a name="l00759"></a><span class="lineno">  759</span>&#160;    prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a4cac122062086e00d14de9d82aa74f56">rd_</a> = <a class="code" href="../../dc/d73/classRouteDistinguisher.html#a9668cfed56ee6c36516946ee6127d20f">RouteDistinguisher::FromString</a>(rd_str, &amp;rd_err);</div>
-<div class="line"><a name="l00760"></a><span class="lineno">  760</span>&#160;    <span class="keywordflow">if</span> (rd_err != 0) {</div>
+<div class="line"><a name="l00760"></a><span class="lineno">  760</span>&#160;    <span class="keywordflow">if</span> (rd_err.failed()) {</div>
 <div class="line"><a name="l00761"></a><span class="lineno">  761</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00762"></a><span class="lineno">  762</span>&#160;            *errorp = rd_err;</div>
 <div class="line"><a name="l00763"></a><span class="lineno">  763</span>&#160;        }</div>
@@ -886,7 +886,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00778"></a><span class="lineno">  778</span>&#160;        <span class="keywordtype">string</span> esi_str = str.substr(pos2 + 1, pos3 - pos2 - 1);</div>
 <div class="line"><a name="l00779"></a><span class="lineno">  779</span>&#160;        boost::system::error_code esi_err;</div>
 <div class="line"><a name="l00780"></a><span class="lineno">  780</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#acaf602fbae1d92c329ca6e1c22922903">esi_</a> = <a class="code" href="../../d2/d98/classEthernetSegmentId.html#ae1caab9fdfc6236be7bfc29818946612">EthernetSegmentId::FromString</a>(esi_str, &amp;esi_err);</div>
-<div class="line"><a name="l00781"></a><span class="lineno">  781</span>&#160;        <span class="keywordflow">if</span> (esi_err != 0) {</div>
+<div class="line"><a name="l00781"></a><span class="lineno">  781</span>&#160;        <span class="keywordflow">if</span> (esi_err.failed()) {</div>
 <div class="line"><a name="l00782"></a><span class="lineno">  782</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00783"></a><span class="lineno">  783</span>&#160;                *errorp = esi_err;</div>
 <div class="line"><a name="l00784"></a><span class="lineno">  784</span>&#160;            }</div>
@@ -932,7 +932,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00824"></a><span class="lineno">  824</span>&#160;        <span class="keywordtype">string</span> mac_str = str.substr(pos3 + 1, pos4 - pos3 -1);</div>
 <div class="line"><a name="l00825"></a><span class="lineno">  825</span>&#160;        boost::system::error_code mac_err;</div>
 <div class="line"><a name="l00826"></a><span class="lineno">  826</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#af476a13a3209731840c6379bb0b109fb">mac_addr_</a> = <a class="code" href="../../d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5">MacAddress::FromString</a>(mac_str, &amp;mac_err);</div>
-<div class="line"><a name="l00827"></a><span class="lineno">  827</span>&#160;        <span class="keywordflow">if</span> (mac_err != 0) {</div>
+<div class="line"><a name="l00827"></a><span class="lineno">  827</span>&#160;        <span class="keywordflow">if</span> (mac_err.failed()) {</div>
 <div class="line"><a name="l00828"></a><span class="lineno">  828</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00829"></a><span class="lineno">  829</span>&#160;                *errorp = mac_err;</div>
 <div class="line"><a name="l00830"></a><span class="lineno">  830</span>&#160;            }</div>
@@ -943,7 +943,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00835"></a><span class="lineno">  835</span>&#160;        <span class="keywordtype">string</span> ip_str = str.substr(pos4 + 1, string::npos);</div>
 <div class="line"><a name="l00836"></a><span class="lineno">  836</span>&#160;        boost::system::error_code ip_err;</div>
 <div class="line"><a name="l00837"></a><span class="lineno">  837</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = IpAddress::from_string(ip_str, ip_err);</div>
-<div class="line"><a name="l00838"></a><span class="lineno">  838</span>&#160;        <span class="keywordflow">if</span> (ip_err != 0) {</div>
+<div class="line"><a name="l00838"></a><span class="lineno">  838</span>&#160;        <span class="keywordflow">if</span> (ip_err.failed()) {</div>
 <div class="line"><a name="l00839"></a><span class="lineno">  839</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00840"></a><span class="lineno">  840</span>&#160;                *errorp = ip_err;</div>
 <div class="line"><a name="l00841"></a><span class="lineno">  841</span>&#160;            }</div>
@@ -981,7 +981,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00873"></a><span class="lineno">  873</span>&#160;        <span class="keywordtype">string</span> ip_str = str.substr(pos3 + 1, string::npos);</div>
 <div class="line"><a name="l00874"></a><span class="lineno">  874</span>&#160;        boost::system::error_code ip_err;</div>
 <div class="line"><a name="l00875"></a><span class="lineno">  875</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = IpAddress::from_string(ip_str, ip_err);</div>
-<div class="line"><a name="l00876"></a><span class="lineno">  876</span>&#160;        <span class="keywordflow">if</span> (ip_err != 0) {</div>
+<div class="line"><a name="l00876"></a><span class="lineno">  876</span>&#160;        <span class="keywordflow">if</span> (ip_err.failed()) {</div>
 <div class="line"><a name="l00877"></a><span class="lineno">  877</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00878"></a><span class="lineno">  878</span>&#160;                *errorp = ip_err;</div>
 <div class="line"><a name="l00879"></a><span class="lineno">  879</span>&#160;            }</div>
@@ -1006,7 +1006,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00898"></a><span class="lineno">  898</span>&#160;        <span class="keywordtype">string</span> esi_str = str.substr(pos2 + 1, pos3 - pos2 - 1);</div>
 <div class="line"><a name="l00899"></a><span class="lineno">  899</span>&#160;        boost::system::error_code esi_err;</div>
 <div class="line"><a name="l00900"></a><span class="lineno">  900</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#acaf602fbae1d92c329ca6e1c22922903">esi_</a> = <a class="code" href="../../d2/d98/classEthernetSegmentId.html#ae1caab9fdfc6236be7bfc29818946612">EthernetSegmentId::FromString</a>(esi_str, &amp;esi_err);</div>
-<div class="line"><a name="l00901"></a><span class="lineno">  901</span>&#160;        <span class="keywordflow">if</span> (esi_err != 0) {</div>
+<div class="line"><a name="l00901"></a><span class="lineno">  901</span>&#160;        <span class="keywordflow">if</span> (esi_err.failed()) {</div>
 <div class="line"><a name="l00902"></a><span class="lineno">  902</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00903"></a><span class="lineno">  903</span>&#160;                *errorp = esi_err;</div>
 <div class="line"><a name="l00904"></a><span class="lineno">  904</span>&#160;            }</div>
@@ -1017,7 +1017,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00909"></a><span class="lineno">  909</span>&#160;        <span class="keywordtype">string</span> ip_str = str.substr(pos3 + 1, string::npos);</div>
 <div class="line"><a name="l00910"></a><span class="lineno">  910</span>&#160;        boost::system::error_code ip_err;</div>
 <div class="line"><a name="l00911"></a><span class="lineno">  911</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = IpAddress::from_string(ip_str, ip_err);</div>
-<div class="line"><a name="l00912"></a><span class="lineno">  912</span>&#160;        <span class="keywordflow">if</span> (ip_err != 0) {</div>
+<div class="line"><a name="l00912"></a><span class="lineno">  912</span>&#160;        <span class="keywordflow">if</span> (ip_err.failed()) {</div>
 <div class="line"><a name="l00913"></a><span class="lineno">  913</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00914"></a><span class="lineno">  914</span>&#160;                *errorp = ip_err;</div>
 <div class="line"><a name="l00915"></a><span class="lineno">  915</span>&#160;            }</div>
@@ -1054,7 +1054,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00946"></a><span class="lineno">  946</span>&#160;        boost::system::error_code ip_err;</div>
 <div class="line"><a name="l00947"></a><span class="lineno">  947</span>&#160;</div>
 <div class="line"><a name="l00948"></a><span class="lineno">  948</span>&#160;        <a class="code" href="../../d3/d22/classIp4Prefix.html">Ip4Prefix</a> <a class="code" href="../../d0/db1/classEvpnPrefix.html#a21d7ea5f7df97b75f47c212fd2e81e4c">inet_prefix</a> = <a class="code" href="../../d3/d22/classIp4Prefix.html#adb29b5d8491f40b6b3eca745d71e9a38">Ip4Prefix::FromString</a>(ip_str, &amp;ip_err);</div>
-<div class="line"><a name="l00949"></a><span class="lineno">  949</span>&#160;        <span class="keywordflow">if</span> (ip_err == 0) {</div>
+<div class="line"><a name="l00949"></a><span class="lineno">  949</span>&#160;        <span class="keywordflow">if</span> (!ip_err) {</div>
 <div class="line"><a name="l00950"></a><span class="lineno">  950</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a0f267a3efea8725fb488119757fc17fa">family_</a> = <a class="code" href="../../de/d6b/classAddress.html#a58d0c167a9c218030c678110e9e69987a1d93db3747cf6c75ab622601c30544a0">Address::INET</a>;</div>
 <div class="line"><a name="l00951"></a><span class="lineno">  951</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = inet_prefix.<a class="code" href="../../d3/d22/classIp4Prefix.html#a3bbb52dd6d1ad52f135ef49039c9ed22">addr</a>();</div>
 <div class="line"><a name="l00952"></a><span class="lineno">  952</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a43b48d0eb9f64d99aa86983a22200cd6">ip_prefixlen_</a> = inet_prefix.<a class="code" href="../../d3/d22/classIp4Prefix.html#ad9d4d55e21e995a293ce8e48ba570e4c">prefixlen</a>();</div>
@@ -1062,7 +1062,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l00954"></a><span class="lineno">  954</span>&#160;        }</div>
 <div class="line"><a name="l00955"></a><span class="lineno">  955</span>&#160;</div>
 <div class="line"><a name="l00956"></a><span class="lineno">  956</span>&#160;        <a class="code" href="../../d6/da8/classInet6Prefix.html">Inet6Prefix</a> <a class="code" href="../../d0/db1/classEvpnPrefix.html#a2bf20bcf9f0a6a34a6d386fc86bc4bee">inet6_prefix</a> = <a class="code" href="../../d6/da8/classInet6Prefix.html#a111df5ce5ac8f0ad28601c30ea22e790">Inet6Prefix::FromString</a>(ip_str, &amp;ip_err);</div>
-<div class="line"><a name="l00957"></a><span class="lineno">  957</span>&#160;        <span class="keywordflow">if</span> (ip_err == 0) {</div>
+<div class="line"><a name="l00957"></a><span class="lineno">  957</span>&#160;        <span class="keywordflow">if</span> (!ip_err) {</div>
 <div class="line"><a name="l00958"></a><span class="lineno">  958</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a0f267a3efea8725fb488119757fc17fa">family_</a> = <a class="code" href="../../de/d6b/classAddress.html#a58d0c167a9c218030c678110e9e69987aa474968a53fad182e1b6340dd2eb80fc">Address::INET6</a>;</div>
 <div class="line"><a name="l00959"></a><span class="lineno">  959</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = inet6_prefix.<a class="code" href="../../d6/da8/classInet6Prefix.html#aa8e8bbea825f6ad9f81120a1140d5ade">addr</a>();</div>
 <div class="line"><a name="l00960"></a><span class="lineno">  960</span>&#160;            prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a43b48d0eb9f64d99aa86983a22200cd6">ip_prefixlen_</a> = inet6_prefix.<a class="code" href="../../d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df">prefixlen</a>();</div>
@@ -1110,7 +1110,7 @@ $(document).ready(function(){initNavTree('dc/d22/bgp_2evpn_2evpn__route_8cc_sour
 <div class="line"><a name="l01002"></a><span class="lineno"> 1002</span>&#160;        <span class="keywordtype">string</span> ip_str = str.substr(pos5 + 1, string::npos);</div>
 <div class="line"><a name="l01003"></a><span class="lineno"> 1003</span>&#160;        boost::system::error_code ip_err;</div>
 <div class="line"><a name="l01004"></a><span class="lineno"> 1004</span>&#160;        prefix.<a class="code" href="../../d0/db1/classEvpnPrefix.html#a94b8375f97ce8042b1897b6dc7ea05aa">ip_address_</a> = IpAddress::from_string(ip_str, ip_err);</div>
-<div class="line"><a name="l01005"></a><span class="lineno"> 1005</span>&#160;        <span class="keywordflow">if</span> (ip_err != 0) {</div>
+<div class="line"><a name="l01005"></a><span class="lineno"> 1005</span>&#160;        <span class="keywordflow">if</span> (ip_err.failed()) {</div>
 <div class="line"><a name="l01006"></a><span class="lineno"> 1006</span>&#160;            <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l01007"></a><span class="lineno"> 1007</span>&#160;                *errorp = ip_err;</div>
 <div class="line"><a name="l01008"></a><span class="lineno"> 1008</span>&#160;            }</div>

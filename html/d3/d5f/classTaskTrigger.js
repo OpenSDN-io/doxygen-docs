@@ -1,8 +1,8 @@
 var classTaskTrigger =
 [
     [ "WorkerTask", "d1/d42/classTaskTrigger_1_1WorkerTask.html", "d1/d42/classTaskTrigger_1_1WorkerTask" ],
-    [ "FunctionPtr", "d3/d5f/classTaskTrigger.html#a52eef15086e7c6e71d5eacc44d8633db", null ],
-    [ "TaskTrigger", "d3/d5f/classTaskTrigger.html#af6e7f62e088d3fee2cda8db79ec4d8ea", null ],
+    [ "FunctionPtr", "d3/d5f/classTaskTrigger.html#a4218708026aa28b843584d264abb4214", null ],
+    [ "TaskTrigger", "d3/d5f/classTaskTrigger.html#af9843be6950c79076d32064579d0c3b6", null ],
     [ "~TaskTrigger", "d3/d5f/classTaskTrigger.html#ab9f28a23de72f2b8b0e48dfce19bc17b", null ],
     [ "clear_deferred", "d3/d5f/classTaskTrigger.html#aec5db77516af293f3962fafef1dbe5c5", null ],
     [ "deferred", "d3/d5f/classTaskTrigger.html#a9a0d1911b5ce7fe349c027e5f7d71c1c", null ],

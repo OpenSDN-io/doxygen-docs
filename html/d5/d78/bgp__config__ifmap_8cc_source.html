@@ -482,7 +482,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;        }</div>
 <div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;        <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> localid =</div>
 <div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160;            Ip4Address::from_string(master_params.identifier, err);</div>
-<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;        <span class="keywordflow">if</span> (err == 0) {</div>
+<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;        <span class="keywordflow">if</span> (!err) {</div>
 <div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;            neighbor-&gt;<a class="code" href="../../d0/dbd/classBgpNeighborConfig.html#ae948ec63567185f3a0f8c003cf8f17df">set_local_identifier</a>(<a class="code" href="../../d5/d78/bgp__config__ifmap_8cc.html#a4f20c55280001b19a8e0f6260afae3bd">IpAddressToBgpIdentifier</a>(localid));</div>
 <div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;        }</div>
 <div class="line"><a name="l00380"></a><span class="lineno">  380</span>&#160;        <span class="keywordflow">if</span> (!neighbor-&gt;<a class="code" href="../../d0/dbd/classBgpNeighborConfig.html#ad9f4841ed147a591eeddc51671f7967d">local_as</a>()) {</div>
@@ -770,7 +770,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00662"></a><span class="lineno">  662</span>&#160;    <a class="code" href="../../d1/daa/classBgpIfmapProtocolConfig.html#abda61143dd6bfaa2a6224d7277e6ef85">data_</a>.<a class="code" href="../../d6/d76/classBgpProtocolConfig.html#a1b913a2c8981e8c92e1acabdb77df304">set_port</a>(params.port ?: <a class="code" href="../../da/d05/classBgpConfigManager.html#a0d8c4c38b3836163b34b005b75bf3e30">BgpConfigManager::kDefaultPort</a>);</div>
 <div class="line"><a name="l00663"></a><span class="lineno">  663</span>&#160;    boost::system::error_code err;</div>
 <div class="line"><a name="l00664"></a><span class="lineno">  664</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> identifier = IpAddress::from_string(params.identifier, err);</div>
-<div class="line"><a name="l00665"></a><span class="lineno">  665</span>&#160;    <span class="keywordflow">if</span> (err == 0) {</div>
+<div class="line"><a name="l00665"></a><span class="lineno">  665</span>&#160;    <span class="keywordflow">if</span> (!err) {</div>
 <div class="line"><a name="l00666"></a><span class="lineno">  666</span>&#160;        <a class="code" href="../../d1/daa/classBgpIfmapProtocolConfig.html#abda61143dd6bfaa2a6224d7277e6ef85">data_</a>.<a class="code" href="../../d6/d76/classBgpProtocolConfig.html#ac9042846a4efee9147610161987e2117">set_identifier</a>(<a class="code" href="../../d5/d78/bgp__config__ifmap_8cc.html#a4f20c55280001b19a8e0f6260afae3bd">IpAddressToBgpIdentifier</a>(identifier));</div>
 <div class="line"><a name="l00667"></a><span class="lineno">  667</span>&#160;    }</div>
 <div class="line"><a name="l00668"></a><span class="lineno">  668</span>&#160;    <a class="code" href="../../d1/daa/classBgpIfmapProtocolConfig.html#abda61143dd6bfaa2a6224d7277e6ef85">data_</a>.<a class="code" href="../../d6/d76/classBgpProtocolConfig.html#a336107b51b261bc869bbbd6c8fe5d7af">set_hold_time</a>(params.hold_time);</div>
@@ -974,7 +974,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00866"></a><span class="lineno">  866</span>&#160;    boost::system::error_code ec;</div>
 <div class="line"><a name="l00867"></a><span class="lineno">  867</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> nexthop =</div>
 <div class="line"><a name="l00868"></a><span class="lineno">  868</span>&#160;        IpAddress::from_string(ra-&gt;aggregate_route_nexthop(), ec);</div>
-<div class="line"><a name="l00869"></a><span class="lineno">  869</span>&#160;    <span class="keywordflow">if</span> (ec != 0) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00869"></a><span class="lineno">  869</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00870"></a><span class="lineno">  870</span>&#160;</div>
 <div class="line"><a name="l00871"></a><span class="lineno">  871</span>&#160;    BOOST_FOREACH(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;route, ra-&gt;aggregate_route_entries()) {</div>
 <div class="line"><a name="l00872"></a><span class="lineno">  872</span>&#160;        <a class="code" href="../../db/db5/structAggregateRouteConfig.html">AggregateRouteConfig</a> aggregate;</div>
@@ -982,7 +982,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00874"></a><span class="lineno">  874</span>&#160;</div>
 <div class="line"><a name="l00875"></a><span class="lineno">  875</span>&#160;        <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> address;</div>
 <div class="line"><a name="l00876"></a><span class="lineno">  876</span>&#160;        ec = <a class="code" href="../../dd/dea/address_8cc.html#a88e7c1a8b588da628a397967e3658cd2">Ip4SubnetParse</a>(route, &amp;address, &amp;aggregate.<a class="code" href="../../db/db5/structAggregateRouteConfig.html#a9375e688697967d80c32d80f2db51787">prefix_length</a>);</div>
-<div class="line"><a name="l00877"></a><span class="lineno">  877</span>&#160;        <span class="keywordflow">if</span> (ec == 0) {</div>
+<div class="line"><a name="l00877"></a><span class="lineno">  877</span>&#160;        <span class="keywordflow">if</span> (!ec) {</div>
 <div class="line"><a name="l00878"></a><span class="lineno">  878</span>&#160;            <span class="keywordflow">if</span> (!nexthop.is_v4()) <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00879"></a><span class="lineno">  879</span>&#160;            aggregate.<a class="code" href="../../db/db5/structAggregateRouteConfig.html#a5e0723a97220936fb8aa2802e393cd78">aggregate</a> = address;</div>
 <div class="line"><a name="l00880"></a><span class="lineno">  880</span>&#160;            inet_list-&gt;push_back(aggregate);</div>
@@ -990,7 +990,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00882"></a><span class="lineno">  882</span>&#160;            <span class="keywordflow">if</span> (!nexthop.is_v6()) <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00883"></a><span class="lineno">  883</span>&#160;            <a class="code" href="../../d9/d9b/address_8h.html#a231be25f722543d7460102bbe5c59f5d">Ip6Address</a> address;</div>
 <div class="line"><a name="l00884"></a><span class="lineno">  884</span>&#160;            ec = <a class="code" href="../../dd/dea/address_8cc.html#afe1b27a11c43ffa2b6cb15bbdb8a19af">Inet6SubnetParse</a>(route, &amp;address, &amp;aggregate.<a class="code" href="../../db/db5/structAggregateRouteConfig.html#a9375e688697967d80c32d80f2db51787">prefix_length</a>);</div>
-<div class="line"><a name="l00885"></a><span class="lineno">  885</span>&#160;            <span class="keywordflow">if</span> (ec != 0) <span class="keywordflow">continue</span>;</div>
+<div class="line"><a name="l00885"></a><span class="lineno">  885</span>&#160;            <span class="keywordflow">if</span> (ec.failed()) <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00886"></a><span class="lineno">  886</span>&#160;            aggregate.<a class="code" href="../../db/db5/structAggregateRouteConfig.html#a5e0723a97220936fb8aa2802e393cd78">aggregate</a> = address;</div>
 <div class="line"><a name="l00887"></a><span class="lineno">  887</span>&#160;            inet6_list-&gt;push_back(aggregate);</div>
 <div class="line"><a name="l00888"></a><span class="lineno">  888</span>&#160;        }</div>
@@ -1068,7 +1068,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00960"></a><span class="lineno">  960</span>&#160;        boost::system::error_code ec;</div>
 <div class="line"><a name="l00961"></a><span class="lineno">  961</span>&#160;        <a class="code" href="../../d7/db3/structStaticRouteConfig.html">StaticRouteConfig</a> item;</div>
 <div class="line"><a name="l00962"></a><span class="lineno">  962</span>&#160;        item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a16244e9ec9c7935ef28fdd5153e8f908">nexthop</a> = IpAddress::from_string(route.next_hop, ec);</div>
-<div class="line"><a name="l00963"></a><span class="lineno">  963</span>&#160;        <span class="keywordflow">if</span> (ec != 0)</div>
+<div class="line"><a name="l00963"></a><span class="lineno">  963</span>&#160;        <span class="keywordflow">if</span> (ec.failed())</div>
 <div class="line"><a name="l00964"></a><span class="lineno">  964</span>&#160;            <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00965"></a><span class="lineno">  965</span>&#160;</div>
 <div class="line"><a name="l00966"></a><span class="lineno">  966</span>&#160;        item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a90737af4fec514933861dee30d68a396">route_targets</a> = route.route_target;</div>
@@ -1076,7 +1076,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00968"></a><span class="lineno">  968</span>&#160;        <span class="keywordflow">if</span> (item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a16244e9ec9c7935ef28fdd5153e8f908">nexthop</a>.is_v4()) {</div>
 <div class="line"><a name="l00969"></a><span class="lineno">  969</span>&#160;            <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> address;</div>
 <div class="line"><a name="l00970"></a><span class="lineno">  970</span>&#160;            ec = <a class="code" href="../../dd/dea/address_8cc.html#a88e7c1a8b588da628a397967e3658cd2">Ip4SubnetParse</a>(route.prefix, &amp;address, &amp;item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a50b65f83c4336ee9ce82d618715fce8c">prefix_length</a>);</div>
-<div class="line"><a name="l00971"></a><span class="lineno">  971</span>&#160;            <span class="keywordflow">if</span> (ec != 0)</div>
+<div class="line"><a name="l00971"></a><span class="lineno">  971</span>&#160;            <span class="keywordflow">if</span> (ec.failed())</div>
 <div class="line"><a name="l00972"></a><span class="lineno">  972</span>&#160;                <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00973"></a><span class="lineno">  973</span>&#160;            item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a4941c4a74d4a5975c42cefcb2731bef4">address</a> = address;</div>
 <div class="line"><a name="l00974"></a><span class="lineno">  974</span>&#160;            std::pair&lt;BgpInstanceConfig::StaticRouteList::iterator, bool&gt; ret =</div>
@@ -1090,7 +1090,7 @@ $(document).ready(function(){initNavTree('d5/d78/bgp__config__ifmap_8cc_source.h
 <div class="line"><a name="l00982"></a><span class="lineno">  982</span>&#160;        } <span class="keywordflow">else</span> {</div>
 <div class="line"><a name="l00983"></a><span class="lineno">  983</span>&#160;            <a class="code" href="../../d9/d9b/address_8h.html#a231be25f722543d7460102bbe5c59f5d">Ip6Address</a> address;</div>
 <div class="line"><a name="l00984"></a><span class="lineno">  984</span>&#160;            ec = <a class="code" href="../../dd/dea/address_8cc.html#afe1b27a11c43ffa2b6cb15bbdb8a19af">Inet6SubnetParse</a>(route.prefix, &amp;address, &amp;item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a50b65f83c4336ee9ce82d618715fce8c">prefix_length</a>);</div>
-<div class="line"><a name="l00985"></a><span class="lineno">  985</span>&#160;            <span class="keywordflow">if</span> (ec != 0)</div>
+<div class="line"><a name="l00985"></a><span class="lineno">  985</span>&#160;            <span class="keywordflow">if</span> (ec.failed())</div>
 <div class="line"><a name="l00986"></a><span class="lineno">  986</span>&#160;                <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00987"></a><span class="lineno">  987</span>&#160;            item.<a class="code" href="../../d7/db3/structStaticRouteConfig.html#a4941c4a74d4a5975c42cefcb2731bef4">address</a> = address;</div>
 <div class="line"><a name="l00988"></a><span class="lineno">  988</span>&#160;            std::pair&lt;BgpInstanceConfig::StaticRouteList::iterator, bool&gt; ret =</div>

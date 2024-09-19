@@ -266,7 +266,7 @@ $(document).ready(function(){initNavTree('df/d00/ermvpn__route_8cc_source.html',
 <div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;    temp_str = str.substr(pos1 + 1, pos2 - pos1 - 1);</div>
 <div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;    boost::system::error_code rd_err;</div>
 <div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;    prefix.<a class="code" href="../../d6/d1d/classErmVpnPrefix.html#a95b8985ffd40a354fd4c7fa3e5ae7ec9">rd_</a> = <a class="code" href="../../dc/d73/classRouteDistinguisher.html#a9668cfed56ee6c36516946ee6127d20f">RouteDistinguisher::FromString</a>(temp_str, &amp;rd_err);</div>
-<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;    <span class="keywordflow">if</span> (rd_err != 0) {</div>
+<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;    <span class="keywordflow">if</span> (rd_err.failed()) {</div>
 <div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;            *errorp = rd_err;</div>
 <div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;        }</div>
@@ -284,7 +284,7 @@ $(document).ready(function(){initNavTree('df/d00/ermvpn__route_8cc_source.html',
 <div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;    temp_str = str.substr(pos2 + 1, pos3 - pos2 - 1);</div>
 <div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;    boost::system::error_code rtid_err;</div>
 <div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;    prefix.<a class="code" href="../../d6/d1d/classErmVpnPrefix.html#ae1be0058dd112131301565f8d0a88ee9">router_id_</a> = Ip4Address::from_string(temp_str, rtid_err);</div>
-<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;    <span class="keywordflow">if</span> (rtid_err != 0) {</div>
+<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;    <span class="keywordflow">if</span> (rtid_err.failed()) {</div>
 <div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;            *errorp = rtid_err;</div>
 <div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;        }</div>
@@ -302,7 +302,7 @@ $(document).ready(function(){initNavTree('df/d00/ermvpn__route_8cc_source.html',
 <div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;    temp_str = str.substr(pos3 + 1, pos4 - pos3 - 1);</div>
 <div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;    boost::system::error_code group_err;</div>
 <div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;    prefix.<a class="code" href="../../d6/d1d/classErmVpnPrefix.html#a13e47dfeaf53fa3792e3537c240be344">group_</a> = Ip4Address::from_string(temp_str, group_err);</div>
-<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;    <span class="keywordflow">if</span> (group_err != 0) {</div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;    <span class="keywordflow">if</span> (group_err.failed()) {</div>
 <div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;            *errorp = group_err;</div>
 <div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;        }</div>
@@ -313,7 +313,7 @@ $(document).ready(function(){initNavTree('df/d00/ermvpn__route_8cc_source.html',
 <div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;    temp_str = str.substr(pos4 + 1, string::npos);</div>
 <div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;    boost::system::error_code source_err;</div>
 <div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;    prefix.<a class="code" href="../../d6/d1d/classErmVpnPrefix.html#a8f299b3e5dd7fab24433add2d46f1ea4">source_</a> = Ip4Address::from_string(temp_str, source_err);</div>
-<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;    <span class="keywordflow">if</span> (source_err != 0) {</div>
+<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;    <span class="keywordflow">if</span> (source_err.failed()) {</div>
 <div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;            *errorp = source_err;</div>
 <div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;        }</div>

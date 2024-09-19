@@ -1,18 +1,17 @@
 <map id="ksync_sock_user.cc" name="ksync_sock_user.cc">
-<area shape="rect" id="node5" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="2748,80,2865,107"/>
-<area shape="rect" id="node9" href="$d1/d95/address__util_8h.html" title="base/address_util.h" alt="" coords="2834,253,2981,280"/>
-<area shape="rect" id="node13" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="194,253,264,280"/>
-<area shape="rect" id="node18" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="499,344,608,371"/>
-<area shape="rect" id="node20" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="405,427,515,453"/>
-<area shape="rect" id="node26" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="525,253,696,280"/>
-<area shape="rect" id="node28" href="$d6/dbe/ksync__index_8h.html" title="ksync_index.h" alt="" coords="2596,253,2711,280"/>
-<area shape="rect" id="node30" href="$d1/d34/ksync__entry_8h.html" title="ksync_entry.h" alt="" coords="1362,253,1472,280"/>
-<area shape="rect" id="node34" href="$d9/d23/ksync__object_8h.html" title="ksync_object.h" alt="" coords="1159,163,1277,189"/>
-<area shape="rect" id="node39" href="$d3/df3/ksync__sock_8h.html" title="ksync_sock.h" alt="" coords="1860,163,1969,189"/>
-<area shape="rect" id="node46" href="$d5/d42/ksync__sock__user_8h.html" title="ksync_sock_user.h" alt="" coords="2070,80,2212,107"/>
-<area shape="rect" id="node12" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="2913,344,3033,371"/>
-<area shape="rect" id="node17" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="415,501,505,528"/>
-<area shape="rect" id="node36" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1092,253,1236,280"/>
-<area shape="rect" id="node37" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="914,253,1016,280"/>
-<area shape="rect" id="node43" href="$de/d15/tcp__session_8h.html" title="io/tcp_session.h" alt="" coords="2127,253,2253,280"/>
+<area shape="rect" id="node5" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="2807,80,2924,107"/>
+<area shape="rect" id="node9" href="$d1/d95/address__util_8h.html" title="base/address_util.h" alt="" coords="1122,80,1269,107"/>
+<area shape="rect" id="node14" href="$da/d4e/db_8h.html" title="db/db.h" alt="" coords="357,253,427,280"/>
+<area shape="rect" id="node19" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="651,344,760,371"/>
+<area shape="rect" id="node21" href="$d6/d67/db__table_8h.html" title="db/db_table.h" alt="" coords="289,427,399,453"/>
+<area shape="rect" id="node27" href="$d1/d21/db__table__partition_8h.html" title="db/db_table_partition.h" alt="" coords="753,253,924,280"/>
+<area shape="rect" id="node29" href="$d6/dbe/ksync__index_8h.html" title="ksync_index.h" alt="" coords="1243,253,1357,280"/>
+<area shape="rect" id="node31" href="$d1/d34/ksync__entry_8h.html" title="ksync_entry.h" alt="" coords="1651,253,1761,280"/>
+<area shape="rect" id="node35" href="$d9/d23/ksync__object_8h.html" title="ksync_object.h" alt="" coords="1398,163,1516,189"/>
+<area shape="rect" id="node40" href="$d3/df3/ksync__sock_8h.html" title="ksync_sock.h" alt="" coords="2116,163,2225,189"/>
+<area shape="rect" id="node46" href="$d5/d42/ksync__sock__user_8h.html" title="ksync_sock_user.h" alt="" coords="2394,80,2536,107"/>
+<area shape="rect" id="node12" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="959,163,1079,189"/>
+<area shape="rect" id="node18" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="96,501,187,528"/>
+<area shape="rect" id="node37" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="1432,253,1576,280"/>
+<area shape="rect" id="node38" href="$d5/dd0/timer_8h.html" title="base/timer.h" alt="" coords="565,253,667,280"/>
 </map>

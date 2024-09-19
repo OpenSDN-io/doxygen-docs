@@ -170,7 +170,7 @@ $(document).ready(function(){initNavTree('d2/d44/overlay__ping_8cc_source.html',
 <div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <a class="code" href="../../d8/dfe/classAgent.html">Agent</a> *agent = <a class="code" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b">Agent::GetInstance</a>();</div>
 <div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    <a class="code" href="../../d1/d4c/vnsw_2agent_2filter_2policy_8h.html#a48ee1bc5880e8af422e6f9cf40eb11dc">boost::uuids::uuid</a> vn_uuid = <a class="code" href="../../dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da">StringToUuid</a>(get_vn_uuid());</div>
 <div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> sip(IpAddress::from_string(get_source_ip(), ec));</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <span class="keywordflow">if</span> (ec != 0) {</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) {</div>
 <div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;        err_str = <span class="stringliteral">&quot;Invalid source IP&quot;</span>;</div>
 <div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;        <span class="keywordflow">goto</span> error;</div>
 <div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    }</div>
@@ -181,7 +181,7 @@ $(document).ready(function(){initNavTree('d2/d44/overlay__ping_8cc_source.html',
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    }</div>
 <div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> dip(IpAddress::from_string(get_dest_ip(), ec));</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keywordflow">if</span> (ec != 0) {</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keywordflow">if</span> (ec.failed()) {</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;        err_str = <span class="stringliteral">&quot;Invalid destination IP&quot;</span>;</div>
 <div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;        <span class="keywordflow">goto</span> error;</div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    }</div>

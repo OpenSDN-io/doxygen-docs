@@ -11,9 +11,9 @@ var classDiagProto =
       [ "REPLIES_SENT", "dc/d8f/classDiagProto.html#a8ace84ce5e71bca3559a7d6d24179177a5b0f925b7deda94033de64084c55bb10", null ],
       [ "REPLIES_RECEIVED", "dc/d8f/classDiagProto.html#a8ace84ce5e71bca3559a7d6d24179177ac2c346b012f102d2119ccc744850be85", null ]
     ] ],
-    [ "DiagProto", "dc/d8f/classDiagProto.html#ac4729edf0906f87e557f64f5420d1b1a", null ],
+    [ "DiagProto", "dc/d8f/classDiagProto.html#a210fe7e0168837101f6e295508d8c453", null ],
     [ "~DiagProto", "dc/d8f/classDiagProto.html#ad5952db8b3b4539d2f731878548434ec", null ],
-    [ "AllocProtoHandler", "dc/d8f/classDiagProto.html#aaa519b59fd5d00a652ccea45c56d3286", null ],
+    [ "AllocProtoHandler", "dc/d8f/classDiagProto.html#ae984967a666cc2903956bd4998bcabc5", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dc/d8f/classDiagProto.html#a6cd0420d01d04d72e64a0030834557c1", null ],
     [ "FillSandeshHealthCheckResponse", "dc/d8f/classDiagProto.html#accfa3c3e119bada4704888aa88a5192c", null ],
     [ "IncrementDiagStats", "dc/d8f/classDiagProto.html#af09010f19f1258226f777839c69edc3c", null ],

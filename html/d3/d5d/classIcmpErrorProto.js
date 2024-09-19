@@ -2,9 +2,9 @@ var classIcmpErrorProto =
 [
     [ "Stats", "df/d1f/structIcmpErrorProto_1_1Stats.html", "df/d1f/structIcmpErrorProto_1_1Stats" ],
     [ "FlowIndexToKeyFn", "d3/d5d/classIcmpErrorProto.html#afc7d54f9439988fab6ee2b6558ef500d", null ],
-    [ "IcmpErrorProto", "d3/d5d/classIcmpErrorProto.html#a3c77887646cf1e40d2c6e645d538b678", null ],
+    [ "IcmpErrorProto", "d3/d5d/classIcmpErrorProto.html#a5c2cb53362e6d423d8e10f2b89ded7d1", null ],
     [ "~IcmpErrorProto", "d3/d5d/classIcmpErrorProto.html#a26e3fb91779f3024c98aa328120b0432", null ],
-    [ "AllocProtoHandler", "d3/d5d/classIcmpErrorProto.html#a6ca2053931474ae6254c858af0ed336c", null ],
+    [ "AllocProtoHandler", "d3/d5d/classIcmpErrorProto.html#a8c015954babf1792994fa9792bfcf770", null ],
     [ "ClearStats", "d3/d5d/classIcmpErrorProto.html#a9548072bf263aafbe18fc3c5a12271fa", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/d5d/classIcmpErrorProto.html#a0ae399f92b5c963cca63be2a8b582687", null ],
     [ "FlowIndexToKey", "d3/d5d/classIcmpErrorProto.html#a0f7858b0f24dc92e344f2332a504de3e", null ],

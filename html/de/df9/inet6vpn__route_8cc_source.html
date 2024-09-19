@@ -203,7 +203,7 @@ $(document).ready(function(){initNavTree('de/df9/inet6vpn__route_8cc_source.html
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <span class="keywordtype">string</span> rdstr = str.substr(0, pos);</div>
 <div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    boost::system::error_code rderr;</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    prefix.<a class="code" href="../../d4/d72/classInet6VpnPrefix.html#ad5fe5503367c65f959ffee6d882d00ff">rd_</a> = <a class="code" href="../../dc/d73/classRouteDistinguisher.html#a9668cfed56ee6c36516946ee6127d20f">RouteDistinguisher::FromString</a>(rdstr, &amp;rderr);</div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="keywordflow">if</span> (rderr != 0) {</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="keywordflow">if</span> (rderr.failed()) {</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;        <span class="keywordflow">if</span> (errorp != NULL) {</div>
 <div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;            *errorp = rderr;</div>
 <div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;        }</div>

@@ -1,6 +1,6 @@
 <map id="task_timer_cleanup" name="task_timer_cleanup">
-<area shape="rect" id="node2" href="$d1/d9b/task__thread__api_8cc.html#a62e4fb1e7945a8ecda259db0ce0878f0" title="thread_circular_top" alt="" coords="235,205,381,232"/>
-<area shape="rect" id="node3" href="$d1/d9b/task__thread__api_8cc.html#af56d64f2afbfc518e075bb89674c6aaf" title="thread_remove" alt="" coords="247,256,369,283"/>
+<area shape="rect" id="node2" href="$d1/d9b/task__thread__api_8cc.html#a852e203d895b5fffcade8f7e471f88a8" title="thread_circular_top" alt="" coords="235,205,381,232"/>
+<area shape="rect" id="node3" href="$d1/d9b/task__thread__api_8cc.html#a6a600fd1de350ed863f345955a8d7b8a" title="thread_remove" alt="" coords="247,256,369,283"/>
 <area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="205,307,411,333"/>
 <area shape="rect" id="node5" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="518,256,615,283"/>
 <area shape="rect" id="node6" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="511,307,623,333"/>

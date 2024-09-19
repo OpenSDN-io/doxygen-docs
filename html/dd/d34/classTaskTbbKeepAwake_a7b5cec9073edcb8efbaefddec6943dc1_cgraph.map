@@ -1,7 +1,7 @@
 <map id="TaskTbbKeepAwake::StartTbbKeepAwakeTask" name="TaskTbbKeepAwake::StartTbbKeepAwakeTask">
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="281,800,468,827"/>
-<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#a45543ad91eb6b899df89af85fbf51d08" title="TimerManager::CreateTimer" alt="" coords="272,851,477,877"/>
-<area shape="rect" id="node5" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="280,901,469,928"/>
+<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="272,851,477,877"/>
+<area shape="rect" id="node5" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="280,901,469,928"/>
 <area shape="rect" id="node6" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="325,952,424,979"/>
 <area shape="rect" id="node42" href="$dd/d34/classTaskTbbKeepAwake.html#a5f313bcb67e4dba0bdae6a87d92c68c6" title="TaskTbbKeepAwake::TbbKeep\lAwake" alt="" coords="267,1025,482,1066"/>
 <area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="531,851,717,877"/>

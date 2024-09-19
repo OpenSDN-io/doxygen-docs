@@ -1,7 +1,7 @@
 <map id="SslSession::TriggerSslHandShake" name="SslSession::TriggerSslHandShake">
 <area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="278,5,421,32"/>
 <area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5" title="TcpServer::event_manager" alt="" coords="252,56,447,83"/>
-<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html#a2a760788de9a38fe462b27e72adb9391" title="EventManager::io_service" alt="" coords="255,107,444,133"/>
+<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="255,107,444,133"/>
 <area shape="rect" id="node5" href="$db/dda/classSslSession.html#ae53e83738b0bcfdc5b8989c73721d469" title="SslSession::TriggerSslHand\lShakeInternal" alt="" coords="251,158,447,199"/>
 <area shape="rect" id="node6" href="$db/dda/classSslSession.html#aad1ecb32bdfc092fbb6901d277cd71a5" title="SslSession::SslHandShake\lCallback" alt="" coords="496,158,688,199"/>
 </map>
