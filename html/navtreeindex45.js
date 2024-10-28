@@ -1,5 +1,11 @@
 var NAVTREEINDEX45 =
 {
+"d3/d26/classDBPartition_1_1WorkQueue.html#aceea6cf72abb3681f545f93fecb956d7":[2,0,551,1,27],
+"d3/d26/classDBPartition_1_1WorkQueue.html#ad13139f56b086e9564c4a026401644d1":[2,0,551,1,23],
+"d3/d26/classDBPartition_1_1WorkQueue.html#ae166d420a848b4c2efcf85f84bc8152e":[2,0,551,1,32],
+"d3/d26/classDBPartition_1_1WorkQueue.html#ae17b7061ae4479cd66954c6a1f6e502b":[2,0,551,1,14],
+"d3/d26/classDBPartition_1_1WorkQueue.html#ae602a25e5241351c621e8b023f7aad24":[2,0,551,1,30],
+"d3/d26/classDBPartition_1_1WorkQueue.html#ae76838ad40c1c1299cd4b0706142828e":[2,0,551,1,31],
 "d3/d26/classDBPartition_1_1WorkQueue.html#af470388cc8b64481b2de09c19ffb468d":[2,0,551,1,13],
 "d3/d26/classDBPartition_1_1WorkQueue.html#afd28204c8eadddb076000b3ac0fab386":[2,0,551,1,25],
 "d3/d26/classDnsProto_1_1DnsFipEntryCmp.html":[2,0,605,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX45 =
 "d3/d2d/classBgpPeer.html#ab276ab65bc9c08ac36f7357547878e6e":[2,0,395,141],
 "d3/d2d/classBgpPeer.html#ab2a4badba19741cd7ae84c33dfd2a0bb":[2,0,395,207],
 "d3/d2d/classBgpPeer.html#ab2e4f5d28e8ebf2d5612a3940d62aa7c":[2,0,395,132],
-"d3/d2d/classBgpPeer.html#ab2f4334a49e222e80946402b1b84fa6c":[2,0,395,174],
-"d3/d2d/classBgpPeer.html#ab34104b39633be52168105bd0933e4e7":[2,0,395,265],
-"d3/d2d/classBgpPeer.html#ab4fe51bc07c5954c149293b2409d0218":[2,0,395,214],
-"d3/d2d/classBgpPeer.html#ab5ebe7585f8bc722d51e09d0ff52889b":[2,0,395,99],
-"d3/d2d/classBgpPeer.html#ab600afcbe2f1898e69f8f8755a2697b4":[2,0,395,306],
-"d3/d2d/classBgpPeer.html#ab617a4c6c335eea3e786fd082881b62f":[2,0,395,121],
-"d3/d2d/classBgpPeer.html#ab62120ce26d93fc9192fbdb12c85978f":[2,0,395,213]
+"d3/d2d/classBgpPeer.html#ab2f4334a49e222e80946402b1b84fa6c":[2,0,395,174]
 };

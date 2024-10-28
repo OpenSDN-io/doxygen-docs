@@ -1,10 +1,5 @@
 var NAVTREEINDEX77 =
 {
-"d5/d3a/classMacIpLearningEntry.html#a226ee8bf996f632677e249ca8de752ed":[2,0,1082,21],
-"d5/d3a/classMacIpLearningEntry.html#a2f88d90e285e849e9fc3a9f574babf49":[2,0,1082,0],
-"d5/d3a/classMacIpLearningEntry.html#a349afddb63dad53d9c3ec05a3e83905c":[2,0,1082,24],
-"d5/d3a/classMacIpLearningEntry.html#a36213259b55e8bd72243ebde6cfb4b08":[2,0,1082,18],
-"d5/d3a/classMacIpLearningEntry.html#a424a5a3e9e6d0cd7c227301115f9a248":[2,0,1082,22],
 "d5/d3a/classMacIpLearningEntry.html#a4ddb51fa5438d4257e59bf8b5ea8d546":[2,0,1082,13],
 "d5/d3a/classMacIpLearningEntry.html#a58b69e38368a9f3938c01e25ebeaac3d":[2,0,1082,3],
 "d5/d3a/classMacIpLearningEntry.html#a61053becf4decd47445fafa306176354":[2,0,1082,5],
@@ -249,5 +244,10 @@ var NAVTREEINDEX77 =
 "d5/d42/rpc_8pb_8cc.html#a54b72d801d1fd5fa4177ce8dcdad0a6b":[3,0,997,232],
 "d5/d42/rpc_8pb_8cc.html#a54c2ed1ac67c3b786753fcc1db6cda8c":[3,0,997,255],
 "d5/d42/rpc_8pb_8cc.html#a56f0fad126ee84079214761570e49d20":[3,0,997,313],
-"d5/d42/rpc_8pb_8cc.html#a59c4a5cc8f942389e2caaad7c16c9e52":[3,0,997,401]
+"d5/d42/rpc_8pb_8cc.html#a59c4a5cc8f942389e2caaad7c16c9e52":[3,0,997,401],
+"d5/d42/rpc_8pb_8cc.html#a59d41e44ea3061a53f5e1eca79a8e157":[3,0,997,374],
+"d5/d42/rpc_8pb_8cc.html#a5a8e0530d85790e1f31af78bab1b3a26":[3,0,997,250],
+"d5/d42/rpc_8pb_8cc.html#a5b638354cd639129d95567bb9712073a":[3,0,997,190],
+"d5/d42/rpc_8pb_8cc.html#a5b8dc0a6f86dfd105a5940e0c1f9b118":[3,0,997,396],
+"d5/d42/rpc_8pb_8cc.html#a5c1dfc25f75b31df8e59b3930a8d9eb5":[3,0,997,242]
 };

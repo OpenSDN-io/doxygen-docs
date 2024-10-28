@@ -25,7 +25,7 @@ var classVxlanRoutingManager =
     [ "FindInterfacePathWithLocalVmPeer", "dc/d5b/classVxlanRoutingManager.html#a64578aea8ef4e739ed542e05e67868e7", null ],
     [ "FindPathWithGivenPeer", "dc/d5b/classVxlanRoutingManager.html#a4976770256e7ed83b1c179611b08b986", null ],
     [ "FindPathWithGivenPeerAndNexthop", "dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d", null ],
-    [ "GetNewLocalSequence", "dc/d5b/classVxlanRoutingManager.html#afdd9fb189fad02e718336ed07bcfaa37", null ],
+    [ "GetNewLocalSequence", "dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a", null ],
     [ "GetOriginVn", "dc/d5b/classVxlanRoutingManager.html#a5760a22e024f7f386178454bc2fd5cc9", null ],
     [ "HandleSubnetRoute", "dc/d5b/classVxlanRoutingManager.html#a23cc710c0d209df8c9b1055a26e9ade0", null ],
     [ "HasBgpPeerPath", "dc/d5b/classVxlanRoutingManager.html#a24ac477cb6264fab97e14bec47bd1498", null ],

@@ -2385,9 +2385,9 @@ var files =
       [ "RestServerGetVmCfgTask", "d5/d8a/classRestServerGetVmCfgTask.html", "d5/d8a/classRestServerGetVmCfgTask" ]
     ] ],
     [ "rest_server.h", "dd/d88/rest__server_8h.html", [
-      [ "RESTServer", "d5/db1/classRESTServer.html", "d5/db1/classRESTServer" ],
-      [ "RESTData", "d4/d63/structRESTServer_1_1RESTData.html", "d4/d63/structRESTServer_1_1RESTData" ],
-      [ "HandlerSpecifier", "d3/d4b/classRESTServer_1_1HandlerSpecifier.html", "d3/d4b/classRESTServer_1_1HandlerSpecifier" ]
+      [ "RestServer", "d5/ddf/classRestServer.html", "d5/ddf/classRestServer" ],
+      [ "RESTData", "d5/dc6/structRestServer_1_1RESTData.html", "d5/dc6/structRestServer_1_1RESTData" ],
+      [ "HandlerSpecifier", "d1/d1f/classRestServer_1_1HandlerSpecifier.html", "d1/d1f/classRestServer_1_1HandlerSpecifier" ]
     ] ],
     [ "route.cc", "d9/d98/route_8cc.html", null ],
     [ "route.h", "d9/d7f/route_8h.html", [

@@ -1,0 +1,8 @@
+<map id="RestServer::Shutdown" name="RestServer::Shutdown">
+<area shape="rect" id="node2" href="$dd/dab/classHttpServer.html#a7d412f0a2347ca6dd069d6eec6b9d0a5" title="HttpServer::Shutdown" alt="" coords="233,5,397,32"/>
+<area shape="rect" id="node5" href="$d0/dba/classTcpServerManager.html#a42e58b0b19fd4cefb47b46990e2c59c8" title="TcpServerManager::Delete\lServer" alt="" coords="219,57,411,98"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="487,5,644,32"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="720,5,907,32"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#add33239746452389f6188521166aee3c" title="TcpServer::WaitForEmpty" alt="" coords="473,60,657,87"/>
+<area shape="rect" id="node7" href="$de/de4/classServerManager.html#af8feafe14c4add22d2d78f0d5b28b805" title="ServerManager::DeleteServer" alt="" coords="459,111,672,137"/>
+</map>

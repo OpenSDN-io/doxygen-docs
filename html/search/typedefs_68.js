@@ -2,7 +2,7 @@ var searchData=
 [
   ['handler',['Handler',['../dc/dea/classTimer.html#ad0a52426c0d05b35edae1024a0a03798',1,'Timer']]],
   ['handlercb',['HandlerCb',['../d0/d5a/classKSyncSock.html#a94d219d7be49489d74aa3952b29f8056',1,'KSyncSock']]],
-  ['handlerfunc',['HandlerFunc',['../dc/d8a/classBFD_1_1RESTServer_1_1HandlerSpecifier.html#afb8ff252776babe848e315fe09f069a7',1,'BFD::RESTServer::HandlerSpecifier::HandlerFunc()'],['../d3/d4b/classRESTServer_1_1HandlerSpecifier.html#a460ece11851332dcbdb604dfba7892ef',1,'RESTServer::HandlerSpecifier::HandlerFunc()']]],
+  ['handlerfunc',['HandlerFunc',['../dc/d8a/classBFD_1_1RESTServer_1_1HandlerSpecifier.html#afb8ff252776babe848e315fe09f069a7',1,'BFD::RESTServer::HandlerSpecifier::HandlerFunc()'],['../d1/d1f/classRestServer_1_1HandlerSpecifier.html#aa224bb8a4fa6dc5b1d706a1db60d2115',1,'RestServer::HandlerSpecifier::HandlerFunc()']]],
   ['handlertrie',['HandlerTrie',['../dd/dab/classHttpServer.html#a81574e1a988f6310586e109af68b5d66',1,'HttpServer']]],
   ['headermap',['HeaderMap',['../d5/d1b/classHttpRequest.html#a71e3bbcde7a88cab9c23ca1808fbd83d',1,'HttpRequest']]],
   ['healthcheckcb',['HealthCheckCb',['../dd/dcf/classBgpAsAService.html#a1e6b912abe9f76de6dc80ab0d4be4753',1,'BgpAsAService']]],

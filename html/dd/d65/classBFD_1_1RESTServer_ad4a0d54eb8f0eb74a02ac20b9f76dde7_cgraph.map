@@ -1,8 +1,0 @@
-<map id="BFD::RESTServer::CreateRESTClientSession" name="BFD::RESTServer::CreateRESTClientSession">
-<area shape="rect" id="node2" href="$dd/d65/classBFD_1_1RESTServer.html#a4df928b2979b176214606bcd2d5e3871" title="BFD::RESTServer::UniqClientId" alt="" coords="307,20,525,47"/>
-<area shape="rect" id="node3" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title="BFD::REST::SendResponse" alt="" coords="321,71,511,97"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="573,71,707,97"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="755,5,941,46"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="989,96,1133,123"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="755,121,941,148"/>
-</map>

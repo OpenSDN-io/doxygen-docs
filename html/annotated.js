@@ -1435,7 +1435,7 @@ var annotated =
     [ "ResourceSandeshMaps", "d7/ded/classResourceSandeshMaps.html", "d7/ded/classResourceSandeshMaps" ],
     [ "ResourceTable", "d1/dad/classResourceTable.html", "d1/dad/classResourceTable" ],
     [ "RespBlock", "db/de0/classRespBlock.html", "db/de0/classRespBlock" ],
-    [ "RESTServer", "d5/db1/classRESTServer.html", "d5/db1/classRESTServer" ],
+    [ "RestServer", "d5/ddf/classRestServer.html", "d5/ddf/classRestServer" ],
     [ "RestServerGetVmCfgTask", "d5/d8a/classRestServerGetVmCfgTask.html", "d5/d8a/classRestServerGetVmCfgTask" ],
     [ "RevFlowDepParams", "d1/dfa/structRevFlowDepParams.html", "d1/dfa/structRevFlowDepParams" ],
     [ "RibExportPolicy", "d2/d43/structRibExportPolicy.html", "d2/d43/structRibExportPolicy" ],

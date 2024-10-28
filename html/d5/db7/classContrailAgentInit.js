@@ -17,7 +17,7 @@ var classContrailAgentInit =
     [ "ksync_", "d5/db7/classContrailAgentInit.html#accfb8d0ce8484eb96a927ec50dc865da", null ],
     [ "pkt0_", "d5/db7/classContrailAgentInit.html#a32b63eb754ca1aca958811f88e6db18c", null ],
     [ "port_ipc_handler_", "d5/db7/classContrailAgentInit.html#af7b743af3cdb0b54c06ce835c97fefe4", null ],
-    [ "rest_server_", "d5/db7/classContrailAgentInit.html#ad4e9d05a30fef3920540b664b3c1b10e", null ],
+    [ "rest_server_", "d5/db7/classContrailAgentInit.html#a9f85668329a3fe0785a421fa272c1fef", null ],
     [ "stats_collector_", "d5/db7/classContrailAgentInit.html#a0cb5ee65b5f9b3c89f3ad289cf8c77d3", null ],
     [ "uve_", "d5/db7/classContrailAgentInit.html#ac8d72d45618d983f15be2fef73f2d3e5", null ]
 ];

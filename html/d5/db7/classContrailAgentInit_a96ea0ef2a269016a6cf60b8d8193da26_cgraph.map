@@ -1,8 +1,8 @@
 <map id="ContrailAgentInit::ModulesShutdown" name="ContrailAgentInit::ModulesShutdown">
 <area shape="rect" id="node2" href="$d9/daa/classContrailInitCommon.html#ab8321ab3d2840988029ec67776285b73" title="ContrailInitCommon\l::ModulesShutdown" alt="" coords="214,54,367,95"/>
 <area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391" title="AgentInit::agent" alt="" coords="467,5,594,32"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a90406b7a7106ae9bc07e5ecf7e11027a" title="Agent::rest_server" alt="" coords="220,120,361,147"/>
-<area shape="rect" id="node8" href="$d5/db1/classRESTServer.html#a580f4f603fa20e350bc7ba0a04a42a2c" title="RESTServer::Shutdown" alt="" coords="206,171,375,197"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ae7d7481b3a61c3a81dd269ef62dde552" title="Agent::rest_server" alt="" coords="220,120,361,147"/>
+<area shape="rect" id="node8" href="$d5/ddf/classRestServer.html#a09b7c6c9a85c50dc7885614dd64c7ea5" title="RestServer::Shutdown" alt="" coords="209,171,373,197"/>
 <area shape="rect" id="node15" href="$d8/dfe/classAgent.html#aaf9f0e07de4e52001ca46c59e1ce2e96" title="Agent::port_ipc_handler" alt="" coords="203,221,379,248"/>
 <area shape="rect" id="node16" href="$de/d08/classPortIpcHandler.html#aae24697673df629b4ad62873d8dc7498" title="PortIpcHandler::Shutdown" alt="" coords="195,272,386,299"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a96b44336843282788f901177403b5dc0" title="Agent::diag_table" alt="" coords="463,60,599,87"/>

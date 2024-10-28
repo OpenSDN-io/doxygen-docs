@@ -75,6 +75,12 @@ var NAVTREEINDEX19 =
 "d1/d1d/structxmsm_1_1EvStartTls.html#a888cba2590b9f4c79534dcf0953220b6":[2,0,34,14,3],
 "d1/d1d/structxmsm_1_1EvStartTls.html#a94964a405d7f474617f528a7a5184126":[2,0,34,14,2],
 "d1/d1d/structxmsm_1_1EvStartTls.html#aea0181d71fdc2b9b9dc59520ee3d76fd":[2,0,34,14,0],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html":[2,0,1426,0],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html#a68d60eefcab8082ecad6b8cbfa70d18e":[2,0,1426,0,4],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html#a9e7aa2dfdccdc2a0b680bad8113d2329":[2,0,1426,0,1],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html#aa224bb8a4fa6dc5b1d706a1db60d2115":[2,0,1426,0,0],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html#af08fd401982b538d7260391f8463ff4b":[2,0,1426,0,3],
+"d1/d1f/classRestServer_1_1HandlerSpecifier.html#afca5be2d4caf676cdf8ba8b623d8e7af":[2,0,1426,0,2],
 "d1/d1f/linux_2vnswif__listener_8h.html":[3,0,1266],
 "d1/d1f/linux_2vnswif__listener_8h.html#a61be7ff761d5e927416097af3f45ce3d":[3,0,1266,1],
 "d1/d1f/linux_2vnswif__listener_8h_source.html":[3,0,1266],
@@ -243,11 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d31/classPathResolver.html#a5d951a0e96c83950d2b986d8cb27e6d5":[2,0,1284,13],
 "d1/d31/classPathResolver.html#a60ca12bc9629c2b47ac15911f86f48e5":[2,0,1284,50],
 "d1/d31/classPathResolver.html#a61af5b15b8c91acb19f48e64c2420537":[2,0,1284,5],
-"d1/d31/classPathResolver.html#a639884739a37fc9d793e339465f1abf1":[2,0,1284,16],
-"d1/d31/classPathResolver.html#a6d73a2ce42627bf62a4d6e2716bf4a35":[2,0,1284,54],
-"d1/d31/classPathResolver.html#a77525a01eeb708a2b59fee6d380b3747":[2,0,1284,29],
-"d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5":[2,0,1284,43],
-"d1/d31/classPathResolver.html#a79ae3d9c5e09c0f5431071329b4ddd4c":[2,0,1284,25],
-"d1/d31/classPathResolver.html#a7d63e48e89fa3fa819eee36c12c8c5d6":[2,0,1284,60],
-"d1/d31/classPathResolver.html#a7eae0a56362d04ff3bcd5737a4f389c5":[2,0,1284,48]
+"d1/d31/classPathResolver.html#a639884739a37fc9d793e339465f1abf1":[2,0,1284,16]
 };

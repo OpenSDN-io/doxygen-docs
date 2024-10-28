@@ -1,0 +1,19 @@
+<map id="BFD::RESTServer::MonitorRESTClientSession" name="BFD::RESTServer::MonitorRESTClientSession">
+<area shape="rect" id="node2" href="$dd/d65/classBFD_1_1RESTServer.html#a4854313e9062012ee5415abdcc994bfe" title="BFD::RESTServer::GetClient\lSession" alt="" coords="244,29,444,70"/>
+<area shape="rect" id="node3" href="$d9/dab/namespaceBFD_1_1REST.html#a279702b1b55a82a823dbd31dbd556a33" title="BFD::REST::SendErrorResponse" alt="" coords="493,44,715,71"/>
+<area shape="rect" id="node9" href="$d2/d0e/classBFD_1_1RESTClientSession.html#aa2f5fc8260ac2355e46525bc2eaeccb1" title="BFD::RESTClientSession\l::AddMonitoringHttpSession" alt="" coords="243,146,445,187"/>
+<area shape="rect" id="node4" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title="BFD::REST::SendResponse" alt="" coords="763,72,954,99"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="1021,72,1155,99"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="1221,6,1408,47"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1456,97,1600,124"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1221,123,1408,149"/>
+<area shape="rect" id="node10" href="$da/d27/structHttpSession.html#a7f61b697da807404a06d03873d41ebac" title="HttpSession::RegisterEventCb" alt="" coords="497,95,711,121"/>
+<area shape="rect" id="node11" href="$d2/d0e/classBFD_1_1RESTClientSession.html#ab5d3ded18834703748dd0029cb366826" title="BFD::RESTClientSession\l::OnHttpSessionEvent" alt="" coords="516,146,692,187"/>
+<area shape="rect" id="node12" href="$d2/d0e/classBFD_1_1RESTClientSession.html#a350a7f6e97a226d08178056c3e399297" title="BFD::RESTClientSession\l::Notify" alt="" coords="516,211,692,253"/>
+<area shape="rect" id="node13" href="$d2/d0e/classBFD_1_1RESTClientSession.html#a8473c4af91c2a79cab8b79d3f45dfc5b" title="BFD::RESTClientSession\l::GetSession" alt="" coords="771,138,947,179"/>
+<area shape="rect" id="node14" href="$d4/d83/classBFD_1_1Session.html#a9cf1f9cbb31b81f72137f1eb382d37ba" title="BFD::Session::key" alt="" coords="789,204,928,231"/>
+<area shape="rect" id="node15" href="$d4/d83/classBFD_1_1Session.html#a833aa82a0305bc0dea8082c06275c34c" title="BFD::Session::local\l_state" alt="" coords="786,255,931,297"/>
+<area shape="rect" id="node17" href="$d2/da4/structBFD_1_1REST_1_1JsonData.html#af2552c4394a878c78fe6c633a8c2a02d" title="BFD::REST::JsonData\l::EncodeJsonString" alt="" coords="781,321,936,362"/>
+<area shape="rect" id="node16" href="$d4/d83/classBFD_1_1Session.html#a7a4ca6ec68c7f74db4eb76417e93daf3" title="BFD::Session::local\l_state_non_locking" alt="" coords="1015,255,1161,297"/>
+<area shape="rect" id="node18" href="$d2/da4/structBFD_1_1REST_1_1JsonData.html#ab30d1f7ab634a28839e07ae93b75d34f" title="BFD::REST::JsonData\l::EncodeJsonDocument" alt="" coords="1003,321,1173,362"/>
+</map>
