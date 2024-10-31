@@ -226,7 +226,7 @@ $(document).ready(function(){initNavTree('dd/dd8/xmpp__channel__mux_8cc_source.h
 <div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;</div>
 <div class="line"><a name="l00119"></a><span class="lineno"><a class="line" href="../../d2/dc0/classXmppChannelMux.html#ad525dbe176301e54354f07d50a756302">  119</a></span>&#160;vector&lt;string&gt; <a class="code" href="../../d2/dc0/classXmppChannelMux.html#ad525dbe176301e54354f07d50a756302">XmppChannelMux::GetReceiverList</a>()<span class="keyword"> const </span>{</div>
 <div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;    vector&lt;string&gt; receivers;</div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    BOOST_FOREACH(<span class="keyword">const</span> ReceiveCbMap::value_type &amp;value, <a class="code" href="../../d2/dc0/classXmppChannelMux.html#ac3e179f907bd8e66676ceebfbdbb858d">rxmap_</a>) {</div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span>&amp; value : <a class="code" href="../../d2/dc0/classXmppChannelMux.html#ac3e179f907bd8e66676ceebfbdbb858d">rxmap_</a>) {</div>
 <div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;        receivers.push_back(<a class="code" href="../../d8/de0/namespacexmps.html#a134f094cfef8101b60d554be314c4070">xmps::PeerIdToName</a>(value.first));</div>
 <div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;    }</div>
 <div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;    <span class="keywordflow">return</span> receivers;</div>
