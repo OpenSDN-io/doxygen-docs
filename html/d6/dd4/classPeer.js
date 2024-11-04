@@ -9,6 +9,7 @@ var classPeer =
       [ "EVPN_ROUTING_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cdaf204d37d14731cead3fb96846d486099", null ],
       [ "LINKLOCAL_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda4eb75cf728cdd49f384a7639574e0bed", null ],
       [ "ECMP_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda61145297855a18afcf9f59ea4b4cc57c", null ],
+      [ "VXLAN_BGP_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cdab8d8a2427ed8951f333d6df6e1e6056a", null ],
       [ "LOCAL_VM_PORT_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda89c293e8d8ef757e4c68f0e708aae5fd", null ],
       [ "LOCAL_VM_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda5d879f6325ccbda53cd4528fb0632b7f", null ],
       [ "LOCAL_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda111646c88faf8f7022105988bec7f975", null ],
@@ -19,8 +20,7 @@ var classPeer =
       [ "MULTICAST_TOR_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cdaddc050c1aae0380664f23f3a3d3b0a64", null ],
       [ "MAC_VM_BINDING_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cdac8be2703a9b8f90922d131e60b3038c2", null ],
       [ "INET_EVPN_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda7b16216040ff5dabbbafa94b40e35b80", null ],
-      [ "MAC_LEARNING_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda4f2107a4bb9a121ec8e655d27c7c8b0b", null ],
-      [ "VXLAN_BGP_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cdab8d8a2427ed8951f333d6df6e1e6056a", null ]
+      [ "MAC_LEARNING_PEER", "d6/dd4/classPeer.html#a280552d24174e98cff698532fb95e2cda4f2107a4bb9a121ec8e655d27c7c8b0b", null ]
     ] ],
     [ "Peer", "d6/dd4/classPeer.html#aec1222c96e47b9130eeca3f6aceb8d15", null ],
     [ "~Peer", "d6/dd4/classPeer.html#a6ba1719fdbd96ab8a3674e6a230856d1", null ],

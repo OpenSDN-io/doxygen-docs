@@ -1,42 +1,44 @@
 <map id="PktFlowInfo::NatVxlanVrfTranslate" name="PktFlowInfo::NatVxlanVrfTranslate">
-<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a87a55dfc918b5fe86c60af961159827e" title="VrfEntry::routing_vrf" alt="" coords="277,84,430,111"/>
-<area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="240,505,467,532"/>
-<area shape="rect" id="node16" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="283,556,423,583"/>
-<area shape="rect" id="node17" href="$d8/da7/classVrfNH.html#a71d8a131e926b6de4a5d4a5d021654b1" title="VrfNH::GetVrf" alt="" coords="298,607,409,633"/>
-<area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="797,143,955,169"/>
-<area shape="rect" id="node25" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="295,657,412,684"/>
-<area shape="rect" id="node26" href="$d5/d5e/classPktFlowInfo.html#a16dc18f8f86f34571c30f13b3783c73b" title="PktFlowInfo::ChangeVrf" alt="" coords="266,708,441,735"/>
-<area shape="rect" id="node27" href="$d5/d5e/classPktFlowInfo.html#ab7ffa36850c45eebe19f2c8a48aec61c" title="PktFlowInfo::UpdateRoute" alt="" coords="258,312,449,339"/>
-<area shape="rect" id="node4" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="1023,417,1220,444"/>
-<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#a5a46d1874c227dc68c1def831479a4d0" title="AgentPath::ComputeNextHop" alt="" coords="518,556,730,583"/>
-<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="536,665,712,692"/>
-<area shape="rect" id="node5" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1312,392,1411,419"/>
-<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="1277,443,1446,469"/>
-<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="795,607,957,633"/>
-<area shape="rect" id="node9" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="782,658,970,699"/>
-<area shape="rect" id="node13" href="$d2/db8/classDependencyRef.html#a8cf929ac51fbc28d3edf22a9a7baeb41" title="DependencyRef::get" alt="" coords="799,556,953,583"/>
-<area shape="rect" id="node10" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="1048,665,1195,692"/>
-<area shape="rect" id="node11" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="1035,716,1207,743"/>
-<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1273,716,1450,743"/>
-<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="785,724,967,751"/>
-<area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1028,135,1215,177"/>
-<area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1028,70,1215,111"/>
-<area shape="rect" id="node23" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1019,201,1224,242"/>
-<area shape="rect" id="node20" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1273,77,1449,104"/>
-<area shape="rect" id="node21" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1499,77,1703,104"/>
-<area shape="rect" id="node24" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title="Patricia::Tree::LPMFind" alt="" coords="1279,208,1444,235"/>
-<area shape="rect" id="node28" href="$d4/d57/classAgentRoute.html#adc94209fc35201be6b9b082911337c9b" title="AgentRoute::GetTableType" alt="" coords="528,287,720,313"/>
-<area shape="rect" id="node29" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="515,388,733,415"/>
-<area shape="rect" id="node33" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="539,236,709,263"/>
-<area shape="rect" id="node37" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="540,76,708,103"/>
-<area shape="rect" id="node40" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="543,439,705,481"/>
-<area shape="rect" id="node30" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="793,322,959,363"/>
-<area shape="rect" id="node41" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="565,185,683,212"/>
-<area shape="rect" id="node31" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="787,439,965,481"/>
-<area shape="rect" id="node32" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="800,388,952,415"/>
-<area shape="rect" id="node34" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="817,220,935,247"/>
-<area shape="rect" id="node35" href="$d4/d57/classAgentRoute.html#ac47370a3f8ac235f31fece2bd84e61af" title="AgentRoute::IsRPFInvalid" alt="" coords="784,271,968,297"/>
-<area shape="rect" id="node36" href="$d4/d3d/classAgentPath.html#a77223f962c214ba7a6875f333ec7b82f" title="AgentPath::is_subnet\l_discard" alt="" coords="1042,266,1201,307"/>
-<area shape="rect" id="node38" href="$d2/d3d/classVrfEntry.html#ac32cfcd6a11cd0050853c45a682f1464" title="VrfEntry::GetBridgeRoute\lTable" alt="" coords="1029,5,1213,46"/>
-<area shape="rect" id="node39" href="$d8/d2e/classBridgeAgentRouteTable.html#a78b7240ac336fa7d2cb97ab12f99d8fb" title="BridgeAgentRouteTable\l::FindRouteNoLock" alt="" coords="789,69,963,110"/>
+<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a87a55dfc918b5fe86c60af961159827e" title="VrfEntry::routing_vrf" alt="" coords="290,84,443,111"/>
+<area shape="rect" id="node3" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="253,505,480,532"/>
+<area shape="rect" id="node16" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="297,556,437,583"/>
+<area shape="rect" id="node17" href="$d8/da7/classVrfNH.html#a71d8a131e926b6de4a5d4a5d021654b1" title="VrfNH::GetVrf" alt="" coords="311,607,422,633"/>
+<area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="823,143,982,169"/>
+<area shape="rect" id="node25" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="308,657,425,684"/>
+<area shape="rect" id="node26" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="240,708,493,735"/>
+<area shape="rect" id="node27" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="285,759,448,785"/>
+<area shape="rect" id="node28" href="$d5/d5e/classPktFlowInfo.html#a16dc18f8f86f34571c30f13b3783c73b" title="PktFlowInfo::ChangeVrf" alt="" coords="279,809,454,836"/>
+<area shape="rect" id="node29" href="$d5/d5e/classPktFlowInfo.html#ab7ffa36850c45eebe19f2c8a48aec61c" title="PktFlowInfo::UpdateRoute" alt="" coords="271,312,462,339"/>
+<area shape="rect" id="node4" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="1049,417,1247,444"/>
+<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#a5a46d1874c227dc68c1def831479a4d0" title="AgentPath::ComputeNextHop" alt="" coords="545,556,757,583"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="563,665,739,692"/>
+<area shape="rect" id="node5" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1339,392,1437,419"/>
+<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="1303,443,1473,469"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="822,607,983,633"/>
+<area shape="rect" id="node9" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="809,658,997,699"/>
+<area shape="rect" id="node13" href="$d2/db8/classDependencyRef.html#a8cf929ac51fbc28d3edf22a9a7baeb41" title="DependencyRef::get" alt="" coords="826,556,979,583"/>
+<area shape="rect" id="node10" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="1075,665,1221,692"/>
+<area shape="rect" id="node11" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="1062,716,1234,743"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1299,716,1477,743"/>
+<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="811,724,994,751"/>
+<area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="1055,135,1241,177"/>
+<area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="1055,70,1241,111"/>
+<area shape="rect" id="node23" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="1045,201,1251,242"/>
+<area shape="rect" id="node20" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1300,77,1476,104"/>
+<area shape="rect" id="node21" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1526,77,1730,104"/>
+<area shape="rect" id="node24" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title="Patricia::Tree::LPMFind" alt="" coords="1305,208,1471,235"/>
+<area shape="rect" id="node30" href="$d4/d57/classAgentRoute.html#adc94209fc35201be6b9b082911337c9b" title="AgentRoute::GetTableType" alt="" coords="555,287,747,313"/>
+<area shape="rect" id="node31" href="$d5/d5e/classPktFlowInfo.html#a31593124e1b01f77bf5152896411045c" title="PktFlowInfo::RouteToPrefixLen" alt="" coords="542,388,759,415"/>
+<area shape="rect" id="node35" href="$d3/d4f/classFlowEntry.html#aa01eaeb06dd805fa4b5f3ea11c0e153e" title="FlowEntry::GetUcRoute" alt="" coords="565,236,736,263"/>
+<area shape="rect" id="node39" href="$d3/d4f/classFlowEntry.html#a7fee4c076ea2fed67736623d0a868a72" title="FlowEntry::GetL2Route" alt="" coords="567,76,735,103"/>
+<area shape="rect" id="node42" href="$d5/d9a/classAgentRoutePrefix.html#abccb493cf272e56beefd5dfd02391ff5" title="Sets the length of a stored prefix address. " alt="" coords="569,439,732,481"/>
+<area shape="rect" id="node32" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="819,322,986,363"/>
+<area shape="rect" id="node43" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="591,185,710,212"/>
+<area shape="rect" id="node33" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="813,439,992,481"/>
+<area shape="rect" id="node34" href="$d3/df5/classMacAddress.html#aa75873fc2c346f19a7fcaec81ebc6f6c" title="MacAddress::bit_len" alt="" coords="827,388,979,415"/>
+<area shape="rect" id="node36" href="$d3/d4f/classFlowEntry.html#a5d72def50846000f40281892245dd9e4" title="FlowEntry::key" alt="" coords="844,220,961,247"/>
+<area shape="rect" id="node37" href="$d4/d57/classAgentRoute.html#ac47370a3f8ac235f31fece2bd84e61af" title="AgentRoute::IsRPFInvalid" alt="" coords="811,271,995,297"/>
+<area shape="rect" id="node38" href="$d4/d3d/classAgentPath.html#a77223f962c214ba7a6875f333ec7b82f" title="AgentPath::is_subnet\l_discard" alt="" coords="1069,266,1227,307"/>
+<area shape="rect" id="node40" href="$d2/d3d/classVrfEntry.html#ac32cfcd6a11cd0050853c45a682f1464" title="VrfEntry::GetBridgeRoute\lTable" alt="" coords="1056,5,1240,46"/>
+<area shape="rect" id="node41" href="$d8/d2e/classBridgeAgentRouteTable.html#a78b7240ac336fa7d2cb97ab12f99d8fb" title="BridgeAgentRouteTable\l::FindRouteNoLock" alt="" coords="816,69,989,110"/>
 </map>
