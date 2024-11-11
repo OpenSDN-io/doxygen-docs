@@ -146,7 +146,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>.swap(info-&gt;pending_requests);</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        <a class="code" href="../../d5/d0a/classDBTable.html">DBTable</a> *table = info-&gt;table;</div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        <span class="keywordtype">bool</span> walk_table = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        BOOST_FOREACH(<a class="code" href="../../d5/d0a/classDBTable.html#ad3172876c9c18a7f6a12772ce54879ea">DBTable::DBTableWalkRef</a> walker, <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        <span class="keywordflow">for</span> (<span class="keyword">auto</span> walker : <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;            <span class="keywordflow">if</span> (walker-&gt;stopped()) <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;            walker-&gt;set_in_progress();</div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            walker-&gt;reset_walk_again();</div>
@@ -157,7 +157,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;            table-&gt;<a class="code" href="../../d5/d0a/classDBTable.html#a39bd284e83887a591fbe02a184ffe6cb">StartWalk</a>();</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;            <span class="keywordflow">break</span>;</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;            <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>.clear();</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;            current_table_walk_.clear();</div>
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;        }</div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    }</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
@@ -166,7 +166,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00058"></a><span class="lineno"><a class="line" href="../../d1/dec/classDBTableWalkMgr.html#ace3a5dc33611e7bf4655a378a21337d0">   58</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#ace3a5dc33611e7bf4655a378a21337d0">DBTableWalkMgr::ProcessWalkDone</a>() {</div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <a class="code" href="../../d6/de9/task__annotations_8h.html#ad8b4494991b88809b724529f4a43bb8b">CHECK_CONCURRENCY</a>(<span class="stringliteral">&quot;db::Walker&quot;</span>);</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    assert(!<a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>.empty());</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    BOOST_FOREACH(<a class="code" href="../../d5/d0a/classDBTable.html#ad3172876c9c18a7f6a12772ce54879ea">DBTable::DBTableWalkRef</a> walker, <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span> walker : <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
 <div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;        <span class="keywordflow">if</span> (walker-&gt;walk_again())</div>
 <div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;            walker-&gt;set_walk_requested();</div>
 <div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!walker-&gt;stopped())</div>
@@ -174,7 +174,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;        <span class="keywordflow">if</span> (walker-&gt;stopped() || walker-&gt;walk_again()) <span class="keywordflow">continue</span>;</div>
 <div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;        walker-&gt;walk_complete()(walker, walker-&gt;table());</div>
 <div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    }</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>.clear();</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    current_table_walk_.clear();</div>
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#a3a2497c81e8ee4449e4d420415df8652">walk_request_trigger_</a>-&gt;Set();</div>
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;}</div>
@@ -227,7 +227,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;</div>
 <div class="line"><a name="l00120"></a><span class="lineno"><a class="line" href="../../d1/dec/classDBTableWalkMgr.html#abb48a14174ba97ef6c23175b7a2cd744">  120</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#abb48a14174ba97ef6c23175b7a2cd744">DBTableWalkMgr::InvokeWalkCb</a>(<a class="code" href="../../d3/da7/classDBTablePartBase.html">DBTablePartBase</a> *part, <a class="code" href="../../d8/d44/classDBEntryBase.html">DBEntryBase</a> *entry) {</div>
 <div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    uint32_t skip_walk_count = 0;</div>
-<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;    BOOST_FOREACH(<a class="code" href="../../d5/d0a/classDBTable.html#ad3172876c9c18a7f6a12772ce54879ea">DBTable::DBTableWalkRef</a> walker, <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
+<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span> walker : <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>) {</div>
 <div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;        <span class="keywordflow">if</span> (walker-&gt;done() || walker-&gt;stopped() || walker-&gt;walk_again()) {</div>
 <div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;            skip_walk_count++;</div>
 <div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;            <span class="keywordflow">continue</span>;</div>
@@ -238,7 +238,7 @@ $(document).ready(function(){initNavTree('d3/d83/db__table__walk__mgr_8cc_source
 <div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;            <span class="keywordflow">if</span> (!walker-&gt;stopped()) walker-&gt;set_walk_done();</div>
 <div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;        }</div>
 <div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    }</div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    <span class="keywordflow">return</span> (skip_walk_count &lt; <a class="code" href="../../d1/dec/classDBTableWalkMgr.html#aba60af365841511acae73feef8fcc85f">current_table_walk_</a>.size());</div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    <span class="keywordflow">return</span> (skip_walk_count &lt; current_table_walk_.size());</div>
 <div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;}</div>
 <div class="ttc" id="classDBTable_html"><div class="ttname"><a href="../../d5/d0a/classDBTable.html">DBTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00167">db_table.h:167</a></div></div>
 <div class="ttc" id="classTaskScheduler_html"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html">TaskScheduler</a></div><div class="ttdoc">The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ...</div><div class="ttdef"><b>Definition:</b> <a href="../../db/da4/task_8h_source.html#l00178">task.h:178</a></div></div>

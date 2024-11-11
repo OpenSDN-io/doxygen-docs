@@ -762,7 +762,7 @@ $(document).ready(function(){initNavTree('d4/d87/bgp__server_8cc_source.html','.
 <div class="line"><a name="l00654"></a><span class="lineno">  654</span>&#160;}</div>
 <div class="line"><a name="l00655"></a><span class="lineno">  655</span>&#160;</div>
 <div class="line"><a name="l00656"></a><span class="lineno"><a class="line" href="../../db/d26/classBgpServer.html#af6960437ff01d5e2d8f808dd8fd5b77d">  656</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../db/d26/classBgpServer.html#af6960437ff01d5e2d8f808dd8fd5b77d">BgpServer::ClearBgpaaSPeers</a>() {</div>
-<div class="line"><a name="l00657"></a><span class="lineno">  657</span>&#160;    BOOST_FOREACH(EndpointPeerList::value_type &amp;i, <a class="code" href="../../db/d26/classBgpServer.html#ae43983f2bccb5ee300e92ecfdc4e449a">endpoint_peer_list_</a>) {</div>
+<div class="line"><a name="l00657"></a><span class="lineno">  657</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp;i : <a class="code" href="../../db/d26/classBgpServer.html#ae43983f2bccb5ee300e92ecfdc4e449a">endpoint_peer_list_</a>) {</div>
 <div class="line"><a name="l00658"></a><span class="lineno">  658</span>&#160;        i.second-&gt;Clear(<a class="code" href="../../de/d90/structBgpProto_1_1Notification.html#a76086aadc422e3c1293a96dbff2f4242a0fc2ac3d3bf4781aae57fe2350735b01">BgpProto::Notification::OtherConfigChange</a>);</div>
 <div class="line"><a name="l00659"></a><span class="lineno">  659</span>&#160;    }</div>
 <div class="line"><a name="l00660"></a><span class="lineno">  660</span>&#160;}</div>
