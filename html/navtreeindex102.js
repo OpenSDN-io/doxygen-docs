@@ -1,6 +1,5 @@
 var NAVTREEINDEX102 =
 {
-"d6/dd0/classConfigStaleCleaner.html":[2,0,505],
 "d6/dd0/classConfigStaleCleaner.html#a149112e3f829fd0e801ffbf5b3971748":[2,0,505,3],
 "d6/dd0/classConfigStaleCleaner.html#a2c5a2a413f436ba832eb34c36f126f71":[2,0,505,5],
 "d6/dd0/classConfigStaleCleaner.html#a3a0377211bab401e6f22f2773faae2a8":[2,0,505,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX102 =
 "d6/ddf/classBgpInstanceConfig.html#a1547555c34405034e4b0c03362ab189f":[2,0,297,58],
 "d6/ddf/classBgpInstanceConfig.html#a19119c9ba6402cabf06a9f328993672b":[2,0,297,28],
 "d6/ddf/classBgpInstanceConfig.html#a20110a3797f5c2a24f3bad31aa33bfd2":[2,0,297,0],
-"d6/ddf/classBgpInstanceConfig.html#a22f6ef18b1e07ad4c72bb15e3fd67802":[2,0,297,24]
+"d6/ddf/classBgpInstanceConfig.html#a22f6ef18b1e07ad4c72bb15e3fd67802":[2,0,297,24],
+"d6/ddf/classBgpInstanceConfig.html#a27c1ff4682cc55780b441a5b4c5124d3":[2,0,297,2]
 };

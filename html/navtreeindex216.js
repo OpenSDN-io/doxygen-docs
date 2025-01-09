@@ -1,6 +1,5 @@
 var NAVTREEINDEX216 =
 {
-"de/df8/classRoute.html#a5f8dbdf36137b4a434ba28bf6ac105f5":[2,0,1435,1],
 "de/df8/classRoute.html#a7772b6e411927e801a15dd686f32bc9f":[2,0,1435,2],
 "de/df8/classRoute.html#a8d74e299482bd9229bee96a96c5d6be8":[2,0,1435,10],
 "de/df8/classRoute.html#ab99f388a445702c87ca21f45b96d5fbf":[2,0,1435,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX216 =
 "df/d0a/ifmap__node_8h_source.html":[3,0,547],
 "df/d0b/structProtoSequence_1_1SequenceEncoder.html":[2,0,1376,1],
 "df/d0b/structProtoSequence_1_1SequenceEncoder.html#a21f84af8b69e8b49b7e8457bc24dec0e":[2,0,1376,1,3],
-"df/d0b/structProtoSequence_1_1SequenceEncoder.html#a3975c88aa681f4100cf47c5b3d2eb4bf":[2,0,1376,1,5]
+"df/d0b/structProtoSequence_1_1SequenceEncoder.html#a3975c88aa681f4100cf47c5b3d2eb4bf":[2,0,1376,1,5],
+"df/d0b/structProtoSequence_1_1SequenceEncoder.html#a463544a91087e1748baa5a5f3e8f231e":[2,0,1376,1,1]
 };

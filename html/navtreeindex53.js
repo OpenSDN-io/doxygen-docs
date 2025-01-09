@@ -1,6 +1,5 @@
 var NAVTREEINDEX53 =
 {
-"d3/d9f/structSecurityLoggingObjectData.html":[2,0,1545],
 "d3/d9f/structSecurityLoggingObjectData.html#a298b80f550211f5c9f50cf89b6d6ead1":[2,0,1545,6],
 "d3/d9f/structSecurityLoggingObjectData.html#a32e734b5a866a1aa2764b65923493cc5":[2,0,1545,5],
 "d3/d9f/structSecurityLoggingObjectData.html#a89c5d8562fcf4f0bd7d9f8400086c0c5":[2,0,1545,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX53 =
 "d3/db0/classErmVpnTable.html#a6154909dd4d21886f2e762b7e989aa02":[2,0,645,7],
 "d3/db0/classErmVpnTable.html#a6cb21b9aecf9a0dffa9f8a0fe9ac7e4a":[2,0,645,25],
 "d3/db0/classErmVpnTable.html#a7805fe427e5c270b8b5a3a4e25f61c72":[2,0,645,14],
-"d3/db0/classErmVpnTable.html#a781b624acbadfd6a09c2ddda8e9fafe4":[2,0,645,26]
+"d3/db0/classErmVpnTable.html#a781b624acbadfd6a09c2ddda8e9fafe4":[2,0,645,26],
+"d3/db0/classErmVpnTable.html#a7f70ff47c87618b5318f87c041891a82":[2,0,645,9]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"da/d13/classDnsHandler.html#a08b1eaedffc9bb5866749fdf762a3f2e":[2,0,600,11],
 "da/d13/classDnsHandler.html#a09993e5352ad47c61bbaa6c00c067010":[2,0,600,13],
 "da/d13/classDnsHandler.html#a0bffe5ee2590c24d22ce0ff795017a6c":[2,0,600,59],
 "da/d13/classDnsHandler.html#a1310cd44074e1860cb399e2163dbd7c9":[2,0,600,31],
@@ -249,5 +248,6 @@ var NAVTREEINDEX148 =
 "da/d25/classAgentXmppChannel.html#ace49611b6eb4ad27cf775697714a98ae":[2,0,185,87],
 "da/d25/classAgentXmppChannel.html#ad0b4be3b42877bbae94294d44adbc621":[2,0,185,90],
 "da/d25/classAgentXmppChannel.html#ad765bd71738cf06d57aa2191017fbde9":[2,0,185,32],
-"da/d25/classAgentXmppChannel.html#ad8d0ca3d155578c2b9468ae8263071d2":[2,0,185,55]
+"da/d25/classAgentXmppChannel.html#ad8d0ca3d155578c2b9468ae8263071d2":[2,0,185,55],
+"da/d25/classAgentXmppChannel.html#adb002e0906f210d90cb9f19d6a5b275b":[2,0,185,89]
 };

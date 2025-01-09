@@ -1,6 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058":[2,0,221,0],
 "d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561":[2,0,221,3],
 "d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020":[2,0,221,1],
 "d3/ddb/classBackTrace.html#add169bc7b4275bd4ed81871375291236":[2,0,221,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX56 =
 "d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html":[2,0,11,4,14],
 "d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#a043d04eb8c8ea977d993282fa296be8b":[2,0,11,4,14,2],
 "d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#a6b2520b8860d7f87abf7b2b9bb1cb0c2":[2,0,11,4,14,0],
-"d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#aa2a3e5cce5011523f19bada56c9f271e":[2,0,11,4,14,3]
+"d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#aa2a3e5cce5011523f19bada56c9f271e":[2,0,11,4,14,3],
+"d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#aa5e6896630903a3b9dd8ba1669ab45ad":[2,0,11,4,14,1]
 };

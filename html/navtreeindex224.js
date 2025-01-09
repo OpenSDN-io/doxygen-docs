@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"df/dc4/freebsd_2vnswif__listener_8cc.html#a1b648dfaaaaa1581c1f8e1c78af7a8ce":[3,0,1263,2],
 "df/dc4/freebsd_2vnswif__listener_8cc_source.html":[3,0,1263],
 "df/dc5/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassStatement_01_4.html":[2,0,7,0,0,10],
 "df/dc5/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassStatement_01_4.html#a8a00dc697be8680ab9461a039ed88000":[2,0,7,0,0,10,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "df/ddb/classPeerCloseManager.html#ad405227b76f0449e9bb5555b9a548c4cad9b15ef02e6d65e846ab185a11fe91fa":[2,0,1295,3,1],
 "df/ddb/classPeerCloseManager.html#ad67dda46252b5c20256d9f987b7e8c7a":[2,0,1295,31],
 "df/ddb/classPeerCloseManager.html#adddc0a7a53fac05ded836b982af09196":[2,0,1295,10],
-"df/ddb/classPeerCloseManager.html#ae17c0d82b3ffff0d55129e182935e9d9":[2,0,1295,15]
+"df/ddb/classPeerCloseManager.html#ae17c0d82b3ffff0d55129e182935e9d9":[2,0,1295,15],
+"df/ddb/classPeerCloseManager.html#ae2ba2c47ac3b7bdba923b626abb348a9":[2,0,1295,29]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX192 =
 {
-"dd/d43/classXmppServer.html#afa98ed3c4d9ddde7cad94e0a132f9f5b":[2,0,1936,54],
 "dd/d43/classXmppServer.html#afc24183a0f8e000b613f5d650bd40b9e":[2,0,1936,29],
 "dd/d43/classXmppServer.html#afc8da8fd961841cc4d35b0a46087fae6":[2,0,1936,26],
 "dd/d43/classXmppServer.html#afedc716ac9cc6c4e58565ab4f10806d5":[2,0,1936,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX192 =
 "dd/d53/classCryptTunnelEntry.html#a9cf715b43a1a63d68ebf811f4687ce51":[2,0,532,3],
 "dd/d53/classCryptTunnelEntry.html#aa65bb9b84e5d5c71479c7a882c3a8f0e":[2,0,532,25],
 "dd/d53/classCryptTunnelEntry.html#ab093ea5fbf7f601469c851188a2ff7ce":[2,0,532,15],
-"dd/d53/classCryptTunnelEntry.html#aba2a532fe18c212e5e87c592b5b7f520":[2,0,532,5]
+"dd/d53/classCryptTunnelEntry.html#aba2a532fe18c212e5e87c592b5b7f520":[2,0,532,5],
+"dd/d53/classCryptTunnelEntry.html#abb56cdc6f0bc5787b5b85ac826a59180":[2,0,532,8]
 };

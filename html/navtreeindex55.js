@@ -1,6 +1,5 @@
 var NAVTREEINDEX55 =
 {
-"d3/dd0/structStatsManager_1_1VrfStats.html":[2,0,1643,2],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a0152425844571a907721104bd5b8a770":[2,0,1643,2,37],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a06ae80253ebb935826a915b731b9faa2":[2,0,1643,2,26],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a0815b750adcd018a953bca5d32db7b99":[2,0,1643,2,24],
@@ -249,5 +248,6 @@ var NAVTREEINDEX55 =
 "d3/dda/classResolverNexthop.html#adbb7d206552b93589b18b713bf819c16":[2,0,1410,17],
 "d3/dda/classResolverNexthop.html#ae8e24e61bda75f4a72d6f0094408a61a":[2,0,1410,21],
 "d3/dda/classResolverNexthop.html#af27a6d9f090f0a4acf2a8eac127570d1":[2,0,1410,16],
-"d3/ddb/classBackTrace.html":[2,0,221]
+"d3/ddb/classBackTrace.html":[2,0,221],
+"d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058":[2,0,221,0]
 };

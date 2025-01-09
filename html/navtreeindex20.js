@@ -1,6 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"d1/d31/classPathResolver.html#a6d73a2ce42627bf62a4d6e2716bf4a35":[2,0,1284,54],
 "d1/d31/classPathResolver.html#a77525a01eeb708a2b59fee6d380b3747":[2,0,1284,29],
 "d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5":[2,0,1284,43],
 "d1/d31/classPathResolver.html#a79ae3d9c5e09c0f5431071329b4ddd4c":[2,0,1284,25],
@@ -249,5 +248,6 @@ var NAVTREEINDEX20 =
 "d1/d48/classResolverPath.html#a9e642e01f1b50a197e5379f1dca08450":[2,0,1413,9],
 "d1/d48/classResolverPath.html#ac921c9d515e45db4ba9428cbf6e9c1eb":[2,0,1413,5],
 "d1/d48/classResolverPath.html#adf52da054bc21eaf0492d98c88ccc751":[2,0,1413,4],
-"d1/d48/classResolverPath.html#aff661e5551a322cd50d91e9d9825e74e":[2,0,1413,3]
+"d1/d48/classResolverPath.html#aff661e5551a322cd50d91e9d9825e74e":[2,0,1413,3],
+"d1/d48/classcass_1_1cql_1_1impl_1_1CassQueryPrinter.html":[2,0,7,0,0,1]
 };

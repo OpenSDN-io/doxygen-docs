@@ -1,6 +1,5 @@
 var NAVTREEINDEX221 =
 {
-"df/d88/classVlanMplsBackUpResourceTable.html#a820d6cddbc2326efaa5c4130cdd598b9":[2,0,1783,2],
 "df/d88/classVlanMplsBackUpResourceTable.html#a8397e3c5dce9061363513d9823575710":[2,0,1783,0],
 "df/d88/classVlanMplsBackUpResourceTable.html#a8d78f9702218b6b81640b24b563d5404":[2,0,1783,3],
 "df/d88/classVlanMplsBackUpResourceTable.html#ab2ccdb27cdbd6aad1f872eabb6222acc":[2,0,1783,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX221 =
 "df/d96/classSessionStatsCollector.html#a9234f61132cf9e57519210ce1d4f207c":[2,0,1588,54],
 "df/d96/classSessionStatsCollector.html#a93e51667f27c1b1366343fc408f392ac":[2,0,1588,26],
 "df/d96/classSessionStatsCollector.html#a971c902004e9150ba4170f669f91a838":[2,0,1588,16],
-"df/d96/classSessionStatsCollector.html#a97a2f0150497cb95ef13698c766741f8":[2,0,1588,86]
+"df/d96/classSessionStatsCollector.html#a97a2f0150497cb95ef13698c766741f8":[2,0,1588,86],
+"df/d96/classSessionStatsCollector.html#a98a8891bd2aad21a8584ea7fe35ac412":[2,0,1588,24]
 };

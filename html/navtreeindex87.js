@@ -1,6 +1,5 @@
 var NAVTREEINDEX87 =
 {
-"d5/dcf/classBgpAttr.html#a7bb2952e7ea35a6cab9665d699202802":[2,0,238,103],
 "d5/dcf/classBgpAttr.html#a82794dbe2ede4120fffec5891b944225":[2,0,238,97],
 "d5/dcf/classBgpAttr.html#a8294c81e3739103ffa72cfee3e091335":[2,0,238,49],
 "d5/dcf/classBgpAttr.html#a82d929597b91dfe905bf9967fc0b6099":[2,0,238,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX87 =
 "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a4cade448bbb732cc51f927107dbfdc32":[2,0,16,1,4],
 "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a5cb99f39618e98b0bc335f2a59c8968e":[2,0,16,1,7],
 "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a80e73c23dc3761d226ed6b406db8002d":[2,0,16,1,5],
-"d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#abe30ddf28bb49d6ccd71503f93f2d531":[2,0,16,1,12]
+"d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#abe30ddf28bb49d6ccd71503f93f2d531":[2,0,16,1,12],
+"d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#ac1dd594e2f9f880a7e9d6dcefa0c2a64":[2,0,16,1,9]
 };

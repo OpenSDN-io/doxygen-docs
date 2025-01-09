@@ -1,6 +1,5 @@
 var NAVTREEINDEX58 =
 {
-"d3/df6/classKSyncMemory.html#ae1eb7a18eeef5e4d4da46e29f7d59a87":[2,0,1007,19],
 "d3/df6/classKSyncMemory.html#ae43498cfbb6d593ed4ef9031b5a4e1ee":[2,0,1007,22],
 "d3/df6/classKSyncMemory.html#aec2bb8411a0a28a9fda3843a836690f4":[2,0,1007,16],
 "d3/df6/structShowIFMapLinkTable_1_1ShowData.html":[2,0,1601,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX58 =
 "d4/d07/classLinuxVxlanAgentInit.html#afac1b9c91201f515abbab50c2315c7fd":[2,0,1066,11],
 "d4/d08/interface__uve__stats__table_8h.html":[3,0,630],
 "d4/d08/interface__uve__stats__table_8h_source.html":[3,0,630],
-"d4/d0a/logical__interface_8cc.html":[3,0,704]
+"d4/d0a/logical__interface_8cc.html":[3,0,704],
+"d4/d0a/logical__interface_8cc.html#a196ab0ba869bc070f13d2fb30febc109":[3,0,704,1]
 };

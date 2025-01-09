@@ -1,6 +1,5 @@
 var NAVTREEINDEX59 =
 {
-"d4/d0a/logical__interface_8cc.html#a196ab0ba869bc070f13d2fb30febc109":[3,0,704,1],
 "d4/d0a/logical__interface_8cc.html#ae0234ee72b5f0ef474d6253f984d122c":[3,0,704,0],
 "d4/d0a/logical__interface_8cc_source.html":[3,0,704],
 "d4/d0a/resource__manager_8cc.html":[3,0,963],
@@ -249,5 +248,6 @@ var NAVTREEINDEX59 =
 "d4/d18/classXmppStanza.html#a628444d725eb2947e7076c18a596adf4ade87af24ab315db0a50ee48163b678e8":[2,0,1940,7,20],
 "d4/d18/classXmppStanza.html#a628444d725eb2947e7076c18a596adf4ae5fe02e5d83d299069c550140d5e6dfb":[2,0,1940,7,1],
 "d4/d18/classXmppStanza.html#a628444d725eb2947e7076c18a596adf4afb0a051df30222151bec65b935b09840":[2,0,1940,7,17],
-"d4/d18/classXmppStanza.html#a628444d725eb2947e7076c18a596adf4afec127f35c7bde39bc14e442ce953ab0":[2,0,1940,7,3]
+"d4/d18/classXmppStanza.html#a628444d725eb2947e7076c18a596adf4afec127f35c7bde39bc14e442ce953ab0":[2,0,1940,7,3],
+"d4/d18/classXmppStanza.html#a759a6c341a7b7760a396d5f7a6f2aaca":[2,0,1940,6]
 };

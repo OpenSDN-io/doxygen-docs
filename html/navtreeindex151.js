@@ -1,6 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"da/d54/classVxLanIdKSyncEntry.html#afd0fc8f54591c4d34d2b0e6b0693b4bf":[2,0,1896,11],
 "da/d55/structVrfTranslateActionSpec.html":[2,0,1880],
 "da/d55/structVrfTranslateActionSpec.html#a06c9ec5c5a79054231bd57ea8a721c38":[2,0,1880,2],
 "da/d55/structVrfTranslateActionSpec.html#a11dd755721debe8868e028b0f28e759b":[2,0,1880,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX151 =
 "da/d77/structVmiToPhysicalDeviceVnData.html#afce718ca5950830ae2d596c2e490be40":[2,0,1812,1],
 "da/d7c/structVrfKey.html":[2,0,1865],
 "da/d7c/structVrfKey.html#a505c0b31918df659bef769aa1e02af22":[2,0,1865,3],
-"da/d7c/structVrfKey.html#a609fd9bc013fb07f57999233403201c7":[2,0,1865,1]
+"da/d7c/structVrfKey.html#a609fd9bc013fb07f57999233403201c7":[2,0,1865,1],
+"da/d7c/structVrfKey.html#a79973bc8a8ed832efbb7f149146668f9":[2,0,1865,0]
 };

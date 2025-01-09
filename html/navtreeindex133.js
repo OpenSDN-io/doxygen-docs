@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"d8/dfe/classAgent.html#aaf9f0e07de4e52001ca46c59e1ce2e96":[2,0,71,178],
 "d8/dfe/classAgent.html#ab042a1cfbfd4967d505b4d2cd789d33a":[2,0,71,348],
 "d8/dfe/classAgent.html#ab0c5b8af1718a8d242fb2feb021c09a0":[2,0,71,338],
 "d8/dfe/classAgent.html#ab15bde5eed28d4303847539448f12e90":[2,0,71,199],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "d9/d01/classLibvirtInstanceAdapter.html#a0ddea1c1a0b21f80d9c3e498ad9b78d0":[2,0,1060,10],
 "d9/d01/classLibvirtInstanceAdapter.html#a1acd6048631a3d7e2da9a512bc660a9b":[2,0,1060,11],
 "d9/d01/classLibvirtInstanceAdapter.html#a2424cdc139897ffd80a2ab3adcb5d009":[2,0,1060,6],
-"d9/d01/classLibvirtInstanceAdapter.html#a33675b47e0328ddb8c69f171c42f6fd9":[2,0,1060,8]
+"d9/d01/classLibvirtInstanceAdapter.html#a33675b47e0328ddb8c69f171c42f6fd9":[2,0,1060,8],
+"d9/d01/classLibvirtInstanceAdapter.html#a63f296c6aca2f2eac59589b6dc1fd33d":[2,0,1060,16]
 };

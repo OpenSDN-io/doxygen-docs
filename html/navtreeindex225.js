@@ -1,6 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"df/ddb/classPeerCloseManager.html#ae2ba2c47ac3b7bdba923b626abb348a9":[2,0,1295,29],
 "df/ddb/classPeerCloseManager.html#ae5a8a770b9364ec5ad965c46a53d101e":[2,0,1295,64],
 "df/ddb/classPeerCloseManager.html#aee9470d98635da9572db7c37a3352cf6":[2,0,1295,34],
 "df/ddb/classPeerCloseManager.html#af72d8d3bf11262b64a7b37ad09dedf1e":[2,0,1295,53],
@@ -249,5 +248,6 @@ var NAVTREEINDEX225 =
 "df/de5/structSourceGroupInfo.html#abcbebf62bdb1acdd3816fb58ade30c34":[2,0,1623,2],
 "df/de5/structSourceGroupInfo.html#ade3d428e7c832ae939baca351d264cc8":[2,0,1623,1],
 "df/de5/vm__stat__docker_8h.html":[3,0,1237],
-"df/de5/vm__stat__docker_8h_source.html":[3,0,1237]
+"df/de5/vm__stat__docker_8h_source.html":[3,0,1237],
+"df/de6/structEdgeForwarding_1_1Edge.html":[2,0,629,0]
 };

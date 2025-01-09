@@ -1,6 +1,5 @@
 var NAVTREEINDEX116 =
 {
-"d7/dc5/classOVSDB_1_1OvsdbObject.html#a386018a56e9e3c223f13e3df7b60ffb5":[2,0,20,23,4],
 "d7/dc5/classOVSDB_1_1OvsdbObject.html#a5ba844f7653736230ad4c4cd0aa909a4":[2,0,20,23,8],
 "d7/dc5/classOVSDB_1_1OvsdbObject.html#a74022c594b5da9029daaba6e8aefb6a8":[2,0,20,23,2],
 "d7/dc5/classOVSDB_1_1OvsdbObject.html#aa73f1bb7a71a25f67d3c7108c1ff27eb":[2,0,20,23,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX116 =
 "d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html":[2,0,231,1],
 "d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#a173b7ec3c24a9bc85b76b40712a1df93":[2,0,231,1,2],
 "d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#a60c57eb621067874be3d79d5c84fc34b":[2,0,231,1,1],
-"d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#a7266705ea6191dc88747a4157699833f":[2,0,231,1,3]
+"d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#a7266705ea6191dc88747a4157699833f":[2,0,231,1,3],
+"d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#a916f0a75f583860eb915245eed7562cc":[2,0,231,1,4]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"db/d70/Thrift_8h.html#a0bbd506c3cdf3fa9f53708e6808aa30f":[3,0,1168,3],
 "db/d70/Thrift_8h.html#a57944cd9e15c96e9906acebd8eb30c43":[3,0,1168,4],
 "db/d70/Thrift_8h.html#a976c7aa4a9a13f8911e3b735c9ef4bc2":[3,0,1168,2],
 "db/d70/Thrift_8h_source.html":[3,0,1168],
@@ -249,5 +248,6 @@ var NAVTREEINDEX166 =
 "db/d7c/classetcdserverpb_1_1HashResponse.html#a926fe4cfb6769cb6647ef46cb882558f":[2,0,11,101,16],
 "db/d7c/classetcdserverpb_1_1HashResponse.html#a96537c95363374ccb15cfbaebaf85d7c":[2,0,11,101,37],
 "db/d7c/classetcdserverpb_1_1HashResponse.html#a97b9f508c3fdc5d87c72be23aa3b50fb":[2,0,11,101,15],
-"db/d7c/classetcdserverpb_1_1HashResponse.html#aab9e85ddfbd2627be1aefb6dfef8dc0d":[2,0,11,101,17]
+"db/d7c/classetcdserverpb_1_1HashResponse.html#aab9e85ddfbd2627be1aefb6dfef8dc0d":[2,0,11,101,17],
+"db/d7c/classetcdserverpb_1_1HashResponse.html#aae6f8543a2cc36095944083c82db8892":[2,0,11,101,36]
 };

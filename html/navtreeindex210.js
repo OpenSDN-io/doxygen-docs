@@ -1,6 +1,5 @@
 var NAVTREEINDEX210 =
 {
-"de/d86/structVmInterface_1_1FatFlowEntry.html#aa9992abadd9552fc369ec9e88703a640":[2,0,1794,6,12],
 "de/d86/structVmInterface_1_1FatFlowEntry.html#aa9e47a2a8910f25bfe63580a148d30db":[2,0,1794,6,2],
 "de/d86/structVmInterface_1_1FatFlowEntry.html#aaff58cdf712fb6aa4518cce9e899cacb":[2,0,1794,6,8],
 "de/d86/structVmInterface_1_1FatFlowEntry.html#ad0c50a74f3fcccd2eff3ccf2d10bd6df":[2,0,1794,6,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX210 =
 "de/d95/classAggregateInetRoute.html":[2,0,187],
 "de/d95/classBgpSenderPartition_1_1Worker.html":[2,0,413,4],
 "de/d95/classBgpSenderPartition_1_1Worker.html#a9987efa770ff8feb1287d2d5d743b6fb":[2,0,413,4,0],
-"de/d95/classBgpSenderPartition_1_1Worker.html#ab1e41d83e4d8113432945702a3546419":[2,0,413,4,2]
+"de/d95/classBgpSenderPartition_1_1Worker.html#ab1e41d83e4d8113432945702a3546419":[2,0,413,4,2],
+"de/d95/classBgpSenderPartition_1_1Worker.html#ac4298129378a433e8851720ce1412c4b":[2,0,413,4,3]
 };

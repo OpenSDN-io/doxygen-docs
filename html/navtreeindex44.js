@@ -1,6 +1,5 @@
 var NAVTREEINDEX44 =
 {
-"d3/d0d/classDBGraphVertex.html#ac8b8a12905bd83bd062bcd178025e538":[2,0,550,11],
 "d3/d0d/classDBGraphVertex.html#ae2db18bd9bf411637dd6057b99bd8540":[2,0,550,17],
 "d3/d0d/structVmInterfaceState.html":[2,0,1809],
 "d3/d0d/structVmInterfaceState.html#a0f26998b86d18781f42030f6992c1f95":[2,0,1809,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX44 =
 "d3/d26/classDBPartition_1_1WorkQueue.html#aaa8512ba8e6c12c7016f9d5d9081a931":[2,0,551,1,9],
 "d3/d26/classDBPartition_1_1WorkQueue.html#ab7f2a663aa3f0d84953697b88b2a6b2f":[2,0,551,1,17],
 "d3/d26/classDBPartition_1_1WorkQueue.html#ab8130a9302d89b5fbf8a86e4a87db574":[2,0,551,1,34],
-"d3/d26/classDBPartition_1_1WorkQueue.html#ac52fc01b97df2d1a89fcc3a49958bb53":[2,0,551,1,2]
+"d3/d26/classDBPartition_1_1WorkQueue.html#ac52fc01b97df2d1a89fcc3a49958bb53":[2,0,551,1,2],
+"d3/d26/classDBPartition_1_1WorkQueue.html#aceea6cf72abb3681f545f93fecb956d7":[2,0,551,1,27]
 };

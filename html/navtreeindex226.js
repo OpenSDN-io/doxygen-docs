@@ -1,6 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"df/de6/structEdgeForwarding_1_1Edge.html":[2,0,629,0],
 "df/de6/structEdgeForwarding_1_1Edge.html#a05fa1794b02d20fb3c277a4b6bff079e":[2,0,629,0,1],
 "df/de6/structEdgeForwarding_1_1Edge.html#a0d88b85e256f28310b035b9e09195017":[2,0,629,0,5],
 "df/de6/structEdgeForwarding_1_1Edge.html#a2c7520118024ca39f0314633fc33481e":[2,0,629,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX226 =
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a985e3c9345798c982d286cd38fec000a":[2,0,11,137,43],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#aa87b4e761070cfc0f4f70bf939ef8fd0":[2,0,11,137,37],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#aad51fc3a26befed215390e4698c60d9d":[2,0,11,137,30],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#ab0eb8ec2d3542999c884c0a273e4086a":[2,0,11,137,8]
+"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#ab0eb8ec2d3542999c884c0a273e4086a":[2,0,11,137,8],
+"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#ab4aab0acf1c0b71d0aa0a224152517b1":[2,0,11,137,12]
 };

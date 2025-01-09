@@ -1,6 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d3/d81/classVnswInterfaceListenerBase.html#a5f9ad0097bc9e04546356c544fe8f839":[2,0,1837,11],
 "d3/d81/classVnswInterfaceListenerBase.html#a7035c150ef3ff09234ca9d2af7bf8dcf":[2,0,1837,26],
 "d3/d81/classVnswInterfaceListenerBase.html#a70d2e583bdd579a71b1fefb8477315ad":[2,0,1837,32],
 "d3/d81/classVnswInterfaceListenerBase.html#a722ef508f174b7319a2c0794f6ff96ad":[2,0,1837,48],
@@ -249,5 +248,6 @@ var NAVTREEINDEX52 =
 "d3/d9f/classMacLearningEntryRequest.html#ab380ccbfc6d0d7a1b16eb895559042dd":[2,0,1093,10],
 "d3/d9f/classMacLearningEntryRequest.html#ab48fcb9b4d6ee70234f7314082c0699a":[2,0,1093,17],
 "d3/d9f/classMacLearningEntryRequest.html#ac194616c83799bc280ade72d4b26bfd6":[2,0,1093,7],
-"d3/d9f/classMacLearningEntryRequest.html#ac43b8a5157e50bc50410ff52f55882d2":[2,0,1093,8]
+"d3/d9f/classMacLearningEntryRequest.html#ac43b8a5157e50bc50410ff52f55882d2":[2,0,1093,8],
+"d3/d9f/structSecurityLoggingObjectData.html":[2,0,1545]
 };

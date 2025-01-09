@@ -1,6 +1,5 @@
 var NAVTREEINDEX24 =
 {
-"d1/db0/structDnsAgentXmppChannelManager_1_1RecordRequest.html#a1f14807b803de93ac13cd3c5d68766f3":[2,0,594,0,2],
 "d1/db0/structDnsAgentXmppChannelManager_1_1RecordRequest.html#a467038cbf2e0e4b71d78fc8a73bd6072":[2,0,594,0,4],
 "d1/db0/structDnsAgentXmppChannelManager_1_1RecordRequest.html#a83d5a45ab5db10fd9cb16667383d2359":[2,0,594,0,0],
 "d1/db0/structDnsAgentXmppChannelManager_1_1RecordRequest.html#ad48fc4767885dddf3b0f3442a70e3138":[2,0,594,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX24 =
 "d1/dcb/classKSyncObjectManager.html#a4749fcff2a40fee3bf45977ed6d97d9d":[2,0,1012,8],
 "d1/dcb/classKSyncObjectManager.html#a95450a1b22ae2d9a6fbc9bdc523d43f1":[2,0,1012,5],
 "d1/dcb/classKSyncObjectManager.html#ac0ca4cfe2d817219e98faf4293864e98":[2,0,1012,13],
-"d1/dcb/classKSyncObjectManager.html#ac57c1844d37563f6b188379455bbe226":[2,0,1012,4]
+"d1/dcb/classKSyncObjectManager.html#ac57c1844d37563f6b188379455bbe226":[2,0,1012,4],
+"d1/dcb/classKSyncObjectManager.html#acb32f7b5b1487ed1bc22ec1ab1323a89":[2,0,1012,12]
 };

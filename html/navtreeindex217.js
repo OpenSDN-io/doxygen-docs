@@ -1,6 +1,5 @@
 var NAVTREEINDEX217 =
 {
-"df/d0b/structProtoSequence_1_1SequenceEncoder.html#a463544a91087e1748baa5a5f3e8f231e":[2,0,1376,1,1],
 "df/d0b/structProtoSequence_1_1SequenceEncoder.html#a4d9d163ac0f7fa455ca048f536fd78d0":[2,0,1376,1,0],
 "df/d0b/structProtoSequence_1_1SequenceEncoder.html#a4ecd9edcc013be10effac6c634696af2":[2,0,1376,1,2],
 "df/d0b/structProtoSequence_1_1SequenceEncoder.html#a613fad288c1f7dcf2ad4c1e46cb5918d":[2,0,1376,1,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX217 =
 "df/d32/classcass_1_1cql_1_1CqlIf.html#a8cdf3e6f60506fa0c2073b06dd44c6fd":[2,0,7,0,3,4],
 "df/d32/classcass_1_1cql_1_1CqlIf.html#a90bbcd905cb6e4ae25486d3ef57903a8":[2,0,7,0,3,15],
 "df/d32/classcass_1_1cql_1_1CqlIf.html#a90da795541dab9d8987be96670901fc7":[2,0,7,0,3,8],
-"df/d32/classcass_1_1cql_1_1CqlIf.html#aa4ded6cc4f635692f2028837c843cb0c":[2,0,7,0,3,3]
+"df/d32/classcass_1_1cql_1_1CqlIf.html#aa4ded6cc4f635692f2028837c843cb0c":[2,0,7,0,3,3],
+"df/d32/classcass_1_1cql_1_1CqlIf.html#aa5e46d7b3b69688e43ccd34fef29b42d":[2,0,7,0,3,5]
 };

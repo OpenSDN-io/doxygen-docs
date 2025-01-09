@@ -1,6 +1,5 @@
 var NAVTREEINDEX180 =
 {
-"dc/d6b/classVrouterControlInterface.html#a6483cd52579995a9b1af8d1dcf737333":[2,0,1883,2],
 "dc/d6b/classVrouterControlInterface.html#a7b16929a4c662a0d93d512735c2ba6d7":[2,0,1883,1],
 "dc/d6b/classVrouterControlInterface.html#a7cfcd3ac2d152ab0ba5f4f70b0eee344":[2,0,1883,5],
 "dc/d6b/classVrouterControlInterface.html#a926c18b781d18af32e5125a30a35dfdd":[2,0,1883,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX180 =
 "dc/d83/structgmp__intf__.html#aa7b60674649e1aaf8df0246fb86cc7d9":[2,0,752,4],
 "dc/d83/structgmp__intf__.html#abbde853cc58d11b514c9628e6b61ff63":[2,0,752,1],
 "dc/d83/structgmp__intf__.html#af91ab0f4bc1da9de8675b8abdd2689ad":[2,0,752,0],
-"dc/d84/structIFMapObjectPtr.html":[2,0,861]
+"dc/d84/structIFMapObjectPtr.html":[2,0,861],
+"dc/d84/structIFMapObjectPtr.html#a2ffff8a45b78c316dc33efd4d0a9c1fb":[2,0,861,7]
 };

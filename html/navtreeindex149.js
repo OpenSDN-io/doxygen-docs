@@ -1,6 +1,5 @@
 var NAVTREEINDEX149 =
 {
-"da/d25/classAgentXmppChannel.html#adb002e0906f210d90cb9f19d6a5b275b":[2,0,185,89],
 "da/d25/classAgentXmppChannel.html#adb6dade93b46021b404edf2c7cfb4d5d":[2,0,185,66],
 "da/d25/classAgentXmppChannel.html#adc79d8f699e044c8d39b61b290728a95":[2,0,185,5],
 "da/d25/classAgentXmppChannel.html#add343beacfc76e9751193db5308b5978":[2,0,185,58],
@@ -249,5 +248,6 @@ var NAVTREEINDEX149 =
 "da/d3d/structFlowMgmtKeyCmp.html#af5c15e4a6b093bccd8c5d9e28fc10cf7":[2,0,708,0],
 "da/d3e/config__cassandra__client_8cc.html":[3,0,240],
 "da/d3e/config__cassandra__client_8cc_source.html":[3,0,240],
-"da/d3f/structMirrorCfgData.html":[2,0,1146]
+"da/d3f/structMirrorCfgData.html":[2,0,1146],
+"da/d3f/structMirrorCfgData.html#a137310c8552281ac1a7c5b39e093d7c3":[2,0,1146,15]
 };

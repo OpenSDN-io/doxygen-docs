@@ -1,6 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"dd/d37/structfsm_1_1EvBgpOpen.html#a8960dadaa6edab8c6d75969260a48600":[2,0,12,12,4],
 "dd/d37/structfsm_1_1EvBgpOpen.html#aad47fad96f38b6fde11abd6e370f0e0f":[2,0,12,12,0],
 "dd/d37/structgmpr__host__group__.html":[2,0,783],
 "dd/d37/structgmpr__host__group__.html#a131082cfcd7b6666a7b94b229a112b45":[2,0,783,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX191 =
 "dd/d43/classXmppServer.html#af54231d84cabc9c9e1ec0aa0f8e22d42":[2,0,1936,31],
 "dd/d43/classXmppServer.html#af6e95fb2909f777a04996b5d858d6b73":[2,0,1936,69],
 "dd/d43/classXmppServer.html#af921791838998b4d44eea8e3571e6021":[2,0,1936,82],
-"dd/d43/classXmppServer.html#af98698c3bc1e1527cb794a6f53910ae3":[2,0,1936,84]
+"dd/d43/classXmppServer.html#af98698c3bc1e1527cb794a6f53910ae3":[2,0,1936,84],
+"dd/d43/classXmppServer.html#afa98ed3c4d9ddde7cad94e0a132f9f5b":[2,0,1936,54]
 };

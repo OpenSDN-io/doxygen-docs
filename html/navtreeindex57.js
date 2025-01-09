@@ -1,6 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#aa5e6896630903a3b9dd8ba1669ab45ad":[2,0,11,4,14,1],
 "d3/def/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__DeleteRange.html#aaad40387fc8f79bad54aedd7aa28ab3e":[2,0,11,4,14,4],
 "d3/def/classetcdserverpb_1_1StatusResponse.html":[2,0,11,129],
 "d3/def/classetcdserverpb_1_1StatusResponse.html#a0556f78fda55fc6d094b3a10c541306c":[2,0,11,129,39],
@@ -249,5 +248,6 @@ var NAVTREEINDEX57 =
 "d3/df6/classKSyncMemory.html#ac0a9f5fa47124be00a1798570ebf7f6d":[2,0,1007,26],
 "d3/df6/classKSyncMemory.html#ad50b46c0f3675c5909af5c68857b2603":[2,0,1007,41],
 "d3/df6/classKSyncMemory.html#ad8845ecfdb6d45feb6860d79c6c6ece1":[2,0,1007,20],
-"d3/df6/classKSyncMemory.html#adf155fd74b53eaa51a594cc7cd993045":[2,0,1007,10]
+"d3/df6/classKSyncMemory.html#adf155fd74b53eaa51a594cc7cd993045":[2,0,1007,10],
+"d3/df6/classKSyncMemory.html#ae1eb7a18eeef5e4d4da46e29f7d59a87":[2,0,1007,19]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"df/dac/classAgentIfMapXmppChannel.html#aa6369ce248677916d41201f42a7ed2b9":[2,0,87,16],
 "df/dac/classAgentIfMapXmppChannel.html#aaea3da7557bcb9ead5ada3e5b36fb98a":[2,0,87,22],
 "df/dac/classAgentIfMapXmppChannel.html#ac6246d5819149852f65b407c3a1011ec":[2,0,87,3],
 "df/dac/classAgentIfMapXmppChannel.html#ac6e205d55466107ddfbda2d455fa2e9a":[2,0,87,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "df/dc3/path__resolver_8cc.html#ab88f09f9a60a936136c110074498a766":[3,0,861,2],
 "df/dc3/path__resolver_8cc.html#ae76eb8c919c7d1e4d860a747bf20a05c":[3,0,861,1],
 "df/dc3/path__resolver_8cc_source.html":[3,0,861],
-"df/dc4/freebsd_2vnswif__listener_8cc.html":[3,0,1263]
+"df/dc4/freebsd_2vnswif__listener_8cc.html":[3,0,1263],
+"df/dc4/freebsd_2vnswif__listener_8cc.html#a1b648dfaaaaa1581c1f8e1c78af7a8ce":[3,0,1263,2]
 };

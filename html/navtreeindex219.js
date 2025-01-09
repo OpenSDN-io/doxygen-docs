@@ -1,6 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"df/d45/classNextHopTable.html#aa3c255111f0cc0d123f9040dd8261636":[2,0,1225,28],
 "df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab":[2,0,1225,24],
 "df/d45/classNextHopTable.html#ab1caf94affe6e28e1e6c7365b65ab31b":[2,0,1225,16],
 "df/d45/classNextHopTable.html#ab4ac5d48b4078668d4018bce09dcd2b7":[2,0,1225,26],
@@ -249,5 +248,6 @@ var NAVTREEINDEX219 =
 "df/d68/classAgentUtXmlL3Route.html#aed8f8a101c8215314b7df8a259f98eef":[2,0,152,1],
 "df/d6a/mirror__table_8cc.html":[3,0,766],
 "df/d6a/mirror__table_8cc_source.html":[3,0,766],
-"df/d6c/bgp__proto_8cc.html":[3,0,155]
+"df/d6c/bgp__proto_8cc.html":[3,0,155],
+"df/d6c/bgp__proto_8cc_source.html":[3,0,155]
 };

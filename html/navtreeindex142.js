@@ -1,6 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d9/dae/agent__stats__sandesh__context_8cc.html":[3,0,41],
 "d9/dae/agent__stats__sandesh__context_8cc_source.html":[3,0,41],
 "d9/dae/namespacecass_1_1cql_1_1impl.html":[2,0,7,0,0],
 "d9/dae/namespacecass_1_1cql_1_1impl.html":[1,0,7,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX142 =
 "d9/dc8/classt__doc__generator.html#a3e43044a8adcd82705a4b760cf2d13d8":[2,0,1658,26],
 "d9/dc8/classt__doc__generator.html#a3fd9888a6b8bdc4a9cb00e3e92a26641":[2,0,1658,67],
 "d9/dc8/classt__doc__generator.html#a4237a7aaceeab49473a91bc934045232":[2,0,1658,80],
-"d9/dc8/classt__doc__generator.html#a43c83bed83787c71519682d630cc8bb9":[2,0,1658,22]
+"d9/dc8/classt__doc__generator.html#a43c83bed83787c71519682d630cc8bb9":[2,0,1658,22],
+"d9/dc8/classt__doc__generator.html#a452d087fa3147c60f5bf6cdb371b8a31":[2,0,1658,82]
 };

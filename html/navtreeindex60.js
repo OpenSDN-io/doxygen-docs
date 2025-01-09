@@ -1,6 +1,5 @@
 var NAVTREEINDEX60 =
 {
-"d4/d18/classXmppStanza.html#a759a6c341a7b7760a396d5f7a6f2aaca":[2,0,1940,6],
 "d4/d18/classXmppStanza.html#a759a6c341a7b7760a396d5f7a6f2aacaa06d32ac2b9484036daf7fab5c1cb9687":[2,0,1940,6,4],
 "d4/d18/classXmppStanza.html#a759a6c341a7b7760a396d5f7a6f2aacaa17f45e3d79a81c7aa46193c9e30a404f":[2,0,1940,6,2],
 "d4/d18/classXmppStanza.html#a759a6c341a7b7760a396d5f7a6f2aacaa1c46281f625db717e28352463c58aa4f":[2,0,1940,6,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX60 =
 "d4/d2b/classMacLearningPartition.html#a1dbe979b47aee10c13af58a655081ce0":[2,0,1108,3],
 "d4/d2b/classMacLearningPartition.html#a1f9cefd7b79c29ab269fc2e7817fea2d":[2,0,1108,9],
 "d4/d2b/classMacLearningPartition.html#a202f635020034c2c8e55e7835870d6f4":[2,0,1108,15],
-"d4/d2b/classMacLearningPartition.html#a32633c72560360067a7138614059f0f4":[2,0,1108,19]
+"d4/d2b/classMacLearningPartition.html#a32633c72560360067a7138614059f0f4":[2,0,1108,19],
+"d4/d2b/classMacLearningPartition.html#a36539be20e0660cc8cdc9bd73c6e12f8":[2,0,1108,18]
 };

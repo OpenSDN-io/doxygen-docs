@@ -480,7 +480,7 @@ var searchData=
   ['llgr_5fstaled',['llgr_staled',['../d0/d57/structPeerCloseManager_1_1Stats_1_1RouteStats.html#af9887c984687b8421d872093048bf93b',1,'PeerCloseManager::Stats::RouteStats']]],
   ['llgr_5ftime',['llgr_time',['../d5/d70/classBgpGlobalSystemConfig.html#a81c35544aebe4a0fda8312a6ea98c9c1',1,'BgpGlobalSystemConfig']]],
   ['llgr_5ftime_5f',['llgr_time_',['../d5/d70/classBgpGlobalSystemConfig.html#a526817b5f8ede72d7f737ab7fb43e8d4',1,'BgpGlobalSystemConfig']]],
-  ['llgr_5ftimer',['LLGR_TIMER',['../df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba94363cf8191e6edba3d771ebdf06d57d',1,'PeerCloseManager::LLGR_TIMER()'],['../dc/dff/structPeerCloseManager_1_1Stats.html#af384271264dd20d56309263e77c043b4',1,'PeerCloseManager::Stats::llgr_timer()']]],
+  ['llgr_5ftimer',['llgr_timer',['../dc/dff/structPeerCloseManager_1_1Stats.html#af384271264dd20d56309263e77c043b4',1,'PeerCloseManager::Stats::llgr_timer()'],['../df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba94363cf8191e6edba3d771ebdf06d57d',1,'PeerCloseManager::LLGR_TIMER()']]],
   ['llgrparams',['LlgrParams',['../da/dc7/structLlgrParams.html',1,'LlgrParams'],['../da/dc7/structLlgrParams.html#a556ca14063db93593035ddb127348201',1,'LlgrParams::LlgrParams()']]],
   ['llgrstale',['LlgrStale',['../d7/d0c/classBgpPath.html#afb37af7ce888242edf4b96ed03d5ed79a21fc6fc73234815fad15600a7630db65',1,'BgpPath::LlgrStale()'],['../d0/d7e/classCommunityType.html#a9f57373d786cd75ba2d07ae69fdba095a5f70fb935131b1a4cc467d68642c3661',1,'CommunityType::LlgrStale()']]],
   ['llgrstalecurrentsubscriptions',['LlgrStaleCurrentSubscriptions',['../d6/dbf/classBgpXmppChannel.html#a4e84fdb063379bab8ac51e289fdaaba1',1,'BgpXmppChannel']]],

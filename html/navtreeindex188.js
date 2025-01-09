@@ -1,6 +1,5 @@
 var NAVTREEINDEX188 =
 {
-"dc/dff/structPeerCloseManager_1_1Stats.html#acb4939243fb7819cf6d15b35db395041":[2,0,1295,1,12],
 "dc/dff/structPeerCloseManager_1_1Stats.html#acd4b2d2ed14677469cb41393960cfceb":[2,0,1295,1,5],
 "dc/dff/structPeerCloseManager_1_1Stats.html#aec6828358fdadfa4dfba94994ab50df2":[2,0,1295,1,9],
 "dc/dff/structPeerCloseManager_1_1Stats.html#af384271264dd20d56309263e77c043b4":[2,0,1295,1,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX188 =
 "dd/d1d/classDnsAgentXmppChannelManager.html#a0d8266fa27b37081a6ee2108dc9a093f":[2,0,594,3],
 "dd/d1d/classDnsAgentXmppChannelManager.html#a263a959d0b4346f8e40a9026a25dced8":[2,0,594,5],
 "dd/d1d/classDnsAgentXmppChannelManager.html#a30eca9cb9daa37bde8c6478d2f6d2ecd":[2,0,594,10],
-"dd/d1d/classDnsAgentXmppChannelManager.html#a431df4193a3f2bce671cd5c22af7a8b2":[2,0,594,14]
+"dd/d1d/classDnsAgentXmppChannelManager.html#a431df4193a3f2bce671cd5c22af7a8b2":[2,0,594,14],
+"dd/d1d/classDnsAgentXmppChannelManager.html#a44c83651dda989ef8c7abad5d83d1d35":[2,0,594,15]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX158 =
 {
-"da/df6/structInetVpnTable_1_1RequestKey.html#a1ceb361e310834e06b2d3edc5d5b4f7d":[2,0,928,0,0],
 "da/df6/structInetVpnTable_1_1RequestKey.html#a8efac49671f1e0b4329102c67a62d5f9":[2,0,928,0,3],
 "da/df6/structInetVpnTable_1_1RequestKey.html#aa31811ba1c8ae33c680885c9077376fa":[2,0,928,0,2],
 "da/df6/structInetVpnTable_1_1RequestKey.html#ab7db7852901ff5f5c60423df3f9df723":[2,0,928,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX158 =
 "db/d1b/classResourceBackupManager.html#a4ed5c8c90fe51b92e52b673c3b0b9217":[2,0,1417,16],
 "db/d1b/classResourceBackupManager.html#a5244ad0147a02a268150b3022b42f71c":[2,0,1417,5],
 "db/d1b/classResourceBackupManager.html#a5665c8cc666e65f18480b4c50d139009":[2,0,1417,6],
-"db/d1b/classResourceBackupManager.html#a56fa7109c30e2724e986741370e9fe26":[2,0,1417,4]
+"db/d1b/classResourceBackupManager.html#a56fa7109c30e2724e986741370e9fe26":[2,0,1417,4],
+"db/d1b/classResourceBackupManager.html#a9a7bd8672281a2b175181b7ebf698d5b":[2,0,1417,10]
 };

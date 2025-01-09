@@ -1,6 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d3/d49/classConfigCassandraPartition.html#ad71fe22e0c9098d5d2ffb4fbd65d6dc7":[2,0,489,24],
 "d3/d49/classConfigCassandraPartition.html#ada712a8618310a78b4d2b911e976c032":[2,0,489,31],
 "d3/d49/classConfigCassandraPartition.html#adababf3d46733928fd7544021b6e1763":[2,0,489,34],
 "d3/d49/classConfigCassandraPartition.html#adf0d3a90cfa68c862711fb35b46ffac5":[2,0,489,28],
@@ -249,5 +248,6 @@ var NAVTREEINDEX48 =
 "d3/d4f/classFlowEntry.html#ad69fc63edcf5dae8034ff2bbbab53948aa4a90087c9dda7667e37ed6e1924b465":[2,0,690,6,3],
 "d3/d4f/classFlowEntry.html#ad69fc63edcf5dae8034ff2bbbab53948aec7f2ddb470283adbabb682a86274d74":[2,0,690,6,2],
 "d3/d4f/classFlowEntry.html#ad8f8e04a37a95a176ac605d1c14e6926":[2,0,690,159],
-"d3/d4f/classFlowEntry.html#ad9f0b757590124bfa6e900776cdfa897":[2,0,690,86]
+"d3/d4f/classFlowEntry.html#ad9f0b757590124bfa6e900776cdfa897":[2,0,690,86],
+"d3/d4f/classFlowEntry.html#ada3d5c599ed73201823d85f41c4a29a0":[2,0,690,21]
 };

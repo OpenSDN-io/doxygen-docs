@@ -1,6 +1,5 @@
 var NAVTREEINDEX187 =
 {
-"dc/df2/classKSyncEntry.html#a4c8e5be1d5db713fccac9dbe6bb9fb67a1683879397b1619ff5019c5af0ea97d9":[2,0,991,4,0],
 "dc/df2/classKSyncEntry.html#a4c8e5be1d5db713fccac9dbe6bb9fb67a21f67481503a71563c3f08c4351c05ab":[2,0,991,4,10],
 "dc/df2/classKSyncEntry.html#a4c8e5be1d5db713fccac9dbe6bb9fb67a22f69fb502f090ceccf5a5e459d56d28":[2,0,991,4,9],
 "dc/df2/classKSyncEntry.html#a4c8e5be1d5db713fccac9dbe6bb9fb67a26a154bc4bd71fab13f98823ec694a44":[2,0,991,4,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX187 =
 "dc/dff/structPeerCloseManager_1_1Stats.html#a7ef390432266cda8eee01b2b18899247":[2,0,1295,1,10],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a8da8d095537b2f30e04a9d39c9f5621f":[2,0,1295,1,11],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a9df9defc98a899ac02b121705a683b4f":[2,0,1295,1,1],
-"dc/dff/structPeerCloseManager_1_1Stats.html#aa17f8b5e1939ad88787bc1ab55d56aa8":[2,0,1295,1,3]
+"dc/dff/structPeerCloseManager_1_1Stats.html#aa17f8b5e1939ad88787bc1ab55d56aa8":[2,0,1295,1,3],
+"dc/dff/structPeerCloseManager_1_1Stats.html#acb4939243fb7819cf6d15b35db395041":[2,0,1295,1,12]
 };

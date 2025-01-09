@@ -1,6 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d3/db0/classErmVpnTable.html#a7f70ff47c87618b5318f87c041891a82":[2,0,645,9],
 "d3/db0/classErmVpnTable.html#a8829ab86c1c087db65d1c8b67e61c185":[2,0,645,3],
 "d3/db0/classErmVpnTable.html#a882d1af7295a1e8951aa818a978d490c":[2,0,645,17],
 "d3/db0/classErmVpnTable.html#a938e6b6e770255f148289d66af0b058c":[2,0,645,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX54 =
 "d3/dd0/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleDelete.html#a3eea4af4db17d79aea24ef116f0a3195":[2,0,11,9,39,4],
 "d3/dd0/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleDelete.html#a5918f2501b6c5d77a53eda7920471304":[2,0,11,9,39,0],
 "d3/dd0/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleDelete.html#a820d652b395b472eb89f8b8d402a4884":[2,0,11,9,39,1],
-"d3/dd0/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleDelete.html#ad290b80912393a3c232fbc8bf387f682":[2,0,11,9,39,2]
+"d3/dd0/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleDelete.html#ad290b80912393a3c232fbc8bf387f682":[2,0,11,9,39,2],
+"d3/dd0/structStatsManager_1_1VrfStats.html":[2,0,1643,2]
 };
