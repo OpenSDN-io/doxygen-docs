@@ -120,83 +120,79 @@ $(document).ready(function(){initNavTree('dc/d87/backtrace_8cc_source.html','../
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;</div>
 <div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561">   13</a></span>&#160;ssize_t <a class="code" href="../../d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561">BackTrace::ToString</a>(<span class="keywordtype">void</span> * <span class="keyword">const</span>* callstack, <span class="keywordtype">int</span> frames, <span class="keywordtype">char</span> *buf,</div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;                            <span class="keywordtype">size_t</span> buf_len) {</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#ifdef DARWIN</span></div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor"></span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#else</span></div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="preprocessor"></span>    buf[0] = <span class="charliteral">&#39;\0&#39;</span>;</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordtype">char</span> *str = buf;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordtype">char</span> **strs = backtrace_symbols(callstack, frames);</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordtype">int</span> line_pos;</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    <span class="keywordtype">size_t</span> len = 0;</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; frames; ++i) {</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        <span class="keywordtype">int</span> status;</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        std::vector&lt;std::string&gt; SplitVec;</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        <span class="keywordflow">if</span> (i == frames - 1) <span class="keywordflow">continue</span>;</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        boost::split(SplitVec, strs[i], boost::is_any_of(<span class="stringliteral">&quot;()&quot;</span>),</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;                     boost::token_compress_on);</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        boost::split(SplitVec, SplitVec[1], boost::is_any_of(<span class="stringliteral">&quot;+&quot;</span>),</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;                     boost::token_compress_on);</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        <span class="keywordtype">char</span> *demangledName =</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;            abi::__cxa_demangle(SplitVec[0].c_str(), NULL, NULL, &amp;status);</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        line_pos = 1;</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <span class="keywordflow">if</span> (status == 0) {</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            <span class="keywordflow">if</span> (!strstr(demangledName, <span class="stringliteral">&quot;boost::&quot;</span>) &amp;&amp;</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;tbb::&quot;</span>) &amp;&amp;</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;BackTrace::&quot;</span>) &amp;&amp;</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;BgpDebug::&quot;</span>) &amp;&amp;</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;testing::&quot;</span>)) {</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;                len = snprintf(str, buf_len - (str - buf),</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;                               <span class="stringliteral">&quot;\t%s+%s\n&quot;</span>, demangledName,</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                               SplitVec[line_pos].c_str());</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                <span class="keywordflow">if</span> (len &gt; buf_len - (str - buf)) {</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;                    <span class="comment">// Overflow</span></div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                    free(demangledName);</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                    str += buf_len - (str - buf);</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;                    assert((<span class="keywordtype">size_t</span>) (str - buf) == buf_len);</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                    <span class="keywordflow">break</span>;</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;                }</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                str += len;</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;            }</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;            free(demangledName);</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;        }</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    }</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    free(strs);</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    buf[0] = <span class="charliteral">&#39;\0&#39;</span>;</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keywordtype">char</span> *str = buf;</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="keywordtype">char</span> **strs = backtrace_symbols(callstack, frames);</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keywordtype">int</span> line_pos;</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordtype">size_t</span> len = 0;</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; frames; ++i) {</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        <span class="keywordtype">int</span> status;</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        std::vector&lt;std::string&gt; SplitVec;</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        <span class="keywordflow">if</span> (i == frames - 1) <span class="keywordflow">continue</span>;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        boost::split(SplitVec, strs[i], boost::is_any_of(<span class="stringliteral">&quot;()&quot;</span>),</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;                     boost::token_compress_on);</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        boost::split(SplitVec, SplitVec[1], boost::is_any_of(<span class="stringliteral">&quot;+&quot;</span>),</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;                     boost::token_compress_on);</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        <span class="keywordtype">char</span> *demangledName =</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;            abi::__cxa_demangle(SplitVec[0].c_str(), NULL, NULL, &amp;status);</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        line_pos = 1;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;        <span class="keywordflow">if</span> (status == 0) {</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;            <span class="keywordflow">if</span> (!strstr(demangledName, <span class="stringliteral">&quot;boost::&quot;</span>) &amp;&amp;</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;tbb::&quot;</span>) &amp;&amp;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;BackTrace::&quot;</span>) &amp;&amp;</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;BgpDebug::&quot;</span>) &amp;&amp;</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                !strstr(demangledName, <span class="stringliteral">&quot;testing::&quot;</span>)) {</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;                len = snprintf(str, buf_len - (str - buf),</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;                               <span class="stringliteral">&quot;\t%s+%s\n&quot;</span>, demangledName,</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                               SplitVec[line_pos].c_str());</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;                <span class="keywordflow">if</span> (len &gt; buf_len - (str - buf)) {</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                    <span class="comment">// Overflow</span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                    free(demangledName);</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;                    str += buf_len - (str - buf);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;                    assert((<span class="keywordtype">size_t</span>) (str - buf) == buf_len);</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                    <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                }</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;                str += len;</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;            }</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;            free(demangledName);</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        }</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    }</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    free(strs);</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="keywordflow">return</span> (str - buf);</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;}</div>
 <div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <span class="keywordflow">return</span> (str - buf);</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="preprocessor"></span>}</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;</div>
-<div class="line"><a name="l00066"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">   66</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">BackTrace::Get</a>(<span class="keywordtype">void</span> * <span class="keyword">const</span>* &amp;callstack) {</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    callstack = (<span class="keywordtype">void</span> * <span class="keyword">const</span> *) calloc(1024, <span class="keyword">sizeof</span>(<span class="keywordtype">void</span> *));</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">return</span> backtrace((<span class="keywordtype">void</span> **) callstack, 1024);</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;}</div>
+<div class="line"><a name="l00062"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">   62</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">BackTrace::Get</a>(<span class="keywordtype">void</span> * <span class="keyword">const</span>* &amp;callstack) {</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    callstack = (<span class="keywordtype">void</span> * <span class="keyword">const</span> *) calloc(1024, <span class="keyword">sizeof</span>(<span class="keywordtype">void</span> *));</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <span class="keywordflow">return</span> backtrace((<span class="keywordtype">void</span> **) callstack, 1024);</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;}</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;</div>
+<div class="line"><a name="l00067"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#add169bc7b4275bd4ed81871375291236">   67</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a>(<span class="keywordtype">void</span> * <span class="keyword">const</span>* callstack, <span class="keywordtype">int</span> frames,</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                    <span class="keyword">const</span> std::string &amp;msg) {</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    <span class="keywordtype">char</span> buf[10240];</div>
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;</div>
-<div class="line"><a name="l00071"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#add169bc7b4275bd4ed81871375291236">   71</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a>(<span class="keywordtype">void</span> * <span class="keyword">const</span>* callstack, <span class="keywordtype">int</span> frames,</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;                    <span class="keyword">const</span> std::string &amp;msg) {</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    <span class="keywordtype">char</span> buf[10240];</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <a class="code" href="../../d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561">ToString</a>(callstack, frames, buf, <span class="keyword">sizeof</span>(buf));</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    std::string s(buf, strlen(buf));</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, msg &lt;&lt; <span class="stringliteral">&quot;:BackTrace\n&quot;</span> &lt;&lt; s);</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    free((<span class="keywordtype">void</span> *) callstack);</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;}</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;</div>
-<div class="line"><a name="l00081"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">   81</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a>(<span class="keyword">const</span> std::string &amp;msg) {</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;    <span class="keywordtype">void</span> * <span class="keyword">const</span>*callstack;</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    <span class="keywordtype">int</span> frames = <a class="code" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">Get</a>(callstack);</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">Log</a>(callstack, frames, msg);</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;}</div>
-<div class="ttc" id="classBackTrace_html_ac2b159f87e8a7e299bdc900195d46020"><div class="ttname"><a href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a></div><div class="ttdeci">static void Log(const std::string &amp;msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d87/backtrace_8cc_source.html#l00081">backtrace.cc:81</a></div></div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    <a class="code" href="../../d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561">ToString</a>(callstack, frames, buf, <span class="keyword">sizeof</span>(buf));</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    std::string s(buf, strlen(buf));</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, msg &lt;&lt; <span class="stringliteral">&quot;:BackTrace\n&quot;</span> &lt;&lt; s);</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    free((<span class="keywordtype">void</span> *) callstack);</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;}</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;</div>
+<div class="line"><a name="l00077"></a><span class="lineno"><a class="line" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">   77</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a>(<span class="keyword">const</span> std::string &amp;msg) {</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <span class="keywordtype">void</span> * <span class="keyword">const</span>*callstack;</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    <span class="keywordtype">int</span> frames = <a class="code" href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">Get</a>(callstack);</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <a class="code" href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">Log</a>(callstack, frames, msg);</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;}</div>
+<div class="ttc" id="classBackTrace_html_ac2b159f87e8a7e299bdc900195d46020"><div class="ttname"><a href="../../d3/ddb/classBackTrace.html#ac2b159f87e8a7e299bdc900195d46020">BackTrace::Log</a></div><div class="ttdeci">static void Log(const std::string &amp;msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d87/backtrace_8cc_source.html#l00077">backtrace.cc:77</a></div></div>
 <div class="ttc" id="backtrace_8h_html"><div class="ttname"><a href="../../d3/dda/backtrace_8h.html">backtrace.h</a></div></div>
 <div class="ttc" id="classBackTrace_html_a735d76dc20bf7aae7c1ba6ab43ae6561"><div class="ttname"><a href="../../d3/ddb/classBackTrace.html#a735d76dc20bf7aae7c1ba6ab43ae6561">BackTrace::ToString</a></div><div class="ttdeci">static ssize_t ToString(void *const *callstack, int frames, char *buf, size_t buf_len)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d87/backtrace_8cc_source.html#l00013">backtrace.cc:13</a></div></div>
 <div class="ttc" id="logging_8h_html"><div class="ttname"><a href="../../d5/d77/logging_8h.html">logging.h</a></div></div>
-<div class="ttc" id="classBackTrace_html_a519e83d2f425284ac0409cb0befc8058"><div class="ttname"><a href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">BackTrace::Get</a></div><div class="ttdeci">static int Get(void *const *&amp;callstack)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d87/backtrace_8cc_source.html#l00066">backtrace.cc:66</a></div></div>
+<div class="ttc" id="classBackTrace_html_a519e83d2f425284ac0409cb0befc8058"><div class="ttname"><a href="../../d3/ddb/classBackTrace.html#a519e83d2f425284ac0409cb0befc8058">BackTrace::Get</a></div><div class="ttdeci">static int Get(void *const *&amp;callstack)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d87/backtrace_8cc_source.html#l00062">backtrace.cc:62</a></div></div>
 <div class="ttc" id="logging_8h_html_afa4d5ba62ca08799d69d54104884902a"><div class="ttname"><a href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a></div><div class="ttdeci">#define LOG(_Level, _Msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00033">logging.h:33</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

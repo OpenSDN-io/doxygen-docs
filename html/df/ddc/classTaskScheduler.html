@@ -481,7 +481,7 @@ Friends</h2></td></tr>
 
 <p><a class="el" href="../../df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ...">TaskScheduler</a> constructor. TBB assumes it can use the "thread" invoking tbb::scheduler can be used for task scheduling. But, in our case we dont want "main" thread to be part of tbb. So, initialize TBB with one thread more than its default. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00451">451</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00444">444</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -509,7 +509,7 @@ Here is the call graph for this function:</div>
 
 <p>Frees up the task_entry_db_ allocated for scheduler. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00462">462</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00455">455</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -530,7 +530,7 @@ Here is the call graph for this function:</div>
 
 <p>Cancels a <a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. ">Task</a> that can be in RUN/WAIT state. The caller needs to ensure that the task exists when <a class="el" href="../../df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca...">Cancel()</a> is invoked. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00706">706</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00699">699</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -589,7 +589,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01040">1040</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01006">1006</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -607,7 +607,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00882">882</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00875">875</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -634,7 +634,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00890">890</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00883">883</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -671,7 +671,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00898">898</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00891">891</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -709,7 +709,7 @@ Here is the call graph for this function:</div>
 <p>Platfrom-dependent subroutine in Linux and FreeBSD implementations, used only in <a class="el" href="../../df/ddc/classTaskScheduler.html#a527ff9846f8e041d6331fcf566bc0ee1">TaskScheduler::WaitForTerminateCompletion()</a>. In Linux, make sure that all the [tbb] threads launched have completely exited. We do so by looking for the Threads count of this process in /proc/&lt;pid&gt;/status. </p>
 <p>In FreeBSD use libprocstat to check how many threads is running in specific process. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00930">930</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00923">923</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -737,7 +737,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01066">1066</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01032">1032</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -764,7 +764,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01049">1049</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01015">1015</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -852,7 +852,7 @@ Here is the call graph for this function:</div>
 
 <p>Enable logging of tasks exceeding configured latency. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00602">602</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00595">595</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -894,7 +894,7 @@ Here is the call graph for this function:</div>
 
 <p>Enable <a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. ">Task</a> monitoring. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00518">518</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00511">511</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -931,7 +931,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01071">1071</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01037">1037</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -958,7 +958,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01059">1059</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01025">1025</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -987,7 +987,7 @@ Here is the call graph for this function:</div>
 
 <p>Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq. Enqueueing may may result in the task being immedietly added to the run queue or to a pending queue. Tasks may not be added to the run queue in violation of their exclusion policy. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00643">643</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00636">636</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1039,7 +1039,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00649">649</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00642">642</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1091,7 +1091,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00548">548</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00541">541</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1125,7 +1125,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00436">436</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00429">429</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1150,7 +1150,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00554">554</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00547">547</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1212,7 +1212,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01656">1656</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01622">1622</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1251,7 +1251,7 @@ Here is the call graph for this function:</div>
 
 <p>Get <a class="el" href="../../d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task-id&gt; information including,. ">TaskGroup</a> for a task_id. Grows task_entry_db_ if necessary. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00590">590</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00583">583</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1280,7 +1280,7 @@ Here is the call graph for this function:</div>
 
 <p>Get <a class="el" href="../../d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task-id&gt; information including,. ">TaskGroup</a> for a task_id. Grows task_entry_db_ if necessary. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00561">561</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00554">554</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1298,7 +1298,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00906">906</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00899">899</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1325,7 +1325,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00863">863</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00856">856</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1343,7 +1343,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00853">853</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00846">846</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1361,7 +1361,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00914">914</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00907">907</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1398,7 +1398,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00922">922</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00915">915</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1435,7 +1435,7 @@ Here is the call graph for this function:</div>
 
 <p>Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00414">414</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00407">407</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1496,7 +1496,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00485">485</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00478">478</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1525,7 +1525,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns true if there are no tasks running and/or enqueued If running_only is true, enqueued tasks are ignored i.e. return true if there are no running tasks. Ignore <a class="el" href="../../d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task-id&gt; information including,. ">TaskGroup</a> or <a class="el" href="../../d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt; ">TaskEntry</a> if it is disabled. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00830">830</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00823">823</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1554,7 +1554,7 @@ Here is the call graph for this function:</div>
 
 <p>Check if there are any Tasks in the given <a class="el" href="../../d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task-id&gt; information including,. ">TaskGroup</a>. Assumes that all task ids are mutually exclusive with bgp::Config. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00581">581</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00574">574</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1609,7 +1609,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00530">530</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00523">523</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1652,7 +1652,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00512">512</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00505">505</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1681,7 +1681,7 @@ Here is the call graph for this function:</div>
 
 <p>Method invoked on exit of a <a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. ">Task</a>. Exit of a task can potentially start tasks in pendingq. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00769">769</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00762">762</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1709,7 +1709,7 @@ Here is the call graph for this function:</div>
 
 <p>Debug print routine. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00815">815</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00808">808</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1748,7 +1748,7 @@ Here is the call graph for this function:</div>
 
 <p>Query <a class="el" href="../../d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt; ">TaskEntry</a> for a task-id and task-instance. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00595">595</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00588">588</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1777,7 +1777,7 @@ Here is the call graph for this function:</div>
 
 <p>Query <a class="el" href="../../d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task-id&gt; information including,. ">TaskGroup</a> for a task_id.Assumes valid entry is present for task_id. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00577">577</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00570">570</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1795,7 +1795,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00538">538</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00531">531</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -1838,7 +1838,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00542">542</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00535">535</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1865,7 +1865,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00500">500</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00493">493</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1908,7 +1908,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00609">609</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00602">602</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1977,7 +1977,7 @@ Here is the call graph for this function:</div>
 </li>
 </ul>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00617">617</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00610">610</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2014,7 +2014,7 @@ Here is the call graph for this function:</div>
 
 <p>This function should not be called in production code. It is only for unit testing to control current running task This function modifies the running task as specified by the input. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01035">1035</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01001">1001</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2051,7 +2051,7 @@ Here is the call graph for this function:</div>
 
 <p>following function allows one to increase max num of threads used by TBB </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01045">1045</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01011">1011</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -2102,7 +2102,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00440">440</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00433">433</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -2121,7 +2121,7 @@ Here is the call graph for this function:</div>
 
 <p>Starts scheduling of all tasks. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00805">805</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00798">798</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2149,7 +2149,7 @@ Here is the call graph for this function:</div>
 
 <p>Stops scheduling of all tasks. </p>
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00799">799</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00792">792</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -2216,7 +2216,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01012">1012</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00978">978</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2300,7 +2300,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00986">986</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00952">952</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
