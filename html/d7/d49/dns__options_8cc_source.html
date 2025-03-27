@@ -377,7 +377,7 @@ $(document).ready(function(){initNavTree('d7/d49/dns__options_8cc_source.html','
 <div class="line"><a name="l00269"></a><span class="lineno">  269</span>&#160;    GetOptValue&lt;string&gt;(var_map, dns_config_file_, <span class="stringliteral">&quot;DEFAULT.dns_config_file&quot;</span>);</div>
 <div class="line"><a name="l00270"></a><span class="lineno">  270</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map, collector_server_list_,</div>
 <div class="line"><a name="l00271"></a><span class="lineno">  271</span>&#160;                                  <span class="stringliteral">&quot;DEFAULT.collectors&quot;</span>);</div>
-<div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;    collectors_configured_ = <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;    collectors_configured_ = collector_server_list_.size();</div>
 <div class="line"><a name="l00273"></a><span class="lineno">  273</span>&#160;    <span class="keywordflow">if</span> (collector_server_list_.size() == 1 &amp;&amp;</div>
 <div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;        !collector_server_list_[0].compare(default_collector_server_list_[0])) {</div>
 <div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;        collectors_configured_ = <span class="keyword">false</span>;</div>

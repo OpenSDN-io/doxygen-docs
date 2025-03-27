@@ -60,7 +60,6 @@ var searchData=
   ['neighbors_5f',['neighbors_',['../d8/d3c/classBgpIfmapPeeringConfig.html#ac1c49980b6f9b65feb6cfa63b9d99186',1,'BgpIfmapPeeringConfig::neighbors_()'],['../d6/d53/classBgpIfmapInstanceConfig.html#a2ff114ba39f43fe19b689aeb919a094c',1,'BgpIfmapInstanceConfig::neighbors_()'],['../d8/d97/classYamlInstanceData.html#abfb7f78616aed266ae419306816e6a4c',1,'YamlInstanceData::neighbors_()'],['../d7/dd2/classMvpnManager.html#a51aeb63595a0aa911fee850f833b1012',1,'MvpnManager::neighbors_()'],['../d9/d68/classXmppConfigData.html#a63355a01d1c3dc2481b64eede852633e',1,'XmppConfigData::neighbors_()']]],
   ['neighbors_5fmutex_5f',['neighbors_mutex_',['../d7/dd2/classMvpnManager.html#acea879750c26301acdb4d0be14baa3eb',1,'MvpnManager']]],
   ['nested',['nested',['../dc/dff/structPeerCloseManager_1_1Stats.html#aec6828358fdadfa4dfba94994ab50df2',1,'PeerCloseManager::Stats']]],
-  ['netmask',['netmask',['../d9/dc1/structrt__addresses.html#adb78c1f8fcb711b4e5ff7ae3ce180747',1,'rt_addresses']]],
   ['netns_5fcmd_5f',['netns_cmd_',['../d2/d17/classInstanceManager.html#a215c5c27ca753785c8755f8467d2451b',1,'InstanceManager::netns_cmd_()'],['../d2/d6d/classNetNSInstanceAdapter.html#aa8d9337bdefc184f7f6f08acef9ff6c5',1,'NetNSInstanceAdapter::netns_cmd_()']]],
   ['netns_5freattempts_5f',['netns_reattempts_',['../d2/d17/classInstanceManager.html#a342edc2a521c84e7a29ed39b5a06ca00',1,'InstanceManager']]],
   ['netns_5ftimeout_5f',['netns_timeout_',['../d2/d17/classInstanceManager.html#a9a3e2e23f923a95a62b343d2f05f55f4',1,'InstanceManager']]],

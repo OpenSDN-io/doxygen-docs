@@ -1252,7 +1252,6 @@ var searchData=
   ['_7evnstats',['~VnStats',['../de/d0a/structVnUveEntry_1_1VnStats.html#a0c2f2f3ce611dd341392e6dbc171447c',1,'VnUveEntry::VnStats']]],
   ['_7evnswinterfacelistenerbase',['~VnswInterfaceListenerBase',['../d3/d81/classVnswInterfaceListenerBase.html#adc83ebd53956d2503c102dbaeb1cacdc',1,'VnswInterfaceListenerBase']]],
   ['_7evnswinterfacelistenerbasenix',['~VnswInterfaceListenerBaseNix',['../db/de3/classVnswInterfaceListenerBaseNix.html#a775b501d00ed74ed8240a5d805204ddc',1,'VnswInterfaceListenerBaseNix']]],
-  ['_7evnswinterfacelistenerfreebsd',['~VnswInterfaceListenerFreeBSD',['../dc/dde/classVnswInterfaceListenerFreeBSD.html#a60fe0014ec3da835df86bf202a5d28ab',1,'VnswInterfaceListenerFreeBSD']]],
   ['_7evnswinterfacelistenerlinux',['~VnswInterfaceListenerLinux',['../d9/d1d/classVnswInterfaceListenerLinux.html#a6bce8e8004c0e9201a4bdd0b8f6ee84c',1,'VnswInterfaceListenerLinux']]],
   ['_7evntable',['~VnTable',['../d2/d5c/classVnTable.html#a43d4cc138866455e8fffd101fd85ebdf',1,'VnTable']]],
   ['_7evnuveentry',['~VnUveEntry',['../d3/d03/classVnUveEntry.html#abd46b3060d8c5dc75ad7b576e67a85f8',1,'VnUveEntry']]],

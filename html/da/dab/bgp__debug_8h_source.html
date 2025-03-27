@@ -143,29 +143,25 @@ $(document).ready(function(){initNavTree('da/dab/bgp__debug_8h_source.html','../
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="comment">// server, instance, table, peer, route, etc.</span></div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="comment">//</span></div>
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#ifdef __APPLE__</span></div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define __FUNC__ __PRETTY_FUNCTION__</span></div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#else</span></div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define __FUNC__ __FUNCTION__</span></div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">#define BGP_DEBUG(dtable, dpeer, droute, format, args...)                      \</span></div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">do {                                                                           \</span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">    if (!BgpDebug::Enabled()) {                                                \</span></div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="preprocessor">        break;                                                                 \</span></div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="preprocessor">    }                                                                          \</span></div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="preprocessor">    char msg[1024];                                                            \</span></div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">    snprintf(msg, sizeof(msg), format, ##args);                                \</span></div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">                                                                               \</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor">    BgpDebug::Debug(static_cast&lt;DBTable *&gt;(dtable),                            \</span></div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor">                    static_cast&lt;DBEntry *&gt;(droute),                            \</span></div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="preprocessor">                    static_cast&lt;IPeer *&gt;(dpeer),                               \</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="preprocessor">                    __FILE__, __FUNC__, __LINE__, msg);                        \</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">} while (0)</span></div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="preprocessor">#endif  // __BGP_DEBUG__</span></div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<span class="preprocessor">#endif  // SRC_BGP_BGP_DEBUG_H_</span></div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#define __FUNC__ __FUNCTION__</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="preprocessor">#define BGP_DEBUG(dtable, dpeer, droute, format, args...)                      \</span></div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor">do {                                                                           \</span></div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor">    if (!BgpDebug::Enabled()) {                                                \</span></div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="preprocessor">        break;                                                                 \</span></div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">    }                                                                          \</span></div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">    char msg[1024];                                                            \</span></div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">    snprintf(msg, sizeof(msg), format, ##args);                                \</span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="preprocessor">                                                                               \</span></div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="preprocessor">    BgpDebug::Debug(static_cast&lt;DBTable *&gt;(dtable),                            \</span></div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="preprocessor">                    static_cast&lt;DBEntry *&gt;(droute),                            \</span></div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">                    static_cast&lt;IPeer *&gt;(dpeer),                               \</span></div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">                    __FILE__, __FUNC__, __LINE__, msg);                        \</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor">} while (0)</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="preprocessor">#endif  // __BGP_DEBUG__</span></div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">#endif  // SRC_BGP_BGP_DEBUG_H_</span></div>
 <div class="ttc" id="classDBTable_html"><div class="ttname"><a href="../../d5/d0a/classDBTable.html">DBTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00167">db_table.h:167</a></div></div>
 <div class="ttc" id="classIPeer_html"><div class="ttname"><a href="../../dd/d38/classIPeer.html">IPeer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d86/ipeer_8h_source.html#l00186">ipeer.h:186</a></div></div>
 <div class="ttc" id="classDBEntry_html"><div class="ttname"><a href="../../d6/d7e/classDBEntry.html">DBEntry</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d61/db__entry_8h_source.html#l00097">db_entry.h:97</a></div></div>

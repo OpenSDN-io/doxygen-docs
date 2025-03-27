@@ -54,7 +54,6 @@ var searchData=
   ['rtinstance_5flog_5ftable',['RTINSTANCE_LOG_TABLE',['../da/d96/routing__instance__log_8h.html#a0b6851746760f2b0a679413c2df876fd',1,'routing_instance_log.h']]],
   ['rtinstance_5flog_5fwarning_5fmessage',['RTINSTANCE_LOG_WARNING_MESSAGE',['../da/d96/routing__instance__log_8h.html#ab6f0142cd913e0aa9fc0b0a0e0abd938',1,'routing_instance_log.h']]],
   ['rtinstance_5ftrace_5fbuf',['RTINSTANCE_TRACE_BUF',['../da/d96/routing__instance__log_8h.html#a69f3c771b061dffb72793ccf10a5b56f',1,'routing_instance_log.h']]],
-  ['rtm_5faddr_5fmax',['RTM_ADDR_MAX',['../df/dc4/freebsd_2vnswif__listener_8cc.html#a1b648dfaaaaa1581c1f8e1c78af7a8ce',1,'vnswif_listener.cc']]],
   ['rxmpp_5fmessage',['rXMPP_MESSAGE',['../dc/d59/xmpp__str_8h.html#a7228e78878a5da898ad01d703138c98c',1,'xmpp_str.h']]],
   ['rxmpp_5fstream_5fend',['rXMPP_STREAM_END',['../dc/d59/xmpp__str_8h.html#a57b794b9f4f712c06cfe96fdaffb2f2a',1,'xmpp_str.h']]],
   ['rxmpp_5fstream_5ffeatures',['rXMPP_STREAM_FEATURES',['../dc/d59/xmpp__str_8h.html#ad7a18f339f7167d2956b9387ef5e2121',1,'xmpp_str.h']]],

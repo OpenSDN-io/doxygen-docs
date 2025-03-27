@@ -99,7 +99,6 @@ var searchData=
   ['body_5f',['body_',['../db/de0/classRespBlock.html#afeb63280b278038885ac77a156d2451a',1,'RespBlock::body_()'],['../d5/d1b/classHttpRequest.html#abee36ca3867a0fe46cb3dbdae6c27b99',1,'HttpRequest::body_()']]],
   ['bond_5fchildintf_5fmap_5f',['bond_childIntf_map_',['../d2/d81/classPhysicalInterface.html#a63c606a7601d4fdccaddab146bc716a4',1,'PhysicalInterface']]],
   ['bounded_5f',['bounded_',['../d4/d0c/classWorkQueue.html#a5b87f53723ba43426a3f1386c51851bb',1,'WorkQueue']]],
-  ['brd',['brd',['../d9/dc1/structrt__addresses.html#a429c65051147211c00446e9ec74b39c7',1,'rt_addresses']]],
   ['bridge_5f',['bridge_',['../d8/d03/classVxLanIdData.html#acab3aa59aeae9b48a0397a01482599ba',1,'VxLanIdData::bridge_()'],['../d1/dbc/structVxLanTable_1_1ConfigEntry.html#ad6b2772e646ace6f9fe23b5e29eac18f',1,'VxLanTable::ConfigEntry::bridge_()'],['../d6/dc5/classVrfFlowMgmtEntry.html#a08f740e519e38b6c3a8ff1183665cf5b',1,'VrfFlowMgmtEntry::bridge_()'],['../d3/d79/classKSyncVxlanPortEntry.html#a21858f789c15307e5f43b02ad0fee0e9',1,'KSyncVxlanPortEntry::bridge_()'],['../db/d8e/classKSyncVxlanFdbEntry.html#a536a1a5cba50d4f1cd2a17db6743307a',1,'KSyncVxlanFdbEntry::bridge_()']]],
   ['bridge_5fadd_5fcount_5f',['bridge_add_count_',['../d3/dfc/structProfileData_1_1XmppStats.html#a7950fc741701a8c5c3d9dfdb3a50897c',1,'ProfileData::XmppStats']]],
   ['bridge_5fdel_5fcount_5f',['bridge_del_count_',['../d3/dfc/structProfileData_1_1XmppStats.html#aefe03d99278110e029d7adba64a55fc9',1,'ProfileData::XmppStats']]],

@@ -51,7 +51,5 @@ var searchData=
   ['forwarding_5fclass_5fksync_2ecc',['forwarding_class_ksync.cc',['../da/dbd/forwarding__class__ksync_8cc.html',1,'']]],
   ['forwarding_5fclass_5fksync_2eh',['forwarding_class_ksync.h',['../d6/d86/forwarding__class__ksync_8h.html',1,'']]],
   ['metadata_5fipv6_5fnetlink_2ecc',['metadata_ipv6_netlink.cc',['../de/d60/freebsd_2metadata__ipv6__netlink_8cc.html',1,'']]],
-  ['pkt0_5finterface_2ecc',['pkt0_interface.cc',['../dd/d7c/freebsd_2pkt0__interface_8cc.html',1,'']]],
-  ['vnswif_5flistener_2ecc',['vnswif_listener.cc',['../df/dc4/freebsd_2vnswif__listener_8cc.html',1,'']]],
-  ['vnswif_5flistener_2eh',['vnswif_listener.h',['../d0/de7/freebsd_2vnswif__listener_8h.html',1,'']]]
+  ['pkt0_5finterface_2ecc',['pkt0_interface.cc',['../dd/d7c/freebsd_2pkt0__interface_8cc.html',1,'']]]
 ];

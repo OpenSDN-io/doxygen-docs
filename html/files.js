@@ -3151,10 +3151,8 @@ var files =
       [ "VncApi", "df/dab/classVncApi.html", "df/dab/classVncApi" ]
     ] ],
     [ "vncapi_test.cc", "da/dbc/vncapi__test_8cc.html", "da/dbc/vncapi__test_8cc" ],
-    [ "freebsd/vnswif_listener.cc", "df/dc4/freebsd_2vnswif__listener_8cc.html", "df/dc4/freebsd_2vnswif__listener_8cc" ],
-    [ "linux/vnswif_listener.cc", "d5/d54/linux_2vnswif__listener_8cc.html", null ],
-    [ "freebsd/vnswif_listener.h", "d0/de7/freebsd_2vnswif__listener_8h.html", "d0/de7/freebsd_2vnswif__listener_8h" ],
-    [ "linux/vnswif_listener.h", "d1/d1f/linux_2vnswif__listener_8h.html", "d1/d1f/linux_2vnswif__listener_8h" ],
+    [ "vnswif_listener.cc", "d6/d48/vnswif__listener_8cc.html", null ],
+    [ "vnswif_listener.h", "da/d5b/vnswif__listener_8h.html", "da/d5b/vnswif__listener_8h" ],
     [ "vnswif_listener_base.cc", "d6/da6/vnswif__listener__base_8cc.html", "d6/da6/vnswif__listener__base_8cc" ],
     [ "vnswif_listener_base.h", "d0/d27/vnswif__listener__base_8h.html", "d0/d27/vnswif__listener__base_8h" ],
     [ "vnswif_listener_base_nix.cc", "d5/d8e/vnswif__listener__base__nix_8cc.html", null ],

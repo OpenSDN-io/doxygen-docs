@@ -26,7 +26,5 @@ var searchData=
   ['logical_5fswitch_5fovsdb_2ecc',['logical_switch_ovsdb.cc',['../da/df8/logical__switch__ovsdb_8cc.html',1,'']]],
   ['logical_5fswitch_5fovsdb_2eh',['logical_switch_ovsdb.h',['../d2/d5e/logical__switch__ovsdb_8h.html',1,'']]],
   ['metadata_5fipv6_5fnetlink_2ecc',['metadata_ipv6_netlink.cc',['../dd/d69/linux_2metadata__ipv6__netlink_8cc.html',1,'']]],
-  ['pkt0_5finterface_2ecc',['pkt0_interface.cc',['../d5/d97/linux_2pkt0__interface_8cc.html',1,'']]],
-  ['vnswif_5flistener_2ecc',['vnswif_listener.cc',['../d5/d54/linux_2vnswif__listener_8cc.html',1,'']]],
-  ['vnswif_5flistener_2eh',['vnswif_listener.h',['../d1/d1f/linux_2vnswif__listener_8h.html',1,'']]]
+  ['pkt0_5finterface_2ecc',['pkt0_interface.cc',['../d5/d97/linux_2pkt0__interface_8cc.html',1,'']]]
 ];
