@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"dd/dd1/classBgpRouterConfig.html#a01bac05f34318907e66df2e0c8f8780d":[2,0,409,9],
 "dd/dd1/classBgpRouterConfig.html#a08b19a73ad31593178717d8f9a8c2887":[2,0,409,2],
 "dd/dd1/classBgpRouterConfig.html#a11f32f2d8f5d65ea1f7ec6d22603ce09":[2,0,409,0],
 "dd/dd1/classBgpRouterConfig.html#a12156c6a99fbce85646e9ed3147d85c5":[2,0,409,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "dd/de7/structBgpAttrSourceRd.html#a8c68579b5e8d6bc0a71ef11fe228b68f":[2,0,262,2],
 "dd/de7/structBgpAttrSourceRd.html#aaac7ac07994d56d4be408eb4169e92b0":[2,0,262,3],
 "dd/de7/structBgpAttrSourceRd.html#afcd97c64455a18bd21292c4a9ce9d14c":[2,0,262,6],
-"dd/de8/structVRouterSubnet.html":[2,0,1883],
-"dd/de8/structVRouterSubnet.html#a0582f0123061a6df19f0f9f3f1d3871c":[2,0,1883,2]
+"dd/de8/structVRouterSubnet.html":[2,0,1883]
 };

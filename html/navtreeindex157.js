@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"da/de1/agent__db_8h.html#a52fc22e0cf4f4fa7c4e8fec8f1e2dc85":[3,0,15,8],
 "da/de1/agent__db_8h_source.html":[3,0,15],
 "da/de3/bgp__show__ribout__statistics_8cc.html":[3,0,183],
 "da/de3/bgp__show__ribout__statistics_8cc_source.html":[3,0,183],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "da/df8/logical__switch__ovsdb_8cc_source.html":[3,0,706],
 "da/df9/t__doc__generator_8cc.html":[3,0,1100],
 "da/df9/t__doc__generator_8cc.html#a8b3b3c275eb46680d92090efb407c5df":[3,0,1100,3],
-"da/df9/t__doc__generator_8cc_source.html":[3,0,1100],
-"da/dfa/structOVSDB_1_1OvsdbClientIdl_1_1TxnStats.html":[2,0,20,13,1]
+"da/df9/t__doc__generator_8cc_source.html":[3,0,1100]
 };

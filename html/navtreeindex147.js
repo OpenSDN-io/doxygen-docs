@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html":[2,0,20,13,0],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html#a42e309ae7b2d4032fbf0a8b272d89235":[2,0,20,13,0,2],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html#a956fddb52a1feb1b6d748dc096141655":[2,0,20,13,0,1],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html#ad2ee0eb500f4a3c5d3064a9eb3e8d410":[2,0,20,13,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "da/d13/classDnsHandler.html#a35ca5b6d80e5cf435d2f6ff8dbd9d37d":[2,0,600,68],
 "da/d13/classDnsHandler.html#a3672eaf168f26fc2053d541cf9f9f2c3":[2,0,600,49],
 "da/d13/classDnsHandler.html#a3d87b655d9419c7f7d92566bcbbc8f50":[2,0,600,9],
-"da/d13/classDnsHandler.html#a3f243a6a3f99670d4f638a1f5ebb0607":[2,0,600,21],
-"da/d13/classDnsHandler.html#a40c929775f9e23ecfa0522ac603f4a2e":[2,0,600,46]
+"da/d13/classDnsHandler.html#a3f243a6a3f99670d4f638a1f5ebb0607":[2,0,600,21]
 };

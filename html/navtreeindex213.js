@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#a6c996ba2076f750029dcd4a3a0a4c137":[2,0,973,4,2],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html#a80ecc028d33d85872ae91d9233ad54ba":[2,0,973,4,1],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html#a9d77995204760aa176a9b5d7ebeec0b5":[2,0,973,4,3],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html#adc7a679a60bd01881465429116c069b7":[2,0,973,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "de/dc2/classUpdateList.html#aa5ffdeb318cc5ed579f00875c0e494f6":[2,0,1757,3],
 "de/dc2/classUpdateList.html#ab6b57f6eea6eaa97e7163dd056d0160b":[2,0,1757,5],
 "de/dc2/classUpdateList.html#ac6bb1fc7fae9ea47401a9c3b7c054c59":[2,0,1757,8],
-"de/dc2/classUpdateList.html#ad4eb4fde481a76e09d635586110f4011":[2,0,1757,1],
-"de/dc2/classUpdateList.html#ae6c9013ace142f3666f2006d266e4b97":[2,0,1757,10]
+"de/dc2/classUpdateList.html#ad4eb4fde481a76e09d635586110f4011":[2,0,1757,1]
 };

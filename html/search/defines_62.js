@@ -41,6 +41,7 @@ var searchData=
   ['bgp_5fpeer_5fdir_5fout',['BGP_PEER_DIR_OUT',['../d1/d1a/bgp__log_8h.html#af9b1c09de0cc94078c7505280dcfb639',1,'bgp_log.h']]],
   ['bgp_5fpeer_5fobject_5ftrace_5fbuf',['BGP_PEER_OBJECT_TRACE_BUF',['../d1/d1a/bgp__log_8h.html#a29d48d8bb47635348180c7e0d4b23ab9',1,'bgp_log.h']]],
   ['bgp_5frouter_5fconfig_5fname',['BGP_ROUTER_CONFIG_NAME',['../de/dee/bgp__as__service_8h.html#af8a767cc4f5ac51366bd252ebacc417c',1,'bgp_as_service.h']]],
+  ['bgp_5frouter_5fext_5ftype',['BGP_ROUTER_EXT_TYPE',['../d6/d40/bgp__router_8h.html#a1aa149219d3419bd48540259dd78391b',1,'bgp_router.h']]],
   ['bgp_5frouter_5ftype',['BGP_ROUTER_TYPE',['../d6/d40/bgp__router_8h.html#aab673f394bd9d5a99989102690912602',1,'bgp_router.h']]],
   ['bgp_5frtgt_5fmax_5fid_5fas2',['BGP_RTGT_MAX_ID_AS2',['../db/d4e/bgp__common_8h.html#a07b88e279abd614adef310782f1ed079',1,'bgp_common.h']]],
   ['bgp_5frtgt_5fmax_5fid_5fas4',['BGP_RTGT_MAX_ID_AS4',['../db/d4e/bgp__common_8h.html#a8c4114eb9a8413dc4b0589edf6f981ea',1,'bgp_common.h']]],

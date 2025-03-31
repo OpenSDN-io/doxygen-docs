@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d6/ddf/classBgpInstanceConfig.html#a5ad7c5bc6418ffa14c9a71f628bebcb6":[2,0,297,34],
 "d6/ddf/classBgpInstanceConfig.html#a5afed6fa1c6798b73c33ef6d50907912":[2,0,297,60],
 "d6/ddf/classBgpInstanceConfig.html#a5cdabf073116b26c635d76f49c269410":[2,0,297,35],
 "d6/ddf/classBgpInstanceConfig.html#a6145724ad695f9835e39d360fdb9be7d":[2,0,297,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a2eb15467a5a69a60f978e95593661a35":[2,0,361,0],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a9a53eaa0566f04c19b355855b63698c4":[2,0,361,3],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#adc480dd991ba75d7e4594809c8c38499":[2,0,361,2],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#adedc2058092fbda599f0c6b2a4b3fba4":[2,0,361,4],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#ae9a65e6909a1c12657d5c1f6c9de8261":[2,0,361,1]
+"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#adedc2058092fbda599f0c6b2a4b3fba4":[2,0,361,4]
 };

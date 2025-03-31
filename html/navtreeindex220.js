@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"df/d70/classDB.html#a2ef8d2c4b8ceef5522739bea01c022f5":[2,0,540,27],
 "df/d70/classDB.html#a3a78101a0eb478f81ec11ebcc789dc82":[2,0,540,1],
 "df/d70/classDB.html#a43ef17b4877134b401656f80dafb46b5":[2,0,540,36],
 "df/d70/classDB.html#a447afc86d1f31f0f064258bea0a2577b":[2,0,540,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "df/d8b/structClusterListSpec.html#afff1835c9ee2070c745384f0938972a2":[2,0,465,5],
 "df/d8c/classMirrorKState.html":[2,0,1157],
 "df/d8c/classMirrorKState.html#a0fe430fc8e2349484b38aef36f551159":[2,0,1157,4],
-"df/d8c/classMirrorKState.html#a3c2ec6ff2d9e30abe74174c9bdcb8d89":[2,0,1157,1],
-"df/d8c/classMirrorKState.html#a3fcd1cb9c1d294c16b161457bf9f1fe4":[2,0,1157,0]
+"df/d8c/classMirrorKState.html#a3c2ec6ff2d9e30abe74174c9bdcb8d89":[2,0,1157,1]
 };

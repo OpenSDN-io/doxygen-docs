@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d7/d22/classEcmpData.html#aadb6340eacb3e14f09a2ca60151c760a":[2,0,618,25],
 "d7/d22/classEcmpData.html#aaf8e38efa4f64469f7cce1e3934c1af9":[2,0,618,8],
 "d7/d22/classEcmpData.html#ab0d1059e7e3cf00ca524587b83977e52":[2,0,618,27],
 "d7/d22/classEcmpData.html#ab563a9bd95ca5763ceca599d87095703":[2,0,618,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199d":[2,0,1940,0,0],
 "d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199da0f4a28b5b66eb578540125ff276fe0bf":[2,0,1940,0,0,2],
 "d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199da7242970e0a4e1a2ff01edaab13f3e2a2":[2,0,1940,0,0,1],
-"d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199daa685a1978721e68c2fea8a9008315900":[2,0,1940,0,0,6],
-"d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199dae135fb024bca131fc54874385b75548f":[2,0,1940,0,0,4]
+"d7/d3f/structXmppStream_1_1XmppStrMessage.html#aba7a6e8ddc965057dccb65fa7eb5199daa685a1978721e68c2fea8a9008315900":[2,0,1940,0,0,6]
 };

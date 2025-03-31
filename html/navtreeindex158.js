@@ -1,5 +1,6 @@
 var NAVTREEINDEX158 =
 {
+"da/dfa/structOVSDB_1_1OvsdbClientIdl_1_1TxnStats.html":[2,0,20,13,1],
 "da/dfa/structOVSDB_1_1OvsdbClientIdl_1_1TxnStats.html#a038c87d9eabcb477eed402914bafa32d":[2,0,20,13,1,1],
 "da/dfa/structOVSDB_1_1OvsdbClientIdl_1_1TxnStats.html#a3b68ce17319846bab28599237c012c2d":[2,0,20,13,1,3],
 "da/dfa/structOVSDB_1_1OvsdbClientIdl_1_1TxnStats.html#abd3b4845f2577865acf5f605335d2f77":[2,0,20,13,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX158 =
 "db/d1d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__UserDelete.html#ab5870fc24ad4a6ecc4ba8bec0dfdb844":[2,0,11,9,30,0],
 "db/d1d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__UserDelete.html#af80722c12a4080d6013ca84f782aff16":[2,0,11,9,30,1],
 "db/d1d/interface__ksync_8h.html":[3,0,624],
-"db/d1d/interface__ksync_8h.html#a148d12dd7997ff98858d8304e2f11021":[3,0,624,3],
-"db/d1d/interface__ksync_8h.html#a2ad985dd3ca6ca1c0bf75a8d2dcff377":[3,0,624,2]
+"db/d1d/interface__ksync_8h.html#a148d12dd7997ff98858d8304e2f11021":[3,0,624,3]
 };

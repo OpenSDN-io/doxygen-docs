@@ -287,6 +287,7 @@ var searchData=
   ['bgp_5frouter_5fconfig_5f',['bgp_router_config_',['../dc/dff/classOperDB.html#a0de9dfb9c1f58ab8af1ac689d688de2b',1,'OperDB']]],
   ['bgp_5frouter_5fconfig_5flist_5f',['bgp_router_config_list_',['../d5/d0a/classConfigManager.html#a7f5c1be2d6f2e676523a53ecdad5f4b7',1,'ConfigManager']]],
   ['bgp_5frouter_5fconfig_5fname',['BGP_ROUTER_CONFIG_NAME',['../de/dee/bgp__as__service_8h.html#af8a767cc4f5ac51366bd252ebacc417c',1,'bgp_as_service.h']]],
+  ['bgp_5frouter_5fext_5ftype',['BGP_ROUTER_EXT_TYPE',['../d6/d40/bgp__router_8h.html#a1aa149219d3419bd48540259dd78391b',1,'bgp_router.h']]],
   ['bgp_5frouter_5fservice_5fflow',['bgp_router_service_flow',['../d5/d5e/classPktFlowInfo.html#a471d7f599de52f4aefdcb89d87395c12',1,'PktFlowInfo']]],
   ['bgp_5frouter_5ftree',['bgp_router_tree',['../de/d5b/classControlNodeZone.html#a42bcf2d1aa7696dd6d4d0377ee8256ce',1,'ControlNodeZone::bgp_router_tree()'],['../dd/dd1/classBgpRouterConfig.html#a08b19a73ad31593178717d8f9a8c2887',1,'BgpRouterConfig::bgp_router_tree()']]],
   ['bgp_5frouter_5ftree_5f',['bgp_router_tree_',['../de/d5b/classControlNodeZone.html#a0a1c32890e26ef884b9fb816133faaaf',1,'ControlNodeZone::bgp_router_tree_()'],['../dd/dd1/classBgpRouterConfig.html#ad475fe0abad019d5858fbb94936ec138',1,'BgpRouterConfig::bgp_router_tree_()']]],

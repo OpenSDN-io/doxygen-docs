@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d9/dfe/structAgentQosConfigData.html#a5c5f8614d58ab4076c39942ed718562b":[2,0,116,3],
 "d9/dfe/structAgentQosConfigData.html#a5cc651647ba6cd361c71104566ce524f":[2,0,116,6],
 "d9/dfe/structAgentQosConfigData.html#ab87e1bdae12c311de0c28c284614def7":[2,0,116,1],
 "d9/dfe/structAgentQosConfigData.html#ac995a13973e3260f0ae445de270ac22a":[2,0,116,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "da/d07/classBgpXmppChannel_1_1XmppPeer.html#af157bdacba53d898003f0393a90d6faf":[2,0,425,7,13],
 "da/d07/classBgpXmppChannel_1_1XmppPeer.html#af66d33673258cae9b765d91b7a31f264":[2,0,425,7,17],
 "da/d07/classBgpXmppChannel_1_1XmppPeer.html#afc6ab79a0f60f293420b3d0e72905505":[2,0,425,7,20],
-"da/d07/classBgpXmppChannel_1_1XmppPeer.html#afea8e868704012ae41eb3ed91796e7f8":[2,0,425,7,22],
-"da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html":[2,0,20,13,0]
+"da/d07/classBgpXmppChannel_1_1XmppPeer.html#afea8e868704012ae41eb3ed91796e7f8":[2,0,425,7,22]
 };

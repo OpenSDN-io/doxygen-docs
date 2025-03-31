@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a1627324040c26b725e71c515eb406d2e":[2,0,11,109,14],
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a16fa293e2dcde2808ac5cfe48d170f1b":[2,0,11,109,58],
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a186b2f3d1ecac8cb014a80decffb0946":[2,0,11,109,52],
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a1b78e6795490fcf9ba957add1f353a29":[2,0,11,109,47],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "de/dad/rtarget__table_8cc.html#af0382e8fb0fd285f9dc9797a5c186628":[3,0,1009,1],
 "de/dad/rtarget__table_8cc_source.html":[3,0,1009],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html":[2,0,973,4],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a45b6655a5f057a42021896c2a384d191":[2,0,973,4,4],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a6c996ba2076f750029dcd4a3a0a4c137":[2,0,973,4,2]
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#a45b6655a5f057a42021896c2a384d191":[2,0,973,4,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX159 =
 {
+"db/d1d/interface__ksync_8h.html#a2ad985dd3ca6ca1c0bf75a8d2dcff377":[3,0,624,2],
 "db/d1d/interface__ksync_8h.html#aaffd6eb1181b492c8662f4df2a62cfbe":[3,0,624,4],
 "db/d1d/interface__ksync_8h_source.html":[3,0,624],
 "db/d1e/bgp__origin__vn__path_8cc.html":[3,0,145],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "db/d26/classBgpServer.html#a9ec19ab5ea6edc0601c85f5bb6757f9c":[2,0,414,194],
 "db/d26/classBgpServer.html#a9f23123ef483f064d457b981903aeeca":[2,0,414,163],
 "db/d26/classBgpServer.html#aa2de5e21fc2298ef2234119872892584":[2,0,414,182],
-"db/d26/classBgpServer.html#aa4988f2203e0425c884bdf9de3f7deb8":[2,0,414,214],
-"db/d26/classBgpServer.html#aa4d0bdec50e213ad95aa929c40686ed7":[2,0,414,191]
+"db/d26/classBgpServer.html#aa4988f2203e0425c884bdf9de3f7deb8":[2,0,414,214]
 };

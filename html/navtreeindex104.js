@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#ae9a65e6909a1c12657d5c1f6c9de8261":[2,0,361,1],
 "d6/dee/classAgentOperDBTable.html":[2,0,108],
 "d6/dee/classAgentOperDBTable.html#a48e93a03a15c1df0e589d7059e7bb4f3":[2,0,108,3],
 "d6/dee/classAgentOperDBTable.html#a4bff3945a07eeff0292e904c9a78dbc8":[2,0,108,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a4fba9ba8dfa263c29e8373973be19be2":[2,0,20,10,26],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a4fdbf464e83706b16e09560144533db3":[2,0,20,10,9],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a58438521a62fe50a5a99d0101bc5caae":[2,0,20,10,22],
-"d6/dfe/classOVSDB_1_1OvsdbClient.html#a5b60c7b6509f17bbbebbb541f6b20a65":[2,0,20,10,24],
-"d6/dfe/classOVSDB_1_1OvsdbClient.html#a67ee15490f949ca86b65563c7f720eed":[2,0,20,10,18]
+"d6/dfe/classOVSDB_1_1OvsdbClient.html#a5b60c7b6509f17bbbebbb541f6b20a65":[2,0,20,10,24]
 };

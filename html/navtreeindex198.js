@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"dd/dcc/classRouteAggregator.html#a39c2c322fe5cd8ef360c8bb47c491347":[2,0,1436,45],
 "dd/dcc/classRouteAggregator.html#a472119f60e9afce2f5bdced6de044684":[2,0,1436,29],
 "dd/dcc/classRouteAggregator.html#a47d58eacbf09aa6de25bb7098e74fdfb":[2,0,1436,24],
 "dd/dcc/classRouteAggregator.html#a4caba30e63e025eea51b2bdd4af48b3d":[2,0,1436,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "dd/dd0/classIFMapDependencyManager.html#af245c8977187362c75d468007b4fccfe":[2,0,842,5],
 "dd/dd0/classIFMapDependencyManager.html#af5a6e444c33914da584bf14a4e9a80fd":[2,0,842,20],
 "dd/dd0/classIFMapDependencyManager.html#af7eeddd1dc61fa3eb0f00365382df970":[2,0,842,21],
-"dd/dd1/classBgpRouterConfig.html":[2,0,409],
-"dd/dd1/classBgpRouterConfig.html#a01bac05f34318907e66df2e0c8f8780d":[2,0,409,9]
+"dd/dd1/classBgpRouterConfig.html":[2,0,409]
 };

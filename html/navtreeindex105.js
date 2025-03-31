@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d6/dfe/classOVSDB_1_1OvsdbClient.html#a67ee15490f949ca86b65563c7f720eed":[2,0,20,10,18],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a6b90f5d645666f06048c019951e9a094":[2,0,20,10,25],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a74802a71f4446273f0cfec6e587853a0":[2,0,20,10,30],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a81d2ec802533e6fecff5a016721667c1":[2,0,20,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a449b5fac12e78cb72081f47ced21aa3a":[2,0,7,0,1,1,57],
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a54bb0adc27128989244d819ff710e213":[2,0,7,0,1,1,46],
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a597df809dc43fa52670276067b70e607":[2,0,7,0,1,1,63],
-"d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a5a976ffc0e9e521c019edf6621951713":[2,0,7,0,1,1,24],
-"d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a5bf3fc8bb45b053c91eb9ff92e7567d2":[2,0,7,0,1,1,25]
+"d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a5a976ffc0e9e521c019edf6621951713":[2,0,7,0,1,1,24]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"df/db0/classBgpIfmapGlobalSystemConfig.html#a62db381e83ee8b05f265942ac7d91147":[2,0,291,0],
 "df/db0/classBgpIfmapGlobalSystemConfig.html#afdcb01390a3b7f4116ad93eac8766bb3":[2,0,291,1],
 "df/db0/classDeleteFlowEventQueue.html":[2,0,565],
 "df/db0/classDeleteFlowEventQueue.html#a48e322cffc98392404851696d0bc2b81":[2,0,565,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "df/dc8/classConfigDbClient.html#a3ba378bfdbead414e6ad848ad7f72fef":[2,0,493,34],
 "df/dc8/classConfigDbClient.html#a3bdc158b5a8c925f57b7caae23ffc822":[2,0,493,9],
 "df/dc8/classConfigDbClient.html#a3fa3876b2ea450819ad53ef13e279b0c":[2,0,493,11],
-"df/dc8/classConfigDbClient.html#a44794ccf3b44bbafce6d57ff3ad05b6d":[2,0,493,17],
-"df/dc8/classConfigDbClient.html#a4993486eae73d2670bf5cb11d89080f3":[2,0,493,2]
+"df/dc8/classConfigDbClient.html#a44794ccf3b44bbafce6d57ff3ad05b6d":[2,0,493,17]
 };

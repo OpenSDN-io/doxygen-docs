@@ -1,5 +1,6 @@
 var NAVTREEINDEX211 =
 {
+"de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5eaf3b6017b4824a55f7febb09379e7f8e7":[2,0,475,0,2],
 "de/d9a/structVirtualGatewayInfo.html":[2,0,1775],
 "de/d9a/structVirtualGatewayInfo.html#a4bb0dc751237d8f8ff5c6eaf30df9ac1":[2,0,1775,4],
 "de/d9a/structVirtualGatewayInfo.html#a5a5bfa6f25de551133ae2645f627ad3e":[2,0,1775,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX211 =
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a03758bf34325c2661dfaf907332ca11e":[2,0,11,109,56],
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a07ac4fe8507bcafb84b1c530270205c9":[2,0,11,109,62],
 "de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a0fb13fd1484f78a1e750df527ad1d69f":[2,0,11,109,4],
-"de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a10545daba2e879eedeb07c0f26757283":[2,0,11,109,57],
-"de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a1627324040c26b725e71c515eb406d2e":[2,0,11,109,14]
+"de/da2/classetcdserverpb_1_1LeaseGrantResponse.html#a10545daba2e879eedeb07c0f26757283":[2,0,11,109,57]
 };

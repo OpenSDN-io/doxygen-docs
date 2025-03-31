@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"dd/daa/classVmStatData.html#aa273276ad98a3db104afabce48dba38b":[2,0,1813,2],
 "dd/daa/task__thread__api_8h.html":[3,0,1143],
 "dd/daa/task__thread__api_8h.html#a42cec9608fdc3c34bfdfc9bc8f245c5b":[3,0,1143,4],
 "dd/daa/task__thread__api_8h.html#a54446ea7ae759f819c569f625513b8be":[3,0,1143,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "dd/dcc/classRouteAggregator.html#a33b012f56dd6b3abbf6addd34ca88afe":[2,0,1436,20],
 "dd/dcc/classRouteAggregator.html#a33e73a13a1626fd8bda7976ee5d80f10":[2,0,1436,27],
 "dd/dcc/classRouteAggregator.html#a348cb3366fdff06ca1ca8d317e250cb8":[2,0,1436,33],
-"dd/dcc/classRouteAggregator.html#a3613f0dc0680c21b1dd288ac42665ae9":[2,0,1436,16],
-"dd/dcc/classRouteAggregator.html#a39c2c322fe5cd8ef360c8bb47c491347":[2,0,1436,45]
+"dd/dcc/classRouteAggregator.html#a3613f0dc0680c21b1dd288ac42665ae9":[2,0,1436,16]
 };

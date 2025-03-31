@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d6/d77/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserDelete.html#a0ea0d0041bfe7b5d06eefd7a8dbff8e1":[2,0,11,9,14,3],
 "d6/d77/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserDelete.html#a262322a19b949bda0a281661d428ee46":[2,0,11,9,14,0],
 "d6/d77/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserDelete.html#a48b7d415f0425d9c1d5ed40c2fcd2921":[2,0,11,9,14,4],
 "d6/d77/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserDelete.html#aab8b032b698c585a14e7996065a8d9f5":[2,0,11,9,14,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d6/d87/classetcdserverpb_1_1AuthRoleGrantPermissionResponse.html#aee2e2bc789a97170332b8c33ab868979":[2,0,11,160,42],
 "d6/d87/classetcdserverpb_1_1AuthRoleGrantPermissionResponse.html#aef493bdec57fe7bf57e96d06848657df":[2,0,11,160,23],
 "d6/d87/classetcdserverpb_1_1AuthRoleGrantPermissionResponse.html#afa3c4498ef8814e1958387f769a86cba":[2,0,11,160,21],
-"d6/d87/interface__stats__io__context_8h.html":[3,0,628],
-"d6/d87/interface__stats__io__context_8h_source.html":[3,0,628]
+"d6/d87/interface__stats__io__context_8h.html":[3,0,628]
 };
