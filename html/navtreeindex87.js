@@ -1,5 +1,8 @@
 var NAVTREEINDEX87 =
 {
+"d5/dcf/classBgpAttr.html#a91bdbfafedce3a172283dbe1a6edf2d1":[2,0,238,59],
+"d5/dcf/classBgpAttr.html#a93eb48bd4b27a9a09fa6f7e6e09db48d":[2,0,238,82],
+"d5/dcf/classBgpAttr.html#a9432e99a3a808e8466337247455b8e7e":[2,0,238,24],
 "d5/dcf/classBgpAttr.html#a956e2be03285f561bfcb58f654cecb7b":[2,0,238,94],
 "d5/dcf/classBgpAttr.html#a9e16337919376a076b77c4d297f9a17b":[2,0,238,96],
 "d5/dcf/classBgpAttr.html#a9e4b834e93274b974ede7977d561c41e":[2,0,238,39],
@@ -246,8 +249,5 @@ var NAVTREEINDEX87 =
 "d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba66ba1b5309aaf74a494717e115a24f9b":[2,0,1490,0,0,1],
 "d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba76db513a232ef8326e24c3dc96cb48dc":[2,0,1490,0,0,3],
 "d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba96aa00eb26dd5232fa2d77dd22e70748":[2,0,1490,0,0,0],
-"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0bacb542b0faa8bae9b8d3d29461ffa21a6":[2,0,1490,0,0,2],
-"d5/de2/classVnswInterfaceListenerBase_1_1VnDBState.html":[2,0,1835,3],
-"d5/de2/classVnswInterfaceListenerBase_1_1VnDBState.html#a0e6069696c5127f6765520bc9ffa36f7":[2,0,1835,3,1],
-"d5/de2/classVnswInterfaceListenerBase_1_1VnDBState.html#a62bafa02c8d70beeb117d92a4428ceb3":[2,0,1835,3,2]
+"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0bacb542b0faa8bae9b8d3d29461ffa21a6":[2,0,1490,0,0,2]
 };

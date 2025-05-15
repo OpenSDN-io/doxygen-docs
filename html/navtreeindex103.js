@@ -1,5 +1,8 @@
 var NAVTREEINDEX103 =
 {
+"d6/ddf/classBgpInstanceConfig.html#a4d9d328ed41bfc0eeaa79cb86ad4dd99":[2,0,297,1],
+"d6/ddf/classBgpInstanceConfig.html#a4ecc1f73c64b02cdfa04ac3f970be3b6":[2,0,297,38],
+"d6/ddf/classBgpInstanceConfig.html#a52b49231f1fb340f4b993cc616e83c36":[2,0,297,8],
 "d6/ddf/classBgpInstanceConfig.html#a5ad7c5bc6418ffa14c9a71f628bebcb6":[2,0,297,34],
 "d6/ddf/classBgpInstanceConfig.html#a5afed6fa1c6798b73c33ef6d50907912":[2,0,297,60],
 "d6/ddf/classBgpInstanceConfig.html#a5cdabf073116b26c635d76f49c269410":[2,0,297,35],
@@ -246,8 +249,5 @@ var NAVTREEINDEX103 =
 "d6/dec/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__Authenticate.html#a84ed1b7a21bc5d8eaaa0e75e57c0eb58":[2,0,11,9,37,2],
 "d6/dec/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__Authenticate.html#af3f81b2e97208d7596a7bd007472a350":[2,0,11,9,37,4],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html":[2,0,361],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a2eb15467a5a69a60f978e95593661a35":[2,0,361,0],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a9a53eaa0566f04c19b355855b63698c4":[2,0,361,3],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#adc480dd991ba75d7e4594809c8c38499":[2,0,361,2],
-"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#adedc2058092fbda599f0c6b2a4b3fba4":[2,0,361,4]
+"d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a2eb15467a5a69a60f978e95593661a35":[2,0,361,0]
 };

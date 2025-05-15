@@ -19,12 +19,14 @@
 <area shape="rect" id="node19" href="$d5/d70/classBgpGlobalSystemConfig.html#a2a8b2ad30c9b4b1fec5dde9e624494f9" title="BgpGlobalSystemConfig\l::set_rd_cluster_seed" alt="" coords="284,1075,463,1117"/>
 <area shape="rect" id="node20" href="$d5/d70/classBgpGlobalSystemConfig.html#a3d057456598d5c33b3a359156efcf370" title="BgpGlobalSystemConfig\l::xmpp_hold_time" alt="" coords="284,1141,463,1182"/>
 <area shape="rect" id="node21" href="$d5/d70/classBgpGlobalSystemConfig.html#a09bcc7980ddd4a2801daa61e4a12c236" title="BgpGlobalSystemConfig\l::set_xmpp_hold_time" alt="" coords="284,1206,463,1247"/>
-<area shape="rect" id="node22" href="$d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e" title="BgpGlobalSystemConfig\l::bgpaas_port_start" alt="" coords="523,1307,701,1349"/>
+<area shape="rect" id="node22" href="$d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e" title="BgpGlobalSystemConfig\l::bgpaas_port_start" alt="" coords="523,1294,701,1335"/>
 <area shape="rect" id="node23" href="$d5/d70/classBgpGlobalSystemConfig.html#ab92644fd54619c99a6443d5bcb734a67" title="BgpGlobalSystemConfig\l::set_bgpaas_port_start" alt="" coords="284,1323,463,1365"/>
-<area shape="rect" id="node24" href="$d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f" title="BgpGlobalSystemConfig\l::bgpaas_port_end" alt="" coords="523,1398,701,1439"/>
+<area shape="rect" id="node24" href="$d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f" title="BgpGlobalSystemConfig\l::bgpaas_port_end" alt="" coords="523,1411,701,1453"/>
 <area shape="rect" id="node25" href="$d5/d70/classBgpGlobalSystemConfig.html#a9d38c3b909a163b8834b3b45b948e7e1" title="BgpGlobalSystemConfig\l::set_bgpaas_port_end" alt="" coords="284,1441,463,1482"/>
 <area shape="rect" id="node26" href="$d5/d70/classBgpGlobalSystemConfig.html#a52379a03ace2cd949275cbfe70d7c36f" title="BgpGlobalSystemConfig\l::fc_enabled" alt="" coords="284,1506,463,1547"/>
 <area shape="rect" id="node27" href="$d5/d70/classBgpGlobalSystemConfig.html#a689eae40980364d35149f45bcc17a786" title="BgpGlobalSystemConfig\l::set_fc_enabled" alt="" coords="284,1571,463,1613"/>
 <area shape="rect" id="node28" href="$d5/d70/classBgpGlobalSystemConfig.html#a3316d587fd520fb09f61fd490f71fecf" title="BgpGlobalSystemConfig\l::nh_check_enabled" alt="" coords="284,1637,463,1678"/>
 <area shape="rect" id="node29" href="$d5/d70/classBgpGlobalSystemConfig.html#a9abb1bcb8cc46b696d0c3a9b79a7e199" title="BgpGlobalSystemConfig\l::set_nh_check_enabled" alt="" coords="284,1702,463,1743"/>
+<area shape="rect" id="node30" href="$d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912" title="BgpGlobalSystemConfig\l::all_tags_are_global" alt="" coords="523,1790,701,1831"/>
+<area shape="rect" id="node31" href="$d5/d70/classBgpGlobalSystemConfig.html#a0e40ce40f961af1551e075acd3399627" title="BgpGlobalSystemConfig\l::set_all_tags_are_global" alt="" coords="282,1819,465,1861"/>
 </map>

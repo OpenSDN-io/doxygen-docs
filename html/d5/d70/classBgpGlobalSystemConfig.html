@@ -183,6 +183,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a67c366e7baab43f93b0faedfdb98014f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d38c3b909a163b8834b3b45b948e7e1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a9d38c3b909a163b8834b3b45b948e7e1">set_bgpaas_port_end</a> (uint16_t <a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f">bgpaas_port_end</a>)</td></tr>
 <tr class="separator:a9d38c3b909a163b8834b3b45b948e7e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e22f30e1b4e8be2da043edb8b014912"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912">all_tags_are_global</a> () const </td></tr>
+<tr class="separator:a9e22f30e1b4e8be2da043edb8b014912"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e40ce40f961af1551e075acd3399627"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a0e40ce40f961af1551e075acd3399627">set_all_tags_are_global</a> (bool <a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912">all_tags_are_global</a>)</td></tr>
+<tr class="separator:a0e40ce40f961af1551e075acd3399627"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
@@ -226,6 +230,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ab45438531d8fa5794d87257708c14b91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8ea0a159ca3ce0dc9d08727311172c1a"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#a8ea0a159ca3ce0dc9d08727311172c1a">xmpp_hold_time_</a></td></tr>
 <tr class="separator:a8ea0a159ca3ce0dc9d08727311172c1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae90d674ef1d8703127820869f3d4e472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d70/classBgpGlobalSystemConfig.html#ae90d674ef1d8703127820869f3d4e472">all_tags_are_global_</a></td></tr>
+<tr class="separator:ae90d674ef1d8703127820869f3d4e472"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -277,11 +283,36 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00621">621</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00622">622</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="a9e22f30e1b4e8be2da043edb8b014912"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BgpGlobalSystemConfig::all_tags_are_global </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00676">676</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="a52bb208ce1986811d01b7769ece54398"></a>
 <div class="memitem">
 <div class="memproto">
@@ -303,7 +334,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00651">651</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00652">652</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -328,7 +359,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00671">671</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00672">672</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -353,7 +384,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00667">667</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00668">668</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -402,7 +433,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00637">637</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00638">638</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -427,7 +458,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00629">629</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00630">630</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -452,7 +483,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00639">639</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00640">640</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -477,7 +508,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00631">631</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00632">632</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -502,7 +533,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00635">635</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00636">636</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -527,7 +558,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00623">623</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00624">624</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -552,7 +583,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00633">633</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00634">634</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -577,7 +608,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00627">627</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00628">628</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -602,7 +633,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00625">625</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00626">626</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -627,7 +658,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00645">645</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00646">646</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -652,7 +683,42 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00661">661</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00662">662</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a0e40ce40f961af1551e075acd3399627"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void BgpGlobalSystemConfig::set_all_tags_are_global </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>all_tags_are_global</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00677">677</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d5/d70/classBgpGlobalSystemConfig_a0e40ce40f961af1551e075acd3399627_cgraph.png" border="0" usemap="#d5/d70/classBgpGlobalSystemConfig_a0e40ce40f961af1551e075acd3399627_cgraph" alt=""/></div>
+<map name="d5/d70/classBgpGlobalSystemConfig_a0e40ce40f961af1551e075acd3399627_cgraph" id="d5/d70/classBgpGlobalSystemConfig_a0e40ce40f961af1551e075acd3399627_cgraph">
+<area shape="rect" id="node2" href="../../d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912" title="BgpGlobalSystemConfig\l::all_tags_are_global" alt="" coords="237,5,416,46"/></map>
+</div>
+</p>
 
 </div>
 </div>
@@ -678,7 +744,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00652">652</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00653">653</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -713,7 +779,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00672">672</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00673">673</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -748,7 +814,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00668">668</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00669">669</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -783,7 +849,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00638">638</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00639">639</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -809,7 +875,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00630">630</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00631">631</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -835,7 +901,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00642">642</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00643">643</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -861,7 +927,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00632">632</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00633">633</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -887,7 +953,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00636">636</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00637">637</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -913,7 +979,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00624">624</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00625">625</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -948,7 +1014,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00634">634</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00635">635</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -974,7 +1040,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00628">628</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00629">629</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1000,7 +1066,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00626">626</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00627">627</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1035,7 +1101,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00648">648</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00649">649</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1061,7 +1127,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00664">664</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00665">665</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1087,7 +1153,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00658">658</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00659">659</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1112,11 +1178,33 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00655">655</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00656">656</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="ae90d674ef1d8703127820869f3d4e472"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BgpGlobalSystemConfig::all_tags_are_global_</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00696">696</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="a1220b181d8bb98fc1ba936e27182e9fe"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1135,7 +1223,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00688">688</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00693">693</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1157,7 +1245,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00685">685</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00690">690</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1179,7 +1267,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00684">684</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00689">689</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1201,7 +1289,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00683">683</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00688">688</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1223,7 +1311,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00679">679</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00684">684</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1245,7 +1333,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00686">686</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00691">691</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1267,7 +1355,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00681">681</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00686">686</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1289,7 +1377,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00680">680</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00685">685</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1311,7 +1399,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00677">677</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00682">682</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1333,7 +1421,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00682">682</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00687">687</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1377,7 +1465,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00676">676</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00681">681</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1399,7 +1487,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00678">678</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00683">683</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1421,7 +1509,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00687">687</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00692">692</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1443,7 +1531,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00689">689</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00694">694</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1465,7 +1553,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00690">690</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00695">695</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>

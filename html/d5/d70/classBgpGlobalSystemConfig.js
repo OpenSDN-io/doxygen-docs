@@ -2,6 +2,7 @@ var classBgpGlobalSystemConfig =
 [
     [ "BgpGlobalSystemConfig", "d5/d70/classBgpGlobalSystemConfig.html#a3e782b4750c86ce37cf86aa132bc5320", null ],
     [ "~BgpGlobalSystemConfig", "d5/d70/classBgpGlobalSystemConfig.html#ae5fa07f693b9aaca66bf4bf69796a133", null ],
+    [ "all_tags_are_global", "d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912", null ],
     [ "always_compare_med", "d5/d70/classBgpGlobalSystemConfig.html#a52bb208ce1986811d01b7769ece54398", null ],
     [ "bgpaas_port_end", "d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f", null ],
     [ "bgpaas_port_start", "d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e", null ],
@@ -17,6 +18,7 @@ var classBgpGlobalSystemConfig =
     [ "llgr_time", "d5/d70/classBgpGlobalSystemConfig.html#a81c35544aebe4a0fda8312a6ea98c9c1", null ],
     [ "nh_check_enabled", "d5/d70/classBgpGlobalSystemConfig.html#a3316d587fd520fb09f61fd490f71fecf", null ],
     [ "rd_cluster_seed", "d5/d70/classBgpGlobalSystemConfig.html#a9fd19411e3e5b83baa6fae5503a3bb2a", null ],
+    [ "set_all_tags_are_global", "d5/d70/classBgpGlobalSystemConfig.html#a0e40ce40f961af1551e075acd3399627", null ],
     [ "set_always_compare_med", "d5/d70/classBgpGlobalSystemConfig.html#a4008f6ba62c2c2445fcb996bd2b3b200", null ],
     [ "set_bgpaas_port_end", "d5/d70/classBgpGlobalSystemConfig.html#a9d38c3b909a163b8834b3b45b948e7e1", null ],
     [ "set_bgpaas_port_start", "d5/d70/classBgpGlobalSystemConfig.html#ab92644fd54619c99a6443d5bcb734a67", null ],
@@ -33,6 +35,7 @@ var classBgpGlobalSystemConfig =
     [ "set_rd_cluster_seed", "d5/d70/classBgpGlobalSystemConfig.html#a2a8b2ad30c9b4b1fec5dde9e624494f9", null ],
     [ "set_xmpp_hold_time", "d5/d70/classBgpGlobalSystemConfig.html#a09bcc7980ddd4a2801daa61e4a12c236", null ],
     [ "xmpp_hold_time", "d5/d70/classBgpGlobalSystemConfig.html#a3d057456598d5c33b3a359156efcf370", null ],
+    [ "all_tags_are_global_", "d5/d70/classBgpGlobalSystemConfig.html#ae90d674ef1d8703127820869f3d4e472", null ],
     [ "always_compare_med_", "d5/d70/classBgpGlobalSystemConfig.html#a1220b181d8bb98fc1ba936e27182e9fe", null ],
     [ "bgpaas_port_end_", "d5/d70/classBgpGlobalSystemConfig.html#ae00f197b0fc1f70ba71d2d25e92c6982", null ],
     [ "bgpaas_port_start_", "d5/d70/classBgpGlobalSystemConfig.html#a772609d275c424e02281b7c8900ee6c3", null ],

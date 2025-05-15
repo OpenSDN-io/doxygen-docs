@@ -22,14 +22,16 @@
 <area shape="rect" id="node22" href="$d5/d70/classBgpGlobalSystemConfig.html#a2a8b2ad30c9b4b1fec5dde9e624494f9" title="BgpGlobalSystemConfig\l::set_rd_cluster_seed" alt="" coords="285,1258,464,1299"/>
 <area shape="rect" id="node23" href="$d5/d70/classBgpGlobalSystemConfig.html#a3d057456598d5c33b3a359156efcf370" title="BgpGlobalSystemConfig\l::xmpp_hold_time" alt="" coords="285,1323,464,1365"/>
 <area shape="rect" id="node24" href="$d5/d70/classBgpGlobalSystemConfig.html#a09bcc7980ddd4a2801daa61e4a12c236" title="BgpGlobalSystemConfig\l::set_xmpp_hold_time" alt="" coords="285,1389,464,1430"/>
-<area shape="rect" id="node25" href="$d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e" title="BgpGlobalSystemConfig\l::bgpaas_port_start" alt="" coords="531,1477,709,1518"/>
-<area shape="rect" id="node26" href="$d5/d70/classBgpGlobalSystemConfig.html#ab92644fd54619c99a6443d5bcb734a67" title="BgpGlobalSystemConfig\l::set_bgpaas_port_start" alt="" coords="285,1506,464,1547"/>
-<area shape="rect" id="node27" href="$d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f" title="BgpGlobalSystemConfig\l::bgpaas_port_end" alt="" coords="531,1594,709,1635"/>
-<area shape="rect" id="node28" href="$d5/d70/classBgpGlobalSystemConfig.html#a9d38c3b909a163b8834b3b45b948e7e1" title="BgpGlobalSystemConfig\l::set_bgpaas_port_end" alt="" coords="285,1623,464,1665"/>
-<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="303,1689,446,1730"/>
-<area shape="rect" id="node30" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="272,1754,477,1795"/>
-<area shape="rect" id="node31" href="$de/ddf/classRoutingInstance.html#acc455c87f2c7dd66731987e3678209c9" title="RoutingInstance::LocatePeer\lManager" alt="" coords="271,1819,478,1861"/>
-<area shape="rect" id="node32" href="$d2/dc6/classPeerManager.html#ac710219d8e427cbd030bcbd01109b2a7" title="PeerManager::ClearAllPeers" alt="" coords="273,1885,476,1912"/>
-<area shape="rect" id="node34" href="$db/d26/classBgpServer.html#af6960437ff01d5e2d8f808dd8fd5b77d" title="BgpServer::ClearBgpaaSPeers" alt="" coords="267,1936,483,1963"/>
-<area shape="rect" id="node33" href="$d3/d2d/classBgpPeer.html#a62e09087183a4b4bbe3bcfb7df9f9d37" title="BgpPeer::Clear" alt="" coords="561,1885,679,1912"/>
+<area shape="rect" id="node25" href="$d5/d70/classBgpGlobalSystemConfig.html#a9e22f30e1b4e8be2da043edb8b014912" title="BgpGlobalSystemConfig\l::all_tags_are_global" alt="" coords="531,1477,709,1518"/>
+<area shape="rect" id="node26" href="$d5/d70/classBgpGlobalSystemConfig.html#a0e40ce40f961af1551e075acd3399627" title="BgpGlobalSystemConfig\l::set_all_tags_are_global" alt="" coords="283,1506,466,1547"/>
+<area shape="rect" id="node27" href="$d5/d70/classBgpGlobalSystemConfig.html#a94bd6df7b7515a6f90781047d0a64d2e" title="BgpGlobalSystemConfig\l::bgpaas_port_start" alt="" coords="531,1594,709,1635"/>
+<area shape="rect" id="node28" href="$d5/d70/classBgpGlobalSystemConfig.html#ab92644fd54619c99a6443d5bcb734a67" title="BgpGlobalSystemConfig\l::set_bgpaas_port_start" alt="" coords="285,1623,464,1665"/>
+<area shape="rect" id="node29" href="$d5/d70/classBgpGlobalSystemConfig.html#a67c366e7baab43f93b0faedfdb98014f" title="BgpGlobalSystemConfig\l::bgpaas_port_end" alt="" coords="531,1711,709,1753"/>
+<area shape="rect" id="node30" href="$d5/d70/classBgpGlobalSystemConfig.html#a9d38c3b909a163b8834b3b45b948e7e1" title="BgpGlobalSystemConfig\l::set_bgpaas_port_end" alt="" coords="285,1741,464,1782"/>
+<area shape="rect" id="node31" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="303,1806,446,1847"/>
+<area shape="rect" id="node32" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="272,1871,477,1913"/>
+<area shape="rect" id="node33" href="$de/ddf/classRoutingInstance.html#acc455c87f2c7dd66731987e3678209c9" title="RoutingInstance::LocatePeer\lManager" alt="" coords="271,1937,478,1978"/>
+<area shape="rect" id="node34" href="$d2/dc6/classPeerManager.html#ac710219d8e427cbd030bcbd01109b2a7" title="PeerManager::ClearAllPeers" alt="" coords="273,2003,476,2029"/>
+<area shape="rect" id="node36" href="$db/d26/classBgpServer.html#af6960437ff01d5e2d8f808dd8fd5b77d" title="BgpServer::ClearBgpaaSPeers" alt="" coords="267,2053,483,2080"/>
+<area shape="rect" id="node35" href="$d3/d2d/classBgpPeer.html#a62e09087183a4b4bbe3bcfb7df9f9d37" title="BgpPeer::Clear" alt="" coords="561,2003,679,2029"/>
 </map>

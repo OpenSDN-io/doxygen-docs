@@ -1,5 +1,8 @@
 var NAVTREEINDEX222 =
 {
+"df/d96/classSessionStatsCollector.html#af5501ce316daac0ad223135488ac94a9":[2,0,1586,78],
+"df/d96/classSessionStatsCollector.html#af5d212ff5b4df0b337d96f7abf431ef7":[2,0,1586,3],
+"df/d96/classSessionStatsCollector.html#aff9447f0c156cfe39a2fd912c7e6c31b":[2,0,1586,66],
 "df/d97/bfd__rest__common_8h.html":[3,0,84],
 "df/d97/bfd__rest__common_8h.html#a279702b1b55a82a823dbd31dbd556a33":[3,0,84,0],
 "df/d97/bfd__rest__common_8h.html#a2de89c7ab6af2157dacbadf9c7912a0e":[3,0,84,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX222 =
 "df/daf/classRouteFlowMgmtTree.html#a7e4c3d350832a3689a9060cb34861781":[2,0,1446,0],
 "df/daf/classRouteFlowMgmtTree.html#aab4339a3934133a8c6fd961bef00dbf0":[2,0,1446,2],
 "df/daf/classRouteFlowMgmtTree.html#ad87980f6f265048bd164553c9b133f15":[2,0,1446,3],
-"df/daf/classRouteFlowMgmtTree.html#ae59bf2aa944ca28ad04937daea00f61e":[2,0,1446,7],
-"df/daf/classRouteFlowMgmtTree.html#aea1292b7c5165c1df6b87e776183698b":[2,0,1446,4],
-"df/db0/classBgpIfmapGlobalSystemConfig.html":[2,0,291],
-"df/db0/classBgpIfmapGlobalSystemConfig.html#a42a8f09e6469432ce293af7863a83e42":[2,0,291,2]
+"df/daf/classRouteFlowMgmtTree.html#ae59bf2aa944ca28ad04937daea00f61e":[2,0,1446,7]
 };

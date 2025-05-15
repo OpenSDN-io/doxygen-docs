@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d6/d87/classetcdserverpb_1_1AuthRoleGrantPermissionResponse.html#aef493bdec57fe7bf57e96d06848657df":[2,0,11,160,23],
+"d6/d87/classetcdserverpb_1_1AuthRoleGrantPermissionResponse.html#afa3c4498ef8814e1958387f769a86cba":[2,0,11,160,21],
+"d6/d87/interface__stats__io__context_8h.html":[3,0,628],
 "d6/d87/interface__stats__io__context_8h_source.html":[3,0,628],
 "d6/d89/classAgentUtXmlLink.html":[2,0,154],
 "d6/d89/classAgentUtXmlLink.html#a246e1954a1b4cc358386b08f5777faa8":[2,0,154,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d6/d9c/classMulticastHandler.html#aeac7d7de90537558fa109da5dcd093c0":[2,0,1188,32],
 "d6/d9c/classMulticastHandler.html#af26f1f2f50d091afd07123439bdd36ad":[2,0,1188,60],
 "d6/d9c/classMulticastHandler.html#af7d2318c4f78d988ee8b3e1c178c2c3e":[2,0,1188,20],
-"d6/d9c/classMulticastHandler.html#af820b50bd1f5286095bd293ac5146d6c":[2,0,1188,48],
-"d6/d9c/classMulticastHandler.html#afbb415629a9ecb40f20cf77a33f240a2":[2,0,1188,75],
-"d6/d9c/classMulticastHandler.html#afddd92e5e3b2d7ead5feea6ec50e4ea9":[2,0,1188,67],
-"d6/d9c/classTask.html":[2,0,1691]
+"d6/d9c/classMulticastHandler.html#af820b50bd1f5286095bd293ac5146d6c":[2,0,1188,48]
 };

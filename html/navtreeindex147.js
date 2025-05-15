@@ -1,5 +1,8 @@
 var NAVTREEINDEX147 =
 {
+"da/d07/classBgpXmppChannel_1_1XmppPeer.html#af66d33673258cae9b765d91b7a31f264":[2,0,425,7,17],
+"da/d07/classBgpXmppChannel_1_1XmppPeer.html#afc6ab79a0f60f293420b3d0e72905505":[2,0,425,7,20],
+"da/d07/classBgpXmppChannel_1_1XmppPeer.html#afea8e868704012ae41eb3ed91796e7f8":[2,0,425,7,22],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html":[2,0,20,13,0],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html#a42e309ae7b2d4032fbf0a8b272d89235":[2,0,20,13,0,2],
 "da/d0a/structOVSDB_1_1OvsdbClientIdl_1_1OvsdbMsg.html#a956fddb52a1feb1b6d748dc096141655":[2,0,20,13,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX147 =
 "da/d13/classDnsHandler.html#a2eb8cf89e17508b1b8a2a3f83acad83b":[2,0,600,62],
 "da/d13/classDnsHandler.html#a331c00f4568555aa8309102a6e5ebe5f":[2,0,600,60],
 "da/d13/classDnsHandler.html#a3360dbb5533a2dfd6a58990b92bcdb9d":[2,0,600,29],
-"da/d13/classDnsHandler.html#a35ca5b6d80e5cf435d2f6ff8dbd9d37d":[2,0,600,68],
-"da/d13/classDnsHandler.html#a3672eaf168f26fc2053d541cf9f9f2c3":[2,0,600,49],
-"da/d13/classDnsHandler.html#a3d87b655d9419c7f7d92566bcbbc8f50":[2,0,600,9],
-"da/d13/classDnsHandler.html#a3f243a6a3f99670d4f638a1f5ebb0607":[2,0,600,21]
+"da/d13/classDnsHandler.html#a35ca5b6d80e5cf435d2f6ff8dbd9d37d":[2,0,600,68]
 };

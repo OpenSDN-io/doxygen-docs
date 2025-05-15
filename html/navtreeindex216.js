@@ -1,5 +1,8 @@
 var NAVTREEINDEX216 =
 {
+"de/df9/classTcpServer.html#a0be9eb4b7e87265b236dc34c1df20c23":[2,0,1710,72],
+"de/df9/classTcpServer.html#a0c1810b6ed658058e1e3675428fe6f9b":[2,0,1710,77],
+"de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb":[2,0,1710,55],
 "de/df9/classTcpServer.html#a17a5797895ec06eead1225dc43183a7f":[2,0,1710,15],
 "de/df9/classTcpServer.html#a1d5463bff742581d5d9646abac32f10e":[2,0,1710,28],
 "de/df9/classTcpServer.html#a21affe7db60b9785577ba8e98567228b":[2,0,1710,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX216 =
 "df/d13/classt__struct.html":[2,0,1676],
 "df/d13/classt__struct.html#a15e03a94c79f90c0637268832024a0e0":[2,0,1676,4],
 "df/d13/classt__struct.html#a199922531cd5acdbda5edafca83a241c":[2,0,1676,5],
-"df/d13/classt__struct.html#a1e7e709e473e8bed063b60607607eece":[2,0,1676,6],
-"df/d13/classt__struct.html#a37084cc84c5b5f0c0c1afa2b123f9920":[2,0,1676,11],
-"df/d13/classt__struct.html#a3b93df24a619d435f4ef3856b4473ce9":[2,0,1676,10],
-"df/d13/classt__struct.html#a67d57e4122927ff1f52bdf636020b8c1":[2,0,1676,1]
+"df/d13/classt__struct.html#a1e7e709e473e8bed063b60607607eece":[2,0,1676,6]
 };

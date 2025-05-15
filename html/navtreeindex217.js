@@ -1,5 +1,8 @@
 var NAVTREEINDEX217 =
 {
+"df/d13/classt__struct.html#a37084cc84c5b5f0c0c1afa2b123f9920":[2,0,1676,11],
+"df/d13/classt__struct.html#a3b93df24a619d435f4ef3856b4473ce9":[2,0,1676,10],
+"df/d13/classt__struct.html#a67d57e4122927ff1f52bdf636020b8c1":[2,0,1676,1],
 "df/d13/classt__struct.html#a6c329403d9c7e276601233a2413594df":[2,0,1676,13],
 "df/d13/classt__struct.html#a977673b698dda7c9382fd5f84a1e1812":[2,0,1676,8],
 "df/d13/classt__struct.html#aa5426eec017adc6316de65e36c722dd8":[2,0,1676,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX217 =
 "df/d33/classetcdserverpb_1_1AuthUserRevokeRoleResponseDefaultTypeInternal.html#a55111be7207802be7aae6fda5a1b8a89":[2,0,11,78,0],
 "df/d33/structxmsm_1_1EvOpenTimerExpired.html":[2,0,34,4],
 "df/d33/structxmsm_1_1EvOpenTimerExpired.html#a131c3080c7847b60da6cb394c63d3ddc":[2,0,34,4,0],
-"df/d35/classetcdserverpb_1_1Auth_1_1WithGenericMethod__RoleDelete.html":[2,0,11,9,23],
-"df/d35/classetcdserverpb_1_1Auth_1_1WithGenericMethod__RoleDelete.html#a161047314fcba7301d71a8a4a014a753":[2,0,11,9,23,0],
-"df/d35/classetcdserverpb_1_1Auth_1_1WithGenericMethod__RoleDelete.html#a71f63dec203bbd680a74fe3faa63433c":[2,0,11,9,23,3],
-"df/d35/classetcdserverpb_1_1Auth_1_1WithGenericMethod__RoleDelete.html#ac1eb886bd75d043a13e8ef8d428353f9":[2,0,11,9,23,1]
+"df/d35/classetcdserverpb_1_1Auth_1_1WithGenericMethod__RoleDelete.html":[2,0,11,9,23]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX99 =
 {
+"d6/da8/classInet6Prefix.html#aa8e8bbea825f6ad9f81120a1140d5ade":[2,0,903,2],
+"d6/da8/classInet6Prefix.html#aace02ab31bad5b6dc5b6d62d3e368be9":[2,0,903,13],
+"d6/da8/classInet6Prefix.html#ab522777ea9f8da506b74785ab23d5161":[2,0,903,17],
 "d6/da8/classInet6Prefix.html#ab5d43c5176d557fd3791de51478c7d15":[2,0,903,19],
 "d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df":[2,0,903,14],
 "d6/da8/classInet6Prefix.html#acd1c235487d917a110f760aa34bc2ce3":[2,0,903,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX99 =
 "d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92":[2,0,407,3],
 "d6/dbd/classBgpRoute.html#a92f2682d20c2ae31905fead7bcf78450":[2,0,407,4],
 "d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe":[2,0,407,30],
-"d6/dbd/classBgpRoute.html#a9f587c7b9dc8533a317b1bb3e2274f7e":[2,0,407,12],
-"d6/dbd/classBgpRoute.html#aa2e867e04e2e2fb6e4ef7572ce37f34d":[2,0,407,7],
-"d6/dbd/classBgpRoute.html#aa7dacaae172281136fa4e8b2777770b1":[2,0,407,27],
-"d6/dbd/classBgpRoute.html#ab15ef4e4dfd191557d5605ae8a918d2b":[2,0,407,28]
+"d6/dbd/classBgpRoute.html#a9f587c7b9dc8533a317b1bb3e2274f7e":[2,0,407,12]
 };
