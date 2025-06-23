@@ -1454,7 +1454,7 @@ var searchData=
   ['discardnhdata',['DiscardNHData',['../d4/dc6/classDiscardNHData.html',1,'DiscardNHData'],['../d4/dc6/classDiscardNHData.html#a5db18af221936a190d841582b7c03082',1,'DiscardNHData::DiscardNHData()']]],
   ['discardnhkey',['DiscardNHKey',['../d8/d3e/classDiscardNHKey.html',1,'DiscardNHKey'],['../d8/d3e/classDiscardNHKey.html#a3e0f2f30ada57f78967a70570c2b2fdb',1,'DiscardNHKey::DiscardNHKey()']]],
   ['discards',['discards',['../d3/dd0/structStatsManager_1_1VrfStats.html#af017a3092efa1c40fb01738e34da9aaf',1,'StatsManager::VrfStats']]],
-  ['disconnect',['DISCONNECT',['../dd/d68/classSandeshClientSM.html#a9c6b826274eda65e05d3b8a50633d5d7af86b1203ca1c6f2fa6ecc3ab7c5fc5fa',1,'SandeshClientSM::DISCONNECT()'],['../d0/df7/structscm_1_1Disconnect.html#aaeae754824988d4fd48674f2c113287a',1,'scm::Disconnect::Disconnect()'],['../df/def/classVNController.html#a7134baf0b240e588835ae1e2539a8246',1,'VNController::DisConnect()']]],
+  ['disconnect',['DISCONNECT',['../dd/d68/classSandeshClientSM.html#a9c6b826274eda65e05d3b8a50633d5d7af86b1203ca1c6f2fa6ecc3ab7c5fc5fa',1,'SandeshClientSM::DISCONNECT()'],['../df/def/classVNController.html#a7134baf0b240e588835ae1e2539a8246',1,'VNController::DisConnect()'],['../d0/df7/structscm_1_1Disconnect.html#aaeae754824988d4fd48674f2c113287a',1,'scm::Disconnect::Disconnect()']]],
   ['disconnect',['Disconnect',['../d0/df7/structscm_1_1Disconnect.html',1,'scm']]],
   ['disconnect_5f',['disconnect_',['../df/def/classVNController.html#a3e305e17af44fc24dbad4b3ad2f3debf',1,'VNController']]],
   ['disconnectcontrollerifmapserver',['DisConnectControllerIfmapServer',['../df/def/classVNController.html#ae41877c0df680f6fc66a7ac28539ce5b',1,'VNController']]],

@@ -68,7 +68,7 @@ var searchData=
   ['reach_5fcount_5f',['reach_count_',['../df/d5a/structRibOutUpdates_1_1Stats.html#a20f887120ca9618c59298c6b1067fff8',1,'RibOutUpdates::Stats']]],
   ['reachable_5ftime_5f',['reachable_time_',['../d5/da8/classNdpEntry.html#ac1de37c46b2a6c9c0bd010847ad28d5f',1,'NdpEntry']]],
   ['reachable_5ftimer_5f',['reachable_timer_',['../d5/da8/classNdpEntry.html#ac06a82edc7d783620837e1dae63cfd96',1,'NdpEntry']]],
-  ['read',['READ',['../db/d4b/classauthpb_1_1Permission.html#a1a7f05c76623fbd465d368122bd0dfd4',1,'authpb::Permission::READ()'],['../d7/d77/structsandesh__info__s.html#a4a3eba81b938a3d3a42cafeb9c47b04d',1,'sandesh_info_s::read()'],['../d6/dd5/struct__ThriftTransport.html#a9fd86afa9c4fd5cff523f312cf9480e8',1,'_ThriftTransport::read()']]],
+  ['read',['read',['../d7/d77/structsandesh__info__s.html#a4a3eba81b938a3d3a42cafeb9c47b04d',1,'sandesh_info_s::read()'],['../d6/dd5/struct__ThriftTransport.html#a9fd86afa9c4fd5cff523f312cf9480e8',1,'_ThriftTransport::read()'],['../db/d4b/classauthpb_1_1Permission.html#a1a7f05c76623fbd465d368122bd0dfd4',1,'authpb::Permission::READ()']]],
   ['read_5fbinary',['read_binary',['../d5/d17/struct__ThriftProtocol.html#ae2e3c0fa0ec4339423a856e5a0bc4968',1,'_ThriftProtocol']]],
   ['read_5fbinary_5ffrom_5fbuffer',['read_binary_from_buffer',['../d7/d77/structsandesh__info__s.html#a99f06ed2797049fd7e367bab33b393a7',1,'sandesh_info_s']]],
   ['read_5fblock_5fstart_5ftime',['read_block_start_time',['../d2/dfc/structio_1_1SocketStats.html#a9e6c6d08543eaff0f5077316e5f8eb69',1,'io::SocketStats']]],

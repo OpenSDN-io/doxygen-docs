@@ -1,5 +1,8 @@
 var NAVTREEINDEX87 =
 {
+"d5/dcf/classBgpAttr.html#a8cc5071cecad33efb75025734d173781":[2,0,238,73],
+"d5/dcf/classBgpAttr.html#a8cd05f48947a8ba8d60a850149a79a17":[2,0,238,51],
+"d5/dcf/classBgpAttr.html#a8facef9bf69dbbc26f4a23fa1960552d":[2,0,238,57],
 "d5/dcf/classBgpAttr.html#a91bdbfafedce3a172283dbe1a6edf2d1":[2,0,238,59],
 "d5/dcf/classBgpAttr.html#a93eb48bd4b27a9a09fa6f7e6e09db48d":[2,0,238,82],
 "d5/dcf/classBgpAttr.html#a9432e99a3a808e8466337247455b8e7e":[2,0,238,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX87 =
 "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#afed0c88dc943c5852cc01cd7f441a03a":[2,0,16,1,6],
 "d5/de1/structSandesh_1_1SandeshRole.html":[2,0,1490,0],
 "d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0b":[2,0,1490,0,0],
-"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba66ba1b5309aaf74a494717e115a24f9b":[2,0,1490,0,0,1],
-"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba76db513a232ef8326e24c3dc96cb48dc":[2,0,1490,0,0,3],
-"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba96aa00eb26dd5232fa2d77dd22e70748":[2,0,1490,0,0,0],
-"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0bacb542b0faa8bae9b8d3d29461ffa21a6":[2,0,1490,0,0,2]
+"d5/de1/structSandesh_1_1SandeshRole.html#a7319897fe11feb7022a5cacb6e4a6c0ba66ba1b5309aaf74a494717e115a24f9b":[2,0,1490,0,0,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX84 =
 {
+"d5/da1/classInterfaceKSyncObject.html":[2,0,948],
+"d5/da1/classInterfaceKSyncObject.html#a0cb4f6b20d4f3a3d2634dfbb8c403087":[2,0,948,10],
+"d5/da1/classInterfaceKSyncObject.html#a1c2d7bbca3d0fd1d46d91e89bf5ca810":[2,0,948,2],
 "d5/da1/classInterfaceKSyncObject.html#a31ad03fc9d4e4a0015e23f9084946604":[2,0,948,5],
 "d5/da1/classInterfaceKSyncObject.html#a5de484d398e94f836dc2ee1838ea49a0":[2,0,948,8],
 "d5/da1/classInterfaceKSyncObject.html#a6472fc3eed75e6afa994a9869d1fc787":[2,0,948,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX84 =
 "d5/da8/structPktInfo.html#a6fa8d862151b7712ede71fe4c5dc3c85":[2,0,1322,43],
 "d5/da8/structPktInfo.html#a70295e9e145716591036cb911f9f9679":[2,0,1322,58],
 "d5/da8/structPktInfo.html#a7437bca732f78c630caf19f2fefb49e6":[2,0,1322,52],
-"d5/da8/structPktInfo.html#a74c55428d3c17c05b8b95df4cad9ca4c":[2,0,1322,3],
-"d5/da8/structPktInfo.html#a76498bb0d3175427871fc647b94ba17a":[2,0,1322,15],
-"d5/da8/structPktInfo.html#a80e7dc1be11679d34710c7ac7cfbeb4f":[2,0,1322,4],
-"d5/da8/structPktInfo.html#a81538ab2560dc7e284038ad3f5e035d2":[2,0,1322,5]
+"d5/da8/structPktInfo.html#a74c55428d3c17c05b8b95df4cad9ca4c":[2,0,1322,3]
 };

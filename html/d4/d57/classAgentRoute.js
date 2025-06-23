@@ -50,6 +50,7 @@ var classAgentRoute =
     [ "IsLess", "d4/d57/classAgentRoute.html#afe06a79b9d5822ee56756dc94a6b294d", null ],
     [ "IsRPFInvalid", "d4/d57/classAgentRoute.html#ac47370a3f8ac235f31fece2bd84e61af", null ],
     [ "IsTunnelNHListEmpty", "d4/d57/classAgentRoute.html#a4eb12087c8f70246f9c1ed259cf1ff95", null ],
+    [ "origin_vn_name", "d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914", null ],
     [ "prefix_length", "d4/d57/classAgentRoute.html#ac00c6adb09d082b606de09701de88a63", null ],
     [ "ProcessPath", "d4/d57/classAgentRoute.html#a294905fa0d5d9eff7fb223174ffd4168", null ],
     [ "ReComputeMulticastPaths", "d4/d57/classAgentRoute.html#a1768e23407d804074cd2fd0601f05b54", null ],
@@ -60,6 +61,7 @@ var classAgentRoute =
     [ "RemoveUnresolvedRouteFromTable", "d4/d57/classAgentRoute.html#adebeb474c57d736b25e0841861799e99", null ],
     [ "ResyncTunnelNextHop", "d4/d57/classAgentRoute.html#a4921b2612b94baaae758b21abaa2e710", null ],
     [ "set_intf_route_type", "d4/d57/classAgentRoute.html#ad24e38808b35a23a1d457a562dd4d7b3", null ],
+    [ "set_origin_vn_name", "d4/d57/classAgentRoute.html#af1112c454faeaf1f71bba62ddd5e3b61", null ],
     [ "SetKey", "d4/d57/classAgentRoute.html#aae443f23e0219e5fbed5cb3fd009991c", null ],
     [ "SetVrf", "d4/d57/classAgentRoute.html#a56c5038b213d2b597cf01587a05374e6", null ],
     [ "SubOpAddChangeInput", "d4/d57/classAgentRoute.html#adf88a8dfe3761ad81cf74e41a6dd4516", null ],
@@ -77,5 +79,6 @@ var classAgentRoute =
     [ "dependent_route_table_", "d4/d57/classAgentRoute.html#aa8d49ce374435f9e8360f7caee431cc2", null ],
     [ "intf_route_type_", "d4/d57/classAgentRoute.html#a3037781f32bf32d6c209a2439620af6b", null ],
     [ "is_multicast_", "d4/d57/classAgentRoute.html#ab4d557340409fe8300b1bb107b40c232", null ],
+    [ "origin_vn_name_", "d4/d57/classAgentRoute.html#ad0ea3d61bea1f2fc3bb824d18575c8c4", null ],
     [ "vrf_", "d4/d57/classAgentRoute.html#a28ab5729b23d24205bec8d9f0eb0ab2e", null ]
 ];

@@ -1,5 +1,8 @@
 var NAVTREEINDEX136 =
 {
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ad744ad2978341261d178f8b67931e539":[2,0,11,145,60],
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#adb15a48ea5c07151f0a1d6900ef9495c":[2,0,11,145,18],
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ade3fbf34898d4866bfe60710587f7c3c":[2,0,11,145,34],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ae3b855ed73d90e06581a58c9e5ada631":[2,0,11,145,33],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#aed9f3fc43db1bc4f47a0e6b9864e643b":[2,0,11,145,7],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#af1038db7ea81232e93f0d01ba4aa3f77":[2,0,11,145,32],
@@ -246,8 +249,5 @@ var NAVTREEINDEX136 =
 "d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a05e3f19e7f16eaf6c4526593573dfc06":[2,0,11,136,21],
 "d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a0715d98dce5816596bd3ad76d6b51585":[2,0,11,136,53],
 "d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a080380be514b646476fbcfed03398120":[2,0,11,136,31],
-"d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a1d416973e4c2ca716a2ddeec554cbe47":[2,0,11,136,47],
-"d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a1ebe77b50503f5849aa1b671611d9d90":[2,0,11,136,29],
-"d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a2436ca8f063a77c065b3252e3e186b65":[2,0,11,136,16],
-"d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a24ca63066ffc4174cd1cbda9bbc69944":[2,0,11,136,41]
+"d9/d2b/classetcdserverpb_1_1AuthUserChangePasswordRequest.html#a1d416973e4c2ca716a2ddeec554cbe47":[2,0,11,136,47]
 };

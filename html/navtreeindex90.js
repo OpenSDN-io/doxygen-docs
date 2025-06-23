@@ -1,5 +1,8 @@
 var NAVTREEINDEX90 =
 {
+"d6/d09/classXmppConnectionManager.html#a6e7b756bdb060f1f2cafda94d7ff8c34":[2,0,1928,4],
+"d6/d09/classXmppConnectionManager.html#ad2684cfdee96a08699bbc2a7304a554a":[2,0,1928,3],
+"d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c":[2,0,1928,1],
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html":[2,0,11,111],
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a01eb3dc87e651db7c621022c3f30e094":[2,0,11,111,16],
 "d6/d09/classetcdserverpb_1_1LeaseRevokeResponse.html#a03c893507280aadc11052d9287138e81":[2,0,11,111,27],
@@ -246,8 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d16/classNHKSyncEntry.html#ae991e3ff4c9bc5f8e6cab79ab7ed88e8":[2,0,1232,17],
 "d6/d16/classNHKSyncEntry.html#aea3de869852b4b8853badfb58f2066e1":[2,0,1232,62],
 "d6/d16/classNHKSyncEntry.html#aebe6d8244e3b6b04b952ae6957c7932b":[2,0,1232,29],
-"d6/d16/classNHKSyncEntry.html#aee10b96045e7823452efad6b96532187":[2,0,1232,72],
-"d6/d16/classNHKSyncEntry.html#af1882d8cec538d1b424f0e9be7bfe991":[2,0,1232,65],
-"d6/d16/classNHKSyncEntry.html#af27a810d5e692951695b8bd3f5652160":[2,0,1232,19],
-"d6/d16/classNHKSyncEntry.html#afa3ef487c590c0e70572fe0d75542866":[2,0,1232,21]
+"d6/d16/classNHKSyncEntry.html#aee10b96045e7823452efad6b96532187":[2,0,1232,72]
 };

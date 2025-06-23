@@ -1,5 +1,8 @@
 var NAVTREEINDEX221 =
 {
+"df/d8b/structClusterListSpec.html#af4868d67af630487d71778a57129c575":[2,0,465,3],
+"df/d8b/structClusterListSpec.html#afe72edeaa278ace54d31b73a7872b9f5":[2,0,465,8],
+"df/d8b/structClusterListSpec.html#afff1835c9ee2070c745384f0938972a2":[2,0,465,5],
 "df/d8c/classMirrorKState.html":[2,0,1157],
 "df/d8c/classMirrorKState.html#a0fe430fc8e2349484b38aef36f551159":[2,0,1157,4],
 "df/d8c/classMirrorKState.html#a3c2ec6ff2d9e30abe74174c9bdcb8d89":[2,0,1157,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX221 =
 "df/d96/classSessionStatsCollector.html#aeb9bf1fdb9d6b5e8de6636e79cd8e606":[2,0,1586,15],
 "df/d96/classSessionStatsCollector.html#aecf2a32ebf13d17a85f0291e75931862":[2,0,1586,39],
 "df/d96/classSessionStatsCollector.html#aee7de6c10b5f02280c9cec82936b4587":[2,0,1586,41],
-"df/d96/classSessionStatsCollector.html#aef867efae0720752b9ce3a67024999bf":[2,0,1586,52],
-"df/d96/classSessionStatsCollector.html#af290ae83d84fe2e517f18cbff3f7816a":[2,0,1586,72],
-"df/d96/classSessionStatsCollector.html#af4312a03d608827ce21c69fb4541b88e":[2,0,1586,21],
-"df/d96/classSessionStatsCollector.html#af4c2ec296f2e57d15d6620a1bf33bad9":[2,0,1586,44]
+"df/d96/classSessionStatsCollector.html#aef867efae0720752b9ce3a67024999bf":[2,0,1586,52]
 };

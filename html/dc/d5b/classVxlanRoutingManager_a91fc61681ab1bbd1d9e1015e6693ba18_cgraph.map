@@ -11,18 +11,20 @@
 <area shape="rect" id="node17" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="331,573,453,600"/>
 <area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="343,624,441,651"/>
 <area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="320,675,464,701"/>
-<area shape="rect" id="node20" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="311,726,473,767"/>
+<area shape="rect" id="node20" href="$d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914" title="AgentRoute::origin\l_vn_name" alt="" coords="321,726,463,767"/>
+<area shape="rect" id="node21" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="321,792,463,819"/>
+<area shape="rect" id="node22" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="311,843,473,885"/>
 <area shape="rect" id="node3" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="568,56,709,83"/>
 <area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="576,5,701,32"/>
 <area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="551,107,727,133"/>
 <area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="782,107,986,133"/>
 <area shape="rect" id="node12" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="554,223,723,265"/>
 <area shape="rect" id="node16" href="$d6/dd4/classPeer.html#a5ec8cc00efa2aedd0ab9c468b2fcba55" title="Peer::GetName" alt="" coords="578,515,699,541"/>
-<area shape="rect" id="node21" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="567,759,711,785"/>
-<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="565,708,712,735"/>
-<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="812,781,956,822"/>
-<area shape="rect" id="node23" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="799,729,969,756"/>
-<area shape="rect" id="node24" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1035,679,1261,705"/>
-<area shape="rect" id="node25" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1085,729,1211,756"/>
-<area shape="rect" id="node26" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1060,780,1236,807"/>
+<area shape="rect" id="node23" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="567,876,711,903"/>
+<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="565,825,712,852"/>
+<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="812,898,956,939"/>
+<area shape="rect" id="node25" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="799,847,969,873"/>
+<area shape="rect" id="node26" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1035,796,1261,823"/>
+<area shape="rect" id="node27" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1085,847,1211,873"/>
+<area shape="rect" id="node28" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1060,897,1236,924"/>
 </map>
