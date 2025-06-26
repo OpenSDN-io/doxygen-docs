@@ -1,5 +1,6 @@
 var NAVTREEINDEX210 =
 {
+"de/d89/structBgpAsAService_1_1BgpAsAServiceEntry.html#a334372f59bb0f3cf7bffdf5b321db865":[2,0,231,0,12],
 "de/d89/structBgpAsAService_1_1BgpAsAServiceEntry.html#a3d4be09e207e9b882810fad350a17787":[2,0,231,0,18],
 "de/d89/structBgpAsAService_1_1BgpAsAServiceEntry.html#a40cb180bf62553443b1fd18bf16215ec":[2,0,231,0,24],
 "de/d89/structBgpAsAService_1_1BgpAsAServiceEntry.html#a5eeb245e35ca9b6c006fc4598b48f56e":[2,0,231,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX210 =
 "de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea3f16283cbd3803e3f74296cf7470cdf3":[2,0,475,0,12],
 "de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea4bf9b30cc4e62eeee30a3ded78ee8ec6":[2,0,475,0,8],
 "de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea5d96c2170cd40688986f866367f3d94f":[2,0,475,0,9],
-"de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea5e05f8cba72d7e8d899793d1da7a11e6":[2,0,475,0,6],
-"de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea68e96a1ba70d27ad6e4794c283744459":[2,0,475,0,7]
+"de/d98/structComposite.html#a4747d68b2bad61ba02a5223f77690d5ea5e05f8cba72d7e8d899793d1da7a11e6":[2,0,475,0,6]
 };

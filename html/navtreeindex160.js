@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"db/d26/classBgpServer.html#a9b7522cf8228ffb8ff2267b13b262fed":[2,0,414,130],
 "db/d26/classBgpServer.html#a9bec6da50d0b1dc2d1a7bc5d08559077":[2,0,414,74],
 "db/d26/classBgpServer.html#a9e2b54126c0465a70649b91d766a2856":[2,0,414,49],
 "db/d26/classBgpServer.html#a9ec19ab5ea6edc0601c85f5bb6757f9c":[2,0,414,194],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "db/d2f/classInet4UnicastGatewayRoute.html#a7c720b8d1dafc9998b52e115d04e9a1c":[2,0,900,6],
 "db/d2f/classInet4UnicastGatewayRoute.html#a93f0ebd3f973c70e89a75d0160f1b6e0":[2,0,900,11],
 "db/d2f/classInet4UnicastGatewayRoute.html#abc36333cc487b15c08dcda29b42ca31e":[2,0,900,7],
-"db/d2f/classInet4UnicastGatewayRoute.html#abc96b6027f8ab58336ba3011f669ac34":[2,0,900,2],
-"db/d2f/classInet4UnicastGatewayRoute.html#ac06171f94b1e9575c953cbfed5e80c53":[2,0,900,10]
+"db/d2f/classInet4UnicastGatewayRoute.html#abc96b6027f8ab58336ba3011f669ac34":[2,0,900,2]
 };

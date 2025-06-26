@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"dc/df2/classKSyncEntry.html#a9fcc2836a2b2fde8c6c6ec574361e8e1":[2,0,991,31],
 "dc/df2/classKSyncEntry.html#aa1c57be840f1f80786dbeacafe5d905d":[2,0,991,20],
 "dc/df2/classKSyncEntry.html#aa8ad6244800ba6a6cc129afba36504de":[2,0,991,52],
 "dc/df2/classKSyncEntry.html#aa8e931be33f94ae852499209dcb41d86":[2,0,991,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a22fe7d0019ddbacff06d0ecb7a091a44":[2,0,1060,0,2],
 "dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a29284ad93baf3c4aff6df17d038203b7":[2,0,1060,0,8],
 "dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a411c49ffe98b3a8beb2266cd6f802c4a":[2,0,1060,0,1],
-"dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a48be9280e525df7743bd9528b2348cb1":[2,0,1060,0,13],
-"dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a68d706aa8c7c669cbc30940925ee807b":[2,0,1060,0,6]
+"dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html#a48be9280e525df7743bd9528b2348cb1":[2,0,1060,0,13]
 };

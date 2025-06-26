@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"dc/d3f/agent__db_8cc.html#a70167d60f9eacaa8b435d4b5d52c4620":[3,0,14,1],
 "dc/d3f/agent__db_8cc.html#aee794b90118b3447172fcfe59405322e":[3,0,14,0],
 "dc/d3f/agent__db_8cc_source.html":[3,0,14],
 "dc/d40/message__builder_8h.html":[3,0,748],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "dc/d59/xmpp__str_8h.html":[3,0,1353],
 "dc/d59/xmpp__str_8h.html#a064e748ee03ae661b7c33b4647677b76":[3,0,1353,38],
 "dc/d59/xmpp__str_8h.html#a0d456c5eddb00bc9eebdd4c03d898bef":[3,0,1353,20],
-"dc/d59/xmpp__str_8h.html#a0d9d98267b09b892a911c8caf315559e":[3,0,1353,10],
-"dc/d59/xmpp__str_8h.html#a1a0c182bcb713b02be0ff4a2a0bc4cf4":[3,0,1353,25]
+"dc/d59/xmpp__str_8h.html#a0d9d98267b09b892a911c8caf315559e":[3,0,1353,10]
 };

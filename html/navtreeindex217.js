@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"df/d13/classt__struct.html":[2,0,1676],
 "df/d13/classt__struct.html#a15e03a94c79f90c0637268832024a0e0":[2,0,1676,4],
 "df/d13/classt__struct.html#a199922531cd5acdbda5edafca83a241c":[2,0,1676,5],
 "df/d13/classt__struct.html#a1e7e709e473e8bed063b60607607eece":[2,0,1676,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "df/d32/structRemoveQueueEntry.html#a89656009206ce4489f780e72bfa823d4":[2,0,1404,0],
 "df/d32/structRemoveQueueEntry.html#a96410b3658136580eb01c42b3632ddd2":[2,0,1404,2],
 "df/d32/structRemoveQueueEntry.html#a9feae16ef13463bea9c43d37a9095128":[2,0,1404,1],
-"df/d33/classetcdserverpb_1_1AuthUserRevokeRoleResponseDefaultTypeInternal.html":[2,0,11,78],
-"df/d33/classetcdserverpb_1_1AuthUserRevokeRoleResponseDefaultTypeInternal.html#a55111be7207802be7aae6fda5a1b8a89":[2,0,11,78,0]
+"df/d33/classetcdserverpb_1_1AuthUserRevokeRoleResponseDefaultTypeInternal.html":[2,0,11,78]
 };

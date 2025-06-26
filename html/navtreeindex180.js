@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"dc/d6b/classVrouterControlInterface.html#adbae8074ea348474f7af62e5f6db5562":[2,0,1880,10],
 "dc/d6b/classVrouterControlInterface.html#aefa4cd4e3789680b8da197770fb944f7":[2,0,1880,16],
 "dc/d6b/mac__learning__proto__handler_8h.html":[3,0,731],
 "dc/d6b/mac__learning__proto__handler_8h_source.html":[3,0,731],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "dc/d84/structIFMapObjectPtr.html#a50f84de7a59e1bec942dfbc168e7251fa9f0a3692eb3332b58df4e410ae696316":[2,0,861,0,0],
 "dc/d84/structIFMapObjectPtr.html#a50f84de7a59e1bec942dfbc168e7251faacc2d8af75ffb0e799077e46688536ea":[2,0,861,0,2],
 "dc/d84/structIFMapObjectPtr.html#a5661a4cd566698d44811b63a3d20f848":[2,0,861,4],
-"dc/d84/structIFMapObjectPtr.html#a9d201f537edd08f78fa7457c3357b850":[2,0,861,6],
-"dc/d84/structIFMapObjectPtr.html#a9e8b0ef7ab9103208c715a599321433f":[2,0,861,9]
+"dc/d84/structIFMapObjectPtr.html#a9d201f537edd08f78fa7457c3357b850":[2,0,861,6]
 };

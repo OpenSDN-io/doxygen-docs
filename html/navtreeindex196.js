@@ -1,5 +1,6 @@
 var NAVTREEINDEX196 =
 {
+"dd/d92/classOVSDB_1_1OvsdbClientSession.html#a60d34cbe660c44babcf83cc4418efd60":[2,0,20,14,15],
 "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a6a1b13b9cc9834f5c4ec10e13eb9361e":[2,0,20,14,18],
 "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a6c853fd6c6a0f44645857cc1b8df94e2":[2,0,20,14,8],
 "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a78e63e4d836b01fd0071fa119187d391":[2,0,20,14,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "dd/da9/structAgentDiagPktData.html#a686257d46ad9b62ea4f8c45176240831":[2,0,81,4],
 "dd/da9/structAgentDiagPktData.html#a7b4d94edb776cf69b5a971ba5d659575":[2,0,81,6],
 "dd/da9/structAgentDiagPktData.html#a977d6f9537674f1f894601ffe9d2cc8c":[2,0,81,3],
-"dd/da9/structAgentDiagPktData.html#aaabefd64c5410d2d20c676c3755042f6":[2,0,81,0],
-"dd/da9/structAgentDiagPktData.html#aaabefd64c5410d2d20c676c3755042f6a1953f145f5750f5d175184382647e71f":[2,0,81,0,0]
+"dd/da9/structAgentDiagPktData.html#aaabefd64c5410d2d20c676c3755042f6":[2,0,81,0]
 };

@@ -8,6 +8,7 @@ var classInetUnicastAgentRouteTable =
     [ "AddDropRoute", "da/dcd/classInetUnicastAgentRouteTable.html#ac97b3a25aa338d59acdf479489973bf7", null ],
     [ "AddEvpnRoute", "da/dcd/classInetUnicastAgentRouteTable.html#abb0b777259759c49784b9ad5aa92b21d", null ],
     [ "AddEvpnRoutingRoute", "da/dcd/classInetUnicastAgentRouteTable.html#a3f792e32a6c9c9c2c3ffa2f90cc32a4e", null ],
+    [ "AddEvpnRoutingRouteReq", "da/dcd/classInetUnicastAgentRouteTable.html#ab42f6343e4b8ffa1b00a4ae5377266a2", null ],
     [ "AddGatewayRoute", "da/dcd/classInetUnicastAgentRouteTable.html#ad19d376841d249ba861532445d62916f", null ],
     [ "AddGatewayRouteReq", "da/dcd/classInetUnicastAgentRouteTable.html#af0fb87f0d477af46b524d42d2c1d1316", null ],
     [ "AddHostRoute", "da/dcd/classInetUnicastAgentRouteTable.html#ae97a5d0d4be4a9b40e960b4496dd379d", null ],

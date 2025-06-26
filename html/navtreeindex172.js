@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"db/de3/classAgentSandeshManager.html#ae92cbe2cb33576f75c88eadf4145baa5":[2,0,132,7],
 "db/de3/classAgentSandeshManager.html#af046a78c627f926d23f75c7ec056d327":[2,0,132,9],
 "db/de3/classDomainConfig.html":[2,0,611],
 "db/de3/classDomainConfig.html#a0417e7d76304c83f5476ec91811b035c":[2,0,611,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a2e6f28bcd217b4beaef2ce3773ddcdd3":[2,0,311,0,0],
 "db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a87a99ee838689529ecd4534217c83416":[2,0,311,0,2],
 "db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#aa8f92e0c78debeb0b0cbbc5bcb36b76c":[2,0,311,0,3],
-"db/df6/structInterfaceUveTable_1_1UveSecurityPolicyStats.html":[2,0,959,8],
-"db/df6/structInterfaceUveTable_1_1UveSecurityPolicyStats.html#a056f595531328e2a38d2d73e3932f0a1":[2,0,959,8,17]
+"db/df6/structInterfaceUveTable_1_1UveSecurityPolicyStats.html":[2,0,959,8]
 };
