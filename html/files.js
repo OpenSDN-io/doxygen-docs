@@ -1875,6 +1875,7 @@ var files =
       [ "SessionData", "dc/df0/structMetadataProxy_1_1SessionData.html", "dc/df0/structMetadataProxy_1_1SessionData" ],
       [ "MetadataStats", "da/d69/structMetadataProxy_1_1MetadataStats.html", "da/d69/structMetadataProxy_1_1MetadataStats" ]
     ] ],
+    [ "metadata_proxy_extern.h", "d8/dc6/metadata__proxy__extern_8h.html", "d8/dc6/metadata__proxy__extern_8h" ],
     [ "metadata_proxy_ip6.cc", "d4/db5/metadata__proxy__ip6_8cc.html", null ],
     [ "metadata_server.h", "d2/dcd/metadata__server_8h.html", [
       [ "MetadataServer", "d7/ddd/classMetadataServer.html", "d7/ddd/classMetadataServer" ]

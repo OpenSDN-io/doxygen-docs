@@ -38,6 +38,7 @@ var searchData=
   ['metadata_5fip_2eh',['metadata_ip.h',['../d9/d4e/metadata__ip_8h.html',1,'']]],
   ['metadata_5fproxy_2ecc',['metadata_proxy.cc',['../d7/d8d/metadata__proxy_8cc.html',1,'']]],
   ['metadata_5fproxy_2eh',['metadata_proxy.h',['../d9/d26/metadata__proxy_8h.html',1,'']]],
+  ['metadata_5fproxy_5fextern_2eh',['metadata_proxy_extern.h',['../d8/dc6/metadata__proxy__extern_8h.html',1,'']]],
   ['metadata_5fproxy_5fip6_2ecc',['metadata_proxy_ip6.cc',['../d4/db5/metadata__proxy__ip6_8cc.html',1,'']]],
   ['metadata_5fserver_2eh',['metadata_server.h',['../d2/dcd/metadata__server_8h.html',1,'']]],
   ['metadata_5fserver_5fsession_2eh',['metadata_server_session.h',['../d5/dca/metadata__server__session_8h.html',1,'']]],
