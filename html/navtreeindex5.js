@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"d0/d64/classXmppConnection.html#a7910fb2f07bd25a86cd60f9c014fe2dc":[2,0,1926,126],
 "d0/d64/classXmppConnection.html#a79569cc806dc76091244b14a4af1ac39":[2,0,1926,65],
 "d0/d64/classXmppConnection.html#a7a2496437fe4657759afe4d8bb10998b":[2,0,1926,33],
 "d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3":[2,0,1926,103],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "d0/d72/vnswif__listener__base__nix_8h_source.html":[3,0,1269],
 "d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html":[2,0,8,0,2,7],
 "d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html#a0685419642ab1d7f957b106f29b7949f":[2,0,8,0,2,7,0],
-"d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html#a22b70626b08963260646f6db86976e7d":[2,0,8,0,2,7,5]
+"d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html#a22b70626b08963260646f6db86976e7d":[2,0,8,0,2,7,5],
+"d0/d74/classcontrail_1_1sandesh_1_1transport_1_1TVirtualTransport.html#a3175bb6853d5dc1bb0a73c8a25594eae":[2,0,8,0,2,7,1]
 };

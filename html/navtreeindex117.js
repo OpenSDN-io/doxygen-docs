@@ -1,6 +1,5 @@
 var NAVTREEINDEX117 =
 {
-"d7/dd3/structBgpAsAService_1_1BgpAsAServiceList.html#af1d8e93e5f581edc0d5b9027277a2189":[2,0,231,1,0],
 "d7/dd4/classAgentSecurityLoggingObjectSandesh.html":[2,0,133],
 "d7/dd4/classAgentSecurityLoggingObjectSandesh.html#a040d2f26b01dc51fba8d977e51c0d437":[2,0,133,0],
 "d7/dd4/classAgentSecurityLoggingObjectSandesh.html#a2cf4e625a1950e1e4b15fc3e8849285a":[2,0,133,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX117 =
 "d7/ded/classResourceSandeshMaps.html#aa83c687d5554ed1790ed2ccbaa11d026":[2,0,1423,48],
 "d7/ded/classResourceSandeshMaps.html#ab53fe1b0483a15b4e7d2ad230af59b71":[2,0,1423,30],
 "d7/ded/classResourceSandeshMaps.html#abad6be8775831bda52fe79c67a1c035d":[2,0,1423,17],
-"d7/ded/classResourceSandeshMaps.html#abbc9a2d37d726add72f322287c380f19":[2,0,1423,26]
+"d7/ded/classResourceSandeshMaps.html#abbc9a2d37d726add72f322287c380f19":[2,0,1423,26],
+"d7/ded/classResourceSandeshMaps.html#abdec11d3025d554b09d42650ef898ea3":[2,0,1423,45]
 };

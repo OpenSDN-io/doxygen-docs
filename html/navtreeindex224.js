@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"df/dc6/classVirtualGatewayConfig.html#a1764cc36907e119692ecbf4b4fa1c2fc":[2,0,1772,6],
 "df/dc6/classVirtualGatewayConfig.html#a21af702dc984fe85b137268e42b8e3d2":[2,0,1772,20],
 "df/dc6/classVirtualGatewayConfig.html#a25102bf39edf211dde4d87f5ed0d244d":[2,0,1772,18],
 "df/dc6/classVirtualGatewayConfig.html#a27104911645fca6c25bf74190131caff":[2,0,1772,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "df/ddb/classPeerCloseManager.html#af72d8d3bf11262b64a7b37ad09dedf1e":[2,0,1295,53],
 "df/ddb/classPeerCloseManager.html#af8d69e9cc26ef54eada2578df1df0645":[2,0,1295,8],
 "df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960b":[2,0,1295,4],
-"df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba22bc32e352d3b5fc1c2c19410c909b1b":[2,0,1295,4,8]
+"df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba22bc32e352d3b5fc1c2c19410c909b1b":[2,0,1295,4,8],
+"df/ddb/classPeerCloseManager.html#af90dab4708d24f7ec58197928504960ba2f42f58071171dd7cf0ab9ab17b127b9":[2,0,1295,4,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"dd/d37/structgmpr__host__group__.html#a2f0659faecb884037305c3ccb582f61a":[2,0,783,10],
 "dd/d37/structgmpr__host__group__.html#a33eb93a199edc29e27a9a56887c25678":[2,0,783,6],
 "dd/d37/structgmpr__host__group__.html#a3cec98492445ec9ce6dd62af0842d1bb":[2,0,783,2],
 "dd/d37/structgmpr__host__group__.html#a5d289cff6e20983c4dc21425cfcc1bd2":[2,0,783,1],
@@ -53,8 +52,8 @@ var NAVTREEINDEX191 =
 "dd/d38/inet6vpn__table_8cc.html#a98ec2c041c7c90ef76d3cf3b325a07fd":[3,0,597,1],
 "dd/d38/inet6vpn__table_8cc.html#af0382e8fb0fd285f9dc9797a5c186628":[3,0,597,2],
 "dd/d38/inet6vpn__table_8cc_source.html":[3,0,597],
-"dd/d39/namespacedetail.html":[1,0,9],
 "dd/d39/namespacedetail.html":[2,0,9],
+"dd/d39/namespacedetail.html":[1,0,9],
 "dd/d3a/xmpp__server_8cc.html":[3,0,1346],
 "dd/d3a/xmpp__server_8cc.html#ae075fcbd4f4921fe35f09bc8b75e5775":[3,0,1346,5],
 "dd/d3a/xmpp__server_8cc_source.html":[3,0,1346],
@@ -249,5 +248,6 @@ var NAVTREEINDEX191 =
 "dd/d43/classXmppServer.html#afa98ed3c4d9ddde7cad94e0a132f9f5b":[2,0,1933,54],
 "dd/d43/classXmppServer.html#afc24183a0f8e000b613f5d650bd40b9e":[2,0,1933,29],
 "dd/d43/classXmppServer.html#afc8da8fd961841cc4d35b0a46087fae6":[2,0,1933,26],
-"dd/d43/classXmppServer.html#afedc716ac9cc6c4e58565ab4f10806d5":[2,0,1933,1]
+"dd/d43/classXmppServer.html#afedc716ac9cc6c4e58565ab4f10806d5":[2,0,1933,1],
+"dd/d43/classXmppServer.html#affeeea4ff8d340f13800e255ff79f62b":[2,0,1933,5]
 };

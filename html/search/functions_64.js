@@ -631,7 +631,7 @@ var searchData=
   ['discardnh',['DiscardNH',['../d4/d62/classDiscardNH.html#a37b24b1e383f90acfcdb6495f30ded65',1,'DiscardNH']]],
   ['discardnhdata',['DiscardNHData',['../d4/dc6/classDiscardNHData.html#a5db18af221936a190d841582b7c03082',1,'DiscardNHData']]],
   ['discardnhkey',['DiscardNHKey',['../d8/d3e/classDiscardNHKey.html#a3e0f2f30ada57f78967a70570c2b2fdb',1,'DiscardNHKey']]],
-  ['disconnect',['DisConnect',['../df/def/classVNController.html#a7134baf0b240e588835ae1e2539a8246',1,'VNController::DisConnect()'],['../d0/df7/structscm_1_1Disconnect.html#aaeae754824988d4fd48674f2c113287a',1,'scm::Disconnect::Disconnect()']]],
+  ['disconnect',['Disconnect',['../d0/df7/structscm_1_1Disconnect.html#aaeae754824988d4fd48674f2c113287a',1,'scm::Disconnect::Disconnect()'],['../df/def/classVNController.html#a7134baf0b240e588835ae1e2539a8246',1,'VNController::DisConnect()']]],
   ['disconnectcontrollerifmapserver',['DisConnectControllerIfmapServer',['../df/def/classVNController.html#ae41877c0df680f6fc66a7ac28539ce5b',1,'VNController']]],
   ['disconnectdnsserver',['DisConnectDnsServer',['../df/def/classVNController.html#a10ce3ab9ecc77f1466aa27eeedee2e00',1,'VNController']]],
   ['disconnectschemasync',['DisconnectSchemaSync',['../d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a0ca4a256689d6e3128fefa7cceb3d12c',1,'cass::cql::CqlIfImpl']]],

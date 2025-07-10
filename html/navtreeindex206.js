@@ -1,6 +1,5 @@
 var NAVTREEINDEX206 =
 {
-"de/d44/classBgpPathAttributeAggregator.html#a4083f611bc8d24e1a6ca434d8b23a249":[2,0,341,2],
 "de/d44/classBgpPathAttributeAggregator.html#a44543d52bdba2b040cdc9cbffa46d882":[2,0,341,1],
 "de/d44/classBgpPathAttributeAggregator.html#a54e646698b2181c4d5beed8e091d5182":[2,0,341,0],
 "de/d44/classRouteState.html":[2,0,1458],
@@ -249,5 +248,6 @@ var NAVTREEINDEX206 =
 "de/d5d/structBFD_1_1REST_1_1JsonStateNotification.html#aba66b57791a477a90d904cc28747aa52":[2,0,4,0,3,1],
 "de/d5d/structBFD_1_1REST_1_1JsonStateNotification.html#acf0b876d37ade36cde936210290c8295":[2,0,4,0,3,2],
 "de/d5e/structShowIFMapUpdateQueue_1_1TrackerData.html":[2,0,1605,1],
-"de/d5e/structShowIFMapUpdateQueue_1_1TrackerData.html#a218c029d3bac881412a56af5910393fe":[2,0,1605,1,1]
+"de/d5e/structShowIFMapUpdateQueue_1_1TrackerData.html#a218c029d3bac881412a56af5910393fe":[2,0,1605,1,1],
+"de/d5e/structShowIFMapUpdateQueue_1_1TrackerData.html#a408f5bb77721e5a0ce654b05c3fb3296":[2,0,1605,1,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d4/dc3/classBgpAf.html#a8dc4963e2376427a25a495fdcf6159a6a7cd1f9080c99003898355602bbcebfcd":[2,0,230,1,6],
 "d4/dc3/classBgpAf.html#a8dc4963e2376427a25a495fdcf6159a6a9099fbe015cf4e60f4a8cec9d08f9237":[2,0,230,1,4],
 "d4/dc3/classBgpAf.html#a8dc4963e2376427a25a495fdcf6159a6a9291bbeae93060c4a6c72b6774b27a18":[2,0,230,1,1],
 "d4/dc3/classBgpAf.html#a8dc4963e2376427a25a495fdcf6159a6a948b4ac1b6b7b434d85403d0ecaea4f2":[2,0,230,1,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX68 =
 "d4/dd3/classNexthopDBEntry.html#af5f374731415209625113ec09bb83d82":[2,0,1219,11],
 "d4/dd3/classNexthopDBEntry.html#af779b816f31c2888b2f47323368bb659":[2,0,1219,4],
 "d4/dd3/structShowIFMapPendingVmReg_1_1TrackerData.html":[2,0,1601,1],
-"d4/dd3/structShowIFMapPendingVmReg_1_1TrackerData.html#a6f40bfd53aaa67d9373978341d6ec4d6":[2,0,1601,1,0]
+"d4/dd3/structShowIFMapPendingVmReg_1_1TrackerData.html#a6f40bfd53aaa67d9373978341d6ec4d6":[2,0,1601,1,0],
+"d4/dd3/structShowIFMapPendingVmReg_1_1TrackerData.html#a97a043f2ab427960db972b5890a2d93f":[2,0,1601,1,1]
 };

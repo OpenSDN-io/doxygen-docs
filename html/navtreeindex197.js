@@ -1,6 +1,5 @@
 var NAVTREEINDEX197 =
 {
-"dd/da3/classForwardingClassTable.html#a20df30acdfe0eaf05354be70c113e0d9":[2,0,740,9],
 "dd/da3/classForwardingClassTable.html#a54f1fe53c56a8d80c128f02c5a35d967":[2,0,740,1],
 "dd/da3/classForwardingClassTable.html#a55817a451dc1a51c45fc3b5d7af4b8be":[2,0,740,8],
 "dd/da3/classForwardingClassTable.html#a76b630f403e7f8977c4f8d2351676e75":[2,0,740,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX197 =
 "dd/dc4/structBgpOListSpec.html#a79a41c483d8f327b2128115923ac8239":[2,0,319,5],
 "dd/dc4/structBgpOListSpec.html#ad69ca2bd8348cf1eecff26f8e5629c9e":[2,0,319,6],
 "dd/dc4/structBgpOListSpec.html#af18514f7c686387812d7dd387c89c705":[2,0,319,7],
-"dd/dc5/classBgpNotificationMessage.html":[2,0,312]
+"dd/dc5/classBgpNotificationMessage.html":[2,0,312],
+"dd/dc5/classBgpNotificationMessage.html#a743e2b098da26f34b43e0adc381ca8d8":[2,0,312,0]
 };

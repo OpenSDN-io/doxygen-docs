@@ -1,6 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a43c321fbd8f9bf006da4f22453af919a":[2,0,7,0,1,1,76],
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a43c32a50861c98a4bc194db696b694e3":[2,0,7,0,1,1,30],
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a449b5fac12e78cb72081f47ced21aa3a":[2,0,7,0,1,1,57],
 "d7/d12/classcass_1_1cql_1_1interface_1_1CassDatastaxLibrary.html#a54bb0adc27128989244d819ff710e213":[2,0,7,0,1,1,46],
@@ -249,5 +248,6 @@ var NAVTREEINDEX106 =
 "d7/d22/classEcmpData.html#a55d30c65e763ea86843bf6de21164004":[2,0,618,4],
 "d7/d22/classEcmpData.html#a5689aa8f379dfbe46526053485c4c527":[2,0,618,2],
 "d7/d22/classEcmpData.html#a62be98b139412c7c7bc64fb2750127f1":[2,0,618,15],
-"d7/d22/classEcmpData.html#a6bb61b5cf4d7c5e4911bbb9d6d757aec":[2,0,618,5]
+"d7/d22/classEcmpData.html#a6bb61b5cf4d7c5e4911bbb9d6d757aec":[2,0,618,5],
+"d7/d22/classEcmpData.html#a7a1630097e2e348d112c63e7ffe41d51":[2,0,618,17]
 };

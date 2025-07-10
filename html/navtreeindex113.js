@@ -1,6 +1,5 @@
 var NAVTREEINDEX113 =
 {
-"d7/d9a/classAgentUtXmlPacketUtils.html#a9c792737f8e49120858fb161b4fa3f76":[2,0,158,25],
 "d7/d9a/classAgentUtXmlPacketUtils.html#aac946a2687c19820a47ad285e91215bc":[2,0,158,19],
 "d7/d9a/classAgentUtXmlPacketUtils.html#ab3bd75826c43c783857fa8fc55727566":[2,0,158,29],
 "d7/d9a/classAgentUtXmlPacketUtils.html#ab7a4af590d9fc545f4b82025368308ca":[2,0,158,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX113 =
 "d7/db3/classDnsConfigManager.html#a1dc67e1cbc23abaacd654b09937f4dd4":[2,0,598,32],
 "d7/db3/classDnsConfigManager.html#a29ceb86f1eb592d8b4634a485d27a508":[2,0,598,18],
 "d7/db3/classDnsConfigManager.html#a2edc1daf50e5f2f2d37ef41b70d9a667":[2,0,598,5],
-"d7/db3/classDnsConfigManager.html#a4259d7a381a9c1a4670b8b76e7d9a60d":[2,0,598,11]
+"d7/db3/classDnsConfigManager.html#a4259d7a381a9c1a4670b8b76e7d9a60d":[2,0,598,11],
+"d7/db3/classDnsConfigManager.html#a4493e3b5305855d6b3fea40b4532122d":[2,0,598,24]
 };

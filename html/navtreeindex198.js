@@ -1,6 +1,5 @@
 var NAVTREEINDEX198 =
 {
-"dd/dc5/classBgpNotificationMessage.html#a743e2b098da26f34b43e0adc381ca8d8":[2,0,312,0],
 "dd/dc5/classBgpNotificationMessage.html#ab13f36d4bff177e18831702f45bedccf":[2,0,312,1],
 "dd/dc7/map__util_8h.html":[3,0,744],
 "dd/dc7/map__util_8h.html#a14552d3a849ca6ec91e3d1c28b58126a":[3,0,744,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX198 =
 "dd/dd0/classIFMapDependencyManager.html#a0945bbe389f298558dd889d68bd2c8ec":[2,0,842,13],
 "dd/dd0/classIFMapDependencyManager.html#a10f2d65d7f4a8e4bc7cecc7fb448c83d":[2,0,842,27],
 "dd/dd0/classIFMapDependencyManager.html#a205a5ff4526433247befe1cbcbcaf2aa":[2,0,842,33],
-"dd/dd0/classIFMapDependencyManager.html#a20c798afaef04d64c38f2f957c380b60":[2,0,842,17]
+"dd/dd0/classIFMapDependencyManager.html#a20c798afaef04d64c38f2f957c380b60":[2,0,842,17],
+"dd/dd0/classIFMapDependencyManager.html#a33b75fecab02fa98dfae3685cd4592e6":[2,0,842,11]
 };

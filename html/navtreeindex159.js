@@ -1,6 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"db/d14/structprocess_1_1CompareConnections.html":[2,0,22,0],
 "db/d14/structprocess_1_1CompareConnections.html#a354805a5277434604ef05e1c5bd9a019":[2,0,22,0,2],
 "db/d14/structprocess_1_1CompareConnections.html#a75918df0899fbe28b5973c38b13ace9e":[2,0,22,0,0],
 "db/d14/structprocess_1_1CompareConnections.html#ab61660e721d4e868c3964d4e64e4a3b8":[2,0,22,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX159 =
 "db/d26/classBgpServer.html#a6a557bb8a4ec784fcfc0bf0e3d6d5579":[2,0,414,18],
 "db/d26/classBgpServer.html#a6b1cf99885365f7f2b3e4a3477e080e3":[2,0,414,24],
 "db/d26/classBgpServer.html#a6ea92c7ddb925ea1abbc36f075b0431e":[2,0,414,149],
-"db/d26/classBgpServer.html#a6eb69e7b9b65a8fcb20f4c07b8b18792":[2,0,414,173]
+"db/d26/classBgpServer.html#a6eb69e7b9b65a8fcb20f4c07b8b18792":[2,0,414,173],
+"db/d26/classBgpServer.html#a6ee61e127860be9dbdc73f64b7907e2f":[2,0,414,32]
 };

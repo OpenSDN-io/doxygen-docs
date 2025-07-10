@@ -173,7 +173,7 @@ var searchData=
   ['litimerexpiry',['LITimerExpiry',['../d6/d5d/classProuterUveTable.html#a24ac3e6713a64561c616563615ab426a',1,'ProuterUveTable']]],
   ['ll_5fadd_5fcount',['ll_add_count',['../d3/d81/classVnswInterfaceListenerBase.html#af6dfcfc65602cb7e3836bed06581f95e',1,'VnswInterfaceListenerBase']]],
   ['ll_5fdel_5fcount',['ll_del_count',['../d3/d81/classVnswInterfaceListenerBase.html#a89799b3212755fa10b31896b528e4098',1,'VnswInterfaceListenerBase']]],
-  ['llgr',['LLGR',['../d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a4b180d1bfefa8626056cd5282a409a5f',1,'BgpProto::OpenMessage::Capability::LLGR::LLGR()'],['../db/dd4/classRibOut.html#a6e7a90161a946950687dd8b7bcac54c9',1,'RibOut::llgr()']]],
+  ['llgr',['llgr',['../db/dd4/classRibOut.html#a6e7a90161a946950687dd8b7bcac54c9',1,'RibOut::llgr()'],['../d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a4b180d1bfefa8626056cd5282a409a5f',1,'BgpProto::OpenMessage::Capability::LLGR::LLGR()']]],
   ['llgr_5fparams',['llgr_params',['../dc/dd4/classAgentParam.html#abe375180f7a99775e8df5c89d8e8dd75',1,'AgentParam']]],
   ['llgr_5fstale_5ftime',['llgr_stale_time',['../da/dc7/structLlgrParams.html#a2d122acb652c1b7f0c0645aa9676dd05',1,'LlgrParams::llgr_stale_time()'],['../d7/d18/structGracefulRestartParameters.html#a348a8a89341a50033b6c711c43dc8426',1,'GracefulRestartParameters::llgr_stale_time()']]],
   ['llgr_5fstale_5ftimer',['llgr_stale_timer',['../da/d25/classAgentXmppChannel.html#a140fb93e59d6c8807517b539636a5af8',1,'AgentXmppChannel']]],

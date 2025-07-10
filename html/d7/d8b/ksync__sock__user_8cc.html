@@ -143,8 +143,8 @@ Include dependency graph for ksync_sock_user.cc:</div>
 Functions</h2></td></tr>
 <tr class="memitem:aecb432ca7d8edd4231d9a7579832c036"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8b/ksync__sock__user_8cc.html#aecb432ca7d8edd4231d9a7579832c036">EncodeVrResponse</a> (uint8_t *buf, int buf_len, uint32_t seq_num, int code)</td></tr>
 <tr class="separator:aecb432ca7d8edd4231d9a7579832c036"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3a5c38cbfb919336bcddc17df446f21"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8b/ksync__sock__user_8cc.html#ac3a5c38cbfb919336bcddc17df446f21">IoVectorToData</a> (char *data, uint32_t len, <a class="el" href="../../d3/df3/ksync__sock_8h.html#a358b576f9b50b45812cd30045574361c">KSyncBufferList</a> *iovec)</td></tr>
-<tr class="separator:ac3a5c38cbfb919336bcddc17df446f21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f2d115a6f795c9731deeb4c79f853ac"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8b/ksync__sock__user_8cc.html#a6f2d115a6f795c9731deeb4c79f853ac">IoVectorToData</a> (std::string &amp;data, <a class="el" href="../../d3/df3/ksync__sock_8h.html#a358b576f9b50b45812cd30045574361c">KSyncBufferList</a> *iovec)</td></tr>
+<tr class="separator:a6f2d115a6f795c9731deeb4c79f853ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a class="anchor" id="aecb432ca7d8edd4231d9a7579832c036"></a>
@@ -187,7 +187,7 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ac3a5c38cbfb919336bcddc17df446f21"></a>
+<a class="anchor" id="a6f2d115a6f795c9731deeb4c79f853ac"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -195,16 +195,10 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static int IoVectorToData </td>
+          <td class="memname">static void IoVectorToData </td>
           <td>(</td>
-          <td class="paramtype">char *&#160;</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
           <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>len</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -225,7 +219,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d8b/ksync__sock__user_8cc_source.html#l00558">558</a> of file <a class="el" href="../../d7/d8b/ksync__sock__user_8cc_source.html">ksync_sock_user.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d8b/ksync__sock__user_8cc_source.html#l00559">559</a> of file <a class="el" href="../../d7/d8b/ksync__sock__user_8cc_source.html">ksync_sock_user.cc</a>.</p>
 
 </div>
 </div>

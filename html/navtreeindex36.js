@@ -1,6 +1,5 @@
 var NAVTREEINDEX36 =
 {
-"d2/d81/classPhysicalInterface.html#a70be8dafc67aa224fbb42453aceee462":[2,0,1309,26],
 "d2/d81/classPhysicalInterface.html#a722ef508f174b7319a2c0794f6ff96ad":[2,0,1309,32],
 "d2/d81/classPhysicalInterface.html#a7ca73cc6c7dc64aca93e2d6c6f9add9a":[2,0,1309,34],
 "d2/d81/classPhysicalInterface.html#a7f615fa38af449d0d3c04b25d122eeec":[2,0,1309,25],
@@ -249,5 +248,6 @@ var NAVTREEINDEX36 =
 "d2/d94/structBgpPathAttributeAs4List_1_1Offset.html":[2,0,345,0],
 "d2/d94/structBgpPathAttributeAs4List_1_1Offset.html#a923fb35f7aefc91b911c9e07f9e8a97b":[2,0,345,0,0],
 "d2/d95/xmpp__server__address__parser_8cc.html":[3,0,1348],
-"d2/d95/xmpp__server__address__parser_8cc_source.html":[3,0,1348]
+"d2/d95/xmpp__server__address__parser_8cc_source.html":[3,0,1348],
+"d2/d98/classEthernetSegmentId.html":[2,0,648]
 };

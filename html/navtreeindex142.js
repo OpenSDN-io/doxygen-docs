@@ -1,6 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d9/dab/structRouteWalkerDBState.html#a2ee0b9ad0b808ade1022028d7acf4325":[2,0,1464,2],
 "d9/dab/structRouteWalkerDBState.html#a62f4aff23e718f4b3f791969d658af24":[2,0,1464,1],
 "d9/dab/structRouteWalkerDBState.html#a85c9b537e9248550a2407495173fd5fe":[2,0,1464,0],
 "d9/dab/structRouteWalkerDBState.html#a9a5668f8d12f4dee0d4d4d308a33fc52":[2,0,1464,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX142 =
 "d9/dc7/peer__stats_8h_source.html":[3,0,875],
 "d9/dc8/classt__doc__generator.html":[2,0,1656],
 "d9/dc8/classt__doc__generator.html#a07608804af5f98006a842db723e76b0e":[2,0,1656,19],
-"d9/dc8/classt__doc__generator.html#a0ab7c58c3dd100dfa31f6bb09102b17c":[2,0,1656,38]
+"d9/dc8/classt__doc__generator.html#a0ab7c58c3dd100dfa31f6bb09102b17c":[2,0,1656,38],
+"d9/dc8/classt__doc__generator.html#a0b667c9aa3e4f19b281d2115358e45b0":[2,0,1656,81]
 };

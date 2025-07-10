@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"d0/d5b/classBindResolver.html#aaa7e4e152680d4fe9c3455079d53363f":[2,0,432,24],
 "d0/d5b/classBindResolver.html#aad79dd9db53d8811b11d41d12e9f09db":[2,0,432,9],
 "d0/d5b/classBindResolver.html#aaf1a5b02354a2c0693bebaf6b5c6fc1e":[2,0,432,19],
 "d0/d5b/classBindResolver.html#ab426a3f6bdf6e0311af161ebf05fff39":[2,0,432,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "d0/d64/classXmppConnection.html#a7113663fcc3afbb269c7de0a04d192cb":[2,0,1926,78],
 "d0/d64/classXmppConnection.html#a71760d86bad2e5ce9780a6fd084bfd9a":[2,0,1926,111],
 "d0/d64/classXmppConnection.html#a746b6925c5895c09b7f1d36108a181b8":[2,0,1926,88],
-"d0/d64/classXmppConnection.html#a76864a47e34203946049e8fcb05edf93":[2,0,1926,2]
+"d0/d64/classXmppConnection.html#a76864a47e34203946049e8fcb05edf93":[2,0,1926,2],
+"d0/d64/classXmppConnection.html#a7910fb2f07bd25a86cd60f9c014fe2dc":[2,0,1926,126]
 };

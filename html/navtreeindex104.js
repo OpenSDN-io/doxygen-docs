@@ -1,6 +1,5 @@
 var NAVTREEINDEX104 =
 {
-"d6/dec/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__Authenticate.html#af3f81b2e97208d7596a7bd007472a350":[2,0,11,9,37,4],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html":[2,0,361],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a2eb15467a5a69a60f978e95593661a35":[2,0,361,0],
 "d6/ded/classBgpPathAttributeDiscoveryEdgeList.html#a9a53eaa0566f04c19b355855b63698c4":[2,0,361,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX104 =
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a2bb3a305ee46b73a3a6ae7af9ad6eec3":[2,0,20,10,29],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a3fc5162edbb14197f6052217a48c4b9c":[2,0,20,10,12],
 "d6/dfe/classOVSDB_1_1OvsdbClient.html#a453dcf9bdb70d2d4db336e8ef3e3bb2c":[2,0,20,10,2],
-"d6/dfe/classOVSDB_1_1OvsdbClient.html#a45ff82cb8ea4adba36f5090fd896cd07":[2,0,20,10,23]
+"d6/dfe/classOVSDB_1_1OvsdbClient.html#a45ff82cb8ea4adba36f5090fd896cd07":[2,0,20,10,23],
+"d6/dfe/classOVSDB_1_1OvsdbClient.html#a482e2c3a7550b2fba97b00497b2134c3":[2,0,20,10,20]
 };

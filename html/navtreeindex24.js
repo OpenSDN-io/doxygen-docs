@@ -1,6 +1,5 @@
 var NAVTREEINDEX24 =
 {
-"d1/db4/structRouteTableWalkerState.html#a8c2d72c64f86f92215d574b879f28106":[2,0,1460,0],
 "d1/db4/structRouteTableWalkerState.html#a9f4c7c7fd52bcf58231fa8029612a0cd":[2,0,1460,2],
 "d1/db4/structRouteTableWalkerState.html#aa8d4b62c2cf122649519506619315dde":[2,0,1460,1],
 "d1/db7/rd_8cc.html":[3,0,953],
@@ -249,5 +248,6 @@ var NAVTREEINDEX24 =
 "d1/dcc/classNextHopKey.html#a41df1103c822d95db7b97cb0f5ed5462":[2,0,1222,5],
 "d1/dcc/classNextHopKey.html#a4e0274686993af8a61ed7ce0e8d06ec2":[2,0,1222,0],
 "d1/dcc/classNextHopKey.html#a4f07e24c7d78f6c347e0ddd4eb369bc9":[2,0,1222,7],
-"d1/dcc/classNextHopKey.html#a5b78e9e12304d45ab2d0c2d1b957979d":[2,0,1222,1]
+"d1/dcc/classNextHopKey.html#a5b78e9e12304d45ab2d0c2d1b957979d":[2,0,1222,1],
+"d1/dcc/classNextHopKey.html#a6a7ea30241c974b9e2c4a1b3df7268d7":[2,0,1222,6]
 };

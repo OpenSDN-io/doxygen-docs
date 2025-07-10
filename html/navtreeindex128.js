@@ -1,6 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d8/db9/structVmInterface_1_1LearntMacIpList.html#a001f282b0f71b368e141ce1c2bafc9d6":[2,0,1792,14,4],
 "d8/db9/structVmInterface_1_1LearntMacIpList.html#a2b1d1d9b20a1f815dc4925cf4a1746d1":[2,0,1792,14,1],
 "d8/db9/structVmInterface_1_1LearntMacIpList.html#a33842e6189ecddabc6a13ca36b7d3cec":[2,0,1792,14,5],
 "d8/db9/structVmInterface_1_1LearntMacIpList.html#a7da5066a5fc417a9216a29bbe3b3048c":[2,0,1792,14,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX128 =
 "d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#a4a9529131619d50679e17f7e1f94c4fc":[2,0,11,4,13,3],
 "d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#a81ab38034580f67134100f8e1e8ed12d":[2,0,11,4,13,2],
 "d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#af09f8874f3b8dd85084e3a7dc5629960":[2,0,11,4,13,0],
-"d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#af1fa8f00aa14aee7c812886c72ea212a":[2,0,11,4,13,4]
+"d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#af1fa8f00aa14aee7c812886c72ea212a":[2,0,11,4,13,4],
+"d8/dcc/metadata__client_8h.html":[3,0,749]
 };

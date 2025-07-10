@@ -1,6 +1,5 @@
 var NAVTREEINDEX29 =
 {
-"d2/d17/classInstanceManager.html#a699a983969a3f7da3047863039bfab1c":[2,0,930,46],
 "d2/d17/classInstanceManager.html#a6cfe486ad0fa95f208e75192b133632d":[2,0,930,63],
 "d2/d17/classInstanceManager.html#a70ac3667a90d051a82b05a1b0aa23428":[2,0,930,19],
 "d2/d17/classInstanceManager.html#a725df0789a320e2bebb533ca4f6b8e61":[2,0,930,22],
@@ -249,5 +248,6 @@ var NAVTREEINDEX29 =
 "d2/d2a/classetcdserverpb_1_1PutRequest.html#ada60f9776528c1662402d7089dfa0c78":[2,0,11,89,59],
 "d2/d2a/classetcdserverpb_1_1PutRequest.html#ae241e04058b5f475741228ccb54bfbd7":[2,0,11,89,36],
 "d2/d2a/classetcdserverpb_1_1PutRequest.html#ae8e13525c1512eea9a2a5163f070ac1b":[2,0,11,89,10],
-"d2/d2a/classetcdserverpb_1_1PutRequest.html#ae9e6bf6f5e28d86ea9c8ee6af8608c28":[2,0,11,89,4]
+"d2/d2a/classetcdserverpb_1_1PutRequest.html#ae9e6bf6f5e28d86ea9c8ee6af8608c28":[2,0,11,89,4],
+"d2/d2a/classetcdserverpb_1_1PutRequest.html#aed4657beb9330b5a774def93f4bfb05d":[2,0,11,89,56]
 };

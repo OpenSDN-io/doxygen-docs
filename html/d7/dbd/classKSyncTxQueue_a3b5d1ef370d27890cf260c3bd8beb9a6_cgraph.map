@@ -9,9 +9,9 @@
 <area shape="rect" id="node8" href="$d9/d95/classIoContext.html#a79af1c557507310e04d28ff968975794" title="IoContext::index" alt="" coords="781,575,910,601"/>
 <area shape="rect" id="node9" href="$d0/d5a/classKSyncSock.html#aa948700090f6aabd5d8f6ddd07bc6674" title="KSyncSock::TryAddToBulk" alt="" coords="474,312,662,339"/>
 <area shape="rect" id="node19" href="$d0/d5a/classKSyncSock.html#a61590dafddf3e525c84ce87bf75c032a" title="KSyncSock::SendBulkMessage" alt="" coords="459,793,677,820"/>
-<area shape="rect" id="node10" href="$d9/d95/classIoContext.html#ad0948ddef9bfcf9b6aba8d25bed1512c" title="IoContext::GetMsgLen" alt="" coords="763,123,928,149"/>
-<area shape="rect" id="node11" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="1036,198,1204,239"/>
-<area shape="rect" id="node12" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="1036,319,1204,361"/>
+<area shape="rect" id="node10" href="$d5/d52/classKSyncBulkMsgContext.html#ad4330b7622cf718517b73f66bf125312" title="KSyncBulkMsgContext\l::io_context_type" alt="" coords="1036,159,1204,201"/>
+<area shape="rect" id="node11" href="$d5/d52/classKSyncBulkMsgContext.html#aa39b8d0b8930373ceb5b522115a93824" title="KSyncBulkMsgContext\l::work_queue_index" alt="" coords="1036,294,1204,335"/>
+<area shape="rect" id="node12" href="$d9/d95/classIoContext.html#ad0948ddef9bfcf9b6aba8d25bed1512c" title="IoContext::GetMsgLen" alt="" coords="763,224,928,251"/>
 <area shape="rect" id="node13" href="$d5/d52/classKSyncBulkMsgContext.html#a4f3ceeccecfe37f9bacbf3c54a324c92" title="KSyncBulkMsgContext\l::Insert" alt="" coords="761,275,929,317"/>
 <area shape="rect" id="node14" href="$d9/d95/classIoContext.html#aa3dbd88c5664508f7b819ccd1ec3e043" title="IoContext::rx_buffer1" alt="" coords="766,341,925,368"/>
 <area shape="rect" id="node15" href="$d5/d52/classKSyncBulkMsgContext.html#aeab6c177f1756dbb0c6758833193928b" title="KSyncBulkMsgContext\l::AddReceiveBuffer" alt="" coords="761,393,929,434"/>

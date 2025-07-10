@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"df/dac/classAgentIfMapXmppChannel.html#ac91b341b432dc471e3d728b692d2b8d4":[2,0,87,4],
 "df/dac/classAgentIfMapXmppChannel.html#ad31e9e739e249c65fc6e0b271472b45b":[2,0,87,11],
 "df/dac/classAgentIfMapXmppChannel.html#ae3ae0cda80b3d62b7ba333d083416342":[2,0,87,15],
 "df/dac/classAgentIfMapXmppChannel.html#af4aaa850c8ddf9a642240f3e1ad61a7a":[2,0,87,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "df/dc5/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassStatement_01_4.html#a8a00dc697be8680ab9461a039ed88000":[2,0,7,0,0,10,0],
 "df/dc5/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassStatement_01_4.html#aa48f84933d7563aa14cc3f2a592f1e94":[2,0,7,0,0,10,2],
 "df/dc5/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassStatement_01_4.html#ae5901cc5a4e136475487c8afdfe8e291":[2,0,7,0,0,10,1],
-"df/dc6/classVirtualGatewayConfig.html":[2,0,1772]
+"df/dc6/classVirtualGatewayConfig.html":[2,0,1772],
+"df/dc6/classVirtualGatewayConfig.html#a1764cc36907e119692ecbf4b4fa1c2fc":[2,0,1772,6]
 };

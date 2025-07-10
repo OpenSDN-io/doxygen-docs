@@ -75,7 +75,6 @@ var classKSyncSock =
     [ "kBufLen", "d0/d5a/classKSyncSock.html#aa41285e659cf92073cf36662dfe17b07", null ],
     [ "kInvalidBulkSeqNo", "d0/d5a/classKSyncSock.html#a1bc720a6f040e658fa34dcb866890ac5", null ],
     [ "kMaxBulkMsgCount", "d0/d5a/classKSyncSock.html#ae0bfd4dc90978308b1cc63858a3516a7", null ],
-    [ "kMaxBulkMsgSize", "d0/d5a/classKSyncSock.html#a200cc17103e755bc444402bd251e07af", null ],
     [ "kMsgGrowSize", "d0/d5a/classKSyncSock.html#aabe9090b77eb1560940fd73dcc7b9a0b", null ],
     [ "kRxWorkQueueCount", "d0/d5a/classKSyncSock.html#a7a9bd089fad9042fc5f8d49b30a5c4b0", null ],
     [ "ksync_bulk_sandesh_context_", "d0/d5a/classKSyncSock.html#a3622a01d1b5192820a2e07e71bbe8ff7", null ],
