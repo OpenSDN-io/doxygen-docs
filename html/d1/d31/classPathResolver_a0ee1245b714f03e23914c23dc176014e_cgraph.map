@@ -3,6 +3,10 @@
 <area shape="rect" id="node5" href="$d1/d53/classInetRoute.html#ac8caabef2568195a64e0ee94ad8bb935" title="InetRoute::GetPrefix" alt="" coords="264,107,416,133"/>
 <area shape="rect" id="node6" href="$d6/da8/classInet6Prefix.html#a867230d08e8cc50c7df94fa543646d03" title="Inet6Prefix::IsMoreSpecific" alt="" coords="243,157,437,184"/>
 <area shape="rect" id="node12" href="$de/dd1/classInet6Route.html#ae909150240fc2ea01b979f866ea02088" title="Inet6Route::GetPrefix" alt="" coords="260,208,420,235"/>
+<area shape="rect" id="node13" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="261,259,419,285"/>
+<area shape="rect" id="node14" href="$d0/db1/classEvpnPrefix.html#ad3c168d9c6494800cd41b0e16c6736f8" title="EvpnPrefix::family" alt="" coords="269,309,411,336"/>
+<area shape="rect" id="node15" href="$d0/db1/classEvpnPrefix.html#a21d7ea5f7df97b75f47c212fd2e81e4c" title="EvpnPrefix::inet_prefix" alt="" coords="256,360,424,387"/>
+<area shape="rect" id="node16" href="$d0/db1/classEvpnPrefix.html#a2bf20bcf9f0a6a34a6d386fc86bc4bee" title="EvpnPrefix::inet6_prefix" alt="" coords="252,411,428,437"/>
 <area shape="rect" id="node3" href="$d3/d22/classIp4Prefix.html#ad9d4d55e21e995a293ce8e48ba570e4c" title="Ip4Prefix::prefixlen" alt="" coords="519,5,663,32"/>
 <area shape="rect" id="node4" href="$d3/d22/classIp4Prefix.html#aa6001f2ffdc65e84ffe0be1b7551ee91" title="Ip4Prefix::ip4_addr" alt="" coords="519,56,662,83"/>
 <area shape="rect" id="node7" href="$d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df" title="Inet6Prefix::prefixlen" alt="" coords="751,132,908,159"/>

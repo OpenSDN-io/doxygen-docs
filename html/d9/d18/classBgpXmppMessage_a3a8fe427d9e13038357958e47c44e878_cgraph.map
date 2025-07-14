@@ -22,8 +22,9 @@
 <area shape="rect" id="node29" href="$d3/d56/classBgpOList.html#a96f1be6a47ad1569591ee50b9fb38501" title="BgpOList::elements" alt="" coords="335,1051,484,1077"/>
 <area shape="rect" id="node30" href="$d5/dcf/classBgpAttr.html#a2f3a22353f0c1ec97a4ddb799cc7701e" title="BgpAttr::leaf_olist" alt="" coords="340,1101,479,1128"/>
 <area shape="rect" id="node31" href="$d9/d18/classBgpXmppMessage.html#ab9bd68fa764af9ed2e106a405e3c3197" title="BgpXmppMessage::EncodeEnet\lNextHop" alt="" coords="296,1153,523,1194"/>
-<area shape="rect" id="node40" href="$d6/dbd/classBgpRoute.html#a88f1b4da4bc66ecb33edef659d1b3907" title="BgpRoute::ToXmppIdString" alt="" coords="312,1219,507,1245"/>
-<area shape="rect" id="node42" href="$d0/da7/classRibOutAttr.html#a7dd3e035ddd797bc97f0ebeaba0bf13e" title="RibOutAttr::set_repr" alt="" coords="334,1269,485,1296"/>
+<area shape="rect" id="node40" href="$d6/dbd/classBgpRoute.html#a98b55dc74143f7164b2f9f4bef1a39e8" title="BgpRoute::peer_sources" alt="" coords="320,1219,499,1245"/>
+<area shape="rect" id="node41" href="$d6/dbd/classBgpRoute.html#a88f1b4da4bc66ecb33edef659d1b3907" title="BgpRoute::ToXmppIdString" alt="" coords="312,1269,507,1296"/>
+<area shape="rect" id="node43" href="$d0/da7/classRibOutAttr.html#a7dd3e035ddd797bc97f0ebeaba0bf13e" title="RibOutAttr::set_repr" alt="" coords="334,1320,485,1347"/>
 <area shape="rect" id="node6" href="$d4/dc3/classBgpAf.html#ab16718e60776df3b918c692f4dc079fe" title="BgpAf::FamilyToSafi" alt="" coords="606,157,757,184"/>
 <area shape="rect" id="node17" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a333b0bfd98002fb68b76581e70fb9857" title="RibOutAttr::NextHop\l::origin_vn_index" alt="" coords="604,251,759,293"/>
 <area shape="rect" id="node18" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="583,317,780,344"/>
@@ -39,5 +40,5 @@
 <area shape="rect" id="node38" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#ae3a9bd3fc4dee1cf8f481686ac418097" title="RibOutAttr::NextHop\l::encap" alt="" coords="604,1291,759,1333"/>
 <area shape="rect" id="node39" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#aa76b43a05d1c026563eec745cff8a1d3" title="RibOutAttr::NextHop\l::tag_list" alt="" coords="604,927,759,969"/>
 <area shape="rect" id="node37" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="893,1240,987,1267"/>
-<area shape="rect" id="node41" href="$d8/d44/classDBEntryBase.html#a19f4005a36e617490f47cd315f61ebe5" title="DBEntryBase::ToString" alt="" coords="598,1357,765,1384"/>
+<area shape="rect" id="node42" href="$d8/d44/classDBEntryBase.html#a19f4005a36e617490f47cd315f61ebe5" title="DBEntryBase::ToString" alt="" coords="598,1357,765,1384"/>
 </map>

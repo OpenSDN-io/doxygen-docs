@@ -1,45 +1,45 @@
 <map id="BgpPeer::DeleteActor" name="BgpPeer::DeleteActor">
-<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1390,537,1501,564"/>
+<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1393,521,1503,548"/>
 <area shape="rect" id="node3" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1005,520,1137,547"/>
-<area shape="rect" id="node44" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1415,1797,1475,1824"/>
+<area shape="rect" id="node44" href="$d8/dfe/classAgent.html" title="Agent" alt="" coords="1418,1763,1478,1789"/>
 <area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="499,419,722,461"/>
 <area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="957,359,1184,430"/>
 <area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="202,432,329,459"/>
 <area shape="rect" id="node29" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="503,815,719,841"/>
 <area shape="rect" id="node30" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="504,545,717,572"/>
-<area shape="rect" id="node22" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1694,649,1845,676"/>
-<area shape="rect" id="node11" href="$d3/d2d/classBgpPeer.html" title="BgpPeer" alt="" coords="2510,1429,2586,1456"/>
-<area shape="rect" id="node13" href="$d6/dd4/classPeer.html" title="Peer" alt="" coords="815,1541,865,1568"/>
-<area shape="rect" id="node14" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1041,1411,1101,1437"/>
-<area shape="rect" id="node27" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="568,997,653,1024"/>
-<area shape="rect" id="node21" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="2069,876,2195,903"/>
-<area shape="rect" id="node34" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="1214,1065,1357,1092"/>
-<area shape="rect" id="node36" href="$db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html" title="BgpNeighborConfig::\lOriginOverrideConfig" alt="" coords="531,2070,690,2111"/>
-<area shape="rect" id="node35" href="$d0/dbd/classBgpNeighborConfig.html" title="BgpNeighborConfig" alt="" coords="997,2095,1144,2121"/>
+<area shape="rect" id="node22" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1697,648,1847,675"/>
+<area shape="rect" id="node11" href="$d3/d2d/classBgpPeer.html" title="BgpPeer" alt="" coords="2513,1395,2589,1421"/>
+<area shape="rect" id="node13" href="$d6/dd4/classPeer.html" title="Peer" alt="" coords="815,1507,865,1533"/>
+<area shape="rect" id="node14" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="1041,1373,1101,1400"/>
+<area shape="rect" id="node27" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="568,1032,653,1059"/>
+<area shape="rect" id="node21" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="2071,864,2198,891"/>
+<area shape="rect" id="node34" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="1215,969,1358,996"/>
+<area shape="rect" id="node36" href="$db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html" title="BgpNeighborConfig::\lOriginOverrideConfig" alt="" coords="531,2033,690,2074"/>
+<area shape="rect" id="node35" href="$d0/dbd/classBgpNeighborConfig.html" title="BgpNeighborConfig" alt="" coords="997,2060,1144,2087"/>
 <area shape="rect" id="node40" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="564,1201,657,1228"/>
-<area shape="rect" id="node42" href="$d8/dbc/structAuthenticationKey.html" title="AuthenticationKey" alt="" coords="1528,2331,1669,2357"/>
-<area shape="rect" id="node43" href="$da/d25/classAgentXmppChannel.html" title="AgentXmppChannel" alt="" coords="1694,1843,1845,1869"/>
-<area shape="rect" id="node32" href="$df/d70/classDB.html" title="DB" alt="" coords="1050,791,1091,817"/>
-<area shape="rect" id="node45" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="747,933,933,960"/>
+<area shape="rect" id="node42" href="$d8/dbc/structAuthenticationKey.html" title="AuthenticationKey" alt="" coords="1531,2293,1672,2320"/>
+<area shape="rect" id="node43" href="$da/d25/classAgentXmppChannel.html" title="AgentXmppChannel" alt="" coords="1697,1808,1847,1835"/>
+<area shape="rect" id="node32" href="$df/d70/classDB.html" title="DB" alt="" coords="1050,781,1091,808"/>
+<area shape="rect" id="node45" href="$df/d58/classprocess_1_1ConnectionState.html" title="process::ConnectionState" alt="" coords="747,869,933,896"/>
 <area shape="rect" id="node10" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="973,454,1168,495"/>
-<area shape="rect" id="node39" href="$d5/de5/classBgpSession.html" title="BgpSession" alt="" coords="2895,1160,2993,1187"/>
-<area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpPeer \&gt;" alt="" coords="2853,1384,3035,1411"/>
-<area shape="rect" id="node12" href="$d9/d37/classDynamicPeer.html" title="DynamicPeer" alt="" coords="1391,1551,1500,1577"/>
-<area shape="rect" id="node15" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="543,1313,678,1340"/>
-<area shape="rect" id="node17" href="$dd/d38/classIPeer.html" title="IPeer" alt="" coords="2105,1517,2159,1544"/>
-<area shape="rect" id="node18" href="$dd/d38/classIPeerUpdate.html" title="IPeerUpdate" alt="" coords="1718,1517,1821,1544"/>
-<area shape="rect" id="node19" href="$d0/dbf/structBgpPeer_1_1OriginOverride.html" title="BgpPeer::OriginOverride" alt="" coords="2043,1619,2221,1645"/>
-<area shape="rect" id="node20" href="$d1/df6/classAuthenticationData.html" title="AuthenticationData" alt="" coords="537,1968,685,1995"/>
-<area shape="rect" id="node33" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="2433,919,2663,945"/>
-<area shape="rect" id="node23" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="2024,642,2240,683"/>
-<area shape="rect" id="node24" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1705,980,1834,1007"/>
-<area shape="rect" id="node25" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1401,823,1490,849"/>
-<area shape="rect" id="node26" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="994,881,1147,908"/>
+<area shape="rect" id="node39" href="$d5/de5/classBgpSession.html" title="BgpSession" alt="" coords="2898,1145,2995,1172"/>
+<area shape="rect" id="node50" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpPeer \&gt;" alt="" coords="2856,1349,3037,1376"/>
+<area shape="rect" id="node12" href="$d9/d37/classDynamicPeer.html" title="DynamicPeer" alt="" coords="1393,1516,1503,1543"/>
+<area shape="rect" id="node15" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="543,1271,678,1297"/>
+<area shape="rect" id="node17" href="$dd/d38/classIPeer.html" title="IPeer" alt="" coords="2107,1483,2162,1509"/>
+<area shape="rect" id="node18" href="$dd/d38/classIPeerUpdate.html" title="IPeerUpdate" alt="" coords="1721,1483,1823,1509"/>
+<area shape="rect" id="node19" href="$d0/dbf/structBgpPeer_1_1OriginOverride.html" title="BgpPeer::OriginOverride" alt="" coords="2045,1584,2224,1611"/>
+<area shape="rect" id="node20" href="$d1/df6/classAuthenticationData.html" title="AuthenticationData" alt="" coords="537,1931,685,1957"/>
+<area shape="rect" id="node33" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="2435,907,2666,933"/>
+<area shape="rect" id="node23" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="2027,637,2243,678"/>
+<area shape="rect" id="node24" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1707,968,1837,995"/>
+<area shape="rect" id="node25" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1403,811,1493,837"/>
+<area shape="rect" id="node26" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="994,872,1147,899"/>
 <area shape="rect" id="node28" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="206,1123,325,1149"/>
-<area shape="rect" id="node37" href="$dd/dde/structBgpPeerKey.html" title="BgpPeerKey" alt="" coords="1885,1461,1985,1488"/>
-<area shape="rect" id="node41" href="$d3/d5f/classTaskTrigger.html" title="TaskTrigger" alt="" coords="2085,1244,2179,1271"/>
-<area shape="rect" id="node46" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1027,1848,1115,1875"/>
-<area shape="rect" id="node47" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1031,1899,1110,1925"/>
-<area shape="rect" id="node48" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="989,1797,1152,1824"/>
-<area shape="rect" id="node49" href="$d6/d81/classXmppChannel.html" title="XmppChannel" alt="" coords="1389,2059,1502,2085"/>
+<area shape="rect" id="node37" href="$dd/dde/structBgpPeerKey.html" title="BgpPeerKey" alt="" coords="1887,1427,1987,1453"/>
+<area shape="rect" id="node41" href="$d3/d5f/classTaskTrigger.html" title="TaskTrigger" alt="" coords="2087,1229,2182,1256"/>
+<area shape="rect" id="node46" href="$d1/d41/classIcmpProto.html" title="IcmpProto" alt="" coords="1027,1813,1115,1840"/>
+<area shape="rect" id="node47" href="$d6/d21/classArpProto.html" title="ArpProto" alt="" coords="1031,1864,1110,1891"/>
+<area shape="rect" id="node48" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="989,1763,1152,1789"/>
+<area shape="rect" id="node49" href="$d6/d81/classXmppChannel.html" title="XmppChannel" alt="" coords="1391,2020,1505,2047"/>
 </map>

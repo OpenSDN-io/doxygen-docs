@@ -1,5 +1,7 @@
 var NAVTREEINDEX54 =
 {
+"d3/db0/classErmVpnTable.html#ae55442620c1f3fdec62275d28a97f492":[2,0,645,10],
+"d3/db0/classErmVpnTable.html#ae6b9cb1bb49ab3413b75435fc6ff06f6":[2,0,645,29],
 "d3/db0/classErmVpnTable.html#afc3663e091dd98509f69c7768bf5e297":[2,0,645,23],
 "d3/db0/classErmVpnTable.html#aff60b31353875e70ae74c08f181f92a7":[2,0,645,27],
 "d3/db1/classKSyncBridgeMemory.html":[2,0,985],
@@ -247,7 +249,5 @@ var NAVTREEINDEX54 =
 "d3/dd0/structStatsManager_1_1VrfStats.html#a1551043e84fec52be46add403bbef6f9":[2,0,1641,2,5],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a1fddeb037b71faf47dbee275afcb4a56":[2,0,1641,2,17],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a1fe4d6479efe953b7fadb0226dd4b4e9":[2,0,1641,2,76],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a22c018adff4a2c1db818abd8cfe96d0e":[2,0,1641,2,29],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a2389bbc892535598575cf6ba4e49bbba":[2,0,1641,2,27],
-"d3/dd0/structStatsManager_1_1VrfStats.html#a263231d91b66b5981cc2735f66701352":[2,0,1641,2,56]
+"d3/dd0/structStatsManager_1_1VrfStats.html#a22c018adff4a2c1db818abd8cfe96d0e":[2,0,1641,2,29]
 };

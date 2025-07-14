@@ -1,36 +1,36 @@
 <map id="BgpMembershipManager::Walker" name="BgpMembershipManager::Walker">
-<area shape="rect" id="node2" href="$d0/d79/classBgpMembershipManager_1_1RibState.html" title="BgpMembershipManager\l::RibState" alt="" coords="2951,498,3134,540"/>
-<area shape="rect" id="node40" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpMembership\lManager::RibState \&gt;" alt="" coords="3302,453,3519,494"/>
-<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html" title="BgpMembershipManager" alt="" coords="2553,586,2735,612"/>
-<area shape="rect" id="node4" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1469,708,1558,735"/>
-<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="997,759,1150,786"/>
-<area shape="rect" id="node26" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1846,662,1997,688"/>
-<area shape="rect" id="node25" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="2209,716,2335,743"/>
-<area shape="rect" id="node6" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="597,711,683,738"/>
-<area shape="rect" id="node7" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,712,354,739"/>
-<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="532,1198,748,1224"/>
-<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="533,908,747,935"/>
-<area shape="rect" id="node24" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1020,508,1127,535"/>
-<area shape="rect" id="node32" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="529,614,751,656"/>
-<area shape="rect" id="node36" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="777,1030,919,1056"/>
-<area shape="rect" id="node20" href="$df/d70/classDB.html" title="DB" alt="" coords="619,420,661,447"/>
-<area shape="rect" id="node30" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1458,39,1569,66"/>
-<area shape="rect" id="node37" href="$d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="2989,240,3096,267"/>
-<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,420,352,447"/>
-<area shape="rect" id="node15" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="945,1145,1202,1186"/>
-<area shape="rect" id="node13" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,798,358,824"/>
-<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="615,995,665,1022"/>
-<area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="950,944,1197,985"/>
-<area shape="rect" id="node33" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="960,649,1187,720"/>
-<area shape="rect" id="node21" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2603,460,2685,487"/>
-<area shape="rect" id="node39" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="2949,415,3136,442"/>
-<area shape="rect" id="node22" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="2072,476,2165,503"/>
-<area shape="rect" id="node23" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1476,482,1551,508"/>
-<area shape="rect" id="node35" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="2529,699,2759,726"/>
-<area shape="rect" id="node27" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="1405,584,1621,625"/>
-<area shape="rect" id="node28" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1009,330,1138,356"/>
-<area shape="rect" id="node29" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1814,218,2029,260"/>
-<area shape="rect" id="node38" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="3305,202,3516,228"/>
-<area shape="rect" id="node31" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1007,155,1139,182"/>
-<area shape="rect" id="node34" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="976,38,1171,80"/>
+<area shape="rect" id="node2" href="$d0/d79/classBgpMembershipManager_1_1RibState.html" title="BgpMembershipManager\l::RibState" alt="" coords="2997,490,3179,532"/>
+<area shape="rect" id="node40" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpMembership\lManager::RibState \&gt;" alt="" coords="3347,445,3565,486"/>
+<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html" title="BgpMembershipManager" alt="" coords="2598,564,2781,591"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1514,700,1603,727"/>
+<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1039,752,1193,779"/>
+<area shape="rect" id="node26" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1891,654,2042,680"/>
+<area shape="rect" id="node25" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="2254,722,2381,748"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="640,702,725,728"/>
+<area shape="rect" id="node7" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,703,354,730"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="575,1232,791,1259"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="576,899,789,926"/>
+<area shape="rect" id="node24" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="1063,499,1169,526"/>
+<area shape="rect" id="node32" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="571,605,794,646"/>
+<area shape="rect" id="node36" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="819,1034,962,1060"/>
+<area shape="rect" id="node20" href="$df/d70/classDB.html" title="DB" alt="" coords="662,411,703,438"/>
+<area shape="rect" id="node30" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1503,38,1614,64"/>
+<area shape="rect" id="node37" href="$d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="3035,232,3141,259"/>
+<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,411,352,438"/>
+<area shape="rect" id="node15" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="987,1180,1245,1221"/>
+<area shape="rect" id="node13" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,788,358,815"/>
+<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="657,971,708,998"/>
+<area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="993,920,1239,961"/>
+<area shape="rect" id="node33" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="1003,641,1229,712"/>
+<area shape="rect" id="node21" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="2649,452,2730,479"/>
+<area shape="rect" id="node39" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="2995,407,3181,434"/>
+<area shape="rect" id="node22" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="2117,468,2211,495"/>
+<area shape="rect" id="node23" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="1521,474,1596,500"/>
+<area shape="rect" id="node35" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="2574,678,2805,704"/>
+<area shape="rect" id="node27" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="1451,576,1667,617"/>
+<area shape="rect" id="node28" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1051,322,1181,348"/>
+<area shape="rect" id="node29" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1859,210,2074,252"/>
+<area shape="rect" id="node38" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="3351,194,3561,220"/>
+<area shape="rect" id="node31" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1050,130,1182,156"/>
+<area shape="rect" id="node34" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="1019,37,1213,78"/>
 </map>

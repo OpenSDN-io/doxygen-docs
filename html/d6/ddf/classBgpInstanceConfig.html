@@ -215,6 +215,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a06fdc7f85427b483d090e71dbd63c193"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af040bf3eb3554a78d520c0e3b1234ccd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#af040bf3eb3554a78d520c0e3b1234ccd">index</a> () const </td></tr>
 <tr class="separator:af040bf3eb3554a78d520c0e3b1234ccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad84495a33deb659785d5d820a0312542"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#ad84495a33deb659785d5d820a0312542">routing_instance_vxlan</a> () const </td></tr>
+<tr class="separator:ad84495a33deb659785d5d820a0312542"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbc1ba52320cb09f1fc1278cfda2f0a5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#acbc1ba52320cb09f1fc1278cfda2f0a5">set_routing_instance_vxlan</a> (const std::string &amp;<a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#ad84495a33deb659785d5d820a0312542">routing_instance_vxlan</a>)</td></tr>
+<tr class="separator:acbc1ba52320cb09f1fc1278cfda2f0a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -259,6 +263,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:aedfa2fa181681aceed3bf7f934d62ea0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6631135b7bfb4449748a57a99afa354c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d4e/bgp__common_8h.html#a46ec7a2f965b0d154ac77022c6399c57">RoutingPolicyConfigList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#a6631135b7bfb4449748a57a99afa354c">routing_policies_</a></td></tr>
 <tr class="separator:a6631135b7bfb4449748a57a99afa354c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b24a34b368cd43bd73fccb2212e5e3e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/classBgpInstanceConfig.html#a6b24a34b368cd43bd73fccb2212e5e3e">routing_instance_vxlan_</a></td></tr>
+<tr class="separator:a6b24a34b368cd43bd73fccb2212e5e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -678,6 +684,31 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ad84495a33deb659785d5d820a0312542"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string&amp; BgpInstanceConfig::routing_instance_vxlan </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00511">511</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="ab8c50a2eb23aeba2e0450bb8446b281a"></a>
 <div class="memitem">
 <div class="memproto">
@@ -909,6 +940,41 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00483">483</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="acbc1ba52320cb09f1fc1278cfda2f0a5"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void BgpInstanceConfig::set_routing_instance_vxlan </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>routing_instance_vxlan</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00514">514</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d6/ddf/classBgpInstanceConfig_acbc1ba52320cb09f1fc1278cfda2f0a5_cgraph.png" border="0" usemap="#d6/ddf/classBgpInstanceConfig_acbc1ba52320cb09f1fc1278cfda2f0a5_cgraph" alt=""/></div>
+<map name="d6/ddf/classBgpInstanceConfig_acbc1ba52320cb09f1fc1278cfda2f0a5_cgraph" id="d6/ddf/classBgpInstanceConfig_acbc1ba52320cb09f1fc1278cfda2f0a5_cgraph">
+<area shape="rect" id="node2" href="../../d6/ddf/classBgpInstanceConfig.html#ad84495a33deb659785d5d820a0312542" title="BgpInstanceConfig::\lrouting_instance_vxlan" alt="" coords="253,5,427,46"/></map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1339,7 +1405,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00512">512</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00519">519</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1362,7 +1428,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00517">517</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00524">524</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1384,7 +1450,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00518">518</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00525">525</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1406,7 +1472,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00516">516</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00523">523</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1428,7 +1494,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00523">523</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00530">530</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1450,7 +1516,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00529">529</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00536">536</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1472,7 +1538,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00527">527</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00534">534</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1494,7 +1560,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00528">528</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00535">535</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1516,7 +1582,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00526">526</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00533">533</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1538,7 +1604,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00525">525</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00532">532</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1560,7 +1626,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00514">514</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00521">521</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1582,7 +1648,29 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00515">515</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00522">522</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a6b24a34b368cd43bd73fccb2212e5e3e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string BgpInstanceConfig::routing_instance_vxlan_</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00539">539</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1604,7 +1692,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00531">531</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00538">538</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1626,7 +1714,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00530">530</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00537">537</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1648,7 +1736,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00519">519</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00526">526</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1670,7 +1758,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00521">521</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00528">528</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1692,7 +1780,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00520">520</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00527">527</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1714,7 +1802,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00522">522</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00529">529</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>
@@ -1736,7 +1824,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00524">524</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
+<p>Definition at line <a class="el" href="../../df/d8a/bgp__config_8h_source.html#l00531">531</a> of file <a class="el" href="../../df/d8a/bgp__config_8h_source.html">bgp_config.h</a>.</p>
 
 </div>
 </div>

@@ -1,0 +1,10 @@
+<map id="GetConnectedVxlanRi" name="GetConnectedVxlanRi">
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="674,32,841,59"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="674,134,841,160"/>
+<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="680,184,835,211"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="690,286,825,312"/>
+<area shape="rect" id="node6" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="673,336,842,363"/>
+<area shape="rect" id="node7" href="$d5/d78/bgp__config__ifmap_8cc.html#a1fc153a2ad933e7c1ba23d1bdaaae493" title="GetConnectedVxlanRiLr" alt="" coords="219,210,395,236"/>
+<area shape="rect" id="node8" href="$d5/d78/bgp__config__ifmap_8cc.html#a66bc78bd5c6e3dee75040f2d2eab6f82" title="GetConnectedVxlanRiVn" alt="" coords="443,235,624,262"/>
+<area shape="rect" id="node9" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="688,235,827,262"/>
+</map>

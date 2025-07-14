@@ -18,7 +18,7 @@ var searchData=
   ['nexthopconstref',['NextHopConstRef',['../de/d9e/agent_8h.html#ade1f376200589ae6c6b7491f36f4542b',1,'agent.h']]],
   ['nexthopdb',['NexthopDB',['../db/d94/classNexthopDBServer.html#af170c7c703522ad30307a07544a25209',1,'NexthopDBServer']]],
   ['nexthopiterator',['NexthopIterator',['../db/d94/classNexthopDBServer.html#a8d8720afa7a91d8fb275f856842e0264',1,'NexthopDBServer']]],
-  ['nexthoplist',['NexthopList',['../d9/df3/classNexthopDBClient.html#adfcd99133175205bd3dfbab92276e313',1,'NexthopDBClient::NexthopList()'],['../d0/da7/classRibOutAttr.html#a87f8d65686df166e08bf94e58e0bc981',1,'RibOutAttr::NextHopList()']]],
+  ['nexthoplist',['NextHopList',['../d0/da7/classRibOutAttr.html#a87f8d65686df166e08bf94e58e0bc981',1,'RibOutAttr::NextHopList()'],['../d9/df3/classNexthopDBClient.html#adfcd99133175205bd3dfbab92276e313',1,'NexthopDBClient::NexthopList()']]],
   ['nexthoplistiterator',['NexthopListIterator',['../d9/df3/classNexthopDBClient.html#a68f617dcde15c086083e775c74df6a81',1,'NexthopDBClient']]],
   ['nexthopmanagerrec',['NexthopManagerRec',['../dd/dbe/agent__factory_8h.html#a1b1669ca408074dc05529914d15b06f5',1,'agent_factory.h']]],
   ['nexthoppathidlist',['NexthopPathIdList',['../d0/d2a/classStaticRoute.html#a1de9b3cc1c5bf32bd2c80ccfccb4a62e',1,'StaticRoute']]],

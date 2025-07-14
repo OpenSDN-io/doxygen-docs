@@ -2,11 +2,13 @@ var classBgpRoute =
 [
     [ "BgpRoute", "d6/dbd/classBgpRoute.html#a36a1f64e82ab18e77a9898cabdf16242", null ],
     [ "~BgpRoute", "d6/dbd/classBgpRoute.html#aca6912694c2c30cadec9cc2619e66c32", null ],
+    [ "add_peer_sources", "d6/dbd/classBgpRoute.html#a7e852519c415a8d4c21105c6b6061739", null ],
     [ "AddExtCommunitySubCluster", "d6/dbd/classBgpRoute.html#af40c7e3e4d4a92c4efd7f3a368dac079", null ],
     [ "BestPath", "d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92", null ],
     [ "BuildBgpProtoNextHop", "d6/dbd/classBgpRoute.html#a92f2682d20c2ae31905fead7bcf78450", null ],
     [ "BuildProtoPrefix", "d6/dbd/classBgpRoute.html#a5729ca04a6eee9cc964082e55b9859b7", null ],
     [ "count", "d6/dbd/classBgpRoute.html#a1977f5092202baf2b464040e732addfd", null ],
+    [ "del_peer_sources", "d6/dbd/classBgpRoute.html#a920acb24e74e3c17b02a583cc874e6df", null ],
     [ "DeletePath", "d6/dbd/classBgpRoute.html#aa2e867e04e2e2fb6e4ef7572ce37f34d", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d6/dbd/classBgpRoute.html#a5d6d366ee0b9eb6ca0250c2630f072ca", null ],
     [ "DuplicateForwardingPath", "d6/dbd/classBgpRoute.html#a10e453ec5bca8bca11650a05d85acde7", null ],
@@ -25,6 +27,7 @@ var classBgpRoute =
     [ "IsUsable", "d6/dbd/classBgpRoute.html#a8cfe0e317a7bf3433a0ca65bb63af860", null ],
     [ "IsValid", "d6/dbd/classBgpRoute.html#a74a20cdf5b5f4327ce2c919c1dc254b2", null ],
     [ "NotifyOrDelete", "d6/dbd/classBgpRoute.html#af508fb71beb3b2baa547d3e924d95b12", null ],
+    [ "peer_sources", "d6/dbd/classBgpRoute.html#a98b55dc74143f7164b2f9f4bef1a39e8", null ],
     [ "RemovePath", "d6/dbd/classBgpRoute.html#a60709882033962628362bbc1c036a0b7", null ],
     [ "RemovePath", "d6/dbd/classBgpRoute.html#abba710ae3e4695f2f1e09b96daf096d5", null ],
     [ "RemovePath", "d6/dbd/classBgpRoute.html#aa7dacaae172281136fa4e8b2777770b1", null ],
@@ -32,5 +35,6 @@ var classBgpRoute =
     [ "SubClusterId", "d6/dbd/classBgpRoute.html#a3eee9dd4eeaeb26cf6fc3b3b10c2f754", null ],
     [ "table", "d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe", null ],
     [ "table", "d6/dbd/classBgpRoute.html#a21a20075b46f6395a35d93d32e0829dc", null ],
-    [ "ToXmppIdString", "d6/dbd/classBgpRoute.html#a88f1b4da4bc66ecb33edef659d1b3907", null ]
+    [ "ToXmppIdString", "d6/dbd/classBgpRoute.html#a88f1b4da4bc66ecb33edef659d1b3907", null ],
+    [ "peer_sources_", "d6/dbd/classBgpRoute.html#ad24decd07c77223086dbb387fc6006dc", null ]
 ];

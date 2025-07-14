@@ -148,6 +148,7 @@ var searchData=
   ['del_5fadd_5fpending',['del_add_pending',['../dc/df2/classKSyncEntry.html#a012a19cd96976e22554287e897f1d694',1,'KSyncEntry']]],
   ['del_5fconn',['del_conn',['../df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b',1,'del_conn(HttpConnection *connection, GlobalInfo *g):&#160;http_curl.cc'],['../de/d7f/http__curl_8h.html#a18a8861e3e0baf67017f4c0665f5868b',1,'del_conn(HttpConnection *connection, GlobalInfo *g):&#160;http_curl.cc']]],
   ['del_5fcurl_5fhandle',['del_curl_handle',['../df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2',1,'del_curl_handle(ConnInfo *curl_handle, GlobalInfo *g):&#160;http_curl.cc'],['../de/d7f/http__curl_8h.html#a6fe3a1fa30ac7c5a3dc634352e71abc2',1,'del_curl_handle(ConnInfo *curl_handle, GlobalInfo *g):&#160;http_curl.cc']]],
+  ['del_5fpeer_5fsources',['del_peer_sources',['../d6/dbd/classBgpRoute.html#a920acb24e74e3c17b02a583cc874e6df',1,'BgpRoute']]],
   ['del_5fpending',['del_pending',['../d4/d21/structVmInterface_1_1ListEntry.html#a764b3af2114b9c1dd22ff24f3dbdacae',1,'VmInterface::ListEntry']]],
   ['delaggregateroute',['DelAggregateRoute',['../dd/dcc/classRouteAggregator.html#a82c3e2fa084af89c9b279db3456293aa',1,'RouteAggregator']]],
   ['delay',['Delay',['../d3/d79/structfsm_1_1Delay.html#a85e93f6abbca4e28ba16cc7be5f61336',1,'fsm::Delay::Delay()'],['../dd/df6/classHealthCheckService.html#a854170581581ad536da4600135c21b67',1,'HealthCheckService::delay()']]],

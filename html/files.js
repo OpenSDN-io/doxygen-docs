@@ -3266,7 +3266,7 @@ var files =
       [ "RoutedVrfInfo", "d4/de0/structVxlanRoutingVrfMapper_1_1RoutedVrfInfo.html", "d4/de0/structVxlanRoutingVrfMapper_1_1RoutedVrfInfo" ],
       [ "VxlanRoutingManager", "dc/d5b/classVxlanRoutingManager.html", "dc/d5b/classVxlanRoutingManager" ]
     ] ],
-    [ "vxlan_templates.cc", "d7/d91/vxlan__templates_8cc.html", null ],
+    [ "vxlan_templates.cc", "d7/d91/vxlan__templates_8cc.html", "d7/d91/vxlan__templates_8cc" ],
     [ "vxlan_xmpp_routes.cc", "d2/dea/vxlan__xmpp__routes_8cc.html", "d2/dea/vxlan__xmpp__routes_8cc" ],
     [ "watermark.cc", "de/de8/watermark_8cc.html", null ],
     [ "watermark.h", "df/de0/watermark_8h.html", "df/de0/watermark_8h" ],

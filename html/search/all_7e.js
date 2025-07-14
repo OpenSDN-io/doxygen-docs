@@ -977,7 +977,7 @@ var searchData=
   ['_7eresponseop',['~ResponseOp',['../d4/d25/classetcdserverpb_1_1ResponseOp.html#aeb78745d1c208329401d704f80f27bc2',1,'etcdserverpb::ResponseOp']]],
   ['_7erestclient',['~RESTClient',['../df/d00/classBFD_1_1RESTClient.html#a312d356318363bbf2cb3b514c770c3cf',1,'BFD::RESTClient']]],
   ['_7erestclientsession',['~RESTClientSession',['../d2/d0e/classBFD_1_1RESTClientSession.html#a68880b15ce57bb5f0cb37a3bcbbd133e',1,'BFD::RESTClientSession']]],
-  ['_7erestserver',['~RESTServer',['../dd/d65/classBFD_1_1RESTServer.html#a570db01f79d2616ccb5b087fbced8fb9',1,'BFD::RESTServer::~RESTServer()'],['../d5/ddf/classRestServer.html#aa7e86bbb70bbc24c9720fe13bc24fc74',1,'RestServer::~RestServer()']]],
+  ['_7erestserver',['~RestServer',['../d5/ddf/classRestServer.html#aa7e86bbb70bbc24c9720fe13bc24fc74',1,'RestServer::~RestServer()'],['../dd/d65/classBFD_1_1RESTServer.html#a570db01f79d2616ccb5b087fbced8fb9',1,'BFD::RESTServer::~RESTServer()']]],
   ['_7erestservergetvmcfgtask',['~RestServerGetVmCfgTask',['../d5/d8a/classRestServerGetVmCfgTask.html#afe610d9c19a8ca601de20be137b15daf',1,'RestServerGetVmCfgTask']]],
   ['_7eribout',['~RibOut',['../db/dd4/classRibOut.html#a6ec2ee9849ed093ca7377716687a4162',1,'RibOut']]],
   ['_7eriboutstate',['~RibOutState',['../d2/dda/classBgpMembershipManager_1_1Walker_1_1RibOutState.html#ae6d37280ee1cc810f9f7d022cf05f3eb',1,'BgpMembershipManager::Walker::RibOutState']]],

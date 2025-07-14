@@ -251,18 +251,12 @@ Private Member Functions</h2></td></tr>
 <tr class="memitem:a24ac477cb6264fab97e14bec47bd1498"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a24ac477cb6264fab97e14bec47bd1498">HasBgpPeerPath</a> (<a class="el" href="../../dc/dd7/classEvpnRouteEntry.html">EvpnRouteEntry</a> *evpn_rt)</td></tr>
 <tr class="memdesc:a24ac477cb6264fab97e14bec47bd1498"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines whether the given EVPN route has at least one path originating from BGP/XMPP (has <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type BGP_PATH)  <a href="#a24ac477cb6264fab97e14bec47bd1498">More...</a><br/></td></tr>
 <tr class="separator:a24ac477cb6264fab97e14bec47bd1498"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0174b6ac1f756bf2aae127d089089d23"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d4/d3d/classAgentPath.html">AgentPath</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a0174b6ac1f756bf2aae127d089089d23">FindBGPaaSPath</a> (const <a class="el" href="../../d5/d9f/classInetUnicastRouteEntry.html">InetUnicastRouteEntry</a> *rt)</td></tr>
-<tr class="memdesc:a0174b6ac1f756bf2aae127d089089d23"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds in the given route the path that was announced using BGPaaS. It is expected that this path has BGP_PEER peer type and the interface or composite nexthop.  <a href="#a0174b6ac1f756bf2aae127d089089d23">More...</a><br/></td></tr>
-<tr class="separator:a0174b6ac1f756bf2aae127d089089d23"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acff08a1a564a261cc94449ace40b1442"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#acff08a1a564a261cc94449ace40b1442">AdvertiseBGPaaSRoute</a> (const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, uint32_t prefix_len, const <a class="el" href="../../d4/d3d/classAgentPath.html">AgentPath</a> *path, <a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table)</td></tr>
-<tr class="memdesc:acff08a1a564a261cc94449ace40b1442"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises BGPaaS interface path in the routing VRF instance by selecting corresponding path components in a path from the bridge VRF instance.  <a href="#acff08a1a564a261cc94449ace40b1442">More...</a><br/></td></tr>
-<tr class="separator:acff08a1a564a261cc94449ace40b1442"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a635b41495474cc8910591f960dd72ded"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dc4/classTunnelNHKey.html">TunnelNHKey</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a635b41495474cc8910591f960dd72ded">AllocateTunnelNextHopKey</a> (const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;dip, const <a class="el" href="../../d3/df5/classMacAddress.html">MacAddress</a> &amp;dmac) const </td></tr>
 <tr class="memdesc:a635b41495474cc8910591f960dd72ded"><td class="mdescLeft">&#160;</td><td class="mdescRight">XMPP Advertising functions.  <a href="#a635b41495474cc8910591f960dd72ded">More...</a><br/></td></tr>
 <tr class="separator:a635b41495474cc8910591f960dd72ded"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ff33be0e89d670b09ef915f413799d2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a4ff33be0e89d670b09ef915f413799d2">XmppAdvertiseEvpnRoute</a> (const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer)</td></tr>
-<tr class="memdesc:a4ff33be0e89d670b09ef915f413799d2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises an EVPN route received using XMPP channel.  <a href="#a4ff33be0e89d670b09ef915f413799d2">More...</a><br/></td></tr>
-<tr class="separator:a4ff33be0e89d670b09ef915f413799d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67f243ef57856265fe721ce3b4480426"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a67f243ef57856265fe721ce3b4480426">XmppAdvertiseEvpnRoute</a> (const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="memdesc:a67f243ef57856265fe721ce3b4480426"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises an EVPN route received using XMPP channel.  <a href="#a67f243ef57856265fe721ce3b4480426">More...</a><br/></td></tr>
+<tr class="separator:a67f243ef57856265fe721ce3b4480426"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad688534aa8a78758c47a5ccde6059e53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ad688534aa8a78758c47a5ccde6059e53">XmppAdvertiseInetRoute</a> (const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer)</td></tr>
 <tr class="memdesc:ad688534aa8a78758c47a5ccde6059e53"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises an Inet route received using XMPP channel.  <a href="#ad688534aa8a78758c47a5ccde6059e53">More...</a><br/></td></tr>
 <tr class="separator:ad688534aa8a78758c47a5ccde6059e53"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -272,9 +266,9 @@ Private Member Functions</h2></td></tr>
 <tr class="memitem:a7f97000c86ac163470183eabea6a9324"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a7f97000c86ac163470183eabea6a9324">XmppAdvertiseEvpnTunnel</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *inet_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer)</td></tr>
 <tr class="memdesc:a7f97000c86ac163470183eabea6a9324"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in the EVPN table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute.  <a href="#a7f97000c86ac163470183eabea6a9324">More...</a><br/></td></tr>
 <tr class="separator:a7f97000c86ac163470183eabea6a9324"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a739abd32ca18855cff1208f0916e59c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a739abd32ca18855cff1208f0916e59c0">XmppAdvertiseEvpnInterface</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *inet_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer)</td></tr>
-<tr class="memdesc:a739abd32ca18855cff1208f0916e59c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute.  <a href="#a739abd32ca18855cff1208f0916e59c0">More...</a><br/></td></tr>
-<tr class="separator:a739abd32ca18855cff1208f0916e59c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdd136370da72318dad074635042e68d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#abdd136370da72318dad074635042e68d">XmppAdvertiseEvpnInterface</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *inet_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="memdesc:abdd136370da72318dad074635042e68d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute.  <a href="#abdd136370da72318dad074635042e68d">More...</a><br/></td></tr>
+<tr class="separator:abdd136370da72318dad074635042e68d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6901e2b581634eee85dfa546d4d4c284"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a6901e2b581634eee85dfa546d4d4c284">XmppAdvertiseInetTunnel</a> (<a class="el" href="../../da/dcd/classInetUnicastAgentRouteTable.html">InetUnicastAgentRouteTable</a> *inet_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer)</td></tr>
 <tr class="memdesc:a6901e2b581634eee85dfa546d4d4c284"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in the Inet table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute.  <a href="#a6901e2b581634eee85dfa546d4d4c284">More...</a><br/></td></tr>
 <tr class="separator:a6901e2b581634eee85dfa546d4d4c284"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -287,6 +281,12 @@ Private Member Functions</h2></td></tr>
 <tr class="memitem:ab1d09b9545d936f969786344b94f69fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe">CopyPathToInetTable</a> (const <a class="el" href="../../d4/d3d/classAgentPath.html">AgentPath</a> *path, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const uint32_t plen, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *peer, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, <a class="el" href="../../da/dcd/classInetUnicastAgentRouteTable.html">InetUnicastAgentRouteTable</a> *inet_table)</td></tr>
 <tr class="memdesc:ab1d09b9545d936f969786344b94f69fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between routing VRF EVPN and Inet tables.  <a href="#ab1d09b9545d936f969786344b94f69fe">More...</a><br/></td></tr>
 <tr class="separator:ab1d09b9545d936f969786344b94f69fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7fbdbb21c4b22986991c9381abd8bb2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2">XmppAdvertiseEvpnBgpaas</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="separator:ac7fbdbb21c4b22986991c9381abd8bb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65c644328cadbe356b1c62257c1bd7d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9">XmppAdvertiseEvpnBgpaasInterface</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const <a class="el" href="../../d4/dec/classNextHop.html">NextHop</a> *nh)</td></tr>
+<tr class="separator:a65c644328cadbe356b1c62257c1bd7d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a924fd6bf235c330981d58be6166345b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7">XmppAdvertiseEvpnBgpaasComposite</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, <a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;comp_nh_list)</td></tr>
+<tr class="separator:a924fd6bf235c330981d58be6166345b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
@@ -360,10 +360,13 @@ Static Private Member Functions</h2></td></tr>
 <tr class="memitem:a8d465b1ed3e70ca01eab4982eee20f43"><td class="memTemplItemLeft" align="right" valign="top">static std::vector&lt; <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a8d465b1ed3e70ca01eab4982eee20f43">ItemNexthopsToVector</a> (ItType *item)</td></tr>
 <tr class="memdesc:a8d465b1ed3e70ca01eab4982eee20f43"><td class="mdescLeft">&#160;</td><td class="mdescRight">Templates.  <a href="#a8d465b1ed3e70ca01eab4982eee20f43">More...</a><br/></td></tr>
 <tr class="separator:a8d465b1ed3e70ca01eab4982eee20f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca071801ec9b0679f479d1f12b203eb3"><td class="memTemplParams" colspan="2">template&lt;typename NhType &gt; </td></tr>
-<tr class="memitem:aca071801ec9b0679f479d1f12b203eb3"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#aca071801ec9b0679f479d1f12b203eb3">AddInterfaceComponentToList</a> (const std::string &amp;prefix_str, const std::string &amp;vrf_name, const NhType &amp;nh_item, <a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;comp_nh_list)</td></tr>
-<tr class="memdesc:aca071801ec9b0679f479d1f12b203eb3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds an interface or a composite of interfaces nexthops to the list of components NH keys needed for construction of the a mixed composite.  <a href="#aca071801ec9b0679f479d1f12b203eb3">More...</a><br/></td></tr>
-<tr class="separator:aca071801ec9b0679f479d1f12b203eb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abea749db97977b3d8f6dad92c2e822f2"><td class="memTemplParams" colspan="2">template&lt;typename NhType &gt; </td></tr>
+<tr class="memitem:abea749db97977b3d8f6dad92c2e822f2"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#abea749db97977b3d8f6dad92c2e822f2">AddInterfaceComponentToList</a> (const std::string &amp;prefix_str, const std::string &amp;vrf_name, const NhType &amp;nh_item, <a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;comp_nh_list, std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="memdesc:abea749db97977b3d8f6dad92c2e822f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds an interface or a composite of interfaces nexthops to the list of components NH keys needed for construction of the a mixed composite.  <a href="#abea749db97977b3d8f6dad92c2e822f2">More...</a><br/></td></tr>
+<tr class="separator:abea749db97977b3d8f6dad92c2e822f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e022d6f132bfe69ef49f3f66ddffb88"><td class="memTemplParams" colspan="2">template&lt;typename NhType &gt; </td></tr>
+<tr class="memitem:a0e022d6f132bfe69ef49f3f66ddffb88"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a0e022d6f132bfe69ef49f3f66ddffb88">AddBgpaasInterfaceComponentToList</a> (const std::string &amp;vrf_name, const NhType &amp;nh_item, <a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;comp_nh_list, std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="separator:a0e022d6f132bfe69ef49f3f66ddffb88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48491950009f26af79dd988b0d0f8e06"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d57/classAgentRoute.html">AgentRoute</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a48491950009f26af79dd988b0d0f8e06">FindEvpnOrInetRoute</a> (const <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> *agent, const std::string &amp;vrf_name, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;ip_addr, uint32_t prefix_len, const autogen::EnetNextHopType &amp;nh_item)</td></tr>
 <tr class="memdesc:a48491950009f26af79dd988b0d0f8e06"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds a route with the given prefix address and len in the EVPN table.  <a href="#a48491950009f26af79dd988b0d0f8e06">More...</a><br/></td></tr>
 <tr class="separator:a48491950009f26af79dd988b0d0f8e06"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -498,7 +501,66 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="aca071801ec9b0679f479d1f12b203eb3"></a>
+<a class="anchor" id="a0e022d6f132bfe69ef49f3f66ddffb88"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename NhType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VxlanRoutingManager::AddBgpaasInterfaceComponentToList </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>vrf_name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const NhType &amp;&#160;</td>
+          <td class="paramname"><em>nh_item</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;&#160;</td>
+          <td class="paramname"><em>comp_nh_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramname"><em>peer_sources</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00063">63</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a0e022d6f132bfe69ef49f3f66ddffb88_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a0e022d6f132bfe69ef49f3f66ddffb88_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_a0e022d6f132bfe69ef49f3f66ddffb88_cgraph" id="dc/d5b/classVxlanRoutingManager_a0e022d6f132bfe69ef49f3f66ddffb88_cgraph">
+<area shape="rect" id="node2" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="337,5,484,32"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="623,86,787,127"/><area shape="rect" id="node4" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="329,174,493,215"/><area shape="rect" id="node5" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="329,239,493,281"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="329,57,493,98"/><area shape="rect" id="node7" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="329,305,493,346"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="329,370,493,411"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a48491950009f26af79dd988b0d0f8e06" title="Finds a route with the given prefix address and len in the EVPN table. " alt="" coords="328,435,493,477"/><area shape="rect" id="node10" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="307,553,514,594"/><area shape="rect" id="node13" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="903,459,1052,485"/><area shape="rect" id="node19" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="608,712,803,739"/><area shape="rect" id="node25" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="294,720,527,747"/><area shape="rect" id="node26" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title="IsBgpaasCompositeNexthop" alt="" coords="307,669,514,696"/><area shape="rect" id="node29" href="../../dd/d76/classCompositeNH.html#a24682d6addde77ee5f0d7b7d03fa67c5" title="CompositeNH::GetDBRequestKey" alt="" coords="291,771,530,797"/><area shape="rect" id="node31" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="314,822,507,863"/><area shape="rect" id="node11" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="635,509,776,536"/><area shape="rect" id="node12" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="615,560,796,587"/><area shape="rect" id="node18" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="597,611,814,637"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="915,509,1040,536"/><area shape="rect" id="node15" href="../../d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="882,560,1073,587"/><area shape="rect" id="node16" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="907,661,1047,688"/><area shape="rect" id="node17" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="921,611,1033,637"/><area shape="rect" id="node20" href="../../d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="898,712,1057,739"/><area shape="rect" id="node21" href="../../d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="897,763,1058,805"/><area shape="rect" id="node22" href="../../d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="897,829,1058,870"/><area shape="rect" id="node23" href="../../d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="917,895,1037,921"/><area shape="rect" id="node24" href="../../dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="880,945,1075,972"/><area shape="rect" id="node27" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="579,813,832,840"/><area shape="rect" id="node28" href="../../dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="624,763,787,789"/><area shape="rect" id="node30" href="../../dd/d76/classCompositeNH.html#a67331c092ce746e6be9bd25749aab341" title="CompositeNH::component\l_nh_key_list" alt="" coords="609,865,802,906"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="abea749db97977b3d8f6dad92c2e822f2"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -529,7 +591,13 @@ template&lt;typename NhType &gt; </div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;&#160;</td>
-          <td class="paramname"><em>comp_nh_list</em>&#160;</td>
+          <td class="paramname"><em>comp_nh_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramname"><em>peer_sources</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -546,73 +614,14 @@ template&lt;typename NhType &gt; </div>
 
 <p>Adds an interface or a composite of interfaces nexthops to the list of components NH keys needed for construction of the a mixed composite. </p>
 
-<p>Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00015">15</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00151">151</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_aca071801ec9b0679f479d1f12b203eb3_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_aca071801ec9b0679f479d1f12b203eb3_cgraph" alt=""/></div>
-<map name="dc/d5b/classVxlanRoutingManager_aca071801ec9b0679f479d1f12b203eb3_cgraph" id="dc/d5b/classVxlanRoutingManager_aca071801ec9b0679f479d1f12b203eb3_cgraph">
-<area shape="rect" id="node2" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="327,5,473,32"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="595,78,759,119"/><area shape="rect" id="node4" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="318,173,482,214"/><area shape="rect" id="node5" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="318,238,482,279"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="318,107,482,149"/><area shape="rect" id="node7" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="318,303,482,345"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="318,369,482,410"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a48491950009f26af79dd988b0d0f8e06" title="Finds a route with the given prefix address and len in the EVPN table. " alt="" coords="317,434,483,475"/><area shape="rect" id="node10" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="297,551,503,593"/><area shape="rect" id="node13" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="856,457,1005,484"/><area shape="rect" id="node16" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="861,660,1001,687"/><area shape="rect" id="node19" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="283,689,517,716"/><area shape="rect" id="node20" href="../../dd/d76/classCompositeNH.html#a24682d6addde77ee5f0d7b7d03fa67c5" title="CompositeNH::GetDBRequestKey" alt="" coords="281,740,519,767"/><area shape="rect" id="node22" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="303,791,497,833"/><area shape="rect" id="node11" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="607,508,748,535"/><area shape="rect" id="node12" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="587,609,768,636"/><area shape="rect" id="node18" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="569,559,786,585"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="868,508,993,535"/><area shape="rect" id="node15" href="../../d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="835,559,1026,585"/><area shape="rect" id="node17" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="875,609,987,636"/><area shape="rect" id="node21" href="../../dd/d76/classCompositeNH.html#a67331c092ce746e6be9bd25749aab341" title="CompositeNH::component\l_nh_key_list" alt="" coords="581,733,774,774"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="acff08a1a564a261cc94449ace40b1442"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void VxlanRoutingManager::AdvertiseBGPaaSRoute </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;&#160;</td>
-          <td class="paramname"><em>prefix_ip</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>prefix_len</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="../../d4/d3d/classAgentPath.html">AgentPath</a> *&#160;</td>
-          <td class="paramname"><em>path</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *&#160;</td>
-          <td class="paramname"><em>evpn_table</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Advertises BGPaaS interface path in the routing VRF instance by selecting corresponding path components in a path from the bridge VRF instance. </p>
-
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00488">488</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_acff08a1a564a261cc94449ace40b1442_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_acff08a1a564a261cc94449ace40b1442_cgraph" alt=""/></div>
-<map name="dc/d5b/classVxlanRoutingManager_acff08a1a564a261cc94449ace40b1442_cgraph" id="dc/d5b/classVxlanRoutingManager_acff08a1a564a261cc94449ace40b1442_cgraph">
-<area shape="rect" id="node2" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="859,331,1008,358"/><area shape="rect" id="node3" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="251,798,453,825"/><area shape="rect" id="node4" href="../../d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="278,849,426,891"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a" title="Auxilliary functions. " alt="" coords="555,320,733,361"/><area shape="rect" id="node8" href="../../d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="265,915,439,942"/><area shape="rect" id="node9" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="283,966,421,993"/><area shape="rect" id="node10" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="261,1017,443,1043"/><area shape="rect" id="node11" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="280,1067,424,1094"/><area shape="rect" id="node12" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="269,1119,435,1160"/><area shape="rect" id="node13" href="../../d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="263,1185,441,1211"/><area shape="rect" id="node14" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="251,1235,453,1262"/><area shape="rect" id="node7" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1155,407,1295,434"/><area shape="rect" id="node15" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a55cce8f9d5853c9d3fc985e57dc23e2e" title="MakeInterfaceNextHopReq" alt="" coords="254,747,450,774"/><area shape="rect" id="node19" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="271,1287,433,1328"/><area shape="rect" id="node20" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="269,1352,435,1393"/><area shape="rect" id="node23" href="../../dc/d5b/classVxlanRoutingManager.html#ab4b9e903ef648762af9b197f566ad592" title="Finds in the given route the path with the given Peer type and interface nexthop (InterfaceNH). " alt="" coords="233,199,471,240"/><area shape="rect" id="node27" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="877,281,989,307"/><area shape="rect" id="node30" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="255,1417,449,1459"/><area shape="rect" id="node29" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1099,53,1352,79"/><area shape="rect" id="node31" href="../../d6/d6c/classCompositeNHKey.html#ab7b65f42e906763ef62d0609b2cdd677" title="CompositeNHKey::Reorder" alt="" coords="255,697,449,723"/><area shape="rect" id="node46" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="275,1502,429,1529"/><area shape="rect" id="node5" href="../../d8/d35/classPathPreference.html#a71d5c2b9f1660379fd3fe0b39980647f" title="PathPreference::loc\l_sequence" alt="" coords="571,1247,717,1288"/><area shape="rect" id="node16" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="817,1087,1050,1114"/><area shape="rect" id="node17" href="../../d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="569,1181,719,1223"/><area shape="rect" id="node18" href="../../d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="852,1189,1015,1215"/><area shape="rect" id="node21" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="555,1377,733,1419"/><area shape="rect" id="node22" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="559,1312,729,1353"/><area shape="rect" id="node24" href="../../dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="541,189,747,245"/><area shape="rect" id="node25" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="863,129,1004,155"/><area shape="rect" id="node26" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="871,179,996,206"/><area shape="rect" id="node28" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="819,78,1047,105"/><area shape="rect" id="node32" href="../../d6/d6c/classCompositeNHKey.html#acb966df5aa0fb52fd5e82dee386bec82" title="CompositeNHKey::CreateTunnelNH" alt="" coords="520,605,768,631"/><area shape="rect" id="node35" href="../../d6/d6c/classCompositeNHKey.html#ada6e33f86c31c50c5153ae2f51df4897" title="CompositeNHKey::ExpandLocal\lCompositeNH" alt="" coords="531,769,757,811"/><area shape="rect" id="node44" href="../../d1/dcc/classNextHopKey.html#a8533a8e26a97efa23aa4b25ca5745e29" title="NextHopKey::SetPolicy" alt="" coords="559,937,729,963"/><area shape="rect" id="node43" href="../../d6/d6c/classCompositeNHKey.html#a192be217fb8c83c6b3557cc64af20336" title="CompositeNHKey::find" alt="" coords="1142,1087,1309,1114"/><area shape="rect" id="node37" href="../../d6/d6c/classCompositeNHKey.html#a6e6dd7b20718fbbce11e5a8d35e441f7" title="CompositeNHKey::erase" alt="" coords="844,635,1023,662"/><area shape="rect" id="node42" href="../../d6/d6c/classCompositeNHKey.html#ad67c9786b95176f06c65630de5e03300" title="CompositeNHKey::insert" alt="" coords="843,1037,1023,1063"/><area shape="rect" id="node45" href="../../d6/d6c/classCompositeNHKey.html#a38e1612b64c6fbdee4712bbe2ea23547" title="CompositeNHKey::component\l_nh_key_list" alt="" coords="536,488,752,529"/><area shape="rect" id="node33" href="../../d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="853,585,1014,611"/><area shape="rect" id="node34" href="../../df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title="NextHopTable::Process" alt="" coords="848,534,1019,561"/><area shape="rect" id="node36" href="../../d6/d6c/classCompositeNHKey.html#a579dd7fd9c3fb194a4ad0972f8a35ffb" title="CompositeNHKey::composite\l_nh_type" alt="" coords="828,803,1039,844"/><area shape="rect" id="node38" href="../../da/d7c/structVrfKey.html#a505c0b31918df659bef769aa1e02af22" title="VrfKey::IsEqual" alt="" coords="874,869,993,895"/><area shape="rect" id="node39" href="../../d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="846,919,1021,946"/><area shape="rect" id="node40" href="../../db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="839,971,1027,1012"/><area shape="rect" id="node41" href="../../d4/dec/classNextHop.html#ab8d259e0775bffa3130c2dbed3f30e0c" title="NextHop::NexthopToInterface\lPolicy" alt="" coords="826,737,1041,779"/><area shape="rect" id="node47" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="565,1495,723,1536"/><area shape="rect" id="node48" href="../../d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="575,1561,713,1587"/><area shape="rect" id="node49" href="../../de/d8b/classEvpnAgentRouteTable.html#ac63a1360b0d6c246e8d8a96fd623397a" title="EvpnAgentRouteTable\l::AddType5Route" alt="" coords="563,1612,725,1653"/><area shape="rect" id="node50" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="572,1443,716,1470"/></map>
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_abea749db97977b3d8f6dad92c2e822f2_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_abea749db97977b3d8f6dad92c2e822f2_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_abea749db97977b3d8f6dad92c2e822f2_cgraph" id="dc/d5b/classVxlanRoutingManager_abea749db97977b3d8f6dad92c2e822f2_cgraph">
+<area shape="rect" id="node2" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="612,61,759,88"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="898,113,1062,154"/><area shape="rect" id="node4" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="603,178,767,219"/><area shape="rect" id="node5" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="603,243,767,285"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="603,113,767,154"/><area shape="rect" id="node7" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="603,309,767,350"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="603,374,767,415"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a48491950009f26af79dd988b0d0f8e06" title="Finds a route with the given prefix address and len in the EVPN table. " alt="" coords="603,643,768,685"/><area shape="rect" id="node10" href="../../dc/d5b/classVxlanRoutingManager.html#a0e022d6f132bfe69ef49f3f66ddffb88" title="VxlanRoutingManager\l::AddBgpaasInterfaceComponent\lToList" alt="" coords="281,476,517,532"/><area shape="rect" id="node11" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="582,709,789,750"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1177,795,1327,821"/><area shape="rect" id="node17" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1182,592,1322,619"/><area shape="rect" id="node26" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="569,825,802,852"/><area shape="rect" id="node30" href="../../dd/d76/classCompositeNH.html#a24682d6addde77ee5f0d7b7d03fa67c5" title="CompositeNH::GetDBRequestKey" alt="" coords="566,943,805,969"/><area shape="rect" id="node32" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="589,877,782,918"/><area shape="rect" id="node20" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="883,389,1077,416"/><area shape="rect" id="node27" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title="IsBgpaasCompositeNexthop" alt="" coords="582,541,789,568"/><area shape="rect" id="node12" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="909,693,1051,720"/><area shape="rect" id="node13" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="889,643,1071,669"/><area shape="rect" id="node19" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="871,744,1089,771"/><area shape="rect" id="node15" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1189,643,1315,669"/><area shape="rect" id="node16" href="../../d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="1157,693,1347,720"/><area shape="rect" id="node18" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1196,744,1308,771"/><area shape="rect" id="node21" href="../../d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="1173,265,1331,292"/><area shape="rect" id="node22" href="../../d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="1171,317,1333,358"/><area shape="rect" id="node23" href="../../d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="1171,382,1333,423"/><area shape="rect" id="node24" href="../../d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1192,448,1312,475"/><area shape="rect" id="node25" href="../../dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="1155,499,1349,525"/><area shape="rect" id="node28" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="853,541,1107,568"/><area shape="rect" id="node29" href="../../dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="899,491,1061,517"/><area shape="rect" id="node31" href="../../dd/d76/classCompositeNH.html#a67331c092ce746e6be9bd25749aab341" title="CompositeNH::component\l_nh_key_list" alt="" coords="883,927,1077,969"/></map>
 </div>
 </p>
 
@@ -653,7 +662,7 @@ Here is the call graph for this function:</div>
 <p>XMPP Advertising functions. </p>
 <p>Allocates and returns a new key for the VxLAN tunnel to the given router </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00018">18</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00019">19</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -729,7 +738,7 @@ Here is the call graph for this function:</div>
 
 <p>Removes redundant <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a> path from a given route. These routes might arise with small chance in a bridge VRF inet tables when tunnels in the routing VRF instance arrive later then in the bridge VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00215">215</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00204">204</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -800,7 +809,7 @@ Here is the call graph for this function:</div>
 
 <p>Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between bridge VRF Inet and routing EVPN tables. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00869">869</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00690">690</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -871,7 +880,7 @@ Here is the call graph for this function:</div>
 
 <p>Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between routing VRF EVPN and Inet tables. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00922">922</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00743">743</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -990,7 +999,7 @@ Here is the call graph for this function:</div>
 <p>Routes copying functions. </p>
 <p>Deletes interface path specified with IP prefix, prefix length and <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> from the EVPN table. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00848">848</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00669">669</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1047,7 +1056,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00901">901</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00722">722</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1194,7 +1203,7 @@ Here is the call graph for this function:</div>
 
 <p>Performs routes leaking between the EVPN table of the routing VRF instance and the Inet table of the routing VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00146">146</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00135">135</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1232,43 +1241,6 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_af7076953732d7647cfba086dc1de969d_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_af7076953732d7647cfba086dc1de969d_cgraph" alt=""/></div>
 <map name="dc/d5b/classVxlanRoutingManager_af7076953732d7647cfba086dc1de969d_cgraph" id="dc/d5b/classVxlanRoutingManager_af7076953732d7647cfba086dc1de969d_cgraph">
 <area shape="rect" id="node2" href="../../dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="219,12,323,39"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="a0174b6ac1f756bf2aae127d089089d23"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d4/d3d/classAgentPath.html">AgentPath</a> * VxlanRoutingManager::FindBGPaaSPath </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d5/d9f/classInetUnicastRouteEntry.html">InetUnicastRouteEntry</a> *&#160;</td>
-          <td class="paramname"><em>rt</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Finds in the given route the path that was announced using BGPaaS. It is expected that this path has BGP_PEER peer type and the interface or composite nexthop. </p>
-
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00455">455</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a0174b6ac1f756bf2aae127d089089d23_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a0174b6ac1f756bf2aae127d089089d23_cgraph" alt=""/></div>
-<map name="dc/d5b/classVxlanRoutingManager_a0174b6ac1f756bf2aae127d089089d23_cgraph" id="dc/d5b/classVxlanRoutingManager_a0174b6ac1f756bf2aae127d089089d23_cgraph">
-<area shape="rect" id="node2" href="../../dc/d5b/classVxlanRoutingManager.html#ad458c0685d74f174a0890af411d71236" title="Finds in the given route the path which has the BGP_PEER Peer type and the Interface nexthop type..." alt="" coords="219,190,445,231"/><area shape="rect" id="node13" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a6fd58df0c79372e4a3256ec8e7db4232" title="IsBGPaaSInterfaceNextHop" alt="" coords="1055,461,1254,488"/><area shape="rect" id="node6" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1080,259,1229,285"/><area shape="rect" id="node19" href="../../d8/d3e/vxlan__auxilliary_8cc.html#acc5439cdc4abbcd69c78558a7d44d78f" title="IsBGPaaSCompositeNextHop" alt="" coords="781,360,992,387"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#ab4b9e903ef648762af9b197f566ad592" title="Finds in the given route the path with the given Peer type and interface nexthop (InterfaceNH). " alt="" coords="494,190,733,231"/><area shape="rect" id="node4" href="../../dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="783,143,990,199"/><area shape="rect" id="node5" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1084,5,1225,32"/><area shape="rect" id="node7" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1092,56,1217,83"/><area shape="rect" id="node8" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1099,107,1211,133"/><area shape="rect" id="node9" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1374,269,1514,296"/><area shape="rect" id="node10" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a45e93f1a6338d5993fcc7c0cb9048c96" title="IsGivenTypeCompositeNextHop" alt="" coords="1041,157,1269,184"/><area shape="rect" id="node11" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="1317,160,1571,187"/><area shape="rect" id="node12" href="../../dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="1363,213,1525,240"/><area shape="rect" id="node14" href="../../d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="1365,563,1523,589"/><area shape="rect" id="node15" href="../../d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="1363,330,1525,371"/><area shape="rect" id="node16" href="../../d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="1363,395,1525,437"/><area shape="rect" id="node17" href="../../d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1384,461,1504,488"/><area shape="rect" id="node18" href="../../dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="1347,512,1541,539"/></map>
 </div>
 </p>
 
@@ -1416,7 +1388,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path which has the BGP_PEER <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and the <a class="el" href="../../d0/dcc/classInterface.html">Interface</a> nexthop type. Such path presumably points to BGPaaS advertised route. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00440">440</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00394">394</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1469,7 +1441,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and interface nexthop (<a class="el" href="../../de/d30/classInterfaceNH.html">InterfaceNH</a>). </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00432">432</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00386">386</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1516,7 +1488,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path which has the LOCAL_VM_PEER peer type and the <a class="el" href="../../d0/dcc/classInterface.html">Interface</a> nexthop type. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00447">447</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00401">401</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1563,7 +1535,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with a specified <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00382">382</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00336">336</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1622,7 +1594,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with a specified <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and a specified nexthop type. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00402">402</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00356">356</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1660,7 +1632,7 @@ Here is the call graph for this function:</div>
 <p>Auxilliary functions. </p>
 <p>Returns new value of a local sequence. Thread safe version </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00094">94</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00048">48</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1713,7 +1685,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds first occurence of a route with the given prefix (IP address and length) in Inet tables of bridge VRF instances connected to the given routing VRF instance (LR). </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00186">186</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00140">140</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1789,7 +1761,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route has at least one path originating from BGP/XMPP (has <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type BGP_PATH) </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00322">322</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00276">276</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1826,7 +1798,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given route has the path with a VRF nexthop (<a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00306">306</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00260">260</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1881,7 +1853,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_aecd7ebb41ca01d15d2a0fbb4d9181bb2_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_aecd7ebb41ca01d15d2a0fbb4d9181bb2_cgraph" alt=""/></div>
 <map name="dc/d5b/classVxlanRoutingManager_aecd7ebb41ca01d15d2a0fbb4d9181bb2_cgraph" id="dc/d5b/classVxlanRoutingManager_aecd7ebb41ca01d15d2a0fbb4d9181bb2_cgraph">
-<area shape="rect" id="node2" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="813,2042,992,2083"/><area shape="rect" id="node3" href="../../d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="219,419,453,461"/><area shape="rect" id="node4" href="../../d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="553,2020,676,2047"/><area shape="rect" id="node5" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="511,2640,719,2667"/><area shape="rect" id="node7" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="233,181,439,222"/><area shape="rect" id="node14" href="../../dc/d5b/classVxlanRoutingManager.html#a0174b6ac1f756bf2aae127d089089d23" title="Finds in the given route the path that was announced using BGPaaS. It is expected that this path has ..." alt="" coords="254,537,418,578"/><area shape="rect" id="node20" href="../../dc/d5b/classVxlanRoutingManager.html#acff08a1a564a261cc94449ace40b1442" title="Advertises BGPaaS interface path in the routing VRF instance by selecting corresponding path componen..." alt="" coords="247,1151,425,1193"/><area shape="rect" id="node38" href="../../d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="531,2122,698,2163"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a3cb078e36f46ce2a8b247c3edc2bcf27" title="Removes redundant VrfNH path from a given route. These routes might arise with small chance in a brid..." alt="" coords="246,1845,426,1886"/><area shape="rect" id="node43" href="../../dc/d5b/classVxlanRoutingManager.html#a91fc61681ab1bbd1d9e1015e6693ba18" title="Handles deletion of a route in the EVPN table of the routing VRF instance. " alt="" coords="219,2341,453,2382"/><area shape="rect" id="node21" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="513,809,716,836"/><area shape="rect" id="node22" href="../../d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="541,861,689,902"/><area shape="rect" id="node23" href="../../dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a" title="Auxilliary functions. " alt="" coords="525,373,704,414"/><area shape="rect" id="node47" href="../../d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="565,2691,664,2717"/><area shape="rect" id="node49" href="../../d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="543,2741,686,2768"/><area shape="rect" id="node50" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="221,651,451,693"/><area shape="rect" id="node25" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="545,927,684,953"/><area shape="rect" id="node26" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="524,1465,705,1492"/><area shape="rect" id="node27" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="543,1516,687,1543"/><area shape="rect" id="node28" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="531,1567,698,1609"/><area shape="rect" id="node29" href="../../d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="525,1633,704,1660"/><area shape="rect" id="node6" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="815,2640,991,2667"/><area shape="rect" id="node8" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="832,1684,973,1711"/><area shape="rect" id="node9" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="524,17,705,44"/><area shape="rect" id="node13" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="506,68,723,95"/><area shape="rect" id="node10" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="828,245,977,272"/><area shape="rect" id="node11" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1078,464,1218,491"/><area shape="rect" id="node12" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="847,119,959,145"/><area shape="rect" id="node15" href="../../dc/d5b/classVxlanRoutingManager.html#ad458c0685d74f174a0890af411d71236" title="Finds in the given route the path which has the BGP_PEER Peer type and the Interface nexthop type..." alt="" coords="501,591,728,633"/><area shape="rect" id="node17" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a6fd58df0c79372e4a3256ec8e7db4232" title="IsBGPaaSInterfaceNextHop" alt="" coords="803,439,1002,465"/><area shape="rect" id="node18" href="../../d8/d3e/vxlan__auxilliary_8cc.html#acc5439cdc4abbcd69c78558a7d44d78f" title="IsBGPaaSCompositeNextHop" alt="" coords="509,489,720,516"/><area shape="rect" id="node16" href="../../dc/d5b/classVxlanRoutingManager.html#ab4b9e903ef648762af9b197f566ad592" title="Finds in the given route the path with the given Peer type and interface nexthop (InterfaceNH). " alt="" coords="783,781,1022,822"/><area shape="rect" id="node19" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="776,637,1029,664"/><area shape="rect" id="node24" href="../../d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="527,1247,702,1273"/><area shape="rect" id="node30" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="514,1297,715,1324"/><area shape="rect" id="node31" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a55cce8f9d5853c9d3fc985e57dc23e2e" title="MakeInterfaceNextHopReq" alt="" coords="517,1348,713,1375"/><area shape="rect" id="node32" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="533,1399,696,1441"/><area shape="rect" id="node33" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="532,1903,697,1945"/><area shape="rect" id="node34" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="518,1181,711,1222"/><area shape="rect" id="node35" href="../../d6/d6c/classCompositeNHKey.html#ab7b65f42e906763ef62d0609b2cdd677" title="CompositeNHKey::Reorder" alt="" coords="806,1032,999,1059"/><area shape="rect" id="node36" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="537,759,692,785"/><area shape="rect" id="node37" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="831,1768,975,1795"/><area shape="rect" id="node40" href="../../d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="535,2071,694,2097"/><area shape="rect" id="node41" href="../../d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="808,2413,997,2440"/><area shape="rect" id="node42" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="512,1735,717,1777"/><area shape="rect" id="node44" href="../../d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="526,2589,703,2616"/><area shape="rect" id="node45" href="../../dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4..." alt="" coords="533,2341,697,2382"/><area shape="rect" id="node46" href="../../dc/d5b/classVxlanRoutingManager.html#a07ebf5ba090c0784df9a39d8bc2d1640" title="Delete routes to IPAM, specified by IP prefix and prefix length. " alt="" coords="533,2406,697,2447"/><area shape="rect" id="node48" href="../../d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914" title="AgentRoute::origin\l_vn_name" alt="" coords="543,2523,686,2565"/></map>
+<area shape="rect" id="node2" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="780,730,959,771"/><area shape="rect" id="node3" href="../../d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="219,2146,453,2187"/><area shape="rect" id="node4" href="../../d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="549,632,672,659"/><area shape="rect" id="node5" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="507,1369,715,1396"/><area shape="rect" id="node8" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="233,129,439,170"/><area shape="rect" id="node17" href="../../dc/d5b/classVxlanRoutingManager.html#a3cb078e36f46ce2a8b247c3edc2bcf27" title="Removes redundant VrfNH path from a given route. These routes might arise with small chance in a brid..." alt="" coords="246,473,426,514"/><area shape="rect" id="node25" href="../../dc/d5b/classVxlanRoutingManager.html#a91fc61681ab1bbd1d9e1015e6693ba18" title="Handles deletion of a route in the EVPN table of the routing VRF instance. " alt="" coords="219,998,453,1039"/><area shape="rect" id="node36" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="768,1985,971,2012"/><area shape="rect" id="node37" href="../../d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="262,2211,410,2253"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a" title="Auxilliary functions. " alt="" coords="521,129,700,170"/><area shape="rect" id="node32" href="../../d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="561,1268,660,1295"/><area shape="rect" id="node34" href="../../d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="539,1319,682,1345"/><area shape="rect" id="node40" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="221,1590,451,1631"/><area shape="rect" id="node24" href="../../d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="527,246,694,287"/><area shape="rect" id="node44" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="800,1817,939,1844"/><area shape="rect" id="node46" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="779,2065,960,2092"/><area shape="rect" id="node45" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="797,1935,941,1961"/><area shape="rect" id="node47" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="786,1869,953,1910"/><area shape="rect" id="node50" href="../../d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="247,2277,425,2304"/><area shape="rect" id="node6" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="781,1369,957,1396"/><area shape="rect" id="node7" href="../../d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="1019,1369,1223,1396"/><area shape="rect" id="node9" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="799,312,940,339"/><area shape="rect" id="node10" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="520,77,701,104"/><area shape="rect" id="node16" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="502,27,719,53"/><area shape="rect" id="node11" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="795,208,944,235"/><area shape="rect" id="node12" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="807,56,932,83"/><area shape="rect" id="node13" href="../../d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="774,5,965,32"/><area shape="rect" id="node14" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="799,157,939,184"/><area shape="rect" id="node15" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="813,107,925,133"/><area shape="rect" id="node18" href="../../d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="531,312,690,339"/><area shape="rect" id="node19" href="../../d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="775,917,964,944"/><area shape="rect" id="node20" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="508,414,713,455"/><area shape="rect" id="node23" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="797,1623,941,1649"/><area shape="rect" id="node21" href="../../d1/d16/inet__unicast__route_8cc.html#abfb108dbebce1037765fc41ffda58cb7" title="InetUnicastTableProcess" alt="" coords="779,421,959,448"/><area shape="rect" id="node22" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="796,575,943,601"/><area shape="rect" id="node26" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="528,851,693,893"/><area shape="rect" id="node28" href="../../d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="522,1035,699,1061"/><area shape="rect" id="node29" href="../../dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4..." alt="" coords="529,1086,693,1127"/><area shape="rect" id="node30" href="../../dc/d5b/classVxlanRoutingManager.html#a07ebf5ba090c0784df9a39d8bc2d1640" title="Delete routes to IPAM, specified by IP prefix and prefix length. " alt="" coords="529,1151,693,1193"/><area shape="rect" id="node33" href="../../d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914" title="AgentRoute::origin\l_vn_name" alt="" coords="539,969,682,1010"/><area shape="rect" id="node35" href="../../de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="529,734,692,775"/><area shape="rect" id="node27" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="785,851,954,893"/><area shape="rect" id="node31" href="../../d6/dd4/classPeer.html#a5ec8cc00efa2aedd0ab9c468b2fcba55" title="Peer::GetName" alt="" coords="809,1159,930,1185"/><area shape="rect" id="node38" href="../../d8/d35/classPathPreference.html#a71d5c2b9f1660379fd3fe0b39980647f" title="PathPreference::loc\l_sequence" alt="" coords="537,2211,684,2253"/><area shape="rect" id="node41" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="537,1521,685,1548"/><area shape="rect" id="node42" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="791,1717,948,1758"/><area shape="rect" id="node43" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title="AdvertiseInterfaceBgpRoute" alt="" coords="509,1775,713,1801"/><area shape="rect" id="node48" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title="AdvertiseCompositeInterface\lBgpRoute" alt="" coords="505,1927,717,1969"/><area shape="rect" id="node49" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="533,1673,688,1700"/></map>
 </div>
 </p>
 
@@ -1911,7 +1883,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts an IPv4 address string from the prefix string. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00124">124</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00078">78</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -1939,7 +1911,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts length of IPv4 subnet address from the prefix string. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00113">113</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00067">67</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -1967,7 +1939,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts an IPv6 address string from the prefix string. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00156">156</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00110">110</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -1995,7 +1967,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts length of IPv6 subnet address from the prefix string. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00145">145</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00099">99</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2023,7 +1995,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the address string contains an IPv4 address as substring or not. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00104">104</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00058">58</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2051,7 +2023,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the address string contains an IPv6 address as substring or not. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00108">108</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00062">62</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2089,7 +2061,7 @@ Here is the call graph for this function:</div>
 <p>Determines whether the pointer to the VRF instance is of bridge type. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if it is routing, otherwise return value is false. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00358">358</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00312">312</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2136,7 +2108,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4, /128 for IPv6) or to a subnet route. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00233">233</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00187">187</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2164,7 +2136,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route points to a host or a subnet. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00241">241</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00195">195</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2201,7 +2173,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route is a host one and belongs to a subnet of a local bridge VRF. During the search all subnets in all bridge VRF instances connected to the LR are traversed. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00248">248</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00202">202</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2275,7 +2247,7 @@ Here is the call graph for this function:</div>
 <p>Determines whether the pointer to the VRF instance is of routing type. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if it is routing, otherwise return value is false. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00337">337</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00291">291</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2323,7 +2295,7 @@ Here is the call graph for this function:</div>
 <p>Checks whether the VRF instance with the given name is routing or not. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if this VRF is routing, otherwise return value is false. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00364">364</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00318">318</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2370,7 +2342,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines if the given EVPN route has an interface NH or a composite of interfaces NH that belongs to the given bridge VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00286">286</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00240">240</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2407,7 +2379,7 @@ Here is the call graph for this function:</div>
 
 <p>Checks whether VxLAN routing manager is enabled or not. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00175">175</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00129">129</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2447,7 +2419,7 @@ template&lt;class ItType &gt; </div>
 <p>Templates. </p>
 <p>Converts item's (EnetItemType for EVPN / ItemType for Inet) nexthops into the list of IP addresses (IpAddress) </p>
 
-<p>Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00002">2</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00004">4</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
 
 </div>
 </div>
@@ -2495,7 +2467,7 @@ template&lt;class ItType &gt; </div>
 
 <p>Performs advertisement and deletion of routing routes (with <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) in bridge VRF instances. External tunnels and routes with a prefix that is not present in bridge VRF instance are selected for leaking. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00371">371</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00360">360</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2531,7 +2503,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints all virtual networks attached to logical routers. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l01063">1063</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00884">884</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2578,7 +2550,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the MAC address for the IP of a given neighbouring compute. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00587">587</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00408">408</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2615,7 +2587,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints EVPN table of the given VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00950">950</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00771">771</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2652,7 +2624,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints IPv4 Inet table of the given VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l01008">1008</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00829">829</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2726,7 +2698,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a15f862e441b5cc8f10502ee8daf1ecc9_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a15f862e441b5cc8f10502ee8daf1ecc9_cgraph" alt=""/></div>
 <map name="dc/d5b/classVxlanRoutingManager_a15f862e441b5cc8f10502ee8daf1ecc9_cgraph" id="dc/d5b/classVxlanRoutingManager_a15f862e441b5cc8f10502ee8daf1ecc9_cgraph">
-<area shape="rect" id="node2" href="../../dc/d5b/classVxlanRoutingManager.html#a7e3716a93b109950aa422389ae0f2e82" title="Determines whether the pointer to the VRF instance is of bridge type. " alt="" coords="219,19,383,60"/><area shape="rect" id="node5" href="../../d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="796,1423,919,1450"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#aecd7ebb41ca01d15d2a0fbb4d9181bb2" title="Routes leaking functions. " alt="" coords="219,760,383,801"/><area shape="rect" id="node40" href="../../dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="219,84,383,125"/><area shape="rect" id="node41" href="../../dc/d5b/classVxlanRoutingManager.html#a55c2b9f4de04db9c878bf1f5aac4d64a" title="Performs routes leaking between the EVPN table of the routing VRF instance and the Inet table of the ..." alt="" coords="219,1736,383,1777"/><area shape="rect" id="node3" href="../../d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="808,93,907,119"/><area shape="rect" id="node4" href="../../d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="468,33,660,59"/><area shape="rect" id="node7" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="768,1475,947,1516"/><area shape="rect" id="node8" href="../../d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="447,388,681,429"/><area shape="rect" id="node9" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="753,143,961,170"/><area shape="rect" id="node11" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="461,571,667,612"/><area shape="rect" id="node17" href="../../dc/d5b/classVxlanRoutingManager.html#a0174b6ac1f756bf2aae127d089089d23" title="Finds in the given route the path that was announced using BGPaaS. It is expected that this path has ..." alt="" coords="482,505,646,547"/><area shape="rect" id="node21" href="../../dc/d5b/classVxlanRoutingManager.html#acff08a1a564a261cc94449ace40b1442" title="Advertises BGPaaS interface path in the routing VRF instance by selecting corresponding path componen..." alt="" coords="475,1205,653,1247"/><area shape="rect" id="node33" href="../../d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="774,616,941,657"/><area shape="rect" id="node34" href="../../dc/d5b/classVxlanRoutingManager.html#a3cb078e36f46ce2a8b247c3edc2bcf27" title="Removes redundant VrfNH path from a given route. These routes might arise with small chance in a brid..." alt="" coords="474,1088,654,1129"/><area shape="rect" id="node37" href="../../dc/d5b/classVxlanRoutingManager.html#a91fc61681ab1bbd1d9e1015e6693ba18" title="Handles deletion of a route in the EVPN table of the routing VRF instance. " alt="" coords="447,636,681,677"/><area shape="rect" id="node22" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="756,1693,959,1719"/><area shape="rect" id="node23" href="../../d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="783,784,931,825"/><area shape="rect" id="node24" href="../../dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a" title="Auxilliary functions. " alt="" coords="768,1003,947,1044"/><area shape="rect" id="node38" href="../../d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="786,194,929,221"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="449,701,679,743"/><area shape="rect" id="node26" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="788,1962,927,1989"/><area shape="rect" id="node27" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="767,1794,948,1821"/><area shape="rect" id="node28" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="785,1591,929,1618"/><area shape="rect" id="node29" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="774,1896,941,1937"/><area shape="rect" id="node30" href="../../d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="768,850,947,877"/><area shape="rect" id="node10" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1031,143,1207,170"/><area shape="rect" id="node12" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1048,1119,1189,1146"/><area shape="rect" id="node13" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="767,413,948,439"/><area shape="rect" id="node16" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="749,463,966,490"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1044,817,1193,843"/><area shape="rect" id="node15" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1267,463,1407,490"/><area shape="rect" id="node18" href="../../dc/d5b/classVxlanRoutingManager.html#ad458c0685d74f174a0890af411d71236" title="Finds in the given route the path which has the BGP_PEER Peer type and the Interface nexthop type..." alt="" coords="744,347,971,388"/><area shape="rect" id="node19" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a6fd58df0c79372e4a3256ec8e7db4232" title="IsBGPaaSInterfaceNextHop" alt="" coords="1019,295,1218,322"/><area shape="rect" id="node20" href="../../d8/d3e/vxlan__auxilliary_8cc.html#acc5439cdc4abbcd69c78558a7d44d78f" title="IsBGPaaSCompositeNextHop" alt="" coords="752,295,963,322"/><area shape="rect" id="node25" href="../../d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="770,1845,945,1871"/><area shape="rect" id="node31" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="757,1271,958,1298"/><area shape="rect" id="node32" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a55cce8f9d5853c9d3fc985e57dc23e2e" title="MakeInterfaceNextHopReq" alt="" coords="759,1322,955,1349"/><area shape="rect" id="node35" href="../../d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="778,1069,937,1095"/><area shape="rect" id="node36" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="785,1119,929,1146"/><area shape="rect" id="node42" href="../../dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="767,2145,948,2171"/><area shape="rect" id="node43" href="../../dc/d5b/classVxlanRoutingManager.html#a4976770256e7ed83b1c179611b08b986" title="Finds in the given route the path with a specified Peer type. " alt="" coords="473,2165,655,2207"/><area shape="rect" id="node44" href="../../dc/d5b/classVxlanRoutingManager.html#ad688534aa8a78758c47a5ccde6059e53" title="Advertises an Inet route received using XMPP channel. " alt="" coords="468,2435,660,2476"/><area shape="rect" id="node45" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="773,2013,942,2055"/><area shape="rect" id="node46" href="../../dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="482,971,646,1012"/><area shape="rect" id="node47" href="../../d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="768,2079,947,2120"/><area shape="rect" id="node48" href="../../dc/d5b/classVxlanRoutingManager.html#a0b9f72fec6f5454beb523e3680c75c00" title="Performs advertisement and deletion of routing routes (with VrfNH) in bridge VRF instances. External tunnels and routes with a prefix that is not present in bridge VRF instance are selected for leaking. " alt="" coords="457,1896,671,1937"/><area shape="rect" id="node49" href="../../d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="462,2231,666,2258"/><area shape="rect" id="node50" href="../../dc/d5b/classVxlanRoutingManager.html#afeb52436ef20af0f942c235ca59f5b8d" title="Handles deletion of a route in the Inet table of the routing VRF instance. " alt="" coords="433,1475,695,1516"/></map>
+<area shape="rect" id="node2" href="../../dc/d5b/classVxlanRoutingManager.html#a7e3716a93b109950aa422389ae0f2e82" title="Determines whether the pointer to the VRF instance is of bridge type. " alt="" coords="219,48,383,90"/><area shape="rect" id="node5" href="../../d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="792,1453,915,1480"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#aecd7ebb41ca01d15d2a0fbb4d9181bb2" title="Routes leaking functions. " alt="" coords="219,880,383,922"/><area shape="rect" id="node40" href="../../dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="219,282,383,323"/><area shape="rect" id="node41" href="../../dc/d5b/classVxlanRoutingManager.html#a55c2b9f4de04db9c878bf1f5aac4d64a" title="Performs routes leaking between the EVPN table of the routing VRF instance and the Inet table of the ..." alt="" coords="219,1703,383,1744"/><area shape="rect" id="node3" href="../../d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="804,281,903,308"/><area shape="rect" id="node4" href="../../d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="468,56,660,82"/><area shape="rect" id="node7" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1016,1395,1195,1436"/><area shape="rect" id="node8" href="../../d1/d67/classVxlanRoutingVrfMapper.html#a80f458d0dc58e19d52682214594ddce4" title="Find the routing VRF instance using a given route (AgentRoute). " alt="" coords="447,691,681,732"/><area shape="rect" id="node9" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="749,28,957,54"/><area shape="rect" id="node11" href="../../d4/d57/classAgentRoute.html#a549ebfe0089352fafe1c3ab551b1817a" title="Finds path to an interface or a composite of interfaces and returns it. The priority is given to comp..." alt="" coords="461,158,667,199"/><area shape="rect" id="node16" href="../../dc/d5b/classVxlanRoutingManager.html#a3cb078e36f46ce2a8b247c3edc2bcf27" title="Removes redundant VrfNH path from a given route. These routes might arise with small chance in a brid..." alt="" coords="474,1004,654,1046"/><area shape="rect" id="node22" href="../../dc/d5b/classVxlanRoutingManager.html#a91fc61681ab1bbd1d9e1015e6693ba18" title="Handles deletion of a route in the EVPN table of the routing VRF instance. " alt="" coords="447,626,681,667"/><area shape="rect" id="node31" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="752,1992,955,2018"/><area shape="rect" id="node32" href="../../d8/d35/classPathPreference.html#a556ee24c913d40da4daa1eccf08d2f32" title="PathPreference::set\l_loc_sequence" alt="" coords="490,756,638,798"/><area shape="rect" id="node33" href="../../dc/d5b/classVxlanRoutingManager.html#a6d5460eb89ade5cf4d4785077ed9250a" title="Auxilliary functions. " alt="" coords="475,223,653,264"/><area shape="rect" id="node29" href="../../d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="782,332,925,358"/><area shape="rect" id="node34" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="449,822,679,863"/><area shape="rect" id="node21" href="../../d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="770,848,937,890"/><area shape="rect" id="node35" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="784,2093,923,2120"/><area shape="rect" id="node36" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="763,1706,944,1733"/><area shape="rect" id="node37" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="781,2042,925,2069"/><area shape="rect" id="node38" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="770,1758,937,1799"/><area shape="rect" id="node39" href="../../d6/dd4/classPeer.html#a1ab1f859b325a9b3d7fcf208dae01a9e" title="Peer::sequence_number" alt="" coords="475,1172,653,1198"/><area shape="rect" id="node10" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="1017,28,1193,54"/><area shape="rect" id="node12" href="../../de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1035,1133,1176,1160"/><area shape="rect" id="node13" href="../../d1/daa/agent__route_8cc.html#aecdc1a5c2e3da86cdab098cb9b59992f" title="returns true if the given path is not null and points " alt="" coords="763,129,944,156"/><area shape="rect" id="node15" href="../../d1/daa/agent__route_8cc.html#a69ac6922930a1cc61b61e9d91eadbcb8" title="returns true if the given path is not null and points " alt="" coords="745,78,962,105"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1031,306,1180,333"/><area shape="rect" id="node17" href="../../d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="774,1184,933,1210"/><area shape="rect" id="node18" href="../../d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="1011,696,1200,722"/><area shape="rect" id="node19" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title="InetUnicastAgentRouteTable\l::Delete" alt="" coords="751,1016,956,1058"/><area shape="rect" id="node20" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="781,1352,925,1378"/><area shape="rect" id="node23" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="771,1286,936,1327"/><area shape="rect" id="node25" href="../../d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="765,1554,942,1581"/><area shape="rect" id="node26" href="../../dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4..." alt="" coords="771,499,935,540"/><area shape="rect" id="node27" href="../../dc/d5b/classVxlanRoutingManager.html#a07ebf5ba090c0784df9a39d8bc2d1640" title="Delete routes to IPAM, specified by IP prefix and prefix length. " alt="" coords="771,630,935,671"/><area shape="rect" id="node28" href="../../d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914" title="AgentRoute::origin\l_vn_name" alt="" coords="782,564,925,606"/><area shape="rect" id="node30" href="../../de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="772,434,935,475"/><area shape="rect" id="node24" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="1021,1758,1190,1799"/><area shape="rect" id="node42" href="../../dc/dd7/classEvpnRouteEntry.html#ac38cbc13c9b6cd9ad8aa61622e895b9a" title="EvpnRouteEntry::IsType5" alt="" coords="763,2349,944,2376"/><area shape="rect" id="node43" href="../../dc/d5b/classVxlanRoutingManager.html#a4976770256e7ed83b1c179611b08b986" title="Finds in the given route the path with a specified Peer type. " alt="" coords="473,1324,655,1366"/><area shape="rect" id="node44" href="../../dc/d5b/classVxlanRoutingManager.html#ad688534aa8a78758c47a5ccde6059e53" title="Advertises an Inet route received using XMPP channel. " alt="" coords="468,2132,660,2174"/><area shape="rect" id="node45" href="../../dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="482,939,646,980"/><area shape="rect" id="node46" href="../../d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="766,2245,941,2272"/><area shape="rect" id="node47" href="../../d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="764,1926,943,1967"/><area shape="rect" id="node48" href="../../dc/d5b/classVxlanRoutingManager.html#a0b9f72fec6f5454beb523e3680c75c00" title="Performs advertisement and deletion of routing routes (with VrfNH) in bridge VRF instances. External tunnels and routes with a prefix that is not present in bridge VRF instance are selected for leaking. " alt="" coords="457,1812,671,1854"/><area shape="rect" id="node49" href="../../d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="462,2300,666,2326"/><area shape="rect" id="node50" href="../../dc/d5b/classVxlanRoutingManager.html#afeb52436ef20af0f942c235ca59f5b8d" title="Handles deletion of a route in the Inet table of the routing VRF instance. " alt="" coords="433,1492,695,1534"/></map>
 </div>
 </p>
 
@@ -2772,7 +2744,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and length. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00211">211</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00165">165</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -2825,7 +2797,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether route prefix of the Inet route is equal to the given pair of prefix IP address and length. </p>
 
-<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00222">222</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00176">176</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3278,7 +3250,7 @@ Here is the call graph for this function:</div>
 
 <p>Handles deletion of a route in the EVPN table of the routing VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00238">238</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00227">227</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3325,7 +3297,7 @@ Here is the call graph for this function:</div>
 
 <p>Handles deletion of a route in the Inet table of the routing VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00298">298</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00287">287</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3370,7 +3342,7 @@ Here is the call graph for this function:</div>
 
 <p>Deletes a given EVPN route from EVPN table of the routing VRF instance. </p>
 
-<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00342">342</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00331">331</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3383,7 +3355,250 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a739abd32ca18855cff1208f0916e59c0"></a>
+<a class="anchor" id="ac7fbdbb21c4b22986991c9381abd8bb2"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VxlanRoutingManager::XmppAdvertiseEvpnBgpaas </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *&#160;</td>
+          <td class="paramname"><em>evpn_table</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;&#160;</td>
+          <td class="paramname"><em>prefix_ip</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const int&#160;</td>
+          <td class="paramname"><em>prefix_len</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>vxlan_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string&#160;</td>
+          <td class="paramname"><em>vrf_name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;&#160;</td>
+          <td class="paramname"><em>params</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *&#160;</td>
+          <td class="paramname"><em>bgp_peer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramname"><em>peer_sources</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00224">224</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph" id="dc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph">
+<area shape="rect" id="node2" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="637,37,801,79"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="322,132,486,173"/><area shape="rect" id="node4" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="322,197,486,239"/><area shape="rect" id="node5" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="322,67,486,108"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="322,263,486,304"/><area shape="rect" id="node7" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="322,328,486,369"/><area shape="rect" id="node8" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="323,393,485,435"/><area shape="rect" id="node9" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="315,459,493,486"/><area shape="rect" id="node13" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="644,459,793,486"/><area shape="rect" id="node15" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="621,662,816,689"/><area shape="rect" id="node21" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title="IsBgpaasCompositeNexthop" alt="" coords="301,561,507,587"/><area shape="rect" id="node24" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="307,663,501,704"/><area shape="rect" id="node25" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasInterface" alt="" coords="270,911,538,952"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasComposite" alt="" coords="264,1233,544,1275"/><area shape="rect" id="node10" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="656,257,781,283"/><area shape="rect" id="node11" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="663,307,775,334"/><area shape="rect" id="node12" href="../../d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="613,358,825,385"/><area shape="rect" id="node14" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="921,495,1061,522"/><area shape="rect" id="node16" href="../../d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="911,647,1070,674"/><area shape="rect" id="node17" href="../../d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="910,699,1071,740"/><area shape="rect" id="node18" href="../../d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="910,764,1071,805"/><area shape="rect" id="node19" href="../../d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="931,546,1051,573"/><area shape="rect" id="node20" href="../../dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="893,597,1088,623"/><area shape="rect" id="node22" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="592,561,845,587"/><area shape="rect" id="node23" href="../../dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="637,611,800,638"/><area shape="rect" id="node26" href="../../de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="624,998,813,1025"/><area shape="rect" id="node27" href="../../d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="660,1049,777,1075"/><area shape="rect" id="node28" href="../../d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="605,1099,833,1126"/><area shape="rect" id="node30" href="../../de/d30/classInterfaceNH.html#a46e52b255a4f989b6375a1a36da3809d" title="InterfaceNH::GetFlags" alt="" coords="636,729,801,755"/><area shape="rect" id="node31" href="../../de/da5/classLocalVmRoute.html#a3df45cf6cac3c0afa1266ef7b0a62b96" title="LocalVmRoute::set_tunnel_bmap" alt="" coords="601,779,836,806"/><area shape="rect" id="node32" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="634,1150,803,1177"/><area shape="rect" id="node33" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="640,881,797,923"/><area shape="rect" id="node34" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="647,947,791,974"/><area shape="rect" id="node35" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="1136,1021,1307,1047"/><area shape="rect" id="node29" href="../../d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="928,1099,1053,1126"/><area shape="rect" id="node36" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1355,970,1581,997"/><area shape="rect" id="node37" href="../../df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1405,1021,1531,1047"/><area shape="rect" id="node38" href="../../d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1380,1071,1556,1098"/><area shape="rect" id="node40" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="618,1333,819,1359"/><area shape="rect" id="node41" href="../../df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title="ControllerEcmpRoute\l::cloned_local_path_list" alt="" coords="631,1384,806,1425"/><area shape="rect" id="node42" href="../../de/d8b/classEvpnAgentRouteTable.html#a551f841c60c21501f6a5d939678ad16e" title="EvpnAgentRouteTable\l::AddClonedLocalPathReq" alt="" coords="625,1201,812,1243"/><area shape="rect" id="node47" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="625,1267,813,1308"/><area shape="rect" id="node43" href="../../de/d8b/classEvpnAgentRouteTable.html#ad66d3730d31a25bfaf328d6999aa6874" title="EvpnAgentRouteTable\l::ComputeHostIpPlen" alt="" coords="909,1155,1072,1196"/><area shape="rect" id="node44" href="../../d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="919,1271,1063,1298"/><area shape="rect" id="node46" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="917,1221,1064,1247"/><area shape="rect" id="node45" href="../../d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="1149,1264,1293,1305"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a924fd6bf235c330981d58be6166345b7"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VxlanRoutingManager::XmppAdvertiseEvpnBgpaasComposite </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *&#160;</td>
+          <td class="paramname"><em>evpn_table</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;&#160;</td>
+          <td class="paramname"><em>prefix_ip</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const int&#160;</td>
+          <td class="paramname"><em>prefix_len</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>vxlan_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string&#160;</td>
+          <td class="paramname"><em>vrf_name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;&#160;</td>
+          <td class="paramname"><em>params</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *&#160;</td>
+          <td class="paramname"><em>bgp_peer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;&#160;</td>
+          <td class="paramname"><em>comp_nh_list</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00177">177</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph" id="dc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph">
+<area shape="rect" id="node2" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="350,5,519,32"/><area shape="rect" id="node3" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="334,56,535,83"/><area shape="rect" id="node4" href="../../df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title="ControllerEcmpRoute\l::cloned_local_path_list" alt="" coords="347,107,522,149"/><area shape="rect" id="node5" href="../../de/d8b/classEvpnAgentRouteTable.html#a551f841c60c21501f6a5d939678ad16e" title="EvpnAgentRouteTable\l::AddClonedLocalPathReq" alt="" coords="341,173,528,214"/><area shape="rect" id="node14" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="341,238,529,279"/><area shape="rect" id="node6" href="../../de/d8b/classEvpnAgentRouteTable.html#ad66d3730d31a25bfaf328d6999aa6874" title="EvpnAgentRouteTable\l::ComputeHostIpPlen" alt="" coords="584,129,747,170"/><area shape="rect" id="node7" href="../../d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="593,245,737,272"/><area shape="rect" id="node13" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="592,195,739,221"/><area shape="rect" id="node8" href="../../d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="808,209,952,250"/><area shape="rect" id="node9" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="795,275,965,301"/><area shape="rect" id="node10" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1013,224,1240,251"/><area shape="rect" id="node11" href="../../df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1063,275,1190,301"/><area shape="rect" id="node12" href="../../d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1039,325,1215,352"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a65c644328cadbe356b1c62257c1bd7d9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VxlanRoutingManager::XmppAdvertiseEvpnBgpaasInterface </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *&#160;</td>
+          <td class="paramname"><em>evpn_table</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;&#160;</td>
+          <td class="paramname"><em>prefix_ip</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const int&#160;</td>
+          <td class="paramname"><em>prefix_len</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>vxlan_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string&#160;</td>
+          <td class="paramname"><em>vrf_name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;&#160;</td>
+          <td class="paramname"><em>params</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *&#160;</td>
+          <td class="paramname"><em>bgp_peer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d4/dec/classNextHop.html">NextHop</a> *&#160;</td>
+          <td class="paramname"><em>nh</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00127">127</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph" id="dc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph">
+<area shape="rect" id="node2" href="../../de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="345,5,535,32"/><area shape="rect" id="node3" href="../../d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="381,56,499,83"/><area shape="rect" id="node4" href="../../d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="326,107,554,133"/><area shape="rect" id="node6" href="../../de/d30/classInterfaceNH.html#a46e52b255a4f989b6375a1a36da3809d" title="InterfaceNH::GetFlags" alt="" coords="357,157,523,184"/><area shape="rect" id="node7" href="../../de/da5/classLocalVmRoute.html#a3df45cf6cac3c0afa1266ef7b0a62b96" title="LocalVmRoute::set_tunnel_bmap" alt="" coords="323,208,557,235"/><area shape="rect" id="node8" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="355,259,525,285"/><area shape="rect" id="node9" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="361,310,519,351"/><area shape="rect" id="node10" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="368,376,512,403"/><area shape="rect" id="node11" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="355,427,525,453"/><area shape="rect" id="node5" href="../../d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="656,107,781,133"/><area shape="rect" id="node12" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="605,376,832,403"/><area shape="rect" id="node13" href="../../df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="655,427,782,453"/><area shape="rect" id="node14" href="../../d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="631,477,807,504"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="abdd136370da72318dad074635042e68d"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -3430,7 +3645,13 @@ Here is the call graph for this function:</div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *&#160;</td>
-          <td class="paramname"><em>bgp_peer</em>&#160;</td>
+          <td class="paramname"><em>bgp_peer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramname"><em>peer_sources</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -3447,20 +3668,20 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00125">125</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00311">311</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a739abd32ca18855cff1208f0916e59c0_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a739abd32ca18855cff1208f0916e59c0_cgraph" alt=""/></div>
-<map name="dc/d5b/classVxlanRoutingManager_a739abd32ca18855cff1208f0916e59c0_cgraph" id="dc/d5b/classVxlanRoutingManager_a739abd32ca18855cff1208f0916e59c0_cgraph">
-<area shape="rect" id="node2" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="308,30,471,71"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="307,95,472,137"/><area shape="rect" id="node6" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="300,212,479,239"/><area shape="rect" id="node12" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="275,521,504,562"/><area shape="rect" id="node4" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="569,70,748,111"/><area shape="rect" id="node5" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="574,5,743,46"/><area shape="rect" id="node7" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="596,237,721,264"/><area shape="rect" id="node8" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="603,288,715,315"/><area shape="rect" id="node9" href="../../d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="553,136,765,163"/><area shape="rect" id="node10" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="856,440,1005,467"/><area shape="rect" id="node11" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="861,221,1001,248"/><area shape="rect" id="node13" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="585,389,733,416"/><area shape="rect" id="node17" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="852,609,1009,650"/><area shape="rect" id="node18" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="859,675,1003,701"/><area shape="rect" id="node19" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title="AdvertiseInterfaceBgpRoute" alt="" coords="557,1105,761,1132"/><area shape="rect" id="node43" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title="AdvertiseCompositeInterface\lBgpRoute" alt="" coords="553,1654,765,1695"/><area shape="rect" id="node48" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="581,557,736,584"/><area shape="rect" id="node14" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="814,272,1047,299"/><area shape="rect" id="node15" href="../../d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="855,374,1006,415"/><area shape="rect" id="node16" href="../../d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="1128,352,1291,379"/><area shape="rect" id="node20" href="../../de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="836,725,1025,752"/><area shape="rect" id="node21" href="../../d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="872,776,989,803"/><area shape="rect" id="node22" href="../../d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="817,827,1045,853"/><area shape="rect" id="node24" href="../../d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="855,877,1006,904"/><area shape="rect" id="node25" href="../../d4/d3d/classAgentPath.html#aeac69c9b525123addab549a846154695" title="AgentPath::force_policy" alt="" coords="843,928,1018,955"/><area shape="rect" id="node26" href="../../d4/d3d/classAgentPath.html#aaad5b72939ba9879f2f08849bcd42cd9" title="AgentPath::dest_vn_list" alt="" coords="843,1451,1018,1477"/><area shape="rect" id="node27" href="../../de/d30/classInterfaceNH.html#a46e52b255a4f989b6375a1a36da3809d" title="InterfaceNH::GetFlags" alt="" coords="848,979,1013,1005"/><area shape="rect" id="node28" href="../../d4/d3d/classAgentPath.html#a82c3bda21c4743e745e7f743eb32bbdb" title="AgentPath::sg_list" alt="" coords="861,1501,1000,1528"/><area shape="rect" id="node29" href="../../d4/d3d/classAgentPath.html#a1074bde3d234ac9e6123c9055c935158" title="AgentPath::tag_list" alt="" coords="859,1552,1003,1579"/><area shape="rect" id="node30" href="../../d4/d3d/classAgentPath.html#a46c281bcd1d0f76c26ed82d63bfac9c8" title="AgentPath::communities" alt="" coords="840,1029,1021,1056"/><area shape="rect" id="node31" href="../../d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="829,1603,1032,1629"/><area shape="rect" id="node32" href="../../d4/d3d/classAgentPath.html#a96c6a1ce4126116e5759356cf61975ab" title="AgentPath::subnet_service_ip" alt="" coords="824,1080,1037,1107"/><area shape="rect" id="node33" href="../../d4/d3d/classAgentPath.html#a4b6108457d07379d4c23fbfac4a6a7a1" title="AgentPath::ecmp_load\l_balance" alt="" coords="847,1654,1014,1695"/><area shape="rect" id="node34" href="../../d4/d3d/classAgentPath.html#a06a72e2731c81f83060749e86aaf584b" title="AgentPath::is_local" alt="" coords="858,1131,1003,1157"/><area shape="rect" id="node35" href="../../d4/d3d/classAgentPath.html#ad54983880f608fdb4ddc4906af66472b" title="AgentPath::is_health\l_check_service" alt="" coords="853,1182,1008,1223"/><area shape="rect" id="node36" href="../../d4/d3d/classAgentPath.html#ad306a916ebb771fb400ae1c77af4486f" title="AgentPath::sequence" alt="" coords="851,1248,1010,1275"/><area shape="rect" id="node38" href="../../d4/d3d/classAgentPath.html#a54316edf3b68a74929544102797095a6" title="AgentPath::etree_leaf" alt="" coords="849,1299,1012,1325"/><area shape="rect" id="node39" href="../../de/da5/classLocalVmRoute.html#a3df45cf6cac3c0afa1266ef7b0a62b96" title="LocalVmRoute::set_tunnel_bmap" alt="" coords="813,1349,1048,1376"/><area shape="rect" id="node40" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="846,1720,1015,1747"/><area shape="rect" id="node41" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="845,1400,1016,1427"/><area shape="rect" id="node23" href="../../d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="1147,827,1272,853"/><area shape="rect" id="node37" href="../../d8/d35/classPathPreference.html#ac604fdc4c7eecd78c76e3165e0dad7ed" title="PathPreference::sequence" alt="" coords="1114,1248,1305,1275"/><area shape="rect" id="node42" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1096,1400,1323,1427"/><area shape="rect" id="node44" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="830,1837,1031,1864"/><area shape="rect" id="node45" href="../../df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title="ControllerEcmpRoute\l::cloned_local_path_list" alt="" coords="843,1889,1018,1930"/><area shape="rect" id="node46" href="../../de/d8b/classEvpnAgentRouteTable.html#a551f841c60c21501f6a5d939678ad16e" title="EvpnAgentRouteTable\l::AddClonedLocalPathReq" alt="" coords="837,1954,1024,1995"/><area shape="rect" id="node47" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="837,1771,1025,1813"/><area shape="rect" id="node49" href="../../d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="862,557,999,584"/><area shape="rect" id="node50" href="../../de/d8b/classEvpnAgentRouteTable.html#ac63a1360b0d6c246e8d8a96fd623397a" title="EvpnAgentRouteTable\l::AddType5Route" alt="" coords="849,491,1012,533"/></map>
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_abdd136370da72318dad074635042e68d_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_abdd136370da72318dad074635042e68d_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_abdd136370da72318dad074635042e68d_cgraph" id="dc/d5b/classVxlanRoutingManager_abdd136370da72318dad074635042e68d_cgraph">
+<area shape="rect" id="node2" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="611,5,773,46"/><area shape="rect" id="node3" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="307,1707,472,1749"/><area shape="rect" id="node6" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaas" alt="" coords="284,449,495,490"/><area shape="rect" id="node13" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="603,616,781,643"/><area shape="rect" id="node44" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="275,1051,504,1093"/><area shape="rect" id="node4" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="603,1773,781,1814"/><area shape="rect" id="node5" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="607,1707,777,1749"/><area shape="rect" id="node7" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="925,165,1089,206"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="610,253,774,294"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="610,318,774,359"/><area shape="rect" id="node10" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="610,135,774,177"/><area shape="rect" id="node11" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="610,383,774,425"/><area shape="rect" id="node12" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="610,449,774,490"/><area shape="rect" id="node17" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="932,717,1081,744"/><area shape="rect" id="node19" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="909,312,1104,339"/><area shape="rect" id="node25" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title="IsBgpaasCompositeNexthop" alt="" coords="589,565,795,592"/><area shape="rect" id="node28" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="595,70,789,111"/><area shape="rect" id="node29" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasInterface" alt="" coords="558,967,826,1009"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasComposite" alt="" coords="552,1241,832,1282"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="944,616,1069,643"/><area shape="rect" id="node15" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="951,667,1063,693"/><area shape="rect" id="node16" href="../../d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="901,565,1113,592"/><area shape="rect" id="node18" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1209,515,1349,541"/><area shape="rect" id="node20" href="../../d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="1199,253,1358,280"/><area shape="rect" id="node21" href="../../d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="1198,305,1359,346"/><area shape="rect" id="node22" href="../../d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="1198,370,1359,411"/><area shape="rect" id="node23" href="../../d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1219,436,1339,463"/><area shape="rect" id="node24" href="../../dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="1181,203,1376,229"/><area shape="rect" id="node26" href="../../dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="880,413,1133,440"/><area shape="rect" id="node27" href="../../dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="925,363,1088,389"/><area shape="rect" id="node30" href="../../de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="912,1021,1101,1048"/><area shape="rect" id="node31" href="../../d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="948,768,1065,795"/><area shape="rect" id="node32" href="../../d5/d21/classVmInterface.html#a9952c50a19227b243b5b1143296bf2fe" title="VmInterface::GetDBRequestKey" alt="" coords="893,819,1121,845"/><area shape="rect" id="node33" href="../../de/d30/classInterfaceNH.html#a46e52b255a4f989b6375a1a36da3809d" title="InterfaceNH::GetFlags" alt="" coords="924,869,1089,896"/><area shape="rect" id="node34" href="../../de/da5/classLocalVmRoute.html#a3df45cf6cac3c0afa1266ef7b0a62b96" title="LocalVmRoute::set_tunnel_bmap" alt="" coords="889,920,1124,947"/><area shape="rect" id="node35" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="922,1189,1091,1216"/><area shape="rect" id="node36" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="928,1123,1085,1165"/><area shape="rect" id="node37" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="935,1072,1079,1099"/><area shape="rect" id="node38" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="921,971,1092,997"/><area shape="rect" id="node40" href="../../dc/d2b/classAgentRouteTable.html#ad5f541283afa614f276554c52c6aa3d9" title="AgentRouteTable::vrf_name" alt="" coords="906,1437,1107,1464"/><area shape="rect" id="node41" href="../../df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title="ControllerEcmpRoute\l::cloned_local_path_list" alt="" coords="919,1241,1094,1282"/><area shape="rect" id="node42" href="../../de/d8b/classEvpnAgentRouteTable.html#a551f841c60c21501f6a5d939678ad16e" title="EvpnAgentRouteTable\l::AddClonedLocalPathReq" alt="" coords="913,1306,1100,1347"/><area shape="rect" id="node43" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="913,1371,1101,1413"/><area shape="rect" id="node45" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="618,1513,766,1540"/><area shape="rect" id="node48" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title="AdvertiseInterfaceBgpRoute" alt="" coords="590,916,794,943"/><area shape="rect" id="node49" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title="AdvertiseCompositeInterface\lBgpRoute" alt="" coords="586,1306,798,1347"/><area shape="rect" id="node50" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="615,1084,769,1111"/><area shape="rect" id="node46" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="890,1539,1123,1565"/><area shape="rect" id="node47" href="../../d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="931,1590,1082,1631"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="a4ff33be0e89d670b09ef915f413799d2"></a>
+<a class="anchor" id="a67f243ef57856265fe721ce3b4480426"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -3501,7 +3722,13 @@ Here is the call graph for this function:</div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *&#160;</td>
-          <td class="paramname"><em>bgp_peer</em>&#160;</td>
+          <td class="paramname"><em>bgp_peer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramname"><em>peer_sources</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -3518,14 +3745,14 @@ Here is the call graph for this function:</div>
 
 <p>Advertises an EVPN route received using XMPP channel. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00042">42</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00043">43</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a4ff33be0e89d670b09ef915f413799d2_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a4ff33be0e89d670b09ef915f413799d2_cgraph" alt=""/></div>
-<map name="dc/d5b/classVxlanRoutingManager_a4ff33be0e89d670b09ef915f413799d2_cgraph" id="dc/d5b/classVxlanRoutingManager_a4ff33be0e89d670b09ef915f413799d2_cgraph">
-<area shape="rect" id="node2" href="../../d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="294,173,421,200"/><area shape="rect" id="node3" href="../../db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="258,224,457,251"/><area shape="rect" id="node4" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="253,275,461,301"/><area shape="rect" id="node7" href="../../d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="830,380,957,407"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#a7f97000c86ac163470183eabea6a9324" title="Advertises in the EVPN table a tunnel route that arrived via XMPP channel. Must be called only from X..." alt="" coords="255,326,459,367"/><area shape="rect" id="node33" href="../../dc/d5b/classVxlanRoutingManager.html#a739abd32ca18855cff1208f0916e59c0" title="Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only fr..." alt="" coords="510,821,730,862"/><area shape="rect" id="node5" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="532,31,708,57"/><area shape="rect" id="node6" href="../../d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="791,5,995,32"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a635b41495474cc8910591f960dd72ded" title="XMPP Advertising functions. " alt="" coords="517,443,723,485"/><area shape="rect" id="node23" href="../../d1/d05/classControllerVmRoute.html#abf722fc3652777c4dbc56babc91ee46a" title="ControllerVmRoute::\lMakeControllerVmRoute" alt="" coords="530,107,710,149"/><area shape="rect" id="node22" href="../../d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="806,548,981,575"/><area shape="rect" id="node27" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="1350,291,1519,317"/><area shape="rect" id="node28" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="1341,225,1529,266"/><area shape="rect" id="node10" href="../../d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="819,497,968,524"/><area shape="rect" id="node12" href="../../dc/d5b/classVxlanRoutingManager.html#aa701f1ff9746765fdb61db82a4dbb803" title="Returns the MAC address for the IP of a given neighbouring compute. " alt="" coords="811,431,975,473"/><area shape="rect" id="node11" href="../../d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="1115,493,1210,520"/><area shape="rect" id="node13" href="../../d8/dfe/classAgent.html#aff828c836117c6a7427e0f6318e5dad4" title="Agent::fabric_policy_vrf" alt="" coords="1075,392,1251,419"/><area shape="rect" id="node14" href="../../d2/d3d/classVrfEntry.html#adbe0ff5054e6046fc8b03b7894872dc3" title="VrfEntry::GetUcRoute" alt="" coords="1083,443,1242,469"/><area shape="rect" id="node15" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1073,595,1252,637"/><area shape="rect" id="node16" href="../../dc/d5b/classVxlanRoutingManager.html#a8e53dd8c7e78d6aa12a3d9774617423d" title="Finds in the given route the path with a specified Peer type and a specified nexthop type..." alt="" coords="1059,915,1266,971"/><area shape="rect" id="node17" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1360,872,1509,899"/><area shape="rect" id="node21" href="../../d0/daf/classTunnelNH.html#a29d4d33d46d836e8014f15feb2b8b57b" title="TunnelNH::GetDmac" alt="" coords="1086,341,1239,368"/><area shape="rect" id="node18" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1372,933,1497,960"/><area shape="rect" id="node19" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1379,987,1491,1013"/><area shape="rect" id="node20" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1365,1088,1505,1115"/><area shape="rect" id="node24" href="../../d3/d08/classTunnelType.html#ab1e1bc7ee789760b21ce89987e077025" title="TunnelType::ComputeType" alt="" coords="798,123,989,149"/><area shape="rect" id="node25" href="../../d1/d05/classControllerVmRoute.html#ae5739da7a74c22233f6b46d503fd1fb4" title="ControllerVmRoute::\lControllerVmRoute" alt="" coords="817,57,970,98"/><area shape="rect" id="node26" href="../../d7/df9/structDBRequest.html#abfaba02072d4c3e9917154e6be4e515f" title="DBRequest::Swap" alt="" coords="1095,64,1231,91"/><area shape="rect" id="node29" href="../../d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="1609,232,1753,259"/><area shape="rect" id="node32" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="1608,283,1755,309"/><area shape="rect" id="node30" href="../../d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="1824,225,1968,266"/><area shape="rect" id="node31" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="1811,531,1981,557"/><area shape="rect" id="node34" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="812,821,975,862"/><area shape="rect" id="node35" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="811,886,976,927"/><area shape="rect" id="node37" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="1073,1045,1252,1072"/><area shape="rect" id="node39" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="779,755,1008,797"/><area shape="rect" id="node36" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="1078,1198,1247,1239"/><area shape="rect" id="node38" href="../../d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="1329,1037,1541,1064"/><area shape="rect" id="node40" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="1089,1147,1237,1173"/><area shape="rect" id="node44" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="1356,654,1513,695"/><area shape="rect" id="node45" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1363,603,1507,629"/><area shape="rect" id="node46" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title="AdvertiseInterfaceBgpRoute" alt="" coords="1061,763,1265,789"/><area shape="rect" id="node49" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title="AdvertiseCompositeInterface\lBgpRoute" alt="" coords="1057,225,1269,266"/><area shape="rect" id="node50" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="1085,661,1240,688"/><area shape="rect" id="node41" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="1318,1205,1551,1232"/><area shape="rect" id="node42" href="../../d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="1359,1139,1510,1181"/><area shape="rect" id="node43" href="../../d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="1600,1201,1763,1228"/><area shape="rect" id="node47" href="../../de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="1340,821,1529,848"/><area shape="rect" id="node48" href="../../d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="1376,720,1493,747"/></map>
+<div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a67f243ef57856265fe721ce3b4480426_cgraph.png" border="0" usemap="#dc/d5b/classVxlanRoutingManager_a67f243ef57856265fe721ce3b4480426_cgraph" alt=""/></div>
+<map name="dc/d5b/classVxlanRoutingManager_a67f243ef57856265fe721ce3b4480426_cgraph" id="dc/d5b/classVxlanRoutingManager_a67f243ef57856265fe721ce3b4480426_cgraph">
+<area shape="rect" id="node2" href="../../d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="301,721,427,748"/><area shape="rect" id="node3" href="../../db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="265,772,463,799"/><area shape="rect" id="node4" href="../../d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="260,823,468,849"/><area shape="rect" id="node7" href="../../d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="877,1543,1003,1569"/><area shape="rect" id="node8" href="../../dc/d5b/classVxlanRoutingManager.html#a7f97000c86ac163470183eabea6a9324" title="Advertises in the EVPN table a tunnel route that arrived via XMPP channel. Must be called only from X..." alt="" coords="262,1615,466,1657"/><area shape="rect" id="node23" href="../../dc/d5b/classVxlanRoutingManager.html#abdd136370da72318dad074635042e68d" title="Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only fr..." alt="" coords="254,874,474,915"/><area shape="rect" id="node5" href="../../d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="549,213,725,240"/><area shape="rect" id="node6" href="../../d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="838,5,1042,32"/><area shape="rect" id="node9" href="../../dc/d5b/classVxlanRoutingManager.html#a635b41495474cc8910591f960dd72ded" title="XMPP Advertising functions. " alt="" coords="534,1615,741,1657"/><area shape="rect" id="node16" href="../../d1/d05/classControllerVmRoute.html#abf722fc3652777c4dbc56babc91ee46a" title="ControllerVmRoute::\lMakeControllerVmRoute" alt="" coords="547,1813,727,1854"/><area shape="rect" id="node15" href="../../d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="853,1711,1027,1737"/><area shape="rect" id="node19" href="../../d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="1150,1192,1319,1219"/><area shape="rect" id="node20" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title="EvpnAgentRouteTable\l::AddRemoteVmRouteReq" alt="" coords="1141,1361,1329,1402"/><area shape="rect" id="node10" href="../../d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="865,1660,1015,1687"/><area shape="rect" id="node12" href="../../dc/d5b/classVxlanRoutingManager.html#aa701f1ff9746765fdb61db82a4dbb803" title="Returns the MAC address for the IP of a given neighbouring compute. " alt="" coords="858,1594,1022,1635"/><area shape="rect" id="node11" href="../../d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="1187,1660,1282,1687"/><area shape="rect" id="node13" href="../../d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="1145,1539,1324,1581"/><area shape="rect" id="node14" href="../../d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="1160,872,1309,899"/><area shape="rect" id="node17" href="../../d3/d08/classTunnelType.html#ab1e1bc7ee789760b21ce89987e077025" title="TunnelType::ComputeType" alt="" coords="845,1816,1035,1843"/><area shape="rect" id="node18" href="../../d1/d05/classControllerVmRoute.html#ae5739da7a74c22233f6b46d503fd1fb4" title="ControllerVmRoute::\lControllerVmRoute" alt="" coords="863,1867,1017,1909"/><area shape="rect" id="node21" href="../../d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="1391,1343,1535,1369"/><area shape="rect" id="node22" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="1389,1393,1536,1420"/><area shape="rect" id="node24" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title="EvpnAgentRouteTable\l::FindRoute" alt="" coords="859,705,1021,746"/><area shape="rect" id="node25" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="555,1426,720,1467"/><area shape="rect" id="node27" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaas" alt="" coords="532,471,743,513"/><area shape="rect" id="node34" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title="LocalVmExportInterface" alt="" coords="851,603,1029,629"/><area shape="rect" id="node46" href="../../dc/d5b/classVxlanRoutingManager.html#a0f8043e18aded71e8f5615b8e91f2387" title="Copies the path to the prefix address into the EVPN table with the given Peer. The function is used d..." alt="" coords="523,941,752,982"/><area shape="rect" id="node26" href="../../dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="855,1426,1025,1467"/><area shape="rect" id="node28" href="../../dc/d5b/classVxlanRoutingManager.html#a3afabd2a70858352b77b9681186301aa" title="Determines whether the address string contains an IPv4 address as substring or not. " alt="" coords="1153,471,1317,513"/><area shape="rect" id="node29" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string. " alt="" coords="858,57,1022,98"/><area shape="rect" id="node30" href="../../dc/d5b/classVxlanRoutingManager.html#a9d75ba019d73d5e085a079470e1f7271" title="Extracts length of IPv4 subnet address from the prefix string. " alt="" coords="858,122,1022,163"/><area shape="rect" id="node31" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not. " alt="" coords="858,471,1022,513"/><area shape="rect" id="node32" href="../../dc/d5b/classVxlanRoutingManager.html#a54aeddad88c683a3b11ce754eb5f195a" title="Extracts an IPv6 address string from the prefix string. " alt="" coords="858,187,1022,229"/><area shape="rect" id="node33" href="../../dc/d5b/classVxlanRoutingManager.html#aea22a5c609db27c6beaa0af7e3242460" title="Extracts length of IPv6 subnet address from the prefix string. " alt="" coords="858,253,1022,294"/><area shape="rect" id="node39" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="1137,369,1332,396"/><area shape="rect" id="node40" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title="IsBgpaasCompositeNexthop" alt="" coords="837,369,1043,396"/><area shape="rect" id="node41" href="../../dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="843,537,1037,578"/><area shape="rect" id="node42" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasInterface" alt="" coords="806,1075,1074,1117"/><area shape="rect" id="node45" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="VxlanRoutingManager\l::XmppAdvertiseEvpnBgpaasComposite" alt="" coords="800,1243,1080,1285"/><area shape="rect" id="node35" href="../../d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="1172,603,1297,629"/><area shape="rect" id="node36" href="../../d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="1179,737,1291,764"/><area shape="rect" id="node37" href="../../d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="1129,552,1341,579"/><area shape="rect" id="node38" href="../../d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="1393,653,1533,680"/><area shape="rect" id="node43" href="../../dc/d2b/classAgentRouteTable.html#aa9ef1317761b7727529d46b9f37086e2" title="AgentRouteTable::vrf\l_entry" alt="" coords="1156,1063,1313,1105"/><area shape="rect" id="node44" href="../../d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1163,999,1307,1025"/><area shape="rect" id="node47" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a76eb232b5c06208348c29dfadfe20c07" title="InitializeNhRequest" alt="" coords="1161,1276,1309,1303"/><area shape="rect" id="node48" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title="AdvertiseInterfaceBgpRoute" alt="" coords="838,973,1042,1000"/><area shape="rect" id="node49" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title="AdvertiseCompositeInterface\lBgpRoute" alt="" coords="834,1361,1046,1402"/><area shape="rect" id="node50" href="../../d8/d3e/vxlan__auxilliary_8cc.html#aad51ff18868db8387bc57c429e70ad5a" title="AdvertiseLocalRoute" alt="" coords="863,1024,1017,1051"/></map>
 </div>
 </p>
 
@@ -3595,7 +3822,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the EVPN table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00087">87</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00089">89</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3660,7 +3887,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the Inet table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00184">184</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00378">378</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3779,7 +4006,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises an Inet route received from EVPN table. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00064">64</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00066">66</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -3910,7 +4137,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the Inet table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00154">154</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00348">348</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
