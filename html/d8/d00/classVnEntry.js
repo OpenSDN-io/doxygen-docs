@@ -59,7 +59,7 @@ var classVnEntry =
     [ "ReleaseWalker", "d8/d00/classVnEntry.html#aa873808870bc7c882b794be60171dc23", null ],
     [ "Resync", "d8/d00/classVnEntry.html#a5d9d514d5926975cc8e873da415af341", null ],
     [ "ResyncRoutes", "d8/d00/classVnEntry.html#a4ac89bd50150e094cc50dc1354127522", null ],
-    [ "SendObjectLog", "d8/d00/classVnEntry.html#a7a5c4f48896ba4aa0a6900eefef55353", null ],
+    [ "SendObjectLog", "d8/d00/classVnEntry.html#af96c8c51fe561577a7d3943f01b8fb9d", null ],
     [ "set_bridging", "d8/d00/classVnEntry.html#a148e95025fbe5cbaa4cf2059bbc70155", null ],
     [ "set_layer3_forwarding", "d8/d00/classVnEntry.html#a805d12b40e2071795aa2cc6f134207d0", null ],
     [ "set_lr_vrf", "d8/d00/classVnEntry.html#a5ce0f6a88b48cc8d6a85ba5f31b6f134", null ],

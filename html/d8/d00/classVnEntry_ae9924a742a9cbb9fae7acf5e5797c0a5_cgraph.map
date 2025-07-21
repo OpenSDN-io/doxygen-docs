@@ -22,5 +22,7 @@
 <area shape="rect" id="node23" href="$d8/d00/classVnEntry.html#a0488c50644c63d92b4bdce270b81981e" title="VnEntry::vn_max_flows" alt="" coords="263,1049,436,1076"/>
 <area shape="rect" id="node24" href="$d8/d00/classVnEntry.html#aae3c427a380b487ce39541979400c4ef" title="VnEntry::mac_ip_learning\l_enable" alt="" coords="256,1101,443,1142"/>
 <area shape="rect" id="node25" href="$d8/d00/classVnEntry.html#a06634d7df1b24028336ec56bb18c6d5e" title="VnEntry::health_check_uuid" alt="" coords="249,1167,450,1193"/>
+<area shape="rect" id="node26" href="$d8/d00/classVnEntry.html#aa34cfa3ecf7b78776dd01b8d202b3e92" title="VnEntry::logical_router_uuid" alt="" coords="247,1217,451,1244"/>
+<area shape="rect" id="node27" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="253,1268,445,1295"/>
 <area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1cf668493f8187909e385d1086a2ccf5" title="Agent::vxlan_network\l_identifier_mode" alt="" coords="505,150,669,191"/>
 </map>
