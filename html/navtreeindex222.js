@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"df/d96/classSessionStatsCollector.html#a7ff2e2469a9fb685f6e4471b5520ad61":[2,0,1586,32],
 "df/d96/classSessionStatsCollector.html#a81810dae332ec8cc9d218ba2129d2ec0":[2,0,1586,56],
 "df/d96/classSessionStatsCollector.html#a81b5ff8129ffd2cb2227462567d4512b":[2,0,1586,73],
 "df/d96/classSessionStatsCollector.html#a86787faabfe0becf0170e6fc16591ff2":[2,0,1586,64],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "df/dac/classAgentIfMapXmppChannel.html#a39976eedba94ee19e1a635a526a9bb97":[2,0,87,17],
 "df/dac/classAgentIfMapXmppChannel.html#a3f02e92ad0b659f2d2053a97ae6dca4e":[2,0,87,24],
 "df/dac/classAgentIfMapXmppChannel.html#a4ae47aa6d67a35310c65c6b34f43a21e":[2,0,87,9],
-"df/dac/classAgentIfMapXmppChannel.html#a4d6896069e94cb3303e72b42c15409cd":[2,0,87,5],
-"df/dac/classAgentIfMapXmppChannel.html#a4dc10933841451a277300dc3914fad35":[2,0,87,13]
+"df/dac/classAgentIfMapXmppChannel.html#a4d6896069e94cb3303e72b42c15409cd":[2,0,87,5]
 };

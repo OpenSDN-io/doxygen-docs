@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#a224a59e8f8fdcba4b428a849a15e4037":[2,0,11,9,5,1],
 "d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#a2be63625d3655a042bf6c3d989baefa2":[2,0,11,9,5,3],
 "d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#a35ef9ad5cc8d5af79bb600a41f2a5029":[2,0,11,9,5,0],
 "d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#ad50716d4e86296c92034956f4d598efc":[2,0,11,9,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d3/def/classetcdserverpb_1_1StatusResponse.html#a0e60bbf629585343632772535b8f4bb9":[2,0,11,129,12],
 "d3/def/classetcdserverpb_1_1StatusResponse.html#a0e9cf9d6a6fb1db54e1fbfe23a13b18a":[2,0,11,129,10],
 "d3/def/classetcdserverpb_1_1StatusResponse.html#a111d04a8618fe146fe199636b4869f87":[2,0,11,129,9],
-"d3/def/classetcdserverpb_1_1StatusResponse.html#a116f9daba192937909a7188fd6964158":[2,0,11,129,66],
-"d3/def/classetcdserverpb_1_1StatusResponse.html#a13b2eb065727477d549855756e1ecf98":[2,0,11,129,54]
+"d3/def/classetcdserverpb_1_1StatusResponse.html#a116f9daba192937909a7188fd6964158":[2,0,11,129,66]
 };

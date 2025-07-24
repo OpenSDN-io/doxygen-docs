@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d6/d09/classXmppConnectionManager.html#a209f83bbeb5f9ce2c8873f84e764c74f":[2,0,1928,6],
 "d6/d09/classXmppConnectionManager.html#a20bbc58a85f0b265a87d362880d55e24":[2,0,1928,10],
 "d6/d09/classXmppConnectionManager.html#a20d73d65faa1bf15d2102a46c6bd4a8d":[2,0,1928,8],
 "d6/d09/classXmppConnectionManager.html#a4c621682986c5634343f855de7b41706":[2,0,1928,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d16/classNHKSyncEntry.html#ad94df8d36f11323b49c53a303ad7958a":[2,0,1232,23],
 "d6/d16/classNHKSyncEntry.html#adce1946a3c405e6b02bc6e3f06a8a3d2":[2,0,1232,11],
 "d6/d16/classNHKSyncEntry.html#add22e1d6d1f84fc99e6d26afef898608":[2,0,1232,1],
-"d6/d16/classNHKSyncEntry.html#ae4d28b604407636b181be46b8e92c61a":[2,0,1232,45],
-"d6/d16/classNHKSyncEntry.html#ae78b8fa3be25cb1b656f5da31788108b":[2,0,1232,70]
+"d6/d16/classNHKSyncEntry.html#ae4d28b604407636b181be46b8e92c61a":[2,0,1232,45]
 };

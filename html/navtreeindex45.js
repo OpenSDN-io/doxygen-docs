@@ -1,5 +1,6 @@
 var NAVTREEINDEX45 =
 {
+"d3/d28/bgp__xmpp__rtarget__manager_8h_source.html":[3,0,204],
 "d3/d2a/dns__config_8h.html":[3,0,355],
 "d3/d2a/dns__config_8h.html#a329e125489c4b9b97d2e229f6484394f":[3,0,355,4],
 "d3/d2a/dns__config_8h.html#a3a4a1fbe9ed373754bdcaaa51dd1307a":[3,0,355,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX45 =
 "d3/d2d/classBgpPeer.html#ab62120ce26d93fc9192fbdb12c85978f":[2,0,395,215],
 "d3/d2d/classBgpPeer.html#ab6c2632d55ee4aba2f1c4f05f47b2913":[2,0,395,175],
 "d3/d2d/classBgpPeer.html#ab6ffe49990dca40f5065da47a937220a":[2,0,395,66],
-"d3/d2d/classBgpPeer.html#ab80dcfd759efc758123ddafd36ef6b12":[2,0,395,305],
-"d3/d2d/classBgpPeer.html#ab8205e9c168a77f428e7e27e5a844a1a":[2,0,395,111]
+"d3/d2d/classBgpPeer.html#ab80dcfd759efc758123ddafd36ef6b12":[2,0,395,305]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX164 =
 {
+"db/d56/structMacIpLearningKey.html#a7bf4aaa95547c3a5cc9ce3e55f11e91a":[2,0,1083,3],
 "db/d56/structMacIpLearningKey.html#abff3d4b847afbd39538a0ada67ea8c02":[2,0,1083,1],
 "db/d56/structMacIpLearningKey.html#adf6ad39aa9102869cedf20dfc9ee4158":[2,0,1083,0],
 "db/d56/structMacIpLearningKey.html#ae8676190fda3ace9d1ec132ab5782be6":[2,0,1083,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX164 =
 "db/d5b/rpc_8pb_8h.html#abe62b4f6b71e47e406d12ba6fab96fc1":[3,0,999,143],
 "db/d5b/rpc_8pb_8h.html#abf131030a4880dfa581200d9551ac892":[3,0,999,171],
 "db/d5b/rpc_8pb_8h.html#abf6c30dc69157751e14542dc481999ca":[3,0,999,285],
-"db/d5b/rpc_8pb_8h.html#abf9330b949fae3771ee19860eb790865":[3,0,999,135],
-"db/d5b/rpc_8pb_8h.html#ac061ac8ead4ab8f2331a7305bd82ed79":[3,0,999,254]
+"db/d5b/rpc_8pb_8h.html#abf9330b949fae3771ee19860eb790865":[3,0,999,135]
 };

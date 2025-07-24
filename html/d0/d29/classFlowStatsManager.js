@@ -59,6 +59,7 @@ var classFlowStatsManager =
     [ "AgentUtXmlFlowThresholdValidate", "d0/d29/classFlowStatsManager.html#a63a193102864326a7eb94ff9312faac4", null ],
     [ "FlowStatsCollector", "d0/d29/classFlowStatsManager.html#af4bb3dff4ff0a241fa82dcb7854abf3c", null ],
     [ "FlowStatsCollectorReq", "d0/d29/classFlowStatsManager.html#a9e6a6f55f6e20104adb00c7c4a13d14a", null ],
+    [ "FlowStatsRecordsReq", "d0/d29/classFlowStatsManager.html#a3bb4533c9f2b3f039d817930950fd827", null ],
     [ "SessionStatsCollector", "d0/d29/classFlowStatsManager.html#afad54db906ae1c9a7765b4177f14e5e6", null ],
     [ "agent_", "d0/d29/classFlowStatsManager.html#ac2bb23160fe3c3708965f077352db192", null ],
     [ "default_flow_stats_collector_obj_", "d0/d29/classFlowStatsManager.html#ae7d99639de0692e6f85145ecb37b52ff", null ],

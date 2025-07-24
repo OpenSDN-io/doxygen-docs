@@ -1,5 +1,6 @@
 var NAVTREEINDEX71 =
 {
+"d5/d06/classAgentDnsXmppChannel.html#ac6b0f6c94e667b4f147012127c8df6f7":[2,0,82,12],
 "d5/d06/classAgentDnsXmppChannel.html#ad6a0b6a5a7a52bbb08f7c7d223e3006b":[2,0,82,0],
 "d5/d06/classAgentDnsXmppChannel.html#adc64a7964d38a646b7133961335ebdb8":[2,0,82,15],
 "d5/d06/classAgentDnsXmppChannel.html#ae6bda00db6ddd94d946c2ee6ed2e895c":[2,0,82,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d12/classIFMapAgentLinkTable.html#ac633a380a1e9f1d00bbb7fce9bc8153f":[2,0,835,16],
 "d5/d12/classIFMapAgentLinkTable.html#acb5474d2ddaa1eabc6457485a5e6c11b":[2,0,835,9],
 "d5/d12/classIFMapAgentLinkTable.html#af45bf7ea8696684c7294e482841e0fba":[2,0,835,12],
-"d5/d12/classPacketBuffer.html":[2,0,1266],
-"d5/d12/classPacketBuffer.html#a0611b4b21c11aa462c800d0bf4815cd7":[2,0,1266,20]
+"d5/d12/classPacketBuffer.html":[2,0,1266]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"d0/dbd/structVmInterface_1_1BridgeDomain.html#ac0a2a27009469bbc3225f85dc887494e":[2,0,1792,4,4],
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#ae2d6cdc4f46f37e9666c5aaba5c795cb":[2,0,1792,4,9],
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#ae9d4ae12bbbfa3fcde2e394571cdf6b0":[2,0,1792,4,6],
 "d0/dbd/structVmInterface_1_1BridgeDomain.html#af2e2418ab0b30b889ffe7a7bda77bea4":[2,0,1792,4,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dca/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberAdd.html#a63d3b11cf7fc9788090c213c03f7f59c":[2,0,11,7,11,0],
 "d0/dca/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberAdd.html#ab4b520d1631527bbd82849b22d87048b":[2,0,11,7,11,4],
 "d0/dca/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberAdd.html#acefd2a2b8562a79890f952ae4fb0075b":[2,0,11,7,11,1],
-"d0/dcb/classEdgeDiscovery.html":[2,0,623],
-"d0/dcb/classEdgeDiscovery.html#a1204d35dbeea1ed75a09900e347886c4":[2,0,623,13]
+"d0/dcb/classEdgeDiscovery.html":[2,0,623]
 };

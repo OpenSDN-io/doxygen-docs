@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d3/df8/agent__xmpp__init_8cc.html":[3,0,51],
 "d3/df8/agent__xmpp__init_8cc_source.html":[3,0,51],
 "d3/df8/structxmsm_1_1Active.html":[2,0,34,23],
 "d3/df8/structxmsm_1_1Active.html#a05ea7e6322b10a6e2ff3bf27b17ec25b":[2,0,34,23,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d4/d0b/rtarget__group__mgr_8h.html":[3,0,1005],
 "d4/d0b/rtarget__group__mgr_8h_source.html":[3,0,1005],
 "d4/d0b/structEventNotifier_1_1WorkQueueMessage.html":[2,0,653,0],
-"d4/d0b/structEventNotifier_1_1WorkQueueMessage.html#a077e1718664502f62b842f6dcc52ea6b":[2,0,653,0,0],
-"d4/d0b/structEventNotifier_1_1WorkQueueMessage.html#a2c7151020d2636cd87e8e1c829efc10c":[2,0,653,0,1]
+"d4/d0b/structEventNotifier_1_1WorkQueueMessage.html#a077e1718664502f62b842f6dcc52ea6b":[2,0,653,0,0]
 };

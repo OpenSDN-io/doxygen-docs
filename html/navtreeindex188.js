@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"dc/dff/classOperDB.html#afe591acc8a3ebf4af590195068b62d04":[2,0,1241,8],
 "dc/dff/structPeerCloseManager_1_1Stats.html":[2,0,1295,1],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a1505ecbe010d8ccad69399f191d47140":[2,0,1295,1,6],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a19c50b0bcb4491948ed36868119a6e88":[2,0,1295,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "dd/d17/structOlistTunnelEntry.html#a1c227ff713f73954ba1ebd6bd520bfe9":[2,0,1240,3],
 "dd/d17/structOlistTunnelEntry.html#a3305b4b441dc9f268787a93d0754d16b":[2,0,1240,2],
 "dd/d17/structOlistTunnelEntry.html#a4b33ad088a5763744147417c497817b0":[2,0,1240,4],
-"dd/d17/structOlistTunnelEntry.html#a8ec0283eb042868b66693b6d15110c45":[2,0,1240,0],
-"dd/d17/structOlistTunnelEntry.html#ac2e771086649ee4cf178f646029e2c16":[2,0,1240,5]
+"dd/d17/structOlistTunnelEntry.html#a8ec0283eb042868b66693b6d15110c45":[2,0,1240,0]
 };

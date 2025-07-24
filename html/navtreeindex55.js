@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d3/dd0/structStatsManager_1_1VrfStats.html#a22c018adff4a2c1db818abd8cfe96d0e":[2,0,1641,2,29],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a2389bbc892535598575cf6ba4e49bbba":[2,0,1641,2,27],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a263231d91b66b5981cc2735f66701352":[2,0,1641,2,56],
 "d3/dd0/structStatsManager_1_1VrfStats.html#a2801f76eb046a865008d1b8d76b886bd":[2,0,1641,2,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d3/ddb/classcontrail_1_1sandesh_1_1DSPeriodicIsSet.html#a24622e5a0bf606055bb3d8d663cbd600":[2,0,8,0,5,0],
 "d3/ddb/classcontrail_1_1sandesh_1_1DSPeriodicIsSet.html#a57be008092027b86d0d5901f95222c8f":[2,0,8,0,5,1],
 "d3/ddb/classcontrail_1_1sandesh_1_1DSPeriodicIsSet.html#a7003631dba47c31c001f04e73f30d111":[2,0,8,0,5,2],
-"d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html":[2,0,11,9,5],
-"d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html#a224a59e8f8fdcba4b428a849a15e4037":[2,0,11,9,5,1]
+"d3/ddb/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__Authenticate.html":[2,0,11,9,5]
 };

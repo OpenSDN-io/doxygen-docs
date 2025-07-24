@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d2/db6/structMplsHdr.html#a1dee66bd3a142791f80f8367f7adcdf2":[2,0,1176,2],
 "d2/db6/structMplsHdr.html#a222d05eb83193ddef52cfa28ec124558":[2,0,1176,0],
 "d2/db6/structMplsHdr.html#a61784a26e4d1cca314808e6b8e181ab5":[2,0,1176,1],
 "d2/db6/structVnswInterfaceListenerBase_1_1Event.html":[2,0,1835,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d2/dc7/structTagData.html#ae44e762799dfaa8a463547aa6e40c585":[2,0,1685,0],
 "d2/dc7/structTagData.html#af9a52db7b08d20592bce7f4e8a4bfde2":[2,0,1685,5],
 "d2/dc8/classBgpPathAttributeAtomicAggregate.html":[2,0,349],
-"d2/dc8/classBgpPathAttributeAtomicAggregate.html#a48c999f3e02a71798413fbffd0547f48":[2,0,349,1],
-"d2/dc8/classBgpPathAttributeAtomicAggregate.html#a5f60fb5feb752a9966d841327bc18ece":[2,0,349,2]
+"d2/dc8/classBgpPathAttributeAtomicAggregate.html#a48c999f3e02a71798413fbffd0547f48":[2,0,349,1]
 };

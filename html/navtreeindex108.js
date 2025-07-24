@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81":[2,0,857,6],
 "d7/d3f/classIFMapNodeProxy.html#a2df1fdaf766e3d3df0d09311376e3c51":[2,0,857,10],
 "d7/d3f/classIFMapNodeProxy.html#a5d0fe532abaf584dbb599be7fa3fb35e":[2,0,857,1],
 "d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09":[2,0,857,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d7/d50/structBgpConfigManager_1_1Observers.html#a486c7f10a25e63064d05281deb18b914":[2,0,268,0,5],
 "d7/d50/structBgpConfigManager_1_1Observers.html#a787b8b9264ec25f124f4c8de2beca613":[2,0,268,0,4],
 "d7/d50/structBgpConfigManager_1_1Observers.html#aeaedc6c06ebab6539e38c388d8ca2f34":[2,0,268,0,3],
-"d7/d50/structBgpConfigManager_1_1Observers.html#afd5084fe2aae681ffb5623bdad440a10":[2,0,268,0,0],
-"d7/d50/structKSyncFlowIndexManager_1_1IndexEntry.html":[2,0,994,0]
+"d7/d50/structBgpConfigManager_1_1Observers.html#afd5084fe2aae681ffb5623bdad440a10":[2,0,268,0,0]
 };

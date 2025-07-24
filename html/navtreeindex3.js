@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d0/d45/namespacezookeeper_1_1interface.html":[1,0,35,1],
 "d0/d46/structVmInterface_1_1InstanceIpList.html":[2,0,1792,12],
 "d0/d46/structVmInterface_1_1InstanceIpList.html#a2dd7ff0344b9c98ee4ccfe7731248ea5":[2,0,1792,12,5],
 "d0/d46/structVmInterface_1_1InstanceIpList.html#a4ffdfd4e2d36f19539b367c3aa8e1393":[2,0,1792,12,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "d0/d5b/classBindResolver.html#a7f67088e7fc8af1247e70a272e6c0fa7":[2,0,432,2],
 "d0/d5b/classBindResolver.html#a90350e190996a6c3bf3cbd3f687e572f":[2,0,432,7],
 "d0/d5b/classBindResolver.html#a9c8ca70b6b58b4c11cc725a359910824":[2,0,432,17],
-"d0/d5b/classBindResolver.html#a9de8e5c10bd859baf4062efaa7086416":[2,0,432,21],
-"d0/d5b/classBindResolver.html#aaa7e4e152680d4fe9c3455079d53363f":[2,0,432,24]
+"d0/d5b/classBindResolver.html#a9de8e5c10bd859baf4062efaa7086416":[2,0,432,21]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"df/de5/structSourceGroupInfo.html":[2,0,1621],
 "df/de5/structSourceGroupInfo.html#a7e0468dd94b98fd6f15fb5f56141d57f":[2,0,1621,3],
 "df/de5/structSourceGroupInfo.html#a91d9a054487901306dc8d42c2908750b":[2,0,1621,0],
 "df/de5/structSourceGroupInfo.html#a91d9a054487901306dc8d42c2908750ba310fb69129edcf4cbc4357b472c1e013":[2,0,1621,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a73fe539f464a5408e3ee48d88b35705e":[2,0,11,137,5],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a77546012dc75404155f807d746b083a1":[2,0,11,137,27],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a7ab4b026172d58e9e7353807625013ea":[2,0,11,137,46],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a7b9711ccde66eb625b1605e369a97823":[2,0,11,137,36],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a7beabdcbd69eb90e8a7c8877fc1328e6":[2,0,11,137,4]
+"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a7b9711ccde66eb625b1605e369a97823":[2,0,11,137,36]
 };

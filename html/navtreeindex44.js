@@ -1,5 +1,6 @@
 var NAVTREEINDEX44 =
 {
+"d3/d0d/structVmInterfaceState.html#a82c9a8d7674edbab58b4abe034e10223":[2,0,1807,2],
 "d3/d0d/structVmInterfaceState.html#a87d7d72e490a1561a41937a39f17340a":[2,0,1807,14],
 "d3/d0d/structVmInterfaceState.html#a91a636a6833a88535d7d29193280a3fe":[2,0,1807,4],
 "d3/d0d/structVmInterfaceState.html#a920e8a789c6872421cf5b90e266083ac":[2,0,1807,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX44 =
 "d3/d26/classDBPartition_1_1WorkQueue.html#afd28204c8eadddb076000b3ac0fab386":[2,0,551,1,25],
 "d3/d26/classDnsProto_1_1DnsFipEntryCmp.html":[2,0,605,1],
 "d3/d26/classDnsProto_1_1DnsFipEntryCmp.html#acd1d684d3faffff44d55bd95615318e3":[2,0,605,1,0],
-"d3/d28/bgp__xmpp__rtarget__manager_8h.html":[3,0,204],
-"d3/d28/bgp__xmpp__rtarget__manager_8h_source.html":[3,0,204]
+"d3/d28/bgp__xmpp__rtarget__manager_8h.html":[3,0,204]
 };

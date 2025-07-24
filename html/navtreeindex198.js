@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"dd/dc2/structigmp__v3__report__.html#a17bb0176ac927d0974d80fc32c0c35e1":[2,0,884,1],
 "dd/dc2/structigmp__v3__report__.html#a46bbff5430132e3e4be91f250ece6986":[2,0,884,0],
 "dd/dc2/structigmp__v3__report__.html#a88d56b05f10956a95d9ce3c19a1b83cd":[2,0,884,2],
 "dd/dc4/structBgpOListSpec.html":[2,0,319],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "dd/dcf/classBgpAsAService.html#ac2f3871ba87200b39a326a0f7810a9e0":[2,0,231,39],
 "dd/dcf/classBgpAsAService.html#ac334c8a027f03963ab4426be7cf8d471":[2,0,231,10],
 "dd/dcf/classBgpAsAService.html#ac647a7a6b7a3d4e01b7c6cfc071dfb41":[2,0,231,17],
-"dd/dcf/classBgpAsAService.html#ad816067627afc5cbd8c9c0f669cb48fe":[2,0,231,23],
-"dd/dcf/classBgpAsAService.html#af1eda6a346cb96d832f4a49da6219c9e":[2,0,231,37]
+"dd/dcf/classBgpAsAService.html#ad816067627afc5cbd8c9c0f669cb48fe":[2,0,231,23]
 };

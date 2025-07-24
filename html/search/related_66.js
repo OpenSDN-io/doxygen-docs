@@ -13,7 +13,7 @@ var searchData=
   ['flowstatscollectorobject',['FlowStatsCollectorObject',['../db/d77/classFlowStatsCollector.html#a86ea475fff692e21f10b0f9e52642a8b',1,'FlowStatsCollector']]],
   ['flowstatscollectorreq',['FlowStatsCollectorReq',['../d0/d29/classFlowStatsManager.html#a9e6a6f55f6e20104adb00c7c4a13d14a',1,'FlowStatsManager']]],
   ['flowstatsmanager',['FlowStatsManager',['../db/d77/classFlowStatsCollector.html#a8c9040f087664656d198bd84d18da86d',1,'FlowStatsCollector::FlowStatsManager()'],['../df/d96/classSessionStatsCollector.html#a8c9040f087664656d198bd84d18da86d',1,'SessionStatsCollector::FlowStatsManager()']]],
-  ['flowstatsrecordsreq',['FlowStatsRecordsReq',['../db/d77/classFlowStatsCollector.html#a3bb4533c9f2b3f039d817930950fd827',1,'FlowStatsCollector']]],
+  ['flowstatsrecordsreq',['FlowStatsRecordsReq',['../db/d77/classFlowStatsCollector.html#a3bb4533c9f2b3f039d817930950fd827',1,'FlowStatsCollector::FlowStatsRecordsReq()'],['../d0/d29/classFlowStatsManager.html#a3bb4533c9f2b3f039d817930950fd827',1,'FlowStatsManager::FlowStatsRecordsReq()']]],
   ['flowtable',['FlowTable',['../d3/d4f/classFlowEntry.html#a7e8d8d8e7c2c50858365f99c2b5937a0',1,'FlowEntry::FlowTable()'],['../dc/dc3/classFlowTableKSyncObject.html#a7e8d8d8e7c2c50858365f99c2b5937a0',1,'FlowTableKSyncObject::FlowTable()']]],
   ['flowtest',['FlowTest',['../d8/dd0/classFlowProto.html#ae71e78ee720370e6deb11c24133044c3',1,'FlowProto']]],
   ['flowtracefiltertest',['FlowTraceFilterTest',['../d8/dd0/classFlowProto.html#aabe1abb2a90bb48bd4f6d4c05ce4be0d',1,'FlowProto']]],

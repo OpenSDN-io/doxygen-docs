@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"d9/d14/classetcdserverpb_1_1Watch.html#a16e32a828cb4b067e94fb0ad42e2b51e":[2,0,11,5,8],
 "d9/d14/classetcdserverpb_1_1Watch.html#a2628fc9c0644daa71791ea4c4fac2edf":[2,0,11,5,7],
 "d9/d14/classetcdserverpb_1_1Watch.html#a40f7a199a348ff3a63beb6d3f205e285":[2,0,11,5,5],
 "d9/d14/classetcdserverpb_1_1Watch.html#ab943203f549bdf4f941bd61bc35e41d1":[2,0,11,5,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a1c85a9f6b6428a085e0dd0b745c07118":[2,0,11,145,20],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a203a4251e9e694742dd187ccb32ba590":[2,0,11,145,42],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2092fa518675f25ae16d61a53c66c39d":[2,0,11,145,47],
-"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2193cf5e0ecc067850090274747d4e26":[2,0,11,145,62],
-"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a28eecb4d2c58f4d1c6b7a6321f4c9352":[2,0,11,145,15]
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2193cf5e0ecc067850090274747d4e26":[2,0,11,145,62]
 };
