@@ -4,5 +4,6 @@
 <area shape="rect" id="node4" href="$de/d8d/classKSyncFlowMemory.html#aab3a471f84ac8c84e40af9c88c89b7c9" title="KSyncFlowMemory::SetTableSize" alt="" coords="253,136,488,163"/>
 <area shape="rect" id="node5" href="$d7/de7/classKSync.html#ab1e820796025be29618710fb70a35486" title="KSync::agent" alt="" coords="580,111,687,137"/>
 <area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1cb2309149a5920a53a8d4191436219d" title="Agent::set_flow_table_size" alt="" coords="536,161,731,188"/>
-<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a62b97ba8132806a162b5bac9b78ac0b6" title="AgentParam::max_vm\l_flows" alt="" coords="779,154,946,195"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aed8857261b6fd90679d421b69826ed77" title="Agent::update_max_vm\l_flows" alt="" coords="779,154,957,195"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ae471280dbb6330b0fc579a586aa0aa29" title="Agent::flow_table_size" alt="" coords="1005,161,1173,188"/>
 </map>

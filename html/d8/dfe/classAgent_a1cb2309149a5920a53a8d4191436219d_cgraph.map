@@ -1,3 +1,4 @@
 <map id="Agent::set_flow_table_size" name="Agent::set_flow_table_size">
-<area shape="rect" id="node2" href="$dc/dd4/classAgentParam.html#a62b97ba8132806a162b5bac9b78ac0b6" title="AgentParam::max_vm\l_flows" alt="" coords="249,5,415,46"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#aed8857261b6fd90679d421b69826ed77" title="Agent::update_max_vm\l_flows" alt="" coords="249,5,426,46"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae471280dbb6330b0fc579a586aa0aa29" title="Agent::flow_table_size" alt="" coords="475,12,643,39"/>
 </map>

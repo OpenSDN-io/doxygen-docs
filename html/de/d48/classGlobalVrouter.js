@@ -55,6 +55,7 @@ var classGlobalVrouter =
     [ "linklocal_services_map", "de/d48/classGlobalVrouter.html#a61582951da778fa625f71f1eb496d75d", null ],
     [ "LinkLocalRouteUpdate", "de/d48/classGlobalVrouter.html#aa89db677fc7ecc786a655978237bdd3a", null ],
     [ "PendingFabricDnsRequests", "de/d48/classGlobalVrouter.html#a3ff42cb9f6b9ef8ea86bd041af0ab1be", null ],
+    [ "ReadFlowsLimits", "de/d48/classGlobalVrouter.html#ad5802207d362f1e6702834825b86b7a0", null ],
     [ "ResyncRoutes", "de/d48/classGlobalVrouter.html#a55739a66aaf762dd2de7fb0dd5776a80", null ],
     [ "slo_uuid", "de/d48/classGlobalVrouter.html#acdd5f657b3c8c1b75adc5f27fbd052b0", null ],
     [ "UpdateCryptTunnelEndpointConfig", "de/d48/classGlobalVrouter.html#a94c49c6aa037f9ec877bea4d48e40d0a", null ],
