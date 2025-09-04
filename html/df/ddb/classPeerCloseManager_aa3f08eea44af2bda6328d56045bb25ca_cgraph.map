@@ -1,11 +1,12 @@
 <map id="PeerCloseManager::MembershipRequest" name="PeerCloseManager::MembershipRequest">
-<area shape="rect" id="node2" href="$df/ddb/classPeerCloseManager.html#adddc0a7a53fac05ded836b982af09196" title="PeerCloseManager::Assert\lMembershipState" alt="" coords="293,5,485,46"/>
-<area shape="rect" id="node3" href="$df/ddb/classPeerCloseManager.html#aaf6d7317c5bd754a09595b384dc824c6" title="PeerCloseManager::CanUse\lMembershipManager" alt="" coords="289,70,490,111"/>
-<area shape="rect" id="node6" href="$df/ddb/classPeerCloseManager.html#a4d039c9fcdc992208ae5a7793ab038a9" title="PeerCloseManager::set\l_membership_state" alt="" coords="304,135,475,177"/>
-<area shape="rect" id="node8" href="$df/ddb/classPeerCloseManager.html#a8f163e61985f865126fa7c8441d0e8d4" title="PeerCloseManager::Enqueue\lEvent" alt="" coords="286,201,493,242"/>
-<area shape="rect" id="node4" href="$da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b" title="IPeerClose::peer" alt="" coords="603,35,731,61"/>
-<area shape="rect" id="node5" href="$dd/d38/classIPeer.html#ab65dd2bb67af5254cb6d047ec0db6c55" title="IPeer::CanUseMembershipManager" alt="" coords="542,85,791,112"/>
-<area shape="rect" id="node7" href="$df/ddb/classPeerCloseManager.html#aa25683a293884ac6c75f077c491d8bd2" title="PeerCloseManager::state" alt="" coords="575,143,759,169"/>
-<area shape="rect" id="node9" href="$df/ddb/classPeerCloseManager.html#a4a368505f4fc670215575d18528d9d58" title="PeerCloseManager::GetEventName" alt="" coords="541,200,792,227"/>
-<area shape="rect" id="node10" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title="Address::FamilyToString" alt="" coords="578,251,755,277"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,217,145"/>
+<area shape="rect" id="node2" href="$df/ddb/classPeerCloseManager.html#adddc0a7a53fac05ded836b982af09196" title=" " alt="" coords="271,5,450,47"/>
+<area shape="rect" id="node3" href="$df/ddb/classPeerCloseManager.html#a8e2b5382ce5f1e69bd7f23b836054890" title=" " alt="" coords="267,71,454,112"/>
+<area shape="rect" id="node6" href="$df/ddb/classPeerCloseManager.html#a8f163e61985f865126fa7c8441d0e8d4" title=" " alt="" coords="265,136,456,177"/>
+<area shape="rect" id="node9" href="$df/ddb/classPeerCloseManager.html#a4d039c9fcdc992208ae5a7793ab038a9" title=" " alt="" coords="281,212,440,253"/>
+<area shape="rect" id="node4" href="$dd/d38/classIPeer.html#ab65dd2bb67af5254cb6d047ec0db6c55" title=" " alt="" coords="504,27,733,54"/>
+<area shape="rect" id="node5" href="$da/d00/classIPeerClose.html#a5a882aa3fece09d2898f6acc2742745b" title=" " alt="" coords="559,78,678,105"/>
+<area shape="rect" id="node7" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title=" " alt="" coords="536,129,701,155"/>
+<area shape="rect" id="node8" href="$df/ddb/classPeerCloseManager.html#a5cab90333a54350c4b511683db936134" title=" " alt="" coords="504,179,733,206"/>
+<area shape="rect" id="node10" href="$df/ddb/classPeerCloseManager.html#a63c2fd1780c112af644c9ff45938520c" title=" " alt="" coords="534,230,703,257"/>
 </map>

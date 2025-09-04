@@ -1,6 +1,7 @@
 <map id="etcdserverpb::MemberUpdateResponse::MergeFrom" name="etcdserverpb::MemberUpdateResponse::MergeFrom">
-<area shape="rect" id="node2" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#a3a52ecae8d179bec6d3681ff71a0eb99" title="etcdserverpb::MemberUpdate\lResponse::has_header" alt="" coords="270,5,485,46"/>
-<area shape="rect" id="node4" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#a0718c4e7236a4ba89f5f1f019453a0fd" title="etcdserverpb::MemberUpdate\lResponse::mutable_header" alt="" coords="270,70,485,111"/>
-<area shape="rect" id="node5" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#a385b511c5c06144777173e561a3d28b7" title="etcdserverpb::MemberUpdate\lResponse::header" alt="" coords="270,135,485,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="533,5,757,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,200,112"/>
+<area shape="rect" id="node2" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#aa87a720f20cc128d5346bc55ffa7eca9" title=" " alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node4" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#a9e14ae3daa2b57f74fb222d7210dd003" title=" " alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node5" href="$df/d2a/classetcdserverpb_1_1MemberUpdateResponse.html#a0718c4e7236a4ba89f5f1f019453a0fd" title=" " alt="" coords="248,136,443,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="491,5,697,47"/>
 </map>

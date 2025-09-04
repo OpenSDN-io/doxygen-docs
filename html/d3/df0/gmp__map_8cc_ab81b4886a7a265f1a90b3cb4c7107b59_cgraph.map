@@ -1,51 +1,13 @@
 <map id="gmp_notification_handler" name="gmp_notification_handler">
-<area shape="rect" id="node2" href="$d3/df0/gmp__map_8cc.html#a58ea7166f9c5021727a40f38679e59bf" title="gmp_client_notification" alt="" coords="258,659,433,685"/>
-<area shape="rect" id="node39" href="$d3/df0/gmp__map_8cc.html#a547958b851f06243dbe6c1f532eed92e" title="gmp_client_host_notification" alt="" coords="241,905,450,932"/>
-<area shape="rect" id="node3" href="$d4/d00/gmp__router_8h.html#a487ae49701a9c65963cbf57d0cf5b32c" title="gmpr_notification_last_sg" alt="" coords="513,735,703,761"/>
-<area shape="rect" id="node4" href="$d4/d00/gmp__router_8h.html#aa542066edb7c444a45cd267988af1393" title="gmpr_get_notification" alt="" coords="526,532,690,559"/>
-<area shape="rect" id="node5" href="$d2/d61/gmp__map_8h.html#ab880d2b42dedec341611bcd84781f94c" title="gmp_group_notify" alt="" coords="538,583,678,609"/>
-<area shape="rect" id="node36" href="$d2/d61/gmp__map_8h.html#a32fb90103cc7d739380d5ebe9f30c822" title="gmp_cache_resync_notify" alt="" coords="513,633,703,660"/>
-<area shape="rect" id="node38" href="$d4/d00/gmp__router_8h.html#af4e327b932e29e1ec18c151a51ef55f6" title="gmpr_return_notification" alt="" coords="517,684,699,711"/>
-<area shape="rect" id="node6" href="$dc/d17/classGmpProto.html#ab8d132929170718498ea5686c06b8dc2" title="GmpProto::GroupNotify" alt="" coords="793,487,967,513"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="1920,840,2037,867"/>
-<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#a299d65116f81c12b7a69ecb5392a9721" title="AgentParam::mvpn_ipv4\l_enable" alt="" coords="1888,607,2069,649"/>
-<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="1674,505,1801,532"/>
-<area shape="rect" id="node10" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="1638,556,1837,583"/>
-<area shape="rect" id="node11" href="$d5/d33/classGmpIntf.html#a6ae0b80ecf21e99f7827fc8d46982b7a" title="GmpIntf::get_vrf_name" alt="" coords="1081,676,1255,703"/>
-<area shape="rect" id="node12" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="1119,5,1217,32"/>
-<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="1082,487,1254,513"/>
-<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="1080,57,1256,98"/>
-<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1077,123,1259,149"/>
-<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1404,1172,1524,1199"/>
-<area shape="rect" id="node19" href="$dc/dff/classOperDB.html#a1e1be91f26a92aea51eef8e64b23f7ca" title="OperDB::multicast" alt="" coords="1393,1020,1535,1047"/>
-<area shape="rect" id="node20" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="1665,891,1809,917"/>
-<area shape="rect" id="node21" href="$d6/d9c/classMulticastHandler.html#af7d2318c4f78d988ee8b3e1c178c2c3e" title="MulticastHandler::Create\lMulticastVrfSourceGroup" alt="" coords="1373,677,1555,718"/>
-<area shape="rect" id="node29" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="1097,173,1239,200"/>
-<area shape="rect" id="node30" href="$d6/d9c/classMulticastHandler.html#afddd92e5e3b2d7ead5feea6ec50e4ea9" title="MulticastHandler::SetEvpn\lMulticastSGFlags" alt="" coords="1071,341,1265,382"/>
-<area shape="rect" id="node32" href="$d6/d9c/classMulticastHandler.html#a7c78e0212de179025133755795754001" title="MulticastHandler::Delete\lMulticastVrfSourceGroup" alt="" coords="1077,275,1259,317"/>
-<area shape="rect" id="node14" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1351,457,1577,484"/>
-<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1369,509,1559,550"/>
-<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1649,789,1826,816"/>
-<area shape="rect" id="node23" href="$d6/d9c/classMulticastHandler.html#aa158eae66534d6501a729eee90f8150d" title="MulticastHandler::FindGroup\lObject" alt="" coords="1635,257,1840,298"/>
-<area shape="rect" id="node24" href="$d6/d9c/classMulticastHandler.html#a4f353f8f9cd4aa5cff28fa093fbdc53e" title="MulticastHandler::Create\lMulticastGroupObject" alt="" coords="1646,673,1829,714"/>
-<area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="1669,739,1806,765"/>
-<area shape="rect" id="node26" href="$d6/d9c/classMulticastHandler.html#adcfc570b83f1290809e935d4e498a5f6" title="MulticastHandler::AddLocal\lPeerRoute" alt="" coords="1638,607,1837,649"/>
-<area shape="rect" id="node27" href="$d6/d9c/classMulticastHandler.html#a076cf6197c18b89f6c8080e898e948cb" title="MulticastHandler::Trigger\lLocalRouteChange" alt="" coords="1645,439,1829,481"/>
-<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a2a8079b5366a30f0e827b7793f2ea54f" title="Agent::local_vm_peer" alt="" coords="1656,388,1819,415"/>
-<area shape="rect" id="node31" href="$db/db1/classMulticastGroupObject.html#a914d5ab1c640f12dcbe6457b6a048afd" title="MulticastGroupObject\l::set_evpn_igmp_flags" alt="" coords="1381,341,1547,382"/>
-<area shape="rect" id="node33" href="$d6/d9c/classMulticastHandler.html#acb6ce79f00bbe9d664243e5a504958df" title="MulticastHandler::Handle\lRouteChangeAndMulticastObject" alt="" coords="1347,275,1581,317"/>
-<area shape="rect" id="node35" href="$d6/d9c/classMulticastHandler.html#a5d0ac97dc1328aa6492432e23ea7870d" title="MulticastHandler::Delete\lVmToMulticastObjMap" alt="" coords="1373,158,1555,199"/>
-<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#a47214d1ad68af041dc81f89f4d8d6641" title="Agent::fabric_policy\l_vrf_name" alt="" coords="1662,322,1813,363"/>
-<area shape="rect" id="node37" href="$dc/d17/classGmpProto.html#afbfe718d0a0c1bb42bf3b6bec28a5292" title="GmpProto::ResyncNotify" alt="" coords="789,633,971,660"/>
-<area shape="rect" id="node40" href="$d4/d00/gmp__router_8h.html#a41e181e8f490af0937c3c77ecc6b2c46" title="gmpr_get_host_notification" alt="" coords="509,981,707,1008"/>
-<area shape="rect" id="node41" href="$d2/d61/gmp__map_8h.html#a4ee5f0801bbd0e0c164aaa7ff2bfa672" title="gmp_host_update" alt="" coords="539,931,677,957"/>
-<area shape="rect" id="node50" href="$d4/d00/gmp__router_8h.html#a66ed4ab422a3743d78194c4a5f01a9ee" title="gmpr_return_host_notification" alt="" coords="499,880,717,907"/>
-<area shape="rect" id="node42" href="$dc/d17/classGmpProto.html#aea5b22e4aa49dc2d4904b9b66df40861" title="GmpProto::UpdateHostInSource\lGroup" alt="" coords="766,1114,994,1155"/>
-<area shape="rect" id="node43" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="1085,1375,1251,1401"/>
-<area shape="rect" id="node44" href="$d2/d73/classInterfaceTable.html#ad4f2b5e359d757931604db0b45bcc252" title="InterfaceTable::FindVmi" alt="" coords="1081,1324,1255,1351"/>
-<area shape="rect" id="node46" href="$dc/d17/classGmpProto.html#a399dd8d4fd87582d530e9b3cfbf0e6df" title="GmpProto::TriggerMvpnNotification" alt="" coords="1043,1071,1293,1097"/>
-<area shape="rect" id="node49" href="$dc/d17/classGmpProto.html#a9c28556fe6f70f9027032a914a204ec7" title="GmpProto::TriggerEvpnNotification" alt="" coords="1045,1121,1291,1148"/>
-<area shape="rect" id="node45" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="1391,1324,1537,1351"/>
-<area shape="rect" id="node47" href="$d6/d9c/classMulticastHandler.html#a7910b686cce305cebc55961b2555167f" title="MulticastHandler::AddVmInterface\lToSourceGroup" alt="" coords="1341,742,1587,783"/>
-<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#a1359f08f2868207392c26e4c424edf77" title="Agent::fabric_vn_name" alt="" coords="1378,1071,1550,1097"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,172,209"/>
+<area shape="rect" id="node2" href="$d3/df0/gmp__map_8cc.html#a547958b851f06243dbe6c1f532eed92e" title=" " alt="" coords="220,81,407,108"/>
+<area shape="rect" id="node6" href="$d3/df0/gmp__map_8cc.html#a58ea7166f9c5021727a40f38679e59bf" title=" " alt="" coords="236,233,391,260"/>
+<area shape="rect" id="node3" href="$d2/d61/gmp__map_8h.html#a4ee5f0801bbd0e0c164aaa7ff2bfa672" title=" " alt="" coords="489,5,614,32"/>
+<area shape="rect" id="node4" href="$d4/d00/gmp__router_8h.html#a41e181e8f490af0937c3c77ecc6b2c46" title=" " alt="" coords="462,56,641,83"/>
+<area shape="rect" id="node5" href="$d4/d00/gmp__router_8h.html#a66ed4ab422a3743d78194c4a5f01a9ee" title=" " alt="" coords="455,107,648,133"/>
+<area shape="rect" id="node7" href="$d2/d61/gmp__map_8h.html#a32fb90103cc7d739380d5ebe9f30c822" title=" " alt="" coords="465,157,638,184"/>
+<area shape="rect" id="node8" href="$d2/d61/gmp__map_8h.html#ab880d2b42dedec341611bcd84781f94c" title=" " alt="" coords="489,208,614,235"/>
+<area shape="rect" id="node9" href="$d4/d00/gmp__router_8h.html#aa542066edb7c444a45cd267988af1393" title=" " alt="" coords="478,259,625,285"/>
+<area shape="rect" id="node10" href="$d4/d00/gmp__router_8h.html#a487ae49701a9c65963cbf57d0cf5b32c" title=" " alt="" coords="466,309,637,336"/>
+<area shape="rect" id="node11" href="$d4/d00/gmp__router_8h.html#af4e327b932e29e1ec18c151a51ef55f6" title=" " alt="" coords="471,360,632,387"/>
 </map>

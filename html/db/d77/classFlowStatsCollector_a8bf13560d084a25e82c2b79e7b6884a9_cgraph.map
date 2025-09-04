@@ -1,7 +1,20 @@
 <map id="FlowStatsCollector::ReverseFlowFipEntry" name="FlowStatsCollector::ReverseFlowFipEntry">
-<area shape="rect" id="node2" href="$d0/da8/classFlowExportInfo.html#aa66f4733ca10168a6b45eb6d7c233d27" title="FlowExportInfo::flow" alt="" coords="228,5,383,32"/>
-<area shape="rect" id="node3" href="$d3/d4f/classFlowEntry.html#a3465ab0ad97a65fd4b6ecacc160da995" title="FlowEntry::data" alt="" coords="244,56,367,83"/>
-<area shape="rect" id="node4" href="$d6/d02/classInterfaceUveStatsTable.html#a9b7818ee08458973997ee4e5092c112f" title="InterfaceUveStatsTable\l::FipEntry" alt="" coords="219,107,392,149"/>
-<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="453,85,627,112"/>
-<area shape="rect" id="node6" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#ab05ffd3efdea8919755bf1196b7408ab" title="InterfaceUveTable::\lUveInterfaceEntry::FipEntry" alt="" coords="441,137,639,178"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,231,161,273"/>
+<area shape="rect" id="node2" href="$d4/d59/classAgentUveBase.html#a33acd60a101cffce3a1c413714afca67" title=" " alt="" coords="222,5,371,32"/>
+<area shape="rect" id="node3" href="$d3/d4f/classFlowEntry.html#a3465ab0ad97a65fd4b6ecacc160da995" title=" " alt="" coords="239,56,354,83"/>
+<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="209,107,384,149"/>
+<area shape="rect" id="node8" href="$d6/d02/classInterfaceUveStatsTable.html#a9b7818ee08458973997ee4e5092c112f" title=" " alt="" coords="217,173,376,214"/>
+<area shape="rect" id="node11" href="$d0/da8/classFlowExportInfo.html#a4fe14c40a2a2738cbd5aa09c2568f6e8" title=" " alt="" coords="225,239,368,265"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="221,289,372,316"/>
+<area shape="rect" id="node13" href="$d4/d59/classAgentUveBase.html#a6cbbd075985866503943fc8e683f2577" title=" " alt="" coords="213,341,381,382"/>
+<area shape="rect" id="node14" href="$db/d77/classFlowStatsCollector.html#ae70aef1567b58849add6907fc4b2dd4e" title=" " alt="" coords="230,406,363,447"/>
+<area shape="rect" id="node17" href="$db/d77/classFlowStatsCollector.html#acbe0e46aee0583704cf4fb63d19084f2" title=" " alt="" coords="223,471,370,513"/>
+<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="459,79,598,105"/>
+<area shape="rect" id="node6" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="448,129,609,156"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="673,129,840,156"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="449,180,608,207"/>
+<area shape="rect" id="node10" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#ab05ffd3efdea8919755bf1196b7408ab" title=" " alt="" coords="435,231,622,273"/>
+<area shape="rect" id="node15" href="$d3/d4f/classFlowEntry.html#a2e9595a4144da353a1fe13ef2a8e54e7" title=" " alt="" coords="477,395,580,421"/>
+<area shape="rect" id="node16" href="$d0/da8/classFlowExportInfo.html#a3d7795ae6334262166e8bdc878432d3b" title=" " alt="" coords="432,445,625,472"/>
+<area shape="rect" id="node18" href="$d3/d4f/classFlowEntry.html#a482b2686fc153b58beb1f30a4ced050d" title=" " alt="" coords="463,496,594,523"/>
 </map>

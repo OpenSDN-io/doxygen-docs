@@ -1,9 +1,10 @@
 <map id="BgpAsAService::FreeBgpVmiServicePortIndex" name="BgpAsAService::FreeBgpVmiServicePortIndex">
-<area shape="rect" id="node2" href="$dd/dcf/classBgpAsAService.html#a5f61efd5d00431b86ec6bd356cc51634" title="BgpAsAService::bgp\l_as_a_service_port_range" alt="" coords="270,5,461,46"/>
-<area shape="rect" id="node3" href="$de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44" title="BGPaaSUtils::DecodeBgpaas\lServicePort" alt="" coords="262,70,469,111"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="271,136,460,163"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title="ResourceManager::Release" alt="" coords="267,187,463,213"/>
-<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="518,121,719,162"/>
-<area shape="rect" id="node7" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title="ResourceTable::FindKeyPtr" alt="" coords="523,187,714,213"/>
-<area shape="rect" id="node8" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title="ResourceTable::ReleaseKey" alt="" coords="519,237,718,264"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,200,141"/>
+<area shape="rect" id="node2" href="$dd/dcf/classBgpAsAService.html#a99a9487b42e9944d9fcf4fb66b118770" title=" " alt="" coords="259,5,435,47"/>
+<area shape="rect" id="node3" href="$de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44" title=" " alt="" coords="248,71,445,112"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title=" " alt="" coords="255,137,438,163"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="261,187,432,214"/>
+<area shape="rect" id="node5" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title=" " alt="" coords="496,86,676,113"/>
+<area shape="rect" id="node6" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title=" " alt="" coords="493,137,679,163"/>
+<area shape="rect" id="node7" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title=" " alt="" coords="493,188,679,229"/>
 </map>

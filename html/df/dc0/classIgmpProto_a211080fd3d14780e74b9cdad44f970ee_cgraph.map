@@ -1,10 +1,11 @@
 <map id="IgmpProto::ClearItfStats" name="IgmpProto::ClearItfStats">
-<area shape="rect" id="node2" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="264,5,400,32"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="246,56,418,83"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="244,107,420,149"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="241,173,423,200"/>
-<area shape="rect" id="node8" href="$d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#af262a4e3f5a0fc9a3810e431b9f368b4" title="IgmpInfo::IgmpSubnetState\l::ClearItfStats" alt="" coords="232,225,432,266"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="480,27,707,53"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="499,78,688,119"/>
-<area shape="rect" id="node9" href="$d0/d8f/structIgmpInfo_1_1IgmpItfStats.html#a4465487b4f7b7f8c74ede5c1edb850ab" title="IgmpInfo::IgmpItfStats\l::Reset" alt="" coords="509,225,677,266"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,169,163"/>
+<area shape="rect" id="node2" href="$d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#af262a4e3f5a0fc9a3810e431b9f368b4" title=" " alt="" coords="217,5,400,47"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#ab07bd6dfa63fea93777ca3241b3f419c" title=" " alt="" coords="227,71,391,112"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#abb785f8f71253a4d30d6e4332625b42e" title=" " alt="" coords="245,137,372,163"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="227,187,390,214"/>
+<area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="223,238,394,265"/>
+<area shape="rect" id="node3" href="$d0/d8f/structIgmpInfo_1_1IgmpItfStats.html#a4465487b4f7b7f8c74ede5c1edb850ab" title=" " alt="" coords="477,5,630,47"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="464,151,643,192"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="448,217,659,243"/>
 </map>

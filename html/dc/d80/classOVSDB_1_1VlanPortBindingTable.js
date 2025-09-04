@@ -5,6 +5,6 @@ var classOVSDB_1_1VlanPortBindingTable =
     [ "Alloc", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#ad65950e06c8b20cbb29f04b95416f84b", null ],
     [ "DBToKSyncEntry", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#a4d393f489814ae832397d8bfbd745bd0", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#a78bf307614b6ce0e456cc35a637814bc", null ],
-    [ "GetLogicalSwitchName", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#a212633bb6531a6ad3d2f5c8a07771ef5", null ],
+    [ "GetLogicalSwitchName", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#a687ea7ba09625b6f29773c9799743f8d", null ],
     [ "OvsdbDBEntryFilter", "dc/d80/classOVSDB_1_1VlanPortBindingTable.html#a48d56d0dc38af1c4370f73daf6395b3f", null ]
 ];

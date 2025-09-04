@@ -1,8 +1,9 @@
 <map id="routing_instance_log.h" name="routing_instance_log.h">
-<area shape="rect" id="node2" href="$db/d04/bgp__evpn_8cc.html" title="bgp_evpn.cc" alt="" coords="5,80,107,107"/>
-<area shape="rect" id="node3" href="$dd/dff/bgp__multicast_8cc.html" title="bgp_multicast.cc" alt="" coords="131,80,263,107"/>
-<area shape="rect" id="node4" href="$dc/d63/bgp__mvpn_8cc.html" title="bgp_mvpn.cc" alt="" coords="287,80,395,107"/>
-<area shape="rect" id="node5" href="$de/d6d/mvpn__table_8cc.html" title="mvpn_table.cc" alt="" coords="420,80,537,107"/>
-<area shape="rect" id="node6" href="$dd/d79/peer__manager_8cc.html" title="peer_manager.cc" alt="" coords="561,80,695,107"/>
-<area shape="rect" id="node7" href="$d3/d46/routing__instance_8cc.html" title="routing_instance.cc" alt="" coords="719,80,867,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="311,5,463,32"/>
+<area shape="rect" id="node2" href="$db/d04/bgp__evpn_8cc.html" title=" " alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$dd/dff/bgp__multicast_8cc.html" title=" " alt="" coords="127,80,248,107"/>
+<area shape="rect" id="node4" href="$dc/d63/bgp__mvpn_8cc.html" title=" " alt="" coords="273,80,374,107"/>
+<area shape="rect" id="node5" href="$de/d6d/mvpn__table_8cc.html" title=" " alt="" coords="398,80,505,107"/>
+<area shape="rect" id="node6" href="$dd/d79/peer__manager_8cc.html" title=" " alt="" coords="529,80,651,107"/>
+<area shape="rect" id="node7" href="$d3/d46/routing__instance_8cc.html" title=" " alt="" coords="676,80,811,107"/>
 </map>

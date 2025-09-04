@@ -1,6 +1,7 @@
 <map id="default_gateway.h" name="default_gateway.h">
-<area shape="rect" id="node2" href="$d5/dbd/bgp__route_8cc.html" title="bgp_route.cc" alt="" coords="5,80,109,107"/>
-<area shape="rect" id="node3" href="$da/dfb/community_8cc.html" title="community.cc" alt="" coords="135,80,247,107"/>
-<area shape="rect" id="node4" href="$db/d56/default__gateway_8cc.html" title="default_gateway.cc" alt="" coords="271,80,417,107"/>
-<area shape="rect" id="node5" href="$d8/d06/routing__policy__match_8cc.html" title="routing_policy_match.cc" alt="" coords="442,80,621,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="187,5,314,32"/>
+<area shape="rect" id="node2" href="$d5/dbd/bgp__route_8cc.html" title=" " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$da/dfb/community_8cc.html" title=" " alt="" coords="129,80,231,107"/>
+<area shape="rect" id="node4" href="$db/d56/default__gateway_8cc.html" title=" " alt="" coords="256,80,389,107"/>
+<area shape="rect" id="node5" href="$d8/d06/routing__policy__match_8cc.html" title=" " alt="" coords="413,80,576,107"/>
 </map>

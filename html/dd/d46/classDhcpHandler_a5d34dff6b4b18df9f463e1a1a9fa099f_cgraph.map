@@ -1,51 +1,52 @@
 <map id="DhcpHandler::FillDhcpResponse" name="DhcpHandler::FillDhcpResponse">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a41828042451de578f355b40425f20778" title="ProtoHandler::EthHdr" alt="" coords="299,727,458,754"/>
-<area shape="rect" id="node3" href="$df/da5/classProtoHandler.html#ab821539af1738830be473756f6927716" title="ProtoHandler::GetInterface\lIndex" alt="" coords="281,779,477,820"/>
-<area shape="rect" id="node4" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="303,845,455,871"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="294,895,463,922"/>
-<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#abb83064a529ab788f6ca5cd8592def91" title="Interface::mac" alt="" coords="321,946,437,973"/>
-<area shape="rect" id="node7" href="$dd/d46/classDhcpHandler.html#ae6b69201e985dc682f67bdb439734879" title="DhcpHandler::DhcpHdr" alt="" coords="293,997,464,1023"/>
-<area shape="rect" id="node49" href="$df/da5/classProtoHandler.html#a414315d3d64bc2703e140718ef3bad17" title="ProtoHandler::UdpHdr" alt="" coords="297,1047,461,1074"/>
-<area shape="rect" id="node50" href="$df/da5/classProtoHandler.html#a2884edb979d2ab93c67eab135863cde0" title="ProtoHandler::IpHdr" alt="" coords="303,1098,454,1125"/>
-<area shape="rect" id="node8" href="$d3/df5/classMacAddress.html#a848c2fc67fd7cdf6ce2bf0c052d4d935" title="MacAddress::ToArray" alt="" coords="569,502,727,529"/>
-<area shape="rect" id="node9" href="$dd/d33/classDhcpHandlerBase.html#aafc634c246f2702d38924acf56a6d707" title="DhcpHandlerBase::AddConfig\lDhcpOptions" alt="" coords="542,604,754,645"/>
-<area shape="rect" id="node13" href="$dd/d33/classDhcpHandlerBase.html#a4ed3fe2a6dc9ea96f22aa912d09bd271" title="DhcpHandlerBase::is\l_flag_set" alt="" coords="1152,1101,1309,1143"/>
-<area shape="rect" id="node36" href="$dd/d33/classDhcpHandlerBase.html#a023a4bcd77b948521384ae5b91eea9c6" title="DhcpHandlerBase::AddClassless\lRouteOption" alt="" coords="821,1301,1053,1343"/>
-<area shape="rect" id="node44" href="$dd/d46/classDhcpHandler.html#a7d73f17db0513cd56800a2a556a6f79c" title="DhcpHandler::IsRouterOption\lNeeded" alt="" coords="543,1019,753,1060"/>
-<area shape="rect" id="node26" href="$dd/d33/classDhcpHandlerBase.html#a0e6d0634b23f48e645aff06819dbc086" title="DhcpHandlerBase::AddIpv4\lOption" alt="" coords="1131,971,1330,1012"/>
-<area shape="rect" id="node46" href="$dd/d33/classDhcpHandlerBase.html#a1acf7f2b277144d7436b5676fb2eee07" title="DhcpHandlerBase::AddDnsServers" alt="" coords="525,553,771,579"/>
-<area shape="rect" id="node47" href="$dd/d46/classDhcpHandler.html#ac0ca05627307372599c9ef7e03b8676c" title="DhcpHandler::AddDomainName\lOption" alt="" coords="533,1301,763,1343"/>
-<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#aebdf9b85498356b991d63cf3cbed7a41" title="VmInterface::GetInterface\lDhcpOptions" alt="" coords="842,571,1033,612"/>
-<area shape="rect" id="node11" href="$dd/d33/classDhcpHandlerBase.html#a115da385bfbe47731575cb83a61c27eb" title="DhcpHandlerBase::AddDhcp\lOptions" alt="" coords="835,636,1039,677"/>
-<area shape="rect" id="node34" href="$d5/d21/classVmInterface.html#af0a866a2613dcadfc6038326c123209a" title="VmInterface::GetSubnetDhcp\lOptions" alt="" coords="832,440,1043,481"/>
-<area shape="rect" id="node35" href="$d5/d21/classVmInterface.html#a39ee8680b376fc62c0134b95da492a46" title="VmInterface::GetIpamDhcp\lOptions" alt="" coords="838,505,1037,547"/>
-<area shape="rect" id="node12" href="$dd/d33/classDhcpHandlerBase.html#a16c9a54d9f428618dbe5f0ca94875154" title="DhcpHandlerBase::OptionCode" alt="" coords="1119,673,1342,699"/>
-<area shape="rect" id="node14" href="$dd/d33/classDhcpHandlerBase.html#afcc632e4c064208679d00393fdb3e3ca" title="DhcpHandlerBase::OptionCategory" alt="" coords="1107,723,1355,750"/>
-<area shape="rect" id="node15" href="$dd/d33/classDhcpHandlerBase.html#a2d2afc0f11837d2f5792bdba492434fa" title="DhcpHandlerBase::CanOverride\lWithBytes" alt="" coords="1117,775,1344,816"/>
-<area shape="rect" id="node16" href="$dd/d33/classDhcpHandlerBase.html#a2dbbbcac50824b7fc23a3ac409105d17" title="DhcpHandlerBase::AddNoData\lOption" alt="" coords="1121,840,1341,881"/>
-<area shape="rect" id="node17" href="$dd/d33/classDhcpHandlerBase.html#a0c075164ff6788b8e0252e1a203a300e" title="DhcpHandlerBase::AddByte\lOption" alt="" coords="1130,905,1331,947"/>
-<area shape="rect" id="node18" href="$dd/d33/classDhcpHandlerBase.html#a198eb0b8f2a4f0191d762e4c5925cba5" title="DhcpHandlerBase::AddByte\lArrayOption" alt="" coords="1130,84,1331,125"/>
-<area shape="rect" id="node19" href="$dd/d33/classDhcpHandlerBase.html#abe2bd2de4958e9df16dc724dc27d8e78" title="DhcpHandlerBase::AddByte\lStringOption" alt="" coords="1130,149,1331,191"/>
-<area shape="rect" id="node20" href="$dd/d33/classDhcpHandlerBase.html#a740bb92d862cdc6340e12e6cc99d7399" title="DhcpHandlerBase::AddByte\lIPOption" alt="" coords="1130,215,1331,256"/>
-<area shape="rect" id="node22" href="$dd/d33/classDhcpHandlerBase.html#ab704052dafedd8c69e21e596af0623e7" title="DhcpHandlerBase::AddString\lOption" alt="" coords="1126,345,1335,387"/>
-<area shape="rect" id="node23" href="$dd/d33/classDhcpHandlerBase.html#a1f0462e637f64397962994febaeea28b" title="DhcpHandlerBase::set_flag" alt="" coords="1880,662,2077,689"/>
-<area shape="rect" id="node24" href="$dd/d33/classDhcpHandlerBase.html#a41f9f1864dc69b4b2286bfc4ddcaa99f" title="DhcpHandlerBase::AddInteger\lOption" alt="" coords="1122,411,1339,452"/>
-<area shape="rect" id="node25" href="$dd/d33/classDhcpHandlerBase.html#ad94c17c247a1681885300307409a06de" title="DhcpHandlerBase::AddShort\lArrayOption" alt="" coords="1128,476,1333,517"/>
-<area shape="rect" id="node29" href="$dd/d33/classDhcpHandlerBase.html#af24b68762c2ae8d3a10135519f4c4757" title="DhcpHandlerBase::AddIpv6\lOption" alt="" coords="1131,280,1330,321"/>
-<area shape="rect" id="node30" href="$dd/d33/classDhcpHandlerBase.html#aec21cdaced89a3d2d033ffc1302742ff" title="DhcpHandlerBase::ReadClassless\lRoute" alt="" coords="1111,1036,1350,1077"/>
-<area shape="rect" id="node32" href="$dd/d33/classDhcpHandlerBase.html#afad85e20c2dd2be2ccb24e87f5f4d1e5" title="DhcpHandlerBase::AddCompressed\lNameOption" alt="" coords="1105,541,1357,583"/>
-<area shape="rect" id="node33" href="$dd/d33/classDhcpHandlerBase.html#a584b3e8ac13ad9ffaa10d7c8d10bbeea" title="DhcpHandlerBase::AddByte\lCompressedNameOption" alt="" coords="1130,607,1331,648"/>
-<area shape="rect" id="node21" href="$dd/d33/classDhcpHandlerBase.html#aacfbb5dcdefa3dc944fa828f8135d563" title="DhcpHandlerBase::AddIP" alt="" coords="1409,255,1591,282"/>
-<area shape="rect" id="node27" href="$dd/d33/classDhcpHandlerBase.html#a46d4c814662ef30aa318b99f838dd7cf" title="DhcpHandlerBase::IsValid\lIpOption" alt="" coords="1405,655,1595,696"/>
-<area shape="rect" id="node28" href="$dd/d33/classDhcpHandlerBase.html#a14f887d2f84ae427a039834f71b3558d" title="DhcpHandlerBase::IsValid\lDnsOption" alt="" coords="1643,655,1832,696"/>
-<area shape="rect" id="node31" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title="Ip4PrefixParse" alt="" coords="1443,1109,1557,1135"/>
-<area shape="rect" id="node37" href="$d5/d21/classVmInterface.html#a2f2eb39c8ca4edc51fdb36ced8d16f64" title="VmInterface::oper_dhcp\l_options" alt="" coords="1142,1385,1319,1427"/>
-<area shape="rect" id="node38" href="$d7/dd5/classOperDhcpOptions.html#a4615cd55c14a7c0c2f6d01c1e02a947b" title="OperDhcpOptions::are\l_host_routes_set" alt="" coords="1148,1503,1313,1544"/>
-<area shape="rect" id="node39" href="$d7/dd5/classOperDhcpOptions.html#a2ed498d8fa19372554d51cb03fdace7a" title="OperDhcpOptions::host\l_routes" alt="" coords="1145,1568,1317,1609"/>
-<area shape="rect" id="node40" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="1167,1233,1294,1259"/>
-<area shape="rect" id="node41" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="1154,1283,1307,1310"/>
-<area shape="rect" id="node42" href="$d8/d00/classVnEntry.html#af0f3e307c181988f831bfbc432557b93" title="VnEntry::GetVnHostRoutes" alt="" coords="1133,1334,1328,1361"/>
-<area shape="rect" id="node43" href="$d7/dd5/classOperDhcpOptions.html#afec3b5d97d39553a10fd704958d9721c" title="OperDhcpOptions::update\l_host_routes" alt="" coords="1136,1167,1325,1208"/>
-<area shape="rect" id="node45" href="$dd/d46/classDhcpHandler.html#ad459606d4e052d6327a1d7ffd6108fb9" title="DhcpHandler::IsOptionRequested" alt="" coords="819,1018,1055,1045"/>
-<area shape="rect" id="node48" href="$dd/d33/classDhcpHandlerBase.html#a760bc27960297a27dc2c19f5df0192ad" title="DhcpHandlerBase::is\l_dns_enabled" alt="" coords="859,1367,1016,1408"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1701,217,1728"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="285,1571,424,1597"/>
+<area shape="rect" id="node3" href="$dd/d46/classDhcpHandler.html#ae6b69201e985dc682f67bdb439734879" title=" " alt="" coords="275,1621,434,1648"/>
+<area shape="rect" id="node47" href="$df/da5/classProtoHandler.html#a41828042451de578f355b40425f20778" title=" " alt="" coords="281,1672,428,1699"/>
+<area shape="rect" id="node48" href="$df/da5/classProtoHandler.html#afcfb4859972a3febd05f08683edee988" title=" " alt="" coords="265,1723,444,1765"/>
+<area shape="rect" id="node49" href="$df/da5/classProtoHandler.html#a2884edb979d2ab93c67eab135863cde0" title=" " alt="" coords="285,1789,424,1816"/>
+<area shape="rect" id="node50" href="$df/da5/classProtoHandler.html#a414315d3d64bc2703e140718ef3bad17" title=" " alt="" coords="279,1840,430,1867"/>
+<area shape="rect" id="node4" href="$dd/d33/classDhcpHandlerBase.html#a023a4bcd77b948521384ae5b91eea9c6" title=" " alt="" coords="769,238,987,279"/>
+<area shape="rect" id="node14" href="$dd/d33/classDhcpHandlerBase.html#aafc634c246f2702d38924acf56a6d707" title=" " alt="" coords="508,513,705,554"/>
+<area shape="rect" id="node24" href="$dd/d33/classDhcpHandlerBase.html#a0e6d0634b23f48e645aff06819dbc086" title=" " alt="" coords="1059,1607,1243,1649"/>
+<area shape="rect" id="node31" href="$dd/d33/classDhcpHandlerBase.html#abca8d2ee64fa241362cf3b21d4047925" title=" " alt="" coords="1078,1673,1225,1714"/>
+<area shape="rect" id="node41" href="$dd/d33/classDhcpHandlerBase.html#a1acf7f2b277144d7436b5676fb2eee07" title=" " alt="" coords="492,1768,721,1795"/>
+<area shape="rect" id="node42" href="$dd/d46/classDhcpHandler.html#ac0ca05627307372599c9ef7e03b8676c" title=" " alt="" coords="502,1702,711,1743"/>
+<area shape="rect" id="node44" href="$dd/d46/classDhcpHandler.html#a7d73f17db0513cd56800a2a556a6f79c" title=" " alt="" coords="509,1585,704,1626"/>
+<area shape="rect" id="node46" href="$d3/df5/classMacAddress.html#af7b41639b04813eeb224dbb4e0136d59" title=" " alt="" coords="533,1819,681,1845"/>
+<area shape="rect" id="node5" href="$d7/dd5/classOperDhcpOptions.html#af1851c5d1546c871f4b3ce455d4be35a" title=" " alt="" coords="1075,173,1227,214"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a9571c0cbd2294fc5ccfa8c3433fe1ba1" title=" " alt="" coords="1059,5,1243,32"/>
+<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="1080,304,1223,331"/>
+<area shape="rect" id="node8" href="$d7/dd5/classOperDhcpOptions.html#ace33239f2554b1fdbbb2e72bb275fdfe" title=" " alt="" coords="1324,78,1483,119"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#a9a13f38e177a308b87081ae658ab5f18" title=" " alt="" coords="1070,238,1233,279"/>
+<area shape="rect" id="node10" href="$dd/d33/classDhcpHandlerBase.html#a1f0462e637f64397962994febaeea28b" title=" " alt="" coords="1060,604,1243,631"/>
+<area shape="rect" id="node11" href="$d7/dd5/classOperDhcpOptions.html#afec3b5d97d39553a10fd704958d9721c" title=" " alt="" coords="1065,107,1238,149"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="1093,421,1209,448"/>
+<area shape="rect" id="node12" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title=" " alt="" coords="1349,419,1458,445"/>
+<area shape="rect" id="node15" href="$dd/d33/classDhcpHandlerBase.html#a115da385bfbe47731575cb83a61c27eb" title=" " alt="" coords="783,1085,973,1126"/>
+<area shape="rect" id="node35" href="$d5/d21/classVmInterface.html#a254ba48ca20c81a58c56e28ccdf54f02" title=" " alt="" coords="791,355,965,397"/>
+<area shape="rect" id="node37" href="$d5/d21/classVmInterface.html#aca0dc3c61d2396ca560105811bd40635" title=" " alt="" coords="787,513,969,554"/>
+<area shape="rect" id="node40" href="$d5/d21/classVmInterface.html#a6b58b6628aab478b86180c55b3edbaa2" title=" " alt="" coords="781,447,975,489"/>
+<area shape="rect" id="node16" href="$dd/d33/classDhcpHandlerBase.html#a198eb0b8f2a4f0191d762e4c5925cba5" title=" " alt="" coords="1058,1085,1245,1126"/>
+<area shape="rect" id="node17" href="$dd/d33/classDhcpHandlerBase.html#a584b3e8ac13ad9ffaa10d7c8d10bbeea" title=" " alt="" coords="1058,1150,1245,1191"/>
+<area shape="rect" id="node18" href="$dd/d33/classDhcpHandlerBase.html#a740bb92d862cdc6340e12e6cc99d7399" title=" " alt="" coords="1058,1542,1245,1583"/>
+<area shape="rect" id="node20" href="$dd/d33/classDhcpHandlerBase.html#a0c075164ff6788b8e0252e1a203a300e" title=" " alt="" coords="1058,1215,1245,1257"/>
+<area shape="rect" id="node21" href="$dd/d33/classDhcpHandlerBase.html#abe2bd2de4958e9df16dc724dc27d8e78" title=" " alt="" coords="1058,1281,1245,1322"/>
+<area shape="rect" id="node22" href="$dd/d33/classDhcpHandlerBase.html#afad85e20c2dd2be2ccb24e87f5f4d1e5" title=" " alt="" coords="1035,1346,1268,1387"/>
+<area shape="rect" id="node23" href="$dd/d33/classDhcpHandlerBase.html#a41f9f1864dc69b4b2286bfc4ddcaa99f" title=" " alt="" coords="1052,1477,1251,1518"/>
+<area shape="rect" id="node26" href="$dd/d33/classDhcpHandlerBase.html#af24b68762c2ae8d3a10135519f4c4757" title=" " alt="" coords="1059,1411,1243,1453"/>
+<area shape="rect" id="node27" href="$dd/d33/classDhcpHandlerBase.html#a2dbbbcac50824b7fc23a3ac409105d17" title=" " alt="" coords="1050,721,1253,762"/>
+<area shape="rect" id="node28" href="$dd/d33/classDhcpHandlerBase.html#ad94c17c247a1681885300307409a06de" title=" " alt="" coords="1056,786,1247,827"/>
+<area shape="rect" id="node29" href="$dd/d33/classDhcpHandlerBase.html#ab704052dafedd8c69e21e596af0623e7" title=" " alt="" coords="1055,851,1248,893"/>
+<area shape="rect" id="node30" href="$dd/d33/classDhcpHandlerBase.html#a2d2afc0f11837d2f5792bdba492434fa" title=" " alt="" coords="1048,917,1255,958"/>
+<area shape="rect" id="node32" href="$dd/d33/classDhcpHandlerBase.html#afcc632e4c064208679d00393fdb3e3ca" title=" " alt="" coords="1038,983,1265,1009"/>
+<area shape="rect" id="node33" href="$dd/d33/classDhcpHandlerBase.html#a16c9a54d9f428618dbe5f0ca94875154" title=" " alt="" coords="1049,1033,1254,1060"/>
+<area shape="rect" id="node34" href="$dd/d33/classDhcpHandlerBase.html#aec21cdaced89a3d2d033ffc1302742ff" title=" " alt="" coords="1039,655,1263,697"/>
+<area shape="rect" id="node19" href="$dd/d33/classDhcpHandlerBase.html#aacfbb5dcdefa3dc944fa828f8135d563" title=" " alt="" coords="1317,1581,1489,1608"/>
+<area shape="rect" id="node25" href="$dd/d33/classDhcpHandlerBase.html#a46d4c814662ef30aa318b99f838dd7cf" title=" " alt="" coords="1316,1463,1491,1505"/>
+<area shape="rect" id="node36" href="$d7/dd5/classOperDhcpOptions.html#ae9913983f29108ed6c077697557bb1af" title=" " alt="" coords="1070,355,1233,397"/>
+<area shape="rect" id="node38" href="$d5/d21/classVmInterface.html#ae0f4f55a7fa051b7d37511346db8909b" title=" " alt="" coords="1078,473,1225,514"/>
+<area shape="rect" id="node39" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="1078,538,1225,579"/>
+<area shape="rect" id="node43" href="$dd/d33/classDhcpHandlerBase.html#aa1737b7c30f6554f997a808fb6f019be" title=" " alt="" coords="805,1702,951,1743"/>
+<area shape="rect" id="node45" href="$dd/d46/classDhcpHandler.html#ad459606d4e052d6327a1d7ffd6108fb9" title=" " alt="" coords="769,1549,987,1576"/>
 </map>

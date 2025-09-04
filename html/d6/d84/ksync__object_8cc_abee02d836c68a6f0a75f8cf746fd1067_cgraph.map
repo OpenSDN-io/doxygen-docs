@@ -1,9 +1,10 @@
 <map id="KSyncSM_Init" name="KSyncSM_Init">
-<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#a8165d6dacd0578563fcbcc0b199a1ccf" title="KSyncEntry::GetRefCount" alt="" coords="163,31,349,57"/>
-<area shape="rect" id="node3" href="$d6/d84/ksync__object_8cc.html#abad983d10ee472f74faace35ec40263d" title="KSyncSM_Add" alt="" coords="199,81,313,108"/>
-<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#aee8764cc725ed38a2218ff44fcf0c200" title="KSyncEntry::UnresolvedReference" alt="" coords="397,5,640,32"/>
-<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a71f86e5089496fc0cb5703f899d4c9ac" title="KSyncObject::BackRefAdd" alt="" coords="423,56,614,83"/>
-<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a562aad8c8927a5875f35b9cacda8e492" title="KSyncEntry::SetSeen" alt="" coords="441,107,597,133"/>
-<area shape="rect" id="node8" href="$dc/df2/classKSyncEntry.html#a04467902d6218a16914d87eb4624030a" title="KSyncEntry::Add" alt="" coords="455,157,583,184"/>
-<area shape="rect" id="node6" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="688,56,848,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,111,83"/>
+<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#ad7f94b01ff617949230c0ed227f06a46" title=" " alt="" coords="159,31,333,57"/>
+<area shape="rect" id="node3" href="$d6/d84/ksync__object_8cc.html#abad983d10ee472f74faace35ec40263d" title=" " alt="" coords="191,81,301,108"/>
+<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#a04467902d6218a16914d87eb4624030a" title=" " alt="" coords="431,5,554,32"/>
+<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a71f86e5089496fc0cb5703f899d4c9ac" title=" " alt="" coords="403,56,582,83"/>
+<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a562aad8c8927a5875f35b9cacda8e492" title=" " alt="" coords="418,107,567,133"/>
+<area shape="rect" id="node8" href="$dc/df2/classKSyncEntry.html#aee8764cc725ed38a2218ff44fcf0c200" title=" " alt="" coords="381,157,604,184"/>
+<area shape="rect" id="node6" href="$d6/d84/ksync__object_8cc.html#a464ba26c9e8c098daf8e37babb050019" title=" " alt="" coords="652,56,795,83"/>
 </map>

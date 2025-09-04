@@ -3,7 +3,7 @@ var structIgmpInfo_1_1IgmpSubnetState =
     [ "IgmpSubnetState", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a20c76a9cb3668d1bdcb6c0d13911862b", null ],
     [ "~IgmpSubnetState", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a2d62e50a18585386d5d307d31d39fabf", null ],
     [ "ClearItfStats", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#af262a4e3f5a0fc9a3810e431b9f368b4", null ],
-    [ "GetItfStats", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a3a9af2e9b8f0b94f93580bfc1967f74b", null ],
+    [ "GetItfStats", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a18c4d01aff78bff4dcac1e7fb20efb3f", null ],
     [ "GetRxBadPkt", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a4cade448bbb732cc51f927107dbfdc32", null ],
     [ "GetRxOkPkt", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#a80e73c23dc3761d226ed6b406db8002d", null ],
     [ "GetRxUnknown", "d5/de1/structIgmpInfo_1_1IgmpSubnetState.html#afed0c88dc943c5852cc01cd7f441a03a", null ],

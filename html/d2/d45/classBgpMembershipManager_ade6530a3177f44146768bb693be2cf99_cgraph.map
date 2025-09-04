@@ -1,11 +1,12 @@
 <map id="BgpMembershipManager::WalkRibIn" name="BgpMembershipManager::WalkRibIn">
-<area shape="rect" id="node2" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title="BgpMembershipManager\l::FindPeerRibState" alt="" coords="241,103,423,145"/>
-<area shape="rect" id="node6" href="$d2/d45/classBgpMembershipManager.html#a825b3192d15f0943ab37cdb0d342cfd0" title="BgpMembershipManager\l::AssertWalkRibIn" alt="" coords="241,209,423,250"/>
-<area shape="rect" id="node9" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2ab0899a2190ba5ce936b6c687d96ba2" title="BgpMembershipManager\l::PeerRibState::set_action" alt="" coords="237,274,427,315"/>
-<area shape="rect" id="node10" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#ab1ff25f35cdfb89038975003e26cf810" title="BgpMembershipManager\l::PeerRibState::WalkRibIn" alt="" coords="239,339,425,381"/>
-<area shape="rect" id="node7" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a18ad31a297358b35d7d234b6a08cfbd2" title="BgpMembershipManager\l::PeerRibState::action" alt="" coords="489,282,671,323"/>
-<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title="BgpMembershipManager\l::FindPeerState" alt="" coords="489,135,671,177"/>
-<area shape="rect" id="node4" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title="BgpMembershipManager\l::FindRibState" alt="" coords="489,5,671,46"/>
-<area shape="rect" id="node5" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title="BgpMembershipManager\l::PeerState::FindPeerRibState" alt="" coords="475,70,685,111"/>
-<area shape="rect" id="node8" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="489,201,671,257"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,172,141"/>
+<area shape="rect" id="node2" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a934aab8f9b74a5087e1a006ad8d73a30" title=" " alt="" coords="458,22,625,64"/>
+<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html#a825b3192d15f0943ab37cdb0d342cfd0" title=" " alt="" coords="224,100,391,141"/>
+<area shape="rect" id="node5" href="$d2/d45/classBgpMembershipManager.html#a6df13df14e59b6edc4e2387b7a175936" title=" " alt="" coords="224,169,391,210"/>
+<area shape="rect" id="node9" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a2ab0899a2190ba5ce936b6c687d96ba2" title=" " alt="" coords="220,34,395,76"/>
+<area shape="rect" id="node10" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#ab1ff25f35cdfb89038975003e26cf810" title=" " alt="" coords="220,234,395,276"/>
+<area shape="rect" id="node4" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af91f789bef3c53717a55540db45a7320" title=" " alt="" coords="458,88,625,144"/>
+<area shape="rect" id="node6" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6" title=" " alt="" coords="443,169,640,210"/>
+<area shape="rect" id="node7" href="$d2/d45/classBgpMembershipManager.html#a3d296340a7a7e2370cfce168f1f7f968" title=" " alt="" coords="458,234,625,276"/>
+<area shape="rect" id="node8" href="$d2/d45/classBgpMembershipManager.html#ac1289a9b77be2972a05940bddaee38aa" title=" " alt="" coords="458,300,625,341"/>
 </map>

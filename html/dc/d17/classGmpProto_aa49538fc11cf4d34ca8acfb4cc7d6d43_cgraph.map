@@ -1,9 +1,8 @@
 <map id="GmpProto::CreateIntf" name="GmpProto::CreateIntf">
-<area shape="rect" id="node2" href="$d5/d33/classGmpIntf.html#aa9dbac6624ae13e88b73a1719f3e3c6d" title="GmpIntf::SetGif" alt="" coords="216,5,339,32"/>
-<area shape="rect" id="node3" href="$d3/df0/gmp__map_8cc.html#a38d68ebfa071f1a9f4a4623eb6df2a65" title="gmp_attach_intf" alt="" coords="213,56,341,83"/>
-<area shape="rect" id="node8" href="$d5/d33/classGmpIntf.html#a00b06f9590516428e84e1e077947c65a" title="GmpIntf::GetGif" alt="" coords="215,107,340,133"/>
-<area shape="rect" id="node4" href="$d4/d00/gmp__router_8h.html#aff73ef9a72f7f56c88106e319278e74f" title="gmpr_attach_intf" alt="" coords="404,31,537,57"/>
-<area shape="rect" id="node5" href="$d3/df0/gmp__map_8cc.html#a5cc6ebeb1d9e11a25d01c0254ac3f106" title="gmp_set_intf_params" alt="" coords="389,81,552,108"/>
-<area shape="rect" id="node6" href="$d3/d1f/gmp__intf_8h.html#ad83e759191bd5c34e3abb2b828e8a599" title="gmp_gif_to_handle" alt="" coords="611,56,757,83"/>
-<area shape="rect" id="node7" href="$d4/d00/gmp__router_8h.html#a18794954190f436e33dacae911b48280" title="gmpr_set_intf_params" alt="" coords="600,107,768,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$d3/df0/gmp__map_8cc.html#a38d68ebfa071f1a9f4a4623eb6df2a65" title=" " alt="" coords="200,56,315,83"/>
+<area shape="rect" id="node3" href="$d3/df0/gmp__map_8cc.html#a5cc6ebeb1d9e11a25d01c0254ac3f106" title=" " alt="" coords="363,31,509,57"/>
+<area shape="rect" id="node6" href="$d4/d00/gmp__router_8h.html#aff73ef9a72f7f56c88106e319278e74f" title=" " alt="" coords="377,81,495,108"/>
+<area shape="rect" id="node4" href="$d3/d1f/gmp__intf_8h.html#ad83e759191bd5c34e3abb2b828e8a599" title=" " alt="" coords="567,5,698,32"/>
+<area shape="rect" id="node5" href="$d4/d00/gmp__router_8h.html#a18794954190f436e33dacae911b48280" title=" " alt="" coords="557,56,708,83"/>
 </map>

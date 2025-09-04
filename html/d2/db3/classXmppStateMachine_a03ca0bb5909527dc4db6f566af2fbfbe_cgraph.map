@@ -1,7 +1,8 @@
 <map id="XmppStateMachine::update_last_event" name="XmppStateMachine::update_last_event">
-<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a6f909e8042139848fee88ca7de87f185" title="XmppStateMachine::set\l_last_event" alt="" coords="269,5,445,46"/>
-<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a4c62c339c2ea6e6a0a3b0360d5208a01" title="XmppStateMachine::logUVE" alt="" coords="256,121,459,148"/>
-<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="507,71,733,97"/>
-<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="543,12,697,39"/>
-<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#a5fddcca3abb84411a2d2e7815d6904bb" title="XmppConnection::logUVE" alt="" coords="526,121,714,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,188,90"/>
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title=" " alt="" coords="472,5,679,32"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#a4c62c339c2ea6e6a0a3b0360d5208a01" title=" " alt="" coords="236,56,424,83"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a6f909e8042139848fee88ca7de87f185" title=" " alt="" coords="249,107,411,149"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a8ed5591d28f28f83fda84b8e11240bf5" title=" " alt="" coords="488,56,663,83"/>
+<area shape="rect" id="node6" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="503,115,647,141"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="XmppServer::LocateConnectionEndpoint" name="XmppServer::LocateConnectionEndpoint">
-<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a074ea00a6f3ad5aceaf5d1dd864543aa" title="XmppConnection::ToString" alt="" coords="281,5,474,32"/>
-<area shape="rect" id="node3" href="$d7/dcc/classXmppConnectionEndpoint.html#aa3feddf908a2bb62311371840c5db71b" title="XmppConnectionEndpoint\l::connection" alt="" coords="523,78,714,119"/>
-<area shape="rect" id="node4" href="$d7/dcc/classXmppConnectionEndpoint.html#a00a30b2a5548bb6de987c3239d50b8a5" title="XmppConnectionEndpoint\l::set_connection" alt="" coords="282,107,473,149"/>
-<area shape="rect" id="node5" href="$df/df7/classXmppServerConnection.html#aa36ae4075ac84a3c1493179fbefb49ea" title="XmppServerConnection\l::set_conn_endpoint" alt="" coords="290,173,465,214"/>
-<area shape="rect" id="node6" href="$df/df7/classXmppServerConnection.html#a1ab4280f96a6714aa248dea3ec5f8830" title="XmppServerConnection\l::conn_endpoint" alt="" coords="531,173,706,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,212,109"/>
+<area shape="rect" id="node2" href="$d7/dcc/classXmppConnectionEndpoint.html#aa3feddf908a2bb62311371840c5db71b" title=" " alt="" coords="487,5,660,47"/>
+<area shape="rect" id="node3" href="$df/df7/classXmppServerConnection.html#aa36ae4075ac84a3c1493179fbefb49ea" title=" " alt="" coords="269,100,429,141"/>
+<area shape="rect" id="node5" href="$d7/dcc/classXmppConnectionEndpoint.html#a00a30b2a5548bb6de987c3239d50b8a5" title=" " alt="" coords="263,35,436,76"/>
+<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#ad5a646f18977c7b29f415ad70c7f4ec6" title=" " alt="" coords="260,166,439,193"/>
+<area shape="rect" id="node4" href="$df/df7/classXmppServerConnection.html#a1ab4280f96a6714aa248dea3ec5f8830" title=" " alt="" coords="493,100,653,141"/>
 </map>

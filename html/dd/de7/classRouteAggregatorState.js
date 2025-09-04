@@ -2,9 +2,9 @@ var classRouteAggregatorState =
 [
     [ "RouteAggregatorState", "dd/de7/classRouteAggregatorState.html#a5c300f970e26de21dba30ac061047c2a", null ],
     [ "aggregating_info", "dd/de7/classRouteAggregatorState.html#ae0cc15a3b93262f1d9474331624cb033", null ],
-    [ "aggregator", "dd/de7/classRouteAggregatorState.html#a8c76645140303d1da5ba330eb926d820", null ],
+    [ "aggregator", "dd/de7/classRouteAggregatorState.html#a7c0d65ef8465ee49cdb5cc7f7e700027", null ],
     [ "contributing_info", "dd/de7/classRouteAggregatorState.html#a59cd4ae7c50885c1aeb2f9e0ac9668ab", null ],
-    [ "contributor", "dd/de7/classRouteAggregatorState.html#ae4e72e6f3a7c2957b644e50f3fbef61f", null ],
+    [ "contributor", "dd/de7/classRouteAggregatorState.html#a146402ea023f948d136a2606d92c252f", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dd/de7/classRouteAggregatorState.html#a12737f407ad1be8c4554e708dca86a97", null ],
     [ "reset_aggregating_info", "dd/de7/classRouteAggregatorState.html#ab64ee11a669e366c5151bde757f252b3", null ],
     [ "reset_contributing_info", "dd/de7/classRouteAggregatorState.html#ab8f976d67af9d4ff90a6e4c1567b93ac", null ],

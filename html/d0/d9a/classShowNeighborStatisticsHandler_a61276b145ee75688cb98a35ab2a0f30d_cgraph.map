@@ -1,9 +1,10 @@
 <map id="ShowNeighborStatisticsHandler::FillBgpNeighborStatistics" name="ShowNeighborStatisticsHandler::FillBgpNeighborStatistics">
-<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="307,5,450,46"/>
-<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title="RoutingInstanceMgr\l::GetRoutingInstance" alt="" coords="300,70,457,111"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#a681ad0a18a6afd9daf99a4644fd4115c" title="RoutingInstance::peer\l_manager" alt="" coords="297,135,460,177"/>
-<area shape="rect" id="node5" href="$d2/dc6/classPeerManager.html#a4fb7c5b81d804079257f836f6854056d" title="PeerManager::GetNeighbor\lCount" alt="" coords="280,201,477,242"/>
-<area shape="rect" id="node7" href="$d2/d72/classRoutingInstanceMgr.html#a6541e8c07a822762cc5162ec3b23199a" title="RoutingInstanceMgr\l::begin" alt="" coords="303,266,454,307"/>
-<area shape="rect" id="node8" href="$d2/d72/classRoutingInstanceMgr.html#a1a988bf9387b9ca731c72aa307a4d41b" title="RoutingInstanceMgr::end" alt="" coords="287,332,470,359"/>
-<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#af1ab6bcd477cd9d603d14fafd2fd6a33" title="BgpPeer::IsReady" alt="" coords="526,208,661,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,156,212,197"/>
+<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#a6541e8c07a822762cc5162ec3b23199a" title=" " alt="" coords="280,5,419,47"/>
+<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#a1a988bf9387b9ca731c72aa307a4d41b" title=" " alt="" coords="265,71,433,98"/>
+<area shape="rect" id="node4" href="$d2/dc6/classPeerManager.html#a4fb7c5b81d804079257f836f6854056d" title=" " alt="" coords="260,123,439,164"/>
+<area shape="rect" id="node6" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title=" " alt="" coords="276,188,423,229"/>
+<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#a681ad0a18a6afd9daf99a4644fd4115c" title=" " alt="" coords="274,253,425,295"/>
+<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title=" " alt="" coords="284,319,415,360"/>
+<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a4a04145f6f6dfbc0bff82cbfb0d1fd67" title=" " alt="" coords="487,130,613,157"/>
 </map>

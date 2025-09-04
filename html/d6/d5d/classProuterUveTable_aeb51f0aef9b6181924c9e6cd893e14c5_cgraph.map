@@ -1,8 +1,9 @@
 <map id="ProuterUveTable::PhysicalInterfaceHandler" name="ProuterUveTable::PhysicalInterfaceHandler">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="279,5,457,32"/>
-<area shape="rect" id="node3" href="$d6/d5d/classProuterUveTable.html#a1533e6922a70de0a3a2013062c44dc3a" title="ProuterUveTable::MarkDeleted\lPhysical" alt="" coords="258,57,478,98"/>
-<area shape="rect" id="node4" href="$d6/d5d/classProuterUveTable.html#aa975c2f6909365b04339b725b2e58616" title="ProuterUveTable::PDEntry\lToProuterUveEntry" alt="" coords="273,122,463,163"/>
-<area shape="rect" id="node5" href="$db/d25/structProuterUveTable_1_1ProuterUveEntry.html#a8950aebe4bb8f410b4b55e132cde8258" title="ProuterUveTable::Prouter\lUveEntry::DeletePhysicalInterface" alt="" coords="246,187,490,229"/>
-<area shape="rect" id="node7" href="$db/d25/structProuterUveTable_1_1ProuterUveEntry.html#a4addd989f9deaa96b86e082819e84f67" title="ProuterUveTable::Prouter\lUveEntry::AddPhysicalInterface" alt="" coords="255,253,481,294"/>
-<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="539,228,664,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,180,171"/>
+<area shape="rect" id="node2" href="$db/d25/structProuterUveTable_1_1ProuterUveEntry.html#a4addd989f9deaa96b86e082819e84f67" title=" " alt="" coords="235,5,443,47"/>
+<area shape="rect" id="node4" href="$db/d25/structProuterUveTable_1_1ProuterUveEntry.html#a8950aebe4bb8f410b4b55e132cde8258" title=" " alt="" coords="228,71,451,112"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="256,137,423,163"/>
+<area shape="rect" id="node6" href="$d6/d5d/classProuterUveTable.html#a1533e6922a70de0a3a2013062c44dc3a" title=" " alt="" coords="239,188,440,229"/>
+<area shape="rect" id="node7" href="$d6/d5d/classProuterUveTable.html#a1bc31c9c8ee1d886201ee3be1b0410c4" title=" " alt="" coords="252,253,427,295"/>
+<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="499,46,613,73"/>
 </map>

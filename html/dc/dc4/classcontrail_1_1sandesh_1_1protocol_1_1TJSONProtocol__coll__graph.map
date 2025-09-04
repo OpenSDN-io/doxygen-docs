@@ -1,7 +1,9 @@
 <map id="contrail::sandesh::protocol::TJSONProtocol" name="contrail::sandesh::protocol::TJSONProtocol">
-<area shape="rect" id="node2" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; TJSONProtocol \&gt;" alt="" coords="493,5,680,61"/>
-<area shape="rect" id="node3" href="$d3/da4/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolDefaults.html" title="contrail::sandesh::\lprotocol::TProtocolDefaults" alt="" coords="201,13,399,54"/>
-<area shape="rect" id="node4" href="$d9/de9/classcontrail_1_1sandesh_1_1protocol_1_1TProtocol.html" title="contrail::sandesh::\lprotocol::TProtocol" alt="" coords="5,13,149,54"/>
-<area shape="rect" id="node6" href="$d8/dcc/classcontrail_1_1sandesh_1_1transport_1_1TTransport.html" title="contrail::sandesh::\ltransport::TTransport" alt="" coords="221,157,379,198"/>
-<area shape="rect" id="node7" href="$df/db3/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocol_1_1LookaheadReader.html" title="contrail::sandesh::\lprotocol::TJSONProtocol\l::LookaheadReader" alt="" coords="499,199,675,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="745,105,912,146"/>
+<area shape="rect" id="node2" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title=" " alt="" coords="457,5,628,61"/>
+<area shape="rect" id="node3" href="$d3/da4/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolDefaults.html" title=" " alt="" coords="187,13,368,54"/>
+<area shape="rect" id="node4" href="$d9/de9/classcontrail_1_1sandesh_1_1protocol_1_1TProtocol.html" title=" " alt="" coords="5,13,137,54"/>
+<area shape="rect" id="node5" title=" " alt="" coords="515,85,570,112"/>
+<area shape="rect" id="node6" href="$d8/dcc/classcontrail_1_1sandesh_1_1transport_1_1TTransport.html" title=" " alt="" coords="205,157,350,198"/>
+<area shape="rect" id="node7" href="$df/db3/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocol_1_1LookaheadReader.html" title=" " alt="" coords="459,199,626,255"/>
 </map>

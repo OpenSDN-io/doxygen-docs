@@ -1,8 +1,0 @@
-<map id="VmInterface::LearntMacIp::GetOpL3" name="VmInterface::LearntMacIp::GetOpL3">
-<area shape="rect" id="node2" href="$d0/dd0/vm__interface_8cc.html#ad9638247f667cfc4bf06559b8a976515" title="GetMacIpActiveState" alt="" coords="261,56,419,83"/>
-<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#a6a391012db00b1c65eb32adffa4307ad" title="Interface::vrf" alt="" coords="287,107,393,133"/>
-<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#a740820ab783c12b63e7aaaf36f621cce" title="VmInterface::ethernet_tag" alt="" coords="243,157,437,184"/>
-<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="493,5,640,32"/>
-<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="485,56,648,83"/>
-<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="485,107,648,133"/>
-</map>

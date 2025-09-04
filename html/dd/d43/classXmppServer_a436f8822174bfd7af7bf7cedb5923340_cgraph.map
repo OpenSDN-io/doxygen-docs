@@ -1,7 +1,8 @@
 <map id="XmppServer::CreateConnection" name="XmppServer::CreateConnection">
-<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="305,5,453,46"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#adeadb74d89ea5c2e08528e39514d7264" title="TcpSession::local_endpoint" alt="" coords="281,71,477,97"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a99ff7dcfd321f2299dccf6649fc3c3fe" title="TcpSession::ToUVEKey" alt="" coords="295,121,462,148"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="302,172,455,199"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="525,71,669,97"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,212,120"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#add1fb3d911e65519e6e50ddc2036cafb" title=" " alt="" coords="260,5,441,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#aad9581939723edb82291a3ef635f4ae7" title=" " alt="" coords="281,57,420,98"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e" title=" " alt="" coords="277,123,424,149"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a324597919c6ba0a4d6410250ef1741e9" title=" " alt="" coords="270,173,431,200"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="489,5,625,32"/>
 </map>

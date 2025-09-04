@@ -1,24 +1,25 @@
 <map id="RibOutUpdates::ClearUpdate" name="RibOutUpdates::ClearUpdate">
-<area shape="rect" id="node2" href="$d0/de5/classRouteUpdate.html#ae7eb261e0c6f3f659bd5dd15bcd2c322" title="RouteUpdate::OnUpdateList" alt="" coords="272,31,475,57"/>
-<area shape="rect" id="node4" href="$d0/de5/classRouteUpdate.html#a532a2677fa73839a4ca897e73034f66b" title="RouteUpdate::GetUpdateList" alt="" coords="270,107,477,133"/>
-<area shape="rect" id="node10" href="$de/dc2/classUpdateList.html#a05324d9abc8a4aa103bfdd59406bf162" title="UpdateList::RemoveUpdate" alt="" coords="273,161,473,188"/>
-<area shape="rect" id="node13" href="$de/dc2/classUpdateList.html#ae6c9013ace142f3666f2006d266e4b97" title="UpdateList::MakeRouteUpdate" alt="" coords="264,212,483,239"/>
-<area shape="rect" id="node18" href="$d0/de5/classRouteUpdate.html#aa1e416b91a396efda206324dcf465895" title="RouteUpdate::route" alt="" coords="555,364,703,391"/>
-<area shape="rect" id="node19" href="$d0/de5/classRouteUpdate.html#a3a2170537fb0bfed57d496e7f8115c19" title="RouteUpdate::IsAdvertised" alt="" coords="276,313,471,340"/>
-<area shape="rect" id="node20" href="$d2/db6/classRibOutUpdates.html#aae44d4a1870508f042ec676c1a9e6e33" title="RibOutUpdates::StoreHistory" alt="" coords="269,415,478,441"/>
-<area shape="rect" id="node23" href="$d2/db6/classRibOutUpdates.html#adbf0113deee4618a1fe16a91ff8e5820" title="RibOutUpdates::ClearState" alt="" coords="275,364,471,391"/>
-<area shape="rect" id="node3" href="$d0/de5/classRouteUpdate.html#acc217b426261ef39796f21fd65413664" title="RouteUpdate::FlagIsSet" alt="" coords="543,5,716,32"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="543,56,715,83"/>
-<area shape="rect" id="node8" href="$db/dd4/classRibOut.html#a41df7acd2dffb162436d5212bf5563e4" title="RibOut::table" alt="" coords="576,107,683,133"/>
-<area shape="rect" id="node9" href="$db/dd4/classRibOut.html#abe64e8b2506acdc785546acb760b2bbf" title="RibOut::listener_id" alt="" coords="558,157,701,184"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="776,27,1003,53"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="795,78,984,119"/>
-<area shape="rect" id="node11" href="$d0/de5/classRouteUpdate.html#a229b77bc9a54819017c3a9c0b38ecc02" title="RouteUpdate::clear\l_update_list" alt="" coords="556,209,703,250"/>
-<area shape="rect" id="node12" href="$d0/de5/classRouteUpdate.html#a22ae2187dacf3c3f7cdcf5068d4a9bca" title="RouteUpdate::FlagReset" alt="" coords="801,216,978,243"/>
-<area shape="rect" id="node14" href="$de/dc2/classUpdateList.html#a52ee35a151f81bde8acd1c2cc3c5d5ff" title="UpdateList::MoveHistory" alt="" coords="538,313,721,340"/>
-<area shape="rect" id="node15" href="$de/dc2/classUpdateList.html#a98fb6d993b0751cf9890867e8da40547" title="UpdateList::SwapHistory" alt="" coords="798,313,981,340"/>
-<area shape="rect" id="node17" href="$de/d44/classRouteState.html#a1ddfad7e5f18bf285d410798bed7d047" title="RouteState::SwapHistory" alt="" coords="798,364,981,391"/>
-<area shape="rect" id="node16" href="$d6/ddb/classAdvertiseSList.html#a95959137a6c6d49198e1b2ff9695fbf5" title="AdvertiseSList::swap" alt="" coords="1051,364,1208,391"/>
-<area shape="rect" id="node21" href="$d0/de5/classRouteUpdate.html#a9089ddaac989fe86e33b5aeafa5886a1" title="RouteUpdate::MoveHistory" alt="" coords="531,415,727,441"/>
-<area shape="rect" id="node22" href="$d0/de5/classRouteUpdate.html#a23d1ebf42d216377f168b2351bc35cab" title="RouteUpdate::SwapHistory" alt="" coords="791,415,987,441"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,168,199,195"/>
+<area shape="rect" id="node2" href="$d2/db6/classRibOutUpdates.html#adbf0113deee4618a1fe16a91ff8e5820" title=" " alt="" coords="256,41,439,68"/>
+<area shape="rect" id="node3" href="$d0/de5/classRouteUpdate.html#aa1e416b91a396efda206324dcf465895" title=" " alt="" coords="519,31,655,57"/>
+<area shape="rect" id="node4" href="$d0/de5/classRouteUpdate.html#a532a2677fa73839a4ca897e73034f66b" title=" " alt="" coords="252,300,443,327"/>
+<area shape="rect" id="node11" href="$d0/de5/classRouteUpdate.html#a8eaf4099ec4e6016ededb6b29cebc3e1" title=" " alt="" coords="257,351,437,377"/>
+<area shape="rect" id="node12" href="$de/dc2/classUpdateList.html#ae6c9013ace142f3666f2006d266e4b97" title=" " alt="" coords="247,143,448,169"/>
+<area shape="rect" id="node19" href="$d0/de5/classRouteUpdate.html#ae7eb261e0c6f3f659bd5dd15bcd2c322" title=" " alt="" coords="254,248,441,275"/>
+<area shape="rect" id="node20" href="$de/dc2/classUpdateList.html#a05324d9abc8a4aa103bfdd59406bf162" title=" " alt="" coords="256,193,439,220"/>
+<area shape="rect" id="node21" href="$d2/db6/classRibOutUpdates.html#aae44d4a1870508f042ec676c1a9e6e33" title=" " alt="" coords="250,92,445,119"/>
+<area shape="rect" id="node5" href="$d0/de5/classRouteUpdate.html#a34182e3ed4002a7a77176921d015e335" title=" " alt="" coords="505,249,668,276"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="505,401,668,428"/>
+<area shape="rect" id="node9" href="$db/dd4/classRibOut.html#ad9dd15a143f089bfdf05010c4cb76bed" title=" " alt="" coords="521,300,652,327"/>
+<area shape="rect" id="node10" href="$db/dd4/classRibOut.html#a41df7acd2dffb162436d5212bf5563e4" title=" " alt="" coords="537,351,636,377"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="741,365,920,406"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="725,431,936,457"/>
+<area shape="rect" id="node13" href="$d0/de5/classRouteUpdate.html#a229b77bc9a54819017c3a9c0b38ecc02" title=" " alt="" coords="519,183,654,225"/>
+<area shape="rect" id="node15" href="$de/dc2/classUpdateList.html#a52ee35a151f81bde8acd1c2cc3c5d5ff" title=" " alt="" coords="503,132,670,159"/>
+<area shape="rect" id="node14" href="$d0/de5/classRouteUpdate.html#a22ae2187dacf3c3f7cdcf5068d4a9bca" title=" " alt="" coords="747,191,914,217"/>
+<area shape="rect" id="node16" href="$de/d44/classRouteState.html#a1ddfad7e5f18bf285d410798bed7d047" title=" " alt="" coords="745,85,916,112"/>
+<area shape="rect" id="node18" href="$de/dc2/classUpdateList.html#a98fb6d993b0751cf9890867e8da40547" title=" " alt="" coords="747,136,915,163"/>
+<area shape="rect" id="node17" href="$d6/ddb/classAdvertiseSList.html#a95959137a6c6d49198e1b2ff9695fbf5" title=" " alt="" coords="984,85,1129,112"/>
+<area shape="rect" id="node22" href="$d0/de5/classRouteUpdate.html#a9089ddaac989fe86e33b5aeafa5886a1" title=" " alt="" coords="496,81,677,108"/>
+<area shape="rect" id="node23" href="$d0/de5/classRouteUpdate.html#a23d1ebf42d216377f168b2351bc35cab" title=" " alt="" coords="739,35,922,61"/>
 </map>

@@ -1,9 +1,10 @@
 <map id="GetConnectedVxlanRiLr" name="GetConnectedVxlanRiLr">
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="461,5,627,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="467,56,621,83"/>
-<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="477,208,611,235"/>
-<area shape="rect" id="node5" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="459,259,629,285"/>
-<area shape="rect" id="node6" href="$d5/d78/bgp__config__ifmap_8cc.html#a66bc78bd5c6e3dee75040f2d2eab6f82" title="GetConnectedVxlanRiVn" alt="" coords="229,113,411,140"/>
-<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="461,107,627,133"/>
-<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="475,157,613,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,168,159"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="435,5,587,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="440,56,583,83"/>
+<area shape="rect" id="node4" href="$d5/d78/bgp__config__ifmap_8cc.html#a66bc78bd5c6e3dee75040f2d2eab6f82" title=" " alt="" coords="216,132,384,159"/>
+<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="448,208,575,235"/>
+<area shape="rect" id="node8" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="432,259,591,285"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="433,107,590,133"/>
+<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="446,157,577,184"/>
 </map>

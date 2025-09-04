@@ -1,6 +1,7 @@
 <map id="etcdserverpb::AuthEnableResponse::MergeFrom" name="etcdserverpb::AuthEnableResponse::MergeFrom">
-<area shape="rect" id="node2" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#a9b4377f21cfdea4b719f1e28d48148d8" title="etcdserverpb::AuthEnable\lResponse::has_header" alt="" coords="248,5,437,46"/>
-<area shape="rect" id="node4" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#ae40aea9f052c575a28475c6c49826963" title="etcdserverpb::AuthEnable\lResponse::mutable_header" alt="" coords="243,70,442,111"/>
-<area shape="rect" id="node5" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#a367a0aba5b1fd9e1288303dab64def11" title="etcdserverpb::AuthEnable\lResponse::header" alt="" coords="248,135,437,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="491,5,715,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,179,112"/>
+<area shape="rect" id="node2" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#a6ffbd0ba70db8b4a1fd635dc6bd72941" title=" " alt="" coords="230,5,403,47"/>
+<area shape="rect" id="node4" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#a4918f917b2b966695e3f8998e09f0449" title=" " alt="" coords="230,71,403,112"/>
+<area shape="rect" id="node5" href="$df/d80/classetcdserverpb_1_1AuthEnableResponse.html#ae40aea9f052c575a28475c6c49826963" title=" " alt="" coords="227,136,407,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="455,5,661,47"/>
 </map>

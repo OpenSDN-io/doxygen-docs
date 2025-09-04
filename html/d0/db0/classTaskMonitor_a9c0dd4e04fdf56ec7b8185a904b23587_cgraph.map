@@ -1,7 +1,8 @@
 <map id="TaskMonitor::Restart" name="TaskMonitor::Restart">
-<area shape="rect" id="node2" href="$d0/db0/classTaskMonitor.html#a964bdd1be675e096d2705d1db39be2f2" title="TaskMonitor::Run" alt="" coords="209,85,341,112"/>
-<area shape="rect" id="node3" href="$d0/db0/classTaskMonitor.html#a1855f06d57f955ed95035ad16551ce01" title="TaskMonitor::Monitor" alt="" coords="400,5,557,32"/>
-<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="400,56,557,83"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a9c332ad3d7739aea51c1b2d96f0fe21c" title="TaskScheduler::enqueue\l_count" alt="" coords="389,107,568,149"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a6a87633a6aef0195048ff65c9273e85b" title="TaskScheduler::done\l_count" alt="" coords="401,173,556,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,149,124"/>
+<area shape="rect" id="node2" href="$d0/db0/classTaskMonitor.html#a964bdd1be675e096d2705d1db39be2f2" title=" " alt="" coords="197,97,323,124"/>
+<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title=" " alt="" coords="380,5,527,32"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a8bac382aae61e9de83f2d02bfdc40062" title=" " alt="" coords="381,57,525,98"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a3490f0dcb376cafa83ab1700d17f321c" title=" " alt="" coords="371,122,536,163"/>
+<area shape="rect" id="node6" href="$d0/db0/classTaskMonitor.html#a1855f06d57f955ed95035ad16551ce01" title=" " alt="" coords="381,188,525,215"/>
 </map>

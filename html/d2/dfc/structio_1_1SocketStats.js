@@ -1,8 +1,8 @@
 var structio_1_1SocketStats =
 [
     [ "SocketStats", "d2/dfc/structio_1_1SocketStats.html#a61da1763cc2c4418a80b05c68daef7e1", null ],
-    [ "GetRxStats", "d2/dfc/structio_1_1SocketStats.html#a3f76ee4c9fd60a43d0f063144df818e2", null ],
-    [ "GetTxStats", "d2/dfc/structio_1_1SocketStats.html#a339b8e438aca887312aa0ddc1b8e4907", null ],
+    [ "GetRxStats", "d2/dfc/structio_1_1SocketStats.html#a6e16712ba3ab18f60948b8f00bd84a30", null ],
+    [ "GetTxStats", "d2/dfc/structio_1_1SocketStats.html#aea12d9069466604ef64dcce6dde4e4e5", null ],
     [ "read_block_start_time", "d2/dfc/structio_1_1SocketStats.html#a9e6c6d08543eaff0f5077316e5f8eb69", null ],
     [ "read_blocked", "d2/dfc/structio_1_1SocketStats.html#a01b3703252c03c453367aac7edd62a3b", null ],
     [ "read_blocked_duration_usecs", "d2/dfc/structio_1_1SocketStats.html#a9f91d97ce4541894a95739fc8245c683", null ],

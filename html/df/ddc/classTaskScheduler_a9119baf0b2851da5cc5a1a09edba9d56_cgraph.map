@@ -1,4 +1,5 @@
 <map id="TaskScheduler::SetLatencyThreshold" name="TaskScheduler::SetLatencyThreshold">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="263,5,449,32"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="249,56,463,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,188,65"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="236,5,436,32"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title=" " alt="" coords="248,56,424,83"/>
 </map>

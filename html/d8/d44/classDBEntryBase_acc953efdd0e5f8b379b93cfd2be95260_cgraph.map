@@ -1,6 +1,7 @@
 <map id="DBEntryBase::Delete" name="DBEntryBase::Delete">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="217,5,394,32"/>
-<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="214,56,397,83"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="446,31,637,57"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="457,81,626,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,155,83"/>
+<area shape="rect" id="node2" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title=" " alt="" coords="203,31,376,57"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="206,81,373,108"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="434,5,593,32"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title=" " alt="" coords="424,56,603,83"/>
 </map>

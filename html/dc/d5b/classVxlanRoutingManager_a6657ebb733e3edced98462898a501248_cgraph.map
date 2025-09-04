@@ -1,12 +1,13 @@
 <map id="VxlanRoutingManager::UpdateSubnetRoute" name="VxlanRoutingManager::UpdateSubnetRoute">
-<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="264,5,363,32"/>
-<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="237,56,390,83"/>
-<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="241,107,385,133"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="219,157,408,184"/>
-<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#ae17e3dd2138f792bfe10e7cd2a90d681" title="VrfEntry::vxlan_id" alt="" coords="245,208,382,235"/>
-<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#aae985e5c1c1db451b784c6d0039339a9" title="VrfEntry::GetInetUnicast\lRouteTable" alt="" coords="224,259,403,301"/>
-<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a90156fba7d536d4847cb518161493c9d" title="VrfEntry::GetInet4Unicast\lRouteTable" alt="" coords="456,226,643,267"/>
-<area shape="rect" id="node11" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="456,291,643,333"/>
-<area shape="rect" id="node9" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="691,267,867,293"/>
-<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="915,267,1119,293"/>
+<area shape="rect" id="node1" title="Updates subnet routes (actually, paths with VrfNH) in the given bridge VRF." alt="" coords="5,141,156,182"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="204,5,375,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="206,57,373,98"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="222,123,357,149"/>
+<area shape="rect" id="node9" href="$d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="218,173,361,200"/>
+<area shape="rect" id="node10" href="$d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="243,224,335,251"/>
+<area shape="rect" id="node11" href="$d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="226,275,353,301"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="423,25,596,66"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="423,90,596,131"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="644,65,809,92"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a2fb89a60a53895197657b6510d654abe" title=" " alt="" coords="857,65,1047,92"/>
 </map>

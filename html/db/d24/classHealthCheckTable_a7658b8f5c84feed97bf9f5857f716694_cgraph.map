@@ -1,6 +1,7 @@
 <map id="HealthCheckTable::Find" name="HealthCheckTable::Find">
-<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="227,5,415,46"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="477,12,624,39"/>
-<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="465,63,637,89"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="686,63,863,89"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,168,39"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="216,5,391,47"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="450,13,589,39"/>
+<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="439,63,600,90"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="648,63,815,90"/>
 </map>

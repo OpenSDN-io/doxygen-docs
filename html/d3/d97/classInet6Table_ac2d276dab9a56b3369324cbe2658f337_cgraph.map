@@ -1,51 +1,52 @@
 <map id="Inet6Table::RouteReplicate" name="Inet6Table::RouteReplicate">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title="BgpTable::family" alt="" coords="615,67,745,94"/>
-<area shape="rect" id="node3" href="$de/dd1/classInet6Route.html#ae909150240fc2ea01b979f866ea02088" title="Inet6Route::GetPrefix" alt="" coords="297,757,457,783"/>
-<area shape="rect" id="node4" href="$d6/da8/classInet6Prefix.html#ad1f1455b6e21e0052e98f5ca0ceb7f54" title="Inet6Prefix::ip6_addr" alt="" coords="299,807,455,834"/>
-<area shape="rect" id="node5" href="$d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df" title="Inet6Prefix::prefixlen" alt="" coords="299,858,456,885"/>
-<area shape="rect" id="node6" href="$d5/dda/classInet6VpnRoute.html#a7c7b5e87ecf6c6a0800540d6109d1fd7" title="Inet6VpnRoute::GetPrefix" alt="" coords="285,909,470,935"/>
-<area shape="rect" id="node7" href="$d4/d72/classInet6VpnPrefix.html#ab84c09d820f2a82909fdcac23d213056" title="Inet6VpnPrefix::route\l_distinguisher" alt="" coords="298,960,457,1001"/>
-<area shape="rect" id="node8" href="$d4/d72/classInet6VpnPrefix.html#abb93ce4a4fc91ed7a5a7b0f504b566bf" title="Inet6VpnPrefix::addr" alt="" coords="300,1026,455,1053"/>
-<area shape="rect" id="node9" href="$d4/d72/classInet6VpnPrefix.html#a87be7b899930ee2d5ebcfe55a89f9b84" title="Inet6VpnPrefix::prefixlen" alt="" coords="286,1077,469,1103"/>
-<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="280,1127,475,1154"/>
-<area shape="rect" id="node13" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="296,1178,459,1205"/>
-<area shape="rect" id="node15" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="296,1279,459,1306"/>
-<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="281,1330,473,1357"/>
-<area shape="rect" id="node21" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="609,523,751,550"/>
-<area shape="rect" id="node22" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title="BgpAttrDB::ReplaceExtCommunity\lAndLocate" alt="" coords="254,625,501,667"/>
-<area shape="rect" id="node25" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="312,1381,443,1407"/>
-<area shape="rect" id="node26" href="$d7/d34/classBgpAttrDB.html#ab8520c2d8c049037802f4f2030919392" title="BgpAttrDB::ReplaceSource\lRdAndLocate" alt="" coords="281,691,474,732"/>
-<area shape="rect" id="node28" href="$d6/dbd/classBgpRoute.html#ab42ff4db7d866f8c43b74abb0dda7bc6" title="BgpRoute::FindSecondaryPath" alt="" coords="270,270,485,297"/>
-<area shape="rect" id="node33" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="605,219,755,246"/>
-<area shape="rect" id="node31" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="613,422,747,449"/>
-<area shape="rect" id="node32" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="607,371,753,398"/>
-<area shape="rect" id="node34" href="$d7/d0c/classBgpPath.html#ab8d990940f9a33f781dd1a7ca34ec9d9" title="BgpPath::GetOriginalAttr" alt="" coords="589,473,771,499"/>
-<area shape="rect" id="node30" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="610,270,750,297"/>
-<area shape="rect" id="node35" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="307,1431,448,1458"/>
-<area shape="rect" id="node36" href="$d7/d0c/classBgpPath.html#a73217b17b042d53b90508f442bcd80b5" title="BgpPath::NeedsResolution" alt="" coords="281,1482,473,1509"/>
-<area shape="rect" id="node37" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title="BgpTable::path_resolver" alt="" coords="288,1533,467,1559"/>
-<area shape="rect" id="node38" href="$d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5" title="PathResolver::StopPathResolution" alt="" coords="258,1583,497,1610"/>
-<area shape="rect" id="node39" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="592,118,768,145"/>
-<area shape="rect" id="node40" href="$d6/dbd/classBgpRoute.html#ab15ef4e4dfd191557d5605ae8a918d2b" title="BgpRoute::RemoveSecondaryPath" alt="" coords="257,321,498,347"/>
-<area shape="rect" id="node41" href="$d8/d0e/classBgpSecondaryPath.html#aa65aeeda67ec0876fbbaf08fa4678c7e" title="BgpSecondaryPath::SetReplicateInfo" alt="" coords="249,1634,506,1661"/>
-<area shape="rect" id="node42" href="$db/d26/classBgpServer.html#a3e85781185a3cff2fbe645edc80c362e" title="BgpServer::IsNextHopCheck\lEnabled" alt="" coords="275,1685,480,1727"/>
-<area shape="rect" id="node43" href="$d3/d97/classInet6Table.html#a2c57471b43b81158df73ee9ee35305d4" title="Inet6Table::family" alt="" coords="308,1751,447,1778"/>
-<area shape="rect" id="node44" href="$d5/dcf/classBgpAttr.html#a1edb1b083244d77a162450bac8e3acb4" title="BgpAttr::nexthop_family" alt="" coords="287,1802,468,1829"/>
-<area shape="rect" id="node45" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="306,1853,449,1895"/>
-<area shape="rect" id="node46" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="275,1919,480,1960"/>
-<area shape="rect" id="node47" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="282,1985,473,2011"/>
-<area shape="rect" id="node48" href="$d7/d0c/classBgpPath.html#a61ea93d61b1b699fb0a2a5ca9bc3cfaa" title="BgpPath::SetResolveNextHop" alt="" coords="271,2035,483,2062"/>
-<area shape="rect" id="node49" href="$d1/d31/classPathResolver.html#a8c3c2b54f8e09ea65aaef37e6d7b37b5" title="PathResolver::StartPathResolution" alt="" coords="257,67,498,94"/>
-<area shape="rect" id="node50" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title="BgpRoute::InsertPath" alt="" coords="299,523,456,550"/>
-<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="590,1229,770,1255"/>
-<area shape="rect" id="node11" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="619,1127,741,1154"/>
-<area shape="rect" id="node12" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="622,1077,738,1103"/>
-<area shape="rect" id="node14" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="573,1178,787,1205"/>
-<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="593,1280,767,1321"/>
-<area shape="rect" id="node18" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="589,1346,771,1373"/>
-<area shape="rect" id="node19" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="555,1397,805,1423"/>
-<area shape="rect" id="node23" href="$d5/dcf/classBgpAttr.html#ad3d046d381285d8c5e284616b2805c1b" title="BgpAttr::set_ext_community" alt="" coords="576,574,784,601"/>
-<area shape="rect" id="node24" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; BgpAttr, BgpAttrPtr,\l BgpAttrSpec, BgpAttrCompare,\l BgpAttrDB \&gt;::Locate" alt="" coords="567,625,793,696"/>
-<area shape="rect" id="node27" href="$d5/dcf/classBgpAttr.html#a1af3856d6c9dfa14dc5fad6dbf0fb5ac" title="BgpAttr::set_source_rd" alt="" coords="595,721,765,747"/>
-<area shape="rect" id="node29" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="609,321,751,347"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1165,184,1192"/>
+<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title=" " alt="" coords="275,123,427,149"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="549,5,719,32"/>
+<area shape="rect" id="node7" href="$d4/d72/classInet6VpnPrefix.html#a773cd65327be7d89b7d48006a9ea3d7a" title=" " alt="" coords="281,933,421,960"/>
+<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="569,629,699,656"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title=" " alt="" coords="261,984,441,1011"/>
+<area shape="rect" id="node10" href="$d3/d97/classInet6Table.html#ab500940b5f1f144a46f29d6f2684ca7a" title=" " alt="" coords="289,1035,414,1061"/>
+<area shape="rect" id="node11" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title=" " alt="" coords="575,781,693,808"/>
+<area shape="rect" id="node12" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title=" " alt="" coords="274,1085,429,1112"/>
+<area shape="rect" id="node14" href="$d6/dbd/classBgpRoute.html#ab42ff4db7d866f8c43b74abb0dda7bc6" title=" " alt="" coords="250,427,453,453"/>
+<area shape="rect" id="node15" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="567,275,701,301"/>
+<area shape="rect" id="node16" href="$d7/d0c/classBgpPath.html#a6284dadd76a06f19337a406dba117261" title=" " alt="" coords="565,224,703,251"/>
+<area shape="rect" id="node18" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="571,579,697,605"/>
+<area shape="rect" id="node19" href="$d7/d0c/classBgpPath.html#ae586140cbe5d22634efdd18a06188277" title=" " alt="" coords="563,477,705,504"/>
+<area shape="rect" id="node23" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="290,1136,413,1163"/>
+<area shape="rect" id="node24" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title=" " alt="" coords="257,1187,445,1229"/>
+<area shape="rect" id="node25" href="$d7/d0c/classBgpPath.html#a1cd35b90f72792072772d1767349e204" title=" " alt="" coords="285,1253,417,1280"/>
+<area shape="rect" id="node26" href="$d7/d0c/classBgpPath.html#af2b2b5a28a6bfc8c72ef259c749ca415" title=" " alt="" coords="551,680,717,707"/>
+<area shape="rect" id="node27" href="$de/dd1/classInet6Route.html#a6cf648f23c2c959c90552f00f4c742bf" title=" " alt="" coords="277,1304,426,1331"/>
+<area shape="rect" id="node28" href="$d5/dda/classInet6VpnRoute.html#a278766541bc904c7bb9183bd2969f65e" title=" " alt="" coords="265,1355,437,1381"/>
+<area shape="rect" id="node29" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="263,1405,440,1432"/>
+<area shape="rect" id="node30" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="261,1456,442,1483"/>
+<area shape="rect" id="node32" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="551,857,717,884"/>
+<area shape="rect" id="node33" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title=" " alt="" coords="277,629,426,656"/>
+<area shape="rect" id="node34" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="574,731,694,757"/>
+<area shape="rect" id="node35" href="$d6/da8/classInet6Prefix.html#aa71fef1deb0f0830ead4ca22f6b199ea" title=" " alt="" coords="281,1507,422,1533"/>
+<area shape="rect" id="node36" href="$db/d26/classBgpServer.html#ab6e18223d47902accc5601475476a9fa" title=" " alt="" coords="255,1558,447,1599"/>
+<area shape="rect" id="node37" href="$d7/d0c/classBgpPath.html#a6f34789deaa57952ec4927e7096da21e" title=" " alt="" coords="262,1624,441,1651"/>
+<area shape="rect" id="node38" href="$d5/dcf/classBgpAttr.html#ab8ab8451bbf5dbda508f9ff533bda477" title=" " alt="" coords="270,1675,433,1701"/>
+<area shape="rect" id="node39" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title=" " alt="" coords="271,1725,432,1752"/>
+<area shape="rect" id="node40" href="$d6/da8/classInet6Prefix.html#acdba172388dd137f418061c9d9d1352e" title=" " alt="" coords="281,1776,422,1803"/>
+<area shape="rect" id="node41" href="$d4/d72/classInet6VpnPrefix.html#a89bb1bd7ac2fad13c98a799a8e77d687" title=" " alt="" coords="269,1827,433,1853"/>
+<area shape="rect" id="node42" href="$d6/dbd/classBgpRoute.html#ab15ef4e4dfd191557d5605ae8a918d2b" title=" " alt="" coords="239,376,464,403"/>
+<area shape="rect" id="node43" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title=" " alt="" coords="238,1878,465,1919"/>
+<area shape="rect" id="node44" href="$d7/d34/classBgpAttrDB.html#ab8520c2d8c049037802f4f2030919392" title=" " alt="" coords="261,1943,442,1985"/>
+<area shape="rect" id="node45" href="$d4/d72/classInet6VpnPrefix.html#a569b6318b2036b97c2a3471ab57e873e" title=" " alt="" coords="279,2009,423,2050"/>
+<area shape="rect" id="node46" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title=" " alt="" coords="286,2074,417,2115"/>
+<area shape="rect" id="node47" href="$d8/d0e/classBgpSecondaryPath.html#aa65aeeda67ec0876fbbaf08fa4678c7e" title=" " alt="" coords="232,2140,471,2167"/>
+<area shape="rect" id="node48" href="$d7/d0c/classBgpPath.html#a61ea93d61b1b699fb0a2a5ca9bc3cfaa" title=" " alt="" coords="252,2191,451,2217"/>
+<area shape="rect" id="node49" href="$d1/d31/classPathResolver.html#a8c3c2b54f8e09ea65aaef37e6d7b37b5" title=" " alt="" coords="239,832,463,859"/>
+<area shape="rect" id="node50" href="$d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5" title=" " alt="" coords="240,2241,463,2268"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a86b27844ec841ab805bfb63c12141cba" title=" " alt="" coords="519,123,749,149"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="797,351,968,377"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title=" " alt="" coords="552,57,716,98"/>
+<area shape="rect" id="node13" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title=" " alt="" coords="535,1085,733,1112"/>
+<area shape="rect" id="node17" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="567,325,701,352"/>
+<area shape="rect" id="node20" href="$d0/def/classBgpTable.html#a306bbc41c5a6837964b4766d9c7ac689" title=" " alt="" coords="560,376,708,403"/>
+<area shape="rect" id="node21" href="$d8/d0e/classBgpSecondaryPath.html#a56a9fcc1431c15c1251172767028d2a6" title=" " alt="" coords="545,427,723,453"/>
+<area shape="rect" id="node22" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title=" " alt="" coords="576,528,692,555"/>
+<area shape="rect" id="node31" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="579,1456,689,1483"/>
 </map>

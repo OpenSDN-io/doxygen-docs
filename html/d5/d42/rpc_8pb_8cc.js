@@ -404,5 +404,5 @@ var rpc_8pb_8cc =
     [ "file_default_instances", "d5/d42/rpc_8pb_8cc.html#a59c4a5cc8f942389e2caaad7c16c9e52", null ],
     [ "file_level_enum_descriptors", "d5/d42/rpc_8pb_8cc.html#a158e101b45400ebefe0f8ec3c7225cf4", null ],
     [ "file_level_metadata", "d5/d42/rpc_8pb_8cc.html#aceaf8dacfe65b2e588ebba187f16ca5a", null ],
-    [ "static_descriptor_initializer", "d5/d42/rpc_8pb_8cc.html#a98bd4d96c7c374531a587ed9481be397", null ]
+    [ "static_descriptor_initializer", "d5/d42/rpc_8pb_8cc.html#a665e8291a86581becaa3d40568d1fa15", null ]
 ];

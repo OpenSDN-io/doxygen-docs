@@ -1,8 +1,9 @@
 <map id="ResolverPath::LocateResolvedPath" name="ResolverPath::LocateResolvedPath">
-<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="307,5,442,32"/>
-<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="301,56,448,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="309,107,440,133"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="304,157,445,184"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="299,208,450,235"/>
-<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="305,259,445,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,232,159"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="290,5,413,32"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="285,56,418,83"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a1cd35b90f72792072772d1767349e204" title=" " alt="" coords="285,107,417,133"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a6284dadd76a06f19337a406dba117261" title=" " alt="" coords="282,157,421,184"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="288,208,415,235"/>
+<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#ae586140cbe5d22634efdd18a06188277" title=" " alt="" coords="280,259,423,285"/>
 </map>

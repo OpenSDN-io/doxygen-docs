@@ -48,7 +48,7 @@ var classt__cpp__generator =
     [ "generate_struct_writer", "d6/dd2/classt__cpp__generator.html#aeaf9cfa595d29fb1c26e47dfbe02489f", null ],
     [ "generate_typedef", "d6/dd2/classt__cpp__generator.html#a20d612ee4793f3300d045eadb14e6485", null ],
     [ "generate_xception", "d6/dd2/classt__cpp__generator.html#a019cde79d6d938074583374d944e7f25", null ],
-    [ "get_include_prefix", "d6/dd2/classt__cpp__generator.html#a08c06af40c0af3b34d05e88ea7a9900d", null ],
+    [ "get_include_prefix", "d6/dd2/classt__cpp__generator.html#ab880bd6bae446422b6f455e062b31e8b", null ],
     [ "init_generator", "d6/dd2/classt__cpp__generator.html#ac4d025afa46ca98edd913b663873a9ac", null ],
     [ "is_complex_type", "d6/dd2/classt__cpp__generator.html#af05ba3f0c1061d9dd4a2cfb4017124eb", null ],
     [ "local_reflection_name", "d6/dd2/classt__cpp__generator.html#aa56037bf7e006d014a10bc689839af91", null ],

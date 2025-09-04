@@ -1,6 +1,7 @@
 <map id="RibUpdateMonitor::GetNextUpdate" name="RibUpdateMonitor::GetNextUpdate">
-<area shape="rect" id="node2" href="$d2/db4/classUpdateQueue.html#ab961a9a61a5febb67e9f6a2b1cc44961" title="UpdateQueue::NextUpdate" alt="" coords="257,5,455,32"/>
-<area shape="rect" id="node3" href="$d4/d45/classUpdateEntry.html#a0b42520a185855255d3afd453dd7fdb8" title="UpdateEntry::IsUpdate" alt="" coords="504,31,672,57"/>
-<area shape="rect" id="node4" href="$d2/db4/classUpdateQueue.html#ab1f23a7a9501bbbc22ffe3b060c08a36" title="UpdateQueue::MoveMarker" alt="" coords="257,107,455,133"/>
-<area shape="rect" id="node5" href="$d2/db4/classUpdateQueue.html#a5791ef315e00b790b3412b028c3693ca" title="UpdateQueue::tail_marker" alt="" coords="259,157,453,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,44,189,85"/>
+<area shape="rect" id="node2" href="$d4/d45/classUpdateEntry.html#a0b42520a185855255d3afd453dd7fdb8" title=" " alt="" coords="467,26,623,53"/>
+<area shape="rect" id="node3" href="$d2/db4/classUpdateQueue.html#ab1f23a7a9501bbbc22ffe3b060c08a36" title=" " alt="" coords="237,26,419,53"/>
+<area shape="rect" id="node4" href="$d2/db4/classUpdateQueue.html#ab961a9a61a5febb67e9f6a2b1cc44961" title=" " alt="" coords="238,77,418,103"/>
+<area shape="rect" id="node5" href="$d2/db4/classUpdateQueue.html#a5791ef315e00b790b3412b028c3693ca" title=" " alt="" coords="241,127,415,154"/>
 </map>

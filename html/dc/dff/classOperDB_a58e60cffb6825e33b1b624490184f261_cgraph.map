@@ -1,7 +1,8 @@
 <map id="OperDB::DeleteRoutes" name="OperDB::DeleteRoutes">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="243,5,370,32"/>
-<area shape="rect" id="node3" href="$db/d35/classVrfTable.html#afb2a93a6c00041d5b6cb7dfdf71739a6" title="VrfTable::DeleteRoutes" alt="" coords="221,56,392,83"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="441,5,599,32"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="460,56,580,83"/>
-<area shape="rect" id="node6" href="$dc/dff/classOperDB.html#a65174bb364e208cc959691447019ec3f" title="OperDB::agent_route\l_walk_manager" alt="" coords="441,107,599,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,163,116"/>
+<area shape="rect" id="node2" href="$db/d35/classVrfTable.html#afb2a93a6c00041d5b6cb7dfdf71739a6" title=" " alt="" coords="211,64,369,91"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="233,115,347,141"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="417,5,564,32"/>
+<area shape="rect" id="node4" href="$dc/dff/classOperDB.html#a966a36ddb6edb5c0b8e9ac05048e8d9e" title=" " alt="" coords="418,57,563,98"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="435,123,546,149"/>
 </map>

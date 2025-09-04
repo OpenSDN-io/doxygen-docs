@@ -4,7 +4,7 @@ var classDiagEntry =
     [ "DiagTimer", "d8/d96/classDiagEntry.html#aa2dec9f5c900949871d1f0b203f11987", null ],
     [ "DiagEntry", "d8/d96/classDiagEntry.html#a34745393c93823fa332aa880fd5a5381", null ],
     [ "~DiagEntry", "d8/d96/classDiagEntry.html#af19fd78bdfd0e9aedf32a9b0b94f7c1d", null ],
-    [ "diag_table", "d8/d96/classDiagEntry.html#a77ebcb487ac89ad7b4d05f7f41ccdea6", null ],
+    [ "diag_table", "d8/d96/classDiagEntry.html#aa27354d7e8ed130e7daa3fe3a6a6302e", null ],
     [ "EnqueueForceDelete", "d8/d96/classDiagEntry.html#adfb456d6a626ac2b05ff1d247e035f2c", null ],
     [ "FillOamPktHeader", "d8/d96/classDiagEntry.html#a4df70c7a1f845b638eeede64f97a2fb9", null ],
     [ "GetKey", "d8/d96/classDiagEntry.html#a0953eeaa1646704eddf9ba9396ca1c59", null ],

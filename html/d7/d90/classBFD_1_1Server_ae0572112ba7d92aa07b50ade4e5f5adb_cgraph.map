@@ -1,8 +1,10 @@
 <map id="BFD::Server::DeleteClientSessions" name="BFD::Server::DeleteClientSessions">
-<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html#aeebd69bf9560b93d6197157b2b33794b" title="BFD::Server::RemoveSession\lReference" alt="" coords="241,38,450,79"/>
-<area shape="rect" id="node3" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#ad6c70a107ca2df2ea560ec91f043e5cf" title="BFD::Server::SessionManager\l::RemoveSessionReference" alt="" coords="499,38,711,79"/>
-<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#aa9c76f0a1c3ac9e30cb84f0cffaf1a7f" title="BFD::Server::SessionByKey" alt="" coords="760,15,957,41"/>
-<area shape="rect" id="node6" href="$d6/d27/structBFD_1_1SessionKey.html#a6c3b424df08b561a0654162fc2ee9180" title="BFD::SessionKey::to\l_string" alt="" coords="783,67,934,109"/>
-<area shape="rect" id="node5" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title="BFD::Server::SessionManager\l::SessionByKey" alt="" coords="1006,5,1218,46"/>
-<area shape="rect" id="node7" href="$da/d30/structBFD_1_1SessionIndex.html#a4ed1248f38fb33246f547e7ff402faf8" title="BFD::SessionIndex::\lto_string" alt="" coords="1037,70,1187,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,180,105"/>
+<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html#aeebd69bf9560b93d6197157b2b33794b" title=" " alt="" coords="228,64,425,105"/>
+<area shape="rect" id="node3" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#ad6c70a107ca2df2ea560ec91f043e5cf" title=" " alt="" coords="473,64,673,105"/>
+<area shape="rect" id="node4" href="$d4/d83/classBFD_1_1Session.html#acfcf433f12d2e5551a5b98f32548ee8e" title=" " alt="" coords="746,5,885,47"/>
+<area shape="rect" id="node5" href="$d7/d90/classBFD_1_1Server.html#aa9c76f0a1c3ac9e30cb84f0cffaf1a7f" title=" " alt="" coords="721,71,909,98"/>
+<area shape="rect" id="node7" href="$d6/d27/structBFD_1_1SessionKey.html#a03a6ceb94b5ae4846053237e35eb7086" title=" " alt="" coords="743,124,887,165"/>
+<area shape="rect" id="node6" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title=" " alt="" coords="957,61,1157,103"/>
+<area shape="rect" id="node8" href="$da/d30/structBFD_1_1SessionIndex.html#a6c88d19316f6eaf09df6ac9ba64d53a1" title=" " alt="" coords="986,127,1129,168"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="WorkQueue::MayBeStartRunner" name="WorkQueue::MayBeStartRunner">
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,216,65"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="278,13,465,39"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="264,63,479,90"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="527,13,729,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="777,5,955,47"/>
+</map>

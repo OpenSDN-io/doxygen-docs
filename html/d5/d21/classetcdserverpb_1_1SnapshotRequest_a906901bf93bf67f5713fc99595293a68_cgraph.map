@@ -1,7 +1,8 @@
 <map id="etcdserverpb::SnapshotRequest::SnapshotRequest" name="etcdserverpb::SnapshotRequest::SnapshotRequest">
-<area shape="rect" id="node2" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a23dfefa8c3e6743d5cd090cc5bb401df" title="etcdserverpb::SnapshotRequest\l::internal_default_instance" alt="" coords="280,5,507,46"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a350fd748cc9d9c7032175379718b22f2" title="protobuf_rpc_2eproto\l::InitDefaultsSnapshotRequest" alt="" coords="284,70,503,111"/>
-<area shape="rect" id="node6" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a9c44af98e093f823df4657a03a1afbd8" title="etcdserverpb::SnapshotRequest\l::SharedCtor" alt="" coords="280,135,507,177"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8a7a4a69f2062b5300cad2de37b58c17" title="protobuf_rpc_2eproto\l::InitDefaultsSnapshotRequestImpl" alt="" coords="555,70,802,111"/>
-<area shape="rect" id="node5" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a9804c4db34ccc8bcea09e1f30b761974" title="etcdserverpb::SnapshotRequest\l::InitAsDefaultInstance" alt="" coords="851,70,1077,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,215,112"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a350fd748cc9d9c7032175379718b22f2" title=" " alt="" coords="267,5,467,47"/>
+<area shape="rect" id="node5" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a23dfefa8c3e6743d5cd090cc5bb401df" title=" " alt="" coords="263,71,472,112"/>
+<area shape="rect" id="node6" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a9c44af98e093f823df4657a03a1afbd8" title=" " alt="" coords="263,136,472,177"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8a7a4a69f2062b5300cad2de37b58c17" title=" " alt="" coords="520,5,745,47"/>
+<area shape="rect" id="node4" href="$d5/d21/classetcdserverpb_1_1SnapshotRequest.html#a9804c4db34ccc8bcea09e1f30b761974" title=" " alt="" coords="793,5,1003,47"/>
 </map>

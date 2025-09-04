@@ -1,8 +1,0 @@
-<map id="FlowProto::FlowStatsUpdate" name="FlowProto::FlowStatsUpdate">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="310,5,410,32"/>
-<area shape="rect" id="node3" href="$d0/d98/classAgentStats.html#a10c807a03ce6db21472ce947015defb1" title="AgentStats::UpdateFlowMin\lMaxStats" alt="" coords="259,57,461,98"/>
-<area shape="rect" id="node4" href="$d0/d98/classAgentStats.html#a3782f8855335468ab7fa4fa5ec93b12b" title="AgentStats::flow_created" alt="" coords="268,123,452,149"/>
-<area shape="rect" id="node5" href="$d0/d98/classAgentStats.html#ae9a4102692bb7facf914cdd24fa2eb24" title="AgentStats::added" alt="" coords="289,173,431,200"/>
-<area shape="rect" id="node6" href="$d0/d98/classAgentStats.html#ad9501c5aad0bc84aecf557251fb17769" title="AgentStats::flow_aged" alt="" coords="277,224,443,251"/>
-<area shape="rect" id="node7" href="$d0/d98/classAgentStats.html#a75bdfb76e4c3cda9ac4236465861de93" title="AgentStats::deleted" alt="" coords="285,275,435,301"/>
-</map>

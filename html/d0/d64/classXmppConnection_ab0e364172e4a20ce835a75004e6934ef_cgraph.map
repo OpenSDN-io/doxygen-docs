@@ -1,7 +1,8 @@
 <map id="XmppConnection::SendClose" name="XmppConnection::SendClose">
-<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="265,20,471,47"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="301,71,435,97"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="520,5,707,46"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="755,96,899,123"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="520,121,707,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="281,56,409,83"/>
+<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#ae6e36a0ac7b89691a6bfa9e9e4d8044d" title=" " alt="" coords="248,107,441,133"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="491,5,665,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="715,31,851,57"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="489,107,667,149"/>
 </map>

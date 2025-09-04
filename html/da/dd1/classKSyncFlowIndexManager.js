@@ -10,7 +10,7 @@ var classKSyncFlowIndexManager =
     [ "FindByIndex", "da/dd1/classKSyncFlowIndexManager.html#a7575662f4033541a4ad6014b38a3d0a4", null ],
     [ "InitDone", "da/dd1/classKSyncFlowIndexManager.html#a93bc55f6fb1ce9c7d1b5914b20e39434", null ],
     [ "ReleaseIndexUnLocked", "da/dd1/classKSyncFlowIndexManager.html#a01626a5fb5f0d6e5d66d6d4fc942a213", null ],
-    [ "sm_log_count", "da/dd1/classKSyncFlowIndexManager.html#af94115d9e7bde6869890f7e59ee7559c", null ],
+    [ "sm_log_count", "da/dd1/classKSyncFlowIndexManager.html#a905410e77734e3448963af01f673da69", null ],
     [ "TriggerKSyncEvent", "da/dd1/classKSyncFlowIndexManager.html#a2bc7abbd030a48b8ede1674379e10f61", null ],
     [ "Update", "da/dd1/classKSyncFlowIndexManager.html#a59c439aa278deed77eeb8cc4f88d6ab6", null ],
     [ "UpdateFlowHandle", "da/dd1/classKSyncFlowIndexManager.html#aaabb1860867d6a0a5eb88ef1fda8b183", null ],

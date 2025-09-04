@@ -1,8 +1,9 @@
 <map id="BgpIfmapPeeringConfig::Delete" name="BgpIfmapPeeringConfig::Delete">
-<area shape="rect" id="node2" href="$d6/d53/classBgpIfmapInstanceConfig.html#a50294d5143d53e4a23d64c05d3b846f4" title="BgpIfmapInstanceConfig\l::DeleteNeighbor" alt="" coords="229,74,411,115"/>
-<area shape="rect" id="node7" href="$d8/d3c/util_8h.html#a09ffb83c4e3af0e2c5d3bfe003f4e6d8" title="STLDeleteElements" alt="" coords="245,140,395,167"/>
-<area shape="rect" id="node3" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title="BgpConfigManager::server" alt="" coords="459,5,653,32"/>
-<area shape="rect" id="node4" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title="BgpConfigManager::Notify" alt="" coords="460,56,652,83"/>
-<area shape="rect" id="node5" href="$d0/dbd/classBgpNeighborConfig.html#ac34548dc2c52bf891cec6f205000e751" title="BgpNeighborConfig::name" alt="" coords="460,107,652,133"/>
-<area shape="rect" id="node6" href="$d6/ddf/classBgpInstanceConfig.html#a918008040293d1099a90e794a93058d1" title="BgpInstanceConfig::\ldelete_neighbor" alt="" coords="481,158,631,199"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,119,164,160"/>
+<area shape="rect" id="node2" href="$d6/d53/classBgpIfmapInstanceConfig.html#a50294d5143d53e4a23d64c05d3b846f4" title=" " alt="" coords="212,89,379,131"/>
+<area shape="rect" id="node7" href="$d8/d3c/util_8h.html#a09ffb83c4e3af0e2c5d3bfe003f4e6d8" title=" " alt="" coords="226,155,365,182"/>
+<area shape="rect" id="node3" href="$d6/ddf/classBgpInstanceConfig.html#a918008040293d1099a90e794a93058d1" title=" " alt="" coords="445,5,586,47"/>
+<area shape="rect" id="node4" href="$d0/dbd/classBgpNeighborConfig.html#a568554a8d7ecf79ca9c833e7f87f1657" title=" " alt="" coords="428,71,603,98"/>
+<area shape="rect" id="node5" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title=" " alt="" coords="427,122,603,149"/>
+<area shape="rect" id="node6" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title=" " alt="" coords="427,173,604,199"/>
 </map>

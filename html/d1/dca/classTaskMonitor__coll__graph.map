@@ -1,11 +1,16 @@
 <map id="TaskMonitor" name="TaskMonitor">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="211,381,326,408"/>
-<area shape="rect" id="node3" href="$dd/d34/classTaskTbbKeepAwake.html" title="TaskTbbKeepAwake" alt="" coords="268,291,418,317"/>
-<area shape="rect" id="node5" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="380,200,439,227"/>
-<area shape="rect" id="node7" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="358,96,492,123"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="546,5,596,32"/>
-<area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt; " alt="" coords="615,96,700,123"/>
-<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="446,291,560,317"/>
-<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task&#45;id&gt; information including,. " alt="" coords="743,200,834,227"/>
-<area shape="rect" id="node14" href="$d9/d8c/structTaskStats.html" title="TaskStats" alt="" coords="785,5,868,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="16,288,109,315"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="209,377,317,404"/>
+<area shape="rect" id="node3" href="$dd/d34/classTaskTbbKeepAwake.html" title=" " alt="" coords="247,288,385,315"/>
+<area shape="rect" id="node4" title=" " alt="" coords="243,95,301,121"/>
+<area shape="rect" id="node5" href="$dc/dea/classTimer.html" title=" " alt="" coords="345,199,399,225"/>
+<area shape="rect" id="node6" title=" " alt="" coords="478,95,533,121"/>
+<area shape="rect" id="node7" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="330,95,454,121"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="521,5,572,32"/>
+<area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt;" alt="" coords="569,95,652,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="351,5,433,32"/>
+<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="410,288,515,315"/>
+<area shape="rect" id="node11" title=" " alt="" coords="424,199,507,225"/>
+<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html" title="TaskGroup maintains per &lt;task&#45;id&gt; information including,." alt="" coords="688,199,773,225"/>
+<area shape="rect" id="node14" href="$d9/d8c/structTaskStats.html" title=" " alt="" coords="749,5,830,32"/>
 </map>

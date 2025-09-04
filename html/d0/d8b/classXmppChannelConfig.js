@@ -1,8 +1,8 @@
 var classXmppChannelConfig =
 [
     [ "XmppChannelConfig", "d0/d8b/classXmppChannelConfig.html#a9ea3cb4072af4a3e94bab2bfe78b7a11", null ],
-    [ "ClientOnly", "d0/d8b/classXmppChannelConfig.html#a6aa13b7faedb2a685b9a41d4a02387ee", null ],
-    [ "CompareTo", "d0/d8b/classXmppChannelConfig.html#a53ba7eadad701708f6599266e7018f73", null ],
+    [ "ClientOnly", "d0/d8b/classXmppChannelConfig.html#a564d79e62013ca7c08814d643e24c997", null ],
+    [ "CompareTo", "d0/d8b/classXmppChannelConfig.html#a15b9f55967d872dbf70ab325fef59d1b", null ],
     [ "auth_enabled", "d0/d8b/classXmppChannelConfig.html#ad07c9ff2a4b19ec3ad1ee67efb4f026d", null ],
     [ "default_client_port", "d0/d8b/classXmppChannelConfig.html#a86252bcb138f59bdbcd71af89a6e5c6b", null ],
     [ "default_server_port", "d0/d8b/classXmppChannelConfig.html#ac7e30074d12cb31cca086e0c6ea5dac0", null ],

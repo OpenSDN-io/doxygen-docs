@@ -1,28 +1,29 @@
 <map id="InterfaceUveTable::InterfaceNotify" name="InterfaceUveTable::InterfaceNotify">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="211,76,383,103"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="206,404,389,431"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="483,135,661,161"/>
-<area shape="rect" id="node7" href="$d6/d1c/classInterfaceUveTable.html#a5a6a9d96151457892c7d6e80192e1883" title="InterfaceUveTable::\lInterfaceDeleteHandler" alt="" coords="210,455,385,497"/>
-<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="206,287,389,313"/>
-<area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="485,521,659,548"/>
-<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="212,135,383,161"/>
-<area shape="rect" id="node20" href="$d5/d21/classVmInterface.html#a6a7fbf63e503ee6c814c230b015da271" title="VmInterface::floating\l_ip_list" alt="" coords="493,573,651,614"/>
-<area shape="rect" id="node21" href="$d6/d1c/classInterfaceUveTable.html#ad2d0bcfdb41245a5b839dd7b4a980e86" title="InterfaceUveTable::\lInterfaceAddHandler" alt="" coords="219,638,375,679"/>
-<area shape="rect" id="node26" href="$d6/d1c/classInterfaceUveTable.html#af0d0f9b47ccc4235640aa12ebb1d464e" title="InterfaceUveTable::\lHandleVmiTagListChange" alt="" coords="203,798,391,839"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="752,109,979,136"/>
-<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="477,69,667,110"/>
-<area shape="rect" id="node8" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4860513f33a929387377f77295aca39b" title="InterfaceUveTable::\lUveInterfaceEntry::Reset" alt="" coords="481,455,663,497"/>
-<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="469,186,675,227"/>
-<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="487,353,657,380"/>
-<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="469,404,675,431"/>
-<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="460,303,684,329"/>
-<area shape="rect" id="node14" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="802,353,929,380"/>
-<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="777,252,953,279"/>
-<area shape="rect" id="node16" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="759,303,971,329"/>
-<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1027,303,1245,329"/>
-<area shape="rect" id="node22" href="$d6/d1c/classInterfaceUveTable.html#a400614a293145c408c30b211b4c28a56" title="InterfaceUveTable::\lAllocate" alt="" coords="498,769,646,810"/>
-<area shape="rect" id="node23" href="$d3/d0d/structVmInterfaceState.html#a920e8a789c6872421cf5b90e266083ac" title="VmInterfaceState::Installed" alt="" coords="472,835,672,861"/>
-<area shape="rect" id="node24" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4d9bb2a945fce462f76e85e6aee21483" title="InterfaceUveTable::\lUveInterfaceEntry::RemoveFloatingIp" alt="" coords="440,638,704,679"/>
-<area shape="rect" id="node25" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#acbce432dcd7db856d00264be0d11d932" title="InterfaceUveTable::\lUveInterfaceEntry::AddFloatingIp" alt="" coords="454,703,690,745"/>
-<area shape="rect" id="node27" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a0eb539a2e84c55fb53550fa205dc3d90" title="InterfaceUveTable::\lUveInterfaceEntry::HandleTag\lListChange" alt="" coords="465,885,679,941"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,510,141,551"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="451,5,610,32"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title=" " alt="" coords="189,597,363,624"/>
+<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="447,539,614,565"/>
+<area shape="rect" id="node15" href="$d5/d21/classVmInterface.html#a3306cb6e2390db79bf23b3060b362388" title=" " alt="" coords="459,57,603,98"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="195,441,357,468"/>
+<area shape="rect" id="node17" href="$d6/d1c/classInterfaceUveTable.html#af0d0f9b47ccc4235640aa12ebb1d464e" title=" " alt="" coords="189,649,363,690"/>
+<area shape="rect" id="node19" href="$d6/d1c/classInterfaceUveTable.html#ad2d0bcfdb41245a5b839dd7b4a980e86" title=" " alt="" coords="205,181,347,222"/>
+<area shape="rect" id="node24" href="$d6/d1c/classInterfaceUveTable.html#a5a6a9d96151457892c7d6e80192e1883" title=" " alt="" coords="197,714,355,755"/>
+<area shape="rect" id="node26" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="191,780,361,807"/>
+<area shape="rect" id="node27" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="195,492,357,519"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="432,590,629,631"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="441,473,620,514"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title=" " alt="" coords="427,707,635,733"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="699,513,909,540"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="451,757,610,784"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title=" " alt="" coords="433,808,629,835"/>
+<area shape="rect" id="node7" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title=" " alt="" coords="706,656,902,683"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="745,707,863,733"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="721,757,887,784"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title=" " alt="" coords="957,656,1163,683"/>
+<area shape="rect" id="node18" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a0eb539a2e84c55fb53550fa205dc3d90" title=" " alt="" coords="431,859,630,915"/>
+<area shape="rect" id="node20" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#acbce432dcd7db856d00264be0d11d932" title=" " alt="" coords="423,305,639,346"/>
+<area shape="rect" id="node21" href="$d6/d1c/classInterfaceUveTable.html#a400614a293145c408c30b211b4c28a56" title=" " alt="" coords="463,122,599,163"/>
+<area shape="rect" id="node22" href="$d3/d0d/structVmInterfaceState.html#a8a804c8e5147abbc35fb552d41826640" title=" " alt="" coords="439,188,622,215"/>
+<area shape="rect" id="node23" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4d9bb2a945fce462f76e85e6aee21483" title=" " alt="" coords="411,239,651,281"/>
+<area shape="rect" id="node25" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4860513f33a929387377f77295aca39b" title=" " alt="" coords="445,939,616,981"/>
 </map>

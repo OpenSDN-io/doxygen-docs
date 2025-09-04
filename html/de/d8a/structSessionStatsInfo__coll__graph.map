@@ -1,7 +1,10 @@
 <map id="SessionStatsInfo" name="SessionStatsInfo">
-<area shape="rect" id="node2" href="$d2/da9/structSessionExportInfo.html" title="SessionExportInfo" alt="" coords="140,261,279,288"/>
-<area shape="rect" id="node3" href="$d0/dcd/structSessionFlowExportInfo.html" title="SessionFlowExportInfo" alt="" coords="5,156,173,183"/>
-<area shape="rect" id="node5" href="$d1/de3/structSessionFlowStatsInfo.html" title="SessionFlowStatsInfo" alt="" coords="303,261,463,288"/>
-<area shape="rect" id="node7" href="$d5/dea/structSessionStatsParams.html" title="SessionStatsParams" alt="" coords="487,261,640,288"/>
-<area shape="rect" id="node8" href="$d7/d28/structSessionFlowStatsParams.html" title="SessionFlowStatsParams" alt="" coords="473,156,655,183"/>
+<area shape="rect" id="node1" title=" " alt="" coords="273,364,395,391"/>
+<area shape="rect" id="node2" href="$d2/da9/structSessionExportInfo.html" title=" " alt="" coords="103,260,234,287"/>
+<area shape="rect" id="node3" href="$d0/dcd/structSessionFlowExportInfo.html" title=" " alt="" coords="119,155,277,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node5" href="$d1/de3/structSessionFlowStatsInfo.html" title=" " alt="" coords="259,260,409,287"/>
+<area shape="rect" id="node6" title=" " alt="" coords="311,155,357,181"/>
+<area shape="rect" id="node7" href="$d5/dea/structSessionStatsParams.html" title=" " alt="" coords="433,260,579,287"/>
+<area shape="rect" id="node8" href="$d7/d28/structSessionFlowStatsParams.html" title=" " alt="" coords="419,155,593,181"/>
 </map>

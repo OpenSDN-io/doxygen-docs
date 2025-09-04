@@ -1,9 +1,0 @@
-<map id="DnsHandler::ResolveLinkLocalRequest" name="DnsHandler::ResolveLinkLocalRequest">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="324,5,444,32"/>
-<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#aa6631648d2d603c1ec66872dc4e7d2ac" title="OperDB::global_vrouter" alt="" coords="297,56,471,83"/>
-<area shape="rect" id="node4" href="$da/d13/classDnsHandler.html#a1c68264e81f3d6a1161f6da7b9a3068a" title="DnsHandler::GetBaseName" alt="" coords="284,107,484,133"/>
-<area shape="rect" id="node5" href="$de/d48/classGlobalVrouter.html#aaa2276fd0c1492b924b5c04e4c73ee01" title="Get link local service configuration info, for a given service name. " alt="" coords="281,158,487,199"/>
-<area shape="rect" id="node8" href="$d8/d1a/classBindUtil.html#a54f70030253462d059bb6c2d4b5b4330" title="BindUtil::GetAddrFromPtrName" alt="" coords="272,224,496,251"/>
-<area shape="rect" id="node6" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="544,140,715,167"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="566,191,693,217"/>
-</map>

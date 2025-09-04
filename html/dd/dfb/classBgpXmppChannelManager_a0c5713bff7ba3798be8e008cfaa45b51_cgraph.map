@@ -1,51 +1,52 @@
 <map id="BgpXmppChannelManager::XmppHandleChannelEvent" name="BgpXmppChannelManager::XmppHandleChannelEvent">
-<area shape="rect" id="node2" href="$dd/dfb/classBgpXmppChannelManager.html#afad7741955d03782ac258c36f0956149" title="BgpXmppChannelManager\l::CreateChannel" alt="" coords="284,243,479,285"/>
-<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="295,309,468,336"/>
-<area shape="rect" id="node4" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title="BgpXmppChannel::Peer" alt="" coords="929,828,1103,855"/>
-<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="288,419,475,445"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a4ac4b4244a7b397a0ba13bbb3a018cea" title="BgpServer::HasSelfConfiguration" alt="" coords="264,360,499,387"/>
-<area shape="rect" id="node10" href="$d6/d81/classXmppChannel.html#a6ed23705cf619bf3da5407f3140ac273" title="XmppChannel::Close" alt="" coords="937,611,1095,637"/>
-<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#a5dd9db0c711bbc862923c8afcb09760b" title="BgpServer::admin_down" alt="" coords="291,571,471,597"/>
-<area shape="rect" id="node12" href="$d6/dbf/classBgpXmppChannel.html#acdd61885ed878059d2af813263fdda26" title="BgpXmppChannel::peer\l_deleted" alt="" coords="603,122,778,163"/>
-<area shape="rect" id="node13" href="$d6/dbf/classBgpXmppChannel.html#a2a8a77c35fc85c04a44d259d78d8e13f" title="BgpXmppChannel::close\l_manager" alt="" coords="291,673,471,714"/>
-<area shape="rect" id="node14" href="$df/ddb/classPeerCloseManager.html#a8744eaaf4359890f8af5a877948859da" title="PeerCloseManager::IsClose\lInProgress" alt="" coords="282,738,481,779"/>
-<area shape="rect" id="node15" href="$df/ddb/classPeerCloseManager.html#ae2ba2c47ac3b7bdba923b626abb348a9" title="PeerCloseManager::IsInGRTimer\lWaitState" alt="" coords="266,803,497,845"/>
-<area shape="rect" id="node16" href="$d6/d81/classXmppChannel.html#a0a0945abcaf97451d8573f1640697552" title="XmppChannel::RegisterReceive" alt="" coords="269,869,494,896"/>
-<area shape="rect" id="node17" href="$d6/dbf/classBgpXmppChannel.html#a9cf65198ace4e3d4bd361fb9caf6e9e9" title="BgpXmppChannel::ReceiveUpdate" alt="" coords="259,520,503,547"/>
-<area shape="rect" id="node38" href="$d6/dbf/classBgpXmppChannel.html#a99349a3bee50d95d09ffa4ca87cd20c7" title="BgpXmppChannel::StartEnd\lOfRibReceiveTimer" alt="" coords="281,1389,482,1430"/>
-<area shape="rect" id="node46" href="$d6/dbf/classBgpXmppChannel.html#a70fb0a6fcb63079207b39c76a7f735c1" title="BgpXmppChannel::ResetEnd\lOfRibSendState" alt="" coords="278,1074,485,1115"/>
-<area shape="rect" id="node48" href="$d6/dbf/classBgpXmppChannel.html#a68377446e262642808c72609234533f7" title="BgpXmppChannel::Close" alt="" coords="290,1687,473,1713"/>
-<area shape="rect" id="node7" href="$db/d26/classBgpServer.html#a6b1cf99885365f7f2b3e4a3477e080e3" title="BgpServer::bgp_identifier_u32" alt="" coords="582,5,799,32"/>
-<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a79251f927f0aa33a7a763bfb0f941577" title="BgpServer::local_autonomous\l_system" alt="" coords="583,57,799,98"/>
-<area shape="rect" id="node9" href="$db/d26/classBgpServer.html#a233b773a2667adeadfb273e9716f10e7" title="BgpServer::autonomous\l_system" alt="" coords="927,545,1105,586"/>
-<area shape="rect" id="node18" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="595,676,787,703"/>
-<area shape="rect" id="node19" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="589,188,792,215"/>
-<area shape="rect" id="node22" href="$d6/dbf/classBgpXmppChannel.html#ac12be832a31c263b919e3aa419172d58" title="BgpXmppChannel::ProcessSubscription\lRequest" alt="" coords="553,290,829,331"/>
-<area shape="rect" id="node23" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="944,115,1088,141"/>
-<area shape="rect" id="node30" href="$d6/dbf/classBgpXmppChannel.html#acc8fdce5336971bc3785e7429f5c8bfe" title="BgpXmppChannel::ReceiveEnd\lOfRIB" alt="" coords="905,965,1127,1006"/>
-<area shape="rect" id="node32" href="$d6/dbf/classBgpXmppChannel.html#a62910df6d7c1753cf3db68099a3e9a5c" title="BgpXmppChannel::ProcessItem" alt="" coords="577,407,804,433"/>
-<area shape="rect" id="node33" href="$d6/dbf/classBgpXmppChannel.html#a507a1084d83916d4f5ca128121a7f2ec" title="BgpXmppChannel::GetPrimary\lInstanceID" alt="" coords="581,458,801,499"/>
-<area shape="rect" id="node34" href="$d6/dbf/classBgpXmppChannel.html#a0ea10b9bbc4103f74e92e7df3a010f98" title="BgpXmppChannel::ProcessInet6Item" alt="" coords="561,524,820,551"/>
-<area shape="rect" id="node35" href="$d6/dbf/classBgpXmppChannel.html#ae2e0404ee0067e5f36d9ea5734c193ee" title="BgpXmppChannel::ProcessMcastItem" alt="" coords="559,625,823,652"/>
-<area shape="rect" id="node36" href="$d6/dbf/classBgpXmppChannel.html#a239ec035072afc07f3975ae8cbf0a27d" title="BgpXmppChannel::ProcessMvpnItem" alt="" coords="560,727,821,753"/>
-<area shape="rect" id="node37" href="$d6/dbf/classBgpXmppChannel.html#add420b8b14cae37471c31bde5b210d3d" title="BgpXmppChannel::ProcessEnetItem" alt="" coords="563,575,818,601"/>
-<area shape="rect" id="node20" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="923,13,1109,40"/>
-<area shape="rect" id="node21" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="926,64,1106,91"/>
-<area shape="rect" id="node24" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="945,349,1087,390"/>
-<area shape="rect" id="node25" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title="RoutingInstanceMgr\l::GetRoutingInstance" alt="" coords="937,414,1095,455"/>
-<area shape="rect" id="node26" href="$d6/dbf/classBgpXmppChannel.html#a85991263e9d56874a80a6a3067d87f88" title="BgpXmppChannel::GetInstance\lMembershipState" alt="" coords="904,479,1128,521"/>
-<area shape="rect" id="node27" href="$d6/dbf/classBgpXmppChannel.html#a5bae06e2947db743d2a68b4814bbaa83" title="BgpXmppChannel::AddInstance\lMembershipState" alt="" coords="903,166,1129,207"/>
-<area shape="rect" id="node28" href="$d6/dbf/classBgpXmppChannel.html#a945347cef9f1d8d74c0c484ba55864cd" title="BgpXmppChannel::DeleteInstance\lMembershipState" alt="" coords="894,231,1138,273"/>
-<area shape="rect" id="node29" href="$d6/dbf/classBgpXmppChannel.html#abb1b54097369b0b832c75ba873556d4b" title="BgpXmppChannel::FlushDeferQ" alt="" coords="903,297,1129,324"/>
-<area shape="rect" id="node31" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1203,1031,1315,1057"/>
-<area shape="rect" id="node39" href="$d6/dbf/classBgpXmppChannel.html#a86d5f2d912b25236963ceb370a776971" title="BgpXmppChannel::manager" alt="" coords="914,1425,1118,1452"/>
-<area shape="rect" id="node40" href="$dd/dfb/classBgpXmppChannelManager.html#a94d017ed4e5da383249b0c87e3080e35" title="BgpXmppChannelManager\l::xmpp_server" alt="" coords="919,1559,1113,1601"/>
-<area shape="rect" id="node41" href="$dd/d43/classXmppServer.html#a7b0b2394133f83f89d14bd900e26f149" title="XmppServer::GetEndOfRibReceiveTime" alt="" coords="877,1487,1155,1513"/>
-<area shape="rect" id="node42" href="$d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2" title="UTCTimestamp" alt="" coords="955,1312,1077,1339"/>
-<area shape="rect" id="node43" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="641,1316,740,1343"/>
-<area shape="rect" id="node44" href="$d6/dbf/classBgpXmppChannel.html#a989ce06f7163ee9e197805317fb6d9b8" title="BgpXmppChannel::EndOfRib\lReceiveTimerExpired" alt="" coords="587,1418,794,1459"/>
-<area shape="rect" id="node45" href="$d6/dbf/classBgpXmppChannel.html#ac36d00d35b26b0f9ce23f57973fb3bfe" title="BgpXmppChannel::EndOfRib\lTimerErrorHandler" alt="" coords="587,1133,794,1174"/>
-<area shape="rect" id="node47" href="$d6/dbf/classBgpXmppChannel.html#ad6434c62cb57ed89901420f02c342f38" title="BgpXmppChannel::EndOfRib\lSendTimerExpired" alt="" coords="587,1250,794,1291"/>
-<area shape="rect" id="node49" href="$d8/d3c/util_8h.html#a09ffb83c4e3af0e2c5d3bfe003f4e6d8" title="STLDeleteElements" alt="" coords="616,1687,765,1713"/>
-<area shape="rect" id="node50" href="$d6/dbf/classBgpXmppChannel.html#ac5a9acea32408f8b542f0ac6ccdc941f" title="BgpXmppChannel::table\l_membership_requests" alt="" coords="601,1738,780,1779"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1253,192,1294"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#aeeeb90743e9e9f7648b1e80ed6de3362" title=" " alt="" coords="269,161,433,188"/>
+<area shape="rect" id="node3" href="$d6/dbf/classBgpXmppChannel.html#a68377446e262642808c72609234533f7" title=" " alt="" coords="267,212,436,239"/>
+<area shape="rect" id="node6" href="$d6/d81/classXmppChannel.html#a6ed23705cf619bf3da5407f3140ac273" title=" " alt="" coords="867,427,1014,453"/>
+<area shape="rect" id="node7" href="$d6/dbf/classBgpXmppChannel.html#a2a8a77c35fc85c04a44d259d78d8e13f" title=" " alt="" coords="268,1350,435,1391"/>
+<area shape="rect" id="node8" href="$dd/dfb/classBgpXmppChannelManager.html#afad7741955d03782ac258c36f0956149" title=" " alt="" coords="263,1415,440,1457"/>
+<area shape="rect" id="node9" href="$db/d26/classBgpServer.html#a51290822f49a0781306922832dccbebf" title=" " alt="" coords="244,1011,459,1037"/>
+<area shape="rect" id="node13" href="$df/ddb/classPeerCloseManager.html#a94257d414185b2fc0ffa37a665dbe222" title=" " alt="" coords="259,1481,444,1522"/>
+<area shape="rect" id="node14" href="$df/ddb/classPeerCloseManager.html#ad2d4f443564eba854160307aef55de86" title=" " alt="" coords="244,1546,459,1587"/>
+<area shape="rect" id="node15" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title=" " alt="" coords="266,1612,437,1639"/>
+<area shape="rect" id="node16" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title=" " alt="" coords="860,755,1021,781"/>
+<area shape="rect" id="node17" href="$d6/dbf/classBgpXmppChannel.html#adb0a73cb2e56077245aede1827bd43d7" title=" " alt="" coords="558,857,718,898"/>
+<area shape="rect" id="node18" href="$d6/dbf/classBgpXmppChannel.html#a9cf65198ace4e3d4bd361fb9caf6e9e9" title=" " alt="" coords="240,587,463,613"/>
+<area shape="rect" id="node39" href="$d6/d81/classXmppChannel.html#a0a0945abcaf97451d8573f1640697552" title=" " alt="" coords="248,1663,455,1689"/>
+<area shape="rect" id="node40" href="$d6/dbf/classBgpXmppChannel.html#a70fb0a6fcb63079207b39c76a7f735c1" title=" " alt="" coords="255,1219,447,1261"/>
+<area shape="rect" id="node46" href="$d6/dbf/classBgpXmppChannel.html#a99349a3bee50d95d09ffa4ca87cd20c7" title=" " alt="" coords="258,1285,445,1326"/>
+<area shape="rect" id="node50" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title=" " alt="" coords="271,1713,431,1740"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#a09ffb83c4e3af0e2c5d3bfe003f4e6d8" title=" " alt="" coords="569,48,707,75"/>
+<area shape="rect" id="node5" href="$d6/dbf/classBgpXmppChannel.html#a9dcb94cee075e9f52fb7ab3a0da137a9" title=" " alt="" coords="557,99,719,141"/>
+<area shape="rect" id="node10" href="$db/d26/classBgpServer.html#a936dcd6c87b2cc752c3eb37d6d4c26eb" title=" " alt="" coords="859,158,1022,199"/>
+<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#ab909667669413585d8d4c38f57f093f1" title=" " alt="" coords="539,1040,737,1067"/>
+<area shape="rect" id="node12" href="$db/d26/classBgpServer.html#ac7583398387bd7e3a853607a932158e1" title=" " alt="" coords="540,974,736,1015"/>
+<area shape="rect" id="node19" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title=" " alt="" coords="551,469,725,496"/>
+<area shape="rect" id="node20" href="$d6/dbf/classBgpXmppChannel.html#a8fc7d08a9ecb49cb9fc233a6bfde0ee6" title=" " alt="" coords="537,521,739,562"/>
+<area shape="rect" id="node21" href="$d0/d64/classXmppConnection.html#a4ecac316052b17e6cf89ec1196a537df" title=" " alt="" coords="545,704,731,731"/>
+<area shape="rect" id="node24" href="$d6/dbf/classBgpXmppChannel.html#add420b8b14cae37471c31bde5b210d3d" title=" " alt="" coords="520,216,756,243"/>
+<area shape="rect" id="node32" href="$d6/dbf/classBgpXmppChannel.html#a0ea10b9bbc4103f74e92e7df3a010f98" title=" " alt="" coords="519,267,757,293"/>
+<area shape="rect" id="node33" href="$d6/dbf/classBgpXmppChannel.html#a62910df6d7c1753cf3db68099a3e9a5c" title=" " alt="" coords="533,317,743,344"/>
+<area shape="rect" id="node34" href="$d6/dbf/classBgpXmppChannel.html#ae2e0404ee0067e5f36d9ea5734c193ee" title=" " alt="" coords="515,419,761,445"/>
+<area shape="rect" id="node35" href="$d6/dbf/classBgpXmppChannel.html#a239ec035072afc07f3975ae8cbf0a27d" title=" " alt="" coords="517,587,759,613"/>
+<area shape="rect" id="node36" href="$d6/dbf/classBgpXmppChannel.html#ac12be832a31c263b919e3aa419172d58" title=" " alt="" coords="511,638,765,679"/>
+<area shape="rect" id="node37" href="$d6/dbf/classBgpXmppChannel.html#acc8fdce5336971bc3785e7429f5c8bfe" title=" " alt="" coords="839,1142,1043,1183"/>
+<area shape="rect" id="node22" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title=" " alt="" coords="856,704,1025,731"/>
+<area shape="rect" id="node23" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="859,653,1022,680"/>
+<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="875,325,1006,352"/>
+<area shape="rect" id="node26" href="$db/d26/classBgpServer.html#a5452a99665e1301ec4842f7bf3ab895d" title=" " alt="" coords="856,56,1025,83"/>
+<area shape="rect" id="node27" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="860,376,1021,403"/>
+<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title=" " alt="" coords="857,5,1024,32"/>
+<area shape="rect" id="node29" href="$d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5" title=" " alt="" coords="857,275,1024,301"/>
+<area shape="rect" id="node30" href="$d3/d22/classIp4Prefix.html#adb29b5d8491f40b6b3eca745d71e9a38" title=" " alt="" coords="868,224,1013,251"/>
+<area shape="rect" id="node31" href="$d6/da8/classInet6Prefix.html#a111df5ce5ac8f0ad28601c30ea22e790" title=" " alt="" coords="863,107,1019,133"/>
+<area shape="rect" id="node38" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="1116,1208,1219,1235"/>
+<area shape="rect" id="node41" href="$d6/dbf/classBgpXmppChannel.html#ad6434c62cb57ed89901420f02c342f38" title=" " alt="" coords="542,1361,734,1402"/>
+<area shape="rect" id="node43" href="$d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2" title=" " alt="" coords="884,1423,997,1449"/>
+<area shape="rect" id="node44" href="$d6/dbf/classBgpXmppChannel.html#ac36d00d35b26b0f9ce23f57973fb3bfe" title=" " alt="" coords="542,1142,734,1183"/>
+<area shape="rect" id="node45" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title=" " alt="" coords="592,1427,684,1453"/>
+<area shape="rect" id="node42" href="$d6/dbf/classBgpXmppChannel.html#a8c507c45dbde6b72fd2a4941fc450391" title=" " alt="" coords="848,1536,1033,1563"/>
+<area shape="rect" id="node47" href="$d6/dbf/classBgpXmppChannel.html#a989ce06f7163ee9e197805317fb6d9b8" title=" " alt="" coords="542,1529,734,1570"/>
+<area shape="rect" id="node48" href="$dd/d43/classXmppServer.html#afa4a3875bb28abccb4ff1fd668e4a6ec" title=" " alt="" coords="813,1597,1068,1624"/>
+<area shape="rect" id="node49" href="$dd/dfb/classBgpXmppChannelManager.html#a94d017ed4e5da383249b0c87e3080e35" title=" " alt="" coords="852,1670,1029,1711"/>
 </map>

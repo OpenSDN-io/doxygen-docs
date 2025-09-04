@@ -1,5 +1,6 @@
 <map id="MulticastHandler::CreateMulticastGroupObject" name="MulticastHandler::CreateMulticastGroupObject">
-<area shape="rect" id="node2" href="$db/db1/classMulticastGroupObject.html#a148072bd2110bcee916e9233cd8e91d5" title="MulticastGroupObject\l::set_vxlan_id" alt="" coords="237,5,400,46"/>
-<area shape="rect" id="node4" href="$db/db1/classMulticastGroupObject.html#aeac9f28808b467e13eaa00ecee4ca869" title="MulticastGroupObject\l::GetGroupAddress" alt="" coords="237,70,400,111"/>
-<area shape="rect" id="node3" href="$db/db1/classMulticastGroupObject.html#afc0c7078fb65b02e10d22688b8e79d7d" title="MulticastGroupObject\l::vxlan_id" alt="" coords="448,5,611,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$db/db1/classMulticastGroupObject.html#aeac9f28808b467e13eaa00ecee4ca869" title=" " alt="" coords="220,5,368,47"/>
+<area shape="rect" id="node3" href="$db/db1/classMulticastGroupObject.html#a148072bd2110bcee916e9233cd8e91d5" title=" " alt="" coords="220,71,368,112"/>
+<area shape="rect" id="node4" href="$db/db1/classMulticastGroupObject.html#acf3f699dd9223653849f4c779d327de7" title=" " alt="" coords="416,71,564,112"/>
 </map>

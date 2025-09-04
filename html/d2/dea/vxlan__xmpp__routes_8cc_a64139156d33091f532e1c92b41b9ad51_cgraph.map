@@ -1,7 +1,8 @@
 <map id="LocalVmExportInterface" name="LocalVmExportInterface">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="276,5,401,32"/>
-<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="283,56,395,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="233,107,445,133"/>
-<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="264,157,413,184"/>
-<area shape="rect" id="node6" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="269,208,409,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,169,133"/>
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="248,5,379,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="261,56,366,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a5aeeb6e212995e58522b3659a466bb23" title=" " alt="" coords="217,107,409,133"/>
+<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="245,157,382,184"/>
+<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="255,208,371,235"/>
 </map>

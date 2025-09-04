@@ -1,5 +1,7 @@
 <map id="ConfigCassandraClient::EnqueueDBSyncRequest" name="ConfigCassandraClient::EnqueueDBSyncRequest">
-<area shape="rect" id="node2" href="$df/d8f/classConfigCassandraClient.html#aa23802987928aa90182e3f44b3ffd558" title="ConfigCassandraClient\l::EnqueueUUIDRequest" alt="" coords="243,38,415,79"/>
-<area shape="rect" id="node3" href="$df/d8f/classConfigCassandraClient.html#a105678030d3d55b53d6ab79fb5d90aed" title="ConfigCassandraClient\l::GetPartition" alt="" coords="473,5,642,46"/>
-<area shape="rect" id="node4" href="$d3/d49/classConfigCassandraPartition.html#ab53412d2c1e15ee955489f884ac993b2" title="ConfigCassandraPartition\l::Enqueue" alt="" coords="465,70,650,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node2" href="$df/d8f/classConfigCassandraClient.html#aa23802987928aa90182e3f44b3ffd558" title=" " alt="" coords="232,71,395,112"/>
+<area shape="rect" id="node3" href="$d3/d49/classConfigCassandraPartition.html#ab53412d2c1e15ee955489f884ac993b2" title=" " alt="" coords="443,5,613,47"/>
+<area shape="rect" id="node4" href="$df/d8f/classConfigCassandraClient.html#a105678030d3d55b53d6ab79fb5d90aed" title=" " alt="" coords="450,71,606,112"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#a3b7d699194e475772875a664f3e2218d" title=" " alt="" coords="445,137,611,163"/>
 </map>

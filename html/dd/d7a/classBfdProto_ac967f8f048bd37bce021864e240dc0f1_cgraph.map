@@ -1,8 +1,9 @@
 <map id="BfdProto::HandleReceiveSafe" name="BfdProto::HandleReceiveSafe">
-<area shape="rect" id="node2" href="$dd/d7a/classBfdProto.html#aa34315a4da547f61a1e8be96e88992f2" title="BfdProto::bfd_communicator" alt="" coords="280,5,488,32"/>
-<area shape="rect" id="node3" href="$db/d0c/classBFD_1_1Connection.html#a0819c183810df0098289cecd279a4b86" title="BFD::Connection::HandleReceive" alt="" coords="267,56,501,83"/>
-<area shape="rect" id="node7" href="$dd/d7a/classBfdProto.html#a86218a3eb4de900935d6f3e8ce6fbae3" title="BfdProto::IncrementReceived" alt="" coords="279,107,489,133"/>
-<area shape="rect" id="node4" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="549,27,752,53"/>
-<area shape="rect" id="node5" href="$d7/d90/classBFD_1_1Server.html#afa4b8ad835418f32fe123ac0bd2a0193" title="BFD::Server::ProcessControl\lPacket" alt="" coords="549,78,752,119"/>
-<area shape="rect" id="node6" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="801,85,999,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,200,83"/>
+<area shape="rect" id="node2" href="$dd/d7a/classBfdProto.html#aa34315a4da547f61a1e8be96e88992f2" title=" " alt="" coords="263,5,451,32"/>
+<area shape="rect" id="node3" href="$db/d0c/classBFD_1_1Connection.html#a0819c183810df0098289cecd279a4b86" title=" " alt="" coords="248,56,467,83"/>
+<area shape="rect" id="node7" href="$dd/d7a/classBfdProto.html#a86218a3eb4de900935d6f3e8ce6fbae3" title=" " alt="" coords="261,107,453,133"/>
+<area shape="rect" id="node4" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title=" " alt="" coords="516,27,707,53"/>
+<area shape="rect" id="node5" href="$d7/d90/classBFD_1_1Server.html#afa4b8ad835418f32fe123ac0bd2a0193" title=" " alt="" coords="515,78,708,119"/>
+<area shape="rect" id="node6" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title=" " alt="" coords="756,85,943,112"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="TaskScheduler::IsTaskGroupEmpty" name="TaskScheduler::IsTaskGroupEmpty">
+<area shape="rect" id="node1" title="Check if there are any Tasks in the given TaskGroup. Assumes that all task ids are mutually exclusive..." alt="" coords="5,49,196,90"/>
+<area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="Returns true, if the waiq_ of all the tasks in the group are empty." alt="" coords="245,31,423,57"/>
+<area shape="rect" id="node5" href="$d1/d72/classTaskGroup.html#a46aca603e2cf99395636013c824cfd94" title=" " alt="" coords="244,81,424,108"/>
+<area shape="rect" id="node3" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="472,5,623,32"/>
+<area shape="rect" id="node4" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="472,56,623,83"/>
+</map>

@@ -1,13 +1,14 @@
 <map id="DhcpHandler::ReleaseGatewayInterfaceLease" name="DhcpHandler::ReleaseGatewayInterfaceLease">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="300,5,452,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae45040fa59c05a496eb4a49a1d5674f9" title="Agent::GetDhcpProto" alt="" coords="297,56,455,83"/>
-<area shape="rect" id="node4" href="$d8/d04/classDhcpProto.html#abeb7fd0ac1d515648271b643c961bbf9" title="DhcpProto::GetLeaseDb" alt="" coords="288,107,464,133"/>
-<area shape="rect" id="node5" href="$d9/d2d/classDhcpLeaseDb.html#a50b84809b9e6981165a99c6c602742f6" title="DhcpLeaseDb::Release" alt="" coords="291,157,461,184"/>
-<area shape="rect" id="node11" href="$d8/d04/classDhcpProto.html#adf442324d980cc71dd9c37d671c7e90a" title="DhcpProto::IncrStatsErrors" alt="" coords="280,208,472,235"/>
-<area shape="rect" id="node12" href="$df/da5/classProtoHandler.html#ab821539af1738830be473756f6927716" title="ProtoHandler::GetInterface\lIndex" alt="" coords="278,259,474,301"/>
-<area shape="rect" id="node8" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="1059,237,1219,264"/>
-<area shape="rect" id="node6" href="$d9/d2d/classDhcpLeaseDb.html#a90dff9097fb220461615c33bbee20d08" title="DhcpLeaseDb::UpdateLease" alt="" coords="523,157,727,184"/>
-<area shape="rect" id="node9" href="$d9/d2d/classDhcpLeaseDb.html#a92fcdf8db35c9054ac88eddb95da455a" title="DhcpLeaseDb::PersistLease\lRecord" alt="" coords="525,219,726,261"/>
-<area shape="rect" id="node7" href="$d9/d2d/classDhcpLeaseDb.html#a849ecea08e5534beb3a2e0481d373097" title="DhcpLeaseDb::AddressToIndex" alt="" coords="783,136,1004,163"/>
-<area shape="rect" id="node10" href="$d9/d2d/classDhcpLeaseDb.html#ae1ff3140c5eee9d7a2f5c345e872c47f" title="DhcpLeaseDb::WriteLeaseRecord" alt="" coords="776,237,1011,264"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,166,209,207"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="279,5,417,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a937af7f96dcbf59e9f15773fdd847e3b" title=" " alt="" coords="275,56,421,83"/>
+<area shape="rect" id="node4" href="$df/da5/classProtoHandler.html#afcfb4859972a3febd05f08683edee988" title=" " alt="" coords="259,107,437,149"/>
+<area shape="rect" id="node5" href="$d8/d04/classDhcpProto.html#abeb7fd0ac1d515648271b643c961bbf9" title=" " alt="" coords="265,173,431,200"/>
+<area shape="rect" id="node6" href="$d8/d04/classDhcpProto.html#adf442324d980cc71dd9c37d671c7e90a" title=" " alt="" coords="257,224,439,251"/>
+<area shape="rect" id="node7" href="$d9/d2d/classDhcpLeaseDb.html#a50b84809b9e6981165a99c6c602742f6" title=" " alt="" coords="268,275,428,301"/>
+<area shape="rect" id="node10" href="$d3/df5/classMacAddress.html#a13cee0d772aea4317ceaf2d8038b495a" title=" " alt="" coords="992,235,1143,261"/>
+<area shape="rect" id="node8" href="$d9/d2d/classDhcpLeaseDb.html#a92fcdf8db35c9054ac88eddb95da455a" title=" " alt="" coords="487,187,677,229"/>
+<area shape="rect" id="node11" href="$d9/d2d/classDhcpLeaseDb.html#a90dff9097fb220461615c33bbee20d08" title=" " alt="" coords="487,275,677,301"/>
+<area shape="rect" id="node9" href="$d9/d2d/classDhcpLeaseDb.html#ae1ff3140c5eee9d7a2f5c345e872c47f" title=" " alt="" coords="725,184,944,211"/>
+<area shape="rect" id="node12" href="$d9/d2d/classDhcpLeaseDb.html#a4f38f9cef2c4c8664a878bbdd14dd2fe" title=" " alt="" coords="731,285,938,312"/>
 </map>

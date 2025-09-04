@@ -1,11 +1,13 @@
 <map id="ShowXmppNeighborMatch" name="ShowXmppNeighborMatch">
-<area shape="rect" id="node2" href="$d2/dfa/namespacecontrail.html#a27412c58b1c934c21cbac2595cc044b0" title="contrail::regex_search" alt="" coords="265,5,431,32"/>
-<area shape="rect" id="node3" href="$d6/dbf/classBgpXmppChannel.html#a84a44a98b81b258596ac585a2632efab" title="BgpXmppChannel::ToString" alt="" coords="249,56,447,83"/>
-<area shape="rect" id="node5" href="$d6/dbf/classBgpXmppChannel.html#ac93ff67de89291abc7b032306bfd556e" title="BgpXmppChannel::remote\l_endpoint" alt="" coords="251,107,445,149"/>
-<area shape="rect" id="node10" href="$d6/dbf/classBgpXmppChannel.html#acdd61885ed878059d2af813263fdda26" title="BgpXmppChannel::peer\l_deleted" alt="" coords="261,173,435,214"/>
-<area shape="rect" id="node4" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="519,56,692,83"/>
-<area shape="rect" id="node6" href="$d6/dbf/classBgpXmppChannel.html#adcd904eb954551db7adac55da7edc9b2" title="BgpXmppChannel::GetSession" alt="" coords="496,111,715,137"/>
-<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="531,162,679,203"/>
-<area shape="rect" id="node7" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="763,85,955,112"/>
-<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="763,136,954,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,183,127"/>
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#adb0a73cb2e56077245aede1827bd43d7" title=" " alt="" coords="242,5,402,47"/>
+<area shape="rect" id="node3" href="$d2/dfa/namespacecontrail.html#a27412c58b1c934c21cbac2595cc044b0" title=" " alt="" coords="247,71,397,98"/>
+<area shape="rect" id="node5" href="$d6/dbf/classBgpXmppChannel.html#a98e251c13f8572013b370dc665d83a7e" title=" " alt="" coords="235,123,409,164"/>
+<area shape="rect" id="node10" href="$d6/dbf/classBgpXmppChannel.html#a8062952f9b564c3c8f33a0e3fd6cdcbd" title=" " alt="" coords="231,189,413,215"/>
+<area shape="rect" id="node4" href="$d2/dfa/namespacecontrail.html#a024f3bba6121ebf082108f29fa5a209a" title=" " alt="" coords="487,46,638,73"/>
+<area shape="rect" id="node6" href="$d6/dbf/classBgpXmppChannel.html#a49fed705bde53c2be0b11befa3481eb8" title=" " alt="" coords="461,97,664,123"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#aad9581939723edb82291a3ef635f4ae7" title=" " alt="" coords="493,148,632,189"/>
+<area shape="rect" id="node7" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title=" " alt="" coords="712,71,887,98"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#a179ccbb9248fb76dde8e561d3bebd3a5" title=" " alt="" coords="712,122,887,149"/>
+<area shape="rect" id="node11" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title=" " alt="" coords="483,214,643,241"/>
 </map>

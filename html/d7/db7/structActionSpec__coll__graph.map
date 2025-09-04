@@ -1,7 +1,10 @@
 <map id="ActionSpec" name="ActionSpec">
-<area shape="rect" id="node2" href="$da/d55/structVrfTranslateActionSpec.html" title="VrfTranslateActionSpec" alt="" coords="5,246,176,273"/>
-<area shape="rect" id="node4" href="$d3/de8/structMirrorActionSpec.html" title="MirrorActionSpec" alt="" coords="386,246,517,273"/>
-<area shape="rect" id="node8" href="$dd/dec/structQosConfigActionSpec.html" title="QosConfigActionSpec" alt="" coords="201,246,361,273"/>
-<area shape="rect" id="node5" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="405,14,504,41"/>
-<area shape="rect" id="node7" href="$dc/d4e/structStaticMirrorNhData.html" title="StaticMirrorNhData" alt="" coords="495,113,641,139"/>
+<area shape="rect" id="node1" title=" " alt="" coords="219,335,308,361"/>
+<area shape="rect" id="node2" href="$da/d55/structVrfTranslateActionSpec.html" title=" " alt="" coords="5,245,164,272"/>
+<area shape="rect" id="node3" title=" " alt="" coords="163,112,217,139"/>
+<area shape="rect" id="node4" href="$d3/de8/structMirrorActionSpec.html" title=" " alt="" coords="363,245,486,272"/>
+<area shape="rect" id="node8" href="$dd/dec/structQosConfigActionSpec.html" title=" " alt="" coords="188,245,339,272"/>
+<area shape="rect" id="node5" href="$d3/df5/classMacAddress.html" title=" " alt="" coords="343,14,437,41"/>
+<area shape="rect" id="node7" href="$dc/d4e/structStaticMirrorNhData.html" title=" " alt="" coords="430,112,563,139"/>
+<area shape="rect" id="node6" title=" " alt="" coords="588,14,656,41"/>
 </map>

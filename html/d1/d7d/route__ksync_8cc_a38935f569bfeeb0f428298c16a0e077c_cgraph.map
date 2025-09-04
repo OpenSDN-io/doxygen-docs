@@ -1,6 +1,7 @@
 <map id="IsGatewayOrServiceInterface" name="IsGatewayOrServiceInterface">
-<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="303,5,443,32"/>
-<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="315,56,432,83"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ac4d915ab5709f60784bd37768686bfcb" title="VmInterface::HasServiceVlan" alt="" coords="267,107,479,133"/>
-<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#aa122fc0b801f89fc30ac885e18ca38d9" title="VmInterface::device_type" alt="" coords="279,157,468,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#aa53276e885cf57c3feff49329d5c838c" title=" " alt="" coords="261,5,433,32"/>
+<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="281,56,412,83"/>
+<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ae1a6bf9a880a5f383b009dd5dab8cadc" title=" " alt="" coords="248,107,445,133"/>
+<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#af0605da7d9b1f9af45c6d428342a6313" title=" " alt="" coords="293,157,400,184"/>
 </map>

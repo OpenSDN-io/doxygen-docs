@@ -1,7 +1,10 @@
 <map id="VrfTable::DeleteVrfReq" name="VrfTable::DeleteVrfReq">
-<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="230,5,389,32"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="224,56,395,83"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="443,5,669,32"/>
-<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="493,56,619,83"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="468,107,644,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,161,108"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="217,31,363,57"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="209,81,371,108"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="219,132,361,159"/>
+<area shape="rect" id="node4" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="425,5,623,32"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="465,56,583,83"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="419,107,629,133"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="441,157,607,184"/>
 </map>

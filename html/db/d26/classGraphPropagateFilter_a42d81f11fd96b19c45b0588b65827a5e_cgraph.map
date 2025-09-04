@@ -1,9 +1,0 @@
-<map id="GraphPropagateFilter::NodeStateLookup" name="GraphPropagateFilter::NodeStateLookup">
-<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="257,13,391,40"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="238,64,410,91"/>
-<area shape="rect" id="node6" href="$d3/d31/classIFMapExporter.html#a2f994de9938cac4f4b3736ae867e32c6" title="IFMapExporter::TableListenerId" alt="" coords="213,123,435,149"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="483,5,709,32"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="501,57,691,98"/>
-<area shape="rect" id="node7" href="$d3/d31/classIFMapExporter.html#a566a83c5da12a9cfdd760d722dfb394b" title="IFMapExporter::Find" alt="" coords="521,123,671,149"/>
-<area shape="rect" id="node8" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a16f2879199fe51d54ec1d774f72a158f" title="IFMapExporter::TableInfo::id" alt="" coords="495,173,697,200"/>
-</map>

@@ -1,8 +1,9 @@
 <map id="authpb::Permission::New" name="authpb::Permission::New">
-<area shape="rect" id="node2" href="$db/d4b/classauthpb_1_1Permission.html#ad667a24f6f43c0427a6fde1f71c8d192" title="authpb::Permission\l::Permission" alt="" coords="237,70,384,111"/>
-<area shape="rect" id="node3" href="$db/d4b/classauthpb_1_1Permission.html#af7badf31915956e44deecc2f69ad90e6" title="authpb::Permission\l::internal_default_instance" alt="" coords="432,5,627,46"/>
-<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title="protobuf_auth_2eproto\l::InitDefaultsPermission" alt="" coords="440,70,619,111"/>
-<area shape="rect" id="node7" href="$db/d4b/classauthpb_1_1Permission.html#ad9fb1c336a0f067771c5d5d88fc8cb53" title="authpb::Permission\l::SharedCtor" alt="" coords="456,135,603,177"/>
-<area shape="rect" id="node5" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title="protobuf_auth_2eproto\l::InitDefaultsPermissionImpl" alt="" coords="675,70,882,111"/>
-<area shape="rect" id="node6" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title="authpb::Permission\l::InitAsDefaultInstance" alt="" coords="931,70,1101,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,173,105"/>
+<area shape="rect" id="node2" href="$db/d4b/classauthpb_1_1Permission.html#ad667a24f6f43c0427a6fde1f71c8d192" title=" " alt="" coords="221,71,355,112"/>
+<area shape="rect" id="node3" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title=" " alt="" coords="409,5,571,47"/>
+<area shape="rect" id="node6" href="$db/d4b/classauthpb_1_1Permission.html#af7badf31915956e44deecc2f69ad90e6" title=" " alt="" coords="403,71,577,112"/>
+<area shape="rect" id="node7" href="$db/d4b/classauthpb_1_1Permission.html#ad9fb1c336a0f067771c5d5d88fc8cb53" title=" " alt="" coords="423,136,557,177"/>
+<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title=" " alt="" coords="625,5,812,47"/>
+<area shape="rect" id="node5" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title=" " alt="" coords="860,5,1016,47"/>
 </map>

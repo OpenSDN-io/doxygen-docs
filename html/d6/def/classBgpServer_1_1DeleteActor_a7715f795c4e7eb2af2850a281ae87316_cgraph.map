@@ -1,9 +1,10 @@
 <map id="BgpServer::DeleteActor::Shutdown" name="BgpServer::DeleteActor::Shutdown">
-<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="237,5,384,46"/>
-<area shape="rect" id="node3" href="$d1/df7/classBgpSessionManager.html#a496216c854b43708d8b9198b0ce30d2f" title="BgpSessionManager::\lShutdown" alt="" coords="230,70,391,111"/>
-<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="465,27,623,53"/>
-<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title="WorkQueue::SetExitCallback" alt="" coords="441,77,647,104"/>
-<area shape="rect" id="node7" href="$d1/df7/classBgpSessionManager.html#a4df004b3ea5904e64542fe7a75efe2fe" title="BgpSessionManager::\lWorkQueueExitCallback" alt="" coords="455,129,633,170"/>
-<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="696,27,883,53"/>
-<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a58a221d9f0bdcc9bb00fcb2f4cdbd3aa" title="BgpServer::RetryDelete" alt="" coords="702,136,877,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,165,80"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title=" " alt="" coords="221,5,357,47"/>
+<area shape="rect" id="node3" href="$d1/df7/classBgpSessionManager.html#a496216c854b43708d8b9198b0ce30d2f" title=" " alt="" coords="213,71,364,112"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title=" " alt="" coords="412,27,604,54"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title=" " alt="" coords="435,78,581,105"/>
+<area shape="rect" id="node7" href="$d1/df7/classBgpSessionManager.html#a4df004b3ea5904e64542fe7a75efe2fe" title=" " alt="" coords="426,129,590,171"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title=" " alt="" coords="652,78,827,105"/>
+<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a58a221d9f0bdcc9bb00fcb2f4cdbd3aa" title=" " alt="" coords="659,137,820,163"/>
 </map>

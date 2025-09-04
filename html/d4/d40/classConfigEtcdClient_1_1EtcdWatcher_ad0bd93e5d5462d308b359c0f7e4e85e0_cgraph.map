@@ -1,20 +1,22 @@
 <map id="ConfigEtcdClient::EtcdWatcher::Run" name="ConfigEtcdClient::EtcdWatcher::Run">
-<area shape="rect" id="node2" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#a71b035312714801b2d410a96bf6767c8" title="ConfigEtcdClient::EtcdWatcher\l::ProcessResponse" alt="" coords="304,155,523,197"/>
-<area shape="rect" id="node3" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#ad85f8c2d86bbb7129f1adf7f5142caf5" title="ConfigEtcdClient::EtcdWatcher\l::client" alt="" coords="571,122,789,163"/>
-<area shape="rect" id="node4" href="$d4/db8/classConfigEtcdClient.html#a34b920b50efa81e2610af5a9d16e8487" title="ConfigEtcdClient::Process\lResponse" alt="" coords="587,187,773,229"/>
-<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="875,5,1029,32"/>
-<area shape="rect" id="node6" href="$de/d27/classConfigClientManager.html#a34bea3a5986026496e6cce2493fcac83" title="ConfigClientManager\l::WaitForEndOfConfig" alt="" coords="873,57,1031,98"/>
-<area shape="rect" id="node8" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a8dbd61d4eb946fd673def46a3e683a4f" title="etcd::etcdql::EtcdResponse\l::err_code" alt="" coords="854,122,1050,163"/>
-<area shape="rect" id="node9" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a928a8301d4f3f010c421b305e7b2b79f" title="etcd::etcdql::EtcdResponse\l::action" alt="" coords="854,187,1050,229"/>
-<area shape="rect" id="node10" href="$d4/db8/classConfigEtcdClient.html#a59b1ea216d4cd3e462902f5e85c964b9" title="ConfigEtcdClient::Enqueue\lUUIDRequest" alt="" coords="855,253,1049,294"/>
-<area shape="rect" id="node18" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#aca0abe8fc4d4d48f912d662890f9ef04" title="etcd::etcdql::EtcdResponse::key" alt="" coords="838,319,1066,345"/>
-<area shape="rect" id="node19" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#aad1611a77946e116807f734c565b87de" title="etcd::etcdql::EtcdResponse\l::value" alt="" coords="854,370,1050,411"/>
-<area shape="rect" id="node7" href="$de/d27/classConfigClientManager.html#a68bc8ebe7b2aeaefa2e9dc96f3ed75f1" title="ConfigClientManager\l::is_reinit_triggered" alt="" coords="1144,57,1301,98"/>
-<area shape="rect" id="node11" href="$df/dc8/classConfigDbClient.html#af95a8684d48c13a9f75172b521e53b2a" title="ConfigDbClient::FindFQName" alt="" coords="1118,136,1327,163"/>
-<area shape="rect" id="node13" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title="ConfigDbClient::AddFQName\lCache" alt="" coords="1119,187,1327,229"/>
-<area shape="rect" id="node14" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title="ConfigDbClient::Invalidate\lFQNameCache" alt="" coords="1127,253,1319,294"/>
-<area shape="rect" id="node15" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title="ConfigEtcdClient::GetPartition" alt="" coords="1115,319,1330,345"/>
-<area shape="rect" id="node17" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title="ConfigEtcdPartition\l::Enqueue" alt="" coords="1150,370,1295,411"/>
-<area shape="rect" id="node12" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="1379,136,1610,163"/>
-<area shape="rect" id="node16" href="$d4/db8/classConfigEtcdClient.html#a94fb0ace7a6f2d850b2e6760ee923a44" title="ConfigEtcdClient::HashUUID" alt="" coords="1393,319,1597,345"/>
+<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,229,240,255"/>
+<area shape="rect" id="node2" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#a71b035312714801b2d410a96bf6767c8" title=" " alt="" coords="288,221,491,263"/>
+<area shape="rect" id="node3" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#a6397232a246a3b1a9bd466bf676d8fba" title=" " alt="" coords="539,188,741,229"/>
+<area shape="rect" id="node4" href="$d4/db8/classConfigEtcdClient.html#a34b920b50efa81e2610af5a9d16e8487" title=" " alt="" coords="552,253,728,295"/>
+<area shape="rect" id="node5" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a199f43e849ccdcfd77d106551cebd7dd" title=" " alt="" coords="803,64,986,105"/>
+<area shape="rect" id="node6" href="$d4/db8/classConfigEtcdClient.html#a59b1ea216d4cd3e462902f5e85c964b9" title=" " alt="" coords="805,129,984,171"/>
+<area shape="rect" id="node15" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#ab7f7e83721d738abfd7b76e20624cdfe" title=" " alt="" coords="803,195,986,236"/>
+<area shape="rect" id="node16" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#a5a17d40f4857d502ee2f459b72878cfb" title=" " alt="" coords="789,261,1000,287"/>
+<area shape="rect" id="node17" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title=" " alt="" coords="824,311,965,338"/>
+<area shape="rect" id="node18" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html#aa6c1d722ee48e17b1ac0690fcd246315" title=" " alt="" coords="803,363,986,404"/>
+<area shape="rect" id="node19" href="$de/d27/classConfigClientManager.html#a34bea3a5986026496e6cce2493fcac83" title=" " alt="" coords="819,428,970,469"/>
+<area shape="rect" id="node7" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title=" " alt="" coords="1050,5,1245,47"/>
+<area shape="rect" id="node8" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title=" " alt="" coords="1080,71,1215,112"/>
+<area shape="rect" id="node9" href="$df/dc8/classConfigDbClient.html#a1989d4771ce52e36a691c2733fc26fbc" title=" " alt="" coords="1049,137,1246,163"/>
+<area shape="rect" id="node11" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title=" " alt="" coords="1048,187,1247,214"/>
+<area shape="rect" id="node14" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title=" " alt="" coords="1060,239,1235,280"/>
+<area shape="rect" id="node10" href="$df/dc8/classConfigDbClient.html#a78679d2c631b4fb3201ab412fa18c131" title=" " alt="" coords="1295,137,1513,163"/>
+<area shape="rect" id="node12" href="$d4/db8/classConfigEtcdClient.html#a2a671e55d24d567fe497ebd581579b8d" title=" " alt="" coords="1307,187,1501,214"/>
+<area shape="rect" id="node13" href="$df/dc8/classConfigDbClient.html#a3b7d699194e475772875a664f3e2218d" title=" " alt="" coords="1561,187,1727,214"/>
+<area shape="rect" id="node20" href="$de/d27/classConfigClientManager.html#a68bc8ebe7b2aeaefa2e9dc96f3ed75f1" title=" " alt="" coords="1075,428,1219,469"/>
 </map>

@@ -19,5 +19,5 @@ var etcdserver_8pb_8cc =
     [ "_Request_default_instance_", "d3/d37/etcdserver_8pb_8cc.html#aeed22265a75b791ec8fd8bbfafb365e7", null ],
     [ "file_default_instances", "d3/d37/etcdserver_8pb_8cc.html#ae193f734ee74529e61bd5be289e73782", null ],
     [ "file_level_metadata", "d3/d37/etcdserver_8pb_8cc.html#a21a7b93b08bc49ae106387f77957b108", null ],
-    [ "static_descriptor_initializer", "d3/d37/etcdserver_8pb_8cc.html#a4bef926ec168adf0d18d94e72078fe1f", null ]
+    [ "static_descriptor_initializer", "d3/d37/etcdserver_8pb_8cc.html#a6e3a6b30dc4b4007ecdad21a433c1a6f", null ]
 ];

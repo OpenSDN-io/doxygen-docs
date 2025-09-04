@@ -1,8 +1,0 @@
-<map id="StaticRoute::IsPending" name="StaticRoute::IsPending">
-<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="221,19,384,45"/>
-<area shape="rect" id="node4" href="$d6/dbd/classBgpRoute.html#a9f587c7b9dc8533a317b1bb3e2274f7e" title="BgpRoute::FindPath" alt="" coords="229,95,376,121"/>
-<area shape="rect" id="node3" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="432,5,645,32"/>
-<area shape="rect" id="node5" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="468,56,609,83"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="469,107,609,133"/>
-<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="463,157,614,184"/>
-</map>

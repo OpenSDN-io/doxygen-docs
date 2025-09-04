@@ -1,7 +1,8 @@
 <map id="AsPath" name="AsPath">
-<area shape="rect" id="node2" href="$d6/dbf/structAsPathSpec.html" title="AsPathSpec" alt="" coords="497,13,594,40"/>
-<area shape="rect" id="node3" href="$d9/dc1/classBgpAttribute.html" title="BgpAttribute" alt="" coords="285,5,389,32"/>
-<area shape="rect" id="node4" href="$d3/d38/classParseObject.html" title="ParseObject" alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node5" href="$d6/d39/classAsPathDB.html" title="AsPathDB" alt="" coords="503,65,588,92"/>
-<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; AsPath, AsPathPtr,\l AsPathSpec, AsPathCompare,\l AsPathDB \&gt;" alt="" coords="229,57,445,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="620,43,685,69"/>
+<area shape="rect" id="node2" href="$d6/dbf/structAsPathSpec.html" title=" " alt="" coords="405,12,500,39"/>
+<area shape="rect" id="node3" href="$d9/dc1/classBgpAttribute.html" title=" " alt="" coords="205,5,300,32"/>
+<area shape="rect" id="node4" href="$d3/d38/classParseObject.html" title=" " alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$d6/d39/classAsPathDB.html" title=" " alt="" coords="411,68,495,95"/>
+<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html" title=" " alt="" coords="149,57,356,127"/>
 </map>

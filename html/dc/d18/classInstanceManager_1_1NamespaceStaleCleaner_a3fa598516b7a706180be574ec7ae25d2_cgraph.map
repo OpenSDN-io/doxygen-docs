@@ -1,13 +1,14 @@
 <map id="InstanceManager::NamespaceStaleCleaner::CleanStaleEntries" name="InstanceManager::NamespaceStaleCleaner::CleanStaleEntries">
-<area shape="rect" id="node2" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title="StringToUuid" alt="" coords="332,5,436,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a3af467d5407c28e06e5aa71755b0258c" title="Agent::vm_table" alt="" coords="319,56,449,83"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="311,107,457,133"/>
-<area shape="rect" id="node8" href="$d2/d17/classInstanceManager.html#ac2f4cac16f7f7b9638c5cef3a2970a23" title="InstanceManager::StopStale\lNetNS" alt="" coords="283,194,485,235"/>
-<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="539,99,727,141"/>
-<area shape="rect" id="node6" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="805,107,977,133"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1049,107,1226,133"/>
-<area shape="rect" id="node9" href="$d3/dbc/structServiceInstance_1_1Properties.html#a48050dbc99890f3524204f4c58746845" title="ServiceInstance::Properties\l::ServiceTypeString" alt="" coords="534,165,733,206"/>
-<area shape="rect" id="node11" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="581,231,685,257"/>
-<area shape="rect" id="node12" href="$de/d18/agent__cmn_8h.html#ad57d4dd8346a607bdfb4175e4a2d1378" title="CloseTaskFds" alt="" coords="579,281,688,308"/>
-<area shape="rect" id="node10" href="$d5/dbe/classServiceInstanceTypesMapping.html#afd362185ba59597a84d0e24507cfa68f" title="ServiceInstanceTypesMapping\l::IntServiceTypeToStr" alt="" coords="782,165,999,206"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,216,164"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="288,13,427,39"/>
+<area shape="rect" id="node6" href="$d2/d17/classInstanceManager.html#ac2f4cac16f7f7b9638c5cef3a2970a23" title=" " alt="" coords="264,93,451,135"/>
+<area shape="rect" id="node11" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title=" " alt="" coords="309,159,406,186"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a0f4023e509c4583373b96ec1012ded26" title=" " alt="" coords="299,210,416,237"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="504,5,679,47"/>
+<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="752,13,913,39"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="981,13,1148,39"/>
+<area shape="rect" id="node7" href="$de/d18/agent__cmn_8h.html#ad57d4dd8346a607bdfb4175e4a2d1378" title=" " alt="" coords="538,71,645,98"/>
+<area shape="rect" id="node8" href="$d3/dbc/structServiceInstance_1_1Properties.html#ac076e647da6d8a1dff96712085e54f00" title=" " alt="" coords="499,123,684,164"/>
+<area shape="rect" id="node10" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title=" " alt="" coords="543,189,640,215"/>
+<area shape="rect" id="node9" href="$d5/dbe/classServiceInstanceTypesMapping.html#afd362185ba59597a84d0e24507cfa68f" title=" " alt="" coords="732,123,933,164"/>
 </map>

@@ -1,51 +1,52 @@
 <map id="DnsHandler::HandleRequest" name="DnsHandler::HandleRequest">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="1128,1552,1280,1579"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="1129,945,1279,972"/>
-<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#a28140563b4b370f4e48e8dffd7a4b964" title="DnsProto::IncrStatsReq" alt="" coords="283,160,453,187"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="1121,131,1287,157"/>
-<area shape="rect" id="node6" href="$d2/d73/classInterfaceTable.html#a3460257f9b0fa13a0f7104f38d835aa3" title="InterfaceTable::FindInterface" alt="" coords="265,211,471,237"/>
-<area shape="rect" id="node9" href="$df/da5/classProtoHandler.html#ab821539af1738830be473756f6927716" title="ProtoHandler::GetInterface\lIndex" alt="" coords="1106,323,1302,365"/>
-<area shape="rect" id="node10" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="309,429,427,456"/>
-<area shape="rect" id="node11" href="$d6/df7/classDnsProto.html#a09e590cb16410692c80a392a552735ed" title="DnsProto::IncrStatsDrop" alt="" coords="1115,672,1293,699"/>
-<area shape="rect" id="node12" href="$d5/d21/classVmInterface.html#ad4a9b7d3f1ebef2a90cce80477159b37" title="VmInterface::layer3\l_forwarding" alt="" coords="293,531,443,573"/>
-<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="305,597,431,624"/>
-<area shape="rect" id="node14" href="$d8/d00/classVnEntry.html#aebaf370dbee44ba02dedd99f4c2c4e6d" title="VnEntry::GetIpamData" alt="" coords="285,379,451,405"/>
-<area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="287,699,449,741"/>
-<area shape="rect" id="node19" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="287,765,449,806"/>
-<area shape="rect" id="node20" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="305,831,431,857"/>
-<area shape="rect" id="node21" href="$da/d13/classDnsHandler.html#af483b005b86899c18ed26cca5b81dece" title="DnsHandler::BuildDefault\lDnsResolvers" alt="" coords="836,1981,1023,2022"/>
-<area shape="rect" id="node26" href="$da/d13/classDnsHandler.html#ad7764d1c84189c2e62d115ccc676b72e" title="DnsHandler::GetDomainName" alt="" coords="259,648,477,675"/>
-<area shape="rect" id="node31" href="$da/d13/classDnsHandler.html#af0074b486402605ba81f49ed9472a01b" title="DnsHandler::HandleDefault\lDnsRequest" alt="" coords="268,1157,468,1198"/>
-<area shape="rect" id="node44" href="$da/d13/classDnsHandler.html#a56acc736b0f5fa69164072861c24c236" title="DnsHandler::BuildDnsResolvers" alt="" coords="816,2047,1043,2073"/>
-<area shape="rect" id="node33" href="$d5/d21/classVmInterface.html#aaf5ac68356ca238c6c549e6d370b335a" title="VmInterface::vm_name" alt="" coords="559,1113,734,1140"/>
-<area shape="rect" id="node48" href="$da/d13/classDnsHandler.html#a3360dbb5533a2dfd6a58990b92bcdb9d" title="DnsHandler::HandleVirtual\lDnsRequest" alt="" coords="271,1527,465,1569"/>
-<area shape="rect" id="node37" href="$d8/d1a/classBindUtil.html#a6f9957520a3a70ec1c8e27474a4c1700" title="BindUtil::BuildDnsHeader" alt="" coords="553,1383,740,1409"/>
-<area shape="rect" id="node42" href="$da/d13/classDnsHandler.html#add13f2551f9e1ea5f4cb9ed4e73bd99d" title="DnsHandler::SendDnsResponse" alt="" coords="817,743,1042,769"/>
-<area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="586,160,707,187"/>
-<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="558,211,735,237"/>
-<area shape="rect" id="node15" href="$d8/d00/classVnEntry.html#aa1e3556d0db5c9b74a3335aaac939f60" title="VnEntry::GetIpamName" alt="" coords="559,429,734,456"/>
-<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a1727d2439ac08247f06ec1cb488037b4" title="Agent::domain_config\l_table" alt="" coords="565,313,728,354"/>
-<area shape="rect" id="node17" href="$db/de3/classDomainConfig.html#a12ce7bc519677ba355b106a478a21faf" title="DomainConfig::GetIpam" alt="" coords="557,379,736,405"/>
-<area shape="rect" id="node22" href="$d6/df7/classDnsProto.html#a1282b9e75ae90c5386bb9a982597f87c" title="DnsProto::GetDefaultServerList" alt="" coords="1091,1888,1317,1915"/>
-<area shape="rect" id="node23" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="1101,1989,1307,2016"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1103,2040,1305,2067"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="1111,1939,1297,1965"/>
-<area shape="rect" id="node27" href="$d5/d21/classVmInterface.html#aebdf9b85498356b991d63cf3cbed7a41" title="VmInterface::GetInterface\lDhcpOptions" alt="" coords="551,662,742,703"/>
-<area shape="rect" id="node28" href="$da/d13/classDnsHandler.html#a74a99a727f4036208bbdfd7496b4b546" title="DnsHandler::GetDomainName\lFromDhcp" alt="" coords="537,727,756,769"/>
-<area shape="rect" id="node29" href="$d5/d21/classVmInterface.html#af0a866a2613dcadfc6038326c123209a" title="VmInterface::GetSubnetDhcp\lOptions" alt="" coords="541,531,752,573"/>
-<area shape="rect" id="node30" href="$d5/d21/classVmInterface.html#a39ee8680b376fc62c0134b95da492a46" title="VmInterface::GetIpamDhcp\lOptions" alt="" coords="547,597,746,638"/>
-<area shape="rect" id="node32" href="$d6/df7/classDnsProto.html#ac1aff8575ecb84d19f142f20380668d2" title="DnsProto::IsVmRequestDuplicate" alt="" coords="529,1332,765,1359"/>
-<area shape="rect" id="node34" href="$d6/df7/classDnsProto.html#a698a1fa1f9a931c1d268de026f65319a" title="DnsProto::IncrStatsRetransmitReq" alt="" coords="526,1433,767,1460"/>
-<area shape="rect" id="node35" href="$d6/df7/classDnsProto.html#a8e2af4020a486c1bf2294b7c0a209b0b" title="DnsProto::AddVmRequest" alt="" coords="553,1484,741,1511"/>
-<area shape="rect" id="node36" href="$d8/d1a/classBindUtil.html#af6d3759ebdb555b278c0e2dc026a9481" title="BindUtil::ParseDnsQuery" alt="" coords="556,1535,737,1561"/>
-<area shape="rect" id="node38" href="$da/d13/classDnsHandler.html#afecb59c1520a869b1ece41e358a63484" title="DnsHandler::ResolveAllLink\lLocalRequests" alt="" coords="546,1266,747,1307"/>
-<area shape="rect" id="node39" href="$da/d13/classDnsHandler.html#a08b1eaedffc9bb5866749fdf762a3f2e" title="DnsHandler::DefaultDnsSend\lResponse" alt="" coords="541,946,752,987"/>
-<area shape="rect" id="node40" href="$d6/df7/classDnsProto.html#af16d43599c0e1424b2129552d39d224d" title="DnsProto::DelVmRequest" alt="" coords="837,1047,1022,1073"/>
-<area shape="rect" id="node41" href="$da/d13/classDnsHandler.html#a77a967c801ef5e0a3e53f36d07d40456" title="DnsHandler::DnsItemsToString" alt="" coords="819,1097,1039,1124"/>
-<area shape="rect" id="node43" href="$da/d13/classDnsHandler.html#a8a7a41f3f85da8884b23e1755a886865" title="DnsHandler::SendToDefault\lServer" alt="" coords="829,1199,1029,1241"/>
-<area shape="rect" id="node45" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="1131,2091,1277,2117"/>
-<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#ac2417024a616d3d66e4d2ddabdd84b08" title="Agent::GetDnslist" alt="" coords="1136,2141,1272,2168"/>
-<area shape="rect" id="node47" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="1132,2192,1276,2219"/>
-<area shape="rect" id="node49" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title="BindUtil::RemoveSpecialChars" alt="" coords="537,1889,756,1916"/>
-<area shape="rect" id="node50" href="$da/d13/classDnsHandler.html#a2d7ed9e4c78d7d3995e2e4b02a9b44fb" title="DnsHandler::UpdateQueryNames" alt="" coords="527,1788,766,1815"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1577,193,1604"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="1054,360,1193,387"/>
+<area shape="rect" id="node3" href="$da/d13/classDnsHandler.html#af483b005b86899c18ed26cca5b81dece" title=" " alt="" coords="781,121,952,162"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a0346274c6f2b7f16c5eb0ebe0470277e" title=" " alt="" coords="1053,643,1193,669"/>
+<area shape="rect" id="node9" href="$d8/d1a/classBindUtil.html#a6f9957520a3a70ec1c8e27474a4c1700" title=" " alt="" coords="516,843,687,869"/>
+<area shape="rect" id="node10" href="$da/d13/classDnsHandler.html#a56acc736b0f5fa69164072861c24c236" title=" " alt="" coords="761,187,972,213"/>
+<area shape="rect" id="node14" href="$d2/d73/classInterfaceTable.html#a76a4011aaa7b61e58e813d7f19fc7395" title=" " alt="" coords="246,1653,437,1680"/>
+<area shape="rect" id="node17" href="$da/d13/classDnsHandler.html#a1dae4449fcdd31575efb075b5bc6aa90" title=" " alt="" coords="241,1879,441,1905"/>
+<area shape="rect" id="node21" href="$d5/d21/classVmInterface.html#ae0f4f55a7fa051b7d37511346db8909b" title=" " alt="" coords="793,1806,940,1847"/>
+<area shape="rect" id="node22" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="793,1973,940,2014"/>
+<area shape="rect" id="node23" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="809,2039,925,2065"/>
+<area shape="rect" id="node25" href="$df/da5/classProtoHandler.html#afcfb4859972a3febd05f08683edee988" title=" " alt="" coords="1034,1359,1213,1401"/>
+<area shape="rect" id="node26" href="$d8/d00/classVnEntry.html#aa37dc86663eb7bdf2badabdb152cee52" title=" " alt="" coords="264,2169,419,2196"/>
+<area shape="rect" id="node30" href="$da/d13/classDnsHandler.html#af0074b486402605ba81f49ed9472a01b" title=" " alt="" coords="250,675,433,717"/>
+<area shape="rect" id="node35" href="$da/d13/classDnsHandler.html#add13f2551f9e1ea5f4cb9ed4e73bd99d" title=" " alt="" coords="761,1349,972,1376"/>
+<area shape="rect" id="node36" href="$d6/df7/classDnsProto.html#a09e590cb16410692c80a392a552735ed" title=" " alt="" coords="1040,1461,1207,1488"/>
+<area shape="rect" id="node37" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="1048,1584,1199,1611"/>
+<area shape="rect" id="node44" href="$d5/d21/classVmInterface.html#abcc2f5c7e6fe5ed8717b89df0ceed238" title=" " alt="" coords="522,893,681,920"/>
+<area shape="rect" id="node45" href="$da/d13/classDnsHandler.html#a3360dbb5533a2dfd6a58990b92bcdb9d" title=" " alt="" coords="252,1038,431,1079"/>
+<area shape="rect" id="node47" href="$d6/df7/classDnsProto.html#a28140563b4b370f4e48e8dffd7a4b964" title=" " alt="" coords="261,2220,422,2247"/>
+<area shape="rect" id="node48" href="$d5/d21/classVmInterface.html#a0afd1d4ec51787738edfa64eef5948a6" title=" " alt="" coords="273,2271,409,2313"/>
+<area shape="rect" id="node49" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="284,2337,399,2364"/>
+<area shape="rect" id="node50" href="$d0/dcc/classInterface.html#af0605da7d9b1f9af45c6d428342a6313" title=" " alt="" coords="288,2388,395,2415"/>
+<area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title=" " alt="" coords="1031,157,1216,184"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a1282b9e75ae90c5386bb9a982597f87c" title=" " alt="" coords="1020,5,1227,32"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1030,56,1217,83"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title=" " alt="" coords="1035,107,1211,133"/>
+<area shape="rect" id="node11" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title=" " alt="" coords="1056,208,1191,235"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#ac2417024a616d3d66e4d2ddabdd84b08" title=" " alt="" coords="1060,259,1187,285"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="1056,309,1191,336"/>
+<area shape="rect" id="node15" href="$d6/d34/classIndexVector.html#a9af21c519289e550ee81910ad1dea7e1" title=" " alt="" coords="545,1653,657,1680"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="518,1704,685,1731"/>
+<area shape="rect" id="node18" href="$da/d13/classDnsHandler.html#a4422421e32c579da50948a6e9833cdbf" title=" " alt="" coords="501,1871,701,1913"/>
+<area shape="rect" id="node19" href="$d5/d21/classVmInterface.html#a254ba48ca20c81a58c56e28ccdf54f02" title=" " alt="" coords="514,1937,689,1978"/>
+<area shape="rect" id="node20" href="$d5/d21/classVmInterface.html#aca0dc3c61d2396ca560105811bd40635" title=" " alt="" coords="510,2002,693,2043"/>
+<area shape="rect" id="node24" href="$d5/d21/classVmInterface.html#a6b58b6628aab478b86180c55b3edbaa2" title=" " alt="" coords="504,1806,699,1847"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#a2e9a024c2a3e0abeccdac4d3be03184b" title=" " alt="" coords="527,2221,675,2262"/>
+<area shape="rect" id="node28" href="$db/de3/classDomainConfig.html#a12ce7bc519677ba355b106a478a21faf" title=" " alt="" coords="520,2287,683,2313"/>
+<area shape="rect" id="node29" href="$d8/d00/classVnEntry.html#acc1a333d966e758d08765985c9cc739e" title=" " alt="" coords="520,2169,683,2196"/>
+<area shape="rect" id="node31" href="$d6/df7/classDnsProto.html#a8e2af4020a486c1bf2294b7c0a209b0b" title=" " alt="" coords="513,995,689,1021"/>
+<area shape="rect" id="node32" href="$da/d13/classDnsHandler.html#a08b1eaedffc9bb5866749fdf762a3f2e" title=" " alt="" coords="504,390,699,431"/>
+<area shape="rect" id="node33" href="$d6/df7/classDnsProto.html#af16d43599c0e1424b2129552d39d224d" title=" " alt="" coords="780,491,953,517"/>
+<area shape="rect" id="node34" href="$da/d13/classDnsHandler.html#aa0b00e82d3a2a27a8d658c51619f78cd" title=" " alt="" coords="765,440,969,467"/>
+<area shape="rect" id="node38" href="$d6/df7/classDnsProto.html#a698a1fa1f9a931c1d268de026f65319a" title=" " alt="" coords="489,741,713,768"/>
+<area shape="rect" id="node39" href="$d6/df7/classDnsProto.html#ac1aff8575ecb84d19f142f20380668d2" title=" " alt="" coords="492,792,711,819"/>
+<area shape="rect" id="node40" href="$d8/d1a/classBindUtil.html#af6d3759ebdb555b278c0e2dc026a9481" title=" " alt="" coords="516,944,687,971"/>
+<area shape="rect" id="node41" href="$da/d13/classDnsHandler.html#afecb59c1520a869b1ece41e358a63484" title=" " alt="" coords="509,675,693,717"/>
+<area shape="rect" id="node42" href="$da/d13/classDnsHandler.html#a8a7a41f3f85da8884b23e1755a886865" title=" " alt="" coords="509,507,694,549"/>
+<area shape="rect" id="node43" href="$d6/df7/classDnsProto.html#a4590e50bee0131b14e5dd1cc87448393" title=" " alt="" coords="792,920,941,947"/>
+<area shape="rect" id="node46" href="$d6/df7/classDnsProto.html#a1d30af4f9c1f8138e86aa8dbafa16a43" title=" " alt="" coords="501,1299,701,1325"/>
 </map>

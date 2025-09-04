@@ -19,5 +19,13 @@ var namespacecontrail_1_1sandesh =
     [ "DSSum", "d2/d56/classcontrail_1_1sandesh_1_1DSSum.html", "d2/d56/classcontrail_1_1sandesh_1_1DSSum" ],
     [ "DSAvg", "d7/d27/classcontrail_1_1sandesh_1_1DSAvg.html", "d7/d27/classcontrail_1_1sandesh_1_1DSAvg" ],
     [ "TEnumIterator", "d3/d64/classcontrail_1_1sandesh_1_1TEnumIterator.html", "d3/d64/classcontrail_1_1sandesh_1_1TEnumIterator" ],
-    [ "TOutput", "db/d62/classcontrail_1_1sandesh_1_1TOutput.html", "db/d62/classcontrail_1_1sandesh_1_1TOutput" ]
+    [ "TOutput", "db/d62/classcontrail_1_1sandesh_1_1TOutput.html", "db/d62/classcontrail_1_1sandesh_1_1TOutput" ],
+    [ "DSReturnType", "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7c", [
+      [ "DSR_INVALID", "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7ca8158f0565dab80586a1f2702a5eae276", null ],
+      [ "DSR_SKIP", "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7cab4ae726782657ecf4a24215e4ef4d00f", null ],
+      [ "DSR_OK", "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7caba0de64201262ab544a86eb96e781285", null ]
+    ] ],
+    [ "DerivedStatsAgg", "d0/dff/namespacecontrail_1_1sandesh.html#ae45f462148df52e8bcb31ac37b558a7f", null ],
+    [ "DerivedStatsMerge", "d0/dff/namespacecontrail_1_1sandesh.html#aa351222e1b086e1d49432520127690cb", null ],
+    [ "GlobalOutput", "d0/dff/namespacecontrail_1_1sandesh.html#a57944cd9e15c96e9906acebd8eb30c43", null ]
 ];

@@ -1,35 +1,38 @@
 <map id="xmsm::XmppStreamEstablished::react" name="xmsm::XmppStreamEstablished::react">
-<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="286,345,573,372"/>
-<area shape="rect" id="node3" href="$de/d06/structxmsm_1_1EvStop.html#a609b5b26cc5663ef09134929e900deeb" title="xmsm::EvStop::Name" alt="" coords="348,396,511,423"/>
-<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a17bb1d3d39d5bbfa56a099d451954b1e" title="XmppStateMachine::ResetSession" alt="" coords="308,447,551,473"/>
-<area shape="rect" id="node34" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title="XmppStateMachine::IsActive\lChannel" alt="" coords="325,498,533,539"/>
-<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a23558db06521b840c31bcd2484582ac1" title="XmppConnection::StopKeep\lAliveTimer" alt="" coords="641,301,844,342"/>
-<area shape="rect" id="node24" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title="XmppConnection::ChannelMux" alt="" coords="632,367,853,393"/>
-<area shape="rect" id="node25" href="$d2/dc0/classXmppChannelMux.html#a29703702acf40ca4fa933af6315496d0" title="XmppChannelMux::HandleState\lEvent" alt="" coords="629,469,857,510"/>
-<area shape="rect" id="node27" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title="XmppConnection::server" alt="" coords="933,367,1115,393"/>
-<area shape="rect" id="node30" href="$dd/d43/classXmppServer.html#a95ae202c3be8ef85c166994b3d00274f" title="XmppServer::IsPeerCloseGraceful" alt="" coords="622,568,863,595"/>
-<area shape="rect" id="node33" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="621,619,864,645"/>
-<area shape="rect" id="node6" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="968,308,1080,335"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1185,123,1386,149"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1202,308,1369,335"/>
-<area shape="rect" id="node23" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1224,359,1347,385"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1436,13,1652,40"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1706,6,1897,47"/>
-<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1449,65,1639,106"/>
-<area shape="rect" id="node14" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1483,131,1605,157"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1461,181,1627,208"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1706,174,1897,215"/>
-<area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1465,283,1623,309"/>
-<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1441,333,1647,360"/>
-<area shape="rect" id="node18" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1435,384,1653,411"/>
-<area shape="rect" id="node19" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1437,435,1651,461"/>
-<area shape="rect" id="node20" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1464,485,1624,512"/>
-<area shape="rect" id="node21" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1453,536,1635,563"/>
-<area shape="rect" id="node22" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1455,587,1633,613"/>
-<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1701,72,1901,99"/>
-<area shape="rect" id="node26" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="929,417,1119,444"/>
-<area shape="rect" id="node28" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="915,469,1133,510"/>
-<area shape="rect" id="node29" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title="XmppServer::NotifyConnection\lEvent" alt="" coords="913,534,1135,575"/>
-<area shape="rect" id="node31" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title="XmppServer::deleter" alt="" coords="946,600,1102,627"/>
-<area shape="rect" id="node32" href="$dd/d43/classXmppServer.html#a488f580469fd1593d9e9898a657a8010" title="XmppServer::IsGRHelperMode\lEnabled" alt="" coords="915,651,1133,693"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,370,216,411"/>
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a6eb0cd517da8cab817cdfea8965ab994" title=" " alt="" coords="300,286,491,327"/>
+<area shape="rect" id="node3" href="$de/d06/structxmsm_1_1EvStop.html#a609b5b26cc5663ef09134929e900deeb" title=" " alt="" coords="319,352,471,379"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a17bb1d3d39d5bbfa56a099d451954b1e" title=" " alt="" coords="283,403,508,429"/>
+<area shape="rect" id="node36" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title=" " alt="" coords="264,453,527,480"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title=" " alt="" coords="585,260,787,287"/>
+<area shape="rect" id="node6" href="$d2/dc0/classXmppChannelMux.html#a29703702acf40ca4fa933af6315496d0" title=" " alt="" coords="582,311,790,353"/>
+<area shape="rect" id="node10" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title=" " alt="" coords="863,377,1030,404"/>
+<area shape="rect" id="node11" href="$dd/d43/classXmppServer.html#a139626f98cb36d895533f083e3b4a6f7" title=" " alt="" coords="575,428,797,455"/>
+<area shape="rect" id="node14" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title=" " alt="" coords="575,479,797,505"/>
+<area shape="rect" id="node15" href="$d0/d64/classXmppConnection.html#a23558db06521b840c31bcd2484582ac1" title=" " alt="" coords="593,534,779,575"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#ab833f81b40bc2aabdca8a41749f2f5cd" title=" " alt="" coords="859,195,1034,221"/>
+<area shape="rect" id="node8" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title=" " alt="" coords="847,246,1046,287"/>
+<area shape="rect" id="node9" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title=" " alt="" coords="845,311,1048,353"/>
+<area shape="rect" id="node12" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title=" " alt="" coords="876,428,1017,455"/>
+<area shape="rect" id="node13" href="$dd/d43/classXmppServer.html#ac3ed5c1761452f51cd76c375e1b2340f" title=" " alt="" coords="845,479,1048,521"/>
+<area shape="rect" id="node16" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="895,545,998,572"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1111,335,1267,361"/>
+<area shape="rect" id="node32" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1096,545,1283,572"/>
+<area shape="rect" id="node35" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title=" " alt="" coords="1132,596,1247,623"/>
+<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1348,5,1516,32"/>
+<area shape="rect" id="node19" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1346,56,1518,83"/>
+<area shape="rect" id="node20" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="1333,107,1531,133"/>
+<area shape="rect" id="node21" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="1331,157,1533,184"/>
+<area shape="rect" id="node22" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="1335,208,1529,235"/>
+<area shape="rect" id="node23" href="$d1/d72/classTaskGroup.html#a9603ac4fad9d7c6d6ee28fe89aaa9011" title=" " alt="" coords="1337,259,1527,285"/>
+<area shape="rect" id="node24" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1373,309,1491,336"/>
+<area shape="rect" id="node25" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1354,360,1510,387"/>
+<area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1357,411,1507,437"/>
+<area shape="rect" id="node27" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1355,461,1509,488"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="1342,513,1522,554"/>
+<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="1586,571,1766,613"/>
+<area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="1357,629,1507,656"/>
+<area shape="rect" id="node29" href="$d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="1581,520,1771,547"/>
+<area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1331,680,1533,707"/>
+<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1587,673,1765,714"/>
 </map>

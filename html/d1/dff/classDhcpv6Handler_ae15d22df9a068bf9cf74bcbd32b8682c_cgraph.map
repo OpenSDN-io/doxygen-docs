@@ -1,6 +1,7 @@
 <map id="Dhcpv6Handler::UpdateStats" name="Dhcpv6Handler::UpdateStats">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="304,5,456,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a383ef0471267255bae50907d2fe59a74" title="Agent::dhcpv6_proto" alt="" coords="302,56,458,83"/>
-<area shape="rect" id="node4" href="$d1/df7/classDhcpv6Proto.html#ae5f518bfc0964b40e30448da05441eb1" title="Dhcpv6Proto::IncrStatsAdvertise" alt="" coords="264,107,496,133"/>
-<area shape="rect" id="node5" href="$d1/df7/classDhcpv6Proto.html#ac8211dd7cb06035f1abdeea5b6beec53" title="Dhcpv6Proto::IncrStatsReply" alt="" coords="277,157,483,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,199,108"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="285,5,423,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a96edb70e8b11523062d552d271a41b55" title=" " alt="" coords="283,56,425,83"/>
+<area shape="rect" id="node4" href="$d1/df7/classDhcpv6Proto.html#ae5f518bfc0964b40e30448da05441eb1" title=" " alt="" coords="247,107,461,133"/>
+<area shape="rect" id="node5" href="$d1/df7/classDhcpv6Proto.html#ac8211dd7cb06035f1abdeea5b6beec53" title=" " alt="" coords="258,157,450,184"/>
 </map>

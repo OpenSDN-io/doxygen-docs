@@ -1,11 +1,13 @@
 <map id="RTargetTable::CreateTable" name="RTargetTable::CreateTable">
-<area shape="rect" id="node2" href="$d9/d28/classRTargetTable.html#a36604e66eaf1fa36085c68345be139a5" title="RTargetTable::RTargetTable" alt="" coords="243,16,437,43"/>
-<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#a46babd1782d3a7882e2cf1f5860e0751" title="DBTable::Init" alt="" coords="288,67,392,93"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a81fe2a0217ca6141017066158d37bad4" title="DBTable::PartitionCount" alt="" coords="486,41,661,68"/>
-<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#a7e6305b56f5f8f9cd3e81a2afade21eb" title="DBTable::AllocPartition" alt="" coords="489,92,658,119"/>
-<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="709,41,851,68"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="914,12,1115,39"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="899,63,1130,105"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1179,12,1395,39"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1443,5,1634,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node2" href="$d5/d0a/classDBTable.html#a46babd1782d3a7882e2cf1f5860e0751" title=" " alt="" coords="271,31,370,57"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="249,81,392,108"/>
+<area shape="rect" id="node11" href="$d9/d28/classRTargetTable.html#a36604e66eaf1fa36085c68345be139a5" title=" " alt="" coords="229,132,412,159"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#a7e6305b56f5f8f9cd3e81a2afade21eb" title=" " alt="" coords="463,5,621,32"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a76528bcb4e667d24e32f52b39fa1697e" title=" " alt="" coords="460,56,624,83"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="672,56,805,83"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="865,27,1052,53"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="853,78,1064,119"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1112,27,1315,53"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1363,19,1540,61"/>
 </map>

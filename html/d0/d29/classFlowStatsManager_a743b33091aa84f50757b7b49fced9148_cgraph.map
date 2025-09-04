@@ -1,5 +1,7 @@
 <map id="FlowStatsManager::FlowStatsManager" name="FlowStatsManager::FlowStatsManager">
-<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#af03022fb8a22a406467c293371b2a5cc" title="WorkQueue::set_measure\l_busy_time" alt="" coords="273,5,463,46"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a18c4d54957310b7374e8cb9f8be6cf63" title="Agent::MeasureQueueDelay" alt="" coords="267,71,469,97"/>
-<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#af6524b4e0492b9b1d4e4a211f1de4378" title="AgentParam::measure\l_queue_delay" alt="" coords="518,63,685,105"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,204,90"/>
+<area shape="rect" id="node2" href="$d0/d29/classFlowStatsManager.html#a34e1bab69207d53eedca6aaa40f6d530" title=" " alt="" coords="260,5,431,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a18c4d54957310b7374e8cb9f8be6cf63" title=" " alt="" coords="252,56,439,83"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#a91f2a4679ad7fc4a8f62a13b7d4a72f9" title=" " alt="" coords="258,107,433,149"/>
+<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#ab28bc98fd84499b77c7da49c77d6565e" title=" " alt="" coords="487,49,639,90"/>
 </map>

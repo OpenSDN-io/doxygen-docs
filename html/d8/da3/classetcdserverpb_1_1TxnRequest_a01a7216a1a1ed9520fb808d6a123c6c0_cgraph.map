@@ -1,8 +1,9 @@
 <map id="etcdserverpb::TxnRequest::SerializeWithCachedSizes" name="etcdserverpb::TxnRequest::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#af908e33ecedb9aafa24992945bf28b42" title="etcdserverpb::TxnRequest\l::compare_size" alt="" coords="254,5,445,46"/>
-<area shape="rect" id="node3" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#ad62022fa69717040771271cbf51bf260" title="etcdserverpb::TxnRequest\l::compare" alt="" coords="254,70,445,111"/>
-<area shape="rect" id="node4" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a4af52e2fa2ca8d844e940ae5abdfcba7" title="etcdserverpb::TxnRequest\l::success_size" alt="" coords="254,135,445,177"/>
-<area shape="rect" id="node5" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#af33ec437b243018ecbefc8d2c575a725" title="etcdserverpb::TxnRequest\l::success" alt="" coords="254,201,445,242"/>
-<area shape="rect" id="node6" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a62a11830258a27988989d0b79d53085d" title="etcdserverpb::TxnRequest\l::failure_size" alt="" coords="254,266,445,307"/>
-<area shape="rect" id="node7" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#af9737d568356fe7f8eb058a2abcf6e93" title="etcdserverpb::TxnRequest\l::failure" alt="" coords="254,331,445,373"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,188,211"/>
+<area shape="rect" id="node2" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a3a6798eaa6ca460d8ce9c903f821abf8" title=" " alt="" coords="236,5,412,47"/>
+<area shape="rect" id="node3" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a1791e8e1ab42656aff3382788e491c82" title=" " alt="" coords="236,71,412,112"/>
+<area shape="rect" id="node4" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#afca7130022a9d7bee5b9a12a4a2e235d" title=" " alt="" coords="236,136,412,177"/>
+<area shape="rect" id="node5" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#ad9a1cb446e45a9a80150429b82bbd503" title=" " alt="" coords="236,201,412,243"/>
+<area shape="rect" id="node6" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#aa01a81d1412fa623c76368409558dbcb" title=" " alt="" coords="236,267,412,308"/>
+<area shape="rect" id="node7" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a7434d7ba3b76e47a0c61ba6fb01cda46" title=" " alt="" coords="236,332,412,373"/>
 </map>

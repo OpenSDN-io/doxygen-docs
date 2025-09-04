@@ -2,7 +2,7 @@ var structEndOfRibRxTimer =
 [
     [ "EndOfRibRxTimer", "db/d9e/structEndOfRibRxTimer.html#af6a1a4be7293f53384f3eb54de5c5d6a", null ],
     [ "~EndOfRibRxTimer", "db/d9e/structEndOfRibRxTimer.html#a3acefd3c6584f1bf21165ec0b76327f2", null ],
-    [ "GetTimerInterval", "db/d9e/structEndOfRibRxTimer.html#a042df8c669995b1d20b6f9ca9f1297ce", null ],
+    [ "GetTimerInterval", "db/d9e/structEndOfRibRxTimer.html#a9562b96a5ef23cf00fc450e82c92cca0", null ],
     [ "GresEnabled", "db/d9e/structEndOfRibRxTimer.html#ae86f954f7ada29925c6b74e093109b5d", null ],
     [ "Reset", "db/d9e/structEndOfRibRxTimer.html#ad52c0cf4b4045e19b01146700c37c5ac", null ],
     [ "Start", "db/d9e/structEndOfRibRxTimer.html#a3f40f18d13e5a68bbaa58e292c0eb667", null ],

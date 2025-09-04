@@ -1,8 +1,9 @@
 <map id="IsBgpaasInterfaceNexthop" name="IsBgpaasInterfaceNexthop">
-<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="275,5,415,32"/>
-<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="266,56,425,83"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="265,107,426,149"/>
-<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="265,173,426,214"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="285,239,405,265"/>
-<area shape="rect" id="node7" href="$dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="248,289,443,316"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,184,159"/>
+<area shape="rect" id="node2" href="$dc/dff/classOperDB.html#a7800ed3a15918ecb5a3771b5f579fb09" title=" " alt="" coords="232,5,416,32"/>
+<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="259,56,389,83"/>
+<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#a37da63d17585608aa80044fdfd790c17" title=" " alt="" coords="252,107,396,133"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="269,157,379,184"/>
+<area shape="rect" id="node6" href="$d5/d21/classVmInterface.html#ae0f4f55a7fa051b7d37511346db8909b" title=" " alt="" coords="251,209,397,250"/>
+<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="251,274,397,315"/>
 </map>

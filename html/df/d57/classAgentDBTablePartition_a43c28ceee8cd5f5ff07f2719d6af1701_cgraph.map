@@ -1,12 +1,13 @@
 <map id="AgentDBTablePartition::Add" name="AgentDBTablePartition::Add">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="529,15,703,57"/>
-<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="525,183,707,209"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="253,208,443,235"/>
-<area shape="rect" id="node5" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="267,107,429,133"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="526,81,706,108"/>
-<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="491,132,741,159"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="807,5,977,32"/>
-<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="803,56,981,83"/>
-<area shape="rect" id="node9" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="829,107,955,133"/>
-<area shape="rect" id="node10" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="790,157,994,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,161,192,188"/>
+<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title=" " alt="" coords="249,85,401,112"/>
+<area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="489,132,659,159"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title=" " alt="" coords="492,183,656,225"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="240,237,411,264"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a86b27844ec841ab805bfb63c12141cba" title=" " alt="" coords="459,31,689,57"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="489,81,659,108"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="773,5,892,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="753,56,912,83"/>
+<area shape="rect" id="node7" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="737,107,928,133"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="749,157,916,184"/>
 </map>

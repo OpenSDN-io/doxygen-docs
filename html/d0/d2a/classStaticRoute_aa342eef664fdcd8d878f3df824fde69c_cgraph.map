@@ -1,9 +1,10 @@
 <map id="StaticRoute::NotifyRoute" name="StaticRoute::NotifyRoute">
-<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="244,31,407,57"/>
-<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="235,107,415,133"/>
-<area shape="rect" id="node3" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="464,5,677,32"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="486,56,655,83"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="481,107,660,133"/>
-<area shape="rect" id="node7" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="507,157,634,184"/>
-<area shape="rect" id="node8" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="469,208,673,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,175,108"/>
+<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title=" " alt="" coords="231,31,385,57"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="223,107,393,133"/>
+<area shape="rect" id="node3" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title=" " alt="" coords="441,5,639,32"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="481,56,599,83"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="461,107,619,133"/>
+<area shape="rect" id="node7" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="445,157,635,184"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="457,208,623,235"/>
 </map>

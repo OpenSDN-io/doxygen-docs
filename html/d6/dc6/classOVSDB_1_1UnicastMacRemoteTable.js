@@ -7,7 +7,7 @@ var classOVSDB_1_1UnicastMacRemoteTable =
     [ "DBToKSyncEntry", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a666e0a97922173e94a3ef3d959a58126", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a9292b93473eec9be200b4ecd7cbfb749", null ],
     [ "EmptyTable", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a451103982eeec21581d35c2aa13eef18", null ],
-    [ "logical_switch_name", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a9a6bf72608dd16e5e4e41606b033e352", null ],
+    [ "logical_switch_name", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a431527ec0b68898672367593002ff135", null ],
     [ "ManagedDelete", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a7f710cf8109974c571a70182d83ba530", null ],
     [ "OvsdbDBEntryFilter", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#af5faf3e1d201d7415e13f515504aaa47", null ],
     [ "OvsdbRegisterDBTable", "d6/dc6/classOVSDB_1_1UnicastMacRemoteTable.html#a692e5fad28b5cb534655cb13c02004a0", null ],

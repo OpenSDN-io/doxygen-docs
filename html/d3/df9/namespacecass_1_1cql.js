@@ -4,5 +4,6 @@ var namespacecass_1_1cql =
     [ "interface", "d6/dd0/namespacecass_1_1cql_1_1interface.html", "d6/dd0/namespacecass_1_1cql_1_1interface" ],
     [ "AsyncRowGetCallbackContext", "d2/d47/structcass_1_1cql_1_1AsyncRowGetCallbackContext.html", "d2/d47/structcass_1_1cql_1_1AsyncRowGetCallbackContext" ],
     [ "CqlIf", "df/d32/classcass_1_1cql_1_1CqlIf.html", "df/d32/classcass_1_1cql_1_1CqlIf" ],
-    [ "CqlIfImpl", "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html", "d3/d7b/classcass_1_1cql_1_1CqlIfImpl" ]
+    [ "CqlIfImpl", "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html", "d3/d7b/classcass_1_1cql_1_1CqlIfImpl" ],
+    [ "AsyncRowGetCompletionCallback", "d3/df9/namespacecass_1_1cql.html#a735c4310706381649bba7b47aeeae341", null ]
 ];

@@ -1,8 +1,9 @@
 <map id="InterfaceUveTable::InterfaceAddHandler" name="InterfaceUveTable::InterfaceAddHandler">
-<area shape="rect" id="node2" href="$d6/d1c/classInterfaceUveTable.html#a400614a293145c408c30b211b4c28a56" title="InterfaceUveTable::\lAllocate" alt="" coords="269,5,417,46"/>
-<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="255,71,430,97"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#a6a7fbf63e503ee6c814c230b015da271" title="VmInterface::floating\l_ip_list" alt="" coords="263,122,422,163"/>
-<area shape="rect" id="node5" href="$d3/d0d/structVmInterfaceState.html#a920e8a789c6872421cf5b90e266083ac" title="VmInterfaceState::Installed" alt="" coords="243,188,443,215"/>
-<area shape="rect" id="node6" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4d9bb2a945fce462f76e85e6aee21483" title="InterfaceUveTable::\lUveInterfaceEntry::RemoveFloatingIp" alt="" coords="211,239,475,281"/>
-<area shape="rect" id="node7" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#acbce432dcd7db856d00264be0d11d932" title="InterfaceUveTable::\lUveInterfaceEntry::AddFloatingIp" alt="" coords="225,305,461,346"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,148,200"/>
+<area shape="rect" id="node2" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#acbce432dcd7db856d00264be0d11d932" title=" " alt="" coords="208,5,424,47"/>
+<area shape="rect" id="node3" href="$d6/d1c/classInterfaceUveTable.html#a400614a293145c408c30b211b4c28a56" title=" " alt="" coords="248,71,384,112"/>
+<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="237,137,395,163"/>
+<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#a3306cb6e2390db79bf23b3060b362388" title=" " alt="" coords="244,188,388,229"/>
+<area shape="rect" id="node6" href="$d3/d0d/structVmInterfaceState.html#a8a804c8e5147abbc35fb552d41826640" title=" " alt="" coords="225,254,407,281"/>
+<area shape="rect" id="node7" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#a4d9bb2a945fce462f76e85e6aee21483" title=" " alt="" coords="196,305,436,347"/>
 </map>

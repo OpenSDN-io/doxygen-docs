@@ -1,8 +1,9 @@
 <map id="InstanceManager::UnregisterSvcInstance" name="InstanceManager::UnregisterSvcInstance">
-<area shape="rect" id="node2" href="$d2/d17/classInstanceManager.html#a783cf7b883c5a430aa11b36545748407" title="InstanceManager::GetState" alt="" coords="265,64,463,91"/>
-<area shape="rect" id="node7" href="$d1/d03/classInstanceState.html#a76e45bdd3ea53af4f0e3103053b878e7" title="InstanceState::decr\l_tasks_running" alt="" coords="291,115,437,157"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="515,35,687,61"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#aba50fab5e810df7214a574f8aaf55f55" title="Agent::service_instance\l_table" alt="" coords="513,86,690,127"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="739,5,965,32"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="757,57,947,98"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,196,76"/>
+<area shape="rect" id="node2" href="$d1/d03/classInstanceState.html#a76e45bdd3ea53af4f0e3103053b878e7" title=" " alt="" coords="267,5,403,47"/>
+<area shape="rect" id="node3" href="$d2/d17/classInstanceManager.html#a7df2fe090ba26902451f3948ecfca088" title=" " alt="" coords="244,71,427,98"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="475,42,637,69"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#acafad075dd6b41fd905ec1d1a38a158c" title=" " alt="" coords="475,93,637,135"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="701,5,880,47"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="685,71,896,98"/>
 </map>

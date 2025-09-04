@@ -1,9 +1,11 @@
 <map id="VxlanRoutingManager::IsRoutingVrf" name="VxlanRoutingManager::IsRoutingVrf">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="259,5,379,32"/>
-<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#a010101c0d735082d10e628e2fa414785" title="OperDB::vxlan_routing\l_manager" alt="" coords="234,57,403,98"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="255,123,382,149"/>
-<area shape="rect" id="node5" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="219,173,418,200"/>
-<area shape="rect" id="node6" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="237,225,401,266"/>
-<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="513,207,612,233"/>
-<area shape="rect" id="node8" href="$d8/d00/classVnEntry.html#ab4152cf44cd14fb04128178b280f038f" title="VnEntry::vxlan_routing_vn" alt="" coords="467,257,659,284"/>
+<area shape="rect" id="node1" title="Checks whether the VRF instance with the given name is routing or not." alt="" coords="5,115,156,157"/>
+<area shape="rect" id="node2" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title=" " alt="" coords="204,5,389,32"/>
+<area shape="rect" id="node4" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type." alt="" coords="221,57,372,98"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="241,123,352,149"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="239,173,354,200"/>
+<area shape="rect" id="node9" href="$dc/dff/classOperDB.html#a0fa2143f12e8803c22dbbddc96a4cbbe" title=" " alt="" coords="219,225,374,266"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="453,5,596,32"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="479,60,571,87"/>
+<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#ae9322a004b638d4000b67b884392b0d4" title=" " alt="" coords="437,111,612,137"/>
 </map>

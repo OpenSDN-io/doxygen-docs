@@ -1,8 +1,9 @@
 <map id="BgpServer::ConfigUpdater::ProcessGlobalQosConfig" name="BgpServer::ConfigUpdater::ProcessGlobalQosConfig">
-<area shape="rect" id="node2" href="$d6/dd3/classBgpGlobalQosConfig.html#a990d932190a9307abae30a8819952d62" title="BgpGlobalQosConfig\l::control_dscp" alt="" coords="277,5,432,46"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#a702dbbeec9f748c4fb259013b67f4538" title="BgpServer::global_qos" alt="" coords="271,71,438,97"/>
-<area shape="rect" id="node4" href="$d6/dd3/classBgpGlobalQosConfig.html#a7a6ddaf15fa676dfb5c47e23fb48f022" title="BgpGlobalQosConfig\l::set_control_dscp" alt="" coords="277,122,432,163"/>
-<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#aafca43839eecc64f049dd4491abca80e" title="BgpServer::NotifyDSCPUpdate" alt="" coords="245,188,464,215"/>
-<area shape="rect" id="node6" href="$d6/dd3/classBgpGlobalQosConfig.html#ad5eb19cbfe1b9745c09fac9cc3b84a4e" title="BgpGlobalQosConfig\l::set_analytics_dscp" alt="" coords="277,239,432,281"/>
-<area shape="rect" id="node7" href="$d6/dd3/classBgpGlobalQosConfig.html#a51c41bf53cd98c2f227516d5bea9a4ef" title="BgpGlobalQosConfig\l::analytics_dscp" alt="" coords="277,305,432,346"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,183,196"/>
+<area shape="rect" id="node2" href="$d6/dd3/classBgpGlobalQosConfig.html#a0be3428d4186773d24956762db013327" title=" " alt="" coords="261,5,405,47"/>
+<area shape="rect" id="node3" href="$d6/dd3/classBgpGlobalQosConfig.html#a9983dc4b188351033d44ccb756146312" title=" " alt="" coords="261,71,405,112"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a702dbbeec9f748c4fb259013b67f4538" title=" " alt="" coords="257,137,410,163"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#aafca43839eecc64f049dd4491abca80e" title=" " alt="" coords="231,187,436,214"/>
+<area shape="rect" id="node6" href="$d6/dd3/classBgpGlobalQosConfig.html#ad5eb19cbfe1b9745c09fac9cc3b84a4e" title=" " alt="" coords="261,239,405,280"/>
+<area shape="rect" id="node7" href="$d6/dd3/classBgpGlobalQosConfig.html#a7a6ddaf15fa676dfb5c47e23fb48f022" title=" " alt="" coords="261,304,405,345"/>
 </map>

@@ -9,7 +9,7 @@ var classMirrorCfgTable =
     [ "Add", "dd/d6e/classMirrorCfgTable.html#afbbd2d6fcb8fb1db67d52df09402f31c", null ],
     [ "Delete", "dd/d6e/classMirrorCfgTable.html#aab4c0b01ddfa1cc7bf6027f7dcceb83c", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dd/d6e/classMirrorCfgTable.html#ac44aaabeae1c2ad4c54eaedcd69010e6", null ],
-    [ "GetMirrorUuid", "dd/d6e/classMirrorCfgTable.html#a188baf9f0e8ca0f48eb5c68a5177590f", null ],
+    [ "GetMirrorUuid", "dd/d6e/classMirrorCfgTable.html#a04d900aeb4dcb1b643d1f33318d20a7c", null ],
     [ "Init", "dd/d6e/classMirrorCfgTable.html#a38fb68880fd8550b9cdfb80fa5178938", null ],
     [ "SetMirrorCfgSandeshData", "dd/d6e/classMirrorCfgTable.html#aa8efbb6ab411ae349e8e57142bdfbe23", null ],
     [ "SetMirrorCfgVnSandeshData", "dd/d6e/classMirrorCfgTable.html#a84c111203aac5de05bffeacf56607fa2", null ],

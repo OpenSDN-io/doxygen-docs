@@ -1,10 +1,11 @@
 <map id="SandeshClientSMImpl::CollectorUpdate" name="SandeshClientSMImpl::CollectorUpdate">
-<area shape="rect" id="node2" href="$d0/da4/classSandeshClientSMImpl.html#aedadea345744697ed6a6525ed805ee32" title="SandeshClientSMImpl\l::GetCollector" alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$dd/d68/classSandeshClientSM.html#a3ba706b4a47222442a54cdd19b1ccca9" title="SandeshClientSM::server" alt="" coords="427,71,610,97"/>
-<area shape="rect" id="node4" href="$dd/d68/classSandeshClientSM.html#a20f381bf97376698d8397a0fb2f7b890" title="SandeshClientSM::set\l_server" alt="" coords="216,122,379,163"/>
-<area shape="rect" id="node5" href="$d0/da4/classSandeshClientSMImpl.html#abbaa7b03457913646bee17bd8cfcc78d" title="SandeshClientSMImpl\l::SendUVE" alt="" coords="216,187,379,229"/>
-<area shape="rect" id="node6" href="$d3/de9/classSandeshClientSM_1_1Mgr.html#ae9fed5f626ade69a872695b82c12815c" title="SandeshClientSM::Mgr\l::SendUVE" alt="" coords="435,122,602,163"/>
-<area shape="rect" id="node7" href="$d0/da4/classSandeshClientSMImpl.html#a11d91f64d08d9e0ea8956db018b6dc41" title="SandeshClientSMImpl\l::connects" alt="" coords="437,187,600,229"/>
-<area shape="rect" id="node8" href="$d0/da4/classSandeshClientSMImpl.html#a8796735a03a6488ac9e36d5435b55458" title="SandeshClientSMImpl\l::StateName" alt="" coords="437,253,600,294"/>
-<area shape="rect" id="node9" href="$d0/da4/classSandeshClientSMImpl.html#ae3396ff39b197cdc7dc21890aabaec63" title="SandeshClientSMImpl\l::collector_name" alt="" coords="437,318,600,359"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,157,240"/>
+<area shape="rect" id="node2" href="$d0/da4/classSandeshClientSMImpl.html#a89864573fbd3dc4c01194de890e81928" title=" " alt="" coords="206,104,358,145"/>
+<area shape="rect" id="node3" href="$d0/da4/classSandeshClientSMImpl.html#abbaa7b03457913646bee17bd8cfcc78d" title=" " alt="" coords="206,169,358,211"/>
+<area shape="rect" id="node7" href="$dd/d68/classSandeshClientSM.html#a3ba706b4a47222442a54cdd19b1ccca9" title=" " alt="" coords="407,267,577,294"/>
+<area shape="rect" id="node9" href="$dd/d68/classSandeshClientSM.html#a20f381bf97376698d8397a0fb2f7b890" title=" " alt="" coords="205,287,359,328"/>
+<area shape="rect" id="node4" href="$d0/da4/classSandeshClientSMImpl.html#ae3396ff39b197cdc7dc21890aabaec63" title=" " alt="" coords="416,5,568,47"/>
+<area shape="rect" id="node5" href="$d0/da4/classSandeshClientSMImpl.html#ad6fcc56cbd21367a0c06e3e65a2655ff" title=" " alt="" coords="416,71,568,112"/>
+<area shape="rect" id="node6" href="$d3/de9/classSandeshClientSM_1_1Mgr.html#ae9fed5f626ade69a872695b82c12815c" title=" " alt="" coords="413,136,571,177"/>
+<area shape="rect" id="node8" href="$d0/da4/classSandeshClientSMImpl.html#ae8e1a62fb1a25690536df4db707e7fc1" title=" " alt="" coords="416,201,568,243"/>
 </map>

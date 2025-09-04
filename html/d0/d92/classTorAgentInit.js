@@ -11,7 +11,7 @@ var classTorAgentInit =
     [ "InitModules", "d0/d92/classTorAgentInit.html#a3f57797346a48eb2439940cfd229fafc", null ],
     [ "InstanceId", "d0/d92/classTorAgentInit.html#af90fc6b1291a1f9e287c877f85c9bb9d", null ],
     [ "ModuleType", "d0/d92/classTorAgentInit.html#a26af116cadd32e0e21916c2010697783", null ],
-    [ "ovs_peer_manager", "d0/d92/classTorAgentInit.html#aaa7c4d9cca4801a99ea5f7530cf046b9", null ],
+    [ "ovs_peer_manager", "d0/d92/classTorAgentInit.html#a00605b1d1f1cef41208190f5f79fd37c", null ],
     [ "ovsdb_client", "d0/d92/classTorAgentInit.html#aa670c0b7eea4db0044577ce6d8bf4a41", null ],
     [ "ProcessOptions", "d0/d92/classTorAgentInit.html#a59421e16ec90e4bc1f2bd9215da6d142", null ],
     [ "RegisterDBClients", "d0/d92/classTorAgentInit.html#adbbfb4986c467b1cd18a7399de433242", null ],

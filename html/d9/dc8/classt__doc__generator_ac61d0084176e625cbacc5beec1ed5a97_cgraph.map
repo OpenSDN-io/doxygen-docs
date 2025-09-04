@@ -1,15 +1,16 @@
 <map id="t_doc_generator::print_type" name="t_doc_generator::print_type">
-<area shape="rect" id="node2" href="$d5/d02/classt__type.html#ae0db38ffae4229da52692379372057d6" title="t_type::is_container" alt="" coords="262,5,413,32"/>
-<area shape="rect" id="node3" href="$d5/d02/classt__type.html#a4160d7d2b92fdd884e47b955359b7ba1" title="t_type::is_list" alt="" coords="283,56,392,83"/>
-<area shape="rect" id="node4" href="$d5/d02/classt__type.html#ab02512b247aedc109d6243a907046870" title="t_type::is_set" alt="" coords="283,107,392,133"/>
-<area shape="rect" id="node5" href="$d5/d02/classt__type.html#aaee972dfcad9d7a135c8739d706b5a02" title="t_type::is_map" alt="" coords="278,157,397,184"/>
-<area shape="rect" id="node6" href="$d5/d02/classt__type.html#ad5a78b3b8203735cc1de4a3079476b4d" title="t_type::is_base_type" alt="" coords="259,208,415,235"/>
-<area shape="rect" id="node7" href="$d5/d02/classt__type.html#a6ef68397e3d3033539c59df6e8dc9211" title="t_type::get_program" alt="" coords="260,259,415,285"/>
-<area shape="rect" id="node8" href="$d4/dce/classt__program.html#a5b6e338b1f611845fcbef5b1641261b2" title="t_program::get_name" alt="" coords="256,309,419,336"/>
-<area shape="rect" id="node9" href="$d5/d02/classt__type.html#a6c0f5b6dc899f26ac30204e99da59c97" title="t_type::get_name" alt="" coords="269,360,405,387"/>
-<area shape="rect" id="node10" href="$d5/d02/classt__type.html#a2ecb01db09769aff99ff9781c709a16c" title="t_type::is_typedef" alt="" coords="268,411,407,437"/>
-<area shape="rect" id="node11" href="$d5/d02/classt__type.html#a75a610454031a54876eb01944a2c6387" title="t_type::is_struct" alt="" coords="274,461,401,488"/>
-<area shape="rect" id="node12" href="$d5/d02/classt__type.html#a4fbb4a8c0352e8e36ef8620a539749bd" title="t_type::is_xception" alt="" coords="265,512,410,539"/>
-<area shape="rect" id="node13" href="$d5/d02/classt__type.html#a3f11278982fb2a8aca03e9a6be33bb3d" title="t_type::is_enum" alt="" coords="274,563,401,589"/>
-<area shape="rect" id="node14" href="$d5/d02/classt__type.html#a0a4be92c47b903977cc6bd0a29b58f92" title="t_type::is_service" alt="" coords="269,613,405,640"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,309,185,336"/>
+<area shape="rect" id="node2" href="$d4/dce/classt__program.html#aa86f57fd75f08f595d7511ba0d750062" title=" " alt="" coords="233,5,379,32"/>
+<area shape="rect" id="node3" href="$d5/d02/classt__type.html#a5cea14496c2726054c8e6b17c4582fb3" title=" " alt="" coords="245,56,367,83"/>
+<area shape="rect" id="node4" href="$d5/d02/classt__type.html#a6ef68397e3d3033539c59df6e8dc9211" title=" " alt="" coords="237,107,375,133"/>
+<area shape="rect" id="node5" href="$d5/d02/classt__type.html#a7c55a24b2be9f9dc0b046b3db05d7fcd" title=" " alt="" coords="235,157,377,184"/>
+<area shape="rect" id="node6" href="$d5/d02/classt__type.html#ac5d5466e62a1784cbfa0c5252c0800c9" title=" " alt="" coords="238,208,374,235"/>
+<area shape="rect" id="node7" href="$d5/d02/classt__type.html#a5917e0225d67bb756e579873e17a40bf" title=" " alt="" coords="249,259,363,285"/>
+<area shape="rect" id="node8" href="$d5/d02/classt__type.html#a9bce83fb16ca36cbf310a52ec0971cf1" title=" " alt="" coords="256,309,356,336"/>
+<area shape="rect" id="node9" href="$d5/d02/classt__type.html#adb47de862bd80c3b31c5d7f4638921e1" title=" " alt="" coords="252,360,360,387"/>
+<area shape="rect" id="node10" href="$d5/d02/classt__type.html#a084c515f9f0f4db545e53cb1666c7be3" title=" " alt="" coords="243,411,369,437"/>
+<area shape="rect" id="node11" href="$d5/d02/classt__type.html#a3049c28bc1bbb8c8da14ca2c23c256d6" title=" " alt="" coords="255,461,357,488"/>
+<area shape="rect" id="node12" href="$d5/d02/classt__type.html#a5203f2ab35b0693b5ca6fb7623936bc5" title=" " alt="" coords="248,512,364,539"/>
+<area shape="rect" id="node13" href="$d5/d02/classt__type.html#ac8e514802a38333447cd7c05c156590a" title=" " alt="" coords="243,563,369,589"/>
+<area shape="rect" id="node14" href="$d5/d02/classt__type.html#a4a88cbfa717a2b6990442edb352dbdb8" title=" " alt="" coords="241,613,371,640"/>
 </map>

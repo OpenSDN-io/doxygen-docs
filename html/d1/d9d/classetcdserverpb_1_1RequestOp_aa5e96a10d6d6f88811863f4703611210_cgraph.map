@@ -1,9 +1,10 @@
 <map id="etcdserverpb::RequestOp::MergeFrom" name="etcdserverpb::RequestOp::MergeFrom">
-<area shape="rect" id="node2" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a1e362e3e239896ba581ad375fc1bf1aa" title="etcdserverpb::RequestOp\l::request_case" alt="" coords="263,5,449,46"/>
-<area shape="rect" id="node3" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#ae5698d7102a53c02ae1b58c06a9377f5" title="etcdserverpb::RequestOp\l::mutable_request_range" alt="" coords="263,70,449,111"/>
-<area shape="rect" id="node4" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#ae2187527832c0580c2081b4daaa78c8d" title="etcdserverpb::RequestOp\l::request_range" alt="" coords="263,135,449,177"/>
-<area shape="rect" id="node5" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a1d06220a3496073747523fd4ed55a52a" title="etcdserverpb::RequestOp\l::mutable_request_put" alt="" coords="263,201,449,242"/>
-<area shape="rect" id="node6" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#ad89ae141bb3664e852b70ac1662eef51" title="etcdserverpb::RequestOp\l::request_put" alt="" coords="263,266,449,307"/>
-<area shape="rect" id="node7" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a45a2f2deaecd9324f125543e8a19f174" title="etcdserverpb::RequestOp\l::mutable_request_delete_range" alt="" coords="240,331,472,373"/>
-<area shape="rect" id="node8" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#af929e413a70b50b0fdef13add836c789" title="etcdserverpb::RequestOp\l::request_delete_range" alt="" coords="263,397,449,438"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,176,243"/>
+<area shape="rect" id="node2" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a45a2f2deaecd9324f125543e8a19f174" title=" " alt="" coords="224,5,431,47"/>
+<area shape="rect" id="node3" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a1d06220a3496073747523fd4ed55a52a" title=" " alt="" coords="242,71,413,112"/>
+<area shape="rect" id="node4" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#ae5698d7102a53c02ae1b58c06a9377f5" title=" " alt="" coords="242,136,413,177"/>
+<area shape="rect" id="node5" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a0e6de3cb386aa6200ecd9ba127ae92dd" title=" " alt="" coords="242,201,413,243"/>
+<area shape="rect" id="node6" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#aebd6a390d6ad22d3d9f6603d14c70081" title=" " alt="" coords="242,267,413,308"/>
+<area shape="rect" id="node7" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a4fbc03571c63b02081ed8236d5b75d0f" title=" " alt="" coords="242,332,413,373"/>
+<area shape="rect" id="node8" href="$d1/d9d/classetcdserverpb_1_1RequestOp.html#a68343fd789ad7516740bcad47360cacd" title=" " alt="" coords="242,397,413,439"/>
 </map>

@@ -1,7 +1,6 @@
 <map id="Sandesh::ReceiveBinaryMsgOne" name="Sandesh::ReceiveBinaryMsgOne">
-<area shape="rect" id="node2" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="295,5,451,46"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html#aed76cd9fa4e995c2e28c96800d27773b" title="Sandesh::Read" alt="" coords="315,71,432,97"/>
-<area shape="rect" id="node5" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title="SandeshBuffer::Process" alt="" coords="286,121,461,148"/>
-<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="305,172,441,199"/>
-<area shape="rect" id="node3" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="510,5,666,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,220,69"/>
+<area shape="rect" id="node2" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title=" " alt="" coords="275,5,423,47"/>
+<area shape="rect" id="node4" href="$d6/dbf/classSandeshBuffer.html#a64799c244b5da1d297d1f777a02c5596" title=" " alt="" coords="268,71,431,98"/>
+<area shape="rect" id="node3" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title=" " alt="" coords="479,5,627,47"/>
 </map>

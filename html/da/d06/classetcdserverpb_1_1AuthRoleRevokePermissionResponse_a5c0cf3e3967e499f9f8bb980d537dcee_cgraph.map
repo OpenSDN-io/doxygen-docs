@@ -1,11 +1,12 @@
 <map id="etcdserverpb::AuthRoleRevokePermissionResponse::AuthRoleRevokePermissionResponse" name="etcdserverpb::AuthRoleRevokePermissionResponse::AuthRoleRevokePermissionResponse">
-<area shape="rect" id="node2" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a2875a5a9f3370ce36eaa19b10041e7a0" title="etcdserverpb::AuthRoleRevoke\lPermissionResponse::internal\l_default_instance" alt="" coords="333,5,555,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ac0800799bd4f550b1df32982e53fadd6" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleRevoke\lPermissionResponse" alt="" coords="338,85,550,141"/>
-<area shape="rect" id="node10" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a699aa1d9a17ba0e385897a5993dd8cf2" title="etcdserverpb::AuthRoleRevoke\lPermissionResponse::SharedCtor" alt="" coords="326,166,562,207"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2bd155e8d202e4c4ce8f1e16daa5f32a" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleRevoke\lPermissionResponseImpl" alt="" coords="611,85,823,141"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="890,55,1105,97"/>
-<area shape="rect" id="node8" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#aaa346ff23707e6fd82050a3a555fd0e9" title="etcdserverpb::AuthRoleRevoke\lPermissionResponse::InitAsDefault\lInstance" alt="" coords="873,121,1122,177"/>
-<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1171,55,1415,97"/>
-<area shape="rect" id="node7" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1464,55,1688,97"/>
-<area shape="rect" id="node9" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1181,129,1405,170"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,253,179"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ac0800799bd4f550b1df32982e53fadd6" title=" " alt="" coords="314,43,507,99"/>
+<area shape="rect" id="node9" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a2875a5a9f3370ce36eaa19b10041e7a0" title=" " alt="" coords="309,123,512,179"/>
+<area shape="rect" id="node10" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a699aa1d9a17ba0e385897a5993dd8cf2" title=" " alt="" coords="301,203,520,245"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2bd155e8d202e4c4ce8f1e16daa5f32a" title=" " alt="" coords="568,43,761,99"/>
+<area shape="rect" id="node4" href="$da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#aaa346ff23707e6fd82050a3a555fd0e9" title=" " alt="" coords="809,5,1037,61"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title=" " alt="" coords="825,86,1022,127"/>
+<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="1093,13,1300,54"/>
+<area shape="rect" id="node7" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title=" " alt="" coords="1085,86,1308,127"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title=" " alt="" coords="1356,86,1563,127"/>
 </map>

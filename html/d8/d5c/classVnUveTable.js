@@ -2,8 +2,8 @@ var classVnUveTable =
 [
     [ "VnUveTable", "d8/d5c/classVnUveTable.html#a46138209a809ac0a0344f5656a9ee179", null ],
     [ "~VnUveTable", "d8/d5c/classVnUveTable.html#a6fa557b094d4ecfe5dd38a3ad1db827e", null ],
-    [ "Allocate", "d8/d5c/classVnUveTable.html#a280d24ab35f81e1f74f901d8e8f5ba41", null ],
     [ "Allocate", "d8/d5c/classVnUveTable.html#a98b5c0e967f745c93b1e72bd4fefafe4", null ],
+    [ "Allocate", "d8/d5c/classVnUveTable.html#a280d24ab35f81e1f74f901d8e8f5ba41", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d8/d5c/classVnUveTable.html#a745481f4e40edded48b3e052582d757a", null ],
     [ "IncrVnAceStats", "d8/d5c/classVnUveTable.html#a34cb89ae67046386f6afacc1f8b65e41", null ],
     [ "SendUnresolvedVnMsg", "d8/d5c/classVnUveTable.html#a6f5adaa008a284e5878f10db5956835a", null ],

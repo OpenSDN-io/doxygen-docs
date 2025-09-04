@@ -1,8 +1,9 @@
 <map id="MirrorNH::MirrorNH" name="MirrorNH::MirrorNH">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="200,5,347,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="210,56,337,83"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="200,107,347,133"/>
-<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="395,99,583,141"/>
-<area shape="rect" id="node6" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="633,107,805,133"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="854,107,1031,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,141,90"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="189,13,328,39"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="191,63,326,90"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="201,114,316,141"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="376,5,551,47"/>
+<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="599,13,760,39"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="808,13,975,39"/>
 </map>

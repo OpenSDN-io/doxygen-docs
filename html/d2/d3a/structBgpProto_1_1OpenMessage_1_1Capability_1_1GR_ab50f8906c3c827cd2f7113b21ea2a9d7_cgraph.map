@@ -1,5 +1,6 @@
 <map id="BgpProto::OpenMessage::Capability::GR::GetFamilies" name="BgpProto::OpenMessage::Capability::GR::GetFamilies">
-<area shape="rect" id="node2" href="$d4/dc3/classBgpAf.html#ae2c45f2bc1070881b2c7910c5204daf1" title="BgpAf::AfiSafiToFamily" alt="" coords="267,5,434,32"/>
-<area shape="rect" id="node3" href="$d4/dc3/classBgpAf.html#af6f40be8104520509a4c3b49cc5e65f7" title="BgpAf::ToString" alt="" coords="290,56,411,83"/>
-<area shape="rect" id="node4" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title="Address::FamilyToString" alt="" coords="262,107,439,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,197,90"/>
+<area shape="rect" id="node2" href="$d4/dc3/classBgpAf.html#ae2c45f2bc1070881b2c7910c5204daf1" title=" " alt="" coords="249,5,407,32"/>
+<area shape="rect" id="node3" href="$de/d6b/classAddress.html#ab50a1623edef0ef932ec57e963e74cf8" title=" " alt="" coords="245,56,411,83"/>
+<area shape="rect" id="node4" href="$d4/dc3/classBgpAf.html#af6f40be8104520509a4c3b49cc5e65f7" title=" " alt="" coords="271,107,385,133"/>
 </map>

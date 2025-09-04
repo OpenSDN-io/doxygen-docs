@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthRoleGrantPermissionRequest::MergeFrom" name="etcdserverpb::AuthRoleGrantPermissionRequest::MergeFrom">
-<area shape="rect" id="node2" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a8d161500857a1c4f7f297d4893014f4b" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::name" alt="" coords="301,5,510,46"/>
-<area shape="rect" id="node3" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a3c007dffa4eb4cecc1c02afe18d1e4d6" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::has_perm" alt="" coords="296,70,515,111"/>
-<area shape="rect" id="node5" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a7a309b0583f99063b1bd2abb18a75ae0" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::mutable_perm" alt="" coords="281,135,530,177"/>
-<area shape="rect" id="node6" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#af9299dd9b4699598c729fed55f8097cd" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::perm" alt="" coords="301,201,510,242"/>
-<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="579,70,803,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,213,145"/>
+<area shape="rect" id="node2" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a298067477d1914d15f4582898d3d7782" title=" " alt="" coords="274,5,473,47"/>
+<area shape="rect" id="node4" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a7a309b0583f99063b1bd2abb18a75ae0" title=" " alt="" coords="261,71,485,112"/>
+<area shape="rect" id="node5" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a7e23398fdac6cacc14afb740d9534b4d" title=" " alt="" coords="277,136,469,177"/>
+<area shape="rect" id="node6" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a92c900d12e27b4e700b7a7cda2ddafe2" title=" " alt="" coords="277,201,469,243"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="533,5,740,47"/>
 </map>

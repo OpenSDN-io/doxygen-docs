@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthUserGetResponse::MergePartialFromCodedStream" name="etcdserverpb::AuthUserGetResponse::MergePartialFromCodedStream">
-<area shape="rect" id="node2" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a1cff0c37a98f70f65608c9f7a0601e84" title="etcdserverpb::AuthUserGet\lResponse::mutable_header" alt="" coords="302,5,501,46"/>
-<area shape="rect" id="node3" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a2d77fac2e7262c96db746faf267f7f5b" title="etcdserverpb::AuthUserGet\lResponse::add_roles" alt="" coords="302,70,501,111"/>
-<area shape="rect" id="node4" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a76fc8b75c0c577364f2244288368fbd6" title="etcdserverpb::AuthUserGet\lResponse::roles" alt="" coords="302,135,501,177"/>
-<area shape="rect" id="node5" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#adc4766f59aea21ef4e8b8f936937a94d" title="etcdserverpb::AuthUserGet\lResponse::roles_size" alt="" coords="302,201,501,242"/>
-<area shape="rect" id="node6" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title="failure" alt="" coords="369,267,433,293"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,236,171"/>
+<area shape="rect" id="node2" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a2d77fac2e7262c96db746faf267f7f5b" title=" " alt="" coords="284,5,467,47"/>
+<area shape="rect" id="node3" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title=" " alt="" coords="347,71,404,98"/>
+<area shape="rect" id="node4" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a1cff0c37a98f70f65608c9f7a0601e84" title=" " alt="" coords="284,123,467,164"/>
+<area shape="rect" id="node5" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#afa47da795192ba55b6c88b39d2daa006" title=" " alt="" coords="284,188,467,229"/>
+<area shape="rect" id="node6" href="$d5/df1/classetcdserverpb_1_1AuthUserGetResponse.html#a46bfb59db5cf7dbae1ce8da516cf29c1" title=" " alt="" coords="284,253,467,295"/>
 </map>

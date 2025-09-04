@@ -1,5 +1,6 @@
 <map id="XmppClient::XmppTimeOut" name="XmppClient::XmppTimeOut">
-<area shape="rect" id="node2" href="$db/de5/classXmppClient.html#ab26e1d6f301ba972e0380c4cef9c7038" title="XmppClient::FindConnection" alt="" coords="261,5,467,32"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="277,57,451,98"/>
-<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#a3d750fb20d83be3624c2c4691bb06ad8" title="XmppStateMachine::hold_time" alt="" coords="253,123,475,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node2" href="$db/de5/classXmppClient.html#ab26e1d6f301ba972e0380c4cef9c7038" title=" " alt="" coords="241,5,431,32"/>
+<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#acbf3279e9c664c1d05177c5d1e6d0078" title=" " alt="" coords="236,56,436,83"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title=" " alt="" coords="257,107,415,149"/>
 </map>

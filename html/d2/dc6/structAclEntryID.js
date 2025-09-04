@@ -6,10 +6,10 @@ var structAclEntryID =
     ] ],
     [ "AclEntryID", "d2/dc6/structAclEntryID.html#a1ce5086b70369899e31fe764e12eea01", null ],
     [ "AclEntryID", "d2/dc6/structAclEntryID.html#a1821bad582f058d3f463a305f16a599b", null ],
-    [ "operator!=", "d2/dc6/structAclEntryID.html#a3fcacec40eca13142b2a73debfa9df8c", null ],
-    [ "operator<", "d2/dc6/structAclEntryID.html#adebf6f01875e6cf5a5260e1792bbfcef", null ],
-    [ "operator==", "d2/dc6/structAclEntryID.html#aea0d0a4a20c1f13593ecd74f09966398", null ],
-    [ "operator>", "d2/dc6/structAclEntryID.html#a10778e8efadc0d576c6283c33103d5f4", null ],
+    [ "operator!=", "d2/dc6/structAclEntryID.html#a27a1131f90ad33dc934c841dd0fbefd9", null ],
+    [ "operator<", "d2/dc6/structAclEntryID.html#a997132394cb1e8af79003a7ea3b24eee", null ],
+    [ "operator==", "d2/dc6/structAclEntryID.html#a3067498d2ced37246008ae5be3294915", null ],
+    [ "operator>", "d2/dc6/structAclEntryID.html#a0098617fcb23bcf757c768c13b48704f", null ],
     [ "id_", "d2/dc6/structAclEntryID.html#a9befaa259ce8b8c078f16db87cef11d1", null ],
     [ "type_", "d2/dc6/structAclEntryID.html#a326f1bae1111a63d97800e5c8d7eb96d", null ]
 ];

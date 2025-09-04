@@ -1,10 +1,12 @@
 <map id="ConfigEtcdClient::EnqueueDBSyncRequest" name="ConfigEtcdClient::EnqueueDBSyncRequest">
-<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html#a59b1ea216d4cd3e462902f5e85c964b9" title="ConfigEtcdClient::Enqueue\lUUIDRequest" alt="" coords="249,122,442,163"/>
-<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html#af95a8684d48c13a9f75172b521e53b2a" title="ConfigDbClient::FindFQName" alt="" coords="494,5,703,32"/>
-<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title="ConfigDbClient::AddFQName\lCache" alt="" coords="495,57,703,98"/>
-<area shape="rect" id="node6" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title="ConfigDbClient::Invalidate\lFQNameCache" alt="" coords="503,122,695,163"/>
-<area shape="rect" id="node7" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title="ConfigEtcdClient::GetPartition" alt="" coords="491,188,706,215"/>
-<area shape="rect" id="node9" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title="ConfigEtcdPartition\l::Enqueue" alt="" coords="526,239,671,281"/>
-<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="755,5,986,32"/>
-<area shape="rect" id="node8" href="$d4/db8/classConfigEtcdClient.html#a94fb0ace7a6f2d850b2e6760ee923a44" title="ConfigEtcdClient::HashUUID" alt="" coords="769,188,973,215"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,184,171"/>
+<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html#a59b1ea216d4cd3e462902f5e85c964b9" title=" " alt="" coords="232,129,411,171"/>
+<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html#ada346171fc4cba9683e7b5534b4b39a5" title=" " alt="" coords="461,5,655,47"/>
+<area shape="rect" id="node4" href="$d4/de3/classConfigEtcdPartition.html#ad6463a1dfd41c82d43739241f944ac01" title=" " alt="" coords="491,71,625,112"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#a1989d4771ce52e36a691c2733fc26fbc" title=" " alt="" coords="459,137,657,163"/>
+<area shape="rect" id="node7" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title=" " alt="" coords="459,187,657,214"/>
+<area shape="rect" id="node10" href="$df/dc8/classConfigDbClient.html#ac2c6d9c9636bec6bcab35edf611460f4" title=" " alt="" coords="471,239,645,280"/>
+<area shape="rect" id="node6" href="$df/dc8/classConfigDbClient.html#a78679d2c631b4fb3201ab412fa18c131" title=" " alt="" coords="705,137,924,163"/>
+<area shape="rect" id="node8" href="$d4/db8/classConfigEtcdClient.html#a2a671e55d24d567fe497ebd581579b8d" title=" " alt="" coords="718,187,911,214"/>
+<area shape="rect" id="node9" href="$df/dc8/classConfigDbClient.html#a3b7d699194e475772875a664f3e2218d" title=" " alt="" coords="972,187,1137,214"/>
 </map>

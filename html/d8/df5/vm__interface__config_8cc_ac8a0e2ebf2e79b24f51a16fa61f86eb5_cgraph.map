@@ -1,7 +1,8 @@
 <map id="BuildEcmpHashingIncludeFields" name="BuildEcmpHashingIncludeFields">
-<area shape="rect" id="node2" href="$d7/ddf/classVmiEcmpLoadBalance.html#acdc80670e53a5ec1b308ebeca8d40555" title="VmiEcmpLoadBalance\l::set_use_global_vrouter" alt="" coords="309,5,491,46"/>
-<area shape="rect" id="node4" href="$d1/db0/classEcmpLoadBalance.html#a0298d0dfc45de5ba9ca26603c5392fc7" title="EcmpLoadBalance::UpdateFields" alt="" coords="283,71,517,97"/>
-<area shape="rect" id="node5" href="$d1/db0/classEcmpLoadBalance.html#a66c92d836967009ce64ad311e8e00921" title="EcmpLoadBalance::reset" alt="" coords="309,121,491,148"/>
-<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="317,172,483,199"/>
-<area shape="rect" id="node3" href="$d7/ddf/classVmiEcmpLoadBalance.html#a6b553b44ea28ce568450631c55ddfc6f" title="VmiEcmpLoadBalance\l::use_global_vrouter" alt="" coords="566,5,733,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,216,112"/>
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="293,5,451,32"/>
+<area shape="rect" id="node3" href="$d1/db0/classEcmpLoadBalance.html#a66c92d836967009ce64ad311e8e00921" title=" " alt="" coords="288,56,456,83"/>
+<area shape="rect" id="node4" href="$d7/ddf/classVmiEcmpLoadBalance.html#acdc80670e53a5ec1b308ebeca8d40555" title=" " alt="" coords="290,107,454,149"/>
+<area shape="rect" id="node6" href="$d1/db0/classEcmpLoadBalance.html#a0298d0dfc45de5ba9ca26603c5392fc7" title=" " alt="" coords="264,173,480,200"/>
+<area shape="rect" id="node5" href="$d7/ddf/classVmiEcmpLoadBalance.html#a6a3d6744d5739621a9275d29152c5dd4" title=" " alt="" coords="528,107,683,149"/>
 </map>

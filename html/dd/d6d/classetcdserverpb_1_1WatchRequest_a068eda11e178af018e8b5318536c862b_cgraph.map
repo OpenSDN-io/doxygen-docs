@@ -1,7 +1,8 @@
 <map id="etcdserverpb::WatchRequest::MergeFrom" name="etcdserverpb::WatchRequest::MergeFrom">
-<area shape="rect" id="node2" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#afaf11ce3a8e43187c19592f567289ae3" title="etcdserverpb::WatchRequest\l::request_union_case" alt="" coords="262,5,469,46"/>
-<area shape="rect" id="node3" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#aa35a3dfaaeb67cf1cecc0ac2badddc38" title="etcdserverpb::WatchRequest\l::mutable_create_request" alt="" coords="262,70,469,111"/>
-<area shape="rect" id="node4" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a7b46411e4acdc78bba7cf3f4305745e0" title="etcdserverpb::WatchRequest\l::create_request" alt="" coords="262,135,469,177"/>
-<area shape="rect" id="node5" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a3603cd42dc6661b78158dd75fb02c40d" title="etcdserverpb::WatchRequest\l::mutable_cancel_request" alt="" coords="262,201,469,242"/>
-<area shape="rect" id="node6" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#acd2094e28fd24d28e42e7f3e7b8727f4" title="etcdserverpb::WatchRequest\l::cancel_request" alt="" coords="262,266,469,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,196,177"/>
+<area shape="rect" id="node2" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#abd30e4712d673b06a00722346280f79c" title=" " alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#abfa13834fac75ac4012e5dd91a64f69c" title=" " alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node4" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a3603cd42dc6661b78158dd75fb02c40d" title=" " alt="" coords="244,136,435,177"/>
+<area shape="rect" id="node5" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#aa35a3dfaaeb67cf1cecc0ac2badddc38" title=" " alt="" coords="244,201,435,243"/>
+<area shape="rect" id="node6" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#ac4bf28b53144070daf5c3ce6f45bd401" title=" " alt="" coords="244,267,435,308"/>
 </map>

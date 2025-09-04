@@ -1,12 +1,13 @@
 <map id="Agent::set_agent_init" name="Agent::set_agent_init">
-<area shape="rect" id="node2" href="$d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0" title="bgp_log_test::init" alt="" coords="214,83,349,109"/>
-<area shape="rect" id="node3" href="$d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac" title="LoggingInit" alt="" coords="418,29,513,56"/>
-<area shape="rect" id="node6" href="$d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad" title="bgp_log_test::init\l_common" alt="" coords="398,127,533,169"/>
-<area shape="rect" id="node4" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title="CheckEnvironmentAndUpdate" alt="" coords="582,5,799,32"/>
-<area shape="rect" id="node5" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title="SetLoggingDisabled" alt="" coords="849,44,999,71"/>
-<area shape="rect" id="node7" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title="Sandesh::SetLoggingParams" alt="" coords="588,107,793,133"/>
-<area shape="rect" id="node9" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="597,208,784,235"/>
-<area shape="rect" id="node10" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title="Sandesh::SetLoggingCategory" alt="" coords="583,259,799,285"/>
-<area shape="rect" id="node11" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title="Sandesh::SetLoggingLevel" alt="" coords="595,157,787,184"/>
-<area shape="rect" id="node8" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title="SetLoggingLevel" alt="" coords="859,120,989,147"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,151,209"/>
+<area shape="rect" id="node2" href="$d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0" title=" " alt="" coords="199,183,321,209"/>
+<area shape="rect" id="node3" href="$d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad" title=" " alt="" coords="369,125,492,166"/>
+<area shape="rect" id="node10" href="$d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac" title=" " alt="" coords="388,212,473,239"/>
+<area shape="rect" id="node4" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title=" " alt="" coords="554,56,725,83"/>
+<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title=" " alt="" coords="540,107,739,133"/>
+<area shape="rect" id="node6" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title=" " alt="" coords="787,233,925,260"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title=" " alt="" coords="551,157,727,184"/>
+<area shape="rect" id="node9" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title=" " alt="" coords="544,5,735,32"/>
+<area shape="rect" id="node8" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title=" " alt="" coords="797,81,915,108"/>
+<area shape="rect" id="node11" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title=" " alt="" coords="540,259,739,285"/>
 </map>

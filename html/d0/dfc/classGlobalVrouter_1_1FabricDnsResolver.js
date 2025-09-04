@@ -7,7 +7,7 @@ var classGlobalVrouter_1_1FabricDnsResolver =
     [ "~FabricDnsResolver", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#aee16522723b876a30860f3f5a40a8f85", null ],
     [ "IsAddressInUse", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#a58d518d79d8d60a0b47fd554bff7ef6e", null ],
     [ "OnTimeout", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#a9fcf4b3822b3cc8fab2a753317a6301e", null ],
-    [ "PendingRequests", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#af840bb0501ce9fda297d6d538f0f9536", null ],
+    [ "PendingRequests", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#a24215f81014966894f7a847ab4349a2f", null ],
     [ "Resolve", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#aa0e5726c7aee989771f2abcad5bf4733", null ],
     [ "ResolveHandler", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#a08b7dca6beb4e2155d3c6d44660d49da", null ],
     [ "ResolveList", "d0/dfc/classGlobalVrouter_1_1FabricDnsResolver.html#ac59fd1c4a731e3b895524988a851455d", null ],

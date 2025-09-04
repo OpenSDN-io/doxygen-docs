@@ -1,13 +1,14 @@
 <map id="OVSDB::OvsdbDBEntry::Ack" name="OVSDB::OvsdbDBEntry::Ack">
-<area shape="rect" id="node2" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a2d5869dea0c8e3a6aa696db3167407a4" title="OVSDB::OvsdbDBEntry\l::GetObject" alt="" coords="500,5,671,46"/>
-<area shape="rect" id="node3" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a6d552f498eb825bacbc6113bfcc2231e" title="OVSDB::OvsdbDBEntry\l::PostDelete" alt="" coords="500,331,671,373"/>
-<area shape="rect" id="node4" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a9bc1b8a5c48775a5604ecdf752cfb127" title="OVSDB::OvsdbDBEntry\l::IsDelAckWaiting" alt="" coords="265,379,436,421"/>
-<area shape="rect" id="node6" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a310d8d4806eee5d2b144a43c6fb465f2" title="OVSDB::OvsdbDBEntry\l::IsAddChangeAckWaiting" alt="" coords="257,445,445,486"/>
-<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a34b92021c562cc4a56f1417be0ed4832" title="KSyncEntry::ToString" alt="" coords="273,511,428,537"/>
-<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#aa1c57be840f1f80786dbeacafe5d905d" title="KSyncEntry::GetState" alt="" coords="505,397,665,424"/>
-<area shape="rect" id="node8" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#aaaebaf031bf17c0a0586fd54a475cb39" title="OVSDB::OvsdbDBEntry\l::Delete" alt="" coords="265,201,436,242"/>
-<area shape="rect" id="node9" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a560d1cfb474f2abd22533502cea4c610" title="OVSDB::OvsdbDBEntry\l::IsNoTxnEntry" alt="" coords="500,70,671,111"/>
-<area shape="rect" id="node10" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#af7e3fc2f90cb19700a9ddfd0582a0b1b" title="OVSDB::OvsdbDBEntry\l::DeleteMsg" alt="" coords="500,135,671,177"/>
-<area shape="rect" id="node11" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a9f35b6824c6ba7605caf390fbf004595" title="OVSDB::OvsdbDBEntry\l::UseBulkTxn" alt="" coords="500,201,671,242"/>
-<area shape="rect" id="node12" href="$d5/df4/classOVSDB_1_1OvsdbEntryBase.html#aad7a5c844544dfc90b69d7389e437084" title="OVSDB::OvsdbEntryBase\l::TxnDoneNoMessage" alt="" coords="494,266,677,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,329,200,355"/>
+<area shape="rect" id="node2" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#aaaebaf031bf17c0a0586fd54a475cb39" title=" " alt="" coords="253,201,418,243"/>
+<area shape="rect" id="node4" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a77342f2ec9a8bf51ca4ceb69bb8e2e0d" title=" " alt="" coords="476,5,641,47"/>
+<area shape="rect" id="node6" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a6d552f498eb825bacbc6113bfcc2231e" title=" " alt="" coords="476,332,641,373"/>
+<area shape="rect" id="node9" href="$dc/df2/classKSyncEntry.html#ae483aa16e35e349761ed6adb515fff0b" title=" " alt="" coords="483,398,634,425"/>
+<area shape="rect" id="node10" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a310d8d4806eee5d2b144a43c6fb465f2" title=" " alt="" coords="248,380,423,421"/>
+<area shape="rect" id="node11" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a9bc1b8a5c48775a5604ecdf752cfb127" title=" " alt="" coords="253,445,418,487"/>
+<area shape="rect" id="node12" href="$dc/df2/classKSyncEntry.html#a34b92021c562cc4a56f1417be0ed4832" title=" " alt="" coords="262,511,409,538"/>
+<area shape="rect" id="node3" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#af7e3fc2f90cb19700a9ddfd0582a0b1b" title=" " alt="" coords="476,71,641,112"/>
+<area shape="rect" id="node5" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a560d1cfb474f2abd22533502cea4c610" title=" " alt="" coords="476,136,641,177"/>
+<area shape="rect" id="node7" href="$d5/df4/classOVSDB_1_1OvsdbEntryBase.html#aad7a5c844544dfc90b69d7389e437084" title=" " alt="" coords="471,201,647,243"/>
+<area shape="rect" id="node8" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a9f35b6824c6ba7605caf390fbf004595" title=" " alt="" coords="476,267,641,308"/>
 </map>

@@ -1,10 +1,11 @@
 <map id="PeerStats::FillPeerDebugStats" name="PeerStats::FillPeerDebugStats">
-<area shape="rect" id="node2" href="$d0/d3f/classIPeerDebugStats.html#a1bc58ad5a7f56d3d6f0bb2018e41ddc4" title="IPeerDebugStats::GetRxProto\lStats" alt="" coords="237,5,449,46"/>
-<area shape="rect" id="node3" href="$d8/df3/classPeerStats.html#aac230535b47276f2b9b5aba7d98cae46" title="PeerStats::FillProtoStats" alt="" coords="254,71,431,97"/>
-<area shape="rect" id="node4" href="$d0/d3f/classIPeerDebugStats.html#ab4aa64b64432f998aee6f407b7f8d4d7" title="IPeerDebugStats::GetTxProto\lStats" alt="" coords="237,122,448,163"/>
-<area shape="rect" id="node5" href="$d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df" title="PeerStats::FillPeerUpdate\lStats" alt="" coords="249,187,436,229"/>
-<area shape="rect" id="node6" href="$d0/d3f/classIPeerDebugStats.html#afea47e954126332e823c358149deecb3" title="IPeerDebugStats::GetRxError\lStats" alt="" coords="238,253,447,294"/>
-<area shape="rect" id="node7" href="$d8/df3/classPeerStats.html#a6322fe852c367b271a63b439d112cbd9" title="PeerStats::FillRxErrorStats" alt="" coords="247,319,438,345"/>
-<area shape="rect" id="node8" href="$d0/d3f/classIPeerDebugStats.html#ad103c3fa5539fbbb27c8b807a3cb5db8" title="IPeerDebugStats::GetRxRoute\lStats" alt="" coords="235,370,450,411"/>
-<area shape="rect" id="node9" href="$d8/df3/classPeerStats.html#adeee48d347a3252d9557fb6a6539ed92" title="PeerStats::FillRxRouteStats" alt="" coords="244,436,441,463"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,173,236"/>
+<area shape="rect" id="node2" href="$d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df" title=" " alt="" coords="237,5,409,47"/>
+<area shape="rect" id="node3" href="$d8/df3/classPeerStats.html#aac230535b47276f2b9b5aba7d98cae46" title=" " alt="" coords="239,71,406,98"/>
+<area shape="rect" id="node4" href="$d8/df3/classPeerStats.html#a6322fe852c367b271a63b439d112cbd9" title=" " alt="" coords="233,122,413,149"/>
+<area shape="rect" id="node5" href="$d8/df3/classPeerStats.html#adeee48d347a3252d9557fb6a6539ed92" title=" " alt="" coords="229,173,416,199"/>
+<area shape="rect" id="node6" href="$d0/d3f/classIPeerDebugStats.html#afea47e954126332e823c358149deecb3" title=" " alt="" coords="225,224,420,265"/>
+<area shape="rect" id="node7" href="$d0/d3f/classIPeerDebugStats.html#a1bc58ad5a7f56d3d6f0bb2018e41ddc4" title=" " alt="" coords="223,289,422,331"/>
+<area shape="rect" id="node8" href="$d0/d3f/classIPeerDebugStats.html#ad103c3fa5539fbbb27c8b807a3cb5db8" title=" " alt="" coords="221,355,424,396"/>
+<area shape="rect" id="node9" href="$d0/d3f/classIPeerDebugStats.html#ab4aa64b64432f998aee6f407b7f8d4d7" title=" " alt="" coords="225,420,421,461"/>
 </map>

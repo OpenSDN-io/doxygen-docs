@@ -1,6 +1,7 @@
 <map id="ExtCommunityDB::ReplaceSubClusterAndLocate" name="ExtCommunityDB::ReplaceSubClusterAndLocate">
-<area shape="rect" id="node2" href="$da/d36/classExtCommunity.html#a9975db615156158aa6ddfa3499b6741c" title="ExtCommunity::RemoveSubCluster" alt="" coords="291,12,541,39"/>
-<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title="ExtCommunity::Append" alt="" coords="329,63,503,89"/>
-<area shape="rect" id="node5" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; ExtCommunity, ExtCommunity\lPtr, ExtCommunitySpec, ExtCommunity\lCompare, ExtCommunityDB \&gt;::Locate" alt="" coords="275,114,557,185"/>
-<area shape="rect" id="node3" href="$da/d36/classExtCommunity.html#a658df911c89c70500b8c183916dd0391" title="ExtCommunity::is_sub\l_cluster" alt="" coords="606,5,773,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,212,113"/>
+<area shape="rect" id="node2" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title=" " alt="" coords="309,5,469,32"/>
+<area shape="rect" id="node3" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="260,57,519,127"/>
+<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a9975db615156158aa6ddfa3499b6741c" title=" " alt="" coords="275,152,503,179"/>
+<area shape="rect" id="node5" href="$da/d36/classExtCommunity.html#a658df911c89c70500b8c183916dd0391" title=" " alt="" coords="567,145,721,186"/>
 </map>

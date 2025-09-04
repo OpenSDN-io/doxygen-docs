@@ -1,7 +1,8 @@
 <map id="HealthCheckInstanceTask::CreateInstanceTask" name="HealthCheckInstanceTask::CreateInstanceTask">
-<area shape="rect" id="node2" href="$d8/d4e/classHealthCheckInstanceBase.html#a986ab59c5c51dba60ab35b4512552707" title="HealthCheckInstanceBase\l::to_string" alt="" coords="243,5,435,46"/>
-<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#ab554df3c942f8fb610c80bda1d389cde" title="HealthCheckInstanceBase\l::OnRead" alt="" coords="243,70,435,111"/>
-<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#a7f2346d6d9c77b6291a05c4b869d196a" title="HealthCheckInstanceBase\l::OnExit" alt="" coords="243,135,435,177"/>
-<area shape="rect" id="node5" href="$d0/d85/classHealthCheckInstanceTask.html#a5cd8d546fc1d77f2c212ad04a0052e90" title="HealthCheckInstanceTask\l::RunInstanceTask" alt="" coords="244,201,433,242"/>
-<area shape="rect" id="node6" href="$d0/d85/classHealthCheckInstanceTask.html#a1822016a856f9e661fca4247cea61689" title="HealthCheckInstanceTask\l::UpdateInstanceTaskCommand" alt="" coords="483,201,711,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,181,145"/>
+<area shape="rect" id="node2" href="$d8/d4e/classHealthCheckInstanceBase.html#a7f2346d6d9c77b6291a05c4b869d196a" title=" " alt="" coords="229,5,408,47"/>
+<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#ab554df3c942f8fb610c80bda1d389cde" title=" " alt="" coords="229,71,408,112"/>
+<area shape="rect" id="node4" href="$d0/d85/classHealthCheckInstanceTask.html#a5cd8d546fc1d77f2c212ad04a0052e90" title=" " alt="" coords="231,136,407,177"/>
+<area shape="rect" id="node6" href="$d8/d4e/classHealthCheckInstanceBase.html#a986ab59c5c51dba60ab35b4512552707" title=" " alt="" coords="229,201,408,243"/>
+<area shape="rect" id="node5" href="$d0/d85/classHealthCheckInstanceTask.html#a1822016a856f9e661fca4247cea61689" title=" " alt="" coords="456,136,667,177"/>
 </map>

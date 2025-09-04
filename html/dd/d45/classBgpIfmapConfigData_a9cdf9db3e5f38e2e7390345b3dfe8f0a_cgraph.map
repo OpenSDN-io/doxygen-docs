@@ -1,19 +1,20 @@
 <map id="BgpIfmapConfigData::CreateRoutingPolicyLink" name="BgpIfmapConfigData::CreateRoutingPolicyLink">
-<area shape="rect" id="node2" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a6016e979901278d86822971a7a576053" title="BgpIfmapRoutingPolicyLink\lConfig::SetNodeProxy" alt="" coords="251,111,451,153"/>
-<area shape="rect" id="node12" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a462c032ed478d950aeeabeb7c8b299a5" title="BgpIfmapRoutingPolicyLink\lConfig::node" alt="" coords="251,46,451,87"/>
-<area shape="rect" id="node11" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="545,173,684,200"/>
-<area shape="rect" id="node13" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a2c2387d7a632ceba12b33dda4b1e2ea7" title="BgpIfmapRoutingPolicyLink\lConfig::instance" alt="" coords="251,229,451,270"/>
-<area shape="rect" id="node14" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5dccedd8d2888dc6df36183d51199595" title="BgpIfmapInstanceConfig\l::AddRoutingPolicy" alt="" coords="260,294,441,335"/>
-<area shape="rect" id="node16" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#acbc2c6ff676dcd2ded730d07cb5cd782" title="BgpIfmapRoutingPolicyLink\lConfig::policy" alt="" coords="251,359,451,401"/>
-<area shape="rect" id="node17" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a0d4af4119b5ab24acdbaf5f1d2f3384d" title="BgpIfmapRoutingPolicyConfig\l::AddInstance" alt="" coords="243,425,458,466"/>
-<area shape="rect" id="node3" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title="IFMapNodeProxy::Swap" alt="" coords="528,119,701,145"/>
-<area shape="rect" id="node10" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title="IFMapNodeProxy::node" alt="" coords="529,61,700,88"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="771,93,941,120"/>
-<area shape="rect" id="node9" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="789,144,923,171"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="989,5,1216,32"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="1008,57,1197,98"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1014,123,1191,149"/>
-<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="999,174,1206,215"/>
-<area shape="rect" id="node15" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a71ac2eaf6a1dd7859d24a552d93dfe5b" title="BgpIfmapRoutingPolicyConfig\l::name" alt="" coords="507,294,722,335"/>
-<area shape="rect" id="node18" href="$d6/d53/classBgpIfmapInstanceConfig.html#a4ee5393172828b7e01f676589d2ad02a" title="BgpIfmapInstanceConfig\l::name" alt="" coords="524,425,705,466"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,180,236"/>
+<area shape="rect" id="node2" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a0d4af4119b5ab24acdbaf5f1d2f3384d" title=" " alt="" coords="228,5,425,47"/>
+<area shape="rect" id="node4" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5dccedd8d2888dc6df36183d51199595" title=" " alt="" coords="243,71,410,112"/>
+<area shape="rect" id="node6" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a2c2387d7a632ceba12b33dda4b1e2ea7" title=" " alt="" coords="235,136,418,177"/>
+<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="507,206,637,233"/>
+<area shape="rect" id="node8" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a40c9b0f0006a0d89ab48c9915955c60a" title=" " alt="" coords="235,384,418,425"/>
+<area shape="rect" id="node10" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#acbc2c6ff676dcd2ded730d07cb5cd782" title=" " alt="" coords="235,319,418,360"/>
+<area shape="rect" id="node11" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a6016e979901278d86822971a7a576053" title=" " alt="" coords="235,253,418,295"/>
+<area shape="rect" id="node3" href="$d6/d53/classBgpIfmapInstanceConfig.html#ac17ca79bc96ba1081c4aec45799a2555" title=" " alt="" coords="489,5,655,47"/>
+<area shape="rect" id="node5" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ab334d0aa2ab58d8d31d971d395a30ff0" title=" " alt="" coords="473,71,671,112"/>
+<area shape="rect" id="node9" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="493,351,651,378"/>
+<area shape="rect" id="node12" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title=" " alt="" coords="491,261,653,287"/>
+<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="719,235,881,262"/>
+<area shape="rect" id="node18" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="737,286,863,313"/>
+<area shape="rect" id="node14" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="936,133,1133,175"/>
+<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="945,199,1124,240"/>
+<area shape="rect" id="node16" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="929,265,1140,291"/>
+<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="951,315,1118,342"/>
 </map>

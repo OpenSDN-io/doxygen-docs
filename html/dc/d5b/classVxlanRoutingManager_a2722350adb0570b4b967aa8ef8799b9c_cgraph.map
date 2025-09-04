@@ -1,4 +1,5 @@
 <map id="VxlanRoutingManager::IsVxlanAvailable" name="VxlanRoutingManager::IsVxlanAvailable">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="244,5,364,32"/>
-<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#a010101c0d735082d10e628e2fa414785" title="OperDB::vxlan_routing\l_manager" alt="" coords="219,57,389,98"/>
+<area shape="rect" id="node1" title="Checks whether VxLAN routing manager is enabled or not." alt="" coords="5,27,156,69"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="226,5,337,32"/>
+<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#a0fa2143f12e8803c22dbbddc96a4cbbe" title=" " alt="" coords="204,57,359,98"/>
 </map>

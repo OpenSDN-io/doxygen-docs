@@ -1,9 +1,0 @@
-<map id="BgpXmppChannel::transport_address_string" name="BgpXmppChannel::transport_address_string">
-<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#a5b1670f8727d9dc602c059f86d8fcbe4" title="BgpXmppChannel::endpoint" alt="" coords="259,27,461,53"/>
-<area shape="rect" id="node5" href="$d6/dbf/classBgpXmppChannel.html#ac93ff67de89291abc7b032306bfd556e" title="BgpXmppChannel::remote\l_endpoint" alt="" coords="263,78,457,119"/>
-<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="776,5,968,32"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="519,31,718,57"/>
-<area shape="rect" id="node6" href="$d6/dbf/classBgpXmppChannel.html#adcd904eb954551db7adac55da7edc9b2" title="BgpXmppChannel::GetSession" alt="" coords="509,81,728,108"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="545,133,693,174"/>
-<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="777,81,967,108"/>
-</map>

@@ -1,9 +1,10 @@
 <map id="HttpConnection::CreateSession" name="HttpConnection::CreateSession">
-<area shape="rect" id="node2" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="282,5,462,32"/>
-<area shape="rect" id="node3" href="$d4/d6e/classHttpClient.html#a005a570c983352c84b10cfa3babbc274" title="HttpClient::CreateSession" alt="" coords="277,56,467,83"/>
-<area shape="rect" id="node8" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="299,107,445,149"/>
-<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title="TcpServer::CreateSession" alt="" coords="529,5,716,32"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="795,81,939,108"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ad8740e4f810aa650f174fe6fb31c3e47" title="TcpSession::SetSocketOptions" alt="" coords="515,107,731,133"/>
-<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="779,5,954,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,212,133"/>
+<area shape="rect" id="node2" href="$d4/d6e/classHttpClient.html#a005a570c983352c84b10cfa3babbc274" title=" " alt="" coords="260,56,435,83"/>
+<area shape="rect" id="node7" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title=" " alt="" coords="264,107,431,133"/>
+<area shape="rect" id="node8" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title=" " alt="" coords="279,158,415,199"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title=" " alt="" coords="497,5,671,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ad8740e4f810aa650f174fe6fb31c3e47" title=" " alt="" coords="483,56,685,83"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="748,81,884,108"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title=" " alt="" coords="733,5,899,32"/>
 </map>

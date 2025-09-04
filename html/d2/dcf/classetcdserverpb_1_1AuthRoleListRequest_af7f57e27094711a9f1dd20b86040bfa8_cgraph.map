@@ -1,8 +1,9 @@
 <map id="etcdserverpb::AuthRoleListRequest::New" name="etcdserverpb::AuthRoleListRequest::New">
-<area shape="rect" id="node2" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aa1ebd18c65725c3ca6dc7032eefda197" title="etcdserverpb::AuthRoleList\lRequest::AuthRoleListRequest" alt="" coords="251,86,466,127"/>
-<area shape="rect" id="node3" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a586d938eac22cbf70af75c5637fc5716" title="etcdserverpb::AuthRoleList\lRequest::internal_default\l_instance" alt="" coords="537,5,733,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#adb1bbf730a22f2ebd57060d1713937d0" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListRequest" alt="" coords="515,86,754,127"/>
-<area shape="rect" id="node7" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aca1c9586dc45921e27a2dc855c6574bb" title="etcdserverpb::AuthRoleList\lRequest::SharedCtor" alt="" coords="537,151,733,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af6a16f44c4eb4551edd3daf891645be4" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListRequestImpl" alt="" coords="803,86,1071,127"/>
-<area shape="rect" id="node6" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a3b2af8ccd3c3d3b02f652ea9c54e4df3" title="etcdserverpb::AuthRoleList\lRequest::InitAsDefaultInstance" alt="" coords="1121,86,1343,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,187,120"/>
+<area shape="rect" id="node2" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aa1ebd18c65725c3ca6dc7032eefda197" title=" " alt="" coords="235,79,436,120"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#adb1bbf730a22f2ebd57060d1713937d0" title=" " alt="" coords="484,5,704,47"/>
+<area shape="rect" id="node6" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a586d938eac22cbf70af75c5637fc5716" title=" " alt="" coords="503,71,685,127"/>
+<area shape="rect" id="node7" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aca1c9586dc45921e27a2dc855c6574bb" title=" " alt="" coords="503,152,685,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af6a16f44c4eb4551edd3daf891645be4" title=" " alt="" coords="752,5,997,47"/>
+<area shape="rect" id="node5" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a3b2af8ccd3c3d3b02f652ea9c54e4df3" title=" " alt="" coords="1045,5,1249,47"/>
 </map>

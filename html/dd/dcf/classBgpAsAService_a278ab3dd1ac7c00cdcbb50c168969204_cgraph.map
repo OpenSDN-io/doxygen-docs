@@ -1,8 +1,9 @@
 <map id="BgpAsAService::AddBgpVmiServicePortIndex" name="BgpAsAService::AddBgpVmiServicePortIndex">
-<area shape="rect" id="node2" href="$dd/dcf/classBgpAsAService.html#a5f61efd5d00431b86ec6bd356cc51634" title="BgpAsAService::bgp\l_as_a_service_port_range" alt="" coords="267,5,458,46"/>
-<area shape="rect" id="node3" href="$dd/dcf/classBgpAsAService.html#a3720188a50f725fa758f867663b5798e" title="BgpAsAService::AllocateBgp\lVmiServicePortIndex" alt="" coords="259,70,466,111"/>
-<area shape="rect" id="node7" href="$de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513" title="BGPaaSUtils::EncodeBgpaas\lServicePort" alt="" coords="260,135,465,177"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="520,52,709,79"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#af47e89e0aa24a0bfda2d647f93d433ef" title="ResourceManager::Allocate" alt="" coords="515,103,714,129"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#ab2b64f378569cd51de6678ca2bee0f42" title="Agent::ResourceManagerReady" alt="" coords="763,103,986,129"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,197,130"/>
+<area shape="rect" id="node2" href="$dd/dcf/classBgpAsAService.html#a3720188a50f725fa758f867663b5798e" title=" " alt="" coords="247,23,440,65"/>
+<area shape="rect" id="node6" href="$dd/dcf/classBgpAsAService.html#a99a9487b42e9944d9fcf4fb66b118770" title=" " alt="" coords="255,89,431,130"/>
+<area shape="rect" id="node7" href="$de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513" title=" " alt="" coords="245,154,441,195"/>
+<area shape="rect" id="node3" href="$de/d6b/classResourceManager.html#af47e89e0aa24a0bfda2d647f93d433ef" title=" " alt="" coords="489,5,672,32"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="495,56,666,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a14985cab2a02b1fecd8d97a13a0eb26c" title=" " alt="" coords="720,5,927,32"/>
 </map>

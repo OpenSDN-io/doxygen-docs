@@ -1,8 +1,9 @@
 <map id="etcdserverpb::DeleteRangeResponse::MergeFrom" name="etcdserverpb::DeleteRangeResponse::MergeFrom">
-<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a628dba76ee8a6cac51a7c87ff43fe547" title="etcdserverpb::DeleteRange\lResponse::has_header" alt="" coords="254,5,453,46"/>
-<area shape="rect" id="node4" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a97bb52ef6bff2fd3d37f2495a657f895" title="etcdserverpb::DeleteRange\lResponse::mutable_header" alt="" coords="254,70,453,111"/>
-<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#aaf73671606172495249de5e921cea899" title="etcdserverpb::DeleteRange\lResponse::header" alt="" coords="254,135,453,177"/>
-<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a687c3a203f04d8a2c167abb948188f1e" title="etcdserverpb::DeleteRange\lResponse::deleted" alt="" coords="254,201,453,242"/>
-<area shape="rect" id="node7" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a8ba851d30853187a778ee582f6d13fab" title="etcdserverpb::DeleteRange\lResponse::set_deleted" alt="" coords="254,266,453,307"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="501,5,725,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a30d3c44d2214c916ef5d8398f347b688" title=" " alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node3" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a24dd10eee2195a1587e05281ff828759" title=" " alt="" coords="235,71,416,112"/>
+<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a0b74b97aa6293cfbcf9634c35cf3d49f" title=" " alt="" coords="235,136,416,177"/>
+<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a97bb52ef6bff2fd3d37f2495a657f895" title=" " alt="" coords="235,201,416,243"/>
+<area shape="rect" id="node7" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a8ba851d30853187a778ee582f6d13fab" title=" " alt="" coords="235,267,416,308"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="464,71,671,112"/>
 </map>

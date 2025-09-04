@@ -1,8 +1,9 @@
 <map id="config_cassandra_client.h" name="config_cassandra_client.h">
-<area shape="rect" id="node2" href="$de/d5d/config__amqp__client_8cc.html" title="config_amqp_client.cc" alt="" coords="5,91,171,117"/>
-<area shape="rect" id="node3" href="$db/db1/config__cass2json__adapter_8cc.html" title="config_cass2json_adapter.cc" alt="" coords="195,91,401,117"/>
-<area shape="rect" id="node4" href="$da/d3e/config__cassandra__client_8cc.html" title="config_cassandra_client.cc" alt="" coords="427,91,621,117"/>
-<area shape="rect" id="node5" href="$d7/dca/config__client__manager_8cc.html" title="config_client_manager.cc" alt="" coords="645,91,832,117"/>
-<area shape="rect" id="node6" href="$d5/d06/config__factory_8cc.html" title="config_factory.cc" alt="" coords="856,91,987,117"/>
-<area shape="rect" id="node7" href="$d9/d3f/config__json__parser__base_8cc.html" title="config_json_parser\l_base.cc" alt="" coords="1011,83,1153,125"/>
+<area shape="rect" id="node1" title=" " alt="" coords="497,8,669,34"/>
+<area shape="rect" id="node2" href="$de/d5d/config__amqp__client_8cc.html" title=" " alt="" coords="5,90,156,116"/>
+<area shape="rect" id="node3" href="$db/db1/config__cass2json__adapter_8cc.html" title=" " alt="" coords="180,90,371,116"/>
+<area shape="rect" id="node4" href="$da/d3e/config__cassandra__client_8cc.html" title=" " alt="" coords="395,90,574,116"/>
+<area shape="rect" id="node5" href="$d7/dca/config__client__manager_8cc.html" title=" " alt="" coords="598,90,769,116"/>
+<area shape="rect" id="node6" href="$d5/d06/config__factory_8cc.html" title=" " alt="" coords="793,90,915,116"/>
+<area shape="rect" id="node7" href="$d9/d3f/config__json__parser__base_8cc.html" title=" " alt="" coords="940,82,1072,124"/>
 </map>

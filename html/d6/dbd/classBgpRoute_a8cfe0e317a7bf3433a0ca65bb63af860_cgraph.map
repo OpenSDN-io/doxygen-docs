@@ -1,7 +1,0 @@
-<map id="BgpRoute::IsUsable" name="BgpRoute::IsUsable">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="203,5,381,32"/>
-<area shape="rect" id="node3" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="217,56,367,83"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a2cddc24414ad3515cc356edd1df074aa" title="BgpPath::IsFeasible" alt="" coords="219,107,365,133"/>
-<area shape="rect" id="node4" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="429,31,571,57"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="430,81,570,108"/>
-</map>

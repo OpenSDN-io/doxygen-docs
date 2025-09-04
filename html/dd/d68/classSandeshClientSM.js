@@ -21,7 +21,7 @@ var classSandeshClientSM =
     [ "set_session", "dd/d68/classSandeshClientSM.html#ad3e59117ca09d6c327f88c0b83703bdb", null ],
     [ "SetAdminState", "dd/d68/classSandeshClientSM.html#a8378f0542991c5b90b4a8b5142bfa92c", null ],
     [ "SetCollectors", "dd/d68/classSandeshClientSM.html#a99699f93f1b2a65847793b3230236872", null ],
-    [ "state", "dd/d68/classSandeshClientSM.html#a3748caa9233326bb3f44daef09495810", null ],
+    [ "state", "dd/d68/classSandeshClientSM.html#a83dfc16839d36b558ca5b4836948f158", null ],
     [ "StateName", "dd/d68/classSandeshClientSM.html#a09c67f3b1a24b80b31d259a9c1b68d05", null ],
     [ "SandeshClientStateMachineTest", "dd/d68/classSandeshClientSM.html#a1918459a8fe7ad9c8f95bb3cf8fdb2aa", null ],
     [ "kTickInterval", "dd/d68/classSandeshClientSM.html#abc9e46abd332f04448fa3d446c7c4fe0", null ],

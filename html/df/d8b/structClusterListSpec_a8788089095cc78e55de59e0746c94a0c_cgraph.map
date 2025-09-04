@@ -1,6 +1,11 @@
 <map id="ClusterListSpec::ToCanonical" name="ClusterListSpec::ToCanonical">
-<area shape="rect" id="node2" href="$d5/dcf/classBgpAttr.html#a91bdbfafedce3a172283dbe1a6edf2d1" title="BgpAttr::set_cluster_list" alt="" coords="262,64,439,91"/>
-<area shape="rect" id="node3" href="$d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9" title="BgpAttrDB::server" alt="" coords="495,5,633,32"/>
-<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#af3ce01bf932bbcd2961ff0e9caf8cde3" title="BgpServer::cluster\l_list_db" alt="" coords="493,57,635,98"/>
-<area shape="rect" id="node5" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l::Locate" alt="" coords="489,122,639,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,200,105"/>
+<area shape="rect" id="node2" href="$d5/dcf/classBgpAttr.html#a91bdbfafedce3a172283dbe1a6edf2d1" title=" " alt="" coords="248,78,411,105"/>
+<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#af3ce01bf932bbcd2961ff0e9caf8cde3" title=" " alt="" coords="463,5,594,47"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="459,71,599,112"/>
+<area shape="rect" id="node9" href="$d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9" title=" " alt="" coords="464,137,593,163"/>
+<area shape="rect" id="node5" href="$d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe" title=" " alt="" coords="647,71,787,112"/>
+<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html#ad916267145503007b51e43828ef6741a" title=" " alt="" coords="836,12,976,53"/>
+<area shape="rect" id="node7" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title=" " alt="" coords="835,78,977,105"/>
+<area shape="rect" id="node8" href="$d0/d9d/bgp__aspath_8h.html#a38830e0f12d881eefaa00f29632618fa" title=" " alt="" coords="837,129,975,155"/>
 </map>

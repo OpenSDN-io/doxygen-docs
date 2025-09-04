@@ -1,6 +1,7 @@
 <map id="ServicesSandesh::ArpStatsSandesh" name="ServicesSandesh::ArpStatsSandesh">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="275,5,421,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a4f3d86060aa0fe5cb6b237a16a29efe4" title="Agent::GetArpProto" alt="" coords="275,56,421,83"/>
-<area shape="rect" id="node4" href="$d6/d21/classArpProto.html#a3be4477f8fa234013aae3ce25c00b7dc" title="ArpProto::GetStats" alt="" coords="277,107,419,133"/>
-<area shape="rect" id="node5" href="$d6/d21/classArpProto.html#a00b5fad3ab0f6fa5a3c2e522380202ac" title="ArpProto::GetArpCacheSize" alt="" coords="249,157,447,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,191,115"/>
+<area shape="rect" id="node2" href="$d6/d21/classArpProto.html#a00b5fad3ab0f6fa5a3c2e522380202ac" title=" " alt="" coords="239,5,425,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a6e066ea1595a6cb4ba780f1bbaa1978b" title=" " alt="" coords="263,56,401,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="265,107,399,133"/>
+<area shape="rect" id="node5" href="$d6/d21/classArpProto.html#a365371536075905c017fdcf6716e986d" title=" " alt="" coords="265,157,399,184"/>
 </map>

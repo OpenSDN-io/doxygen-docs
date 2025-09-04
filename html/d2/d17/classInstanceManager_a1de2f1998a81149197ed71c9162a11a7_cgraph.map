@@ -1,8 +1,0 @@
-<map id="InstanceManager::GetState" name="InstanceManager::GetState">
-<area shape="rect" id="node2" href="$d2/d17/classInstanceManager.html#af63650143cdfcdefcb7bd6828855ccf9" title="InstanceManager::GetSvcInstance" alt="" coords="253,13,496,40"/>
-<area shape="rect" id="node3" href="$d2/d17/classInstanceManager.html#a783cf7b883c5a430aa11b36545748407" title="InstanceManager::GetState" alt="" coords="275,64,474,91"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="547,35,719,61"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aba50fab5e810df7214a574f8aaf55f55" title="Agent::service_instance\l_table" alt="" coords="545,86,722,127"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="771,5,997,32"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="789,57,979,98"/>
-</map>

@@ -1,28 +1,29 @@
 <map id="SessionStatsCollector::SloNotify" name="SessionStatsCollector::SloNotify">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="222,79,394,106"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="473,457,655,483"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="475,203,653,230"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="217,254,399,281"/>
-<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="223,145,393,171"/>
-<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="220,355,396,382"/>
-<area shape="rect" id="node18" href="$df/d96/classSessionStatsCollector.html#a64d51b9fa811f2cd98ba6af03c961ffd" title="SessionStatsCollector\l::UpdateSloStateRules" alt="" coords="225,691,391,732"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="728,163,955,190"/>
-<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="469,72,659,113"/>
-<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="461,137,667,179"/>
-<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="479,254,649,281"/>
-<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="461,305,667,331"/>
-<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="452,406,676,433"/>
-<area shape="rect" id="node12" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="778,355,905,382"/>
-<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="753,406,929,433"/>
-<area shape="rect" id="node14" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="735,457,947,483"/>
-<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1003,457,1221,483"/>
-<area shape="rect" id="node19" href="$d5/d44/classSecurityLoggingObject.html#a3cc1a0eb96037c8599c97d8bedab43a5" title="SecurityLoggingObject\l::rules" alt="" coords="480,873,648,915"/>
-<area shape="rect" id="node20" href="$db/d8e/classSessionSloState.html#ac3267b7a7b88c2029cf922892f11089a" title="SessionSloState::UpdateSession\lSloStateRuleEntry" alt="" coords="449,939,679,980"/>
-<area shape="rect" id="node21" href="$d5/d44/classSecurityLoggingObject.html#ae61406ca21707e3639a49eed7e43981e" title="SecurityLoggingObject\l::firewall_policy_list" alt="" coords="480,508,648,549"/>
-<area shape="rect" id="node22" href="$d4/d59/classAgentUveBase.html#ab157dc970a1c99086be05be9658b6e4f" title="AgentUveBase::agent" alt="" coords="483,574,645,601"/>
-<area shape="rect" id="node23" href="$df/d96/classSessionStatsCollector.html#af4312a03d608827ce21c69fb4541b88e" title="SessionStatsCollector\l::ComputeSloRate" alt="" coords="483,625,645,667"/>
-<area shape="rect" id="node25" href="$de/d3a/classAclDBEntry.html#a97fae25000b27350c1d6b26367afaa79" title="AclDBEntry::GetAclEntryAt\lIndex" alt="" coords="467,691,661,732"/>
-<area shape="rect" id="node26" href="$da/d28/classAclEntry.html#ad15574a49ea1fbaf6fb59f0cea73c65d" title="AclEntry::uuid" alt="" coords="509,757,619,783"/>
-<area shape="rect" id="node27" href="$d5/d44/classSecurityLoggingObject.html#ac218c7ff704773600bb9d442205c7100" title="SecurityLoggingObject\l::firewall_rule_list" alt="" coords="480,808,648,849"/>
-<area shape="rect" id="node24" href="$d5/d44/classSecurityLoggingObject.html#a1bb3cb151cc4d7e2c8807a3a4b2de071" title="SecurityLoggingObject\l::rate" alt="" coords="757,625,925,667"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,269,157,310"/>
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title=" " alt="" coords="205,276,379,303"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="451,226,618,252"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="210,352,374,379"/>
+<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="449,479,620,506"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="211,50,373,76"/>
+<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="211,167,373,194"/>
+<area shape="rect" id="node18" href="$df/d96/classSessionStatsCollector.html#a64d51b9fa811f2cd98ba6af03c961ffd" title=" " alt="" coords="214,726,370,768"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="436,160,633,201"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="445,42,624,84"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title=" " alt="" coords="431,428,639,455"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="691,218,901,244"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="455,276,614,303"/>
+<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title=" " alt="" coords="437,327,633,354"/>
+<area shape="rect" id="node6" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title=" " alt="" coords="698,378,894,404"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="737,428,855,455"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="713,479,879,506"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title=" " alt="" coords="949,378,1155,404"/>
+<area shape="rect" id="node19" href="$d4/d59/classAgentUveBase.html#a33acd60a101cffce3a1c413714afca67" title=" " alt="" coords="460,908,609,935"/>
+<area shape="rect" id="node20" href="$df/d96/classSessionStatsCollector.html#abbfc0c4747d8a9d878e9993870160b68" title=" " alt="" coords="459,960,611,1001"/>
+<area shape="rect" id="node22" href="$d5/d44/classSecurityLoggingObject.html#ae61406ca21707e3639a49eed7e43981e" title=" " alt="" coords="458,530,611,572"/>
+<area shape="rect" id="node23" href="$d5/d44/classSecurityLoggingObject.html#ac218c7ff704773600bb9d442205c7100" title=" " alt="" coords="458,596,611,637"/>
+<area shape="rect" id="node24" href="$de/d3a/classAclDBEntry.html#a77e2168ea72508b14637afd98e054286" title=" " alt="" coords="443,661,627,702"/>
+<area shape="rect" id="node25" href="$d5/d44/classSecurityLoggingObject.html#af1a49f4cb2baebeda9b763fa7d5cfc72" title=" " alt="" coords="458,726,611,768"/>
+<area shape="rect" id="node26" href="$db/d8e/classSessionSloState.html#ac3267b7a7b88c2029cf922892f11089a" title=" " alt="" coords="427,792,643,833"/>
+<area shape="rect" id="node27" href="$da/d28/classAclEntry.html#a31a2f54297b53ad3498d720d959af8dd" title=" " alt="" coords="483,858,587,884"/>
+<area shape="rect" id="node21" href="$d5/d44/classSecurityLoggingObject.html#a125fa6f9ca512573e1471fa7e8377145" title=" " alt="" coords="719,960,873,1001"/>
 </map>

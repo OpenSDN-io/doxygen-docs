@@ -1,6 +1,7 @@
 <map id="InitializeNhRequest" name="InitializeNhRequest">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="203,5,437,32"/>
-<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="250,56,390,83"/>
-<area shape="rect" id="node4" href="$d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title="InterfaceNHKey::set\l_flags" alt="" coords="245,107,395,149"/>
-<area shape="rect" id="node5" href="$d1/dfa/classInterfaceNHKey.html#a9c9d817f0689a81e82568b134710b721" title="InterfaceNHKey::flags" alt="" coords="485,144,648,171"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,58,140,85"/>
+<area shape="rect" id="node2" href="$d1/dfa/classInterfaceNHKey.html#a8673e9e662660484d0478dc037d47e10" title=" " alt="" coords="457,62,608,89"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title=" " alt="" coords="188,33,409,59"/>
+<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="233,83,364,110"/>
+<area shape="rect" id="node5" href="$d1/dfa/classInterfaceNHKey.html#a29ececc7d6c9b7dd41b5aeb49f11727a" title=" " alt="" coords="228,135,369,176"/>
 </map>

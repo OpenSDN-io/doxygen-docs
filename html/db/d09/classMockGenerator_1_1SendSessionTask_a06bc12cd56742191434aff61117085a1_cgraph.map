@@ -1,5 +1,6 @@
 <map id="MockGenerator::SendSessionTask::Run" name="MockGenerator::SendSessionTask::Run">
-<area shape="rect" id="node2" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="281,5,401,32"/>
-<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="264,56,419,83"/>
-<area shape="rect" id="node4" href="$dd/d70/string__util_8h.html#a0d7d35e804a90964164148bb9bb955b8" title="stringToInteger" alt="" coords="282,107,401,133"/>
+<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,49,201,90"/>
+<area shape="rect" id="node2" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title=" " alt="" coords="267,5,376,32"/>
+<area shape="rect" id="node3" href="$dd/d70/string__util_8h.html#a0d7d35e804a90964164148bb9bb955b8" title=" " alt="" coords="267,56,375,83"/>
+<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="249,107,393,133"/>
 </map>

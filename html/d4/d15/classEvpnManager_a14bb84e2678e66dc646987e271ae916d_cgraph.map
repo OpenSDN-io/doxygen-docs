@@ -1,7 +1,8 @@
 <map id="EvpnManager::DisableMacUpdateProcessing" name="EvpnManager::DisableMacUpdateProcessing">
-<area shape="rect" id="node2" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="293,41,435,68"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="498,12,699,39"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="483,63,714,105"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="763,12,979,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1027,5,1218,46"/>
+<area shape="rect" id="node1" title="Disable processing of the update lists in all partitions. For testing only." alt="" coords="5,35,227,76"/>
+<area shape="rect" id="node2" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="275,42,408,69"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="468,13,655,39"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="456,64,667,105"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="715,13,917,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="965,5,1143,47"/>
 </map>

@@ -1,9 +1,11 @@
 <map id="MplsTable::ReserveMulticastLabel" name="MplsTable::ReserveMulticastLabel">
-<area shape="rect" id="node2" href="$df/dd0/classMplsTable.html#a30a94f3778aaf2c04696b6993f62761d" title="MplsTable::ReserveLabel" alt="" coords="259,56,440,83"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="507,5,666,32"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="492,56,681,83"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a2cc0bc115b1d6b06227aaa21856a1ebd" title="ResourceManager::Reserve\lIndex" alt="" coords="488,107,685,149"/>
-<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="734,74,935,115"/>
-<area shape="rect" id="node7" href="$d9/dbf/classIndexResourceTable.html#a5d451f49aa40b1bd290df2654f5aa84b" title="IndexResourceTable\l::ReserveIndex" alt="" coords="759,139,910,181"/>
-<area shape="rect" id="node8" href="$df/d10/classIndexVectorResource.html#a403d7f33ca5f4d0db6f1dac67c0aaeed" title="IndexVectorResource\l::InsertAtIndex" alt="" coords="985,139,1143,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,196,98"/>
+<area shape="rect" id="node2" href="$df/dd0/classMplsTable.html#a30a94f3778aaf2c04696b6993f62761d" title=" " alt="" coords="244,64,412,91"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="478,5,625,32"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2cc0bc115b1d6b06227aaa21856a1ebd" title=" " alt="" coords="460,57,643,98"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="466,123,637,149"/>
+<area shape="rect" id="node5" href="$d9/dbf/classIndexResourceTable.html#a5d451f49aa40b1bd290df2654f5aa84b" title=" " alt="" coords="713,25,853,66"/>
+<area shape="rect" id="node8" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title=" " alt="" coords="691,90,876,131"/>
+<area shape="rect" id="node6" href="$df/d10/classIndexVectorResource.html#a403d7f33ca5f4d0db6f1dac67c0aaeed" title=" " alt="" coords="924,25,1071,66"/>
+<area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#a0934d8293a6d9b7a2e13da2c952765ac" title=" " alt="" coords="1119,32,1297,59"/>
 </map>

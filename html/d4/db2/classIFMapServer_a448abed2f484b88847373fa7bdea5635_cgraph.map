@@ -1,13 +1,14 @@
 <map id="IFMapServer::ClientRegister" name="IFMapServer::ClientRegister">
-<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html#a89a6f905eee008680aa6199ff88442a3" title="BitSet::find_first\l_clear" alt="" coords="276,23,401,65"/>
-<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#ac5e884dd64071c25402664be2676c146" title="BitSet::size" alt="" coords="291,89,386,116"/>
-<area shape="rect" id="node7" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="294,140,383,167"/>
-<area shape="rect" id="node10" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title="IFMapClient::identifier" alt="" coords="257,191,421,217"/>
-<area shape="rect" id="node11" href="$d0/dcd/classIFMapClient.html#ad324a1f67dcbbf42f00c310f45b3fc4b" title="IFMapClient::Initialize" alt="" coords="257,241,420,268"/>
-<area shape="rect" id="node3" href="$db/d77/bitset_8cc.html#a81e72b45d23e1b6ddeaf7f4cf3de3abf" title="find_first_clear64" alt="" coords="475,5,608,32"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="492,56,591,83"/>
-<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="662,5,783,32"/>
-<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="491,136,591,163"/>
-<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="491,187,592,213"/>
-<area shape="rect" id="node12" href="$d0/dcd/classIFMapClient.html#a761899d8e01ac99d98c50a45d8964bcc" title="IFMapClient::index" alt="" coords="470,241,613,268"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,140,192,167"/>
+<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html#a194a9a592b37f4afafe1167f8724a558" title=" " alt="" coords="257,23,374,65"/>
+<area shape="rect" id="node6" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title=" " alt="" coords="240,89,391,116"/>
+<area shape="rect" id="node7" href="$d0/dcd/classIFMapClient.html#ad324a1f67dcbbf42f00c310f45b3fc4b" title=" " alt="" coords="241,140,389,167"/>
+<area shape="rect" id="node9" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title=" " alt="" coords="273,191,357,217"/>
+<area shape="rect" id="node12" href="$d6/dd0/classBitSet.html#acead1948a8d3fad78f522bc6ab681391" title=" " alt="" coords="271,241,360,268"/>
+<area shape="rect" id="node3" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title=" " alt="" coords="461,5,549,32"/>
+<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a81e72b45d23e1b6ddeaf7f4cf3de3abf" title=" " alt="" coords="443,56,566,83"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title=" " alt="" coords="619,56,731,83"/>
+<area shape="rect" id="node8" href="$d0/dcd/classIFMapClient.html#aa0ac6aa7a2a0bcc2753ee873e09716c1" title=" " alt="" coords="439,140,571,167"/>
+<area shape="rect" id="node10" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="459,191,550,217"/>
+<area shape="rect" id="node11" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="459,241,551,268"/>
 </map>

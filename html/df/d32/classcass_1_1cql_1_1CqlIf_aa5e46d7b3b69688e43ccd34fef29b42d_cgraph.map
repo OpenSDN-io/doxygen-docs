@@ -1,9 +1,10 @@
 <map id="cass::cql::CqlIf::Db_AddColumnSync" name="cass::cql::CqlIf::Db_AddColumnSync">
-<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a877a3ba1b59f2d472d664d4e8e4c6291" title="cass::cql::impl::Db2Cass\lConsistency" alt="" coords="203,5,383,46"/>
-<area shape="rect" id="node3" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a815ab193445a482adcf81e9308d25108" title="cass::cql::CqlIf::Increment\lTableWriteFailStats" alt="" coords="198,70,389,111"/>
-<area shape="rect" id="node5" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title="cass::cql::CqlIf::Increment\lErrors" alt="" coords="198,135,389,177"/>
-<area shape="rect" id="node7" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a1c2f7f51bd2b7ec245a8a48dfb53562c" title="cass::cql::CqlIf::Increment\lTableWriteStats" alt="" coords="198,201,389,242"/>
-<area shape="rect" id="node4" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#ab528c37d8ac930bff41a6d4768e9610d" title="GenDb::GenDbIfStats\l::IncrementTableWriteFail" alt="" coords="437,70,624,111"/>
-<area shape="rect" id="node6" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title="GenDb::GenDbIfStats\l::IncrementErrors" alt="" coords="451,135,611,177"/>
-<area shape="rect" id="node8" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#aeaebff400f051ca1066bd3346b3d1fe4" title="GenDb::GenDbIfStats\l::IncrementTableWrite" alt="" coords="449,201,613,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,141,145"/>
+<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a877a3ba1b59f2d472d664d4e8e4c6291" title=" " alt="" coords="193,5,363,47"/>
+<area shape="rect" id="node3" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title=" " alt="" coords="189,71,367,112"/>
+<area shape="rect" id="node5" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a815ab193445a482adcf81e9308d25108" title=" " alt="" coords="189,136,367,177"/>
+<area shape="rect" id="node7" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a1c2f7f51bd2b7ec245a8a48dfb53562c" title=" " alt="" coords="189,201,367,243"/>
+<area shape="rect" id="node4" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title=" " alt="" coords="425,71,575,112"/>
+<area shape="rect" id="node6" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#ab528c37d8ac930bff41a6d4768e9610d" title=" " alt="" coords="415,136,585,177"/>
+<area shape="rect" id="node8" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#aeaebff400f051ca1066bd3346b3d1fe4" title=" " alt="" coords="425,201,575,243"/>
 </map>

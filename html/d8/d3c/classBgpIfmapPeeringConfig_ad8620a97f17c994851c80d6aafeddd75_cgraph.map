@@ -1,10 +1,13 @@
 <map id="BgpIfmapPeeringConfig::GetRouterPair" name="BgpIfmapPeeringConfig::GetRouterPair">
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="234,5,401,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="240,56,395,83"/>
-<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="250,107,385,133"/>
-<area shape="rect" id="node5" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="233,157,402,184"/>
-<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="234,208,401,235"/>
-<area shape="rect" id="node7" href="$d5/d78/bgp__config__ifmap_8cc.html#a8fc134b9dd5bf558c2ff3d89276da5c4" title="IdentifierParent" alt="" coords="257,259,378,285"/>
-<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="248,309,387,336"/>
-<area shape="rect" id="node9" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a778cd5856921302ac23b4910b65a8a85" title="BgpIfmapPeeringConfig\l::name" alt="" coords="230,361,405,402"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,164,250"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="215,5,367,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="220,56,363,83"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="213,107,370,133"/>
+<area shape="rect" id="node5" href="$d5/d78/bgp__config__ifmap_8cc.html#a8fc134b9dd5bf558c2ff3d89276da5c4" title=" " alt="" coords="236,157,347,184"/>
+<area shape="rect" id="node6" href="$d8/d3c/classBgpIfmapPeeringConfig.html#aca3722a1353e73503f9cb35ebf39544d" title=" " alt="" coords="212,209,371,250"/>
+<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="226,275,357,301"/>
+<area shape="rect" id="node8" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a4c4efa03ad0359232a2578dd6a89185e" title=" " alt="" coords="212,326,371,367"/>
+<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="228,392,355,419"/>
+<area shape="rect" id="node11" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="212,443,371,469"/>
+<area shape="rect" id="node9" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="419,333,577,360"/>
 </map>

@@ -1,7 +1,0 @@
-<map id="InetVpnRoute::IsLess" name="InetVpnRoute::IsLess">
-<area shape="rect" id="node2" href="$dc/d53/classInetVpnRoute.html#ab0ca593272e4504b3caa5816fa2f4ee8" title="InetVpnRoute::CompareTo" alt="" coords="211,107,402,133"/>
-<area shape="rect" id="node3" href="$df/d24/classInetVpnPrefix.html#a41936d4893567d9da583f4915cb7ed4f" title="InetVpnPrefix::route\l_distinguisher" alt="" coords="463,5,614,46"/>
-<area shape="rect" id="node4" href="$dc/d73/classRouteDistinguisher.html#a18cdc6721d5991f8f6fa51590797d6b8" title="RouteDistinguisher\l::CompareTo" alt="" coords="466,70,611,111"/>
-<area shape="rect" id="node5" href="$df/d24/classInetVpnPrefix.html#a9ee5a4668ad0a230f36b4b3230ff961c" title="InetVpnPrefix::addr" alt="" coords="465,136,612,163"/>
-<area shape="rect" id="node6" href="$df/d24/classInetVpnPrefix.html#a9aa7aab317e938cc6456b2371e811849" title="InetVpnPrefix::prefixlen" alt="" coords="451,187,626,213"/>
-</map>

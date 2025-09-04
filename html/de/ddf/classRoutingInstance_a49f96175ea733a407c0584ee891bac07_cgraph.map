@@ -1,9 +1,10 @@
 <map id="RoutingInstance::LocateRouteAggregator" name="RoutingInstance::LocateRouteAggregator">
-<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#a110240d097b48aa53cbc8295e15dc17c" title="RoutingInstance::route\l_aggregator" alt="" coords="293,5,461,46"/>
-<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="282,71,473,97"/>
-<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a2511a870274f94ba58c6ee12909233cd" title="BgpTable::LocatePathResolver" alt="" coords="269,121,485,148"/>
-<area shape="rect" id="node5" href="$d0/def/classBgpTable.html#af5af7e396646606ce93c95f0365e0448" title="BgpTable::deleter" alt="" coords="821,71,955,97"/>
-<area shape="rect" id="node6" href="$d0/def/classBgpTable.html#a528aa4c7601e33411e56bebad495297e" title="BgpTable::IsDeleted" alt="" coords="566,121,717,148"/>
-<area shape="rect" id="node8" href="$d0/def/classBgpTable.html#a65bee4d663e1bf94a0b390fe00f20405" title="BgpTable::CreatePathResolver" alt="" coords="533,172,749,199"/>
-<area shape="rect" id="node7" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="798,121,978,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,204,90"/>
+<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="263,5,441,32"/>
+<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#a2511a870274f94ba58c6ee12909233cd" title=" " alt="" coords="252,56,452,83"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#a245eee0f8fca33de9e36b154e27fa3d0" title=" " alt="" coords="275,107,429,149"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a65bee4d663e1bf94a0b390fe00f20405" title=" " alt="" coords="500,5,700,32"/>
+<area shape="rect" id="node5" href="$d0/def/classBgpTable.html#af5af7e396646606ce93c95f0365e0448" title=" " alt="" coords="768,56,891,83"/>
+<area shape="rect" id="node6" href="$d0/def/classBgpTable.html#ae915727d52675a90431e4765c9ddd7d6" title=" " alt="" coords="530,107,670,133"/>
+<area shape="rect" id="node7" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="748,107,911,133"/>
 </map>

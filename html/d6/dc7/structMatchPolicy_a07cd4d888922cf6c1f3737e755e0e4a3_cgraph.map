@@ -1,6 +1,7 @@
 <map id="MatchPolicy::MatchPolicy" name="MatchPolicy::MatchPolicy">
-<area shape="rect" id="node2" href="$d6/dc7/structMatchPolicy.html#ab24696f85512aa9e54ee9815ccd9394f" title="MatchPolicy::Reset" alt="" coords="241,31,383,57"/>
-<area shape="rect" id="node3" href="$d8/d16/structSessionPolicy.html#a0265b9a807cb3f6e83149bd85ac93f05" title="SessionPolicy::Reset" alt="" coords="432,5,587,32"/>
-<area shape="rect" id="node4" href="$db/d67/structFlowAction.html#a576b37db895377e6f9656d04b46813f4" title="FlowAction::Clear" alt="" coords="442,56,577,83"/>
-<area shape="rect" id="node5" href="$dd/dec/structQosConfigActionSpec.html#aaa33af1f5729609f1460285d5e747b66" title="QosConfigActionSpec\l::clear" alt="" coords="635,49,795,90"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,179,65"/>
+<area shape="rect" id="node2" href="$d6/dc7/structMatchPolicy.html#ab24696f85512aa9e54ee9815ccd9394f" title=" " alt="" coords="227,38,361,65"/>
+<area shape="rect" id="node3" href="$db/d67/structFlowAction.html#a576b37db895377e6f9656d04b46813f4" title=" " alt="" coords="419,13,546,39"/>
+<area shape="rect" id="node5" href="$d8/d16/structSessionPolicy.html#a0265b9a807cb3f6e83149bd85ac93f05" title=" " alt="" coords="409,63,556,90"/>
+<area shape="rect" id="node4" href="$dd/dec/structQosConfigActionSpec.html#aaa33af1f5729609f1460285d5e747b66" title=" " alt="" coords="604,5,755,47"/>
 </map>

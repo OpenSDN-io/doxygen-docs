@@ -1,30 +1,32 @@
 <map id="VxlanRoutingManager::WhenBridgeInetIntfWasDeleted" name="VxlanRoutingManager::WhenBridgeInetIntfWasDeleted">
-<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html#adcf12a67c3102dd327ce2f176833b08c" title="AgentRoute::FindPath" alt="" coords="313,56,471,83"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="544,401,733,428"/>
-<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="288,107,496,133"/>
-<area shape="rect" id="node9" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="549,158,728,199"/>
-<area shape="rect" id="node10" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="309,274,475,315"/>
-<area shape="rect" id="node11" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="309,209,475,250"/>
-<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="303,391,481,417"/>
-<area shape="rect" id="node14" href="$dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4..." alt="" coords="310,442,474,483"/>
-<area shape="rect" id="node15" href="$dc/d5b/classVxlanRoutingManager.html#a07ebf5ba090c0784df9a39d8bc2d1640" title="Delete routes to IPAM, specified by IP prefix and prefix length. " alt="" coords="310,507,474,549"/>
-<area shape="rect" id="node17" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="331,573,453,600"/>
-<area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="343,624,441,651"/>
-<area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="320,675,464,701"/>
-<area shape="rect" id="node20" href="$d4/d57/classAgentRoute.html#a9c587dcd1841278d3deebeadbe1a3914" title="AgentRoute::origin\l_vn_name" alt="" coords="321,726,463,767"/>
-<area shape="rect" id="node21" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="321,792,463,819"/>
-<area shape="rect" id="node22" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="311,843,473,885"/>
-<area shape="rect" id="node3" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="568,56,709,83"/>
-<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="576,5,701,32"/>
-<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="551,107,727,133"/>
-<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="782,107,986,133"/>
-<area shape="rect" id="node12" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="554,223,723,265"/>
-<area shape="rect" id="node16" href="$d6/dd4/classPeer.html#a5ec8cc00efa2aedd0ab9c468b2fcba55" title="Peer::GetName" alt="" coords="578,515,699,541"/>
-<area shape="rect" id="node23" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="567,876,711,903"/>
-<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="565,825,712,852"/>
-<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="812,898,956,939"/>
-<area shape="rect" id="node25" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="799,847,969,873"/>
-<area shape="rect" id="node26" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1035,796,1261,823"/>
-<area shape="rect" id="node27" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1085,847,1211,873"/>
-<area shape="rect" id="node28" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1060,897,1236,924"/>
+<area shape="rect" id="node1" title="Handles deletion of a route in the EVPN table of the routing VRF instance." alt="" coords="5,411,219,453"/>
+<area shape="rect" id="node2" href="$dc/d5b/classVxlanRoutingManager.html#a07ebf5ba090c0784df9a39d8bc2d1640" title="Delete routes to IPAM, specified by IP prefix and prefix length." alt="" coords="289,65,439,106"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="509,13,680,40"/>
+<area shape="rect" id="node5" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title=" " alt="" coords="288,150,440,191"/>
+<area shape="rect" id="node14" href="$d4/d57/classAgentRoute.html#acfc518bc33d9deeca963d1e9d51c8d82" title=" " alt="" coords="289,216,439,243"/>
+<area shape="rect" id="node17" href="$d2/d3d/classVrfEntry.html#abab0be4f3c7afcd0f66287d79910c8ca" title=" " alt="" coords="267,267,461,293"/>
+<area shape="rect" id="node20" href="$d8/d00/classVnEntry.html#a8d621341e61912635c3276285d7d09cc" title=" " alt="" coords="297,317,431,344"/>
+<area shape="rect" id="node21" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="297,368,431,395"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="281,419,447,445"/>
+<area shape="rect" id="node23" href="$dc/d5b/classVxlanRoutingManager.html#a3f53dc1a26244cff62bebcd7543fe830" title="Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4,..." alt="" coords="289,470,439,511"/>
+<area shape="rect" id="node24" href="$d4/d57/classAgentRoute.html#a0d31ef039227224b26db467502cf8ac7" title=" " alt="" coords="299,535,429,577"/>
+<area shape="rect" id="node25" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="513,623,677,665"/>
+<area shape="rect" id="node26" href="$d5/d9f/classInetUnicastRouteEntry.html#a7fad580780242fccc9db5c419debe392" title="!" alt="" coords="286,653,442,694"/>
+<area shape="rect" id="node27" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="285,718,443,759"/>
+<area shape="rect" id="node29" href="$d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="318,784,410,811"/>
+<area shape="rect" id="node30" href="$d4/d57/classAgentRoute.html#a75caf4090763ef7edc7295bc284616a2" title=" " alt="" coords="307,835,421,861"/>
+<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a2a9eeed28fc53281a7985dc1f0d1826b" title=" " alt="" coords="539,64,651,91"/>
+<area shape="rect" id="node6" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title=" " alt="" coords="528,115,661,141"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="527,165,662,192"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="742,85,903,112"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a96ffaa49171f89304f95064238a1d945" title=" " alt="" coords="757,137,888,178"/>
+<area shape="rect" id="node8" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="972,9,1169,36"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="1011,60,1130,87"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="965,111,1176,137"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="987,161,1154,188"/>
+<area shape="rect" id="node15" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="527,216,662,243"/>
+<area shape="rect" id="node16" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="537,267,653,293"/>
+<area shape="rect" id="node18" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="512,317,677,344"/>
+<area shape="rect" id="node19" href="$d2/d3d/classVrfEntry.html#a2fb89a60a53895197657b6510d654abe" title=" " alt="" coords="728,317,917,344"/>
+<area shape="rect" id="node28" href="$dc/dd7/classEvpnRouteEntry.html#a570449ffebc9d6d6c4bd4afa4cb2c434" title="!" alt="" coords="515,718,674,759"/>
 </map>

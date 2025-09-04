@@ -1,9 +1,12 @@
 <map id="ConfigListener" name="ConfigListener">
-<area shape="rect" id="node2" href="$d7/db3/classDnsConfigManager.html" title="DnsConfigManager" alt="" coords="288,275,432,301"/>
-<area shape="rect" id="node3" href="$d0/d0c/classDBGraph.html" title="DBGraph" alt="" coords="21,96,101,123"/>
-<area shape="rect" id="node4" href="$d8/d60/classDBGraphBase.html" title="DBGraphBase" alt="" coords="5,5,117,32"/>
-<area shape="rect" id="node6" href="$d3/d5f/classTaskTrigger.html" title="TaskTrigger" alt="" coords="218,96,312,123"/>
-<area shape="rect" id="node7" href="$db/d4d/structDnsConfigManager_1_1Observers.html" title="DnsConfigManager::Observers" alt="" coords="337,96,556,123"/>
-<area shape="rect" id="node8" href="$da/d50/structDnsConfigData.html" title="DnsConfigData" alt="" coords="581,96,699,123"/>
-<area shape="rect" id="node9" href="$df/d70/classDB.html" title="DB" alt="" coords="750,96,791,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="285,347,392,373"/>
+<area shape="rect" id="node2" href="$d7/db3/classDnsConfigManager.html" title=" " alt="" coords="271,257,406,284"/>
+<area shape="rect" id="node3" href="$d0/d0c/classDBGraph.html" title=" " alt="" coords="21,95,97,121"/>
+<area shape="rect" id="node4" href="$d8/d60/classDBGraphBase.html" title=" " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="127,95,182,121"/>
+<area shape="rect" id="node6" href="$d3/d5f/classTaskTrigger.html" title=" " alt="" coords="206,95,295,121"/>
+<area shape="rect" id="node7" href="$db/d4d/structDnsConfigManager_1_1Observers.html" title=" " alt="" coords="320,95,523,121"/>
+<area shape="rect" id="node8" href="$da/d50/structDnsConfigData.html" title=" " alt="" coords="547,95,658,121"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html" title=" " alt="" coords="705,95,746,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="696,5,755,32"/>
 </map>

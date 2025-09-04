@@ -1,7 +1,8 @@
 <map id="DnsProto::MoveVDnsEntry" name="DnsProto::MoveVDnsEntry">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#aaf5ac68356ca238c6c549e6d370b335a" title="VmInterface::vm_name" alt="" coords="265,5,439,32"/>
-<area shape="rect" id="node3" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title="DnsProto::SendDnsUpdateIpc" alt="" coords="246,56,458,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="558,5,647,32"/>
-<area shape="rect" id="node5" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="515,56,690,83"/>
-<area shape="rect" id="node6" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title="PktHandler::SendMessage" alt="" coords="507,107,698,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,187,108"/>
+<area shape="rect" id="node2" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title=" " alt="" coords="235,56,433,83"/>
+<area shape="rect" id="node6" href="$d5/d21/classVmInterface.html#abcc2f5c7e6fe5ed8717b89df0ceed238" title=" " alt="" coords="255,107,413,133"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="529,5,612,32"/>
+<area shape="rect" id="node4" href="$d3/d55/classPktModule.html#a702e512b54931edf89b116338fcb240f" title=" " alt="" coords="491,56,650,83"/>
+<area shape="rect" id="node5" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title=" " alt="" coords="481,107,660,133"/>
 </map>

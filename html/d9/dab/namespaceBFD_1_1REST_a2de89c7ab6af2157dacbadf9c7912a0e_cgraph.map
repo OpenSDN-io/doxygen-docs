@@ -1,6 +1,7 @@
 <map id="BFD::REST::SendResponse" name="BFD::REST::SendResponse">
-<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="245,71,379,97"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="427,5,613,46"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="661,96,805,123"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="427,121,613,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="240,56,368,83"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="417,5,592,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="641,31,777,57"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="416,107,593,149"/>
 </map>

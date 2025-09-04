@@ -1,48 +1,51 @@
 <map id="ConfigEtcdPartition::ProcessUUIDUpdate" name="ConfigEtcdPartition::ProcessUUIDUpdate">
-<area shape="rect" id="node2" href="$d4/de3/classConfigEtcdPartition.html#a780eb6ac1df6dba269675515cf2eed56" title="ConfigEtcdPartition\l::GetUUIDCacheEntry" alt="" coords="247,143,409,185"/>
-<area shape="rect" id="node3" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#af2ed8f0077f84e3a53ed913db90f56e1" title="ConfigEtcdPartition\l::UUIDCacheEntry::GetJsonString" alt="" coords="766,303,999,345"/>
-<area shape="rect" id="node4" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a7c8c1154c1b5a2337e03f15a8232826a" title="ConfigEtcdPartition\l::UUIDCacheEntry::DisableEtcd\lReadRetry" alt="" coords="491,180,714,236"/>
-<area shape="rect" id="node26" href="$d4/de3/classConfigEtcdPartition.html#aab668f846a90c0038d4a6eaf407c1170" title="ConfigEtcdPartition\l::ProcessUUIDDelete" alt="" coords="249,419,407,461"/>
-<area shape="rect" id="node27" href="$d4/de3/classConfigEtcdPartition.html#add24a8f23501f4e424e6832a2ed1e1af" title="ConfigEtcdPartition\l::client" alt="" coords="810,369,955,410"/>
-<area shape="rect" id="node29" href="$df/dc8/classConfigDbClient.html#aeb01aee0eed410cd989734c0df9ab0dc" title="ConfigDbClient::PurgeFQName\lCache" alt="" coords="493,493,713,534"/>
-<area shape="rect" id="node39" href="$d4/de3/classConfigEtcdPartition.html#a5867fdc4b79a763f37401ce9a02996ae" title="ConfigEtcdPartition\l::DeleteCacheMap" alt="" coords="255,587,401,629"/>
-<area shape="rect" id="node40" href="$df/d87/classObjectCacheEntry.html#a8dd06055677471c1cdaa2102a32ba68a" title="ObjectCacheEntry::SetObjType" alt="" coords="219,653,437,680"/>
-<area shape="rect" id="node41" href="$df/d87/classObjectCacheEntry.html#a833ab0d22761e932d625316676b65fd9" title="ObjectCacheEntry::SetFQName" alt="" coords="217,704,439,731"/>
-<area shape="rect" id="node37" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a6fa1994e68398ef7219c46848c4f4746" title="ConfigEtcdPartition\l::UUIDCacheEntry::SetJsonString" alt="" coords="767,799,998,841"/>
-<area shape="rect" id="node30" href="$d4/de3/classConfigEtcdPartition.html#ae50653920a3fb0f65e61eb7a5b483cd7" title="ConfigEtcdPartition\l::GenerateAndPushJson" alt="" coords="516,610,689,651"/>
-<area shape="rect" id="node42" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a033459b34c5d5eff0ae2a935c895953f" title="ConfigEtcdPartition\l::UUIDCacheEntry::EnableEtcd\lReadRetry" alt="" coords="219,969,437,1025"/>
-<area shape="rect" id="node5" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="780,224,985,251"/>
-<area shape="rect" id="node6" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="1115,199,1213,225"/>
-<area shape="rect" id="node7" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1108,249,1220,276"/>
-<area shape="rect" id="node25" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="1057,300,1271,327"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1329,823,1530,849"/>
-<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1346,275,1513,301"/>
-<area shape="rect" id="node24" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1368,224,1491,251"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1580,823,1796,849"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1850,815,2041,857"/>
-<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1593,158,1783,199"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1627,224,1749,251"/>
-<area shape="rect" id="node16" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1605,275,1771,301"/>
-<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1850,267,2041,309"/>
-<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1609,376,1767,403"/>
-<area shape="rect" id="node18" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1585,427,1791,453"/>
-<area shape="rect" id="node19" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1579,477,1797,504"/>
-<area shape="rect" id="node20" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1581,528,1795,555"/>
-<area shape="rect" id="node21" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1608,5,1768,32"/>
-<area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1597,56,1779,83"/>
-<area shape="rect" id="node23" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1599,107,1777,133"/>
-<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1845,165,2045,192"/>
-<area shape="rect" id="node28" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a8531e945cd03ffc90dfd17ed3cf53d27" title="ConfigEtcdPartition\l::UUIDCacheEntry::IsRetryTimer\lRunning" alt="" coords="489,412,717,468"/>
-<area shape="rect" id="node31" href="$df/d87/classObjectCacheEntry.html#a1becf5711b5bf7ac8d8883812935c495" title="ObjectCacheEntry::GetObjType" alt="" coords="773,435,993,461"/>
-<area shape="rect" id="node32" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="806,485,959,512"/>
-<area shape="rect" id="node33" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="804,537,961,578"/>
-<area shape="rect" id="node34" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a8994a75e9aef01242c26d845ceaa9316" title="ConfigEtcdPartition\l::UUIDCacheEntry::SetListOr\lMapPropEmpty" alt="" coords="781,603,985,659"/>
-<area shape="rect" id="node35" href="$df/dc8/classConfigDbClient.html#af95a8684d48c13a9f75172b521e53b2a" title="ConfigDbClient::FindFQName" alt="" coords="778,683,987,709"/>
-<area shape="rect" id="node38" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title="ConfigJsonParserBase\l::Receive" alt="" coords="801,734,964,775"/>
-<area shape="rect" id="node36" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="1049,683,1279,709"/>
-<area shape="rect" id="node43" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="500,1016,705,1043"/>
-<area shape="rect" id="node45" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="509,1117,696,1144"/>
-<area shape="rect" id="node46" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a217b88d3f8fdb758b945c586af473e2a" title="ConfigEtcdPartition\l::UUIDCacheEntry::EtcdRead\lRetryTimerExpired" alt="" coords="500,856,705,912"/>
-<area shape="rect" id="node47" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a067b85a726adba449cd81a960f9f74f0" title="ConfigEtcdPartition\l::UUIDCacheEntry::EtcdRead\lRetryTimerErrorHandler" alt="" coords="500,936,705,992"/>
-<area shape="rect" id="node44" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="789,1016,976,1043"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,715,160,757"/>
+<area shape="rect" id="node2" href="$d4/de3/classConfigEtcdPartition.html#add24a8f23501f4e424e6832a2ed1e1af" title=" " alt="" coords="773,825,908,866"/>
+<area shape="rect" id="node3" href="$d4/de3/classConfigEtcdPartition.html#a5867fdc4b79a763f37401ce9a02996ae" title=" " alt="" coords="245,459,380,501"/>
+<area shape="rect" id="node4" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a7c8c1154c1b5a2337e03f15a8232826a" title=" " alt="" coords="468,496,679,552"/>
+<area shape="rect" id="node28" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a033459b34c5d5eff0ae2a935c895953f" title=" " alt="" coords="209,176,416,232"/>
+<area shape="rect" id="node34" href="$d4/de3/classConfigEtcdPartition.html#ae50653920a3fb0f65e61eb7a5b483cd7" title=" " alt="" coords="491,627,655,669"/>
+<area shape="rect" id="node38" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a761cf7765428877559ee98330a59cafc" title=" " alt="" coords="729,890,952,931"/>
+<area shape="rect" id="node42" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a6fa1994e68398ef7219c46848c4f4746" title=" " alt="" coords="729,394,952,435"/>
+<area shape="rect" id="node44" href="$d4/de3/classConfigEtcdPartition.html#a780eb6ac1df6dba269675515cf2eed56" title=" " alt="" coords="235,810,390,851"/>
+<area shape="rect" id="node45" href="$d4/de3/classConfigEtcdPartition.html#aab668f846a90c0038d4a6eaf407c1170" title=" " alt="" coords="237,745,388,786"/>
+<area shape="rect" id="node47" href="$df/dc8/classConfigDbClient.html#aeb01aee0eed410cd989734c0df9ab0dc" title=" " alt="" coords="470,926,677,967"/>
+<area shape="rect" id="node48" href="$df/d87/classObjectCacheEntry.html#a833ab0d22761e932d625316676b65fd9" title=" " alt="" coords="208,1043,417,1069"/>
+<area shape="rect" id="node49" href="$df/d87/classObjectCacheEntry.html#a8dd06055677471c1cdaa2102a32ba68a" title=" " alt="" coords="211,1093,415,1120"/>
+<area shape="rect" id="node5" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title=" " alt="" coords="749,343,933,369"/>
+<area shape="rect" id="node6" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="1058,419,1161,445"/>
+<area shape="rect" id="node26" href="$dc/dea/classTimer.html#addfd0fd74120f1e32490b95b94f72b51" title=" " alt="" coords="1065,317,1153,344"/>
+<area shape="rect" id="node27" href="$dc/dea/classTimer.html#a022aa3954013d3ba44fba9557df448d4" title=" " alt="" coords="1012,368,1207,395"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1282,419,1438,445"/>
+<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1267,267,1453,293"/>
+<area shape="rect" id="node25" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title=" " alt="" coords="1303,469,1417,496"/>
+<area shape="rect" id="node8" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1519,241,1687,268"/>
+<area shape="rect" id="node9" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1517,292,1689,319"/>
+<area shape="rect" id="node10" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="1503,343,1702,369"/>
+<area shape="rect" id="node11" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="1501,393,1704,420"/>
+<area shape="rect" id="node12" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="1506,444,1699,471"/>
+<area shape="rect" id="node13" href="$d1/d72/classTaskGroup.html#a9603ac4fad9d7c6d6ee28fe89aaa9011" title=" " alt="" coords="1507,495,1698,521"/>
+<area shape="rect" id="node14" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1544,545,1661,572"/>
+<area shape="rect" id="node15" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1525,596,1681,623"/>
+<area shape="rect" id="node16" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1527,647,1678,673"/>
+<area shape="rect" id="node17" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1525,697,1680,724"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="1513,749,1693,790"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="1757,418,1937,459"/>
+<area shape="rect" id="node21" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="1527,191,1678,217"/>
+<area shape="rect" id="node19" href="$d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="1752,756,1941,783"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1501,89,1704,116"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1758,82,1935,123"/>
+<area shape="rect" id="node29" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title=" " alt="" coords="481,216,666,243"/>
+<area shape="rect" id="node31" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a067b85a726adba449cd81a960f9f74f0" title=" " alt="" coords="475,5,671,61"/>
+<area shape="rect" id="node32" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a217b88d3f8fdb758b945c586af473e2a" title=" " alt="" coords="475,85,671,141"/>
+<area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title=" " alt="" coords="485,165,661,192"/>
+<area shape="rect" id="node30" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title=" " alt="" coords="756,216,925,243"/>
+<area shape="rect" id="node35" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title=" " alt="" coords="769,606,913,647"/>
+<area shape="rect" id="node36" href="$df/dc8/classConfigDbClient.html#a1989d4771ce52e36a691c2733fc26fbc" title=" " alt="" coords="742,672,939,699"/>
+<area shape="rect" id="node39" href="$df/d87/classObjectCacheEntry.html#a59ce8fcd90f49373a7a40c34bddf05a7" title=" " alt="" coords="738,723,943,749"/>
+<area shape="rect" id="node40" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title=" " alt="" coords="770,773,911,800"/>
+<area shape="rect" id="node41" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title=" " alt="" coords="762,459,919,501"/>
+<area shape="rect" id="node43" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a8994a75e9aef01242c26d845ceaa9316" title=" " alt="" coords="743,525,938,581"/>
+<area shape="rect" id="node37" href="$df/dc8/classConfigDbClient.html#a78679d2c631b4fb3201ab412fa18c131" title=" " alt="" coords="1000,672,1219,699"/>
+<area shape="rect" id="node46" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a4a2a202f965714d8bb4f93c1b3f9d8f2" title=" " alt="" coords="465,795,681,851"/>
 </map>

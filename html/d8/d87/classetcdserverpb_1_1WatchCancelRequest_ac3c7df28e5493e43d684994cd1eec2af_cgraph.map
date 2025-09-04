@@ -1,6 +1,7 @@
 <map id="etcdserverpb::WatchCancelRequest::default_instance" name="etcdserverpb::WatchCancelRequest::default_instance">
-<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a115a26c9209996af01215d9f4d3d0d82" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCancelRequest" alt="" coords="253,5,496,46"/>
-<area shape="rect" id="node5" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#a971146976be43b14285ecc473d5703bc" title="etcdserverpb::WatchCancel\lRequest::internal_default\l_instance" alt="" coords="275,71,474,127"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6f6295db1f1c0658d7f94dd632e05c10" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCancelRequestImpl" alt="" coords="545,5,815,46"/>
-<area shape="rect" id="node4" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ad6c679cada35cf7a900692577c83da68" title="etcdserverpb::WatchCancel\lRequest::InitAsDefaultInstance" alt="" coords="865,5,1087,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,43,188,84"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a115a26c9209996af01215d9f4d3d0d82" title=" " alt="" coords="236,5,459,47"/>
+<area shape="rect" id="node5" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#a971146976be43b14285ecc473d5703bc" title=" " alt="" coords="256,71,439,127"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6f6295db1f1c0658d7f94dd632e05c10" title=" " alt="" coords="507,5,753,47"/>
+<area shape="rect" id="node4" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ad6c679cada35cf7a900692577c83da68" title=" " alt="" coords="801,5,1005,47"/>
 </map>

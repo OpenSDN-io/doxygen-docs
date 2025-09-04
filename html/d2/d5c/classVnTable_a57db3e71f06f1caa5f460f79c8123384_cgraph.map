@@ -1,5 +1,6 @@
 <map id="VnTable::CfgForwardingFlags" name="VnTable::CfgForwardingFlags">
-<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="298,5,465,32"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="302,56,461,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a1853097e50350f0cb90404f046058964" title="Agent::TranslateForwardingMode" alt="" coords="264,107,499,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="280,5,427,32"/>
+<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="275,56,432,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a1552ed4beaaac39a75207259b3045d23" title=" " alt="" coords="247,107,460,133"/>
 </map>

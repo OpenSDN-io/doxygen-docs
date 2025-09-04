@@ -1,11 +1,12 @@
 <map id="DnsHandler::BuildDefaultDnsResolvers" name="DnsHandler::BuildDefaultDnsResolvers">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="277,5,429,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="278,56,429,83"/>
-<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#a1282b9e75ae90c5386bb9a982597f87c" title="DnsProto::GetDefaultServerList" alt="" coords="241,107,466,133"/>
-<area shape="rect" id="node5" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="251,157,456,184"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="253,208,454,235"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="260,259,447,285"/>
-<area shape="rect" id="node6" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="529,157,716,184"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="515,208,731,235"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="779,201,970,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,176,166"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="258,5,397,32"/>
+<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title=" " alt="" coords="235,56,420,83"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a1282b9e75ae90c5386bb9a982597f87c" title=" " alt="" coords="224,107,431,133"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a0346274c6f2b7f16c5eb0ebe0470277e" title=" " alt="" coords="257,157,397,184"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="234,208,421,235"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title=" " alt="" coords="239,259,415,285"/>
+<area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title=" " alt="" coords="495,56,665,83"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="479,208,681,235"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="729,201,907,242"/>
 </map>

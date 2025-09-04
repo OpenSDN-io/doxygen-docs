@@ -1,21 +1,22 @@
 <map id="StatsManager::VrfNotify" name="StatsManager::VrfNotify">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="251,75,423,101"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="246,300,429,327"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="514,199,691,225"/>
-<area shape="rect" id="node7" href="$d1/d29/classStatsManager.html#ae3ef380fce87d29b6ed71fa0c86dee91" title="StatsManager::DelVrfStats\lEntry" alt="" coords="241,365,434,406"/>
-<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="246,249,429,276"/>
-<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="252,140,423,167"/>
-<area shape="rect" id="node19" href="$d1/d29/classStatsManager.html#a9e51a073fa3413549e9a3ab0d3ea12a1" title="StatsManager::AddUpdateVrf\lStatsEntry" alt="" coords="232,445,443,486"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="763,133,989,160"/>
-<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="508,67,697,109"/>
-<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a3685ed20d8e3ceb84c62db7b2a83ad38" title="VrfEntry::vrf_id" alt="" coords="543,452,662,479"/>
-<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="499,133,706,174"/>
-<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="518,401,687,428"/>
-<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="499,300,706,327"/>
-<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="491,351,715,377"/>
-<area shape="rect" id="node14" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="813,351,939,377"/>
-<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="788,401,964,428"/>
-<area shape="rect" id="node16" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="770,300,982,327"/>
-<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1038,300,1255,327"/>
-<area shape="rect" id="node20" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="531,503,675,529"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,168,256"/>
+<area shape="rect" id="node2" href="$d1/d29/classStatsManager.html#a9e51a073fa3413549e9a3ab0d3ea12a1" title=" " alt="" coords="216,45,409,86"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title=" " alt="" coords="226,341,399,368"/>
+<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="478,341,645,368"/>
+<area shape="rect" id="node17" href="$d1/d29/classStatsManager.html#ae3ef380fce87d29b6ed71fa0c86dee91" title=" " alt="" coords="223,110,402,151"/>
+<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="231,176,394,203"/>
+<area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="227,392,398,419"/>
+<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="231,229,394,256"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="494,5,629,32"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#aaaa6d85904daeae8c5c71a1afc25abc5" title=" " alt="" coords="506,56,617,83"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="463,275,660,317"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="472,158,651,199"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title=" " alt="" coords="457,493,665,520"/>
+<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="713,308,924,335"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="482,544,641,571"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title=" " alt="" coords="463,443,659,469"/>
+<area shape="rect" id="node9" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title=" " alt="" coords="721,493,917,520"/>
+<area shape="rect" id="node11" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="759,544,878,571"/>
+<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="735,443,902,469"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title=" " alt="" coords="972,493,1177,520"/>
 </map>

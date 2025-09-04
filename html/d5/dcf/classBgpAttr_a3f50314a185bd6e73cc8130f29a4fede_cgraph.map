@@ -1,5 +1,10 @@
 <map id="BgpAttr::set_as_path" name="BgpAttr::set_as_path">
-<area shape="rect" id="node2" href="$d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9" title="BgpAttrDB::server" alt="" coords="224,5,363,32"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#a2e873398479981e47ec1007bf0e8ecb1" title="BgpServer::aspath_db" alt="" coords="211,56,375,83"/>
-<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l::Locate" alt="" coords="218,107,369,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,151,98"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a2e873398479981e47ec1007bf0e8ecb1" title=" " alt="" coords="199,13,349,39"/>
+<area shape="rect" id="node3" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="204,64,344,105"/>
+<area shape="rect" id="node8" href="$d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9" title=" " alt="" coords="209,130,339,157"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe" title=" " alt="" coords="397,64,537,105"/>
+<area shape="rect" id="node5" href="$d6/dd7/classBgpPathAttributeDB.html#ad916267145503007b51e43828ef6741a" title=" " alt="" coords="587,5,727,47"/>
+<area shape="rect" id="node6" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title=" " alt="" coords="585,71,728,98"/>
+<area shape="rect" id="node7" href="$d0/d9d/bgp__aspath_8h.html#a38830e0f12d881eefaa00f29632618fa" title=" " alt="" coords="587,122,726,149"/>
 </map>

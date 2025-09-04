@@ -1,12 +1,13 @@
 <map id="KSyncSockTcp::KSyncSockTcp" name="KSyncSockTcp::KSyncSockTcp">
-<area shape="rect" id="node2" href="$d0/d5a/classKSyncSock.html#a27aa65c1b1b93b30c69d25f680a42894" title="KSyncSock::reset_use\l_wait_tree" alt="" coords="281,5,445,46"/>
-<area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#a381413ad5caac9953ece491da6c3529f" title="KSyncSock::set_process\l_data_inline" alt="" coords="273,70,452,111"/>
-<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title="TcpServer::CreateSession" alt="" coords="269,136,456,163"/>
-<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#a4920ac804ddbc71c1922729de4a3cd6d" title="TcpServer::Connect" alt="" coords="289,187,436,213"/>
-<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="515,136,690,163"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="531,187,675,213"/>
-<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#a80992c9419f511b798cd87cd3cf8140c" title="TcpServer::ConnectHandler" alt="" coords="504,237,701,264"/>
-<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#aef632e92b369b7052eb9941a5d4be47d" title="TcpServer::ConnectHandler\lComplete" alt="" coords="749,230,947,271"/>
-<area shape="rect" id="node10" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title="TcpServer::InsertSession\lToMap" alt="" coords="1003,197,1183,238"/>
-<area shape="rect" id="node11" href="$de/df9/classTcpServer.html#a6754e2fd2c45130c0ff43d6f8604e229" title="TcpServer::RemoveSession\lFromMap" alt="" coords="995,262,1191,303"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,213,203"/>
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#a4920ac804ddbc71c1922729de4a3cd6d" title=" " alt="" coords="279,97,418,123"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title=" " alt="" coords="261,147,436,174"/>
+<area shape="rect" id="node10" href="$d0/d5a/classKSyncSock.html#a27aa65c1b1b93b30c69d25f680a42894" title=" " alt="" coords="271,199,426,240"/>
+<area shape="rect" id="node11" href="$d0/d5a/classKSyncSock.html#a381413ad5caac9953ece491da6c3529f" title=" " alt="" coords="265,264,433,305"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a80992c9419f511b798cd87cd3cf8140c" title=" " alt="" coords="484,46,667,73"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="507,97,643,123"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#aef632e92b369b7052eb9941a5d4be47d" title=" " alt="" coords="715,39,897,80"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title=" " alt="" coords="951,5,1122,47"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#a6754e2fd2c45130c0ff43d6f8604e229" title=" " alt="" coords="945,71,1128,112"/>
+<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title=" " alt="" coords="493,147,658,174"/>
 </map>

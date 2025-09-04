@@ -8,7 +8,7 @@ var classInterfaceKSyncObject =
     [ "DISALLOW_COPY_AND_ASSIGN", "d5/da1/classInterfaceKSyncObject.html#a31ad03fc9d4e4a0015e23f9084946604", null ],
     [ "Init", "d5/da1/classInterfaceKSyncObject.html#ab948b6551029fc32e029a5e12819951e", null ],
     [ "InitTest", "d5/da1/classInterfaceKSyncObject.html#af4f4a485299a1d2d59dbf9f0d481d8c7", null ],
-    [ "ksync", "d5/da1/classInterfaceKSyncObject.html#a5de484d398e94f836dc2ee1838ea49a0", null ],
+    [ "ksync", "d5/da1/classInterfaceKSyncObject.html#a6600c5133018ab1ccf9f369e26c8b284", null ],
     [ "RegisterDBClients", "d5/da1/classInterfaceKSyncObject.html#a6472fc3eed75e6afa994a9869d1fc787", null ],
     [ "ksync_", "d5/da1/classInterfaceKSyncObject.html#a0cb4f6b20d4f3a3d2634dfbb8c403087", null ]
 ];

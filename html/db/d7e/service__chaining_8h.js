@@ -1,6 +1,5 @@
 var service__chaining_8h =
 [
-    [ "ServiceChainMgr", "d7/d97/classServiceChainMgr.html", "d7/d97/classServiceChainMgr" ],
     [ "ServiceChainBase", "d3/da8/structServiceChainBase.html", "d3/da8/structServiceChainBase" ],
     [ "ServiceChainInet", "d0/d19/classServiceChainInet.html", null ],
     [ "ServiceChainInet6", "db/dcc/classServiceChainInet6.html", null ],

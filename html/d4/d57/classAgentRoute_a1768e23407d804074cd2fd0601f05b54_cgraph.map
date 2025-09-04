@@ -1,51 +1,52 @@
 <map id="AgentRoute::ReComputeMulticastPaths" name="AgentRoute::ReComputeMulticastPaths">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="600,82,725,109"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a77223f962c214ba7a6875f333ec7b82f" title="AgentPath::is_subnet\l_discard" alt="" coords="322,925,481,967"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="313,991,489,1018"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a541b0e5c4c5f2bcc2e9e1f9fd414d046" title="Agent::multicast_peer" alt="" coords="319,1042,484,1069"/>
-<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="588,990,737,1017"/>
-<area shape="rect" id="node8" href="$dd/d76/classCompositeNH.html#acdc48d0091d35e17b87cc50370a82bbd" title="CompositeNH::composite\l_nh_type" alt="" coords="307,1093,495,1135"/>
-<area shape="rect" id="node9" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="331,1159,472,1186"/>
-<area shape="rect" id="node10" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="607,335,719,362"/>
-<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#ab5a841fa7d817be189018adf397fbd8a" title="AgentPath::inactive" alt="" coords="327,1210,475,1237"/>
-<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a2a8079b5366a30f0e827b7793f2ea54f" title="Agent::local_vm_peer" alt="" coords="581,133,744,159"/>
-<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#a72cbf573009ca1d770b8ce78811c818b" title="Agent::local_peer" alt="" coords="595,234,730,261"/>
-<area shape="rect" id="node14" href="$d4/d57/classAgentRoute.html#a74ceda51557c9983534b33cd5959641f" title="AgentRoute::HandleDevice\lMastershipUpdate" alt="" coords="303,757,499,799"/>
-<area shape="rect" id="node20" href="$d4/d57/classAgentRoute.html#a79683d23355864629ed6e0a9ce65d509" title="AgentRoute::HandleMulticast\lLabel" alt="" coords="296,387,507,428"/>
-<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#a809ef2c3eb911e300fb623d99ea11836" title="Agent::mpls_table" alt="" coords="593,437,733,463"/>
-<area shape="rect" id="node26" href="$df/dd0/classMplsTable.html#a7cf3987111aa6136f06f3b680b930eab" title="MplsTable::CreateRouteLabel" alt="" coords="558,589,767,615"/>
-<area shape="rect" id="node19" href="$d4/d57/classAgentRoute.html#a23ec0d3c50ab3608c6207bd70e119f43" title="AgentRoute::vrf" alt="" coords="601,690,724,717"/>
-<area shape="rect" id="node30" href="$d4/d57/classAgentRoute.html#abe53be72ffc2c4d8feb5cbec3b0e6e5a" title="AgentRoute::ToString" alt="" coords="584,639,741,666"/>
-<area shape="rect" id="node31" href="$d4/d57/classAgentRoute.html#ac8653468ead3f8b2e905706792870b44" title="AgentRoute::RemovePath" alt="" coords="308,1261,495,1287"/>
-<area shape="rect" id="node32" href="$d4/d57/classAgentRoute.html#a616b4835448d33cb62ebc67848118e32" title="AgentRoute::InsertPath" alt="" coords="316,1311,487,1338"/>
-<area shape="rect" id="node21" href="$d4/d3d/classAgentPath.html#a1df22ad5b86891e3894cfc6d37d17a9d" title="AgentPath::label" alt="" coords="847,285,975,311"/>
-<area shape="rect" id="node33" href="$d4/d3d/classAgentPath.html#a5a46d1874c227dc68c1def831479a4d0" title="AgentPath::ComputeNextHop" alt="" coords="295,1413,507,1439"/>
-<area shape="rect" id="node35" href="$d4/dec/classNextHop.html#a0fdfd1cff329974e413ba4b6c80cbb18" title="NextHop::learning_enabled" alt="" coords="302,1463,501,1490"/>
-<area shape="rect" id="node36" href="$dd/d76/classCompositeNH.html#ace1dad95eb550d7325c392aff67ab259" title="CompositeNH::pbb_nh" alt="" coords="318,1514,485,1541"/>
-<area shape="rect" id="node37" href="$d4/d57/classAgentRoute.html#acb3f4dfbf7779d2808e538d137b1589a" title="AgentRoute::GetMulticast\lCompType" alt="" coords="308,1565,495,1607"/>
-<area shape="rect" id="node38" href="$d4/d57/classAgentRoute.html#a5f7767b280de1d6d93dc0a1fed498745" title="AgentRoute::ValidateMcastSrc" alt="" coords="293,1631,509,1658"/>
-<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="582,1387,743,1414"/>
-<area shape="rect" id="node39" href="$df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title="NextHopTable::Process" alt="" coords="577,1041,748,1067"/>
-<area shape="rect" id="node40" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="331,1682,471,1709"/>
-<area shape="rect" id="node41" href="$dd/d76/classCompositeNH.html#ae5f14e6c77bdc2bfe2c977f03be2ea41" title="CompositeNH::set_validate\l_mcast_src" alt="" coords="301,1733,501,1775"/>
-<area shape="rect" id="node24" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="591,538,735,565"/>
-<area shape="rect" id="node23" href="$df/dd0/classMplsTable.html#a2beaa59f9c0343a140bbd5a607a1a159" title="MplsTable::FreeLabel" alt="" coords="585,487,741,514"/>
-<area shape="rect" id="node42" href="$d4/d57/classAgentRoute.html#a9e46ca4499f0a03aa5d7e4ebaa285c05" title="AgentRoute::dest_vn_name" alt="" coords="301,1799,501,1826"/>
-<area shape="rect" id="node43" href="$d3/d08/classTunnelType.html#a5ee0b0b25a656d62f10d886e4e2d7bbb" title="TunnelType::AllType" alt="" coords="327,1850,476,1877"/>
-<area shape="rect" id="node44" href="$d4/d3d/classAgentPath.html#a8347fc21503d7458e8285c15e5e840fe" title="AgentPath::dest_vn_name" alt="" coords="306,1901,497,1927"/>
-<area shape="rect" id="node45" href="$d4/d3d/classAgentPath.html#af852f1a31fbbe9ef3a01b23b2814cf56" title="AgentPath::unresolved" alt="" coords="317,1951,485,1978"/>
-<area shape="rect" id="node46" href="$d4/d3d/classAgentPath.html#abb3ef88cd17f1494ee4b2693f38dcd54" title="AgentPath::vxlan_id" alt="" coords="326,2002,477,2029"/>
-<area shape="rect" id="node47" href="$d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title="TunnelType::VxlanType" alt="" coords="317,2053,486,2079"/>
-<area shape="rect" id="node48" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="581,23,744,50"/>
-<area shape="rect" id="node49" href="$d3/dd1/classMulticastRoute.html#a01583a7ce5ad42a6c2afa34d7fb208a5" title="MulticastRoute::CopyPath\lParameters" alt="" coords="308,117,495,159"/>
-<area shape="rect" id="node50" href="$dd/df6/classMulticastRoutePath.html#ae0b1ecb36c6147a13ac82d53f097cbed" title="MulticastRoutePath\l::UpdateLabels" alt="" coords="328,2104,475,2145"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="571,1091,754,1118"/>
-<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="589,873,736,899"/>
-<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="577,924,749,965"/>
-<area shape="rect" id="node17" href="$dd/d76/classCompositeNH.html#acf648dcdb80cc959fa5ea5bf0e3952a4" title="CompositeNH::component\l_nh_list" alt="" coords="566,741,759,783"/>
-<area shape="rect" id="node18" href="$da/dee/classPhysicalDeviceTable.html#ab0ea2c7b815ec14faafe9de89a6128da" title="PhysicalDeviceTable\l::UpdateDeviceMastership" alt="" coords="566,807,759,848"/>
-<area shape="rect" id="node25" href="$d4/d3d/classAgentPath.html#a11bd7689eb3d8f1bc39427056b976dac" title="AgentPath::set_label" alt="" coords="585,183,740,210"/>
-<area shape="rect" id="node27" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="831,839,990,866"/>
-<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="816,563,1005,590"/>
-<area shape="rect" id="node29" href="$df/dd0/classMplsTable.html#ab2832528f492ba8f436e54270bbab1e8" title="MplsTable::FindMplsLabel" alt="" coords="818,614,1003,641"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1459,227,1501"/>
+<area shape="rect" id="node2" href="$d3/d08/classTunnelType.html#a5ee0b0b25a656d62f10d886e4e2d7bbb" title=" " alt="" coords="306,5,445,32"/>
+<area shape="rect" id="node3" href="$dd/d76/classCompositeNH.html#a7f66b791fee41286066ee920556f867f" title=" " alt="" coords="289,57,462,98"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#afcf8bfbaeaf9639279b240691a90bbde" title=" " alt="" coords="277,304,473,331"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="780,173,944,200"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ab35cbd29ce20cbd883d83ade78492314" title=" " alt="" coords="789,275,935,301"/>
+<area shape="rect" id="node10" href="$d3/dd1/classMulticastRoute.html#a01583a7ce5ad42a6c2afa34d7fb208a5" title=" " alt="" coords="287,798,463,839"/>
+<area shape="rect" id="node12" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="797,468,927,495"/>
+<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#af7bbf3306dda06261650605f06082d7d" title=" " alt="" coords="799,544,925,571"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#a5512fc9483bae2af50b84ceb3f2863db" title=" " alt="" coords="567,915,689,941"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a6f89f05040adc4dd51a5605decb111ea" title=" " alt="" coords="554,965,702,992"/>
+<area shape="rect" id="node17" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title=" " alt="" coords="552,864,704,891"/>
+<area shape="rect" id="node20" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="570,1016,686,1043"/>
+<area shape="rect" id="node23" href="$d4/d57/classAgentRoute.html#a75caf4090763ef7edc7295bc284616a2" title=" " alt="" coords="805,1295,919,1321"/>
+<area shape="rect" id="node24" href="$df/dd0/classMplsTable.html#a7cf3987111aa6136f06f3b680b930eab" title=" " alt="" coords="531,1067,725,1093"/>
+<area shape="rect" id="node25" href="$d4/d3d/classAgentPath.html#ae947117c1c80b770b1dd881fb35e3f96" title=" " alt="" coords="287,1605,463,1632"/>
+<area shape="rect" id="node26" href="$d4/d57/classAgentRoute.html#afd91d3d5bf574e5214cef8fa48b90b99" title=" " alt="" coords="283,1656,467,1683"/>
+<area shape="rect" id="node27" href="$df/dd0/classMplsTable.html#a2beaa59f9c0343a140bbd5a607a1a159" title=" " alt="" coords="555,1219,701,1245"/>
+<area shape="rect" id="node28" href="$d4/d57/classAgentRoute.html#acb3f4dfbf7779d2808e538d137b1589a" title=" " alt="" coords="289,1707,462,1749"/>
+<area shape="rect" id="node29" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="561,1472,695,1499"/>
+<area shape="rect" id="node30" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="308,1773,443,1800"/>
+<area shape="rect" id="node31" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="575,1269,681,1296"/>
+<area shape="rect" id="node32" href="$d4/d57/classAgentRoute.html#a74ceda51557c9983534b33cd5959641f" title=" " alt="" coords="285,1489,466,1530"/>
+<area shape="rect" id="node33" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="559,1573,697,1600"/>
+<area shape="rect" id="node34" href="$d4/d57/classAgentRoute.html#a79683d23355864629ed6e0a9ce65d509" title=" " alt="" coords="279,1118,472,1159"/>
+<area shape="rect" id="node35" href="$d4/d3d/classAgentPath.html#acd7cf9cb10f31172f2d0e19eb6c5d840" title=" " alt="" coords="569,1320,687,1347"/>
+<area shape="rect" id="node36" href="$d4/d57/classAgentRoute.html#abe53be72ffc2c4d8feb5cbec3b0e6e5a" title=" " alt="" coords="555,1371,701,1397"/>
+<area shape="rect" id="node37" href="$d4/d3d/classAgentPath.html#afea93e6fca56da3579e53d4a4250288f" title=" " alt="" coords="308,1824,443,1851"/>
+<area shape="rect" id="node38" href="$d4/d57/classAgentRoute.html#a616b4835448d33cb62ebc67848118e32" title=" " alt="" coords="295,1875,455,1901"/>
+<area shape="rect" id="node39" href="$d4/d3d/classAgentPath.html#a55fc55d93932a7f8586cbcef5b1dd0ce" title=" " alt="" coords="302,1926,449,1967"/>
+<area shape="rect" id="node40" href="$d4/dec/classNextHop.html#a08e51070804de17758aac1e815fea956" title=" " alt="" coords="286,1992,465,2019"/>
+<area shape="rect" id="node41" href="$d8/dfe/classAgent.html#a7bf1cc049f7a66e6a780f5f517f08170" title=" " alt="" coords="301,2043,450,2069"/>
+<area shape="rect" id="node42" href="$dd/d76/classCompositeNH.html#abf3a0c6ac57e64bdc79c3159618d8c78" title=" " alt="" coords="298,2093,453,2120"/>
+<area shape="rect" id="node43" href="$df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title=" " alt="" coords="295,2144,456,2171"/>
+<area shape="rect" id="node44" href="$d4/d57/classAgentRoute.html#ac8653468ead3f8b2e905706792870b44" title=" " alt="" coords="289,2195,462,2221"/>
+<area shape="rect" id="node45" href="$dd/d76/classCompositeNH.html#ae5f14e6c77bdc2bfe2c977f03be2ea41" title=" " alt="" coords="284,2246,467,2287"/>
+<area shape="rect" id="node46" href="$d4/d3d/classAgentPath.html#acbb336805a5ce0daa9a65e7479f0dba7" title=" " alt="" coords="299,2312,452,2339"/>
+<area shape="rect" id="node47" href="$dd/df6/classMulticastRoutePath.html#ae0b1ecb36c6147a13ac82d53f097cbed" title=" " alt="" coords="307,2363,444,2405"/>
+<area shape="rect" id="node48" href="$d4/d57/classAgentRoute.html#aea6008c51c093092517138049b12906b" title=" " alt="" coords="275,2429,476,2456"/>
+<area shape="rect" id="node49" href="$d4/d3d/classAgentPath.html#aa977394acd591c8b863d47f7590a58e6" title=" " alt="" coords="306,2480,445,2507"/>
+<area shape="rect" id="node50" href="$d3/d08/classTunnelType.html#a5795371729dea1d948960a5de18d6297" title=" " alt="" coords="297,2531,453,2557"/>
+<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="541,326,715,367"/>
+<area shape="rect" id="node6" href="$d2/db8/classDependencyRef.html#a7ffbd461b856efaa7308518d747c6500" title=" " alt="" coords="557,392,699,419"/>
+<area shape="rect" id="node7" href="$d4/d57/classAgentRoute.html#a7cb1d855b6a95bd2bac8256080af814b" title=" " alt="" coords="524,224,732,251"/>
+<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#acff9e2a1ae29e33cd0d3903d872d46d8" title=" " alt="" coords="550,493,706,520"/>
+<area shape="rect" id="node14" href="$d3/d08/classTunnelType.html#ab1e1bc7ee789760b21ce89987e077025" title=" " alt="" coords="539,595,717,621"/>
+<area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#a8bddfb5c69e2ce1bf8abd538cd2539b5" title=" " alt="" coords="536,645,720,672"/>
+<area shape="rect" id="node19" href="$d4/d3d/classAgentPath.html#a163e3043e5616add86dba776d3733b63" title=" " alt="" coords="536,697,720,738"/>
+<area shape="rect" id="node21" href="$d8/d35/classPathPreference.html#a7864b7020a7a06aa4621e1396bdfab65" title=" " alt="" coords="537,763,719,789"/>
+<area shape="rect" id="node22" href="$d4/d3d/classAgentPath.html#ae4cfcb4bc41db4e6ab46a6dfe7d4e27a" title=" " alt="" coords="525,813,731,840"/>
 </map>

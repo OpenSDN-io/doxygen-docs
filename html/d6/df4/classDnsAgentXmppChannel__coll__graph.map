@@ -1,18 +1,18 @@
 <map id="DnsAgentXmppChannel" name="DnsAgentXmppChannel">
-<area shape="rect" id="node2" href="$dd/d1d/classDnsAgentXmppChannelManager.html" title="DnsAgentXmppChannelManager" alt="" coords="1853,236,2085,263"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; boost::shared\l_ptr\&lt; RecordRequest \&gt; \&gt;" alt="" coords="552,514,752,555"/>
-<area shape="rect" id="node13" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="609,808,695,835"/>
-<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="544,631,760,657"/>
-<area shape="rect" id="node11" href="$d6/d09/classXmppConnectionManager.html" title="XmppConnectionManager" alt="" coords="1408,640,1597,667"/>
-<area shape="rect" id="node10" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="1649,236,1751,263"/>
-<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; XmppServerConnection * \&gt;" alt="" coords="507,316,797,343"/>
-<area shape="rect" id="node7" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; boost\l::shared_ptr\&lt; RecordRequest\l \&gt;, WorkQueue\&lt; boost::shared\l_ptr\&lt; RecordRequest \&gt; \&gt; \&gt;" alt="" coords="989,439,1211,510"/>
-<area shape="rect" id="node5" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,521,358,548"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="627,393,677,420"/>
-<area shape="rect" id="node18" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="971,602,1229,643"/>
-<area shape="rect" id="node20" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; XmppServer\lConnection *, WorkQueue\l\&lt; XmppServerConnection * \&gt; \&gt;" alt="" coords="983,301,1217,357"/>
-<area shape="rect" id="node12" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="1059,808,1141,835"/>
-<area shape="rect" id="node14" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,1045,354,1072"/>
-<area shape="rect" id="node15" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,1096,352,1123"/>
-<area shape="rect" id="node21" href="$d6/d81/classXmppChannel.html" title="XmppChannel" alt="" coords="1913,287,2026,313"/>
+<area shape="rect" id="node1" title=" " alt="" coords="312,648,475,675"/>
+<area shape="rect" id="node2" href="$dd/d1d/classDnsAgentXmppChannelManager.html" title=" " alt="" coords="195,559,407,585"/>
+<area shape="rect" id="node3" title=" " alt="" coords="129,95,188,121"/>
+<area shape="rect" id="node5" href="$dd/d43/classXmppServer.html" title=" " alt="" coords="530,462,625,489"/>
+<area shape="rect" id="node6" href="$d6/d09/classXmppConnectionManager.html" title=" " alt="" coords="317,365,489,392"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title=" " alt="" coords="325,184,406,211"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="210,455,393,496"/>
+<area shape="rect" id="node7" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="281,275,359,301"/>
+<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="310,95,421,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="445,95,499,121"/>
+<area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="523,95,629,121"/>
+<area shape="rect" id="node12" title=" " alt="" coords="535,5,617,32"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="384,275,584,301"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="670,365,933,392"/>
+<area shape="rect" id="node15" title=" " alt="" coords="957,365,1013,392"/>
+<area shape="rect" id="node16" href="$d6/d81/classXmppChannel.html" title=" " alt="" coords="432,559,536,585"/>
 </map>

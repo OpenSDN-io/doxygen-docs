@@ -1,51 +1,52 @@
 <map id="VNController::Connect" name="VNController::Connect">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="257,357,404,383"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a79125c1823500ee413f80ab19f7d150a" title="Agent::GetControllerlist\lChksum" alt="" coords="243,408,418,449"/>
-<area shape="rect" id="node4" href="$df/def/classVNController.html#a382478304b7f239c7071e3e246d1fba5" title="VNController::XmppServer\lConnect" alt="" coords="234,1273,427,1315"/>
-<area shape="rect" id="node44" href="$d8/dfe/classAgent.html#aff70be28e5f5bb8e441a74d262a2584d" title="Agent::GetDnslistChksum" alt="" coords="236,2619,425,2646"/>
-<area shape="rect" id="node45" href="$df/def/classVNController.html#a943f8fe82821fb11ff769e22e9b64bfb" title="VNController::DnsXmppServer\lConnect" alt="" coords="221,473,440,515"/>
-<area shape="rect" id="node32" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="829,2543,960,2570"/>
-<area shape="rect" id="node47" href="$df/def/classVNController.html#af8067d333a9cd05a19b4cbd69fd80767" title="VNController::increment\l_multicast_sequence_number" alt="" coords="223,2671,439,2712"/>
-<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#aa53c4b617e3ba5d960c2b5e1c3458aa5" title="Agent::set_cn_mcast\l_builder" alt="" coords="252,2736,409,2777"/>
-<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="835,2246,955,2273"/>
-<area shape="rect" id="node16" href="$dc/dff/classOperDB.html#a8174ef6fcba26d06051a4b0500765b19" title="OperDB::global_system\l_config" alt="" coords="525,2401,699,2443"/>
-<area shape="rect" id="node49" href="$d2/dd0/classGlobalSystemConfig.html#ac40202c39de9846016964d20b7b6d473" title="GlobalSystemConfig\l::gres_parameters" alt="" coords="253,2801,408,2843"/>
-<area shape="rect" id="node50" href="$df/def/classVNController.html#a015cb467abff4dfdf3d53f134d8f297b" title="VNController::GracefulRestart\lConfigListener" alt="" coords="223,2452,438,2493"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aa1bad68e0ea4d2a2896fd0d355330364" title="Agent::is_vhost_interface_up" alt="" coords="507,422,717,449"/>
-<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="531,321,693,347"/>
-<area shape="rect" id="node10" href="$df/def/classVNController.html#a828e2fd98a5334aa06c0c73ecfbf72bc" title="VNController::SetAgentMcast\lLabelRange" alt="" coords="507,2075,717,2116"/>
-<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a9f821606458653899841e82866b5e9b6" title="Agent::controller_ifmap\l_xmpp_server" alt="" coords="807,1313,982,1355"/>
-<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a4771ad79ea5a22b9ac8f222093760a4f" title="Agent::controller_xmpp\l_channel" alt="" coords="525,2336,699,2377"/>
-<area shape="rect" id="node13" href="$da/d25/classAgentXmppChannel.html#ab226a1ad8d3f0b60feb5574f7e21de8d" title="AgentXmppChannel::GetXmpp\lServer" alt="" coords="502,2205,722,2247"/>
-<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#aa18b253180bd41fe0a3ce4a2d060f454" title="Agent::agent_name" alt="" coords="537,371,687,398"/>
-<area shape="rect" id="node17" href="$d2/dd0/classGlobalSystemConfig.html#aa6cee9af8daf336d1d37ee47277b1c1b" title="GlobalSystemConfig\l::fc_params" alt="" coords="535,2271,689,2312"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#af11309327c59fd34c1c97dc237385635" title="Agent::tor_agent_enabled" alt="" coords="800,473,989,499"/>
-<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ad4a65db06e85f19157e0674cff20f468" title="Agent::isMockMode" alt="" coords="821,371,969,398"/>
-<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a06a92e676b06f3c25ae59ccbda9f50c3" title="Agent::compute_node_ip" alt="" coords="521,539,703,566"/>
-<area shape="rect" id="node19" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="823,894,967,921"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#acce9892a95904dab529ee7739b78e279" title="Agent::test_mode" alt="" coords="826,422,963,449"/>
-<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a1ed681c7f69a4c47e13194ec60118425" title="Agent::xmpp_auth_enabled" alt="" coords="512,995,712,1022"/>
-<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#a76d2db29c061e94abce5923a11a9dc7b" title="Agent::xmpp_server_cert" alt="" coords="519,641,705,667"/>
-<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#a0a249c77ac3dd88a5d9a2bbb5c872492" title="Agent::xmpp_server_key" alt="" coords="520,691,704,718"/>
-<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#a82c5c821fab6188490cc94a08f88f621" title="Agent::xmpp_ca_cert" alt="" coords="533,742,691,769"/>
-<area shape="rect" id="node24" href="$d8/dfe/classAgent.html#a422f414abac1c9645de4e1459a06a94b" title="Agent::controller_ifmap\l_xmpp_port" alt="" coords="807,1236,982,1277"/>
-<area shape="rect" id="node25" href="$df/def/classVNController.html#ad020bcd21244f72a73390b826e53a363" title="VNController::SetDscpConfig" alt="" coords="509,945,715,971"/>
-<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#a83aa08ee97cc5512a8610b7631823501" title="Agent::subcluster_name" alt="" coords="523,1046,701,1073"/>
-<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="527,270,697,297"/>
-<area shape="rect" id="node28" href="$df/def/classVNController.html#a5d6c7deb768d045633e8633eed99f03c" title="VNController::fabric\l_multicast_label_range" alt="" coords="525,1097,699,1139"/>
-<area shape="rect" id="node29" href="$db/de5/classXmppClient.html#ae81df9f5c85609767ed707ebba7caf47" title="XmppClient::RegisterConnection\lEvent" alt="" coords="496,473,728,515"/>
-<area shape="rect" id="node30" href="$da/d25/classAgentXmppChannel.html#a38ec08c538b0ee6d61bbb191dee728c5" title="AgentXmppChannel::XmppClient\lChannelEvent" alt="" coords="495,2140,729,2181"/>
-<area shape="rect" id="node33" href="$d6/d81/classXmppChannel.html#a0eb74faba2c861882c9dfd4a51367495" title="XmppChannel::RegisterRxMessage\lTraceCallback" alt="" coords="488,1383,736,1424"/>
-<area shape="rect" id="node34" href="$df/def/classVNController.html#a9123cf864ed68ce6c8457d7aa3d7613a" title="VNController::RxXmppMessage\lTrace" alt="" coords="499,1448,725,1489"/>
-<area shape="rect" id="node31" href="$da/d25/classAgentXmppChannel.html#a32124a5f7cc341e4d6abe2ef5102d4c5" title="AgentXmppChannel::GetXmpp\lServerIdx" alt="" coords="785,1889,1005,1931"/>
-<area shape="rect" id="node35" href="$d6/d81/classXmppChannel.html#a81d3b80d7a5aa0973aa0718b94dcf413" title="XmppChannel::RegisterTxMessage\lTraceCallback" alt="" coords="489,1513,735,1555"/>
-<area shape="rect" id="node36" href="$df/def/classVNController.html#a82ec3b86854c17fb20c3ae1d92867d40" title="VNController::TxXmppMessage\lTrace" alt="" coords="500,1579,724,1620"/>
-<area shape="rect" id="node37" href="$da/d25/classAgentXmppChannel.html#adb6dade93b46021b404edf2c7cfb4d5d" title="AgentXmppChannel::Register\lXmppChannel" alt="" coords="506,1696,718,1737"/>
-<area shape="rect" id="node38" href="$da/d25/classAgentXmppChannel.html#a747185b9df7f4481b907f11b8e6dd4a7" title="AgentXmppChannel::Update\lConnectionInfo" alt="" coords="509,1215,715,1256"/>
-<area shape="rect" id="node39" href="$d6/d81/classXmppChannel.html#a66dac476634cb503503565a8421c1531" title="XmppChannel::GetPeerState" alt="" coords="509,590,715,617"/>
-<area shape="rect" id="node40" href="$d8/dfe/classAgent.html#ad73999b505b09de42115b556eb9b32dd" title="Agent::set_controller\l_xmpp_channel" alt="" coords="533,1761,691,1803"/>
-<area shape="rect" id="node41" href="$d8/dfe/classAgent.html#a204ad1d3a9e7e020d0c715c79eacac69" title="Agent::set_ifmap_xmpp\l_channel" alt="" coords="523,1827,701,1868"/>
-<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#ace361054f3cca0d56a6f7c5433dc4bd0" title="Agent::set_controller\l_ifmap_xmpp_client" alt="" coords="533,1892,691,1933"/>
-<area shape="rect" id="node43" href="$d8/dfe/classAgent.html#ab190bf824c300063417052872094c349" title="Agent::set_controller\l_ifmap_xmpp_init" alt="" coords="533,1957,691,1999"/>
-<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="537,67,687,94"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2070,160,2097"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a1b0cf9df83125a41962254ea9d6a6495" title=" " alt="" coords="744,158,861,185"/>
+<area shape="rect" id="node3" href="$df/def/classVNController.html#a943f8fe82821fb11ff769e22e9b64bfb" title=" " alt="" coords="208,949,409,991"/>
+<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="747,2091,858,2118"/>
+<area shape="rect" id="node37" href="$d8/dfe/classAgent.html#a79125c1823500ee413f80ab19f7d150a" title=" " alt="" coords="229,1928,388,1969"/>
+<area shape="rect" id="node38" href="$d8/dfe/classAgent.html#aff70be28e5f5bb8e441a74d262a2584d" title=" " alt="" coords="221,1994,396,2021"/>
+<area shape="rect" id="node39" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="241,2045,376,2071"/>
+<area shape="rect" id="node40" href="$dc/dff/classOperDB.html#a4ad8853ef9d12b5161f25f1cf567608a" title=" " alt="" coords="484,2052,643,2093"/>
+<area shape="rect" id="node41" href="$df/def/classVNController.html#a015cb467abff4dfdf3d53f134d8f297b" title=" " alt="" coords="210,2147,407,2188"/>
+<area shape="rect" id="node47" href="$d2/dd0/classGlobalSystemConfig.html#ac40202c39de9846016964d20b7b6d473" title=" " alt="" coords="238,2212,379,2253"/>
+<area shape="rect" id="node48" href="$df/def/classVNController.html#af8067d333a9cd05a19b4cbd69fd80767" title=" " alt="" coords="211,2277,406,2319"/>
+<area shape="rect" id="node49" href="$d8/dfe/classAgent.html#aa53c4b617e3ba5d960c2b5e1c3458aa5" title=" " alt="" coords="235,2343,382,2384"/>
+<area shape="rect" id="node50" href="$df/def/classVNController.html#a382478304b7f239c7071e3e246d1fba5" title=" " alt="" coords="220,1639,397,1680"/>
+<area shape="rect" id="node4" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title=" " alt="" coords="735,606,870,633"/>
+<area shape="rect" id="node5" href="$dd/d66/classXmppInit.html#a00d4b9ebba6c0bbf7ec81d2f9c078bfb" title=" " alt="" coords="470,1225,657,1267"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a47a5689d03127f4bf739a5f070bf7457" title=" " alt="" coords="496,1291,631,1318"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a896bbbccc00eddeef531efd8c346587f" title=" " alt="" coords="480,1342,647,1369"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ad32ff725dba59418506e014a90ad2872" title=" " alt="" coords="479,53,648,79"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a320fd6261a8c5f08ede2b09d17b8b1cb" title=" " alt="" coords="739,517,867,543"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#a85ab6247a1e21175cc8a13a547f27dfc" title=" " alt="" coords="723,434,882,461"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a3f2f00dc400a1d6fbcbfa14f75714424" title=" " alt="" coords="475,103,651,130"/>
+<area shape="rect" id="node12" href="$d0/dd6/classContrailPorts.html#a59cf97a99abe44433628e2c2560f77fb" title=" " alt="" coords="481,154,646,181"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="488,1393,639,1419"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17" title=" " alt="" coords="487,1443,639,1470"/>
+<area shape="rect" id="node15" href="$db/de5/classXmppClient.html#a7375726671d61501598e062e6564f7ea" title=" " alt="" coords="478,205,649,231"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a0346274c6f2b7f16c5eb0ebe0470277e" title=" " alt="" coords="493,255,633,282"/>
+<area shape="rect" id="node17" href="$d6/d81/classXmppChannel.html#a66dac476634cb503503565a8421c1531" title=" " alt="" coords="468,1545,659,1571"/>
+<area shape="rect" id="node18" href="$d5/d06/classAgentDnsXmppChannel.html#a7845104cbef942cdd6ac11e36672ebd0" title=" " alt="" coords="482,475,645,516"/>
+<area shape="rect" id="node19" href="$dd/d66/classXmppInit.html#ab54e8c8c9463b63e024a8fb5fe3faa99" title=" " alt="" coords="496,1646,631,1673"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a952df0854eef0c879564d495eb94963f" title=" " alt="" coords="467,1798,659,1825"/>
+<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#af41f874d024e2acd8cd2d5331b068095" title=" " alt="" coords="733,1747,872,1774"/>
+<area shape="rect" id="node22" href="$d8/dfe/classAgent.html#aacb70ccec5f2acd5c725399f0008c448" title=" " alt="" coords="740,1798,865,1825"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#acedec812395a05a0262da701c55701da" title=" " alt="" coords="717,1849,888,1875"/>
+<area shape="rect" id="node24" href="$db/de5/classXmppClient.html#ae81df9f5c85609767ed707ebba7caf47" title=" " alt="" coords="457,1160,669,1201"/>
+<area shape="rect" id="node25" href="$d5/d06/classAgentDnsXmppChannel.html#ac6b0f6c94e667b4f147012127c8df6f7" title=" " alt="" coords="482,657,645,699"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#a37882c8c59ba6c21b4c8018fd9b8f154" title=" " alt="" coords="489,723,638,764"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#ad37a07730def2599fe87a19d2186737b" title=" " alt="" coords="489,840,638,881"/>
+<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a271bc7d8e9a0b955a9c0dd322dfd7410" title=" " alt="" coords="477,906,650,933"/>
+<area shape="rect" id="node29" href="$df/def/classVNController.html#a32d85984169325881055e447741f7070" title=" " alt="" coords="466,1899,661,1926"/>
+<area shape="rect" id="node31" href="$d5/d06/classAgentDnsXmppChannel.html#a4e25813c08fdf7488e9426650e814a5f" title=" " alt="" coords="482,540,645,581"/>
+<area shape="rect" id="node32" href="$d8/dfe/classAgent.html#ad656308ef05b749632cbc76fe60ece71" title=" " alt="" coords="490,1494,637,1521"/>
+<area shape="rect" id="node33" href="$d8/dfe/classAgent.html#a017b140525034d9b84d50d4351bdd5d8" title=" " alt="" coords="467,957,659,983"/>
+<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#a60a899ba5e02ba2ef21ba0ab4b63304a" title=" " alt="" coords="479,1595,648,1622"/>
+<area shape="rect" id="node35" href="$d8/dfe/classAgent.html#ab2d226b6f6c3a5413a8088d7e2b0b1c6" title=" " alt="" coords="480,1109,647,1135"/>
+<area shape="rect" id="node36" href="$d5/d06/classAgentDnsXmppChannel.html#a1604692627a9e839abcfc1acdb3c5663" title=" " alt="" coords="474,307,653,348"/>
+<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a12ddcb35781c812a632536f2689ba8c6" title=" " alt="" coords="485,2117,641,2159"/>
+<area shape="rect" id="node43" href="$df/dac/classAgentIfMapXmppChannel.html#ac91b341b432dc471e3d728b692d2b8d4" title=" " alt="" coords="478,2285,649,2327"/>
+<area shape="rect" id="node44" href="$da/d25/classAgentXmppChannel.html#a4a9ce922706211bb4c72b2653918f918" title=" " alt="" coords="480,2351,647,2392"/>
+<area shape="rect" id="node45" href="$da/d25/classAgentXmppChannel.html#abba494f651224db6f3bde4c75fdb4c2a" title=" " alt="" coords="480,2416,647,2457"/>
+<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#ae32e7e1b22fcc4c94ea9af9bd02a8e73" title=" " alt="" coords="470,2234,657,2261"/>
 </map>

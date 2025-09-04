@@ -1,7 +1,8 @@
 <map id="AgentUveBase::ExpectedConnections" name="AgentUveBase::ExpectedConnections">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="349,5,467,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a9f821606458653899841e82866b5e9b6" title="Agent::controller_ifmap\l_xmpp_server" alt="" coords="321,57,495,98"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab15bde5eed28d4303847539448f12e90" title="Agent::services" alt="" coords="347,123,469,149"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a8bcd698ec2f06877505fd3c8ddf18171" title="Agent::dns_server" alt="" coords="339,173,477,200"/>
-<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#a238b8e1c56f483ebb4d57118e0dc9e3d" title="AgentParam::collector\l_server_list" alt="" coords="325,225,491,266"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,251,163"/>
+<area shape="rect" id="node2" href="$dc/dd4/classAgentParam.html#a44d34021622cbe2807cbbb6bd64a88cf" title=" " alt="" coords="301,5,452,47"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a81256e01840b54b8943f53ef125a7e84" title=" " alt="" coords="299,71,455,112"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a320fd6261a8c5f08ede2b09d17b8b1cb" title=" " alt="" coords="313,137,441,163"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a40469a62dd1c93712c9164c8240f0021" title=" " alt="" coords="323,187,430,214"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a181fa155f74b729be6649f3f22298eec" title=" " alt="" coords="319,238,434,265"/>
 </map>

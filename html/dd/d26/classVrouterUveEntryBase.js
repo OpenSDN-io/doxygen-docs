@@ -16,7 +16,7 @@ var classVrouterUveEntryBase =
     [ "DispatchComputeCpuStateMsg", "dd/d26/classVrouterUveEntryBase.html#a0f1b13d220d9b39fea3e1d822617a2dd", null ],
     [ "DispatchVrouterMsg", "dd/d26/classVrouterUveEntryBase.html#a588ecd221304fb07ad8ddba33ac61d01", null ],
     [ "DispatchVrouterStatsMsg", "dd/d26/classVrouterUveEntryBase.html#a7b862c3fa8c8315f2730433e52a9fe7f", null ],
-    [ "GetMacAddress", "dd/d26/classVrouterUveEntryBase.html#aec8ab89b1e0fb39c315e723b20a8df17", null ],
+    [ "GetMacAddress", "dd/d26/classVrouterUveEntryBase.html#a09727156c2a2f7854261dc8e9585ac74", null ],
     [ "InterfaceNotify", "dd/d26/classVrouterUveEntryBase.html#a147cf88371ec1c869e232353ec48221b", null ],
     [ "InterfaceToPhysicalDevice", "dd/d26/classVrouterUveEntryBase.html#a52e465a125b17ce148d501545621bb93", null ],
     [ "InterfaceWalkDone", "dd/d26/classVrouterUveEntryBase.html#aac490a5d4b9de218ace1d65b39539e61", null ],

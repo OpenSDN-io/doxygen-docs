@@ -1,37 +1,52 @@
 <map id="HealthCheckTable::OperDBResync" name="HealthCheckTable::OperDBResync">
-<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="644,5,769,32"/>
-<area shape="rect" id="node3" href="$dd/df6/classHealthCheckService.html#a6fd651f85cc69eb651f4c251b4fea487" title="HealthCheckService\l::UpdateInterfaceInstanceService\lReference" alt="" coords="297,52,535,108"/>
-<area shape="rect" id="node5" href="$db/d24/classHealthCheckTable.html#a794a561bc9f2fa201cfdf42038c585d0" title="HealthCheckTable::OperDBOn\lChange" alt="" coords="309,165,523,206"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#a0ee9e6bae25a6cddb888259c86b13c09" title="VmInterface::vmi_cfg_uuid" alt="" coords="608,63,805,89"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="1939,299,2117,325"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="611,113,803,140"/>
-<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#af8b95472aca34a1fb0713103f58b96b5" title="HealthCheckService\l::Copy" alt="" coords="630,589,783,630"/>
-<area shape="rect" id="node36" href="$dd/df6/classHealthCheckService.html#afa0f2cc46e54d5b9d00f7cb31409e4c5" title="HealthCheckService\l::UpdateInstanceServiceReference" alt="" coords="584,165,829,206"/>
-<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#a04abb8e320f12baf050b1b533a97b778" title="HealthCheckService\l::IsSegmentHealthCheckService" alt="" coords="1409,610,1639,651"/>
-<area shape="rect" id="node10" href="$dd/df6/classHealthCheckService.html#ab86ebb0b5270623a0f1c9e8719c4a9d0" title="HealthCheckService\l::GetHealthCheckType" alt="" coords="899,618,1066,659"/>
-<area shape="rect" id="node11" href="$dd/df6/classHealthCheckService.html#a448ab920bbd24caf1a4238aa06068bc2" title="HealthCheckService\l::DeleteInstances" alt="" coords="906,903,1059,945"/>
-<area shape="rect" id="node12" href="$dd/df6/classHealthCheckService.html#a446980e88383cc9aa8eec2f1bc9b27db" title="HealthCheckService\l::StopHealthCheckService" alt="" coords="1153,1113,1343,1154"/>
-<area shape="rect" id="node19" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="1169,735,1327,761"/>
-<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="899,969,1066,996"/>
-<area shape="rect" id="node21" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="1175,449,1321,476"/>
-<area shape="rect" id="node24" href="$d5/d21/classVmInterface.html#a322445f53f90863706aee2cb9cebc1ff" title="VmInterface::PortTuplePaired\lInterface" alt="" coords="877,501,1088,542"/>
-<area shape="rect" id="node25" href="$d5/d21/classVmInterface.html#aac520ce9c05526deff642b822bf9478f" title="VmInterface::GetServiceIp" alt="" coords="886,281,1079,308"/>
-<area shape="rect" id="node26" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="902,333,1063,374"/>
-<area shape="rect" id="node27" href="$d5/d21/classVmInterface.html#a8c95437376bbb96514965e73c07430ba" title="VmInterface::GetGatewayIp" alt="" coords="881,399,1084,425"/>
-<area shape="rect" id="node28" href="$dd/df6/classHealthCheckService.html#accf205f6bfa688e944dbdad75173b47d" title="HealthCheckService\l::StartHealthCheckService" alt="" coords="887,786,1079,827"/>
-<area shape="rect" id="node29" href="$dd/df6/classHealthCheckService.html#ab83b832e551971dab3532ee2f9255717" title="HealthCheckService\l::IsInstanceTaskBased" alt="" coords="1165,669,1331,710"/>
-<area shape="rect" id="node13" href="$d8/d4e/classHealthCheckInstanceBase.html#a9ab28788ab854033371a0cbdeaf93ac8" title="HealthCheckInstanceBase\l::DestroyInstanceTask" alt="" coords="1428,1047,1620,1089"/>
-<area shape="rect" id="node14" href="$d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06" title="HealthCheckInstanceBase\l::StopTask" alt="" coords="1428,1113,1620,1154"/>
-<area shape="rect" id="node18" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="1428,1178,1620,1219"/>
-<area shape="rect" id="node15" href="$dd/df6/classHealthCheckService.html#a77749be4896cf655c9918bb31a907014" title="HealthCheckService\l::table" alt="" coords="1713,1079,1866,1121"/>
-<area shape="rect" id="node16" href="$db/d24/classHealthCheckTable.html#afbcd66737ff44d7fc8ef38e72b0447a9" title="HealthCheckTable::Instance\lEventEnqueue" alt="" coords="1688,1145,1891,1186"/>
-<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1947,1152,2109,1179"/>
-<area shape="rect" id="node22" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="1430,442,1618,483"/>
-<area shape="rect" id="node23" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="1703,365,1875,392"/>
-<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a08aa63295d0d4e0a4899e92ac33c783d" title="Agent::metadata_ip\l_allocator" alt="" coords="1173,851,1323,893"/>
-<area shape="rect" id="node31" href="$dd/df6/classHealthCheckService.html#a7e79677003f051200e6693f435637b14" title="HealthCheckService\l::IsVnIpListHealthCheckService" alt="" coords="1136,917,1360,958"/>
-<area shape="rect" id="node32" href="$de/da9/classHealthCheckMacIpInstanceService.html#a0dd4e2ee8da4d5507470f6b36001abed" title="HealthCheckMacIpInstance\lService::set_destination_mac" alt="" coords="1141,982,1355,1023"/>
-<area shape="rect" id="node33" href="$d8/d4e/classHealthCheckInstanceBase.html#a67caca9d58e57dc1e7c4be03239b2bd8" title="HealthCheckInstanceBase\l::set_source_ip" alt="" coords="1152,1047,1344,1089"/>
-<area shape="rect" id="node35" href="$d8/d4e/classHealthCheckInstanceBase.html#a77174aa0123f5bd8f44619cc1bfb54bc" title="HealthCheckInstanceBase\l::set_destination_ip" alt="" coords="1152,786,1344,827"/>
-<area shape="rect" id="node34" href="$d8/d4e/classHealthCheckInstanceBase.html#aefe5f221a12d58120bc53e0052b1493d" title="HealthCheckInstanceBase::ip" alt="" coords="1418,895,1630,921"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,339,232,365"/>
+<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="603,277,717,304"/>
+<area shape="rect" id="node3" href="$db/d24/classHealthCheckTable.html#a794a561bc9f2fa201cfdf42038c585d0" title=" " alt="" coords="289,437,490,478"/>
+<area shape="rect" id="node49" href="$dd/df6/classHealthCheckService.html#a6fd651f85cc69eb651f4c251b4fea487" title=" " alt="" coords="280,324,499,380"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title=" " alt="" coords="570,385,750,412"/>
+<area shape="rect" id="node5" href="$dd/df6/classHealthCheckService.html#af8b95472aca34a1fb0713103f58b96b5" title=" " alt="" coords="589,437,731,478"/>
+<area shape="rect" id="node30" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="1820,760,1987,787"/>
+<area shape="rect" id="node48" href="$dd/df6/classHealthCheckService.html#afa0f2cc46e54d5b9d00f7cb31409e4c5" title=" " alt="" coords="547,837,773,878"/>
+<area shape="rect" id="node6" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="1096,224,1243,251"/>
+<area shape="rect" id="node7" href="$dd/df6/classHealthCheckService.html#a448ab920bbd24caf1a4238aa06068bc2" title=" " alt="" coords="847,437,990,478"/>
+<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#a446980e88383cc9aa8eec2f1bc9b27db" title=" " alt="" coords="1080,602,1259,643"/>
+<area shape="rect" id="node27" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="1100,727,1239,753"/>
+<area shape="rect" id="node31" href="$d5/d21/classVmInterface.html#afeff8edda902deec8a1ad81dcc6cd02f" title=" " alt="" coords="826,633,1011,660"/>
+<area shape="rect" id="node32" href="$dd/df6/classHealthCheckService.html#a41e32d0d6d3c9e666a23ef4033ca1158" title=" " alt="" coords="841,113,996,154"/>
+<area shape="rect" id="node33" href="$dd/df6/classHealthCheckService.html#a6fd17347e6aa17414c02b6d79114b5f7" title=" " alt="" coords="1323,99,1537,141"/>
+<area shape="rect" id="node34" href="$d5/d21/classVmInterface.html#a523f4cddbdb1d6641d4e5fc28034a0f5" title=" " alt="" coords="829,684,1008,711"/>
+<area shape="rect" id="node35" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="843,5,994,32"/>
+<area shape="rect" id="node36" href="$dd/df6/classHealthCheckService.html#aa6ca12e9ce8039b53768301005d85ce5" title=" " alt="" coords="1091,158,1247,199"/>
+<area shape="rect" id="node37" href="$d5/d21/classVmInterface.html#a1b16718b6fabf27c07c820c9c9359d96" title=" " alt="" coords="821,567,1016,609"/>
+<area shape="rect" id="node40" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="845,502,992,543"/>
+<area shape="rect" id="node41" href="$dd/df6/classHealthCheckService.html#accf205f6bfa688e944dbdad75173b47d" title=" " alt="" coords="829,319,1009,361"/>
+<area shape="rect" id="node9" href="$d8/d4e/classHealthCheckInstanceBase.html#a9ab28788ab854033371a0cbdeaf93ac8" title=" " alt="" coords="1341,485,1519,526"/>
+<area shape="rect" id="node10" href="$d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef" title=" " alt="" coords="1589,538,1768,579"/>
+<area shape="rect" id="node11" href="$d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06" title=" " alt="" coords="1341,602,1519,643"/>
+<area shape="rect" id="node12" href="$db/d24/classHealthCheckTable.html#ad0d51934a48450005c80b2c4bc784ec8" title=" " alt="" coords="1585,603,1772,645"/>
+<area shape="rect" id="node26" href="$dd/df6/classHealthCheckService.html#a2d7c778b4755ddfb85ce2610ba6476a7" title=" " alt="" coords="1607,669,1750,710"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1828,611,1979,637"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="2035,501,2245,528"/>
+<area shape="rect" id="node16" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="2293,611,2495,637"/>
+<area shape="rect" id="node23" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="2039,603,2241,645"/>
+<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="2297,669,2491,696"/>
+<area shape="rect" id="node25" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="2043,721,2237,762"/>
+<area shape="rect" id="node15" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="2305,494,2483,535"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="2546,545,2750,586"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="2549,727,2747,769"/>
+<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="2543,611,2753,637"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="2544,662,2752,703"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="2815,585,3002,612"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="2801,636,3016,663"/>
+<area shape="rect" id="node28" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="1343,719,1517,761"/>
+<area shape="rect" id="node29" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="1598,735,1759,761"/>
+<area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="1087,668,1251,695"/>
+<area shape="rect" id="node39" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="1345,668,1515,695"/>
+<area shape="rect" id="node42" href="$dd/df6/classHealthCheckService.html#a1bdce6f9d565bfd4734521fba83a342e" title=" " alt="" coords="1064,537,1275,578"/>
+<area shape="rect" id="node43" href="$d8/dfe/classAgent.html#af62f87b55f54b44dc09d1b270cb13610" title=" " alt="" coords="1102,275,1237,317"/>
+<area shape="rect" id="node44" href="$d8/d4e/classHealthCheckInstanceBase.html#a77174aa0123f5bd8f44619cc1bfb54bc" title=" " alt="" coords="1080,341,1259,382"/>
+<area shape="rect" id="node46" href="$de/da9/classHealthCheckMacIpInstanceService.html#a0dd4e2ee8da4d5507470f6b36001abed" title=" " alt="" coords="1072,471,1267,513"/>
+<area shape="rect" id="node47" href="$d8/d4e/classHealthCheckInstanceBase.html#a67caca9d58e57dc1e7c4be03239b2bd8" title=" " alt="" coords="1080,406,1259,447"/>
+<area shape="rect" id="node45" href="$d8/d4e/classHealthCheckInstanceBase.html#a407b338fd85e54775f440b38bf5b5f7f" title=" " alt="" coords="1332,381,1528,408"/>
+<area shape="rect" id="node50" href="$d5/d21/classVmInterface.html#a6359392d9d696bc0b3c777af0417d152" title=" " alt="" coords="571,335,749,361"/>
 </map>

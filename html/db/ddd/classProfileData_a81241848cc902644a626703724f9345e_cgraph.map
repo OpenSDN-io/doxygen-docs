@@ -1,7 +1,8 @@
 <map id="ProfileData::ProfileData" name="ProfileData::ProfileData">
-<area shape="rect" id="node2" href="$db/ddb/structProfileData_1_1FlowStats.html#a81f69129b24abc0fa5ea17d969a28e20" title="ProfileData::FlowStats\l::Reset" alt="" coords="252,5,417,46"/>
-<area shape="rect" id="node3" href="$de/daa/structProfileData_1_1PktStats.html#a62f7ed9c34170696ffa7633a4074236b" title="ProfileData::PktStats\l::Reset" alt="" coords="257,70,413,111"/>
-<area shape="rect" id="node4" href="$d0/d98/structProfileData_1_1DBTableStats.html#a984302801aefa207b03c09890f4a6e55" title="ProfileData::DBTableStats\l::Reset" alt="" coords="241,135,429,177"/>
-<area shape="rect" id="node5" href="$d3/dfc/structProfileData_1_1XmppStats.html#a1ffe6f90c93fc91ade8f125ea5eb67a5" title="ProfileData::XmppStats\l::Reset" alt="" coords="248,201,421,242"/>
-<area shape="rect" id="node6" href="$d6/d63/structProfileData_1_1WorkQueueStats.html#a9bfd9f2c459f8b7413cfd5e8df6bc3fc" title="ProfileData::WorkQueueStats\l::Reset" alt="" coords="229,266,440,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,164,170"/>
+<area shape="rect" id="node2" href="$d6/d63/structProfileData_1_1WorkQueueStats.html#a9bfd9f2c459f8b7413cfd5e8df6bc3fc" title=" " alt="" coords="212,5,407,47"/>
+<area shape="rect" id="node3" href="$d0/d98/structProfileData_1_1DBTableStats.html#a984302801aefa207b03c09890f4a6e55" title=" " alt="" coords="222,71,397,112"/>
+<area shape="rect" id="node4" href="$db/ddb/structProfileData_1_1FlowStats.html#a81f69129b24abc0fa5ea17d969a28e20" title=" " alt="" coords="233,136,386,177"/>
+<area shape="rect" id="node5" href="$de/daa/structProfileData_1_1PktStats.html#a62f7ed9c34170696ffa7633a4074236b" title=" " alt="" coords="237,201,382,243"/>
+<area shape="rect" id="node6" href="$d3/dfc/structProfileData_1_1XmppStats.html#a1ffe6f90c93fc91ade8f125ea5eb67a5" title=" " alt="" coords="230,267,389,308"/>
 </map>

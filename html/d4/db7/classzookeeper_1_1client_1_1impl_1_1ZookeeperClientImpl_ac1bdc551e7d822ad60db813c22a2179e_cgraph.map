@@ -1,6 +1,7 @@
 <map id="zookeeper::client::impl::ZookeeperClientImpl::CheckNodeExist" name="zookeeper::client::impl::ZookeeperClientImpl::CheckNodeExist">
-<area shape="rect" id="node2" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a52a6cd0719e8a9d918eae508d2f982a5" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::IsConnected" alt="" coords="251,5,447,61"/>
-<area shape="rect" id="node3" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a99e06e42a828b9a7910d032629cae9f5" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::Connect" alt="" coords="251,85,447,141"/>
-<area shape="rect" id="node4" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#ab705a69f576d9ae142e7753f68635e95" title="zookeeper::client::\limpl::ZookeeperWatcher" alt="" coords="497,93,679,134"/>
-<area shape="rect" id="node5" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a6984bc2ac605c6da9ca625301acdd1db" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::GetClient" alt="" coords="729,85,925,141"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,179,101"/>
+<area shape="rect" id="node2" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a99e06e42a828b9a7910d032629cae9f5" title=" " alt="" coords="227,5,400,61"/>
+<area shape="rect" id="node5" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a73e2af05208d54cfc55c2a5fcd54c6b5" title=" " alt="" coords="227,85,400,141"/>
+<area shape="rect" id="node3" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#ab705a69f576d9ae142e7753f68635e95" title=" " alt="" coords="448,13,611,54"/>
+<area shape="rect" id="node4" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a6984bc2ac605c6da9ca625301acdd1db" title=" " alt="" coords="659,5,832,61"/>
 </map>

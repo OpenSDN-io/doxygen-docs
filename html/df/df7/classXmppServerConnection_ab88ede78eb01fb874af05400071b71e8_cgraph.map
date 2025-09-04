@@ -1,9 +1,10 @@
 <map id="XmppServerConnection::RetryDelete" name="XmppServerConnection::RetryDelete">
-<area shape="rect" id="node2" href="$df/df7/classXmppServerConnection.html#a9af8f124661f529de7b87bf66dd19338" title="XmppServerConnection\l::deleter" alt="" coords="243,5,418,46"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="229,71,432,97"/>
-<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="233,121,428,148"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="485,20,672,47"/>
-<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="489,71,669,97"/>
-<area shape="rect" id="node7" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="481,121,677,148"/>
-<area shape="rect" id="node8" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="726,114,909,155"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,165,105"/>
+<area shape="rect" id="node2" href="$df/df7/classXmppServerConnection.html#a9af8f124661f529de7b87bf66dd19338" title=" " alt="" coords="227,5,387,47"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a4ecac316052b17e6cf89ec1196a537df" title=" " alt="" coords="213,71,400,98"/>
+<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title=" " alt="" coords="218,122,395,149"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title=" " alt="" coords="452,21,621,47"/>
+<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="455,71,618,98"/>
+<area shape="rect" id="node7" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title=" " alt="" coords="448,122,625,149"/>
+<area shape="rect" id="node8" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title=" " alt="" coords="673,115,840,156"/>
 </map>

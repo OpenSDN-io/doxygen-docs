@@ -1,7 +1,8 @@
 <map id="TaskScheduler::IsEmpty" name="TaskScheduler::IsEmpty">
-<area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#a220c3532954c5c626d2c151ea623ada2" title="TaskGroup::TaskRunCount" alt="" coords="231,5,420,32"/>
-<area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title="TaskGroup::IsDisabled" alt="" coords="242,56,409,83"/>
-<area shape="rect" id="node4" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="Returns true, if the waiq_ of all the tasks in the group are empty. " alt="" coords="230,107,421,133"/>
-<area shape="rect" id="node5" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="470,81,629,108"/>
-<area shape="rect" id="node6" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="469,132,629,159"/>
+<area shape="rect" id="node1" title="Returns true if there are no tasks running and/or enqueued If running_only is true,..." alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="231,5,386,32"/>
+<area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#a6631610abd6c5ce1cfb2d55d8c8f21ba" title="Returns true, if the waiq_ of all the tasks in the group are empty." alt="" coords="219,56,398,83"/>
+<area shape="rect" id="node6" href="$d1/d72/classTaskGroup.html#a46aca603e2cf99395636013c824cfd94" title=" " alt="" coords="219,107,399,133"/>
+<area shape="rect" id="node4" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="447,31,597,57"/>
+<area shape="rect" id="node5" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="447,81,597,108"/>
 </map>

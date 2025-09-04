@@ -1,8 +1,8 @@
 var gmp__externs_8h =
 [
-    [ "gmp_rcv_peek_callback_func", "d5/df8/gmp__externs_8h.html#aab5cda2eec8fb125a113217e2d1ed1c2", null ],
-    [ "gmp_xmit_peek_callback_func", "d5/df8/gmp__externs_8h.html#ae6c1c27dd8c0ce6cbb08c5715efea3b4", null ],
-    [ "gmpp_xmit_ready_func", "d5/df8/gmp__externs_8h.html#a2b49ae5f08387416807dcf8a001bde93", null ],
+    [ "gmp_rcv_peek_callback_func", "d5/df8/gmp__externs_8h.html#aafd1922e5438df10e2c002a46fc5ad97", null ],
+    [ "gmp_xmit_peek_callback_func", "d5/df8/gmp__externs_8h.html#abb50d0f6ee93a5669fb2b43fa99900ed", null ],
+    [ "gmpp_xmit_ready_func", "d5/df8/gmp__externs_8h.html#adf9de48c4c2a52af46cb62d0512aa293", null ],
     [ "gmp_addr_thread_count", "d5/df8/gmp__externs_8h.html#a156780507bbdcbb17ef7c30869aa4fc1", null ],
     [ "gmp_alloc_addr_thread", "d5/df8/gmp__externs_8h.html#aa4c136944603318a0ee5d86f8d82290b", null ],
     [ "gmp_destroy_addr_thread", "d5/df8/gmp__externs_8h.html#a8fd14aeb08d925bcfe0bc0d6a6e3d003", null ],

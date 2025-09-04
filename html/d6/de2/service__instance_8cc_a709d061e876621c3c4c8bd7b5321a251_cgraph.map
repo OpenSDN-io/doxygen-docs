@@ -1,10 +1,11 @@
 <map id="FindAndSetVirtualMachine" name="FindAndSetVirtualMachine">
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="246,5,413,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="252,56,407,83"/>
-<area shape="rect" id="node4" href="$d6/de2/service__instance_8cc.html#a553ecf4039250f2d54da1b747bd46e61" title="IsNodeType" alt="" coords="281,107,378,133"/>
-<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="246,157,413,184"/>
-<area shape="rect" id="node8" href="$d6/de2/service__instance_8cc.html#ae51d1392f1cc49cb430f74367d6bc3d4" title="IdPermsGetUuid" alt="" coords="265,208,393,235"/>
-<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="479,81,614,108"/>
-<area shape="rect" id="node6" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="462,132,631,159"/>
-<area shape="rect" id="node9" href="$de/d18/agent__cmn_8h.html#ada069ef2d81636444946183d6de69e97" title="CfgUuidSet" alt="" coords="499,208,594,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,183,133"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="233,5,385,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="238,56,381,83"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="231,107,388,133"/>
+<area shape="rect" id="node5" href="$d6/de2/service__instance_8cc.html#ae51d1392f1cc49cb430f74367d6bc3d4" title=" " alt="" coords="250,157,369,184"/>
+<area shape="rect" id="node7" href="$d6/de2/service__instance_8cc.html#a553ecf4039250f2d54da1b747bd46e61" title=" " alt="" coords="263,208,355,235"/>
+<area shape="rect" id="node6" href="$de/d18/agent__cmn_8h.html#ada069ef2d81636444946183d6de69e97" title=" " alt="" coords="470,157,561,184"/>
+<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="452,208,579,235"/>
+<area shape="rect" id="node9" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="436,259,595,285"/>
 </map>

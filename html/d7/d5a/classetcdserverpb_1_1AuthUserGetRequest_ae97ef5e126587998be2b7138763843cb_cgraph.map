@@ -1,8 +1,9 @@
 <map id="etcdserverpb::AuthUserGetRequest::New" name="etcdserverpb::AuthUserGetRequest::New">
-<area shape="rect" id="node2" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a994c5508b3899c176694f4914cb2a878" title="etcdserverpb::AuthUserGet\lRequest::AuthUserGetRequest" alt="" coords="254,86,471,127"/>
-<area shape="rect" id="node3" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a8180ec35b69dfe9c73ffdd5f7d55c44f" title="etcdserverpb::AuthUserGet\lRequest::internal_default\l_instance" alt="" coords="542,5,741,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ad8bb7b52e0ad1e98518e92149634ff1a" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserGetRequest" alt="" coords="521,86,762,127"/>
-<area shape="rect" id="node7" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a100e4143dbd412e303d9d7ec39dc83ad" title="etcdserverpb::AuthUserGet\lRequest::SharedCtor" alt="" coords="542,151,741,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8b38dd97ca5a1c3b7efcc551b3df04ac" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserGetRequestImpl" alt="" coords="811,86,1082,127"/>
-<area shape="rect" id="node6" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a558eb0f814b6ff10a355b7185e41c29a" title="etcdserverpb::AuthUserGet\lRequest::InitAsDefaultInstance" alt="" coords="1131,86,1354,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,188,120"/>
+<area shape="rect" id="node2" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a994c5508b3899c176694f4914cb2a878" title=" " alt="" coords="236,79,439,120"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ad8bb7b52e0ad1e98518e92149634ff1a" title=" " alt="" coords="487,5,708,47"/>
+<area shape="rect" id="node6" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a8180ec35b69dfe9c73ffdd5f7d55c44f" title=" " alt="" coords="506,71,689,127"/>
+<area shape="rect" id="node7" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a100e4143dbd412e303d9d7ec39dc83ad" title=" " alt="" coords="506,152,689,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8b38dd97ca5a1c3b7efcc551b3df04ac" title=" " alt="" coords="756,5,1003,47"/>
+<area shape="rect" id="node5" href="$d7/d5a/classetcdserverpb_1_1AuthUserGetRequest.html#a558eb0f814b6ff10a355b7185e41c29a" title=" " alt="" coords="1051,5,1255,47"/>
 </map>

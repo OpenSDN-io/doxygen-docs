@@ -1,9 +1,10 @@
 <map id="etcdserverpb::ResponseOp::MergeFrom" name="etcdserverpb::ResponseOp::MergeFrom">
-<area shape="rect" id="node2" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a6ec52c9615621ad6ddf0e51a8a605b6e" title="etcdserverpb::ResponseOp\l::response_case" alt="" coords="272,5,467,46"/>
-<area shape="rect" id="node3" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#adf859a1dc342f68dabdbd72ee9cf7a89" title="etcdserverpb::ResponseOp\l::mutable_response_range" alt="" coords="272,70,467,111"/>
-<area shape="rect" id="node4" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a43528a2dd1cecc5a2e8a5e84761304a8" title="etcdserverpb::ResponseOp\l::response_range" alt="" coords="272,135,467,177"/>
-<area shape="rect" id="node5" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a6235721cbc8ed817fa27876a18c238e3" title="etcdserverpb::ResponseOp\l::mutable_response_put" alt="" coords="272,201,467,242"/>
-<area shape="rect" id="node6" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a24cee8b3090067f057cda1b890e4aa7a" title="etcdserverpb::ResponseOp\l::response_put" alt="" coords="272,266,467,307"/>
-<area shape="rect" id="node7" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a4adada41115262c53322ba544243b0f7" title="etcdserverpb::ResponseOp\l::mutable_response_delete_range" alt="" coords="248,331,491,373"/>
-<area shape="rect" id="node8" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#acd21ab311303ffa6727dc9205c8d3918" title="etcdserverpb::ResponseOp\l::response_delete_range" alt="" coords="272,397,467,438"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,187,243"/>
+<area shape="rect" id="node2" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a4adada41115262c53322ba544243b0f7" title=" " alt="" coords="235,5,452,47"/>
+<area shape="rect" id="node3" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a6235721cbc8ed817fa27876a18c238e3" title=" " alt="" coords="253,71,434,112"/>
+<area shape="rect" id="node4" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#adf859a1dc342f68dabdbd72ee9cf7a89" title=" " alt="" coords="253,136,434,177"/>
+<area shape="rect" id="node5" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a7a581b87d8b687d3a151a73e1c421650" title=" " alt="" coords="253,201,434,243"/>
+<area shape="rect" id="node6" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a9eaf8a9ef8d60a8f26e24b435a763aee" title=" " alt="" coords="253,267,434,308"/>
+<area shape="rect" id="node7" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a474f0378c31f00aee5e031d32d724133" title=" " alt="" coords="253,332,434,373"/>
+<area shape="rect" id="node8" href="$d4/d25/classetcdserverpb_1_1ResponseOp.html#a6df29d23ec5fe0e265c46e0f01e842d8" title=" " alt="" coords="253,397,434,439"/>
 </map>

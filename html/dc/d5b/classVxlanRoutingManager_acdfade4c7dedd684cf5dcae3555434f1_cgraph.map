@@ -1,4 +1,5 @@
 <map id="VxlanRoutingManager::VxlanRoutingManager" name="VxlanRoutingManager::VxlanRoutingManager">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a50506d8cdd1c02212a201d2f081c9c96" title="Agent::local_vm_export_peer" alt="" coords="227,5,439,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a422ad6ac10e0f95ea7da756b518af0bc" title="Agent::vxlan_bgp_peer" alt="" coords="248,56,419,83"/>
+<area shape="rect" id="node1" title="Constructs instance of the class and links to the Agent class instance. Since only one agent class in..." alt="" coords="5,23,164,65"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a5aeeb6e212995e58522b3659a466bb23" title=" " alt="" coords="212,5,404,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a86c0996965d954ca17aba01d1b1f9a4c" title=" " alt="" coords="230,56,386,83"/>
 </map>

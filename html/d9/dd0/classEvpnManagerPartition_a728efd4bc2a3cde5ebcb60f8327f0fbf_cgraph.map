@@ -1,28 +1,29 @@
 <map id="EvpnManagerPartition::AddMcastNode" name="EvpnManagerPartition::AddMcastNode">
-<area shape="rect" id="node2" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="246,5,405,32"/>
-<area shape="rect" id="node3" href="$d0/db1/classEvpnPrefix.html#a325ba51ab1ee43f50c01cef4fb3d8e9a" title="EvpnPrefix::source" alt="" coords="254,56,397,83"/>
-<area shape="rect" id="node4" href="$d0/db1/classEvpnPrefix.html#acf9f893852d86212fb0c83684b0f88a0" title="EvpnPrefix::group" alt="" coords="257,107,393,133"/>
-<area shape="rect" id="node5" href="$dd/de9/classEvpnMcastNode.html#ab4dcfb228b588e137c8ea47e8f9a82ea" title="EvpnMcastNode::type" alt="" coords="244,157,407,184"/>
-<area shape="rect" id="node6" href="$dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="231,209,419,250"/>
-<area shape="rect" id="node7" href="$dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="231,274,419,315"/>
-<area shape="rect" id="node8" href="$d9/dd0/classEvpnManagerPartition.html#a88aebee716aeddf073eb330b4382ea58" title="Notify the Broadcast MAC route for the given EvpnMcastNode. " alt="" coords="243,339,407,381"/>
-<area shape="rect" id="node25" href="$d9/dd0/classEvpnManagerPartition.html#a3dcd2f689f7c69aca449359f0245d55d" title="Go through all replicator EvpnMcastNodes and notify associated Broadcast MAC route. " alt="" coords="219,405,432,446"/>
-<area shape="rect" id="node26" href="$dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="481,521,679,562"/>
-<area shape="rect" id="node27" href="$d9/dd0/classEvpnManagerPartition.html#a06dee053d0b377103d37e90531bda022" title="Go through all ingress replication client EvpnMcastNodes and notify the associated Broadcast MAC rout..." alt="" coords="228,470,423,511"/>
-<area shape="rect" id="node9" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="Get the DBTablePartition for the EvpnTable for our partition id. " alt="" coords="498,343,662,385"/>
-<area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="490,412,670,439"/>
-<area shape="rect" id="node24" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title="EvpnMcastNode::route" alt="" coords="496,463,664,489"/>
-<area shape="rect" id="node10" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="Get the DBTablePartition for the EvpnTable for given partition id. " alt="" coords="728,311,957,337"/>
-<area shape="rect" id="node11" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="1005,311,1200,337"/>
-<area shape="rect" id="node12" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1248,285,1371,312"/>
-<area shape="rect" id="node18" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1251,336,1367,363"/>
-<area shape="rect" id="node13" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1419,285,1560,312"/>
-<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1623,256,1825,283"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1609,307,1839,349"/>
-<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1888,256,2104,283"/>
-<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2153,249,2343,290"/>
-<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="758,513,927,540"/>
-<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="753,361,932,388"/>
-<area shape="rect" id="node22" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="779,412,906,439"/>
-<area shape="rect" id="node23" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="741,463,945,489"/>
+<area shape="rect" id="node1" title="Add an EvpnMcastNode to the EvpnManagerPartition." alt="" coords="5,287,156,328"/>
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#a3becd2e4d61663cd8fe91cac03593597" title=" " alt="" coords="214,5,390,47"/>
+<area shape="rect" id="node3" href="$dd/de9/classEvpnMcastNode.html#a3e60cb3dddcb2ef1f6dea8c96fbca81b" title=" " alt="" coords="214,71,390,112"/>
+<area shape="rect" id="node4" href="$dd/de9/classEvpnMcastNode.html#a9064ed5cf980991540c19d0580b60ce2" title=" " alt="" coords="448,129,627,171"/>
+<area shape="rect" id="node5" href="$d1/d3a/classEvpnRoute.html#aaa81ed6f36402d73a2e6f4af75293d63" title=" " alt="" coords="227,385,377,411"/>
+<area shape="rect" id="node6" href="$d0/db1/classEvpnPrefix.html#ae1f9eec044f2938fb43b5c7388d1120a" title=" " alt="" coords="239,435,365,462"/>
+<area shape="rect" id="node7" href="$d9/dd0/classEvpnManagerPartition.html#a06dee053d0b377103d37e90531bda022" title="Go through all ingress replication client EvpnMcastNodes and notify the associated Broadcast MAC rout..." alt="" coords="212,188,392,229"/>
+<area shape="rect" id="node24" href="$d9/dd0/classEvpnManagerPartition.html#a88aebee716aeddf073eb330b4382ea58" title="Notify the Broadcast MAC route for the given EvpnMcastNode." alt="" coords="227,253,377,295"/>
+<area shape="rect" id="node25" href="$d9/dd0/classEvpnManagerPartition.html#a3dcd2f689f7c69aca449359f0245d55d" title="Go through all replicator EvpnMcastNodes and notify associated Broadcast MAC route." alt="" coords="204,319,400,360"/>
+<area shape="rect" id="node26" href="$d0/db1/classEvpnPrefix.html#a616cd49562b926ea6d9c347419115701" title=" " alt="" coords="236,486,368,513"/>
+<area shape="rect" id="node27" href="$dd/de9/classEvpnMcastNode.html#a30b62d60003487ba814c84eb517a3100" title=" " alt="" coords="226,537,378,563"/>
+<area shape="rect" id="node8" href="$d9/dd0/classEvpnManagerPartition.html#acd999b990f6ade81586265f05e9c5426" title="Get the DBTablePartition for the EvpnTable for our partition id." alt="" coords="462,195,613,236"/>
+<area shape="rect" id="node18" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="452,261,623,287"/>
+<area shape="rect" id="node23" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title=" " alt="" coords="459,311,615,338"/>
+<area shape="rect" id="node9" href="$d4/d15/classEvpnManager.html#ac6ef9b72003507f11c257350b44be97a" title="Get the DBTablePartition for the EvpnTable for given partition id." alt="" coords="675,159,885,186"/>
+<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="933,159,1115,186"/>
+<area shape="rect" id="node11" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="1165,134,1276,161"/>
+<area shape="rect" id="node12" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="1163,185,1279,211"/>
+<area shape="rect" id="node13" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="1327,185,1460,211"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1520,155,1707,182"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="1508,207,1719,248"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1767,155,1969,182"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2017,148,2195,189"/>
+<area shape="rect" id="node19" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="721,362,839,389"/>
+<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="701,210,859,237"/>
+<area shape="rect" id="node21" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="685,261,875,287"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="697,311,863,338"/>
 </map>

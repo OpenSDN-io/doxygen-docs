@@ -1,6 +1,0 @@
-<map id="etcdserverpb::ResponseHeader::InternalSerializeWithCachedSizesToArray" name="etcdserverpb::ResponseHeader::InternalSerializeWithCachedSizesToArray">
-<area shape="rect" id="node2" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#afa968835b70f26e6a8be23c380256fe4" title="etcdserverpb::ResponseHeader\l::cluster_id" alt="" coords="301,5,525,46"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a12445b0732df1b2118af903f5e78d667" title="etcdserverpb::ResponseHeader\l::member_id" alt="" coords="301,70,525,111"/>
-<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a8ca23e0975b1cf990949437416ae00f8" title="etcdserverpb::ResponseHeader\l::revision" alt="" coords="301,135,525,177"/>
-<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a593bcd10a2e99360d6cd4fb78e02b411" title="etcdserverpb::ResponseHeader\l::raft_term" alt="" coords="301,201,525,242"/>
-</map>

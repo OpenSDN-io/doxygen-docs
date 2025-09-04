@@ -68,5 +68,5 @@ var ovsdb__wrapper_8h =
     [ "ovsdb_wrapper_ucast_mac_remote_logical_switch", "d0/d6f/ovsdb__wrapper_8h.html#a6977d825da60062ec884e7cf921a581c", null ],
     [ "ovsdb_wrapper_ucast_mac_remote_mac", "d0/d6f/ovsdb__wrapper_8h.html#ab9e134a43781d580e235f506907f3a66", null ],
     [ "ovsdb_wrapper_update_physical_port", "d0/d6f/ovsdb__wrapper_8h.html#aad33220d5dec24aacb99cd279f7d20cd", null ],
-    [ "ovsdb_wrapper_vteprec_global_first", "d0/d6f/ovsdb__wrapper_8h.html#acdfb25d86df7c813225dd591237e42b8", null ]
+    [ "ovsdb_wrapper_vteprec_global_first", "d0/d6f/ovsdb__wrapper_8h.html#a54710a0abb0d5a8a4717009524795816", null ]
 ];

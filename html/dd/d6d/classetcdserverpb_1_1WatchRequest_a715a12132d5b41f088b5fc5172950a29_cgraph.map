@@ -1,6 +1,7 @@
 <map id="etcdserverpb::WatchRequest::~WatchRequest" name="etcdserverpb::WatchRequest::~WatchRequest">
-<area shape="rect" id="node2" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a43f82cc77346fea70d59f46fef1d6803" title="etcdserverpb::WatchRequest\l::SharedDtor" alt="" coords="262,38,469,79"/>
-<area shape="rect" id="node3" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a05b9ac5467be0230b308bcf99b4ad0ce" title="etcdserverpb::WatchRequest\l::has_request_union" alt="" coords="518,5,725,46"/>
-<area shape="rect" id="node4" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a55483d1ed87f9046c9fa5c58d1086926" title="etcdserverpb::WatchRequest\l::clear_request_union" alt="" coords="518,70,725,111"/>
-<area shape="rect" id="node5" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#afaf11ce3a8e43187c19592f567289ae3" title="etcdserverpb::WatchRequest\l::request_union_case" alt="" coords="774,70,981,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a43f82cc77346fea70d59f46fef1d6803" title=" " alt="" coords="244,39,435,80"/>
+<area shape="rect" id="node3" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#a55483d1ed87f9046c9fa5c58d1086926" title=" " alt="" coords="483,5,673,47"/>
+<area shape="rect" id="node5" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#af52d2af4edd8aa0fce219246fd90ac67" title=" " alt="" coords="483,71,673,112"/>
+<area shape="rect" id="node4" href="$dd/d6d/classetcdserverpb_1_1WatchRequest.html#ac4bf28b53144070daf5c3ce6f45bd401" title=" " alt="" coords="721,5,912,47"/>
 </map>

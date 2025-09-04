@@ -1,6 +1,7 @@
 <map id="MvpnTable::CreateType2ADRoutePrefix" name="MvpnTable::CreateType2ADRoutePrefix">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="291,5,488,32"/>
-<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#aaf56edca8a1b15a063ea1f00fff9c4e4" title="RoutingInstance::GetRD" alt="" coords="301,56,477,83"/>
-<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="324,107,455,133"/>
-<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="537,107,711,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,225,90"/>
+<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#a251e43f78638a9b993df73aa9f0cce19" title=" " alt="" coords="280,5,445,32"/>
+<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="273,56,452,83"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="303,107,423,133"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title=" " alt="" coords="500,107,661,133"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="MvpnProjectManager::DeleteActor::Destroy" name="MvpnProjectManager::DeleteActor::Destroy">
-<area shape="rect" id="node2" href="$d3/db0/classErmVpnTable.html#a6154909dd4d21886f2e762b7e989aa02" title="ErmVpnTable::DestroyMvpn\lProjectManager" alt="" coords="222,27,423,69"/>
-<area shape="rect" id="node3" href="$d5/dd5/classMvpnProjectManager.html#a7f16c49cbb20f8d320c04ddeb33bc5a8" title="MvpnProjectManager\l::Terminate" alt="" coords="473,27,631,69"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="681,5,863,32"/>
-<area shape="rect" id="node6" href="$d5/dd5/classMvpnProjectManager.html#ab85d773384bcf64960e9c0fe4057e8b5" title="MvpnProjectManager\l::FreePartitions" alt="" coords="693,57,851,98"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="912,5,1104,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,159,76"/>
+<area shape="rect" id="node2" href="$d3/db0/classErmVpnTable.html#a6154909dd4d21886f2e762b7e989aa02" title=" " alt="" coords="207,35,392,76"/>
+<area shape="rect" id="node3" href="$d5/dd5/classMvpnProjectManager.html#a7f16c49cbb20f8d320c04ddeb33bc5a8" title=" " alt="" coords="440,35,585,76"/>
+<area shape="rect" id="node4" href="$d5/dd5/classMvpnProjectManager.html#ab85d773384bcf64960e9c0fe4057e8b5" title=" " alt="" coords="646,5,791,47"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title=" " alt="" coords="633,71,804,98"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title=" " alt="" coords="852,71,1032,98"/>
 </map>

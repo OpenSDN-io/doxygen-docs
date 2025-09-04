@@ -1,10 +1,11 @@
 <map id="bgp_multicast.h" name="bgp_multicast.h">
-<area shape="rect" id="node2" href="$db/d04/bgp__evpn_8cc.html" title="bgp_evpn.cc" alt="" coords="5,88,107,115"/>
-<area shape="rect" id="node3" href="$de/dec/bgp__factory_8cc.html" title="bgp_factory.cc" alt="" coords="132,88,247,115"/>
-<area shape="rect" id="node4" href="$dd/dff/bgp__multicast_8cc.html" title="bgp_multicast.cc" alt="" coords="271,88,403,115"/>
-<area shape="rect" id="node5" href="$dc/d63/bgp__mvpn_8cc.html" title="bgp_mvpn.cc" alt="" coords="427,88,535,115"/>
-<area shape="rect" id="node6" href="$de/def/bgp__sandesh_8cc.html" title="bgp_sandesh.cc" alt="" coords="560,88,685,115"/>
-<area shape="rect" id="node7" href="$d5/d21/bgp__show__multicast__manager_8cc.html" title="bgp_show_multicast\l_manager.cc" alt="" coords="709,81,864,122"/>
-<area shape="rect" id="node8" href="$d3/d36/ermvpn__table_8cc.html" title="ermvpn_table.cc" alt="" coords="888,88,1019,115"/>
-<area shape="rect" id="node9" href="$de/d6d/mvpn__table_8cc.html" title="mvpn_table.cc" alt="" coords="1043,88,1160,115"/>
+<area shape="rect" id="node1" title=" " alt="" coords="467,5,582,32"/>
+<area shape="rect" id="node2" href="$db/d04/bgp__evpn_8cc.html" title=" " alt="" coords="5,87,103,114"/>
+<area shape="rect" id="node3" href="$de/dec/bgp__factory_8cc.html" title=" " alt="" coords="127,87,237,114"/>
+<area shape="rect" id="node4" href="$dd/dff/bgp__multicast_8cc.html" title=" " alt="" coords="261,87,383,114"/>
+<area shape="rect" id="node5" href="$dc/d63/bgp__mvpn_8cc.html" title=" " alt="" coords="407,87,509,114"/>
+<area shape="rect" id="node6" href="$de/def/bgp__sandesh_8cc.html" title=" " alt="" coords="533,87,652,114"/>
+<area shape="rect" id="node7" href="$d5/d21/bgp__show__multicast__manager_8cc.html" title=" " alt="" coords="676,80,819,121"/>
+<area shape="rect" id="node8" href="$d3/d36/ermvpn__table_8cc.html" title=" " alt="" coords="843,87,961,114"/>
+<area shape="rect" id="node9" href="$de/d6d/mvpn__table_8cc.html" title=" " alt="" coords="986,87,1093,114"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="DhcpHandler::ReadOptions" name="DhcpHandler::ReadOptions">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="277,5,429,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae45040fa59c05a496eb4a49a1d5674f9" title="Agent::GetDhcpProto" alt="" coords="274,56,433,83"/>
-<area shape="rect" id="node4" href="$d8/d04/classDhcpProto.html#adf442324d980cc71dd9c37d671c7e90a" title="DhcpProto::IncrStatsErrors" alt="" coords="257,107,449,133"/>
-<area shape="rect" id="node5" href="$df/da5/classProtoHandler.html#ab821539af1738830be473756f6927716" title="ProtoHandler::GetInterface\lIndex" alt="" coords="255,158,451,199"/>
-<area shape="rect" id="node6" href="$dd/d46/classDhcpHandler.html#a1aeae3ef2ec8a3e4faaf63046126b215" title="DhcpHandler::ReadOption82" alt="" coords="251,224,456,251"/>
-<area shape="rect" id="node7" href="$db/d75/structDhcpv4Options.html#a570572c8b8daf8dee3d88912f2905572" title="Dhcpv4Options::GetNextOptionPtr" alt="" coords="505,224,749,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,187,141"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="259,5,398,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a937af7f96dcbf59e9f15773fdd847e3b" title=" " alt="" coords="255,56,402,83"/>
+<area shape="rect" id="node4" href="$df/da5/classProtoHandler.html#afcfb4859972a3febd05f08683edee988" title=" " alt="" coords="239,107,418,149"/>
+<area shape="rect" id="node5" href="$d8/d04/classDhcpProto.html#adf442324d980cc71dd9c37d671c7e90a" title=" " alt="" coords="238,173,419,200"/>
+<area shape="rect" id="node6" href="$dd/d46/classDhcpHandler.html#a1aeae3ef2ec8a3e4faaf63046126b215" title=" " alt="" coords="235,224,423,251"/>
+<area shape="rect" id="node7" href="$db/d75/structDhcpv4Options.html#a570572c8b8daf8dee3d88912f2905572" title=" " alt="" coords="471,224,695,251"/>
 </map>

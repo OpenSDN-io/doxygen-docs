@@ -1,6 +1,10 @@
 <map id="DynamicPeer" name="DynamicPeer">
-<area shape="rect" id="node2" href="$d6/dd4/classPeer.html" title="Peer" alt="" coords="5,187,56,213"/>
-<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="121,187,180,213"/>
-<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="227,96,361,123"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="221,5,272,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="29,273,129,300"/>
+<area shape="rect" id="node2" href="$d6/dd4/classPeer.html" title=" " alt="" coords="18,184,66,211"/>
+<area shape="rect" id="node3" title=" " alt="" coords="13,95,68,121"/>
+<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title=" " alt="" coords="109,184,164,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="126,95,185,121"/>
+<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="209,95,333,121"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="201,5,251,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="275,5,358,32"/>
 </map>

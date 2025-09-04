@@ -1,13 +1,7 @@
 <map id="igmp_send_one_packet" name="igmp_send_one_packet">
-<area shape="rect" id="node2" href="$d2/d61/gmp__map_8h.html#affe12ec44d6d83a43e6057dfe716d987" title="gmp_get_send_buffer" alt="" coords="237,5,400,32"/>
-<area shape="rect" id="node4" href="$d5/df8/gmp__externs_8h.html#ab9995da1a80957bae8a91f145b3082d4" title="igmp_next_xmit_packet" alt="" coords="229,56,408,83"/>
-<area shape="rect" id="node5" href="$d2/d61/gmp__map_8h.html#a79d71f46b772ef61c46d44d2470dc43e" title="gmp_free_send_buffer" alt="" coords="235,107,402,133"/>
-<area shape="rect" id="node7" href="$d2/d61/gmp__map_8h.html#a39516a2f59b2444af1bf1b1044970e3e" title="gmp_send_one_packet" alt="" coords="233,157,404,184"/>
-<area shape="rect" id="node3" href="$dc/d17/classGmpProto.html#a5c6cc11523ae6443b08d2d9fbf9ed2f6" title="GmpProto::GmpBufferGet" alt="" coords="458,5,646,32"/>
-<area shape="rect" id="node6" href="$dc/d17/classGmpProto.html#a037fd84bcd9b1a839dd6550dd4593aa1" title="GmpProto::GmpBufferFree" alt="" coords="456,107,648,133"/>
-<area shape="rect" id="node8" href="$dc/d17/classGmpProto.html#a05be4b323ccfc41285de87bc5dfd8981" title="GmpProto::SendPacket" alt="" coords="467,157,637,184"/>
-<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="733,81,859,108"/>
-<area shape="rect" id="node10" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="697,132,895,159"/>
-<area shape="rect" id="node11" href="$d5/d33/classGmpIntf.html#a6ae0b80ecf21e99f7827fc8d46982b7a" title="GmpIntf::get_vrf_name" alt="" coords="709,183,883,209"/>
-<area shape="rect" id="node12" href="$d5/d33/classGmpIntf.html#aeff10162575b90970ff12e2d1d079059" title="GmpIntf::get_ip_address" alt="" coords="705,233,887,260"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node2" href="$d2/d61/gmp__map_8h.html#a79d71f46b772ef61c46d44d2470dc43e" title=" " alt="" coords="216,5,367,32"/>
+<area shape="rect" id="node3" href="$d2/d61/gmp__map_8h.html#affe12ec44d6d83a43e6057dfe716d987" title=" " alt="" coords="218,56,365,83"/>
+<area shape="rect" id="node4" href="$d2/d61/gmp__map_8h.html#a39516a2f59b2444af1bf1b1044970e3e" title=" " alt="" coords="214,107,369,133"/>
+<area shape="rect" id="node5" href="$d5/df8/gmp__externs_8h.html#ab9995da1a80957bae8a91f145b3082d4" title=" " alt="" coords="212,157,371,184"/>
 </map>

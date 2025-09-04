@@ -1,4 +1,5 @@
 <map id="EvpnSegment::TriggerMacRouteUpdate" name="EvpnSegment::TriggerMacRouteUpdate">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a6a167006cd2c7cad23706533497b3dfa" title="Get the EvpnManagerPartition for the given partition id. " alt="" coords="280,5,475,32"/>
-<area shape="rect" id="node3" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="Add the given MAC route to the update list. This method gets called either when the MAC route itself ..." alt="" coords="285,57,469,98"/>
+<area shape="rect" id="node1" title="Trigger an update of all dependent MAC routes for this EvpnSegment. Note that the bgp::EvpnSegment ta..." alt="" coords="5,27,216,69"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a6a167006cd2c7cad23706533497b3dfa" title="Get the EvpnManagerPartition for the given partition id." alt="" coords="264,5,444,32"/>
+<area shape="rect" id="node3" href="$d9/dd0/classEvpnManagerPartition.html#a588da2d27fab0095380ab77d003fcc47" title="Add the given MAC route to the update list. This method gets called either when the MAC route itself ..." alt="" coords="269,57,439,98"/>
 </map>

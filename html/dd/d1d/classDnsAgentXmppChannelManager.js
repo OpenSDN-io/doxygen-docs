@@ -5,7 +5,7 @@ var classDnsAgentXmppChannelManager =
     [ "RecordRequestWorkQueue", "dd/d1d/classDnsAgentXmppChannelManager.html#affa3fda88b9182afe7b6d99f0e974913", null ],
     [ "DnsAgentXmppChannelManager", "dd/d1d/classDnsAgentXmppChannelManager.html#a0d8266fa27b37081a6ee2108dc9a093f", null ],
     [ "~DnsAgentXmppChannelManager", "dd/d1d/classDnsAgentXmppChannelManager.html#a9c0c707e897806578b67c8f3669f0e52", null ],
-    [ "ChannelToDscp", "dd/d1d/classDnsAgentXmppChannelManager.html#a263a959d0b4346f8e40a9026a25dced8", null ],
+    [ "ChannelToDscp", "dd/d1d/classDnsAgentXmppChannelManager.html#a6909a5dbd30fb5c3dd60761f27fb4253", null ],
     [ "EnqueueRecord", "dd/d1d/classDnsAgentXmppChannelManager.html#a82d789a94291e13d3867e10f97604089", null ],
     [ "FindChannel", "dd/d1d/classDnsAgentXmppChannelManager.html#a5c2577c9e3f018831c4f3f0e5d9b3c40", null ],
     [ "GetAgentData", "dd/d1d/classDnsAgentXmppChannelManager.html#ac3355ced62df0e1ae63a73b496a414c3", null ],

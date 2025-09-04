@@ -1,7 +1,7 @@
 var structDnsSOAData =
 [
     [ "DnsSOAData", "d1/de0/structDnsSOAData.html#a8b4df0a6f5c0f6c64ace7aef0b027c90", null ],
-    [ "operator==", "d1/de0/structDnsSOAData.html#a27b9d81c3e8e0db9c380b234db7f86d8", null ],
+    [ "operator==", "d1/de0/structDnsSOAData.html#a2d1f0a74b6bf73279f07b8825db67ee5", null ],
     [ "expiry", "d1/de0/structDnsSOAData.html#af2b5c35ce0144272afadd95f3cbfddaf", null ],
     [ "mailbox", "d1/de0/structDnsSOAData.html#a79424c74944fc3e58ca8314fe020e1ce", null ],
     [ "mailbox_offset", "d1/de0/structDnsSOAData.html#a7be7d7ba26a7e2d38a848794c2fcc4f8", null ],

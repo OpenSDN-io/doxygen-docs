@@ -1,6 +1,8 @@
 <map id="ConfigEtcdClient::IsListOrMapPropEmpty" name="ConfigEtcdClient::IsListOrMapPropEmpty">
-<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title="ConfigEtcdClient::GetPartition" alt="" coords="225,8,439,35"/>
-<area shape="rect" id="node4" href="$d4/de3/classConfigEtcdPartition.html#a73ca7495daad2008a1f86a7a7110d036" title="ConfigEtcdPartition\l::IsListOrMapPropEmpty" alt="" coords="243,61,421,102"/>
-<area shape="rect" id="node3" href="$d4/db8/classConfigEtcdClient.html#a94fb0ace7a6f2d850b2e6760ee923a44" title="ConfigEtcdClient::HashUUID" alt="" coords="491,5,695,32"/>
-<area shape="rect" id="node5" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a73cd06c69bab2bfddd236cdcea16de21" title="ConfigEtcdPartition\l::UUIDCacheEntry::ListOrMap\lPropEmpty" alt="" coords="488,56,699,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,165,73"/>
+<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html#ae1bb352a3c73f8952347e6add4c24a47" title=" " alt="" coords="213,8,412,35"/>
+<area shape="rect" id="node5" href="$d4/de3/classConfigEtcdPartition.html#a73ca7495daad2008a1f86a7a7110d036" title=" " alt="" coords="229,61,396,102"/>
+<area shape="rect" id="node3" href="$d4/db8/classConfigEtcdClient.html#a2a671e55d24d567fe497ebd581579b8d" title=" " alt="" coords="463,5,657,32"/>
+<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html#a3b7d699194e475772875a664f3e2218d" title=" " alt="" coords="708,5,873,32"/>
+<area shape="rect" id="node6" href="$d0/dac/classConfigEtcdPartition_1_1UUIDCacheEntry.html#a7d0308847a550efa1b7b904602417f46" title=" " alt="" coords="460,56,660,112"/>
 </map>

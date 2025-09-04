@@ -1,39 +1,42 @@
 <map id="VxlanRoutingManager::RoutingVrfDeleteAllRoutes" name="VxlanRoutingManager::RoutingVrfDeleteAllRoutes">
-<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a44fb60ab18b13351adce29b5fbfec4b6" title="VrfEntry::GetEvpnRouteTable" alt="" coords="256,5,464,32"/>
-<area shape="rect" id="node5" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="263,56,457,83"/>
-<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a34ecfb88b157cf239d075b6732e9e438" title="DBTablePartBase::GetFirst" alt="" coords="265,107,455,133"/>
-<area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="288,157,432,184"/>
-<area shape="rect" id="node15" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="271,209,449,250"/>
-<area shape="rect" id="node16" href="$dc/dd7/classEvpnRouteEntry.html#a1c5791520f00b7dc04b68480efa23d77" title="! " alt="" coords="275,274,445,315"/>
-<area shape="rect" id="node17" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="261,340,459,367"/>
-<area shape="rect" id="node20" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="297,391,423,417"/>
-<area shape="rect" id="node21" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="289,441,431,468"/>
-<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="272,493,448,534"/>
-<area shape="rect" id="node23" href="$d3/da7/classDBTablePartBase.html#a145882169c492c445cfea2ad0d4e3489" title="DBTablePartBase::GetNext" alt="" coords="263,559,457,585"/>
-<area shape="rect" id="node24" href="$da/dcd/classInetUnicastAgentRouteTable.html#acbec4b79373a009b950f3f837b9c6be8" title="InetUnicastAgentRouteTable\l::DeleteReq" alt="" coords="257,610,463,651"/>
-<area shape="rect" id="node35" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="304,741,416,768"/>
-<area shape="rect" id="node36" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="279,675,441,717"/>
-<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="517,5,693,32"/>
-<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="747,5,951,32"/>
-<area shape="rect" id="node6" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="544,56,667,83"/>
-<area shape="rect" id="node12" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="547,107,663,133"/>
-<area shape="rect" id="node7" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="779,56,920,83"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1015,27,1217,53"/>
-<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1001,78,1231,119"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1285,27,1501,53"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1555,19,1746,61"/>
-<area shape="rect" id="node18" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="556,315,655,341"/>
-<area shape="rect" id="node19" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="521,365,690,392"/>
-<area shape="rect" id="node25" href="$d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title="InetUnicastTableEnqueue" alt="" coords="512,593,699,620"/>
-<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="532,645,679,672"/>
-<area shape="rect" id="node26" href="$d3/d57/classInetUnicastRouteKey.html#acbcf108227f1badb2a40903715afbfac" title="InetUnicastRouteKey\l::addr" alt="" coords="771,525,928,566"/>
-<area shape="rect" id="node27" href="$d1/d16/inet__unicast__route_8cc.html#a576b37c5394c05f6b458fa33a5f8f2ad" title="Inet4UnicastTableEnqueue" alt="" coords="752,641,947,668"/>
-<area shape="rect" id="node33" href="$d1/d16/inet__unicast__route_8cc.html#a9ab1fc404385fa8499077807b5de1594" title="Inet6UnicastTableEnqueue" alt="" coords="752,591,947,617"/>
-<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a170e13ff9762d94816b368f317c5d041" title="Agent::fabric_inet4\l_unicast_table" alt="" coords="1043,583,1189,625"/>
-<area shape="rect" id="node29" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="1031,649,1201,676"/>
-<area shape="rect" id="node30" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="1280,599,1507,625"/>
-<area shape="rect" id="node31" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1330,649,1457,676"/>
-<area shape="rect" id="node32" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="1305,700,1481,727"/>
-<area shape="rect" id="node37" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title="EvpnTableEnqueue" alt="" coords="533,700,677,727"/>
-<area shape="rect" id="node38" href="$d8/dfe/classAgent.html#a2f346b3ae183c2585059a23e8cf999df" title="Agent::fabric_evpn\l_table" alt="" coords="777,693,921,734"/>
+<area shape="rect" id="node1" title="deletes all routes in EVPN table of routing VRF" alt="" coords="5,423,192,464"/>
+<area shape="rect" id="node2" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title=" " alt="" coords="261,56,413,97"/>
+<area shape="rect" id="node11" href="$da/dcd/classInetUnicastAgentRouteTable.html#acbec4b79373a009b950f3f837b9c6be8" title=" " alt="" coords="243,121,432,163"/>
+<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#ab07bd6dfa63fea93777ca3241b3f419c" title=" " alt="" coords="255,187,419,228"/>
+<area shape="rect" id="node19" href="$d4/d57/classAgentRoute.html#a6e333f7398c11428594f33747c20c554" title=" " alt="" coords="246,253,429,279"/>
+<area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#abab0be4f3c7afcd0f66287d79910c8ca" title=" " alt="" coords="240,303,435,330"/>
+<area shape="rect" id="node25" href="$d3/da7/classDBTablePartBase.html#a34ecfb88b157cf239d075b6732e9e438" title=" " alt="" coords="246,354,429,381"/>
+<area shape="rect" id="node26" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="270,405,405,431"/>
+<area shape="rect" id="node27" href="$d3/da7/classDBTablePartBase.html#a145882169c492c445cfea2ad0d4e3489" title=" " alt="" coords="245,455,429,482"/>
+<area shape="rect" id="node28" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="270,506,405,533"/>
+<area shape="rect" id="node29" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="247,557,428,583"/>
+<area shape="rect" id="node37" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="285,607,390,634"/>
+<area shape="rect" id="node38" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="279,658,395,685"/>
+<area shape="rect" id="node39" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="255,709,419,751"/>
+<area shape="rect" id="node40" href="$dc/dd7/classEvpnRouteEntry.html#a570449ffebc9d6d6c4bd4afa4cb2c434" title="!" alt="" coords="258,775,417,816"/>
+<area shape="rect" id="node3" href="$d9/d0a/vnsw_2agent_2oper_2evpn__route_8cc.html#a9706abdb68824682012072ae250fa75c" title=" " alt="" coords="509,21,642,47"/>
+<area shape="rect" id="node10" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="508,71,643,98"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="978,114,1139,141"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a96ffaa49171f89304f95064238a1d945" title=" " alt="" coords="745,5,876,47"/>
+<area shape="rect" id="node5" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="1219,190,1416,217"/>
+<area shape="rect" id="node6" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="1258,38,1377,65"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="1212,89,1423,115"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="1234,139,1401,166"/>
+<area shape="rect" id="node12" href="$d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title=" " alt="" coords="490,173,661,199"/>
+<area shape="rect" id="node17" href="$dc/d2b/classAgentRouteTable.html#a22fc5e10c461d89cea22c28a54328266" title=" " alt="" coords="483,122,668,149"/>
+<area shape="rect" id="node13" href="$d3/d57/classInetUnicastRouteKey.html#a0a55198dd9470897b5e4671b4aef368d" title=" " alt="" coords="737,224,884,265"/>
+<area shape="rect" id="node14" href="$d1/d16/inet__unicast__route_8cc.html#a576b37c5394c05f6b458fa33a5f8f2ad" title=" " alt="" coords="721,173,900,199"/>
+<area shape="rect" id="node16" href="$d1/d16/inet__unicast__route_8cc.html#a9ab1fc404385fa8499077807b5de1594" title=" " alt="" coords="721,122,900,149"/>
+<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#abe8c1e1f1ff8777743e0b68521a4ee1a" title=" " alt="" coords="993,165,1124,207"/>
+<area shape="rect" id="node20" href="$de/df8/classRoute.html#a7dca06e09d43f3fae87715e0a7dd2454" title=" " alt="" coords="530,274,621,301"/>
+<area shape="rect" id="node21" href="$d4/d3d/classAgentPath.html#aa57c8f9e6ae11f258548c80659bc1e6a" title=" " alt="" coords="496,223,655,250"/>
+<area shape="rect" id="node23" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="493,325,658,351"/>
+<area shape="rect" id="node24" href="$d2/d3d/classVrfEntry.html#a2fb89a60a53895197657b6510d654abe" title=" " alt="" coords="716,325,905,351"/>
+<area shape="rect" id="node30" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="520,582,631,609"/>
+<area shape="rect" id="node31" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="517,531,633,558"/>
+<area shape="rect" id="node32" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="744,531,877,558"/>
+<area shape="rect" id="node33" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="965,502,1152,529"/>
+<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="953,553,1164,595"/>
+<area shape="rect" id="node34" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1216,502,1419,529"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1471,495,1648,536"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="IFMapServerTable" name="IFMapServerTable">
-<area shape="rect" id="node2" href="$d1/d09/classIFMapTable.html" title="IFMapTable" alt="" coords="26,229,120,256"/>
-<area shape="rect" id="node3" href="$d4/d52/classDBGraphTable.html" title="DBGraphTable" alt="" coords="16,155,131,181"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="36,80,111,107"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="20,5,127,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,304,133,331"/>
+<area shape="rect" id="node2" href="$d1/d09/classIFMapTable.html" title=" " alt="" coords="24,229,115,256"/>
+<area shape="rect" id="node3" href="$d4/d52/classDBGraphTable.html" title=" " alt="" coords="16,155,123,181"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="33,80,105,107"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="18,5,121,32"/>
 </map>

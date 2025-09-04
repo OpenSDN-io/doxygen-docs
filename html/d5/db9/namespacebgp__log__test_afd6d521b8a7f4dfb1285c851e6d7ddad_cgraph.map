@@ -1,8 +1,9 @@
 <map id="bgp_log_test::init_common" name="bgp_log_test::init_common">
-<area shape="rect" id="node2" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title="Sandesh::SetLoggingParams" alt="" coords="195,5,400,32"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="204,56,391,83"/>
-<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title="Sandesh::SetLoggingCategory" alt="" coords="189,107,405,133"/>
-<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title="Sandesh::SetLoggingLevel" alt="" coords="201,157,393,184"/>
-<area shape="rect" id="node7" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title="SetLoggingDisabled" alt="" coords="222,208,373,235"/>
-<area shape="rect" id="node3" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title="SetLoggingLevel" alt="" coords="454,81,583,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,128,141"/>
+<area shape="rect" id="node2" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title=" " alt="" coords="190,5,361,32"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title=" " alt="" coords="176,56,375,83"/>
+<area shape="rect" id="node4" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title=" " alt="" coords="206,107,345,133"/>
+<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title=" " alt="" coords="187,157,363,184"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title=" " alt="" coords="180,208,371,235"/>
+<area shape="rect" id="node6" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title=" " alt="" coords="423,183,540,209"/>
 </map>

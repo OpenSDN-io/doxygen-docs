@@ -1,3 +1,4 @@
 <map id="EvpnSegment::DeleteMacRoute" name="EvpnSegment::DeleteMacRoute">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a664f082d71a2fba9a475c4166691fe8a" title="Trigger deletion of the given EvpnSegment. The EvpnSegment is added to a set of EvpnSegments that can..." alt="" coords="281,5,501,46"/>
+<area shape="rect" id="node1" title="Delete the given MAC route as a dependent of this EvpnSegment. Trigger deletion of the EvpnSegment if..." alt="" coords="5,13,216,39"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html#a664f082d71a2fba9a475c4166691fe8a" title="Trigger deletion of the given EvpnSegment. The EvpnSegment is added to a set of EvpnSegments that can..." alt="" coords="264,5,465,47"/>
 </map>

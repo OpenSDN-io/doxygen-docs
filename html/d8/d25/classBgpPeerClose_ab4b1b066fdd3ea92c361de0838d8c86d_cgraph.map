@@ -1,10 +1,11 @@
 <map id="BgpPeerClose::AddLLGRCapabilities" name="BgpPeerClose::AddLLGRCapabilities">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="368,5,493,32"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#ae1d0ed146f7e7c57a78aae18a8763fe9" title="BgpServer::global_config" alt="" coords="339,56,522,83"/>
-<area shape="rect" id="node4" href="$d5/d70/classBgpGlobalSystemConfig.html#acdf0d97e8afb1de572d2dcc98af2dcd3" title="BgpGlobalSystemConfig\l::gr_enable" alt="" coords="341,107,520,149"/>
-<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#a7e801ed38020520b07ed20328f65a690" title="BgpServer::GetLongLivedGraceful\lRestartTime" alt="" coords="310,173,551,214"/>
-<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#ae2ed483ac676d41ec3fae4ffb8974932" title="BgpPeer::supported\l_families" alt="" coords="356,238,505,279"/>
-<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#af8eb2a2278be678e35e74bab505be298" title="BgpPeer::LookupFamily" alt="" coords="343,304,518,331"/>
-<area shape="rect" id="node8" href="$d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a95db9237c4d98da162a01058b23eec74" title="BgpProto::OpenMessage\l::Capability::LLGR::Encode" alt="" coords="335,355,526,397"/>
-<area shape="rect" id="node9" href="$d4/dc3/classBgpAf.html#a9cbc6441473fd1b787c786d677e66b8e" title="BgpAf::FamilyToAfiSafi" alt="" coords="601,363,767,389"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,241,222"/>
+<area shape="rect" id="node2" href="$d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a95db9237c4d98da162a01058b23eec74" title=" " alt="" coords="309,5,489,47"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#af43ce0c24d695910e1daa69cd3159f5f" title=" " alt="" coords="289,71,508,112"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#ae1d0ed146f7e7c57a78aae18a8763fe9" title=" " alt="" coords="315,137,482,163"/>
+<area shape="rect" id="node6" href="$d5/d70/classBgpGlobalSystemConfig.html#a624b31a5caee28efe46d0988a27add22" title=" " alt="" coords="317,188,481,229"/>
+<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#af8eb2a2278be678e35e74bab505be298" title=" " alt="" coords="319,254,479,281"/>
+<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title=" " alt="" coords="341,305,456,331"/>
+<area shape="rect" id="node9" href="$d3/d2d/classBgpPeer.html#ae2ed483ac676d41ec3fae4ffb8974932" title=" " alt="" coords="330,356,467,397"/>
+<area shape="rect" id="node3" href="$d4/dc3/classBgpAf.html#a9cbc6441473fd1b787c786d677e66b8e" title=" " alt="" coords="556,13,715,39"/>
 </map>

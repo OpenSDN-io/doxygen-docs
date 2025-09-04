@@ -1,7 +1,8 @@
 <map id="RibOutUpdates::QueueJoin" name="RibOutUpdates::QueueJoin">
-<area shape="rect" id="node2" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title="RibOutUpdates::queue" alt="" coords="248,5,416,32"/>
-<area shape="rect" id="node3" href="$d2/db4/classUpdateQueue.html#a714b5c449acd9eba85dd3262134aa874" title="UpdateQueue::Join" alt="" coords="261,56,403,83"/>
-<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title="BitSet::set" alt="" coords="465,56,554,83"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="603,31,703,57"/>
-<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="603,81,704,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node2" href="$d2/db4/classUpdateQueue.html#a714b5c449acd9eba85dd3262134aa874" title=" " alt="" coords="246,31,381,57"/>
+<area shape="rect" id="node6" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title=" " alt="" coords="236,81,391,108"/>
+<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title=" " alt="" coords="439,31,523,57"/>
+<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="571,5,662,32"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="571,56,663,83"/>
 </map>

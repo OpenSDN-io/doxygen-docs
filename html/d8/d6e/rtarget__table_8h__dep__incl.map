@@ -1,10 +1,11 @@
 <map id="rtarget_table.h" name="rtarget_table.h">
-<area shape="rect" id="node2" href="$db/d6b/bgp__peer_8cc.html" title="bgp_peer.cc" alt="" coords="5,80,104,107"/>
-<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title="bgp_server.cc" alt="" coords="129,80,239,107"/>
-<area shape="rect" id="node4" href="$d3/d28/bgp__xmpp__rtarget__manager_8h.html" title="bgp_xmpp_rtarget_manager.h" alt="" coords="263,80,480,107"/>
-<area shape="rect" id="node8" href="$d7/df1/rtarget__route_8cc.html" title="rtarget_route.cc" alt="" coords="505,80,631,107"/>
-<area shape="rect" id="node9" href="$de/dad/rtarget__table_8cc.html" title="rtarget_table.cc" alt="" coords="655,80,779,107"/>
-<area shape="rect" id="node5" href="$d6/d11/bgp__xmpp__channel_8cc.html" title="bgp_xmpp_channel.cc" alt="" coords="89,155,255,181"/>
-<area shape="rect" id="node6" href="$d5/d08/bgp__xmpp__peer__close_8cc.html" title="bgp_xmpp_peer_close.cc" alt="" coords="279,155,464,181"/>
-<area shape="rect" id="node7" href="$d3/d14/bgp__xmpp__rtarget__manager_8cc.html" title="bgp_xmpp_rtarget_manager.cc" alt="" coords="489,155,711,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="298,5,405,32"/>
+<area shape="rect" id="node2" href="$db/d6b/bgp__peer_8cc.html" title=" " alt="" coords="5,80,100,107"/>
+<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title=" " alt="" coords="124,80,229,107"/>
+<area shape="rect" id="node4" href="$d3/d28/bgp__xmpp__rtarget__manager_8h.html" title=" " alt="" coords="253,80,449,107"/>
+<area shape="rect" id="node8" href="$d7/df1/rtarget__route_8cc.html" title=" " alt="" coords="474,80,589,107"/>
+<area shape="rect" id="node9" href="$de/dad/rtarget__table_8cc.html" title=" " alt="" coords="613,80,727,107"/>
+<area shape="rect" id="node5" href="$d6/d11/bgp__xmpp__channel_8cc.html" title=" " alt="" coords="88,155,241,181"/>
+<area shape="rect" id="node6" href="$d5/d08/bgp__xmpp__peer__close_8cc.html" title=" " alt="" coords="266,155,437,181"/>
+<area shape="rect" id="node7" href="$d3/d14/bgp__xmpp__rtarget__manager_8cc.html" title=" " alt="" coords="461,155,663,181"/>
 </map>

@@ -1,10 +1,11 @@
 <map id="PathPreferenceData::AddChangePathExtended" name="PathPreferenceData::AddChangePathExtended">
-<area shape="rect" id="node2" href="$d8/d35/classPathPreference.html#ab545074768786e5a9c4468ce1a5698e0" title="PathPreference::set_ecmp" alt="" coords="261,5,451,32"/>
-<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="255,56,457,83"/>
-<area shape="rect" id="node3" href="$d8/d35/classPathPreference.html#a5391e3000fd528521dc692ca89857d0c" title="PathPreference::ecmp" alt="" coords="513,56,677,83"/>
-<area shape="rect" id="node5" href="$d8/d35/classPathPreference.html#adfcee702f39a766f6ddb9cd1e6bed232" title="PathPreference::set\l_dependent_ip" alt="" coords="282,158,430,199"/>
-<area shape="rect" id="node6" href="$d8/d35/classPathPreference.html#a9daf3e3f0ed61308d6868dcc85c20cd0" title="PathPreference::dependent_ip" alt="" coords="248,224,464,251"/>
-<area shape="rect" id="node7" href="$d8/d35/classPathPreference.html#affe007355e8fda7154834a7c308f5050" title="PathPreference::set_vrf" alt="" coords="269,275,443,301"/>
-<area shape="rect" id="node8" href="$d8/d35/classPathPreference.html#ae937fc6bbecf60179c73a23ea057afec" title="PathPreference::vrf" alt="" coords="521,300,668,327"/>
-<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#a1bacfe667a5dd6337ab0cac775a2a663" title="AgentPath::set_path\l_preference" alt="" coords="280,377,432,418"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,185,229"/>
+<area shape="rect" id="node2" href="$d8/d35/classPathPreference.html#a2b377d917891f3966c9dcbb100ec2e5c" title=" " alt="" coords="233,5,431,32"/>
+<area shape="rect" id="node3" href="$d8/d35/classPathPreference.html#a2504e7a1478727ec6eaccf0bdc1ef775" title=" " alt="" coords="479,140,631,167"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a8bddfb5c69e2ce1bf8abd538cd2539b5" title=" " alt="" coords="240,107,424,133"/>
+<area shape="rect" id="node5" href="$d8/d35/classPathPreference.html#adfcee702f39a766f6ddb9cd1e6bed232" title=" " alt="" coords="263,158,401,199"/>
+<area shape="rect" id="node6" href="$d8/d35/classPathPreference.html#ab545074768786e5a9c4468ce1a5698e0" title=" " alt="" coords="243,224,421,251"/>
+<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#a1bacfe667a5dd6337ab0cac775a2a663" title=" " alt="" coords="261,275,403,317"/>
+<area shape="rect" id="node8" href="$d8/d35/classPathPreference.html#affe007355e8fda7154834a7c308f5050" title=" " alt="" coords="251,341,413,368"/>
+<area shape="rect" id="node9" href="$d8/d35/classPathPreference.html#ade85fdfe19d35091a6b473787bd8f8d1" title=" " alt="" coords="487,367,623,393"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="OperDB::RegisterDBClients" name="OperDB::RegisterDBClients">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="279,5,399,32"/>
-<area shape="rect" id="node3" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title="OperDB::dependency\l_manager" alt="" coords="259,57,418,98"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a4d61875f4e07d4cfc20719c8b7ad8ce4" title="Agent::physical_device\l_table" alt="" coords="253,122,425,163"/>
-<area shape="rect" id="node5" href="$da/dee/classPhysicalDeviceTable.html#a2e4ac7f93a2c76e9b84d4aa8fd8eeb80" title="PhysicalDeviceTable\l::RegisterDBClients" alt="" coords="261,187,416,229"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="255,253,422,280"/>
-<area shape="rect" id="node7" href="$d2/d73/classInterfaceTable.html#a15b97d63e22d8551d85bc3a7fdb520ea" title="InterfaceTable::Register\lDBClients" alt="" coords="251,305,426,346"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,151,191,178"/>
+<area shape="rect" id="node2" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title=" " alt="" coords="246,5,393,47"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="244,71,395,98"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="264,122,375,149"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aa7d79e1c24efceaed232ad6b7b1ebb4f" title=" " alt="" coords="241,173,397,215"/>
+<area shape="rect" id="node6" href="$d2/d73/classInterfaceTable.html#a15b97d63e22d8551d85bc3a7fdb520ea" title=" " alt="" coords="239,239,400,280"/>
+<area shape="rect" id="node7" href="$da/dee/classPhysicalDeviceTable.html#a2e4ac7f93a2c76e9b84d4aa8fd8eeb80" title=" " alt="" coords="248,304,391,345"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="DnsManager::UpdatePendingList" name="DnsManager::UpdatePendingList">
-<area shape="rect" id="node2" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title="DnsManager::ResetTransId" alt="" coords="289,31,482,57"/>
-<area shape="rect" id="node3" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title="IndexAllocator::FreeIndex" alt="" coords="531,31,717,57"/>
-<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title="BitSet::reset" alt="" coords="766,31,869,57"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="918,5,1018,32"/>
-<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="917,56,1019,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,219,57"/>
+<area shape="rect" id="node2" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title=" " alt="" coords="267,31,448,57"/>
+<area shape="rect" id="node3" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title=" " alt="" coords="496,31,667,57"/>
+<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title=" " alt="" coords="715,31,809,57"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="858,5,949,32"/>
+<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="857,56,949,83"/>
 </map>

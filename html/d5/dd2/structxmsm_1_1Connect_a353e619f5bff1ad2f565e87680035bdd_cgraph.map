@@ -1,14 +1,30 @@
 <map id="xmsm::Connect::CloseSession" name="xmsm::Connect::CloseSession">
-<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#aa2b9429f630abfa35f9737c1b426b1db" title="XmppStateMachine::set\l_session" alt="" coords="272,70,448,111"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a0193d0f7737159ccec3e8257696f22cc" title="XmppConnection::clear\l_session" alt="" coords="512,5,685,46"/>
-<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a34892f59f62a4b72e7b19619a65afd70" title="XmppStateMachine::Delete\lSession" alt="" coords="499,70,698,111"/>
-<area shape="rect" id="node13" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="496,136,701,163"/>
-<area shape="rect" id="node4" href="$d5/d13/classXmppSession.html#a8557946a9346d92fdde9f2ed6b543305" title="XmppSession::ClearConnection" alt="" coords="750,12,975,39"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="770,63,955,89"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="794,113,931,140"/>
-<area shape="rect" id="node11" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title="XmppStateMachine::Enqueue" alt="" coords="757,164,969,191"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="1038,63,1197,89"/>
-<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1024,113,1211,140"/>
-<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1259,113,1403,140"/>
-<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1037,164,1198,191"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,209,171"/>
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#aa2b9429f630abfa35f9737c1b426b1db" title=" " alt="" coords="257,137,420,178"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a0193d0f7737159ccec3e8257696f22cc" title=" " alt="" coords="480,54,639,95"/>
+<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#a34892f59f62a4b72e7b19619a65afd70" title=" " alt="" coords="468,137,651,178"/>
+<area shape="rect" id="node26" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title=" " alt="" coords="708,245,897,272"/>
+<area shape="rect" id="node4" href="$d5/d13/classXmppSession.html#a8557946a9346d92fdde9f2ed6b543305" title=" " alt="" coords="699,43,907,69"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title=" " alt="" coords="737,93,869,120"/>
+<area shape="rect" id="node9" href="$d2/db3/classXmppStateMachine.html#a9c14152e261c003629ab02c438eae5c3" title=" " alt="" coords="705,144,900,171"/>
+<area shape="rect" id="node27" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title=" " alt="" coords="716,195,889,221"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="955,35,1129,61"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="1215,5,1351,32"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="967,144,1117,171"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="1177,56,1388,83"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1436,173,1637,200"/>
+<area shape="rect" id="node23" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="1182,107,1383,149"/>
+<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1440,232,1633,259"/>
+<area shape="rect" id="node25" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="1186,225,1379,266"/>
+<area shape="rect" id="node12" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="1447,49,1626,90"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="1689,107,1893,149"/>
+<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="1691,290,1890,331"/>
+<area shape="rect" id="node16" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="1685,173,1896,200"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="1687,225,1895,266"/>
+<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1958,123,2145,149"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="1944,173,2159,200"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2207,123,2409,149"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2457,115,2635,157"/>
+<area shape="rect" id="node22" href="$da/d91/classWaterMarkTuple.html#ae3f636535f9a66218700d7025e6e39f5" title=" " alt="" coords="1951,225,2151,266"/>
+<area shape="rect" id="node28" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title=" " alt="" coords="968,195,1116,221"/>
 </map>

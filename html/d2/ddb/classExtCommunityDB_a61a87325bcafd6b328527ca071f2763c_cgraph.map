@@ -1,7 +1,8 @@
 <map id="ExtCommunityDB::ReplaceSGIDListAndLocate" name="ExtCommunityDB::ReplaceSGIDListAndLocate">
-<area shape="rect" id="node2" href="$da/d36/classExtCommunity.html#a7e35c529eef9418fd7a3f7e77aabb14c" title="ExtCommunity::RemoveSGID" alt="" coords="343,44,553,71"/>
-<area shape="rect" id="node5" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title="ExtCommunity::Append" alt="" coords="361,95,535,121"/>
-<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; ExtCommunity, ExtCommunity\lPtr, ExtCommunitySpec, ExtCommunity\lCompare, ExtCommunityDB \&gt;::Locate" alt="" coords="307,146,589,217"/>
-<area shape="rect" id="node3" href="$da/d36/classExtCommunity.html#aa5c932b5edad505a18880ad141e763d4" title="ExtCommunity::is_security\l_group" alt="" coords="638,5,834,46"/>
-<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a51f9812bacba55d378c569511ce2a035" title="ExtCommunity::is_security\l_group4" alt="" coords="638,70,834,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,243,113"/>
+<area shape="rect" id="node2" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title=" " alt="" coords="340,5,500,32"/>
+<area shape="rect" id="node3" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="291,57,549,127"/>
+<area shape="rect" id="node4" href="$da/d36/classExtCommunity.html#a7e35c529eef9418fd7a3f7e77aabb14c" title=" " alt="" coords="322,152,518,179"/>
+<area shape="rect" id="node5" href="$da/d36/classExtCommunity.html#aa5c932b5edad505a18880ad141e763d4" title=" " alt="" coords="597,111,776,153"/>
+<area shape="rect" id="node6" href="$da/d36/classExtCommunity.html#a51f9812bacba55d378c569511ce2a035" title=" " alt="" coords="597,177,776,218"/>
 </map>

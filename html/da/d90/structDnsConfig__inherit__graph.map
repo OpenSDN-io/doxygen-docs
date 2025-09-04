@@ -1,7 +1,8 @@
 <map id="DnsConfig" name="DnsConfig">
-<area shape="rect" id="node2" href="$d0/d1f/structGlobalQosConfig.html" title="GlobalQosConfig" alt="" coords="5,80,136,107"/>
-<area shape="rect" id="node3" href="$d5/d2f/structIpamConfig.html" title="IpamConfig" alt="" coords="160,80,256,107"/>
-<area shape="rect" id="node4" href="$d0/d31/structVirtualDnsConfig.html" title="VirtualDnsConfig" alt="" coords="280,80,411,107"/>
-<area shape="rect" id="node5" href="$d1/d12/structVirtualDnsRecordConfig.html" title="VirtualDnsRecordConfig" alt="" coords="435,80,609,107"/>
-<area shape="rect" id="node6" href="$d3/d2e/structVnniConfig.html" title="VnniConfig" alt="" coords="634,80,725,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="284,5,368,32"/>
+<area shape="rect" id="node2" href="$d0/d1f/structGlobalQosConfig.html" title=" " alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$d5/d2f/structIpamConfig.html" title=" " alt="" coords="151,80,240,107"/>
+<area shape="rect" id="node4" href="$d0/d31/structVirtualDnsConfig.html" title=" " alt="" coords="265,80,387,107"/>
+<area shape="rect" id="node5" href="$d1/d12/structVirtualDnsRecordConfig.html" title=" " alt="" coords="411,80,574,107"/>
+<area shape="rect" id="node6" href="$d3/d2e/structVnniConfig.html" title=" " alt="" coords="599,80,685,107"/>
 </map>

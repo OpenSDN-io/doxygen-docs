@@ -1,22 +1,23 @@
 <map id="BfdProto::BfdHealthCheckSessionControl" name="BfdProto::BfdHealthCheckSessionControl">
-<area shape="rect" id="node2" href="$de/dc4/classHealthCheckInstanceService.html#a5b1401e517775b0eedb6d3c8e6220328" title="HealthCheckInstanceService\l::is_multi_hop" alt="" coords="245,5,453,46"/>
-<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a42f08a11f076341af91d7e21e208c8c6" title="HealthCheckInstanceBase\l::update_source_ip" alt="" coords="253,70,445,111"/>
-<area shape="rect" id="node7" href="$d8/d4e/classHealthCheckInstanceBase.html#aa9f91ab1e8bed9094aabe38c402e0207" title="HealthCheckInstanceBase\l::destination_ip" alt="" coords="253,135,445,177"/>
-<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#ab4d258b2d9419ed1e0f33b22044ae424" title="HealthCheckInstanceBase\l::interface" alt="" coords="507,177,699,218"/>
-<area shape="rect" id="node8" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="253,253,445,294"/>
-<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#a854170581581ad536da4600135c21b67" title="HealthCheckService\l::delay" alt="" coords="273,318,426,359"/>
-<area shape="rect" id="node10" href="$dd/df6/classHealthCheckService.html#a8324b92d108d3aaec82b25a1bc342b3b" title="HealthCheckService\l::delay_usecs" alt="" coords="273,383,426,425"/>
-<area shape="rect" id="node11" href="$dd/df6/classHealthCheckService.html#ae73c232afc4b9e36357c980cb16cb7e4" title="HealthCheckService\l::timeout" alt="" coords="273,449,426,490"/>
-<area shape="rect" id="node12" href="$dd/df6/classHealthCheckService.html#a60bc043f030cefbf520d71967f0ea233" title="HealthCheckService\l::timeout_usecs" alt="" coords="273,514,426,555"/>
-<area shape="rect" id="node13" href="$dd/df6/classHealthCheckService.html#a11908f903749eb24a02dc436f742fe3f" title="HealthCheckService\l::max_retries" alt="" coords="273,579,426,621"/>
-<area shape="rect" id="node14" href="$d7/d4a/classBFD_1_1Client.html#a5087fb8f49aedc5981b1e73fe970565e" title="BFD::Client::AddSession" alt="" coords="261,645,438,672"/>
-<area shape="rect" id="node20" href="$d7/d4a/classBFD_1_1Client.html#a864dae0fab85efd75ae8a65e98e31017" title="BFD::Client::DeleteSession" alt="" coords="252,696,447,723"/>
-<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#a8c95437376bbb96514965e73c07430ba" title="VmInterface::GetGatewayIp" alt="" coords="501,107,704,133"/>
-<area shape="rect" id="node6" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="522,41,683,82"/>
-<area shape="rect" id="node15" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="501,696,704,723"/>
-<area shape="rect" id="node16" href="$d7/d90/classBFD_1_1Server.html#a6625338e6a2c270744b88244ba553d7b" title="BFD::Server::AddSession" alt="" coords="512,645,693,672"/>
-<area shape="rect" id="node18" href="$d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69" title="BFD::Client::Notify" alt="" coords="531,595,674,621"/>
-<area shape="rect" id="node17" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="758,700,957,727"/>
-<area shape="rect" id="node19" href="$db/d0c/classBFD_1_1Connection.html#a89d0ae98e730b222d95ffb6ec8b05ea0" title="BFD::Connection::NotifyState\lChange" alt="" coords="752,587,963,629"/>
-<area shape="rect" id="node21" href="$d7/d90/classBFD_1_1Server.html#acae82079e1cdd64c0dc3d5243b591b88" title="BFD::Server::DeleteSession" alt="" coords="503,747,702,773"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,183,376"/>
+<area shape="rect" id="node2" href="$d7/d4a/classBFD_1_1Client.html#a5087fb8f49aedc5981b1e73fe970565e" title=" " alt="" coords="243,13,412,39"/>
+<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#a26bcf7c5fcc775ae49126d48e4b1debd" title=" " alt="" coords="256,64,399,105"/>
+<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#af4644f77a03495e25cffd3b3a12ae674" title=" " alt="" coords="256,129,399,171"/>
+<area shape="rect" id="node10" href="$d7/d4a/classBFD_1_1Client.html#a864dae0fab85efd75ae8a65e98e31017" title=" " alt="" coords="235,195,419,222"/>
+<area shape="rect" id="node12" href="$d8/d4e/classHealthCheckInstanceBase.html#a3327e884001f2ba9f79515aa10944e4c" title=" " alt="" coords="238,247,417,288"/>
+<area shape="rect" id="node13" href="$d8/d4e/classHealthCheckInstanceBase.html#a47b6e2b26cdbb072e168ead44e986b82" title=" " alt="" coords="478,451,657,492"/>
+<area shape="rect" id="node14" href="$de/dc4/classHealthCheckInstanceService.html#a5348af4c9a1bd4314d88c88330f1138a" title=" " alt="" coords="231,364,424,405"/>
+<area shape="rect" id="node15" href="$dd/df6/classHealthCheckService.html#a7d300ae163cf5c66b9aca38ddfaf0a7b" title=" " alt="" coords="256,429,399,471"/>
+<area shape="rect" id="node16" href="$d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef" title=" " alt="" coords="238,495,417,536"/>
+<area shape="rect" id="node17" href="$dd/df6/classHealthCheckService.html#aae28a19fd07d8539733f92c66e5db78a" title=" " alt="" coords="256,560,399,601"/>
+<area shape="rect" id="node18" href="$dd/df6/classHealthCheckService.html#ac9a0d9712e1eb6446084b68ba8527762" title=" " alt="" coords="256,625,399,667"/>
+<area shape="rect" id="node19" href="$d8/d4e/classHealthCheckInstanceBase.html#a42f08a11f076341af91d7e21e208c8c6" title=" " alt="" coords="238,691,417,732"/>
+<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#a6625338e6a2c270744b88244ba553d7b" title=" " alt="" coords="481,67,654,94"/>
+<area shape="rect" id="node5" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title=" " alt="" coords="472,133,663,159"/>
+<area shape="rect" id="node6" href="$d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69" title=" " alt="" coords="500,13,635,39"/>
+<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title=" " alt="" coords="716,133,903,159"/>
+<area shape="rect" id="node7" href="$db/d0c/classBFD_1_1Connection.html#a89d0ae98e730b222d95ffb6ec8b05ea0" title=" " alt="" coords="711,5,908,47"/>
+<area shape="rect" id="node11" href="$d7/d90/classBFD_1_1Server.html#acae82079e1cdd64c0dc3d5243b591b88" title=" " alt="" coords="473,190,661,217"/>
+<area shape="rect" id="node20" href="$d5/d21/classVmInterface.html#afeff8edda902deec8a1ad81dcc6cd02f" title=" " alt="" coords="475,727,660,754"/>
+<area shape="rect" id="node21" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="494,661,641,703"/>
 </map>

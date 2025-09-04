@@ -1,7 +1,8 @@
 <map id="DiagEntry" name="DiagEntry">
-<area shape="rect" id="node2" href="$de/d7e/classOverlayPing.html" title="OverlayPing" alt="" coords="5,80,107,107"/>
-<area shape="rect" id="node3" href="$dd/de7/classOverlayTraceRoute.html" title="OverlayTraceRoute" alt="" coords="131,80,275,107"/>
-<area shape="rect" id="node4" href="$d1/d7c/classPing.html" title="Ping" alt="" coords="299,80,349,107"/>
-<area shape="rect" id="node5" href="$d3/d19/classSegmentHealthCheckPkt.html" title="SegmentHealthCheckPkt" alt="" coords="373,80,557,107"/>
-<area shape="rect" id="node6" href="$dc/d1a/classTraceRoute.html" title="TraceRoute" alt="" coords="581,80,675,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="263,5,344,32"/>
+<area shape="rect" id="node2" href="$de/d7e/classOverlayPing.html" title=" " alt="" coords="5,80,97,107"/>
+<area shape="rect" id="node3" href="$dd/de7/classOverlayTraceRoute.html" title=" " alt="" coords="122,80,255,107"/>
+<area shape="rect" id="node4" href="$d1/d7c/classPing.html" title=" " alt="" coords="279,80,327,107"/>
+<area shape="rect" id="node5" href="$d3/d19/classSegmentHealthCheckPkt.html" title=" " alt="" coords="351,80,522,107"/>
+<area shape="rect" id="node6" href="$dc/d1a/classTraceRoute.html" title=" " alt="" coords="547,80,636,107"/>
 </map>

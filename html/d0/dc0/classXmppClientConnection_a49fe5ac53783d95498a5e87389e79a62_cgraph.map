@@ -1,6 +1,7 @@
 <map id="XmppClientConnection::increment_flap_count" name="XmppClientConnection::increment_flap_count">
-<area shape="rect" id="node2" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="251,5,405,32"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a5fddcca3abb84411a2d2e7815d6904bb" title="XmppConnection::logUVE" alt="" coords="234,56,422,83"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="225,107,431,133"/>
-<area shape="rect" id="node5" href="$d5/df9/xmpp__connection_8cc.html#ac0fa610ba4da90e0962a9f28a4ba8faa" title="XMPPPeerInfoSend" alt="" coords="256,157,400,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,161,115"/>
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a8ed5591d28f28f83fda84b8e11240bf5" title=" " alt="" coords="219,5,393,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ae6e36a0ac7b89691a6bfa9e9e4d8044d" title=" " alt="" coords="209,56,403,83"/>
+<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="234,107,378,133"/>
+<area shape="rect" id="node5" href="$d5/df9/xmpp__connection_8cc.html#ac0fa610ba4da90e0962a9f28a4ba8faa" title=" " alt="" coords="238,157,374,184"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="AgentXmppChannel::SendUpdate" name="AgentXmppChannel::SendUpdate">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="369,5,469,32"/>
-<area shape="rect" id="node3" href="$d0/d98/classAgentStats.html#ababc68e40c33b63498a4f9894944ba9b" title="AgentStats::incr_xmpp\l_out_msgs" alt="" coords="334,57,503,98"/>
-<area shape="rect" id="node4" href="$d6/d81/classXmppChannel.html#afdb26525bc6003c2d82cfa0ab64af0c2" title="XmppChannel::Send" alt="" coords="342,123,495,149"/>
-<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#a9f4de6140533680419d2495dffe7d830" title="AgentXmppChannel::WriteReadyCb" alt="" coords="293,173,544,200"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,224,123"/>
+<area shape="rect" id="node2" href="$d0/d98/classAgentStats.html#ababc68e40c33b63498a4f9894944ba9b" title=" " alt="" coords="310,5,465,47"/>
+<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#afdb26525bc6003c2d82cfa0ab64af0c2" title=" " alt="" coords="316,71,459,98"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ad2407e84fb59a24da5d98907217daf10" title=" " alt="" coords="341,122,434,149"/>
+<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#a9f4de6140533680419d2495dffe7d830" title=" " alt="" coords="272,173,503,199"/>
 </map>

@@ -11,6 +11,6 @@ var classResource =
       [ "MAX", "da/dcd/classResource.html#abde5e686869a8c7241557d18033b382ea62b0ef2d2ec8e87b2c31f2bb3056308b", null ]
     ] ],
     [ "Resource", "da/dcd/classResource.html#a5a87b23dc0327bbf8d53c6f38f637f48", null ],
-    [ "~Resource", "da/dcd/classResource.html#ad3f3570fbfb96a6eb9247b3dbeb1985d", null ],
-    [ "Create", "da/dcd/classResource.html#aa188450c05d6e6381da4cb415d243016", null ]
+    [ "Create", "da/dcd/classResource.html#aa188450c05d6e6381da4cb415d243016", null ],
+    [ "~Resource", "da/dcd/classResource.html#ad3f3570fbfb96a6eb9247b3dbeb1985d", null ]
 ];

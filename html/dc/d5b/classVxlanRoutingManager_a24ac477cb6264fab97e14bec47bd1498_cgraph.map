@@ -1,5 +1,6 @@
 <map id="VxlanRoutingManager::HasBgpPeerPath" name="VxlanRoutingManager::HasBgpPeerPath">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="219,5,360,32"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="227,56,352,83"/>
-<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="233,107,345,133"/>
+<area shape="rect" id="node1" title="Determines whether the given EVPN route has at least one path originating from BGP/XMPP (has Peer typ..." alt="" coords="5,49,156,90"/>
+<area shape="rect" id="node2" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="204,5,339,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="219,56,324,83"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="213,107,329,133"/>
 </map>

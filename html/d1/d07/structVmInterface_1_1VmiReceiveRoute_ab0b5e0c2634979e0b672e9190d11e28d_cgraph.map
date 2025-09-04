@@ -1,7 +1,0 @@
-<map id="VmInterface::VmiReceiveRoute::AddL2" name="VmInterface::VmiReceiveRoute::AddL2">
-<area shape="rect" id="node2" href="$d8/d2e/classBridgeAgentRouteTable.html#a80db1a1e8a353cd17f16b2351940d3b5" title="BridgeAgentRouteTable\l::AddBridgeReceiveRoute" alt="" coords="278,5,463,46"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a72cbf573009ca1d770b8ce78811c818b" title="Agent::local_peer" alt="" coords="303,71,438,97"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#afff7b706cb080aef5fcc4a55cde13e8f" title="VmInterface::GetVifMac" alt="" coords="282,145,459,172"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1359f08f2868207392c26e4c424edf77" title="Agent::fabric_vn_name" alt="" coords="285,196,457,223"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ab6d30c99e876ef87e4d7a752bdcd2be2" title="Agent::vrrp_mac" alt="" coords="513,145,642,172"/>
-</map>

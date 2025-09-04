@@ -1,4 +1,10 @@
 <map id="FlowProto::DisableFlowUpdateQueue" name="FlowProto::DisableFlowUpdateQueue">
-<area shape="rect" id="node2" href="$da/de0/classFlowEventQueueBase.html#a0f6f32a3d3110500fd75c9503494172e" title="FlowEventQueueBase\l::set_disable" alt="" coords="275,5,437,46"/>
-<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a30fd523d0f5c58aa22481b03eab6cf7d" title="WorkQueue::set_disable" alt="" coords="485,12,664,39"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,208,72"/>
+<area shape="rect" id="node2" href="$da/de0/classFlowEventQueueBase.html#a0f6f32a3d3110500fd75c9503494172e" title=" " alt="" coords="256,31,407,72"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a30fd523d0f5c58aa22481b03eab6cf7d" title=" " alt="" coords="455,38,620,65"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="668,38,879,65"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="941,13,1127,39"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="927,63,1141,90"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1189,13,1392,39"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1440,5,1617,47"/>
 </map>

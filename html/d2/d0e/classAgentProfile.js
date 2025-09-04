@@ -15,7 +15,7 @@ var classAgentProfile =
     [ "RegisterFlowStatsCb", "d2/d0e/classAgentProfile.html#a3274485302fee61e76940ac0959e22e2", null ],
     [ "RegisterKSyncStatsCb", "d2/d0e/classAgentProfile.html#a35dae63d0e315a208b7b8762a45cfcaf", null ],
     [ "RegisterPktFlowStatsCb", "d2/d0e/classAgentProfile.html#ab3eaed4275027b0cf2fadf6b6f03acf6", null ],
-    [ "seconds_history_index", "d2/d0e/classAgentProfile.html#a82efdb60425dca2d2aad605d2c4ae414", null ],
+    [ "seconds_history_index", "d2/d0e/classAgentProfile.html#ac982573f4d70544b3d09f84c2fc8a696", null ],
     [ "Shutdown", "d2/d0e/classAgentProfile.html#a194230d478dfcc411fb6d5f6af45ce60", null ],
     [ "TimerRun", "d2/d0e/classAgentProfile.html#aa5dd3b2984f15b8cb074f563577acce2", null ],
     [ "agent_", "d2/d0e/classAgentProfile.html#a411986feb57b0db3cfd81cee3cfaeaac", null ],

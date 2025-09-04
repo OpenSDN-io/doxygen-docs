@@ -1,8 +1,9 @@
 <map id="SandeshSession::SandeshSession" name="SandeshSession::SandeshSession">
-<area shape="rect" id="node2" href="$de/d75/classSandesh.html#a2cf8b26e16c308947dbde45f18fbf78f" title="Sandesh::role" alt="" coords="347,5,458,32"/>
-<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html#a7e7c2d2986a94f611c5cd61f62f75509" title="SandeshSession::SendBuffer" alt="" coords="299,56,506,83"/>
-<area shape="rect" id="node6" href="$d1/dfd/classSandeshSession.html#a8a8d9b00d1f1741e7464c8efbc1511cf" title="SandeshSession::SessionSend\lReady" alt="" coords="294,107,511,149"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a0fc08984976b14d1c7336f2949c3fcc8" title="TcpSession::IsEstablished" alt="" coords="579,89,765,116"/>
-<area shape="rect" id="node5" href="$d1/dfd/classSandeshSession.html#a33182303c0e62d5d24b96092143afda1" title="SandeshSession::increment\l_send_buffer_fail" alt="" coords="571,23,773,65"/>
-<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a62eb09258028ea227f5c0e28ef2ee8e2" title="Sandesh::IsSendQueueEnabled" alt="" coords="561,140,783,167"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,232,83"/>
+<area shape="rect" id="node2" href="$de/d75/classSandesh.html#a2cf8b26e16c308947dbde45f18fbf78f" title=" " alt="" coords="331,5,434,32"/>
+<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html#a7e7c2d2986a94f611c5cd61f62f75509" title=" " alt="" coords="287,56,479,83"/>
+<area shape="rect" id="node6" href="$d1/dfd/classSandeshSession.html#a8a8d9b00d1f1741e7464c8efbc1511cf" title=" " alt="" coords="280,107,485,149"/>
+<area shape="rect" id="node4" href="$d1/dfd/classSandeshSession.html#a33182303c0e62d5d24b96092143afda1" title=" " alt="" coords="544,23,729,65"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac10803a7f7a8485c6f7e77e2b11abeed" title=" " alt="" coords="548,89,725,116"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a62eb09258028ea227f5c0e28ef2ee8e2" title=" " alt="" coords="533,140,740,167"/>
 </map>

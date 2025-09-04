@@ -1,9 +1,10 @@
 <map id="InterfaceTable::FreeInterfaceId" name="InterfaceTable::FreeInterfaceId">
-<area shape="rect" id="node2" href="$d2/d73/classInterfaceTable.html#ac5744c4d9b287f8ab0aeca108ccb1a09" title="InterfaceTable::agent" alt="" coords="291,5,450,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="276,56,465,83"/>
-<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title="ResourceManager::Release" alt="" coords="273,107,469,133"/>
-<area shape="rect" id="node8" href="$d6/d34/classIndexVector.html#aa9dfee57934514ce475d5916ac94fdce" title="IndexVector::Remove" alt="" coords="291,157,451,184"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="518,41,719,82"/>
-<area shape="rect" id="node6" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title="ResourceTable::FindKeyPtr" alt="" coords="523,107,714,133"/>
-<area shape="rect" id="node7" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title="ResourceTable::ReleaseKey" alt="" coords="519,157,718,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,208,108"/>
+<area shape="rect" id="node2" href="$d2/d73/classInterfaceTable.html#ad2067c37978a983744a4757575609ce2" title=" " alt="" coords="275,5,420,32"/>
+<area shape="rect" id="node3" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title=" " alt="" coords="256,56,439,83"/>
+<area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#aa9dfee57934514ce475d5916ac94fdce" title=" " alt="" coords="274,107,421,133"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="262,157,433,184"/>
+<area shape="rect" id="node4" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title=" " alt="" coords="489,5,669,32"/>
+<area shape="rect" id="node5" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title=" " alt="" coords="487,56,672,83"/>
+<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title=" " alt="" coords="487,107,672,149"/>
 </map>

@@ -1,18 +1,20 @@
 <map id="BgpAttr" name="BgpAttr">
-<area shape="rect" id="node2" href="$d2/d98/classEthernetSegmentId.html" title="EthernetSegmentId" alt="" coords="1749,532,1896,559"/>
-<area shape="rect" id="node3" href="$d7/d34/classBgpAttrDB.html" title="BgpAttrDB" alt="" coords="1777,657,1868,684"/>
-<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; BgpAttr, BgpAttrPtr,\l BgpAttrSpec, BgpAttrCompare,\l BgpAttrDB \&gt;" alt="" coords="389,711,616,782"/>
-<area shape="rect" id="node15" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,285,358,312"/>
-<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="640,256,856,283"/>
-<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="641,451,855,477"/>
-<area shape="rect" id="node22" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="1323,125,1469,152"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1515,633,1605,660"/>
-<area shape="rect" id="node7" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1093,588,1246,615"/>
-<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="705,588,791,615"/>
-<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,667,354,693"/>
-<area shape="rect" id="node21" href="$df/d70/classDB.html" title="DB" alt="" coords="927,144,969,171"/>
-<area shape="rect" id="node12" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,616,352,643"/>
-<area shape="rect" id="node16" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1041,286,1298,327"/>
-<area shape="rect" id="node17" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="723,353,773,380"/>
-<area shape="rect" id="node19" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="1046,398,1293,439"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1049,160,1116,187"/>
+<area shape="rect" id="node2" href="$d2/d98/classEthernetSegmentId.html" title=" " alt="" coords="794,59,927,85"/>
+<area shape="rect" id="node3" href="$d7/d34/classBgpAttrDB.html" title=" " alt="" coords="818,109,903,136"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html" title=" " alt="" coords="411,65,620,135"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html" title=" " alt="" coords="474,248,557,275"/>
+<area shape="rect" id="node6" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="789,363,932,389"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html" title=" " alt="" coords="475,385,556,412"/>
+<area shape="rect" id="node8" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="208,445,319,472"/>
+<area shape="rect" id="node9" title=" " alt="" coords="236,185,291,212"/>
+<area shape="rect" id="node10" title=" " alt="" coords="17,312,76,339"/>
+<area shape="rect" id="node16" href="$df/d70/classDB.html" title=" " alt="" coords="243,263,284,289"/>
+<area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="211,395,316,421"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5,395,88,421"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="415,436,615,463"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="418,335,613,361"/>
+<area shape="rect" id="node15" title=" " alt="" coords="481,497,549,524"/>
+<area shape="rect" id="node17" href="$dc/d73/classRouteDistinguisher.html" title=" " alt="" coords="794,609,927,636"/>
+<area shape="rect" id="node18" title=" " alt="" coords="487,609,543,636"/>
 </map>

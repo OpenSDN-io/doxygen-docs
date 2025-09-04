@@ -1,7 +1,8 @@
 <map id="BgpRoute::FindPath" name="BgpRoute::FindPath">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="205,5,347,32"/>
-<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="206,56,346,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="209,107,343,133"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="203,157,349,184"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="201,208,351,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,145,133"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="198,5,331,32"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a6284dadd76a06f19337a406dba117261" title=" " alt="" coords="195,56,334,83"/>
+<area shape="rect" id="node4" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="197,107,332,133"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="201,157,328,184"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#ae586140cbe5d22634efdd18a06188277" title=" " alt="" coords="193,208,336,235"/>
 </map>

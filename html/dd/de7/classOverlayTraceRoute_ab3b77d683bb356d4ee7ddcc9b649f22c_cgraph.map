@@ -1,5 +1,6 @@
 <map id="OverlayTraceRoute::ReplyLocalHop" name="OverlayTraceRoute::ReplyLocalHop">
-<area shape="rect" id="node2" href="$dc/d1a/classTraceRoute.html#a472fa77b43408a113faed6f40348646d" title="TraceRoute::SendSandeshReply" alt="" coords="205,5,429,32"/>
-<area shape="rect" id="node3" href="$dc/d16/classDiagTable.html#a1b82733eb8ef3bbbbcca3d0f5385082e" title="DiagTable::agent" alt="" coords="252,56,383,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ac03bc14ab24abd2d4e377709b726c3b2" title="Agent::router_id" alt="" coords="254,107,381,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,147,90"/>
+<area shape="rect" id="node2" href="$dc/d16/classDiagTable.html#a73e634436a3418fc8e314a319cb71a05" title=" " alt="" coords="240,5,360,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#aed640b6ad192e143ea98c0cc52a7dc96" title=" " alt="" coords="243,56,357,83"/>
+<area shape="rect" id="node4" href="$dc/d1a/classTraceRoute.html#a472fa77b43408a113faed6f40348646d" title=" " alt="" coords="195,107,405,133"/>
 </map>

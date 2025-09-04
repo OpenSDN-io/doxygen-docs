@@ -1,51 +1,52 @@
 <map id="MetadataProxy::InitializeHttp6Server" name="MetadataProxy::InitializeHttp6Server">
-<area shape="rect" id="node2" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses. " alt="" coords="256,207,453,249"/>
-<area shape="rect" id="node3" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="551,5,751,32"/>
-<area shape="rect" id="node4" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="846,592,1015,619"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="544,356,757,383"/>
-<area shape="rect" id="node10" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title="HttpServer::RegisterHandler" alt="" coords="253,613,457,640"/>
-<area shape="rect" id="node11" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title="MetadataProxy::HandleMetadata\lRequest" alt="" coords="237,846,472,887"/>
-<area shape="rect" id="node36" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title="TcpServer::Initialize" alt="" coords="280,912,429,939"/>
-<area shape="rect" id="node38" href="$d8/dfe/classAgent.html#a932a9c38e1ccf272cbc11d625e2a256a" title="Agent::metadata_server_port" alt="" coords="249,963,461,989"/>
-<area shape="rect" id="node39" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance. " alt="" coords="260,1730,449,1771"/>
-<area shape="rect" id="node6" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class. " alt="" coords="574,239,727,281"/>
-<area shape="rect" id="node7" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct. " alt="" coords="578,57,723,98"/>
-<area shape="rect" id="node8" href="$de/dc3/classaux_1_1NetlinkSocket.html#a1ce0b628aeab6a4f22fc22006a11f72a" title="Returns a reference to the Netlink socket descriptor. " alt="" coords="567,123,734,149"/>
-<area shape="rect" id="node9" href="$d5/d9c/structaux_1_1NetlinkResponse.html#a9abab8266a96e6dacbd012ff7311ebe5" title="Iterates over all response parts. " alt="" coords="569,174,732,215"/>
-<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#a4c6e9471b6036e008b9a862e827b1c95" title="TcpSession::remote\l_endpoint" alt="" coords="577,711,725,753"/>
-<area shape="rect" id="node13" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="847,1191,1014,1217"/>
-<area shape="rect" id="node14" href="$db/d96/classMetadataProxy.html#a2f193f8d7778c8bc37719f71505d4594" title="MetadataProxy::ErrorClose" alt="" coords="833,1241,1028,1268"/>
-<area shape="rect" id="node19" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="837,1023,1024,1049"/>
-<area shape="rect" id="node20" href="$d7/d8d/metadata__proxy_8cc.html#afa7614b385e6ed1e559ef4dc4d6bf5a0" title="GetHmacSha256" alt="" coords="585,828,716,855"/>
-<area shape="rect" id="node22" href="$d5/d1b/classHttpRequest.html#aae0e2bd78edc3ed445213e6fdf87e62a" title="HttpRequest::Headers" alt="" coords="569,980,733,1007"/>
-<area shape="rect" id="node23" href="$d5/d1b/classHttpRequest.html#a7f90ab416608b192eeebdb136ac54e21" title="HttpRequest::UrlPath" alt="" coords="572,879,729,905"/>
-<area shape="rect" id="node25" href="$d5/d1b/classHttpRequest.html#a4fb5c31d5451c80ed337154c106235af" title="HttpRequest::Body" alt="" coords="579,1081,722,1108"/>
-<area shape="rect" id="node26" href="$db/d96/classMetadataProxy.html#aa7a8b6fe9c39b0316ddfc978318d9414" title="MetadataProxy::GetProxyConnection" alt="" coords="521,777,781,804"/>
-<area shape="rect" id="node28" href="$d5/d1b/classHttpRequest.html#a42d76417594f75440f72f06ef55bbc89" title="HttpRequest::GetMethod" alt="" coords="560,1199,741,1225"/>
-<area shape="rect" id="node29" href="$d3/de9/classHttpConnection.html#a6b1591bb300f524117c0fe99c7ae8389" title="HttpConnection::HttpGet" alt="" coords="559,1249,742,1276"/>
-<area shape="rect" id="node30" href="$db/d96/classMetadataProxy.html#a044cb33a1ae716897bcca7f13c099119" title="MetadataProxy::HandleMetadata\lResponse" alt="" coords="533,1133,768,1174"/>
-<area shape="rect" id="node32" href="$d3/de9/classHttpConnection.html#aeb5b07e227b6bfa6b95a545dd6aa72e7" title="HttpConnection::HttpHead" alt="" coords="554,508,747,535"/>
-<area shape="rect" id="node33" href="$d3/de9/classHttpConnection.html#ac9fb5c6259aeedc53b6f92247cb9015f" title="HttpConnection::HttpPost" alt="" coords="557,559,744,585"/>
-<area shape="rect" id="node34" href="$d3/de9/classHttpConnection.html#a2d6942b0e343d7d178b33369c52e73c4" title="HttpConnection::HttpPut" alt="" coords="561,609,741,636"/>
-<area shape="rect" id="node35" href="$d3/de9/classHttpConnection.html#af73c01d58fc366533e14c35cb25721f1" title="HttpConnection::HttpDelete" alt="" coords="549,660,752,687"/>
-<area shape="rect" id="node31" href="$db/d96/classMetadataProxy.html#a1c82788af90eb5459b53c5582884513f" title="MetadataProxy::CloseClient\lSession" alt="" coords="830,1074,1031,1115"/>
-<area shape="rect" id="node15" href="$d7/d8d/metadata__proxy_8cc.html#a878306c7dc8e3bfb05786b0f879a11c0" title="ErrorMessage" alt="" coords="1127,1271,1238,1297"/>
-<area shape="rect" id="node16" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="1116,1220,1249,1247"/>
-<area shape="rect" id="node17" href="$db/d96/classMetadataProxy.html#afd9109e4c1d1deec13558ec79535c087" title="MetadataProxy::CloseServer\lSession" alt="" coords="1080,1133,1285,1174"/>
-<area shape="rect" id="node18" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="1334,1096,1471,1123"/>
-<area shape="rect" id="node21" href="$d8/dc6/metadata__proxy__extern_8h.html#a85ae40471b932a5216568b10601b107c" title="isc_hmac" alt="" coords="889,828,972,855"/>
-<area shape="rect" id="node24" href="$d8/d3c/util_8h.html#a958ab293b94f91a7461891fc49019e0d" title="BitIsSet" alt="" coords="895,879,967,905"/>
-<area shape="rect" id="node27" href="$d2/d0e/classTcpSession.html#adfccba8353407162a30f9fc9ed23d2d8" title="TcpSession::local_port" alt="" coords="848,777,1013,804"/>
-<area shape="rect" id="node37" href="$de/df9/classTcpServer.html#ae50c5d093e636226d5137612f81dd76a" title="TcpServer::InitializeInternal" alt="" coords="551,1401,750,1428"/>
-<area shape="rect" id="node40" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="566,1839,735,1865"/>
-<area shape="rect" id="node41" href="$d8/dfe/classAgent.html#a1359f08f2868207392c26e4c424edf77" title="Agent::fabric_vn_name" alt="" coords="565,1889,737,1916"/>
-<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="587,1940,714,1967"/>
-<area shape="rect" id="node43" href="$db/d35/classVrfTable.html#a489b2b14f0159f0f1a21e09020ca85bb" title="VrfTable::GetInet6Unicast\lRouteTable" alt="" coords="557,1991,745,2033"/>
-<area shape="rect" id="node44" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="563,2057,738,2084"/>
-<area shape="rect" id="node45" href="$da/dcd/classInetUnicastAgentRouteTable.html#aa5193d2f8947c642fcca0cb0c8eabd5f" title="InetUnicastAgentRouteTable\l::AddLocalVmRouteReq" alt="" coords="548,1503,753,1545"/>
-<area shape="rect" id="node46" href="$d8/dfe/classAgent.html#a1471e814a192e7b14d81058d8b510985" title="Agent::link_local_peer" alt="" coords="567,1569,734,1596"/>
-<area shape="rect" id="node47" href="$db/d96/classMetadataProxy.html#a950b6a04b9d6aab960030771f20df545" title="Returns an IPv6 address of the Metadata TF link local service. " alt="" coords="549,1621,752,1662"/>
-<area shape="rect" id="node48" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="580,1687,721,1713"/>
-<area shape="rect" id="node49" href="$d0/dcc/classInterface.html#aa2755f1f1c94e334025487d8af0b410e" title="Interface::label" alt="" coords="591,1737,711,1764"/>
-<area shape="rect" id="node50" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="588,1788,713,1815"/>
+<area shape="rect" id="node1" title="Initializes an HTTP server for IPv6 requests." alt="" coords="5,1758,169,1799"/>
+<area shape="rect" id="node2" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance." alt="" coords="237,334,409,375"/>
+<area shape="rect" id="node6" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="779,839,935,865"/>
+<area shape="rect" id="node18" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title=" " alt="" coords="217,1177,429,1218"/>
+<area shape="rect" id="node40" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title=" " alt="" coords="255,1711,391,1737"/>
+<area shape="rect" id="node42" href="$d8/dfe/classAgent.html#a3f89cbba8fb9e876c1a5f333ebc94b28" title=" " alt="" coords="228,1765,419,1792"/>
+<area shape="rect" id="node43" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses." alt="" coords="234,1823,413,1865"/>
+<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#a7a7650115f4a9fc4dd8ac2f8c5765a65" title=" " alt="" coords="500,2005,693,2032"/>
+<area shape="rect" id="node49" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name." alt="" coords="505,2056,688,2083"/>
+<area shape="rect" id="node50" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title=" " alt="" coords="230,1991,417,2017"/>
+<area shape="rect" id="node3" href="$da/dcd/classInetUnicastAgentRouteTable.html#aa5193d2f8947c642fcca0cb0c8eabd5f" title=" " alt="" coords="502,107,691,149"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a7738f8f71b44509ee185f4b43f46cccc" title=" " alt="" coords="519,173,675,200"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ae7a09205339edcfbc430d239d2e74ed1" title=" " alt="" coords="517,224,676,251"/>
+<area shape="rect" id="node9" href="$db/d35/classVrfTable.html#a489b2b14f0159f0f1a21e09020ca85bb" title=" " alt="" coords="510,275,683,317"/>
+<area shape="rect" id="node11" href="$d0/dcc/classInterface.html#ad8cbff5e7a74f3aee30db0b6318019cd" title=" " alt="" coords="531,341,662,368"/>
+<area shape="rect" id="node12" href="$db/d96/classMetadataProxy.html#a9cbc8ab817793078cf19cc666ab97aee" title="Returns an IPv6 address of the Metadata TF link local service." alt="" coords="503,393,690,434"/>
+<area shape="rect" id="node13" href="$d0/dcc/classInterface.html#aaba615a4a70bfa64162d40517c5bc2d9" title=" " alt="" coords="542,459,651,485"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#ab6b620a6b62553a8ce8426e2ce3a4370" title=" " alt="" coords="521,509,672,536"/>
+<area shape="rect" id="node15" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="539,560,654,587"/>
+<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#ad0906665233ed950d7ccf176587e5c44" title=" " alt="" coords="519,5,674,32"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="539,56,654,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="789,89,924,116"/>
+<area shape="rect" id="node5" href="$d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title=" " alt="" coords="771,140,942,167"/>
+<area shape="rect" id="node10" href="$db/d35/classVrfTable.html#a9c5dcf08620bc3a9b314c965ded8ff23" title=" " alt="" coords="774,283,939,309"/>
+<area shape="rect" id="node19" href="$d5/d1b/classHttpRequest.html#a0302bc16bf6082f91b4bd60b338ae8a5" title=" " alt="" coords="530,1235,663,1261"/>
+<area shape="rect" id="node20" href="$db/d96/classMetadataProxy.html#a1c82788af90eb5459b53c5582884513f" title=" " alt="" coords="764,1379,949,1421"/>
+<area shape="rect" id="node23" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title=" " alt="" coords="769,1648,944,1675"/>
+<area shape="rect" id="node25" href="$db/d96/classMetadataProxy.html#a2f193f8d7778c8bc37719f71505d4594" title=" " alt="" coords="767,1496,946,1523"/>
+<area shape="rect" id="node27" href="$d7/d8d/metadata__proxy_8cc.html#afa7614b385e6ed1e559ef4dc4d6bf5a0" title=" " alt="" coords="535,1285,658,1312"/>
+<area shape="rect" id="node28" href="$d5/d1b/classHttpRequest.html#a5a804b752467c3d013bf2e447616a70b" title=" " alt="" coords="513,1336,680,1363"/>
+<area shape="rect" id="node29" href="$db/d96/classMetadataProxy.html#aa7a8b6fe9c39b0316ddfc978318d9414" title=" " alt="" coords="477,864,716,891"/>
+<area shape="rect" id="node30" href="$db/d96/classMetadataProxy.html#a044cb33a1ae716897bcca7f13c099119" title=" " alt="" coords="491,1539,703,1581"/>
+<area shape="rect" id="node31" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="781,1597,932,1624"/>
+<area shape="rect" id="node32" href="$d5/d1b/classHttpRequest.html#ab2039cee6511410d35c8ee34149f6e4c" title=" " alt="" coords="520,763,673,789"/>
+<area shape="rect" id="node33" href="$d3/de9/classHttpConnection.html#af73c01d58fc366533e14c35cb25721f1" title=" " alt="" coords="505,915,689,941"/>
+<area shape="rect" id="node34" href="$d3/de9/classHttpConnection.html#a6b1591bb300f524117c0fe99c7ae8389" title=" " alt="" coords="513,965,680,992"/>
+<area shape="rect" id="node35" href="$d3/de9/classHttpConnection.html#aeb5b07e227b6bfa6b95a545dd6aa72e7" title=" " alt="" coords="768,712,945,739"/>
+<area shape="rect" id="node36" href="$d3/de9/classHttpConnection.html#ac9fb5c6259aeedc53b6f92247cb9015f" title=" " alt="" coords="510,1016,683,1043"/>
+<area shape="rect" id="node37" href="$d3/de9/classHttpConnection.html#a2d6942b0e343d7d178b33369c52e73c4" title=" " alt="" coords="513,1067,680,1093"/>
+<area shape="rect" id="node38" href="$d2/d0e/classTcpSession.html#aad9581939723edb82291a3ef635f4ae7" title=" " alt="" coords="527,1118,666,1159"/>
+<area shape="rect" id="node39" href="$d5/d1b/classHttpRequest.html#a9d5aa328e02ec9b776570aa2501eddb9" title=" " alt="" coords="523,1184,670,1211"/>
+<area shape="rect" id="node21" href="$d3/de9/classHttpConnection.html#aa5fc980c9f1b6df8d49753c137a1ad79" title=" " alt="" coords="1023,973,1175,1000"/>
+<area shape="rect" id="node22" href="$d4/d6e/classHttpClient.html#acf10e630c4af6a7da335b9cb934c31c3" title=" " alt="" coords="997,1387,1200,1413"/>
+<area shape="rect" id="node24" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title=" " alt="" coords="1248,1597,1380,1624"/>
+<area shape="rect" id="node26" href="$db/d96/classMetadataProxy.html#afd9109e4c1d1deec13558ec79535c087" title=" " alt="" coords="1004,1539,1193,1581"/>
+<area shape="rect" id="node41" href="$de/df9/classTcpServer.html#ae50c5d093e636226d5137612f81dd76a" title=" " alt="" coords="507,1707,686,1733"/>
+<area shape="rect" id="node44" href="$de/dc3/classaux_1_1NetlinkSocket.html#a6d324e0a253160577bb1c580d5aa7893" title="Returns a reference to the Netlink socket descriptor." alt="" coords="521,1955,672,1981"/>
+<area shape="rect" id="node45" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class." alt="" coords="527,1758,666,1799"/>
+<area shape="rect" id="node46" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct." alt="" coords="531,1823,662,1865"/>
+<area shape="rect" id="node47" href="$d5/d9c/structaux_1_1NetlinkResponse.html#a9abab8266a96e6dacbd012ff7311ebe5" title="Iterates over all response parts." alt="" coords="522,1889,671,1930"/>
 </map>

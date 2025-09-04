@@ -1,8 +1,10 @@
 <map id="IFMapLink::SetProperties" name="IFMapLink::SetProperties">
-<area shape="rect" id="node2" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title="IFMapLink::left" alt="" coords="264,5,381,32"/>
-<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="255,56,390,83"/>
-<area shape="rect" id="node4" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="238,107,407,133"/>
-<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="253,157,392,184"/>
-<area shape="rect" id="node6" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title="IFMapLink::right" alt="" coords="260,208,385,235"/>
-<area shape="rect" id="node7" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="243,259,402,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,176,184"/>
+<area shape="rect" id="node2" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title=" " alt="" coords="249,5,357,32"/>
+<area shape="rect" id="node3" href="$d0/dfa/classIFMapLink.html#ad153169675ddc500b86b658651c4d917" title=" " alt="" coords="231,56,375,83"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="238,107,369,133"/>
+<area shape="rect" id="node5" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title=" " alt="" coords="246,157,361,184"/>
+<area shape="rect" id="node6" href="$d0/dfa/classIFMapLink.html#ae99fcd88cca8255f800a625b5df263a7" title=" " alt="" coords="230,209,377,250"/>
+<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="240,275,367,301"/>
+<area shape="rect" id="node8" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="224,325,383,352"/>
 </map>

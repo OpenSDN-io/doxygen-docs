@@ -1,8 +1,9 @@
 <map id="routepath_replicator.h" name="routepath_replicator.h">
-<area shape="rect" id="node2" href="$d5/dbd/bgp__route_8cc.html" title="bgp_route.cc" alt="" coords="5,80,109,107"/>
-<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title="bgp_server.cc" alt="" coords="134,80,244,107"/>
-<area shape="rect" id="node4" href="$d4/d40/routepath__replicator_8cc.html" title="routepath_replicator.cc" alt="" coords="269,80,440,107"/>
-<area shape="rect" id="node5" href="$d3/d46/routing__instance_8cc.html" title="routing_instance.cc" alt="" coords="465,80,612,107"/>
-<area shape="rect" id="node6" href="$da/dcc/static__route_8cc.html" title="static_route.cc" alt="" coords="637,80,755,107"/>
-<area shape="rect" id="node7" href="$d8/d06/routing__policy__match_8cc.html" title="routing_policy_match.cc" alt="" coords="779,80,959,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="347,5,493,32"/>
+<area shape="rect" id="node2" href="$d5/dbd/bgp__route_8cc.html" title=" " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title=" " alt="" coords="129,80,234,107"/>
+<area shape="rect" id="node4" href="$d4/d40/routepath__replicator_8cc.html" title=" " alt="" coords="259,80,413,107"/>
+<area shape="rect" id="node5" href="$d3/d46/routing__instance_8cc.html" title=" " alt="" coords="438,80,573,107"/>
+<area shape="rect" id="node6" href="$da/dcc/static__route_8cc.html" title=" " alt="" coords="597,80,705,107"/>
+<area shape="rect" id="node7" href="$d8/d06/routing__policy__match_8cc.html" title=" " alt="" coords="729,80,892,107"/>
 </map>

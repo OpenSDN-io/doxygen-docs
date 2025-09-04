@@ -1,8 +1,9 @@
 <map id="KSyncSM_DelPending_Sync" name="KSyncSM_DelPending_Sync">
-<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#a8165d6dacd0578563fcbcc0b199a1ccf" title="KSyncEntry::GetRefCount" alt="" coords="489,5,674,32"/>
-<area shape="rect" id="node3" href="$dc/df2/classKSyncEntry.html#a26596defaf9183dd79a49df5a840483c" title="KSyncEntry::set_del\l_add_pending" alt="" coords="254,49,405,90"/>
-<area shape="rect" id="node4" href="$d6/d84/ksync__object_8cc.html#ae9f7efe30e3b8e6991b93c7e994b28d6" title="KSyncSM_Delete" alt="" coords="264,115,395,141"/>
-<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#a38db4980c41ab05a41d684e8c8a8f6b7" title="KSyncEntry::Seen" alt="" coords="514,64,649,91"/>
-<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#a018fc7ccb324739504b6f69e3e018de5" title="KSyncEntry::AllowDeleteStateComp" alt="" coords="454,115,709,141"/>
-<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a7937d6429cfbd7c26feb43d3ac968645" title="KSyncEntry::Delete" alt="" coords="508,165,655,192"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,196,83"/>
+<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#ad7f94b01ff617949230c0ed227f06a46" title=" " alt="" coords="463,5,638,32"/>
+<area shape="rect" id="node3" href="$d6/d84/ksync__object_8cc.html#ae9f7efe30e3b8e6991b93c7e994b28d6" title=" " alt="" coords="252,56,377,83"/>
+<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a26596defaf9183dd79a49df5a840483c" title=" " alt="" coords="244,107,385,149"/>
+<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#a018fc7ccb324739504b6f69e3e018de5" title=" " alt="" coords="433,56,668,83"/>
+<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#a7937d6429cfbd7c26feb43d3ac968645" title=" " alt="" coords="482,107,619,133"/>
+<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#abfbda45373d4540dff58d2cee36a8173" title=" " alt="" coords="486,157,615,184"/>
 </map>

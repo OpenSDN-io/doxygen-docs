@@ -1,13 +1,15 @@
 <map id="EvpnMcastNode::UpdateAttributes" name="EvpnMcastNode::UpdateAttributes">
-<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="324,31,473,57"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="328,81,469,108"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="333,132,464,159"/>
-<area shape="rect" id="node7" href="$dd/de9/classEvpnMcastNode.html#ae1495d85eb022fe5e9b63a227fecc315" title="EvpnMcastNode::edge\l_replication_not_supported" alt="" coords="299,183,498,225"/>
-<area shape="rect" id="node8" href="$d9/d63/classPmsiTunnel.html#aa14a412efd7917c36a9074fde686ac75" title="PmsiTunnel::tunnel\l_flags" alt="" coords="326,249,471,290"/>
-<area shape="rect" id="node9" href="$d9/d63/classPmsiTunnel.html#a52c6f5cddf1fa4a43e79c5da97d89cfe" title="PmsiTunnel::identifier" alt="" coords="317,315,480,341"/>
-<area shape="rect" id="node10" href="$dd/de9/classEvpnMcastNode.html#a08ab66e89fc6810029e2c3695fd88f09" title="EvpnMcastNode::assisted\l_replication_supported" alt="" coords="305,366,493,407"/>
-<area shape="rect" id="node11" href="$dd/de9/classEvpnMcastNode.html#a36619cc1eadee9869800e6bcc430cac1" title="EvpnMcastNode::assisted\l_replication_leaf" alt="" coords="305,431,493,473"/>
-<area shape="rect" id="node12" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="333,497,465,524"/>
-<area shape="rect" id="node3" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="547,5,688,32"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="547,56,687,83"/>
+<area shape="rect" id="node1" title="Update the label and attributes for a EvpnMcastNode. Return true if either of them changed." alt="" coords="5,279,231,306"/>
+<area shape="rect" id="node2" href="$dd/de9/classEvpnMcastNode.html#a3becd2e4d61663cd8fe91cac03593597" title=" " alt="" coords="280,5,456,47"/>
+<area shape="rect" id="node3" href="$dd/de9/classEvpnMcastNode.html#a3e60cb3dddcb2ef1f6dea8c96fbca81b" title=" " alt="" coords="280,71,456,112"/>
+<area shape="rect" id="node4" href="$d6/dbd/classBgpRoute.html#a6ed6f992ae97aa0d7675cb4cebab949e" title=" " alt="" coords="297,137,439,163"/>
+<area shape="rect" id="node7" href="$dd/de9/classEvpnMcastNode.html#a9064ed5cf980991540c19d0580b60ce2" title=" " alt="" coords="279,188,457,229"/>
+<area shape="rect" id="node8" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="307,254,429,281"/>
+<area shape="rect" id="node9" href="$d7/d0c/classBgpPath.html#a1cd35b90f72792072772d1767349e204" title=" " alt="" coords="302,305,434,331"/>
+<area shape="rect" id="node10" href="$d9/d63/classPmsiTunnel.html#ae9a3b01a739725d873a59673d5da349d" title=" " alt="" coords="295,355,441,382"/>
+<area shape="rect" id="node11" href="$d5/dcf/classBgpAttr.html#aadbcc5fe5aa55782c1d7fcc5b7b304dd" title=" " alt="" coords="308,406,428,433"/>
+<area shape="rect" id="node12" href="$dd/de9/classEvpnMcastNode.html#aca616bad0a74d35b0a476499d4461425" title=" " alt="" coords="290,457,446,483"/>
+<area shape="rect" id="node13" href="$d9/d63/classPmsiTunnel.html#a31e0970ea25a80734d28b444219ac252" title=" " alt="" coords="301,508,435,549"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="506,111,639,138"/>
+<area shape="rect" id="node6" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="505,162,640,189"/>
 </map>

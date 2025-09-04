@@ -1,4 +1,5 @@
 <map id="ConfigHelper::GetOtherAdjacentNode" name="ConfigHelper::GetOtherAdjacentNode">
-<area shape="rect" id="node2" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title="IFMapLink::left" alt="" coords="321,5,439,32"/>
-<area shape="rect" id="node3" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title="IFMapLink::right" alt="" coords="317,56,443,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,247,57"/>
+<area shape="rect" id="node2" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title=" " alt="" coords="298,5,406,32"/>
+<area shape="rect" id="node3" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title=" " alt="" coords="295,56,409,83"/>
 </map>

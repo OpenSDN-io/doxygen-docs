@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthUserAddRequest::AuthUserAddRequest" name="etcdserverpb::AuthUserAddRequest::AuthUserAddRequest">
-<area shape="rect" id="node2" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#ae15c5f10dddd2484bc9ffee4bd9d02ef" title="etcdserverpb::AuthUserAdd\lRequest::internal_default\l_instance" alt="" coords="293,5,493,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8319c2b9440dc8bf8da56c94509ab5d6" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserAddRequest" alt="" coords="272,86,515,127"/>
-<area shape="rect" id="node6" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#a15aacbedd2685c10d186cb0cfc427f82" title="etcdserverpb::AuthUserAdd\lRequest::SharedCtor" alt="" coords="293,151,493,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a4bd1e46336c9f57d3ba1ca5443e016e5" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserAddRequestImpl" alt="" coords="563,86,835,127"/>
-<area shape="rect" id="node5" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#a7fd8066d83e922c109eab8db67a16381" title="etcdserverpb::AuthUserAdd\lRequest::InitAsDefaultInstance" alt="" coords="883,86,1106,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,209,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a8319c2b9440dc8bf8da56c94509ab5d6" title=" " alt="" coords="257,5,480,47"/>
+<area shape="rect" id="node5" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#ae15c5f10dddd2484bc9ffee4bd9d02ef" title=" " alt="" coords="277,71,461,127"/>
+<area shape="rect" id="node6" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#a15aacbedd2685c10d186cb0cfc427f82" title=" " alt="" coords="277,152,461,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a4bd1e46336c9f57d3ba1ca5443e016e5" title=" " alt="" coords="528,5,776,47"/>
+<area shape="rect" id="node4" href="$d0/dae/classetcdserverpb_1_1AuthUserAddRequest.html#a7fd8066d83e922c109eab8db67a16381" title=" " alt="" coords="824,5,1028,47"/>
 </map>

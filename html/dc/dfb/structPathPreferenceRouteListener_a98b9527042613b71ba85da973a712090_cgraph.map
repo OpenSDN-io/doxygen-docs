@@ -1,12 +1,13 @@
 <map id="PathPreferenceRouteListener::ManagedDelete" name="PathPreferenceRouteListener::ManagedDelete">
-<area shape="rect" id="node2" href="$dc/dfb/structPathPreferenceRouteListener.html#a218ac9e1c66e7039d24dcd443e5d71ba" title="PathPreferenceRouteListener\l::Delete" alt="" coords="265,34,474,75"/>
-<area shape="rect" id="node3" href="$dc/dfb/structPathPreferenceRouteListener.html#a704896eb2cf50db347df2a4bb9c799a9" title="PathPreferenceRouteListener\l::set_deleted" alt="" coords="523,5,733,46"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a000743f5b39b3e1fc06dbc9f443b8ffa" title="DBTable::WalkAgain" alt="" coords="552,71,704,97"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="798,20,973,47"/>
-<area shape="rect" id="node6" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="821,71,949,97"/>
-<area shape="rect" id="node7" href="$d1/dec/classDBTableWalkMgr.html#ad70c4095ebf0729628aa22ff2775ed0e" title="DBTableWalkMgr::WalkAgain" alt="" coords="781,121,989,148"/>
-<area shape="rect" id="node8" href="$d1/dec/classDBTableWalkMgr.html#a7d6aa8aed83cc74f1c575a3cfe31a0c0" title="DBTableWalkMgr::WalkTable" alt="" coords="1037,121,1243,148"/>
-<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#afab5f8f9b7524b615ef88c0e2837e916" title="DBTableBase::incr_walk\l_again_count" alt="" coords="1314,49,1491,90"/>
-<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a34510ab3477d9ed627127134fadafc32" title="DBTableBase::incr_walk\l_request_count" alt="" coords="1314,114,1491,155"/>
-<area shape="rect" id="node11" href="$da/d93/structDBTableWalkMgr_1_1WalkRequestInfo.html#a12d5d34c8420a60c363d688f16938af2" title="DBTableWalkMgr::WalkRequest\lInfo::AppendWalkReq" alt="" coords="1291,179,1514,221"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,199,76"/>
+<area shape="rect" id="node2" href="$dc/dfb/structPathPreferenceRouteListener.html#a218ac9e1c66e7039d24dcd443e5d71ba" title=" " alt="" coords="247,35,440,76"/>
+<area shape="rect" id="node3" href="$dc/dfb/structPathPreferenceRouteListener.html#a704896eb2cf50db347df2a4bb9c799a9" title=" " alt="" coords="488,5,681,47"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#a000743f5b39b3e1fc06dbc9f443b8ffa" title=" " alt="" coords="513,71,656,98"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title=" " alt="" coords="745,21,907,47"/>
+<area shape="rect" id="node6" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title=" " alt="" coords="765,71,887,98"/>
+<area shape="rect" id="node7" href="$d1/dec/classDBTableWalkMgr.html#ad70c4095ebf0729628aa22ff2775ed0e" title=" " alt="" coords="729,122,923,149"/>
+<area shape="rect" id="node8" href="$d1/dec/classDBTableWalkMgr.html#a7d6aa8aed83cc74f1c575a3cfe31a0c0" title=" " alt="" coords="971,122,1161,149"/>
+<area shape="rect" id="node9" href="$da/d93/structDBTableWalkMgr_1_1WalkRequestInfo.html#a12d5d34c8420a60c363d688f16938af2" title=" " alt="" coords="1209,49,1417,91"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#afab5f8f9b7524b615ef88c0e2837e916" title=" " alt="" coords="1231,115,1395,156"/>
+<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#a34510ab3477d9ed627127134fadafc32" title=" " alt="" coords="1231,180,1395,221"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="DBTableBase::EnqueueRemove" name="DBTableBase::EnqueueRemove">
-<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="277,5,504,32"/>
-<area shape="rect" id="node3" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="327,56,454,83"/>
-<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="303,107,479,133"/>
-<area shape="rect" id="node5" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="285,157,497,184"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="553,157,770,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,213,108"/>
+<area shape="rect" id="node2" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title=" " alt="" coords="269,5,465,32"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="307,56,426,83"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="261,107,472,133"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="283,157,450,184"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title=" " alt="" coords="520,5,725,32"/>
 </map>

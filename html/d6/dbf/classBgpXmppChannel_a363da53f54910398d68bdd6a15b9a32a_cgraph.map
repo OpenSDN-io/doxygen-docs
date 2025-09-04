@@ -1,8 +1,9 @@
 <map id="BgpXmppChannel::AddSubscriptionState" name="BgpXmppChannel::AddSubscriptionState">
-<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#afecf90621fc0c25b8be1efb4b70672dc" title="RoutingInstance::GetImportList" alt="" coords="305,37,527,64"/>
-<area shape="rect" id="node3" href="$d6/dbf/classBgpXmppChannel.html#a190dec962ceaefd707f3114c61945c0e" title="BgpXmppChannel::ClearStaled\lSubscription" alt="" coords="305,89,527,130"/>
-<area shape="rect" id="node4" href="$d2/d82/structBgpXmppChannel_1_1SubscriptionState.html#a445ceb12f757680fd212a5fcdb0283a3" title="BgpXmppChannel::Subscription\lState::IsGrStale" alt="" coords="576,5,803,46"/>
-<area shape="rect" id="node5" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title="BgpXmppChannel::Peer" alt="" coords="602,71,777,97"/>
-<area shape="rect" id="node6" href="$de/ddf/classRoutingInstance.html#aa3bcfdd2af6d3ff1e6c9593eba6a3e87" title="RoutingInstance::name" alt="" coords="604,121,775,148"/>
-<area shape="rect" id="node7" href="$d2/d82/structBgpXmppChannel_1_1SubscriptionState.html#aa7c0710eade911c84e0d5de83bae8943" title="BgpXmppChannel::Subscription\lState::ClearStale" alt="" coords="576,173,803,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,236,171"/>
+<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#a190dec962ceaefd707f3114c61945c0e" title=" " alt="" coords="285,100,488,141"/>
+<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#a8948697ed04175cdad2205625ca6bbb4" title=" " alt="" coords="284,166,489,193"/>
+<area shape="rect" id="node3" href="$d2/d82/structBgpXmppChannel_1_1SubscriptionState.html#aa7c0710eade911c84e0d5de83bae8943" title=" " alt="" coords="537,5,744,47"/>
+<area shape="rect" id="node4" href="$d2/d82/structBgpXmppChannel_1_1SubscriptionState.html#a825f620d2585ad977e33cd622aee663d" title=" " alt="" coords="537,71,744,112"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a04603321cf74e128aee933a6d0e8cd52" title=" " alt="" coords="562,137,719,163"/>
+<area shape="rect" id="node6" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title=" " alt="" coords="560,187,721,214"/>
 </map>

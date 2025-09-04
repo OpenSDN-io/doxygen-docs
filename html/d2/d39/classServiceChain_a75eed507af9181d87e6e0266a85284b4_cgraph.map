@@ -1,6 +1,7 @@
 <map id="ServiceChain::SetConnectedRoute" name="ServiceChain::SetConnectedRoute">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="261,5,403,32"/>
-<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a2cddc24414ad3515cc356edd1df074aa" title="BgpPath::IsFeasible" alt="" coords="259,56,405,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="267,107,397,133"/>
-<area shape="rect" id="node5" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="266,157,398,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,197,115"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="254,5,377,32"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="248,56,383,83"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a9972807efa15d0b27b2c4a1a546efd38" title=" " alt="" coords="245,107,385,133"/>
+<area shape="rect" id="node5" href="$d5/dcf/classBgpAttr.html#aadbcc5fe5aa55782c1d7fcc5b7b304dd" title=" " alt="" coords="255,157,375,184"/>
 </map>

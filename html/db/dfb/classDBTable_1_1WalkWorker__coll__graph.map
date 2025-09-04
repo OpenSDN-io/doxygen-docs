@@ -1,9 +1,12 @@
 <map id="DBTable::WalkWorker" name="DBTable::WalkWorker">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="5,368,56,395"/>
-<area shape="rect" id="node3" href="$d6/de5/classDBTable_1_1TableWalker.html" title="DBTable::TableWalker" alt="" coords="80,368,243,395"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="124,277,199,304"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="211,187,317,213"/>
-<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="223,277,355,304"/>
-<area shape="rect" id="node7" href="$df/d70/classDB.html" title="DB" alt="" coords="299,96,340,123"/>
-<area shape="rect" id="node9" href="$df/d9e/classDBTablePartition.html" title="DBTablePartition" alt="" coords="267,368,396,395"/>
+<area shape="rect" id="node1" title=" " alt="" coords="81,452,231,479"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="5,363,56,389"/>
+<area shape="rect" id="node3" href="$d6/de5/classDBTable_1_1TableWalker.html" title=" " alt="" coords="81,363,231,389"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="120,273,192,300"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="207,184,310,211"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="217,273,343,300"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,95,266,121"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html" title=" " alt="" coords="293,95,334,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="317,5,376,32"/>
+<area shape="rect" id="node9" href="$df/d9e/classDBTablePartition.html" title=" " alt="" coords="255,363,377,389"/>
 </map>

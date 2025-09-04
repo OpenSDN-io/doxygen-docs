@@ -4,7 +4,7 @@ var classOVSDB_1_1ConnectionStateEntry =
     [ "ConnectionStateEntry", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#aa48685ff7718ca554ee58e5d8394a1b8", null ],
     [ "~ConnectionStateEntry", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a8c376268b882b4ccc49f017b388f4334", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#ae613732d455f8e365fe7ff41aa7a7465", null ],
-    [ "ha_stale_dev_vn_table", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a1aaaa3cdfca16d1161959c0a27fae33b", null ],
+    [ "ha_stale_dev_vn_table", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#aff97468dc8ed5cc6f4fbd8a18210b3b4", null ],
     [ "IsConnectionActive", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#ae14efd5f3444ff56d6ea2e8224a65847", null ],
     [ "ConnectionStateTable", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a88714c0c55a37870eff15d2e3bcff705", null ],
     [ "intrusive_ptr_add_ref", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a88360c7c10ec9883d2e67a969c0fd6cc", null ],

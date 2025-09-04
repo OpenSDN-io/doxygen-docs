@@ -1,11 +1,12 @@
 <map id="MetadataProxy::NetlinkAddInterfaceRoute" name="MetadataProxy::NetlinkAddInterfaceRoute">
-<area shape="rect" id="node2" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name. " alt="" coords="260,5,460,32"/>
-<area shape="rect" id="node3" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="275,56,445,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a7a6dcfdf52e75e47c71afe5b9cdc4a9f" title="Agent::vhost_interface_name" alt="" coords="253,107,467,133"/>
-<area shape="rect" id="node5" href="$d0/da7/structaux_1_1NetlinkRequest.html#a33cd6e02b12ae10fa032195389fa4c1d" title="Inserts an attribute stored in attr_data into this Netlink reequest. " alt="" coords="283,158,437,199"/>
-<area shape="rect" id="node7" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class. " alt="" coords="522,221,675,262"/>
-<area shape="rect" id="node8" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct. " alt="" coords="526,293,671,334"/>
-<area shape="rect" id="node9" href="$de/dc3/classaux_1_1NetlinkSocket.html#a1ce0b628aeab6a4f22fc22006a11f72a" title="Returns a reference to the Netlink socket descriptor. " alt="" coords="515,372,682,399"/>
-<area shape="rect" id="node10" href="$df/d1f/namespaceaux.html#aee7eb6097d38c9858d6310adaba4cb96" title="Reads a response (ack/nock) after a Netlink request. " alt="" coords="271,275,449,301"/>
-<area shape="rect" id="node6" href="$df/d1f/namespaceaux.html#ada23bf2f00c991e9fb45a42ee99f8464" title="A wrapper function to insert an attribute into a netlink message. " alt="" coords="538,165,659,192"/>
+<area shape="rect" id="node1" title="Adds routes to internal addresses of VM&#39;s interfaces." alt="" coords="5,175,187,217"/>
+<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="253,5,409,32"/>
+<area shape="rect" id="node3" href="$de/dc3/classaux_1_1NetlinkSocket.html#a6d324e0a253160577bb1c580d5aa7893" title="Returns a reference to the Netlink socket descriptor." alt="" coords="476,60,627,87"/>
+<area shape="rect" id="node4" href="$d0/da7/structaux_1_1NetlinkRequest.html#a33cd6e02b12ae10fa032195389fa4c1d" title="Inserts an attribute stored in attr_data into this Netlink reequest." alt="" coords="262,259,401,301"/>
+<area shape="rect" id="node6" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class." alt="" coords="482,115,621,157"/>
+<area shape="rect" id="node7" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct." alt="" coords="486,187,617,229"/>
+<area shape="rect" id="node8" href="$df/d1f/namespaceaux.html#aee7eb6097d38c9858d6310adaba4cb96" title="Reads a response (ack/nock) after a Netlink request." alt="" coords="250,107,413,133"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a7a7650115f4a9fc4dd8ac2f8c5765a65" title=" " alt="" coords="235,325,428,352"/>
+<area shape="rect" id="node10" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name." alt="" coords="240,376,423,403"/>
+<area shape="rect" id="node5" href="$df/d1f/namespaceaux.html#ada23bf2f00c991e9fb45a42ee99f8464" title="A wrapper function to insert an attribute into a netlink message." alt="" coords="497,267,606,293"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="DynamicPeer::DynamicPeer" name="DynamicPeer::DynamicPeer">
-<area shape="rect" id="node2" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="259,5,464,32"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="276,56,447,83"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a83eccbcd01c1cb6be586608dbb445f37" title="Agent::task_scheduler" alt="" coords="278,107,445,133"/>
-<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="512,5,699,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node2" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title=" " alt="" coords="240,5,425,32"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17" title=" " alt="" coords="257,56,409,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ab3470ea380a1b77d8e41e12f5236a38b" title=" " alt="" coords="257,107,409,133"/>
+<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title=" " alt="" coords="473,5,643,32"/>
 </map>

@@ -3,7 +3,7 @@ var classEventManager =
     [ "EventManager", "d2/dd9/classEventManager.html#a89099b22114f158b5c530edfea52371d", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d2/dd9/classEventManager.html#aa2ece365193910229d8ae47dae8eef3c", null ],
     [ "io_service", "d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128", null ],
-    [ "IsRunning", "d2/dd9/classEventManager.html#aa3f0b27e494ff43997a5b7ead6cda255", null ],
+    [ "IsRunning", "d2/dd9/classEventManager.html#a60b95de45e5787bb7f186a20db70705a", null ],
     [ "Lock", "d2/dd9/classEventManager.html#a28495c5a923f5b7c366975a25d6f952a", null ],
     [ "Poll", "d2/dd9/classEventManager.html#a67226209849726175b2ce6f2e59bb331", null ],
     [ "Run", "d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a", null ],

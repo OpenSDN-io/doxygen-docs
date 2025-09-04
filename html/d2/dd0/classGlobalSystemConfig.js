@@ -2,8 +2,8 @@ var classGlobalSystemConfig =
 [
     [ "GlobalSystemConfig", "d2/dd0/classGlobalSystemConfig.html#a3a9891e0e35360341b39634ecae2f953", null ],
     [ "~GlobalSystemConfig", "d2/dd0/classGlobalSystemConfig.html#a7dc69ed73a35b60994e013f5b53cbdfc", null ],
-    [ "bgpaas_port_range", "d2/dd0/classGlobalSystemConfig.html#ace464225c165e8e2ba95daa603d8df63", null ],
-    [ "cfg_igmp_enable", "d2/dd0/classGlobalSystemConfig.html#a1d6e3740a827b0d885881572d1f77f17", null ],
+    [ "bgpaas_port_range", "d2/dd0/classGlobalSystemConfig.html#a7afd7dcd09c02b3603b187facaacb969", null ],
+    [ "cfg_igmp_enable", "d2/dd0/classGlobalSystemConfig.html#ab5d5e7169fb9fcc525bda731b938c831", null ],
     [ "ConfigAddChange", "d2/dd0/classGlobalSystemConfig.html#a79081c65cbeb8de1b5254a821c245820", null ],
     [ "ConfigDelete", "d2/dd0/classGlobalSystemConfig.html#ae3eee90428adb9b4c7a5f855ab128830", null ],
     [ "ConfigManagerEnqueue", "d2/dd0/classGlobalSystemConfig.html#a03c2aa0d541b7da51962102134f24f61", null ],

@@ -1,8 +1,8 @@
 var structBFD_1_1ControlPacket =
 [
     [ "ControlPacket", "d5/d11/structBFD_1_1ControlPacket.html#a454764373eb7188045c35cc08da1460c", null ],
-    [ "toString", "d5/d11/structBFD_1_1ControlPacket.html#a8ce0901c5c026983f5115acbd03a8b85", null ],
-    [ "Verify", "d5/d11/structBFD_1_1ControlPacket.html#a9f99780f0683da53b602f55714d01177", null ],
+    [ "toString", "d5/d11/structBFD_1_1ControlPacket.html#adc481f9bf73421572cf615d31d624c21", null ],
+    [ "Verify", "d5/d11/structBFD_1_1ControlPacket.html#acc8996ecf32a7e3b575a8fb014fe58c3", null ],
     [ "authentication_present", "d5/d11/structBFD_1_1ControlPacket.html#a26ca247e3ca6266e13e47c103488dd39", null ],
     [ "control_plane_independent", "d5/d11/structBFD_1_1ControlPacket.html#abdd4ce9382961dc50d682a5d918cfb57", null ],
     [ "demand", "d5/d11/structBFD_1_1ControlPacket.html#a5724c6112693f8a4e023a2fefa1115ba", null ],

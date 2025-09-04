@@ -1,7 +1,8 @@
 <map id="fsm::EvBgpNotification::EvBgpNotification" name="fsm::EvBgpNotification::EvBgpNotification">
-<area shape="rect" id="node2" href="$d5/de5/classBgpSession.html#aa3ddc60e7d726fbb1b2313b6b69c2a91" title="BgpSession::peer" alt="" coords="258,5,393,32"/>
-<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="251,56,400,83"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="249,107,402,133"/>
-<area shape="rect" id="node5" href="$d5/de5/classBgpSession.html#acf8c3b4839d0c99d7af679cc2eff697b" title="BgpSession::LogNotification" alt="" coords="224,157,427,184"/>
-<area shape="rect" id="node6" href="$de/d90/structBgpProto_1_1Notification.html#a504f144efaafd8de1b56e7b72964da82" title="BgpProto::Notification\l::ToString" alt="" coords="475,150,639,191"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,163,123"/>
+<area shape="rect" id="node2" href="$d5/de5/classBgpSession.html#ac119fbe50f551bad48468b8ce76a42af" title=" " alt="" coords="211,13,397,39"/>
+<area shape="rect" id="node4" href="$d5/de5/classBgpSession.html#aa3ddc60e7d726fbb1b2313b6b69c2a91" title=" " alt="" coords="241,63,367,90"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e" title=" " alt="" coords="231,114,377,141"/>
+<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#a1b3c7000ab2d921b0598404e2828567b" title=" " alt="" coords="233,165,375,191"/>
+<area shape="rect" id="node3" href="$de/d90/structBgpProto_1_1Notification.html#a112519dc5868547d47e3a1a05bfdb0bc" title=" " alt="" coords="445,5,596,47"/>
 </map>

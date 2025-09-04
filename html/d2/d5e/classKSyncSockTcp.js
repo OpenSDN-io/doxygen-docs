@@ -7,7 +7,7 @@ var classKSyncSockTcp =
     [ "AsyncReceive", "d2/d5e/classKSyncSockTcp.html#a3054f77a4420ca3f5794706c569c2ddc", null ],
     [ "AsyncSendTo", "d2/d5e/classKSyncSockTcp.html#af448a0a34b9bfd8a5985ea7f59163aa4", null ],
     [ "BulkDecoder", "d2/d5e/classKSyncSockTcp.html#ac895749688ca708ba6d433eaf93abd1e", null ],
-    [ "connect_complete", "d2/d5e/classKSyncSockTcp.html#a03cf1c4f2bb056f4e2f253fb529b1013", null ],
+    [ "connect_complete", "d2/d5e/classKSyncSockTcp.html#a1d07219d0bab76ef92b08234a0c87c9b", null ],
     [ "Decoder", "d2/d5e/classKSyncSockTcp.html#ae154d60e9b76b578a853a91d3cadb604", null ],
     [ "GetSeqno", "d2/d5e/classKSyncSockTcp.html#a5844726562bad6c8c436c0f02a6503a8", null ],
     [ "Init", "d2/d5e/classKSyncSockTcp.html#aedfd943e55dbfbe6f90b74f7a3475dd5", null ],

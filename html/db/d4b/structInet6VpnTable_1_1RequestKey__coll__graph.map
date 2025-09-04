@@ -1,8 +1,10 @@
 <map id="Inet6VpnTable::RequestKey" name="Inet6VpnTable::RequestKey">
-<area shape="rect" id="node2" href="$d4/d89/structBgpTable_1_1RequestKey.html" title="BgpTable::RequestKey" alt="" coords="5,187,171,213"/>
-<area shape="rect" id="node3" href="$d5/d65/classDBRequestKey.html" title="DBRequestKey" alt="" coords="29,96,147,123"/>
-<area shape="rect" id="node4" href="$d4/d72/classInet6VpnPrefix.html" title="Inet6VpnPrefix" alt="" coords="195,187,312,213"/>
-<area shape="rect" id="node5" href="$dc/d73/classRouteDistinguisher.html" title="RouteDistinguisher" alt="" coords="175,96,320,123"/>
-<area shape="rect" id="node7" href="$dd/d38/classIPeer.html" title="IPeer" alt="" coords="413,187,467,213"/>
-<area shape="rect" id="node8" href="$dd/d38/classIPeerUpdate.html" title="IPeerUpdate" alt="" coords="429,96,531,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="147,273,330,300"/>
+<area shape="rect" id="node2" href="$d4/d89/structBgpTable_1_1RequestKey.html" title=" " alt="" coords="5,184,160,211"/>
+<area shape="rect" id="node3" href="$d5/d65/classDBRequestKey.html" title=" " alt="" coords="27,95,138,121"/>
+<area shape="rect" id="node4" href="$d4/d72/classInet6VpnPrefix.html" title=" " alt="" coords="185,184,293,211"/>
+<area shape="rect" id="node5" href="$dc/d73/classRouteDistinguisher.html" title=" " alt="" coords="167,95,300,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="205,5,261,32"/>
+<area shape="rect" id="node7" href="$dd/d38/classIPeer.html" title=" " alt="" coords="389,184,441,211"/>
+<area shape="rect" id="node8" href="$dd/d38/classIPeerUpdate.html" title=" " alt="" coords="403,95,498,121"/>
 </map>

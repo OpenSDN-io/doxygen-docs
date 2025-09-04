@@ -7,7 +7,7 @@ var classAgentStatsCollector =
     ] ],
     [ "AgentStatsCollector", "d2/db9/classAgentStatsCollector.html#a5ca190006f4bcffc1c30b8ef3fe689f3", null ],
     [ "~AgentStatsCollector", "d2/db9/classAgentStatsCollector.html#af71d95ccfcfdf6938d5f075a59ed2d6b", null ],
-    [ "agent", "d2/db9/classAgentStatsCollector.html#a109ea5c0a2502ba0355bd22be5de1bc8", null ],
+    [ "agent", "d2/db9/classAgentStatsCollector.html#a01cce32a1ee6b2bfffdfbeb99b368d2d", null ],
     [ "AllocateIoContext", "d2/db9/classAgentStatsCollector.html#a1a7a03b09371eba8665380886c01538f", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d2/db9/classAgentStatsCollector.html#ac02b3ddf572c09097cbba2e58387dde3", null ],
     [ "RegisterDBClients", "d2/db9/classAgentStatsCollector.html#aa66776b34d9b049985043ef3741f94d5", null ],

@@ -1,22 +1,23 @@
 <map id="MulticastHandler::ModifyVmInterface" name="MulticastHandler::ModifyVmInterface">
-<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="271,5,388,32"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="243,56,415,83"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="238,259,421,285"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="493,132,670,159"/>
-<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="256,309,403,336"/>
-<area shape="rect" id="node9" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="248,360,411,387"/>
-<area shape="rect" id="node10" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="248,411,411,437"/>
-<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="238,208,421,235"/>
-<area shape="rect" id="node20" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="266,461,393,488"/>
-<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="244,107,415,133"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="741,132,968,159"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="487,66,676,107"/>
-<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="478,183,685,225"/>
-<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="497,401,666,428"/>
-<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title="DBEntryBase::IsOnRemoveQ" alt="" coords="478,249,685,276"/>
-<area shape="rect" id="node15" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title="DBTableBase::EnqueueRemove" alt="" coords="469,351,693,377"/>
-<area shape="rect" id="node16" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="791,300,918,327"/>
-<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="767,351,943,377"/>
-<area shape="rect" id="node18" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title="DBPartition::EnqueueRemove" alt="" coords="749,401,961,428"/>
-<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title="DBEntryBase::SetOnRemoveQ" alt="" coords="1017,401,1234,428"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,429,172,470"/>
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title=" " alt="" coords="220,208,393,235"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="462,259,629,285"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="225,563,388,589"/>
+<area shape="rect" id="node15" href="$d0/dcc/classInterface.html#a6fd6189ca5101759b6f3a014413dd12b" title=" " alt="" coords="233,360,380,387"/>
+<area shape="rect" id="node16" href="$d0/dcc/classInterface.html#a03bcb6663848b160281aa09eb4eab9b7" title=" " alt="" coords="233,411,380,437"/>
+<area shape="rect" id="node17" href="$d0/dcc/classInterface.html#a281641596faa3100508b192afa61f325" title=" " alt="" coords="240,461,373,488"/>
+<area shape="rect" id="node18" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="221,512,392,539"/>
+<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="225,309,388,336"/>
+<area shape="rect" id="node20" href="$d0/dcc/classInterface.html#af0605da7d9b1f9af45c6d428342a6313" title=" " alt="" coords="253,613,360,640"/>
+<area shape="rect" id="node21" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="249,664,365,691"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="447,310,644,351"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="456,427,635,469"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title=" " alt="" coords="441,56,649,83"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="697,292,908,319"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="466,107,625,133"/>
+<area shape="rect" id="node13" href="$d8/d44/classDBEntryBase.html#a3ae3e3fb7051777c26235defde75ea2b" title=" " alt="" coords="447,157,643,184"/>
+<area shape="rect" id="node6" href="$dd/dd6/classDBPartition.html#a48e161af7a7fd2474ea229fdfb51b35b" title=" " alt="" coords="705,5,901,32"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="743,56,862,83"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="719,107,886,133"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a6b22994774c670aba0afaa0884a13499" title=" " alt="" coords="956,5,1161,32"/>
 </map>

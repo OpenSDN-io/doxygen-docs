@@ -1,6 +1,7 @@
 <map id="ServicesSandesh::PktStatsSandesh" name="ServicesSandesh::PktStatsSandesh">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="263,5,409,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="291,56,381,83"/>
-<area shape="rect" id="node4" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="249,107,423,133"/>
-<area shape="rect" id="node5" href="$d5/d94/classPktHandler.html#a27743497d594a5651ebb6938d52fd320" title="PktHandler::GetStats" alt="" coords="257,157,415,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,189,115"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="249,5,384,32"/>
+<area shape="rect" id="node3" href="$d5/d94/classPktHandler.html#a42e773a6c0551b4df822a5976f18a631" title=" " alt="" coords="243,56,390,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="275,107,358,133"/>
+<area shape="rect" id="node5" href="$d3/d55/classPktModule.html#a702e512b54931edf89b116338fcb240f" title=" " alt="" coords="237,157,396,184"/>
 </map>

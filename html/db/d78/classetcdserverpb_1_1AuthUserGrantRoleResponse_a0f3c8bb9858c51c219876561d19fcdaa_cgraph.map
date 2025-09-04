@@ -1,6 +1,7 @@
 <map id="etcdserverpb::AuthUserGrantRoleResponse::MergeFrom" name="etcdserverpb::AuthUserGrantRoleResponse::MergeFrom">
-<area shape="rect" id="node2" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a9428027cbf829f13627722f98b390b18" title="etcdserverpb::AuthUserGrant\lRoleResponse::has_header" alt="" coords="272,5,483,46"/>
-<area shape="rect" id="node4" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#ab33711960ada956f49d662f83020e219" title="etcdserverpb::AuthUserGrant\lRoleResponse::mutable_header" alt="" coords="264,70,491,111"/>
-<area shape="rect" id="node5" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#ae7331a2efdf0a365e82d1f8be565dc3e" title="etcdserverpb::AuthUserGrant\lRoleResponse::header" alt="" coords="272,135,483,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="539,5,763,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a3f1bf3e310438f5a1ee48231a0ddd475" title=" " alt="" coords="253,5,447,47"/>
+<area shape="rect" id="node4" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a02ff7d13d6e8b1e7c42f865b45f8d1bf" title=" " alt="" coords="253,71,447,112"/>
+<area shape="rect" id="node5" href="$db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#ab33711960ada956f49d662f83020e219" title=" " alt="" coords="247,136,453,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="501,5,708,47"/>
 </map>

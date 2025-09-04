@@ -1,6 +1,8 @@
 <map id="RtGroup::RemoveInterestedPeer" name="RtGroup::RemoveInterestedPeer">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#ac3e099ad67ce5a4409a6735856c9a8b4" title="BgpPeer::GetIndex" alt="" coords="286,5,429,32"/>
-<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title="BitSet::reset" alt="" coords="306,56,409,83"/>
-<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="478,31,578,57"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="477,81,579,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,216,83"/>
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a2b737392f4402ff4f4da20569bfc3a81" title=" " alt="" coords="264,5,396,32"/>
+<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title=" " alt="" coords="283,56,377,83"/>
+<area shape="rect" id="node6" href="$db/d6b/classRtGroup.html#a72c7fccdc7b49a3d18671f77ceb2bb3e" title=" " alt="" coords="286,107,374,133"/>
+<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="445,31,535,57"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="444,81,536,108"/>
 </map>

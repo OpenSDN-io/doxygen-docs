@@ -1,10 +1,11 @@
 <map id="cass::cql::CqlIf::Db_GetMultiRow" name="cass::cql::CqlIf::Db_GetMultiRow">
-<area shape="rect" id="node2" href="$d5/d8f/namespaceGenDb.html#a19d0f7bbcf699c28eddb7f297993b477" title="GenDb::DbDataValueVecToString" alt="" coords="197,5,432,32"/>
-<area shape="rect" id="node4" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#aa6f8c6a7a5527c9cc14655f748652549" title="cass::cql::CqlIf::Increment\lTableReadFailStats" alt="" coords="219,57,410,98"/>
-<area shape="rect" id="node6" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title="cass::cql::CqlIf::Increment\lErrors" alt="" coords="219,122,410,163"/>
-<area shape="rect" id="node8" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#ad90d06a25dcd39c40cf6bdc6f0addb62" title="cass::cql::CqlIf::Increment\lTableReadStats" alt="" coords="219,187,410,229"/>
-<area shape="rect" id="node3" href="$d5/d8f/namespaceGenDb.html#aa893509b23f2946612a500d8b5e00c51" title="GenDb::DbDataValueToString" alt="" coords="480,5,691,32"/>
-<area shape="rect" id="node5" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a45a499c020c42a41beeab932d0880624" title="GenDb::GenDbIfStats\l::IncrementTableReadFail" alt="" coords="493,57,677,98"/>
-<area shape="rect" id="node7" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title="GenDb::GenDbIfStats\l::IncrementErrors" alt="" coords="505,122,665,163"/>
-<area shape="rect" id="node9" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a65a4c42de23cb76bbbe8572628098ff7" title="GenDb::GenDbIfStats\l::IncrementTableRead" alt="" coords="504,187,667,229"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,141,131"/>
+<area shape="rect" id="node2" href="$d5/d8f/namespaceGenDb.html#a19d0f7bbcf699c28eddb7f297993b477" title=" " alt="" coords="189,5,407,32"/>
+<area shape="rect" id="node4" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title=" " alt="" coords="209,57,387,98"/>
+<area shape="rect" id="node6" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#aa6f8c6a7a5527c9cc14655f748652549" title=" " alt="" coords="209,122,387,163"/>
+<area shape="rect" id="node8" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#ad90d06a25dcd39c40cf6bdc6f0addb62" title=" " alt="" coords="209,187,387,229"/>
+<area shape="rect" id="node3" href="$d5/d8f/namespaceGenDb.html#aa893509b23f2946612a500d8b5e00c51" title=" " alt="" coords="455,5,649,32"/>
+<area shape="rect" id="node5" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title=" " alt="" coords="477,57,627,98"/>
+<area shape="rect" id="node7" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a45a499c020c42a41beeab932d0880624" title=" " alt="" coords="467,122,637,163"/>
+<area shape="rect" id="node9" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a65a4c42de23cb76bbbe8572628098ff7" title=" " alt="" coords="477,187,627,229"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="cass::cql::CqlIf::Db_AddColumnfamily" name="cass::cql::CqlIf::Db_AddColumnfamily">
-<area shape="rect" id="node2" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a815ab193445a482adcf81e9308d25108" title="cass::cql::CqlIf::Increment\lTableWriteFailStats" alt="" coords="201,5,391,46"/>
-<area shape="rect" id="node4" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title="cass::cql::CqlIf::Increment\lErrors" alt="" coords="201,70,391,111"/>
-<area shape="rect" id="node6" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a1c2f7f51bd2b7ec245a8a48dfb53562c" title="cass::cql::CqlIf::Increment\lTableWriteStats" alt="" coords="201,135,391,177"/>
-<area shape="rect" id="node3" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#ab528c37d8ac930bff41a6d4768e9610d" title="GenDb::GenDbIfStats\l::IncrementTableWriteFail" alt="" coords="440,5,627,46"/>
-<area shape="rect" id="node5" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title="GenDb::GenDbIfStats\l::IncrementErrors" alt="" coords="453,70,613,111"/>
-<area shape="rect" id="node7" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#aeaebff400f051ca1066bd3346b3d1fe4" title="GenDb::GenDbIfStats\l::IncrementTableWrite" alt="" coords="451,135,615,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,141,112"/>
+<area shape="rect" id="node2" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a6dc7415fe4a83488b930042711ad6b7d" title=" " alt="" coords="189,5,367,47"/>
+<area shape="rect" id="node4" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a815ab193445a482adcf81e9308d25108" title=" " alt="" coords="189,71,367,112"/>
+<area shape="rect" id="node6" href="$df/d32/classcass_1_1cql_1_1CqlIf.html#a1c2f7f51bd2b7ec245a8a48dfb53562c" title=" " alt="" coords="189,136,367,177"/>
+<area shape="rect" id="node3" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa" title=" " alt="" coords="425,5,575,47"/>
+<area shape="rect" id="node5" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#ab528c37d8ac930bff41a6d4768e9610d" title=" " alt="" coords="415,71,585,112"/>
+<area shape="rect" id="node7" href="$d0/dd2/classGenDb_1_1GenDbIfStats.html#aeaebff400f051ca1066bd3346b3d1fe4" title=" " alt="" coords="425,136,575,177"/>
 </map>

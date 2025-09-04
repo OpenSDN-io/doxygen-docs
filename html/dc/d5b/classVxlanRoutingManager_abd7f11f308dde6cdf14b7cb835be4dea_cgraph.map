@@ -1,4 +1,5 @@
 <map id="VxlanRoutingManager::DeleteSubnetRoute" name="VxlanRoutingManager::DeleteSubnetRoute">
-<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#abd214974c93132cc5f34d69721e398f5" title="VrfEntry::vn" alt="" coords="241,5,340,32"/>
-<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="219,56,363,83"/>
+<area shape="rect" id="node1" title="Deletes subnet routes (actually, paths with VrfNH) in the given bridge VRF. This function is demanded..." alt="" coords="5,23,156,65"/>
+<area shape="rect" id="node2" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="204,5,339,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="225,56,317,83"/>
 </map>

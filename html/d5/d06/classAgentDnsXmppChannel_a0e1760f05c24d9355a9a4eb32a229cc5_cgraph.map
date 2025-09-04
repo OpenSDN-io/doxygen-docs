@@ -1,6 +1,6 @@
 <map id="AgentDnsXmppChannel::ReceiveDnsMessage" name="AgentDnsXmppChannel::ReceiveDnsMessage">
-<area shape="rect" id="node2" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="273,5,417,32"/>
-<area shape="rect" id="node3" href="$db/dfa/classDnsAgentXmpp.html#a1c8fd897eca8e941a73bbf30a4b4abf0" title="DnsAgentXmpp::DnsAgentXmpp\lDecode" alt="" coords="229,57,461,98"/>
-<area shape="rect" id="node4" href="$db/dfa/classDnsAgentXmpp.html#a9fabe1090e69f2c1faddc195741efd8b" title="DnsAgentXmpp::DecodeDns" alt="" coords="509,64,715,91"/>
-<area shape="rect" id="node5" href="$db/dfa/classDnsAgentXmpp.html#aa9b1d045504494fc44a6db66ccbeeed0" title="DnsAgentXmpp::DecodeDnsItems" alt="" coords="763,64,1005,91"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$db/dfa/classDnsAgentXmpp.html#a1c8fd897eca8e941a73bbf30a4b4abf0" title=" " alt="" coords="216,5,431,47"/>
+<area shape="rect" id="node3" href="$db/dfa/classDnsAgentXmpp.html#a9fabe1090e69f2c1faddc195741efd8b" title=" " alt="" coords="479,13,669,39"/>
+<area shape="rect" id="node4" href="$db/dfa/classDnsAgentXmpp.html#aa9b1d045504494fc44a6db66ccbeeed0" title=" " alt="" coords="717,13,941,39"/>
 </map>

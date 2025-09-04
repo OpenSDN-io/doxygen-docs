@@ -27,5 +27,5 @@ var auth_8pb_8cc =
     [ "file_default_instances", "d5/dee/auth_8pb_8cc.html#a25d7ca5693a5076c45ae80d56307bb34", null ],
     [ "file_level_enum_descriptors", "d5/dee/auth_8pb_8cc.html#a7aa5c1902b200f62136666c36d8b9cf7", null ],
     [ "file_level_metadata", "d5/dee/auth_8pb_8cc.html#ac5363183ae60dab234c00d9c6ffc0657", null ],
-    [ "static_descriptor_initializer", "d5/dee/auth_8pb_8cc.html#ad32b305ab8ce9a238321e5b77034939e", null ]
+    [ "static_descriptor_initializer", "d5/dee/auth_8pb_8cc.html#ac979778ec8843396cc6f10fcf26adb58", null ]
 ];

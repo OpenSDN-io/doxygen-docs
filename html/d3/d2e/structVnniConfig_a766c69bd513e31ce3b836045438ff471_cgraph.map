@@ -1,12 +1,13 @@
 <map id="VnniConfig::UpdateIpam" name="VnniConfig::UpdateIpam">
-<area shape="rect" id="node2" href="$d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title="Dns::GetDnsConfigManager" alt="" coords="244,49,444,76"/>
-<area shape="rect" id="node3" href="$d7/db3/classDnsConfigManager.html#a9097a134e7a80fb378a7838944ee45ec" title="DnsConfigManager::FindTarget" alt="" coords="235,100,453,127"/>
-<area shape="rect" id="node8" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="265,151,423,177"/>
-<area shape="rect" id="node9" href="$d5/d2f/structIpamConfig.html#a656b732d877e371c316495a739f2cf27" title="IpamConfig::Find" alt="" coords="279,201,409,228"/>
-<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="275,252,413,279"/>
-<area shape="rect" id="node11" href="$d5/d2f/structIpamConfig.html#af2954c139d52a0973109ded35c580a51" title="IpamConfig::AddVnni" alt="" coords="265,303,423,329"/>
-<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title="DBGraphVertex::edge\l_list_begin" alt="" coords="515,5,677,46"/>
-<area shape="rect" id="node5" href="$d7/db3/classDnsConfigManager.html#a71ca5a60df60a3358d342ea7eb6a2a05" title="DnsConfigManager::graph" alt="" coords="501,71,691,97"/>
-<area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title="DBGraphVertex::edge\l_list_end" alt="" coords="515,122,677,163"/>
-<area shape="rect" id="node7" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="517,188,675,215"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,133,171,159"/>
+<area shape="rect" id="node2" href="$d5/d2f/structIpamConfig.html#af2954c139d52a0973109ded35c580a51" title=" " alt="" coords="247,6,393,33"/>
+<area shape="rect" id="node3" href="$d5/d2f/structIpamConfig.html#a656b732d877e371c316495a739f2cf27" title=" " alt="" coords="259,57,381,83"/>
+<area shape="rect" id="node4" href="$d7/db3/classDnsConfigManager.html#a9097a134e7a80fb378a7838944ee45ec" title=" " alt="" coords="219,107,421,134"/>
+<area shape="rect" id="node9" href="$d9/d13/classDns.html#adcc2d36650f9bc0b08195327d781bce5" title=" " alt="" coords="227,158,413,185"/>
+<area shape="rect" id="node10" href="$d4/da5/structDnsConfig.html#a51d56d39587809e1ab5bb2fb1f5f45a7" title=" " alt="" coords="246,209,394,235"/>
+<area shape="rect" id="node11" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="255,259,385,286"/>
+<area shape="rect" id="node5" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title=" " alt="" coords="482,5,631,47"/>
+<area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title=" " alt="" coords="482,71,631,112"/>
+<area shape="rect" id="node7" href="$d7/db3/classDnsConfigManager.html#a71ca5a60df60a3358d342ea7eb6a2a05" title=" " alt="" coords="469,137,644,163"/>
+<area shape="rect" id="node8" href="$d0/dfa/classIFMapLink.html#ad153169675ddc500b86b658651c4d917" title=" " alt="" coords="485,187,629,214"/>
 </map>

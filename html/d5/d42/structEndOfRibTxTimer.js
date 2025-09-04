@@ -2,9 +2,9 @@ var structEndOfRibTxTimer =
 [
     [ "EndOfRibTxTimer", "d5/d42/structEndOfRibTxTimer.html#aea9682ac2fdf0a8dfeba6899e3021413", null ],
     [ "~EndOfRibTxTimer", "d5/d42/structEndOfRibTxTimer.html#af2fca67a1063eda26ccaf70711df3469", null ],
-    [ "GetFallbackInterval", "d5/d42/structEndOfRibTxTimer.html#aae3ac40ddda4e7c13ca915e558970e0a", null ],
-    [ "GetInactivityInterval", "d5/d42/structEndOfRibTxTimer.html#ab777889a8cc9b767b04140a7a9de58a4", null ],
-    [ "GetTimerInterval", "d5/d42/structEndOfRibTxTimer.html#adda376ed565763c392990c50221ce3d7", null ],
+    [ "GetFallbackInterval", "d5/d42/structEndOfRibTxTimer.html#a16481124dae48f3c71af71b7aa1190ad", null ],
+    [ "GetInactivityInterval", "d5/d42/structEndOfRibTxTimer.html#a3ac3147c1d663cc6b8bd3bf36dc7a4ad", null ],
+    [ "GetTimerInterval", "d5/d42/structEndOfRibTxTimer.html#addc45bef81cff4d1db0938895717b5aa", null ],
     [ "GresEnabled", "d5/d42/structEndOfRibTxTimer.html#a78a06b1d218d8cfd96f151946237acc1", null ],
     [ "Reset", "d5/d42/structEndOfRibTxTimer.html#abb83ec956925133a0d489415cdfb5f4b", null ],
     [ "Start", "d5/d42/structEndOfRibTxTimer.html#af3d0c34e05c09e17a26debc15452c043", null ],

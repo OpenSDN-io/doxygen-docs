@@ -1,9 +1,10 @@
 <map id="NamedConfig::CreateZoneFile" name="NamedConfig::CreateZoneFile">
-<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#ae9f1bdda3c0144b5ff8f2b47fe4c34df" title="VirtualDnsConfig::GetViewName" alt="" coords="279,31,513,57"/>
-<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#a13532f719d571a1e751db518a8d95beb" title="VirtualDnsConfig::GetTtl" alt="" coords="307,81,485,108"/>
-<area shape="rect" id="node6" href="$d0/d31/structVirtualDnsConfig.html#a063838e2bcc1d8d1344ca7f3eb21013d" title="VirtualDnsConfig::GetDomainName" alt="" coords="270,132,522,159"/>
-<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#a4254cfe2c5a88e4f69b45bc7086b5526" title="VirtualDnsConfig::GetNegative\lCacheTtl" alt="" coords="285,183,507,225"/>
-<area shape="rect" id="node8" href="$d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b" title="Dns::GetSelfIp" alt="" coords="339,249,453,276"/>
-<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="601,5,759,32"/>
-<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title="BindUtil::RemoveSpecialChars" alt="" coords="571,56,789,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,204,149"/>
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#addddccc90f0e074f79ce8e1cf7814927" title=" " alt="" coords="252,5,483,32"/>
+<area shape="rect" id="node3" href="$d0/d31/structVirtualDnsConfig.html#a8499030215bd01f029ba0faf9c12b777" title=" " alt="" coords="266,57,469,98"/>
+<area shape="rect" id="node4" href="$d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b" title=" " alt="" coords="313,123,422,149"/>
+<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#aca2bc8227311b0a986b1b1ec96329fd4" title=" " alt="" coords="284,173,451,200"/>
+<area shape="rect" id="node6" href="$d0/d31/structVirtualDnsConfig.html#ae3137494bfe850db04ca6e4e63fbea66" title=" " alt="" coords="260,224,475,251"/>
+<area shape="rect" id="node7" href="$d4/da5/structDnsConfig.html#a51d56d39587809e1ab5bb2fb1f5f45a7" title=" " alt="" coords="558,199,706,225"/>
+<area shape="rect" id="node8" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title=" " alt="" coords="531,249,733,276"/>
 </map>

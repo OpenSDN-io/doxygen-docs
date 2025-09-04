@@ -1,7 +1,12 @@
 <map id="ConfigCass2JsonAdapter" name="ConfigCass2JsonAdapter">
-<area shape="rect" id="node6" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="284,349,441,376"/>
-<area shape="rect" id="node10" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="100,244,250,271"/>
-<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html" title="ConfigDbClient" alt="" coords="414,453,532,480"/>
-<area shape="rect" id="node4" href="$df/d8f/classConfigCassandraClient.html" title="ConfigCassandraClient" alt="" coords="460,531,629,557"/>
-<area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="546,244,661,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="81,632,252,659"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,543,88,569"/>
+<area shape="rect" id="node3" title=" " alt="" coords="227,5,282,32"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html" title=" " alt="" coords="345,467,455,493"/>
+<area shape="rect" id="node6" href="$de/d27/classConfigClientManager.html" title=" " alt="" coords="365,363,509,389"/>
+<area shape="rect" id="node10" href="$da/dbf/structConfigClientOptions.html" title=" " alt="" coords="399,243,537,269"/>
+<area shape="rect" id="node4" href="$df/d8f/classConfigCassandraClient.html" title=" " alt="" coords="269,543,425,569"/>
+<area shape="rect" id="node7" title=" " alt="" coords="561,243,620,269"/>
+<area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="719,243,825,269"/>
+<area shape="rect" id="node9" title=" " alt="" coords="731,5,813,32"/>
 </map>

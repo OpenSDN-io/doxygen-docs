@@ -2,7 +2,7 @@ var structLlgrStaleTimer =
 [
     [ "LlgrStaleTimer", "d1/d5a/structLlgrStaleTimer.html#a0484d806e8a934a0a455a728aa0f1c48", null ],
     [ "~LlgrStaleTimer", "d1/d5a/structLlgrStaleTimer.html#aef647a97c2abd240607014b65bf03d76", null ],
-    [ "GetTimerInterval", "d1/d5a/structLlgrStaleTimer.html#a05c5d70ce1f1bbfc05cb572377e81cec", null ],
+    [ "GetTimerInterval", "d1/d5a/structLlgrStaleTimer.html#aa4b522655849aed2f919bd6d1e1105c2", null ],
     [ "GresEnabled", "d1/d5a/structLlgrStaleTimer.html#a26d1ff7c48ccb44609203bc2f1db27e1", null ],
     [ "Reset", "d1/d5a/structLlgrStaleTimer.html#a25d846c8c899b54ac7fe6b7618d552fd", null ],
     [ "Start", "d1/d5a/structLlgrStaleTimer.html#a254b1214a16c539a7c34a1c1c2b37c0a", null ],

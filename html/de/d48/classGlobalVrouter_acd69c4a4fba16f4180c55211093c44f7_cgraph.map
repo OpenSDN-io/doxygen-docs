@@ -1,7 +1,8 @@
 <map id="GlobalVrouter::ChangeNotify" name="GlobalVrouter::ChangeNotify">
-<area shape="rect" id="node2" href="$de/d48/classGlobalVrouter.html#a459e64876411e872ce49507195f3f092" title="GlobalVrouter::DeleteLink\lLocalService" alt="" coords="273,5,463,46"/>
-<area shape="rect" id="node4" href="$de/d48/classGlobalVrouter.html#a1d9141a4dc9e059fbfa917be6e4812f9" title="GlobalVrouter::AddLinkLocal\lService" alt="" coords="265,70,471,111"/>
-<area shape="rect" id="node5" href="$de/d48/classGlobalVrouter.html#addb57831d93539cdf25ddec739aedf06" title="GlobalVrouter::ChangeLink\lLocalService" alt="" coords="270,135,466,177"/>
-<area shape="rect" id="node3" href="$de/d48/classGlobalVrouter.html#a76661a67692f403a28e24690b5cd575d" title="GlobalVrouter::IsLinkLocal\lAddressInUse" alt="" coords="520,38,712,79"/>
-<area shape="rect" id="node6" href="$de/d48/classGlobalVrouter.html#aa89db677fc7ecc786a655978237bdd3a" title="GlobalVrouter::LinkLocal\lRouteUpdate" alt="" coords="525,135,707,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,193,105"/>
+<area shape="rect" id="node2" href="$de/d48/classGlobalVrouter.html#a1d9141a4dc9e059fbfa917be6e4812f9" title=" " alt="" coords="241,5,428,47"/>
+<area shape="rect" id="node3" href="$de/d48/classGlobalVrouter.html#addb57831d93539cdf25ddec739aedf06" title=" " alt="" coords="246,136,423,177"/>
+<area shape="rect" id="node6" href="$de/d48/classGlobalVrouter.html#a459e64876411e872ce49507195f3f092" title=" " alt="" coords="249,71,420,112"/>
+<area shape="rect" id="node4" href="$de/d48/classGlobalVrouter.html#a088c8174235634245d04d860d91c1625" title=" " alt="" coords="476,71,651,112"/>
+<area shape="rect" id="node5" href="$de/d48/classGlobalVrouter.html#aa89db677fc7ecc786a655978237bdd3a" title=" " alt="" coords="482,136,645,177"/>
 </map>

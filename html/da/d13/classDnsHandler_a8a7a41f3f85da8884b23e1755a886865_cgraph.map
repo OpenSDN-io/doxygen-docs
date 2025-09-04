@@ -1,51 +1,52 @@
 <map id="DnsHandler::SendToDefaultServer" name="DnsHandler::SendToDefaultServer">
-<area shape="rect" id="node2" href="$da/d13/classDnsHandler.html#a3d87b655d9419c7f7d92566bcbbc8f50" title="DnsHandler::curr_index" alt="" coords="267,5,442,32"/>
-<area shape="rect" id="node3" href="$da/d13/classDnsHandler.html#a1310cd44074e1860cb399e2163dbd7c9" title="DnsHandler::last_index" alt="" coords="268,56,441,83"/>
-<area shape="rect" id="node4" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="792,208,944,235"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="793,335,943,361"/>
-<area shape="rect" id="node6" href="$d6/df7/classDnsProto.html#a4590e50bee0131b14e5dd1cc87448393" title="DnsProto::GetTransId" alt="" coords="275,537,434,564"/>
-<area shape="rect" id="node7" href="$da/d13/classDnsHandler.html#a59c4a8dbaea54ecaf73364e9d2dfd0b1" title="DnsHandler::SendDnsQuery" alt="" coords="253,487,456,513"/>
-<area shape="rect" id="node50" href="$da/d13/classDnsHandler.html#a0663a5fbf8d533ad04f895a01bef6e4f" title="DnsHandler::IncrCurrIndex" alt="" coords="258,588,451,615"/>
-<area shape="rect" id="node8" href="$d6/df7/classDnsProto.html#a573cb759aba6cc90a3eb3569dfdedb04" title="DnsProto::IsDnsQueryInProgress" alt="" coords="504,461,736,488"/>
-<area shape="rect" id="node9" href="$d6/df7/classDnsProto.html#a3ddea7a1148a050744899784e79abe33" title="DnsProto::max_retries" alt="" coords="537,512,703,539"/>
-<area shape="rect" id="node10" href="$da/d13/classDnsHandler.html#a77a967c801ef5e0a3e53f36d07d40456" title="DnsHandler::DnsItemsToString" alt="" coords="510,563,730,589"/>
-<area shape="rect" id="node11" href="$d6/df7/classDnsProto.html#ac1f7cbe0dea13784ccbfea88dbdb3486" title="DnsProto::AddDnsQuery" alt="" coords="531,613,709,640"/>
-<area shape="rect" id="node12" href="$d8/d1a/classBindUtil.html#a1228d61f094bf4864c4171c4eeeabdcf" title="BindUtil::BuildDnsQuery" alt="" coords="531,664,709,691"/>
-<area shape="rect" id="node13" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title="BindResolver::Resolver" alt="" coords="535,715,705,741"/>
-<area shape="rect" id="node14" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="812,740,924,767"/>
-<area shape="rect" id="node32" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="571,816,669,843"/>
-<area shape="rect" id="node41" href="$d6/df7/classDnsProto.html#a22d6bd352a3a8cfe14bf3e90fb5e99b4" title="DnsProto::timeout" alt="" coords="550,867,690,893"/>
-<area shape="rect" id="node42" href="$da/d13/classDnsHandler.html#a8c6bac72366d8092968368237973ea58" title="DnsHandler::TimerExpiry" alt="" coords="527,309,713,336"/>
-<area shape="rect" id="node47" href="$d6/df7/classDnsProto.html#a09e590cb16410692c80a392a552735ed" title="DnsProto::IncrStatsDrop" alt="" coords="531,917,709,944"/>
-<area shape="rect" id="node48" href="$d6/df7/classDnsProto.html#a039580312a6da053d2855ff9f08b1436" title="DnsProto::DelDnsQuery" alt="" coords="533,259,707,285"/>
-<area shape="rect" id="node49" href="$d6/df7/classDnsProto.html#a9074b701caf3d9e38984f3da57f3e2c0" title="DnsProto::DelDnsQueryIndex" alt="" coords="515,360,725,387"/>
-<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1001,867,1202,893"/>
-<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1275,584,1442,611"/>
-<area shape="rect" id="node31" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1040,765,1163,792"/>
-<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1251,976,1467,1003"/>
-<area shape="rect" id="node17" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1529,1070,1719,1111"/>
-<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="1529,547,1719,589"/>
-<area shape="rect" id="node22" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="1563,613,1685,640"/>
-<area shape="rect" id="node23" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="1541,664,1707,691"/>
-<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="1786,489,1977,530"/>
-<area shape="rect" id="node24" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="1545,715,1703,741"/>
-<area shape="rect" id="node25" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="1521,293,1727,320"/>
-<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="1515,344,1733,371"/>
-<area shape="rect" id="node27" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="1517,395,1731,421"/>
-<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="1544,765,1704,792"/>
-<area shape="rect" id="node29" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="1533,445,1715,472"/>
-<area shape="rect" id="node30" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="1535,816,1713,843"/>
-<area shape="rect" id="node21" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="1781,555,1981,581"/>
-<area shape="rect" id="node33" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="819,892,917,919"/>
-<area shape="rect" id="node34" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title="Timer::StartTimerTask" alt="" coords="785,841,951,868"/>
-<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq..." alt="" coords="1012,816,1191,843"/>
-<area shape="rect" id="node36" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title="TaskScheduler::EnqueueUn\lLocked" alt="" coords="1260,809,1457,850"/>
-<area shape="rect" id="node37" href="$d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title="ClockMonotonicUsec" alt="" coords="1545,917,1703,944"/>
-<area shape="rect" id="node38" href="$d6/d9c/classTask.html#a0161a7d110d066b7ba16ed4f44ec1bc8" title="Task::GetSeqno" alt="" coords="1563,968,1685,995"/>
-<area shape="rect" id="node39" href="$d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a" title="Task::SetSeqNo" alt="" coords="1563,1019,1685,1045"/>
-<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="1517,867,1731,893"/>
-<area shape="rect" id="node43" href="$d6/df7/classDnsProto.html#a5e3f1bfa897d417146124d3d71d83267" title="DnsProto::SendDnsIpc" alt="" coords="785,284,951,311"/>
-<area shape="rect" id="node44" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="1057,284,1146,311"/>
-<area shape="rect" id="node45" href="$d3/d55/classPktModule.html#ab927bc0d7579edf684c6085cd7062a3c" title="PktModule::pkt_handler" alt="" coords="1014,335,1189,361"/>
-<area shape="rect" id="node46" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title="PktHandler::SendMessage" alt="" coords="1006,233,1197,260"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,351,191,393"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="752,207,891,233"/>
+<area shape="rect" id="node3" href="$da/d13/classDnsHandler.html#a3d87b655d9419c7f7d92566bcbbc8f50" title=" " alt="" coords="254,257,413,284"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0346274c6f2b7f16c5eb0ebe0470277e" title=" " alt="" coords="751,308,891,335"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a4590e50bee0131b14e5dd1cc87448393" title=" " alt="" coords="259,359,408,385"/>
+<area shape="rect" id="node6" href="$da/d13/classDnsHandler.html#a0663a5fbf8d533ad04f895a01bef6e4f" title=" " alt="" coords="244,409,423,436"/>
+<area shape="rect" id="node7" href="$da/d13/classDnsHandler.html#a1310cd44074e1860cb399e2163dbd7c9" title=" " alt="" coords="254,460,413,487"/>
+<area shape="rect" id="node8" href="$da/d13/classDnsHandler.html#a59c4a8dbaea54ecaf73364e9d2dfd0b1" title=" " alt="" coords="239,587,428,613"/>
+<area shape="rect" id="node9" href="$d6/df7/classDnsProto.html#ac1f7cbe0dea13784ccbfea88dbdb3486" title=" " alt="" coords="501,460,669,487"/>
+<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a1228d61f094bf4864c4171c4eeeabdcf" title=" " alt="" coords="503,511,668,537"/>
+<area shape="rect" id="node11" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="986,803,1089,829"/>
+<area shape="rect" id="node31" href="$d6/df7/classDnsProto.html#a039580312a6da053d2855ff9f08b1436" title=" " alt="" coords="503,612,668,639"/>
+<area shape="rect" id="node32" href="$d6/df7/classDnsProto.html#a9074b701caf3d9e38984f3da57f3e2c0" title=" " alt="" coords="487,663,684,689"/>
+<area shape="rect" id="node33" href="$da/d13/classDnsHandler.html#aa0b00e82d3a2a27a8d658c51619f78cd" title=" " alt="" coords="483,713,687,740"/>
+<area shape="rect" id="node34" href="$d6/df7/classDnsProto.html#a09e590cb16410692c80a392a552735ed" title=" " alt="" coords="502,764,669,791"/>
+<area shape="rect" id="node35" href="$d6/df7/classDnsProto.html#a573cb759aba6cc90a3eb3569dfdedb04" title=" " alt="" coords="476,815,695,841"/>
+<area shape="rect" id="node36" href="$d6/df7/classDnsProto.html#aaf31a3db2f1f6585a8728e73ae62efb2" title=" " alt="" coords="508,865,663,892"/>
+<area shape="rect" id="node37" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title=" " alt="" coords="507,916,663,943"/>
+<area shape="rect" id="node38" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title=" " alt="" coords="539,967,631,993"/>
+<area shape="rect" id="node45" href="$d6/df7/classDnsProto.html#ab2e80968f45d4d333cd9c928977b7807" title=" " alt="" coords="521,359,649,385"/>
+<area shape="rect" id="node46" href="$da/d13/classDnsHandler.html#a8c6bac72366d8092968368237973ea58" title=" " alt="" coords="500,257,671,284"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1189,359,1345,385"/>
+<area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1659,840,1845,867"/>
+<area shape="rect" id="node30" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title=" " alt="" coords="1209,941,1324,968"/>
+<area shape="rect" id="node13" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1668,688,1836,715"/>
+<area shape="rect" id="node14" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1422,131,1594,157"/>
+<area shape="rect" id="node15" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="1409,181,1607,208"/>
+<area shape="rect" id="node16" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="1407,232,1609,259"/>
+<area shape="rect" id="node17" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="1411,283,1605,309"/>
+<area shape="rect" id="node18" href="$d1/d72/classTaskGroup.html#a9603ac4fad9d7c6d6ee28fe89aaa9011" title=" " alt="" coords="1413,333,1603,360"/>
+<area shape="rect" id="node19" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1449,435,1567,461"/>
+<area shape="rect" id="node20" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1430,485,1586,512"/>
+<area shape="rect" id="node21" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1433,536,1583,563"/>
+<area shape="rect" id="node22" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1431,587,1585,613"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="1418,65,1598,106"/>
+<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="1662,6,1842,47"/>
+<area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="1433,637,1583,664"/>
+<area shape="rect" id="node24" href="$d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="1657,72,1847,99"/>
+<area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1895,840,2097,867"/>
+<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2145,833,2323,874"/>
+<area shape="rect" id="node39" href="$dc/dea/classTimer.html#ad2ba96910994cdf5e2374fff710faa83" title=" " alt="" coords="745,891,898,917"/>
+<area shape="rect" id="node44" href="$dc/dea/classTimer.html#aef17b80e215a73272b170b15b7d559fa" title=" " alt="" coords="777,992,865,1019"/>
+<area shape="rect" id="node40" href="$df/ddc/classTaskScheduler.html#a5f93f3e598f38ca60fbe8e9d159bb633" title="Enqueues a task for running. Starts task if all policy rules are met else puts task in waitq...." alt="" coords="954,713,1121,740"/>
+<area shape="rect" id="node41" href="$df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title=" " alt="" coords="1175,630,1359,671"/>
+<area shape="rect" id="node42" href="$d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ." alt="" coords="1416,688,1600,715"/>
+<area shape="rect" id="node43" href="$d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title=" " alt="" coords="1427,789,1589,816"/>
+<area shape="rect" id="node47" href="$d6/df7/classDnsProto.html#a5e3f1bfa897d417146124d3d71d83267" title=" " alt="" coords="743,257,900,284"/>
+<area shape="rect" id="node48" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="996,257,1079,284"/>
+<area shape="rect" id="node49" href="$d3/d55/classPktModule.html#a702e512b54931edf89b116338fcb240f" title=" " alt="" coords="958,308,1117,335"/>
+<area shape="rect" id="node50" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title=" " alt="" coords="948,207,1127,233"/>
 </map>

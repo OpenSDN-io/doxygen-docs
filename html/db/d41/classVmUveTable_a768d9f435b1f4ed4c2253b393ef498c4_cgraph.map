@@ -1,10 +1,11 @@
 <map id="VmUveTable::SendVmStatsMsg" name="VmUveTable::SendVmStatsMsg">
-<area shape="rect" id="node2" href="$d0/d5b/classVmUveTableBase.html#ad4763b58638e98f9d3555987f7e7c501" title="VmUveTableBase::UveEntry\lFromVm" alt="" coords="294,5,498,46"/>
-<area shape="rect" id="node3" href="$d5/de0/classVmUveEntryBase.html#a07bde44fc978411e3cbdf513acefb967" title="VmUveEntryBase::deleted" alt="" coords="299,71,493,97"/>
-<area shape="rect" id="node4" href="$d3/d4b/classVmUveEntry.html#a3855fe431bf45b027dfd2c26d2e1a353" title="VmUveEntry::FrameVmStatsMsg" alt="" coords="280,121,512,148"/>
-<area shape="rect" id="node9" href="$d0/d5b/classVmUveTableBase.html#a591ebc2395874b6a379787047fe9335f" title="VmUveTableBase::Dispatch\lVmMsg" alt="" coords="295,173,497,214"/>
-<area shape="rect" id="node5" href="$d5/de0/classVmUveEntryBase.html#a165d455e51b9845d231d8882d27015a4" title="VmUveEntryBase::changed" alt="" coords="835,92,1034,119"/>
-<area shape="rect" id="node6" href="$d5/de0/classVmUveEntryBase.html#a56ae6e7d4c2aef03ae84114f74651b97" title="VmUveEntryBase::vm\l_config_name" alt="" coords="591,114,756,155"/>
-<area shape="rect" id="node7" href="$d3/d4b/classVmUveEntry.html#a059e4f1fd69bfb6b721b0b791ed99df5" title="VmUveEntry::SetVmPortBitmap" alt="" coords="560,180,787,207"/>
-<area shape="rect" id="node8" href="$db/d7a/structL4PortBitmap_1_1PortBitmap.html#a90e8e44c8d1c1f34bd23185624ad392e" title="L4PortBitmap::PortBitmap\l::Sync" alt="" coords="839,173,1030,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,216,120"/>
+<area shape="rect" id="node2" href="$d5/de0/classVmUveEntryBase.html#abad21868cfa64475489250584983ca8d" title=" " alt="" coords="284,5,461,32"/>
+<area shape="rect" id="node3" href="$d0/d5b/classVmUveTableBase.html#a591ebc2395874b6a379787047fe9335f" title=" " alt="" coords="279,57,466,98"/>
+<area shape="rect" id="node4" href="$d3/d4b/classVmUveEntry.html#a3855fe431bf45b027dfd2c26d2e1a353" title=" " alt="" coords="264,123,481,149"/>
+<area shape="rect" id="node9" href="$d0/d5b/classVmUveTableBase.html#ad4763b58638e98f9d3555987f7e7c501" title=" " alt="" coords="278,174,467,215"/>
+<area shape="rect" id="node5" href="$d5/de0/classVmUveEntryBase.html#a695e229249ccacaf8eab37d7f74c4a2d" title=" " alt="" coords="788,72,972,99"/>
+<area shape="rect" id="node6" href="$d3/d4b/classVmUveEntry.html#a059e4f1fd69bfb6b721b0b791ed99df5" title=" " alt="" coords="529,123,740,149"/>
+<area shape="rect" id="node8" href="$d5/de0/classVmUveEntryBase.html#ac01bb2f1d0e33594339c4683a505f28c" title=" " alt="" coords="558,174,711,215"/>
+<area shape="rect" id="node7" href="$db/d7a/structL4PortBitmap_1_1PortBitmap.html#a90e8e44c8d1c1f34bd23185624ad392e" title=" " alt="" coords="792,123,968,165"/>
 </map>

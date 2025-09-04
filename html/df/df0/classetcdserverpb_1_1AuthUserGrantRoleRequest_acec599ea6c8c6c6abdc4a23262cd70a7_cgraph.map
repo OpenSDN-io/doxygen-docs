@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthUserGrantRoleRequest::AuthUserGrantRoleRequest" name="etcdserverpb::AuthUserGrantRoleRequest::AuthUserGrantRoleRequest">
-<area shape="rect" id="node2" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a021afdf86786539caaf5521b4a42f85a" title="etcdserverpb::AuthUserGrant\lRoleRequest::internal_default\l_instance" alt="" coords="341,5,555,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a236604de5542b984ebcdf8eb7505499b" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserGrant\lRoleRequest" alt="" coords="347,85,549,141"/>
-<area shape="rect" id="node6" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#ab7f09e2d1f32a9a452da8312e34f45e4" title="etcdserverpb::AuthUserGrant\lRoleRequest::SharedCtor" alt="" coords="343,166,553,207"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a641eb028c2abe21c13b3f161bba855e8" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserGrant\lRoleRequestImpl" alt="" coords="603,85,805,141"/>
-<area shape="rect" id="node5" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#afa4dc0c370f84f5544092c73ca82f72b" title="etcdserverpb::AuthUserGrant\lRoleRequest::InitAsDefaultInstance" alt="" coords="853,93,1104,134"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,272,134"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a236604de5542b984ebcdf8eb7505499b" title=" " alt="" coords="325,5,509,61"/>
+<area shape="rect" id="node5" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a021afdf86786539caaf5521b4a42f85a" title=" " alt="" coords="320,85,513,141"/>
+<area shape="rect" id="node6" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#ab7f09e2d1f32a9a452da8312e34f45e4" title=" " alt="" coords="320,166,513,207"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a641eb028c2abe21c13b3f161bba855e8" title=" " alt="" coords="561,5,745,61"/>
+<area shape="rect" id="node4" href="$df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#afa4dc0c370f84f5544092c73ca82f72b" title=" " alt="" coords="793,13,1024,54"/>
 </map>

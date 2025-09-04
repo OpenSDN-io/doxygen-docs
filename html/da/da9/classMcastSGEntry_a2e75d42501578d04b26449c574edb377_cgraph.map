@@ -1,51 +1,52 @@
 <map id="McastSGEntry::UpdateTree" name="McastSGEntry::UpdateTree">
-<area shape="rect" id="node2" href="$d2/d07/classMcastManagerPartition.html#a7c831e3126af36099f1920f247caad71" title="McastManagerPartition\l::GetTablePartition" alt="" coords="788,1031,959,1073"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="1070,524,1250,551"/>
-<area shape="rect" id="node12" href="$da/da9/classMcastSGEntry.html#ae5bb7074612023680d8ef448f1c3dc23" title="McastSGEntry::IsTreeBuilder" alt="" coords="508,64,711,91"/>
-<area shape="rect" id="node18" href="$da/da9/classMcastSGEntry.html#adc4feb06f14c652a3a718972764dda26" title="McastSGEntry::UpdateRoutes" alt="" coords="248,951,459,977"/>
-<area shape="rect" id="node48" href="$d6/dc4/classMcastForwarder.html#ad27759b2618fed22dca3092207fbb9ca" title="McastForwarder::Allocate\lLabel" alt="" coords="260,1061,447,1102"/>
-<area shape="rect" id="node31" href="$d6/dc4/classMcastForwarder.html#a2a36df8b15b3edf00b33fe34375cbfee" title="McastForwarder::label" alt="" coords="791,1148,956,1175"/>
-<area shape="rect" id="node49" href="$d6/dc4/classMcastForwarder.html#a51eae5282724160a8ca35f45fe59f8bb" title="McastForwarder::AddLink" alt="" coords="261,1177,446,1204"/>
-<area shape="rect" id="node3" href="$d3/dbd/classMcastTreeManager.html#a27d91c4e5213bc76fd6535d1ce3543c3" title="McastTreeManager::GetTable\lPartition" alt="" coords="1056,1090,1264,1131"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="1339,1097,1533,1124"/>
-<area shape="rect" id="node5" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="1587,1072,1709,1099"/>
-<area shape="rect" id="node6" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="1590,1123,1706,1149"/>
-<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="1351,731,1521,757"/>
-<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="1347,473,1525,500"/>
-<area shape="rect" id="node10" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="1373,524,1499,551"/>
-<area shape="rect" id="node11" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="1334,575,1538,601"/>
-<area shape="rect" id="node13" href="$d2/d07/classMcastManagerPartition.html#a6731492ef834f6987f427705e881c167" title="McastManagerPartition\l::server" alt="" coords="788,57,959,98"/>
-<area shape="rect" id="node17" href="$db/d26/classBgpServer.html#ab6b6aac7c5171d46d4e24bb9225aa500" title="BgpServer::bgp_identifier" alt="" coords="780,5,967,32"/>
-<area shape="rect" id="node14" href="$d3/dbd/classMcastTreeManager.html#a21de1839fa1cafbaa94461d056a9f70c" title="McastTreeManager::table" alt="" coords="1068,43,1252,69"/>
-<area shape="rect" id="node15" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="1095,195,1225,221"/>
-<area shape="rect" id="node16" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="1349,195,1523,221"/>
-<area shape="rect" id="node19" href="$da/da9/classMcastSGEntry.html#a87f707e9070feb9ced424d9545aadba3" title="McastSGEntry::DeleteLocal\lTreeRoute" alt="" coords="511,943,707,985"/>
-<area shape="rect" id="node30" href="$da/da9/classMcastSGEntry.html#a2fa911cae50221299a99afbbb51c1e6c" title="McastSGEntry::AddLocalTree\lRoute" alt="" coords="507,542,712,583"/>
-<area shape="rect" id="node20" href="$d6/dbd/classBgpRoute.html#a60709882033962628362bbc1c036a0b7" title="BgpRoute::RemovePath" alt="" coords="787,1097,960,1124"/>
-<area shape="rect" id="node27" href="$d6/dbd/classBgpRoute.html#a4097f32e90f517a0371bcfde4e1ce62a" title="BgpRoute::HasPaths" alt="" coords="1084,988,1236,1015"/>
-<area shape="rect" id="node28" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="782,929,965,956"/>
-<area shape="rect" id="node21" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="1089,1207,1231,1233"/>
-<area shape="rect" id="node22" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="1093,887,1227,913"/>
-<area shape="rect" id="node23" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="1087,1257,1233,1284"/>
-<area shape="rect" id="node24" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="1085,1156,1235,1183"/>
-<area shape="rect" id="node25" href="$d6/dbd/classBgpRoute.html#aa2e867e04e2e2fb6e4ef7572ce37f34d" title="BgpRoute::DeletePath" alt="" coords="1079,1039,1241,1065"/>
-<area shape="rect" id="node26" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1387,988,1485,1015"/>
-<area shape="rect" id="node29" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="1065,937,1255,964"/>
-<area shape="rect" id="node32" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="792,879,955,905"/>
-<area shape="rect" id="node34" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="792,123,955,149"/>
-<area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="777,676,969,703"/>
-<area shape="rect" id="node39" href="$da/da9/classMcastSGEntry.html#aa8fe63ed826dbe56f9ca79317ac7d7dc" title="McastSGEntry::GetSourceRd" alt="" coords="772,224,975,251"/>
-<area shape="rect" id="node40" href="$dd/d93/structEdgeDiscoverySpec_1_1Edge.html#a078f9448d0ec218b591b277191ff8cdb" title="EdgeDiscoverySpec::\lEdge::SetIp4Address" alt="" coords="794,275,953,317"/>
-<area shape="rect" id="node41" href="$d6/dc4/classMcastForwarder.html#adc6b5280e788d77255e6a15e44a64c76" title="McastForwarder::address" alt="" coords="781,341,965,368"/>
-<area shape="rect" id="node42" href="$dd/d93/structEdgeDiscoverySpec_1_1Edge.html#a06d81b8d8e91b0e64d4a232e61c2bf77" title="EdgeDiscoverySpec::\lEdge::SetLabels" alt="" coords="794,393,953,434"/>
-<area shape="rect" id="node43" href="$da/dd9/classExtCommunitySpec.html#a1d04a9959546a21a8649cacb106bcbfc" title="ExtCommunitySpec::AddTunnel\lEncaps" alt="" coords="761,458,986,499"/>
-<area shape="rect" id="node44" href="$d6/dc4/classMcastForwarder.html#ae6aa2da0999eaaf9558e51d434aa1334" title="McastForwarder::encap" alt="" coords="787,575,959,601"/>
-<area shape="rect" id="node45" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="1089,735,1231,761"/>
-<area shape="rect" id="node46" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l::Locate" alt="" coords="1085,618,1235,659"/>
-<area shape="rect" id="node47" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title="BgpRoute::InsertPath" alt="" coords="795,777,952,804"/>
-<area shape="rect" id="node33" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="1053,785,1267,812"/>
-<area shape="rect" id="node35" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="1073,246,1247,287"/>
-<area shape="rect" id="node36" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="1069,144,1251,171"/>
-<area shape="rect" id="node37" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="1035,93,1285,120"/>
-<area shape="rect" id="node50" href="$d6/dc4/classMcastForwarder.html#a78b4f21a7f745bfef4f0c2752c5ae4f2" title="McastForwarder::FindLink" alt="" coords="516,1177,703,1204"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,764,188,791"/>
+<area shape="rect" id="node2" href="$d6/dc4/classMcastForwarder.html#a51eae5282724160a8ca35f45fe59f8bb" title=" " alt="" coords="251,499,421,525"/>
+<area shape="rect" id="node4" href="$d6/dc4/classMcastForwarder.html#ad27759b2618fed22dca3092207fbb9ca" title=" " alt="" coords="251,647,421,689"/>
+<area shape="rect" id="node5" href="$d2/d07/classMcastManagerPartition.html#a7c831e3126af36099f1920f247caad71" title=" " alt="" coords="752,757,909,798"/>
+<area shape="rect" id="node10" href="$da/da9/classMcastSGEntry.html#ae3291714e46d4a107c0ff41aeefcc559" title=" " alt="" coords="485,252,677,279"/>
+<area shape="rect" id="node16" href="$d6/dc4/classMcastForwarder.html#ad59a55eb1735f70d48619fa38e1cdc70" title=" " alt="" coords="755,924,906,951"/>
+<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="1013,1051,1183,1077"/>
+<area shape="rect" id="node22" href="$da/da9/classMcastSGEntry.html#adc4feb06f14c652a3a718972764dda26" title=" " alt="" coords="236,815,436,841"/>
+<area shape="rect" id="node3" href="$d6/dc4/classMcastForwarder.html#a78b4f21a7f745bfef4f0c2752c5ae4f2" title=" " alt="" coords="495,201,668,228"/>
+<area shape="rect" id="node6" href="$d3/dbd/classMcastTreeManager.html#a27d91c4e5213bc76fd6535d1ce3543c3" title=" " alt="" coords="1001,743,1195,785"/>
+<area shape="rect" id="node7" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="1266,751,1447,777"/>
+<area shape="rect" id="node8" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="1503,725,1613,752"/>
+<area shape="rect" id="node9" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="1500,776,1616,803"/>
+<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#a5452a99665e1301ec4842f7bf3ab895d" title=" " alt="" coords="746,104,915,131"/>
+<area shape="rect" id="node12" href="$d2/d07/classMcastManagerPartition.html#a6731492ef834f6987f427705e881c167" title=" " alt="" coords="752,38,909,79"/>
+<area shape="rect" id="node13" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="1038,56,1158,83"/>
+<area shape="rect" id="node15" href="$d3/dbd/classMcastTreeManager.html#a21de1839fa1cafbaa94461d056a9f70c" title=" " alt="" coords="1013,5,1183,32"/>
+<area shape="rect" id="node14" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title=" " alt="" coords="1276,56,1437,83"/>
+<area shape="rect" id="node18" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="1297,975,1416,1001"/>
+<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="1277,1127,1436,1153"/>
+<area shape="rect" id="node20" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="1261,1025,1452,1052"/>
+<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="1273,1076,1440,1103"/>
+<area shape="rect" id="node23" href="$da/da9/classMcastSGEntry.html#a2fa911cae50221299a99afbbb51c1e6c" title=" " alt="" coords="484,477,679,518"/>
+<area shape="rect" id="node47" href="$da/da9/classMcastSGEntry.html#a87f707e9070feb9ced424d9545aadba3" title=" " alt="" coords="489,983,674,1025"/>
+<area shape="rect" id="node24" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title=" " alt="" coords="755,459,907,485"/>
+<area shape="rect" id="node28" href="$d6/dc4/classMcastForwarder.html#a64e38bcaf4057bb3dc095b8e4107de9a" title=" " alt="" coords="745,205,916,232"/>
+<area shape="rect" id="node29" href="$da/dd9/classExtCommunitySpec.html#a1d04a9959546a21a8649cacb106bcbfc" title=" " alt="" coords="727,561,935,602"/>
+<area shape="rect" id="node31" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="1291,275,1422,301"/>
+<area shape="rect" id="node32" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title=" " alt="" coords="741,256,921,283"/>
+<area shape="rect" id="node33" href="$d6/dc4/classMcastForwarder.html#a9d3b6749e808a35dc75ef352d459c02b" title=" " alt="" coords="751,307,910,333"/>
+<area shape="rect" id="node34" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title=" " alt="" coords="753,509,908,536"/>
+<area shape="rect" id="node36" href="$da/da9/classMcastSGEntry.html#ade9b5b8d3ad66b50b7f11a1a6f7ce817" title=" " alt="" coords="733,823,928,849"/>
+<area shape="rect" id="node40" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title=" " alt="" coords="756,155,905,181"/>
+<area shape="rect" id="node44" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="1028,330,1168,371"/>
+<area shape="rect" id="node45" href="$dd/d93/structEdgeDiscoverySpec_1_1Edge.html#a078f9448d0ec218b591b277191ff8cdb" title=" " alt="" coords="756,626,905,667"/>
+<area shape="rect" id="node46" href="$dd/d93/structEdgeDiscoverySpec_1_1Edge.html#a06d81b8d8e91b0e64d4a232e61c2bf77" title=" " alt="" coords="756,691,905,733"/>
+<area shape="rect" id="node25" href="$d7/df2/classDBTableBase.html#a86b27844ec841ab805bfb63c12141cba" title=" " alt="" coords="983,456,1213,483"/>
+<area shape="rect" id="node26" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="1013,507,1183,533"/>
+<area shape="rect" id="node27" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title=" " alt="" coords="1016,558,1180,599"/>
+<area shape="rect" id="node30" href="$d7/dad/classTunnelEncap.html#a89e348afdedbd9d70f6f64b3dcb3bff7" title=" " alt="" coords="991,675,1205,717"/>
+<area shape="rect" id="node35" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title=" " alt="" coords="999,624,1197,651"/>
+<area shape="rect" id="node37" href="$df/def/classErmVpnRoute.html#af2d75fb3453916f66997b7299b1a3058" title=" " alt="" coords="1015,875,1181,901"/>
+<area shape="rect" id="node38" href="$d6/dc4/classMcastForwarder.html#a641d295371f3c6a2686b6905754a3a13" title=" " alt="" coords="1021,925,1175,952"/>
+<area shape="rect" id="node39" href="$d6/d1d/classErmVpnPrefix.html#ae2eab804884b0e5faff47d9ec3162d8a" title=" " alt="" coords="1029,809,1167,850"/>
+<area shape="rect" id="node41" href="$d7/d0c/classBgpPath.html#a5dcf9fe0877d9a4af9c09c71659e006a" title=" " alt="" coords="1003,209,1193,250"/>
+<area shape="rect" id="node42" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title=" " alt="" coords="1273,161,1440,188"/>
+<area shape="rect" id="node43" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title=" " alt="" coords="1039,157,1157,184"/>
+<area shape="rect" id="node48" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title=" " alt="" coords="1011,1127,1185,1153"/>
+<area shape="rect" id="node49" href="$d6/dbd/classBgpRoute.html#aecd459128d54fd141ecbae95797e671b" title=" " alt="" coords="757,975,904,1001"/>
+<area shape="rect" id="node50" href="$d6/dbd/classBgpRoute.html#a60709882033962628362bbc1c036a0b7" title=" " alt="" coords="749,1025,912,1052"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="etcdserverpb::MemberRemoveRequest::MemberRemoveRequest" name="etcdserverpb::MemberRemoveRequest::MemberRemoveRequest">
-<area shape="rect" id="node2" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a87e3a4cbae7bdfa76c2fef80df938d0c" title="etcdserverpb::MemberRemove\lRequest::internal_default\l_instance" alt="" coords="315,5,536,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a566fabb3f95a5dbdfb9d8349a59435" title="protobuf_rpc_2eproto\l::InitDefaultsMemberRemoveRequest" alt="" coords="293,86,557,127"/>
-<area shape="rect" id="node6" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a0949fcfda95085cb17d8e30b72b9bcaf" title="etcdserverpb::MemberRemove\lRequest::SharedCtor" alt="" coords="315,151,536,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5ffe00306fb6ba6ef57ab16455fd3848" title="protobuf_rpc_2eproto\l::InitDefaultsMemberRemoveRequestImpl" alt="" coords="605,86,899,127"/>
-<area shape="rect" id="node5" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a303b5aa404203eec8553fe9f94eb7ae9" title="etcdserverpb::MemberRemove\lRequest::InitAsDefaultInstance" alt="" coords="947,86,1170,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,225,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a566fabb3f95a5dbdfb9d8349a59435" title=" " alt="" coords="273,5,512,47"/>
+<area shape="rect" id="node5" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a87e3a4cbae7bdfa76c2fef80df938d0c" title=" " alt="" coords="293,71,493,127"/>
+<area shape="rect" id="node6" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a0949fcfda95085cb17d8e30b72b9bcaf" title=" " alt="" coords="293,152,493,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5ffe00306fb6ba6ef57ab16455fd3848" title=" " alt="" coords="560,5,824,47"/>
+<area shape="rect" id="node4" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a303b5aa404203eec8553fe9f94eb7ae9" title=" " alt="" coords="872,5,1076,47"/>
 </map>

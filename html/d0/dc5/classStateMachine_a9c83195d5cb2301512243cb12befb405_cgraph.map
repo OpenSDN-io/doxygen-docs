@@ -1,5 +1,0 @@
-<map id="StateMachine::GetConfiguredHoldTime" name="StateMachine::GetConfiguredHoldTime">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a8e3bd84b5190c1fa0c696eea44e2931e" title="BgpPeer::hold_time" alt="" coords="271,5,420,32"/>
-<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="283,56,408,83"/>
-<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#ad75f30496312741959a18fa8d08173fa" title="BgpServer::hold_time" alt="" coords="264,107,427,133"/>
-</map>

@@ -1,10 +1,11 @@
 <map id="ConfigCassandraPartition::ObjCacheEntry::EnableCassandraReadRetry" name="ConfigCassandraPartition::ObjCacheEntry::EnableCassandraReadRetry">
-<area shape="rect" id="node2" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title="TimerManager::CreateTimer" alt="" coords="312,5,517,32"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="314,56,515,83"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title="TaskScheduler::GetTaskId" alt="" coords="321,107,508,133"/>
-<area shape="rect" id="node8" href="$d9/d23/classConfigCassandraPartition_1_1ObjCacheEntry.html#a58729855799e33c7c8b8b92e0ca63dc0" title="ConfigCassandraPartition\l::ObjCacheEntry::CassReadRetry\lTimerExpired" alt="" coords="299,157,530,213"/>
-<area shape="rect" id="node9" href="$d9/d23/classConfigCassandraPartition_1_1ObjCacheEntry.html#a8bb8bc931916305a8e9ec502b2e68a26" title="ConfigCassandraPartition\l::ObjCacheEntry::CassReadRetry\lTimerErrorHandler" alt="" coords="299,237,530,293"/>
-<area shape="rect" id="node3" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title="TimerManager::AddTimer" alt="" coords="593,5,780,32"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="579,56,795,83"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="843,49,1034,90"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,151,233,207"/>
+<area shape="rect" id="node2" href="$d9/d23/classConfigCassandraPartition_1_1ObjCacheEntry.html#a8bb8bc931916305a8e9ec502b2e68a26" title=" " alt="" coords="281,5,500,61"/>
+<area shape="rect" id="node3" href="$d9/d23/classConfigCassandraPartition_1_1ObjCacheEntry.html#a58729855799e33c7c8b8b92e0ca63dc0" title=" " alt="" coords="281,85,500,141"/>
+<area shape="rect" id="node4" href="$d9/d81/classTimerManager.html#af55b055e89bf6fc46607894d27a61341" title=" " alt="" coords="298,165,483,192"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="297,216,484,243"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a2b2c4c05c286d6c22fdfdaee461e1489" title=" " alt="" coords="303,267,479,293"/>
+<area shape="rect" id="node5" href="$d9/d81/classTimerManager.html#aca7287c8a4a1470b15caf0c2259d714d" title=" " alt="" coords="565,165,734,192"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="548,216,751,243"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="799,209,976,250"/>
 </map>

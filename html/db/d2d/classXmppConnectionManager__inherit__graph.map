@@ -1,6 +1,7 @@
 <map id="XmppConnectionManager" name="XmppConnectionManager">
-<area shape="rect" id="node4" href="$db/de5/classXmppClient.html" title="XmppClient" alt="" coords="5,229,104,256"/>
-<area shape="rect" id="node5" href="$dd/d43/classXmppServer.html" title="XmppServer" alt="" coords="129,229,231,256"/>
-<area shape="rect" id="node2" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="76,80,159,107"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="75,5,160,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="23,155,195,181"/>
+<area shape="rect" id="node4" href="$db/de5/classXmppClient.html" title=" " alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node5" href="$dd/d43/classXmppServer.html" title=" " alt="" coords="121,229,215,256"/>
+<area shape="rect" id="node2" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="70,80,149,107"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title=" " alt="" coords="69,5,150,32"/>
 </map>

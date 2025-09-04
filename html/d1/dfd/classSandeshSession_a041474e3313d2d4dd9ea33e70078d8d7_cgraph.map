@@ -1,13 +1,30 @@
 <map id="SandeshSession::EnqueueClose" name="SandeshSession::EnqueueClose">
-<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a37a972d720285215ebe82f157689ed60" title="TcpSession::IsClosed" alt="" coords="285,5,441,32"/>
-<area shape="rect" id="node3" href="$d9/df3/classSandeshConnection.html#a90715c1711fec1047185392b361608c7" title="SandeshConnection::\lstate_machine" alt="" coords="283,57,442,98"/>
-<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#abbf674a70afaa7893d1978170969ecb9" title="SandeshStateMachine\l::OnSessionEvent" alt="" coords="280,122,445,163"/>
-<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="283,188,442,215"/>
-<area shape="rect" id="node5" href="$d3/d36/classSandeshStateMachine.html#a8cf64b4608f303760e0233cc3be2236a" title="SandeshStateMachine\l::session" alt="" coords="493,63,659,105"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="499,129,653,156"/>
-<area shape="rect" id="node7" href="$d3/d36/classSandeshStateMachine.html#afb7d178ce06f4376c12b7894f314f1b6" title="SandeshStateMachine\l::Enqueue" alt="" coords="493,181,659,222"/>
-<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="711,159,873,185"/>
-<area shape="rect" id="node9" href="$d3/d36/classSandeshStateMachine.html#a93a42adb1f2e6257200c1cf5afcccc36" title="SandeshStateMachine\l::UpdateEventEnqueue" alt="" coords="707,210,877,251"/>
-<area shape="rect" id="node10" href="$d3/d36/classSandeshStateMachine.html#afce1b6ac6ad0227c4e1763569683b432" title="SandeshStateMachine\l::UpdateEventStats" alt="" coords="925,210,1091,251"/>
-<area shape="rect" id="node11" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title="SandeshEventStatistics\l::Update" alt="" coords="1139,210,1314,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,166,219,193"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a51a39940c17304d3379ac1492196f97c" title=" " alt="" coords="268,86,419,113"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title=" " alt="" coords="269,137,417,163"/>
+<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#abbf674a70afaa7893d1978170969ecb9" title=" " alt="" coords="267,188,420,229"/>
+<area shape="rect" id="node28" href="$d9/df3/classSandeshConnection.html#a4225c29e305c9815f11676ecb8e791c6" title=" " alt="" coords="270,253,417,295"/>
+<area shape="rect" id="node5" href="$d3/d36/classSandeshStateMachine.html#afb7d178ce06f4376c12b7894f314f1b6" title=" " alt="" coords="479,123,633,164"/>
+<area shape="rect" id="node25" href="$d3/d36/classSandeshStateMachine.html#a8cf64b4608f303760e0233cc3be2236a" title=" " alt="" coords="479,188,633,229"/>
+<area shape="rect" id="node26" href="$d1/dfd/classSandeshSession.html#a0f53720c50517a99fb79c31649b53aa2" title=" " alt="" coords="468,254,644,281"/>
+<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="695,163,845,190"/>
+<area shape="rect" id="node22" href="$d3/d36/classSandeshStateMachine.html#a93a42adb1f2e6257200c1cf5afcccc36" title=" " alt="" coords="692,91,848,132"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="896,75,1107,102"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1155,246,1356,273"/>
+<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="901,295,1102,336"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1159,191,1352,218"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="905,127,1098,168"/>
+<area shape="rect" id="node8" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="1166,71,1345,112"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="1407,301,1611,343"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="1410,119,1609,160"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="1404,250,1615,277"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="1405,184,1613,225"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1677,301,1863,327"/>
+<area shape="rect" id="node16" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="1663,250,1877,277"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1925,301,2128,327"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2176,293,2353,335"/>
+<area shape="rect" id="node18" href="$da/d91/classWaterMarkTuple.html#ae3f636535f9a66218700d7025e6e39f5" title=" " alt="" coords="1670,184,1870,225"/>
+<area shape="rect" id="node23" href="$d3/d36/classSandeshStateMachine.html#afce1b6ac6ad0227c4e1763569683b432" title=" " alt="" coords="925,7,1078,48"/>
+<area shape="rect" id="node24" href="$da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131" title=" " alt="" coords="1175,5,1336,47"/>
+<area shape="rect" id="node27" href="$d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e" title=" " alt="" coords="697,254,843,281"/>
 </map>

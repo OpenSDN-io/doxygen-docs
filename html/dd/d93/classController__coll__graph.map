@@ -1,6 +1,10 @@
 <map id="Controller" name="Controller">
-<area shape="rect" id="node2" href="$d8/dc8/structVncApiConfig.html" title="VncApiConfig" alt="" coords="5,333,112,360"/>
-<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="266,333,325,360"/>
-<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="350,96,484,123"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="344,5,395,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="122,435,201,461"/>
+<area shape="rect" id="node2" href="$d8/dc8/structVncApiConfig.html" title=" " alt="" coords="110,331,213,357"/>
+<area shape="rect" id="node3" title=" " alt="" coords="54,95,109,121"/>
+<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title=" " alt="" coords="237,331,292,357"/>
+<area shape="rect" id="node5" title=" " alt="" coords="235,95,294,121"/>
+<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="318,95,442,121"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="310,5,360,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="384,5,467,32"/>
 </map>

@@ -2,7 +2,7 @@ var classHBFHandler =
 [
     [ "HBFHandler", "dc/d88/classHBFHandler.html#a0df16e4215b5fcf0d4ba9498e4f9becb", null ],
     [ "~HBFHandler", "dc/d88/classHBFHandler.html#a1f2b3ac73c8d5cd3114584162909ec18", null ],
-    [ "agent", "dc/d88/classHBFHandler.html#ae7f73056bf80214acbce5acb48c8f729", null ],
+    [ "agent", "dc/d88/classHBFHandler.html#aeb8987fa84e1b5b02024a02f31dd0f9b", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dc/d88/classHBFHandler.html#a3c8c1a7d56f9ef402261cacf06b2a172", null ],
     [ "IsHBFLInterface", "dc/d88/classHBFHandler.html#aa23372c92a8db227fe032719cce43bbf", null ],
     [ "IsHBFRInterface", "dc/d88/classHBFHandler.html#aa410bc2df1545ae60e191322ed4ada20", null ],

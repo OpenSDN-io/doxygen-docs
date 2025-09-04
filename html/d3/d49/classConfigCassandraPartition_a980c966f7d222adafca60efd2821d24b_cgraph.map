@@ -1,9 +1,10 @@
 <map id="ConfigCassandraPartition::HandleObjectDelete" name="ConfigCassandraPartition::HandleObjectDelete">
-<area shape="rect" id="node2" href="$d3/d49/classConfigCassandraPartition.html#a8623137138cad95a61f1cdb9c5122cab" title="ConfigCassandraPartition\l::client" alt="" coords="521,5,706,46"/>
-<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html#a18f6f3c1d448df466cd67a6dd6655c89" title="ConfigDbClient::UUIDToFQName" alt="" coords="241,63,471,89"/>
-<area shape="rect" id="node4" href="$d3/d49/classConfigCassandraPartition.html#a942fb0ad404c30f05bb001957c536353" title="ConfigCassandraPartition\l::GenerateAndPushJson" alt="" coords="263,114,449,155"/>
-<area shape="rect" id="node8" href="$df/dc8/classConfigDbClient.html#aeb01aee0eed410cd989734c0df9ab0dc" title="ConfigDbClient::PurgeFQName\lCache" alt="" coords="246,179,466,221"/>
-<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title="ConfigDbClient::mgr" alt="" coords="537,71,690,97"/>
-<area shape="rect" id="node6" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title="ConfigClientManager\l::config_json_parser" alt="" coords="535,122,692,163"/>
-<area shape="rect" id="node7" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title="ConfigJsonParserBase\l::Receive" alt="" coords="532,187,695,229"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,176,145"/>
+<area shape="rect" id="node2" href="$d3/d49/classConfigCassandraPartition.html#a8623137138cad95a61f1cdb9c5122cab" title=" " alt="" coords="491,5,661,47"/>
+<area shape="rect" id="node3" href="$d3/d49/classConfigCassandraPartition.html#a942fb0ad404c30f05bb001957c536353" title=" " alt="" coords="248,71,419,112"/>
+<area shape="rect" id="node7" href="$df/dc8/classConfigDbClient.html#aeb01aee0eed410cd989734c0df9ab0dc" title=" " alt="" coords="230,136,437,177"/>
+<area shape="rect" id="node8" href="$df/dc8/classConfigDbClient.html#a78679d2c631b4fb3201ab412fa18c131" title=" " alt="" coords="224,202,443,229"/>
+<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html#a8bd1bcda16051cc100c015c8f81b904d" title=" " alt="" coords="504,71,648,112"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#af1d713a6c26da6242ef1a08a4a698d0d" title=" " alt="" coords="505,137,647,163"/>
+<area shape="rect" id="node6" href="$de/d32/classConfigJsonParserBase.html#ae1a98f87083e1e37a56eb54fe0110997" title=" " alt="" coords="497,188,655,229"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="PktHandler::PktHandler" name="PktHandler::PktHandler">
-<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#adfdf14c9aec59ed072c3e6447d0d1253" title="WorkQueue::set_name" alt="" coords="246,5,415,32"/>
-<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#af03022fb8a22a406467c293371b2a5cc" title="WorkQueue::set_measure\l_busy_time" alt="" coords="236,57,425,98"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a18c4d54957310b7374e8cb9f8be6cf63" title="Agent::MeasureQueueDelay" alt="" coords="229,123,432,149"/>
-<area shape="rect" id="node5" href="$dc/dd4/classAgentParam.html#af6524b4e0492b9b1d4e4a211f1de4378" title="AgentParam::measure\l_queue_delay" alt="" coords="481,115,647,157"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,165,98"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a18c4d54957310b7374e8cb9f8be6cf63" title=" " alt="" coords="213,13,400,39"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#a91f2a4679ad7fc4a8f62a13b7d4a72f9" title=" " alt="" coords="219,64,394,105"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#adfdf14c9aec59ed072c3e6447d0d1253" title=" " alt="" coords="229,130,385,157"/>
+<area shape="rect" id="node3" href="$dc/dd4/classAgentParam.html#ab28bc98fd84499b77c7da49c77d6565e" title=" " alt="" coords="448,5,600,47"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="xmsm::Active::react" name="xmsm::Active::react">
-<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="239,5,465,32"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#af65a5600ede284bbb6e91eb0efc21938" title="XmppConnection::set\l_close_reason" alt="" coords="271,57,433,98"/>
-<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="209,123,495,149"/>
-<area shape="rect" id="node5" href="$dd/dba/structxmsm_1_1EvAdminDown.html#ad97b35e59dc6a97b1cebdae399641680" title="xmsm::EvAdminDown::Name" alt="" coords="245,173,459,200"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,144,108"/>
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title=" " alt="" coords="220,5,427,32"/>
+<area shape="rect" id="node3" href="$dd/dba/structxmsm_1_1EvAdminDown.html#ad97b35e59dc6a97b1cebdae399641680" title=" " alt="" coords="225,56,421,83"/>
+<area shape="rect" id="node4" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title=" " alt="" coords="192,107,455,133"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#af65a5600ede284bbb6e91eb0efc21938" title=" " alt="" coords="249,158,397,199"/>
 </map>

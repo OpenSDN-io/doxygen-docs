@@ -1,11 +1,12 @@
 <map id="SandeshStateMachine::GetStatistics" name="SandeshStateMachine::GetStatistics">
-<area shape="rect" id="node2" href="$d3/d36/classSandeshStateMachine.html#a719bff465ade8f827536c0d6b0db6954" title="SandeshStateMachine\l::GetBasicStatistics" alt="" coords="219,122,384,163"/>
-<area shape="rect" id="node3" href="$d3/d36/classSandeshStateMachine.html#adfabde3cf63335dec298ee6b1caaa84f" title="SandeshStateMachine\l::IsValid" alt="" coords="452,57,617,98"/>
-<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#a6b1126f4d7740c5c53843c94ad59ed1b" title="SandeshStateMachine\l::GetEventStatistics" alt="" coords="452,122,617,163"/>
-<area shape="rect" id="node9" href="$d3/d36/classSandeshStateMachine.html#a231a70c64d840ad3c5a737c90de6773b" title="SandeshStateMachine\l::GetBasicMessageStatistics" alt="" coords="432,217,637,258"/>
-<area shape="rect" id="node5" href="$da/d7f/classSandeshEventStatistics.html#a11aca4efff69425d934d527b0510f0a8" title="SandeshEventStatistics::Get" alt="" coords="696,5,901,32"/>
-<area shape="rect" id="node6" href="$d3/d36/classSandeshStateMachine.html#a8fa59ca74cb84f367a425425f657ab5b" title="SandeshStateMachine\l::StateName" alt="" coords="716,57,881,98"/>
-<area shape="rect" id="node7" href="$d3/d36/classSandeshStateMachine.html#a18bc3ee2a20f4c3f69435e8521e6c4cd" title="SandeshStateMachine\l::LastStateName" alt="" coords="716,122,881,163"/>
-<area shape="rect" id="node8" href="$d3/d36/classSandeshStateMachine.html#a39e2454307a1b65ca4be962a1b2b85e8" title="SandeshStateMachine\l::last_event" alt="" coords="716,187,881,229"/>
-<area shape="rect" id="node10" href="$d2/dca/classSandeshMessageStatistics.html#a9357d170a1543f1c84061da13bb99be4" title="SandeshMessageStatistics::Get" alt="" coords="686,253,911,280"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,159,149"/>
+<area shape="rect" id="node2" href="$d3/d36/classSandeshStateMachine.html#a719bff465ade8f827536c0d6b0db6954" title=" " alt="" coords="207,107,360,149"/>
+<area shape="rect" id="node3" href="$d3/d36/classSandeshStateMachine.html#a231a70c64d840ad3c5a737c90de6773b" title=" " alt="" coords="408,21,600,62"/>
+<area shape="rect" id="node5" href="$d3/d36/classSandeshStateMachine.html#a6b1126f4d7740c5c53843c94ad59ed1b" title=" " alt="" coords="427,107,581,149"/>
+<area shape="rect" id="node10" href="$d3/d36/classSandeshStateMachine.html#a374a970553d8940f768210ae65f8be8c" title=" " alt="" coords="427,173,581,214"/>
+<area shape="rect" id="node4" href="$d2/dca/classSandeshMessageStatistics.html#a896554740230d033b6269ecf444831b0" title=" " alt="" coords="648,5,859,32"/>
+<area shape="rect" id="node6" href="$da/d7f/classSandeshEventStatistics.html#a7add4e52e703da09dbf659a8e79f20cb" title=" " alt="" coords="658,56,849,83"/>
+<area shape="rect" id="node7" href="$d3/d36/classSandeshStateMachine.html#acaa3aefd1ec2b6cd882a1c85684b8fa9" title=" " alt="" coords="677,107,830,149"/>
+<area shape="rect" id="node8" href="$d3/d36/classSandeshStateMachine.html#aa56831137db42e10335859f1321f6275" title=" " alt="" coords="677,173,830,214"/>
+<area shape="rect" id="node9" href="$d3/d36/classSandeshStateMachine.html#af673e1862fca496e382ba5c4ac807536" title=" " alt="" coords="677,238,830,279"/>
 </map>

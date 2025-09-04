@@ -10,7 +10,7 @@ var classIgmpProto =
     [ "DISALLOW_COPY_AND_ASSIGN", "df/dc0/classIgmpProto.html#ac0135dbdcbbe09bb9b5ab660310b0139", null ],
     [ "GetGmpProto", "df/dc0/classIgmpProto.html#add04a61d3a12176459818c8e38c7f0a4", null ],
     [ "GetItfStats", "df/dc0/classIgmpProto.html#a6a06e6d93f3e236168d6bfc6b3abea8e", null ],
-    [ "GetStats", "df/dc0/classIgmpProto.html#aef3a238f22eb284bfbcca9ab6154869c", null ],
+    [ "GetStats", "df/dc0/classIgmpProto.html#adc27fbc3b8610c4fdc64180e3d6f1543", null ],
     [ "IgmpProtoInit", "df/dc0/classIgmpProto.html#aafabcaa4d6cdef38ecc142062454e301", null ],
     [ "IncrSendStats", "df/dc0/classIgmpProto.html#a55a4b49ce4ef14697a3ed8e3238f5ec8", null ],
     [ "IncrStatsBadCksum", "df/dc0/classIgmpProto.html#ad7131e3239f2025ea79126c25f270bf4", null ],

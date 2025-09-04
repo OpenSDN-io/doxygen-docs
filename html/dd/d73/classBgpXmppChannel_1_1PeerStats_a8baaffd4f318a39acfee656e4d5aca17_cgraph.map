@@ -1,6 +1,0 @@
-<map id="BgpXmppChannel::PeerStats::GetRxErrorStats" name="BgpXmppChannel::PeerStats::GetRxErrorStats">
-<area shape="rect" id="node2" href="$da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a24e48406348c4fdc0bee97c6f24683b3" title="BgpXmppChannel::ErrorStats\l::get_inet6_rx_bad_xml_token_count" alt="" coords="261,5,523,46"/>
-<area shape="rect" id="node3" href="$da/d5c/structBgpXmppChannel_1_1ErrorStats.html#af62967b0e332c8a2c3556742e1c02552" title="BgpXmppChannel::ErrorStats\l::get_inet6_rx_bad_prefix_count" alt="" coords="277,70,507,111"/>
-<area shape="rect" id="node4" href="$da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a38ddcdbc0e7dca752a6a683b71c6c714" title="BgpXmppChannel::ErrorStats\l::get_inet6_rx_bad_nexthop_count" alt="" coords="269,135,515,177"/>
-<area shape="rect" id="node5" href="$da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a49619ea8c64bf96a6b0108a7d9285998" title="BgpXmppChannel::ErrorStats\l::get_inet6_rx_bad_afi_safi_count" alt="" coords="273,201,511,242"/>
-</map>

@@ -1,5 +1,6 @@
 <map id="DBGraph::VisitorFilter" name="DBGraph::VisitorFilter">
-<area shape="rect" id="node2" href="$db/d26/classGraphPropagateFilter.html" title="GraphPropagateFilter" alt="" coords="5,80,163,107"/>
-<area shape="rect" id="node3" href="$d7/d28/structIFMapTypenameFilter.html" title="IFMapTypenameFilter" alt="" coords="187,80,345,107"/>
-<area shape="rect" id="node4" href="$d3/dc4/structIFMapTypenameWhiteList.html" title="IFMapTypenameWhiteList" alt="" coords="370,80,557,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="173,5,324,32"/>
+<area shape="rect" id="node2" href="$db/d26/classGraphPropagateFilter.html" title=" " alt="" coords="5,80,151,107"/>
+<area shape="rect" id="node3" href="$d7/d28/structIFMapTypenameFilter.html" title=" " alt="" coords="175,80,323,107"/>
+<area shape="rect" id="node4" href="$d3/dc4/structIFMapTypenameWhiteList.html" title=" " alt="" coords="347,80,521,107"/>
 </map>

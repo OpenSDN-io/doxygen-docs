@@ -1,21 +1,25 @@
 <map id="IFMapServerTable::DeleteIfEmpty" name="IFMapServerTable::DeleteIfEmpty">
-<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="274,5,441,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a4d7ca0de9aa678b59fb7241483580160" title="DBGraphVertex::HasAdjacencies" alt="" coords="241,56,474,83"/>
-<area shape="rect" id="node6" href="$d4/d52/classDBGraphTable.html#ac6c155d4b8e944e5162b2993875bcbd3" title="DBGraphTable::graph" alt="" coords="541,107,699,133"/>
-<area shape="rect" id="node7" href="$dc/dd4/classIFMapServerTable.html#aef8418bbe0ca3cbfe8e6b6b3c55530d7" title="IFMapServerTable::DeleteNode" alt="" coords="247,157,468,184"/>
-<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="543,5,697,32"/>
-<area shape="rect" id="node5" href="$d0/d0c/classDBGraph.html#a698c95e5e53122a59b089bca99d50826" title="DBGraph::graph" alt="" coords="557,56,683,83"/>
-<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="543,157,697,184"/>
-<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="523,208,717,235"/>
-<area shape="rect" id="node18" href="$d0/d0c/classDBGraph.html#ab9b28e0e69ca52395de01e062286c2ba" title="DBGraph::RemoveNode" alt="" coords="533,284,707,311"/>
-<area shape="rect" id="node9" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="799,132,969,159"/>
-<area shape="rect" id="node11" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="823,183,945,209"/>
-<area shape="rect" id="node17" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="826,233,942,260"/>
-<area shape="rect" id="node12" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="1051,183,1192,209"/>
-<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1255,153,1457,180"/>
-<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1241,205,1471,246"/>
-<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1520,153,1736,180"/>
-<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1785,146,1975,187"/>
-<area shape="rect" id="node19" href="$d3/d0d/classDBGraphVertex.html#a6228262a54afbcae1c3711e1f0b6921e" title="DBGraphVertex::vertex" alt="" coords="798,284,970,311"/>
-<area shape="rect" id="node20" href="$d3/d0d/classDBGraphVertex.html#a7bdfdc8a766797b56a3055282fdbe7db" title="DBGraphVertex::VertexInvalidate" alt="" coords="765,335,1003,361"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,315,180,357"/>
+<area shape="rect" id="node2" href="$dc/dd4/classIFMapServerTable.html#aef8418bbe0ca3cbfe8e6b6b3c55530d7" title=" " alt="" coords="233,221,439,248"/>
+<area shape="rect" id="node14" href="$d4/d52/classDBGraphTable.html#a8393a17bf9fb1f791c0c1877a2a13e68" title=" " alt="" coords="509,309,656,336"/>
+<area shape="rect" id="node20" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="257,348,415,375"/>
+<area shape="rect" id="node21" href="$d3/d0d/classDBGraphVertex.html#ab7b7351d4f4a0d5c58a6ade9791c44aa" title=" " alt="" coords="228,399,444,425"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title=" " alt="" coords="496,56,669,83"/>
+<area shape="rect" id="node6" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="492,157,673,184"/>
+<area shape="rect" id="node15" href="$d0/d0c/classDBGraph.html#ab9b28e0e69ca52395de01e062286c2ba" title=" " alt="" coords="501,208,664,235"/>
+<area shape="rect" id="node18" href="$dc/d17/classIFMapNode.html#ae558a024c581279d2dfcb0d08cf6154f" title=" " alt="" coords="509,259,656,285"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="749,5,908,32"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title=" " alt="" coords="739,56,918,83"/>
+<area shape="rect" id="node7" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="773,107,884,133"/>
+<area shape="rect" id="node8" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="771,157,887,184"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="984,157,1117,184"/>
+<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1177,128,1364,155"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="1165,179,1376,221"/>
+<area shape="rect" id="node11" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1424,128,1627,155"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1675,121,1852,162"/>
+<area shape="rect" id="node16" href="$d3/d0d/classDBGraphVertex.html#a64d6319afdb8394224ef22b8713aaf30" title=" " alt="" coords="750,208,907,235"/>
+<area shape="rect" id="node17" href="$d3/d0d/classDBGraphVertex.html#a7bdfdc8a766797b56a3055282fdbe7db" title=" " alt="" coords="721,259,936,285"/>
+<area shape="rect" id="node19" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="749,309,908,336"/>
+<area shape="rect" id="node22" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="511,385,654,412"/>
+<area shape="rect" id="node23" href="$d0/d0c/classDBGraph.html#ab79f8eda240175eaa71aced1e2561a51" title=" " alt="" coords="525,436,641,463"/>
 </map>

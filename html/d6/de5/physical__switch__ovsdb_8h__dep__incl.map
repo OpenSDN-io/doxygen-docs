@@ -1,6 +1,7 @@
 <map id="physical_switch_ovsdb.h" name="physical_switch_ovsdb.h">
-<area shape="rect" id="node2" href="$da/df8/logical__switch__ovsdb_8cc.html" title="logical_switch_ovsdb.cc" alt="" coords="5,80,184,107"/>
-<area shape="rect" id="node3" href="$de/d94/ovsdb__client__idl_8cc.html" title="ovsdb_client_idl.cc" alt="" coords="209,80,353,107"/>
-<area shape="rect" id="node4" href="$d7/d76/physical__switch__ovsdb_8cc.html" title="physical_switch_ovsdb.cc" alt="" coords="379,80,568,107"/>
-<area shape="rect" id="node5" href="$d5/d58/vlan__port__binding__ovsdb_8cc.html" title="vlan_port_binding_ovsdb.cc" alt="" coords="592,80,795,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="267,5,433,32"/>
+<area shape="rect" id="node2" href="$da/df8/logical__switch__ovsdb_8cc.html" title=" " alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$de/d94/ovsdb__client__idl_8cc.html" title=" " alt="" coords="194,80,327,107"/>
+<area shape="rect" id="node4" href="$d7/d76/physical__switch__ovsdb_8cc.html" title=" " alt="" coords="352,80,527,107"/>
+<area shape="rect" id="node5" href="$d5/d58/vlan__port__binding__ovsdb_8cc.html" title=" " alt="" coords="551,80,735,107"/>
 </map>

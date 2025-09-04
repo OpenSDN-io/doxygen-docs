@@ -1,7 +1,8 @@
 <map id="BridgeRouteEntry" name="BridgeRouteEntry">
-<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html" title="Base class for all Route entries in agent. " alt="" coords="10,229,107,256"/>
-<area shape="rect" id="node3" href="$de/df8/classRoute.html" title="Route" alt="" coords="29,155,88,181"/>
-<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="21,80,96,107"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="5,5,112,32"/>
-<area shape="rect" id="node6" href="$d5/d9a/classAgentRoutePrefix.html" title="AgentRoutePrefix\&lt; MacAddress \&gt;" alt="" coords="132,229,375,256"/>
+<area shape="rect" id="node1" title=" " alt="" coords="84,304,211,331"/>
+<area shape="rect" id="node2" href="$d4/d57/classAgentRoute.html" title="Base class for all Route entries in agent." alt="" coords="11,229,102,256"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html" title=" " alt="" coords="28,155,85,181"/>
+<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="20,80,93,107"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node6" href="$d5/d9a/classAgentRoutePrefix.html" title=" " alt="" coords="127,229,349,256"/>
 </map>

@@ -1,3 +1,4 @@
 <map id="VxlanRoutingVnState" name="VxlanRoutingVnState">
-<area shape="rect" id="node2" href="$d3/def/structDBState.html" title="DBState" alt="" coords="47,5,121,32"/>
+<area shape="rect" id="node1" title="This state tracks all virtual machine interfaces (VmInterface) attached to a Logical Router (LR)...." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node2" href="$d3/def/structDBState.html" title=" " alt="" coords="43,5,115,32"/>
 </map>

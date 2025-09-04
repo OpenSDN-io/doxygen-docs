@@ -1,4 +1,5 @@
 <map id="VxlanRoutingManager::DeleteIpamRoutes" name="VxlanRoutingManager::DeleteIpamRoutes">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ac73d4cd3c17c945a42e1f04910826c0b" title="Agent::evpn_routing_peer" alt="" coords="219,5,408,32"/>
-<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a5ec8cc00efa2aedd0ab9c468b2fcba55" title="Peer::GetName" alt="" coords="253,56,374,83"/>
+<area shape="rect" id="node1" title="Delete routes to IPAM, specified by IP prefix and prefix length." alt="" coords="5,23,156,65"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="204,5,375,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2a9eeed28fc53281a7985dc1f0d1826b" title=" " alt="" coords="233,56,345,83"/>
 </map>

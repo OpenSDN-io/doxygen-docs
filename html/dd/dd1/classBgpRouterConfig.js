@@ -2,11 +2,11 @@ var classBgpRouterConfig =
 [
     [ "BgpRouterConfig", "dd/dd1/classBgpRouterConfig.html#a11f32f2d8f5d65ea1f7ec6d22603ce09", null ],
     [ "~BgpRouterConfig", "dd/dd1/classBgpRouterConfig.html#a133d63c5f829029c703a80c84ab516bc", null ],
-    [ "bgp_router_tree", "dd/dd1/classBgpRouterConfig.html#a08b19a73ad31593178717d8f9a8c2887", null ],
+    [ "bgp_router_tree", "dd/dd1/classBgpRouterConfig.html#ace8dc78060171f0fadddae0436229d99", null ],
     [ "ConfigAddChange", "dd/dd1/classBgpRouterConfig.html#a15118c3a1278f05ff178b733048f9138", null ],
     [ "ConfigDelete", "dd/dd1/classBgpRouterConfig.html#a6ccbae609335eed3fdafd5c634d08bcb", null ],
     [ "ConfigManagerEnqueue", "dd/dd1/classBgpRouterConfig.html#aa595ebab7fbcb75864cd35175761438f", null ],
-    [ "control_node_zone_tree", "dd/dd1/classBgpRouterConfig.html#a810e176e55eee0dc644ca11bfd9d34f0", null ],
+    [ "control_node_zone_tree", "dd/dd1/classBgpRouterConfig.html#abb299aa021cd5fd8301946e888507f0d", null ],
     [ "DeleteControlNodeZoneConfig", "dd/dd1/classBgpRouterConfig.html#aaad7e9e053c1b4266adb3877b6242bba", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dd/dd1/classBgpRouterConfig.html#aa4233ce938fb70d203c3a5caab18f6dc", null ],
     [ "GetBgpRouterCount", "dd/dd1/classBgpRouterConfig.html#a01bac05f34318907e66df2e0c8f8780d", null ],

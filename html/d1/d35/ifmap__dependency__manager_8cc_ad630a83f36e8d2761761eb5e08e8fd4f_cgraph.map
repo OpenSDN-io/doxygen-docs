@@ -1,7 +1,8 @@
 <map id="RegisterConfigHandler" name="RegisterConfigHandler">
-<area shape="rect" id="node2" href="$dd/dd0/classIFMapDependencyManager.html#ac4a7e1e812932143546d9571a73991fa" title="IFMapDependencyManager\l::Register" alt="" coords="228,5,425,46"/>
-<area shape="rect" id="node3" href="$d0/d9b/classOperIFMapTable.html#afec10833f000d51bbfbacf93da118a1b" title="OperIFMapTable::ConfigEvent\lHandler" alt="" coords="221,70,432,111"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="507,27,685,53"/>
-<area shape="rect" id="node5" href="$d0/d9b/classOperIFMapTable.html#a6504e46b23db030464861dcc6e3784bf" title="OperIFMapTable::ConfigDelete" alt="" coords="487,77,705,104"/>
-<area shape="rect" id="node6" href="$d0/d9b/classOperIFMapTable.html#ad1e631f1cfe6531b5d16e6100c2e8eeb" title="OperIFMapTable::ConfigManager\lEnqueue" alt="" coords="481,129,711,170"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,159,124"/>
+<area shape="rect" id="node2" href="$d0/d9b/classOperIFMapTable.html#afec10833f000d51bbfbacf93da118a1b" title=" " alt="" coords="207,57,404,98"/>
+<area shape="rect" id="node6" href="$dd/dd0/classIFMapDependencyManager.html#ac4a7e1e812932143546d9571a73991fa" title=" " alt="" coords="214,122,397,163"/>
+<area shape="rect" id="node3" href="$d0/d9b/classOperIFMapTable.html#a6504e46b23db030464861dcc6e3784bf" title=" " alt="" coords="458,5,661,32"/>
+<area shape="rect" id="node4" href="$d0/d9b/classOperIFMapTable.html#ad1e631f1cfe6531b5d16e6100c2e8eeb" title=" " alt="" coords="452,57,667,98"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="476,123,643,149"/>
 </map>

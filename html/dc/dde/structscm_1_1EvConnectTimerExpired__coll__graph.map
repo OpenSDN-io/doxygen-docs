@@ -1,5 +1,10 @@
 <map id="scm::EvConnectTimerExpired" name="scm::EvConnectTimerExpired">
-<area shape="rect" id="node3" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="275,195,335,221"/>
-<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="362,96,496,123"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="356,5,407,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="37,288,235,315"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,184,224,225"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html" title=" " alt="" coords="249,191,303,218"/>
+<area shape="rect" id="node4" title=" " alt="" coords="167,95,222,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="247,95,305,121"/>
+<area shape="rect" id="node6" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="330,95,454,121"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="321,5,372,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="396,5,479,32"/>
 </map>

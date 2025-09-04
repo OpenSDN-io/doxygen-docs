@@ -1,9 +1,10 @@
 <map id="StateMachine::UpdateFlapCount" name="StateMachine::UpdateFlapCount">
-<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#a51cbe0bae3ddb185dd653883ad77c31b" title="StateMachine::get_state" alt="" coords="245,5,424,32"/>
-<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a490365d0594a602f89f331148d7325c8" title="BgpPeer::increment\l_flap_count" alt="" coords="259,57,410,98"/>
-<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title="BgpPeer::peer_stats" alt="" coords="259,123,411,149"/>
-<area shape="rect" id="node8" href="$d0/d3f/classIPeerDebugStats.html#a2ec67c033953df6680fb5b5a8f503327" title="IPeerDebugStats::Clear" alt="" coords="249,173,421,200"/>
-<area shape="rect" id="node4" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="493,13,648,40"/>
-<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="496,64,645,91"/>
-<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#a022240911b6f54662656ed3fd3ad06dc" title="BgpPeer::BGPPeerInfoSend" alt="" coords="472,115,669,141"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,183,119"/>
+<area shape="rect" id="node2" href="$d0/d3f/classIPeerDebugStats.html#a2ec67c033953df6680fb5b5a8f503327" title=" " alt="" coords="233,5,393,32"/>
+<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#aad8b92db393500d4be9a6e95bf2c329d" title=" " alt="" coords="231,56,395,83"/>
+<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#a490365d0594a602f89f331148d7325c8" title=" " alt="" coords="245,107,381,149"/>
+<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title=" " alt="" coords="243,173,383,200"/>
+<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a798072845d07ac98223db93d44ac3387" title=" " alt="" coords="443,64,627,91"/>
+<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#a1b3c7000ab2d921b0598404e2828567b" title=" " alt="" coords="463,115,606,141"/>
+<area shape="rect" id="node7" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="463,165,607,192"/>
 </map>

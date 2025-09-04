@@ -1,20 +1,21 @@
 <map id="AgentInit::InitBase" name="AgentInit::InitBase">
-<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#a5d185b3f9226a10048d8cacfea2ce796" title="AgentInit::FactoryInit" alt="" coords="228,132,385,159"/>
-<area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#a7a43e508a9d4725e16c226fa4fd784ba" title="AgentInit::InitLoggingBase" alt="" coords="210,183,403,209"/>
-<area shape="rect" id="node11" href="$d8/d16/classAgentInit.html#ab18ffe23139d50c2cb4c0c5e93be93cb" title="AgentInit::CreatePeersBase" alt="" coords="207,297,407,324"/>
-<area shape="rect" id="node13" href="$d8/d16/classAgentInit.html#ae707b043dbfbc24c5bdda18bfa4105df" title="AgentInit::CreateModulesBase" alt="" coords="197,415,416,441"/>
-<area shape="rect" id="node19" href="$d8/d16/classAgentInit.html#ae26a27eb9f75fdff0cf085a409c242ff" title="AgentInit::CreateResource\lManager" alt="" coords="211,349,402,390"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title="Sandesh::SetLoggingParams" alt="" coords="464,5,669,32"/>
-<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#a749a0750610797cfc13b989d5e388054" title="AgentParam::log_local" alt="" coords="483,56,650,83"/>
-<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a84dca68ca4864667f764f8a29270b15d" title="AgentParam::log_category" alt="" coords="470,107,663,133"/>
-<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#a3799ca52dd7b8379c9350f0e126ba143" title="AgentParam::log_level" alt="" coords="483,157,651,184"/>
-<area shape="rect" id="node9" href="$dc/dd4/classAgentParam.html#ad6c06180c5eaa9acca917063ed813033" title="AgentParam::log_flow" alt="" coords="485,208,648,235"/>
-<area shape="rect" id="node10" href="$d8/d16/classAgentInit.html#a206d9a9d7c3796a9557780cc9e8da3cf" title="AgentInit::InitLogging" alt="" coords="486,259,647,285"/>
-<area shape="rect" id="node5" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title="SetLoggingLevel" alt="" coords="718,5,847,32"/>
-<area shape="rect" id="node12" href="$d8/d16/classAgentInit.html#a8729699036502bcfbf3fcdeff1dd340f" title="AgentInit::CreatePeers" alt="" coords="483,309,651,336"/>
-<area shape="rect" id="node14" href="$d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391" title="AgentInit::agent" alt="" coords="503,360,630,387"/>
-<area shape="rect" id="node15" href="$d8/dfe/classAgent.html#a81b4f80493d50571326321b21739a284" title="Agent::set_event_notifier" alt="" coords="474,411,659,437"/>
-<area shape="rect" id="node16" href="$d8/dfe/classAgent.html#a64aea0113839097a37c65dd9346bfca8" title="Agent::set_stats" alt="" coords="503,461,630,488"/>
-<area shape="rect" id="node18" href="$d8/d16/classAgentInit.html#a75658036fa4a285dd34d8580e3b629a4" title="AgentInit::CreateModules" alt="" coords="473,512,660,539"/>
-<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="733,461,833,488"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,136,209"/>
+<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#ae707b043dbfbc24c5bdda18bfa4105df" title=" " alt="" coords="184,107,384,133"/>
+<area shape="rect" id="node8" href="$d8/d16/classAgentInit.html#ab18ffe23139d50c2cb4c0c5e93be93cb" title=" " alt="" coords="191,183,377,209"/>
+<area shape="rect" id="node10" href="$d8/d16/classAgentInit.html#ae26a27eb9f75fdff0cf085a409c242ff" title=" " alt="" coords="196,19,372,61"/>
+<area shape="rect" id="node11" href="$d8/d16/classAgentInit.html#a5d185b3f9226a10048d8cacfea2ce796" title=" " alt="" coords="211,233,357,260"/>
+<area shape="rect" id="node12" href="$d8/d16/classAgentInit.html#a7a43e508a9d4725e16c226fa4fd784ba" title=" " alt="" coords="197,360,371,387"/>
+<area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#afb41d5e09913db8d0262060dcdefd864" title=" " alt="" coords="470,5,585,32"/>
+<area shape="rect" id="node4" href="$d8/d16/classAgentInit.html#a75658036fa4a285dd34d8580e3b629a4" title=" " alt="" coords="442,56,613,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a81b4f80493d50571326321b21739a284" title=" " alt="" coords="444,107,611,133"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a64aea0113839097a37c65dd9346bfca8" title=" " alt="" coords="468,157,587,184"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#ad2407e84fb59a24da5d98907217daf10" title=" " alt="" coords="683,157,776,184"/>
+<area shape="rect" id="node9" href="$d8/d16/classAgentInit.html#a8729699036502bcfbf3fcdeff1dd340f" title=" " alt="" coords="450,208,605,235"/>
+<area shape="rect" id="node13" href="$d8/d16/classAgentInit.html#a206d9a9d7c3796a9557780cc9e8da3cf" title=" " alt="" coords="455,259,600,285"/>
+<area shape="rect" id="node14" href="$dc/dd4/classAgentParam.html#a499600ea5b4481d1406e1611f7798e91" title=" " alt="" coords="439,309,616,336"/>
+<area shape="rect" id="node15" href="$dc/dd4/classAgentParam.html#a6988ebc1285039a77000b3744942ac91" title=" " alt="" coords="452,360,603,387"/>
+<area shape="rect" id="node16" href="$dc/dd4/classAgentParam.html#ac24d38b7ea651a7efebc24f071f159de" title=" " alt="" coords="451,411,603,437"/>
+<area shape="rect" id="node17" href="$dc/dd4/classAgentParam.html#a87c15df927de6fa0a81a6496693b72d5" title=" " alt="" coords="451,461,604,488"/>
+<area shape="rect" id="node18" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title=" " alt="" coords="432,512,623,539"/>
+<area shape="rect" id="node19" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title=" " alt="" coords="671,512,788,539"/>
 </map>

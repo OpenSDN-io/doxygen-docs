@@ -1,10 +1,12 @@
 <map id="BgpPeer::SetSessionSocketAuthKey" name="BgpPeer::SetSessionSocketAuthKey">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#aec38850975a7d49f6e4e0ccfab2b9a0b" title="BgpPeer::PeerAddress" alt="" coords="275,20,440,47"/>
-<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#a1ca9c1795b5f6eac4c3ffb5a49f39e02" title="BgpPeer::LogInstallAuthKeys" alt="" coords="253,85,461,112"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a653bcca1fc3065f242cf9176a038ad6f" title="TcpSession::SetMd5Socket\lOption" alt="" coords="261,166,454,207"/>
-<area shape="rect" id="node3" href="$dd/dde/structBgpPeerKey.html#a5548d60bfd49c2a1647d754cffc53dc6" title="BgpPeerKey::address" alt="" coords="545,5,703,32"/>
-<area shape="rect" id="node5" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="787,140,907,167"/>
-<area shape="rect" id="node6" href="$d1/df6/classAuthenticationData.html#a23c991a1a30ad7ac37780ee90c0f320a" title="AuthenticationData\l::KeyTypeToString" alt="" coords="550,107,698,149"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="553,173,695,200"/>
-<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#af4cacf9f0aee1d0fdc69163c60d59c6a" title="TcpServer::SetMd5SocketOption" alt="" coords="510,224,738,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,192,153"/>
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a1ca9c1795b5f6eac4c3ffb5a49f39e02" title=" " alt="" coords="240,43,431,70"/>
+<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a1006a62ba4c1dfbf2fe6edbb2b63bc8f" title=" " alt="" coords="259,94,412,120"/>
+<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#a7e37f10864b5aa36408bd911a1627c43" title=" " alt="" coords="273,144,397,171"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a653bcca1fc3065f242cf9176a038ad6f" title=" " alt="" coords="244,196,427,237"/>
+<area shape="rect" id="node3" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title=" " alt="" coords="739,94,848,120"/>
+<area shape="rect" id="node4" href="$d1/df6/classAuthenticationData.html#a3a96121ab2ad33482b3a6803e3268d0b" title=" " alt="" coords="519,36,651,77"/>
+<area shape="rect" id="node6" href="$dd/dde/structBgpPeerKey.html#a3c7c8984e84d223d6c5ba6dea3e3e6bd" title=" " alt="" coords="511,102,658,128"/>
+<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title=" " alt="" coords="517,152,652,179"/>
+<area shape="rect" id="node10" href="$de/df9/classTcpServer.html#af4cacf9f0aee1d0fdc69163c60d59c6a" title=" " alt="" coords="479,203,691,230"/>
 </map>

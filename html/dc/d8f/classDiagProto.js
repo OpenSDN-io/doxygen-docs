@@ -18,7 +18,7 @@ var classDiagProto =
     [ "FillSandeshHealthCheckResponse", "dc/d8f/classDiagProto.html#accfa3c3e119bada4704888aa88a5192c", null ],
     [ "IncrementDiagStats", "dc/d8f/classDiagProto.html#af09010f19f1258226f777839c69edc3c", null ],
     [ "SegmentHealthCheckProcess", "dc/d8f/classDiagProto.html#a7d1dae6dc34f22ae3231a3abf5a037d2", null ],
-    [ "stats", "dc/d8f/classDiagProto.html#ad359096264789695e9bf57f837b2a492", null ],
+    [ "stats", "dc/d8f/classDiagProto.html#a87a27f00b0c838f16764c0b03be4a620", null ],
     [ "session_map_", "dc/d8f/classDiagProto.html#aa335a7516b4e4bc2482bbaddb46b1ddd", null ],
     [ "stats_", "dc/d8f/classDiagProto.html#ad361ec852989225883f7934791a1e8d0", null ],
     [ "stats_mutex_", "dc/d8f/classDiagProto.html#a6db4df8a5a90754435ada20b9cb39d4b", null ]

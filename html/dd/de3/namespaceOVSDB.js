@@ -55,5 +55,17 @@ var namespaceOVSDB =
     [ "VnOvsdbObject", "de/dda/classOVSDB_1_1VnOvsdbObject.html", "de/dda/classOVSDB_1_1VnOvsdbObject" ],
     [ "VnOvsdbEntry", "d9/d63/classOVSDB_1_1VnOvsdbEntry.html", "d9/d63/classOVSDB_1_1VnOvsdbEntry" ],
     [ "VrfOvsdbObject", "d4/de1/classOVSDB_1_1VrfOvsdbObject.html", "d4/de1/classOVSDB_1_1VrfOvsdbObject" ],
-    [ "VrfOvsdbEntry", "df/de3/classOVSDB_1_1VrfOvsdbEntry.html", "df/de3/classOVSDB_1_1VrfOvsdbEntry" ]
+    [ "VrfOvsdbEntry", "df/de3/classOVSDB_1_1VrfOvsdbEntry.html", "df/de3/classOVSDB_1_1VrfOvsdbEntry" ],
+    [ "ConnectionStateEntryPtr", "dd/de3/namespaceOVSDB.html#a5744ffe7c2ad04d895f7df01e9889fdf", null ],
+    [ "LogicalSwitchRef", "dd/de3/namespaceOVSDB.html#a7799c821d5b05f3ccc1a7603e22414b0", null ],
+    [ "OvsdbClientIdlPtr", "dd/de3/namespaceOVSDB.html#ad59756830cd894c8a7e8cca8ef13c547", null ],
+    [ "OvsdbEntryList", "dd/de3/namespaceOVSDB.html#a8763fae378c46e4e017379915c52ba8c", null ],
+    [ "intrusive_ptr_add_back_ref", "dd/de3/namespaceOVSDB.html#a93991f3e1be775f2b1ffed901c85c75e", null ],
+    [ "intrusive_ptr_add_ref", "dd/de3/namespaceOVSDB.html#a9303b897373df33a4615b83f171556d6", null ],
+    [ "intrusive_ptr_add_ref", "dd/de3/namespaceOVSDB.html#acefc7418a0bf097a5418cc00f5ebe4ac", null ],
+    [ "intrusive_ptr_del_back_ref", "dd/de3/namespaceOVSDB.html#a350ffd9c9bf677328502d48f0c7d9358", null ],
+    [ "intrusive_ptr_release", "dd/de3/namespaceOVSDB.html#a2c9cc34f20cade99472ee38c20a22f0b", null ],
+    [ "intrusive_ptr_release", "dd/de3/namespaceOVSDB.html#a4b66afbda2073f46f27efce34b0dc3c1", null ],
+    [ "ovsdb_wrapper_idl_callback", "dd/de3/namespaceOVSDB.html#a9370e558cecb3e56175514844646d86e", null ],
+    [ "ovsdb_wrapper_idl_txn_ack", "dd/de3/namespaceOVSDB.html#af3a0fb69448cb027fbd58cb158f065ae", null ]
 ];

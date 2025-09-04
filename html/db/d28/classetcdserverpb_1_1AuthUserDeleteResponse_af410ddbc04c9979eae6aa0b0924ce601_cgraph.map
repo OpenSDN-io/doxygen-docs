@@ -1,6 +1,7 @@
 <map id="etcdserverpb::AuthUserDeleteResponse::MergeFrom" name="etcdserverpb::AuthUserDeleteResponse::MergeFrom">
-<area shape="rect" id="node2" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#aa65f672537df9a17890d317ade2984b2" title="etcdserverpb::AuthUserDelete\lResponse::has_header" alt="" coords="272,5,491,46"/>
-<area shape="rect" id="node4" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a6455598fa6224f028193110e0c4dd66f" title="etcdserverpb::AuthUserDelete\lResponse::mutable_header" alt="" coords="272,70,491,111"/>
-<area shape="rect" id="node5" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a6d40b5ae751a1218f33c97632293549a" title="etcdserverpb::AuthUserDelete\lResponse::header" alt="" coords="272,135,491,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="539,5,763,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node2" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#af702a323205874b576e34370f3b514ef" title=" " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node4" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a006862b8df2e56c3d9ae1d6ce1e50b45" title=" " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node5" href="$db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a6455598fa6224f028193110e0c4dd66f" title=" " alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="499,5,705,47"/>
 </map>

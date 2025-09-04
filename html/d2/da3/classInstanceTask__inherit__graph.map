@@ -1,6 +1,7 @@
 <map id="InstanceTask" name="InstanceTask">
-<area shape="rect" id="node2" href="$d1/d26/classInstanceTaskExecvp.html" title="InstanceTaskExecvp" alt="" coords="5,80,157,107"/>
-<area shape="rect" id="node3" href="$d2/d19/classInstanceTaskMethod.html" title="InstanceTaskMethod" alt="" coords="183,80,337,107"/>
-<area shape="rect" id="node4" href="$dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html" title="LibvirtInstanceAdapter\l::DomainStartTask" alt="" coords="79,155,248,197"/>
-<area shape="rect" id="node5" href="$d4/d50/classLibvirtInstanceAdapter_1_1DomainStopTask.html" title="LibvirtInstanceAdapter\l::DomainStopTask" alt="" coords="273,155,441,197"/>
+<area shape="rect" id="node1" title=" " alt="" coords="109,5,209,32"/>
+<area shape="rect" id="node2" href="$d1/d26/classInstanceTaskExecvp.html" title=" " alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$d2/d19/classInstanceTaskMethod.html" title=" " alt="" coords="172,80,315,107"/>
+<area shape="rect" id="node4" href="$dd/d03/classLibvirtInstanceAdapter_1_1DomainStartTask.html" title=" " alt="" coords="77,155,231,196"/>
+<area shape="rect" id="node5" href="$d4/d50/classLibvirtInstanceAdapter_1_1DomainStopTask.html" title=" " alt="" coords="255,155,408,196"/>
 </map>

@@ -1,6 +1,10 @@
 <map id="SandeshServer" name="SandeshServer">
-<area shape="rect" id="node2" href="$d8/d4d/classSslServer.html" title="SslServer" alt="" coords="267,277,349,304"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="215,187,300,213"/>
-<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="89,96,207,123"/>
-<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="232,96,347,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="284,349,395,376"/>
+<area shape="rect" id="node2" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="247,273,325,300"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title=" " alt="" coords="201,184,283,211"/>
+<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="84,95,195,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,95,60,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="349,95,407,121"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="230,5,313,32"/>
 </map>

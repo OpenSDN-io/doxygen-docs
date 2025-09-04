@@ -1,51 +1,52 @@
 <map id="BgpTable::DeletePath" name="BgpTable::DeletePath">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a7819230db440cac8e439079d3228532a" title="BgpTable::InputCommon" alt="" coords="213,687,395,713"/>
-<area shape="rect" id="node46" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="1025,1796,1159,1823"/>
-<area shape="rect" id="node50" href="$d7/d0c/classBgpPath.html#ad2344d43d0df352d474299ae496c9b16" title="BgpPath::GetPathId" alt="" coords="231,1897,377,1924"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="468,71,660,97"/>
-<area shape="rect" id="node4" href="$dd/d38/classIPeer.html#ab60bd2f12b278f99df40bc3af16a5195" title="IPeer::UpdateCloseRouteStats" alt="" coords="456,121,672,148"/>
-<area shape="rect" id="node5" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title="BgpTable::family" alt="" coords="777,532,908,559"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="499,223,629,249"/>
-<area shape="rect" id="node7" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="494,273,634,300"/>
-<area shape="rect" id="node8" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="493,324,635,351"/>
-<area shape="rect" id="node9" href="$d7/d0c/classBgpPath.html#ae3ea8b6461403513ba970ddf66fdd2c1" title="BgpPath::GetL3Label" alt="" coords="486,375,642,401"/>
-<area shape="rect" id="node10" href="$d7/d0c/classBgpPath.html#a73217b17b042d53b90508f442bcd80b5" title="BgpPath::NeedsResolution" alt="" coords="468,425,660,452"/>
-<area shape="rect" id="node11" href="$d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5" title="PathResolver::StopPathResolution" alt="" coords="445,476,683,503"/>
-<area shape="rect" id="node12" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="755,299,931,325"/>
-<area shape="rect" id="node13" href="$d6/dbd/classBgpRoute.html#aa2e867e04e2e2fb6e4ef7572ce37f34d" title="BgpRoute::DeletePath" alt="" coords="483,628,645,655"/>
-<area shape="rect" id="node23" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="1255,1687,1385,1713"/>
-<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#a3e85781185a3cff2fbe645edc80c362e" title="BgpServer::IsNextHopCheck\lEnabled" alt="" coords="461,679,667,721"/>
-<area shape="rect" id="node26" href="$de/ddf/classRoutingInstance.html#ac7d3f05ce6ea89aea6392507cf1b6d8d" title="RoutingInstance::IsMaster\lRoutingInstance" alt="" coords="469,745,659,786"/>
-<area shape="rect" id="node27" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title="IPeer::IsXmppPeer" alt="" coords="493,811,635,837"/>
-<area shape="rect" id="node28" href="$d6/dbd/classBgpRoute.html#a7e852519c415a8d4c21105c6b6061739" title="BgpRoute::add_peer\l_sources" alt="" coords="488,862,640,903"/>
-<area shape="rect" id="node29" href="$dd/d38/classIPeer.html#a4770db71267187cf7aa665d344272199" title="IPeer::ToString" alt="" coords="507,928,621,955"/>
-<area shape="rect" id="node30" href="$d5/dcf/classBgpAttr.html#a1edb1b083244d77a162450bac8e3acb4" title="BgpAttr::nexthop_family" alt="" coords="473,979,655,1005"/>
-<area shape="rect" id="node31" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="469,1029,659,1056"/>
-<area shape="rect" id="node32" href="$d7/d0c/classBgpPath.html#a61ea93d61b1b699fb0a2a5ca9bc3cfaa" title="BgpPath::SetResolveNextHop" alt="" coords="458,1080,670,1107"/>
-<area shape="rect" id="node33" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="493,1131,635,1173"/>
-<area shape="rect" id="node34" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="461,1197,667,1238"/>
-<area shape="rect" id="node35" href="$d1/d31/classPathResolver.html#a8c3c2b54f8e09ea65aaef37e6d7b37b5" title="PathResolver::StartPathResolution" alt="" coords="443,527,685,553"/>
-<area shape="rect" id="node36" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title="BgpRoute::InsertPath" alt="" coords="485,1313,643,1340"/>
-<area shape="rect" id="node37" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="754,937,931,964"/>
-<area shape="rect" id="node49" href="$d6/dbd/classBgpRoute.html#a920acb24e74e3c17b02a583cc874e6df" title="BgpRoute::del_peer\l_sources" alt="" coords="490,5,638,46"/>
-<area shape="rect" id="node14" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="1043,684,1141,711"/>
-<area shape="rect" id="node15" href="$de/df8/classRoute.html#a264132d02c781dbbd1750e1fdf35b5dd" title="Route::Sort" alt="" coords="796,684,889,711"/>
-<area shape="rect" id="node16" href="$d0/def/classBgpTable.html#aa4e181d0c706e2dd5c1297c8b76a295f" title="BgpTable::PathSelection" alt="" coords="754,785,931,812"/>
-<area shape="rect" id="node17" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title="BgpRoute::table" alt="" coords="1029,887,1155,913"/>
-<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="1232,1140,1408,1167"/>
-<area shape="rect" id="node20" href="$d0/def/classBgpTable.html#a662ab68d9d3a88dbb287d80c641ca966" title="BgpTable::UpdatePathCount" alt="" coords="741,836,944,863"/>
-<area shape="rect" id="node21" href="$d7/d0c/classBgpPath.html#ab62459e5e0c7c592c282fcd9cb8c0016" title="BgpPath::UpdatePeerRefCount" alt="" coords="733,887,952,913"/>
-<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="1232,677,1408,718"/>
-<area shape="rect" id="node22" href="$d7/d0c/classBgpPath.html#a831b223567d94bb3de9ddf1fd8a4147e" title="BgpPath::IsReplicated" alt="" coords="1011,1089,1173,1116"/>
-<area shape="rect" id="node24" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="1457,1571,1631,1597"/>
-<area shape="rect" id="node38" href="$d0/def/classBgpTable.html#aa8091cea76f50537e1ee3ff0487e7351" title="BgpTable::IsRoutingPolicy\lSupported" alt="" coords="749,1191,937,1233"/>
-<area shape="rect" id="node39" href="$d6/dbd/classBgpRoute.html#a3eee9dd4eeaeb26cf6fc3b3b10c2f754" title="BgpRoute::SubClusterId" alt="" coords="1005,1308,1179,1335"/>
-<area shape="rect" id="node40" href="$d7/d0c/classBgpPath.html#a5dcf9fe0877d9a4af9c09c71659e006a" title="BgpPath::AddExtCommunity\lSubCluster" alt="" coords="740,1410,945,1451"/>
-<area shape="rect" id="node44" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="744,1308,941,1335"/>
-<area shape="rect" id="node45" href="$de/ddf/classRoutingInstance.html#acebe5e01bbb8848a23f2dc6c7741ccc6" title="RoutingInstance::Process\lRoutingPolicy" alt="" coords="751,1527,935,1569"/>
-<area shape="rect" id="node41" href="$d7/d0c/classBgpPath.html#ab8d990940f9a33f781dd1a7ca34ec9d9" title="BgpPath::GetOriginalAttr" alt="" coords="1001,1411,1183,1437"/>
-<area shape="rect" id="node47" href="$dd/d38/classIPeer.html#a2eea67fd2de1d071eb0c151e9e79d8d7" title="IPeer::ProcessPathTunnel\lEncapsulation" alt="" coords="1001,1614,1183,1655"/>
-<area shape="rect" id="node42" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title="BgpServer::extcomm_db" alt="" coords="1001,1461,1183,1488"/>
-<area shape="rect" id="node43" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="1021,1563,1163,1589"/>
-<area shape="rect" id="node48" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l::Locate" alt="" coords="1017,1679,1167,1721"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,831,155,857"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a6284dadd76a06f19337a406dba117261" title=" " alt="" coords="217,780,355,807"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="963,1309,1090,1336"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a7819230db440cac8e439079d3228532a" title=" " alt="" coords="203,831,369,857"/>
+<area shape="rect" id="node5" href="$d6/dbd/classBgpRoute.html#a7e852519c415a8d4c21105c6b6061739" title=" " alt="" coords="459,706,600,747"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title=" " alt="" coords="439,772,619,799"/>
+<area shape="rect" id="node7" href="$d6/dbd/classBgpRoute.html#a920acb24e74e3c17b02a583cc874e6df" title=" " alt="" coords="461,823,598,865"/>
+<area shape="rect" id="node8" href="$d6/dbd/classBgpRoute.html#aa2e867e04e2e2fb6e4ef7572ce37f34d" title=" " alt="" coords="453,427,606,453"/>
+<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title=" " alt="" coords="731,97,850,124"/>
+<area shape="rect" id="node19" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="468,889,591,916"/>
+<area shape="rect" id="node20" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title=" " alt="" coords="435,941,623,982"/>
+<area shape="rect" id="node21" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="463,1007,596,1033"/>
+<area shape="rect" id="node22" href="$d7/d0c/classBgpPath.html#ab397c5deabc72573740754e7a62eda0f" title=" " alt="" coords="456,1057,603,1084"/>
+<area shape="rect" id="node23" href="$d7/d0c/classBgpPath.html#a1cd35b90f72792072772d1767349e204" title=" " alt="" coords="463,1108,595,1135"/>
+<area shape="rect" id="node24" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="441,1159,618,1185"/>
+<area shape="rect" id="node25" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="707,47,874,73"/>
+<area shape="rect" id="node26" href="$d6/dbd/classBgpRoute.html#ad3420df3ad3ae94e5eebb7180d6d6519" title=" " alt="" coords="455,604,604,631"/>
+<area shape="rect" id="node33" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="707,1360,874,1387"/>
+<area shape="rect" id="node39" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="731,1411,851,1437"/>
+<area shape="rect" id="node40" href="$de/ddf/classRoutingInstance.html#af94df463231787adb37889c6bcadf905" title=" " alt="" coords="441,1311,617,1353"/>
+<area shape="rect" id="node41" href="$db/d26/classBgpServer.html#ab6e18223d47902accc5601475476a9fa" title=" " alt="" coords="433,1377,625,1418"/>
+<area shape="rect" id="node42" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title=" " alt="" coords="464,1443,595,1469"/>
+<area shape="rect" id="node43" href="$d7/d0c/classBgpPath.html#a6f34789deaa57952ec4927e7096da21e" title=" " alt="" coords="440,1493,619,1520"/>
+<area shape="rect" id="node44" href="$d5/dcf/classBgpAttr.html#ab8ab8451bbf5dbda508f9ff533bda477" title=" " alt="" coords="448,5,611,32"/>
+<area shape="rect" id="node45" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title=" " alt="" coords="464,57,595,98"/>
+<area shape="rect" id="node46" href="$d7/d0c/classBgpPath.html#a61ea93d61b1b699fb0a2a5ca9bc3cfaa" title=" " alt="" coords="430,123,629,149"/>
+<area shape="rect" id="node47" href="$d1/d31/classPathResolver.html#a8c3c2b54f8e09ea65aaef37e6d7b37b5" title=" " alt="" coords="417,275,641,301"/>
+<area shape="rect" id="node48" href="$d1/d31/classPathResolver.html#a779277f5fd63b60121bc26a949102ba5" title=" " alt="" coords="418,224,641,251"/>
+<area shape="rect" id="node49" href="$dd/d38/classIPeer.html#a4770db71267187cf7aa665d344272199" title=" " alt="" coords="475,376,583,403"/>
+<area shape="rect" id="node50" href="$dd/d38/classIPeer.html#ab60bd2f12b278f99df40bc3af16a5195" title=" " alt="" coords="428,655,631,681"/>
+<area shape="rect" id="node10" href="$de/df8/classRoute.html#a7dca06e09d43f3fae87715e0a7dd2454" title=" " alt="" coords="981,249,1072,276"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="709,503,873,529"/>
+<area shape="rect" id="node12" href="$d0/def/classBgpTable.html#aa4e181d0c706e2dd5c1297c8b76a295f" title=" " alt="" coords="708,351,873,377"/>
+<area shape="rect" id="node13" href="$de/df8/classRoute.html#ab99f388a445702c87ca21f45b96d5fbf" title=" " alt="" coords="737,199,844,225"/>
+<area shape="rect" id="node14" href="$de/df8/classRoute.html#a264132d02c781dbbd1750e1fdf35b5dd" title=" " alt="" coords="745,249,836,276"/>
+<area shape="rect" id="node15" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title=" " alt="" coords="969,604,1085,631"/>
+<area shape="rect" id="node16" href="$d0/def/classBgpTable.html#a662ab68d9d3a88dbb287d80c641ca966" title=" " alt="" coords="697,401,885,428"/>
+<area shape="rect" id="node17" href="$d7/d0c/classBgpPath.html#a0de93dc5382dd856005c018722574420" title=" " alt="" coords="689,452,892,479"/>
+<area shape="rect" id="node18" href="$d7/d0c/classBgpPath.html#a8e7b1c967e3831c136b0437319b79dc3" title=" " alt="" coords="951,705,1103,732"/>
+<area shape="rect" id="node27" href="$d7/d0c/classBgpPath.html#a5dcf9fe0877d9a4af9c09c71659e006a" title=" " alt="" coords="695,909,886,950"/>
+<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="961,891,1092,917"/>
+<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title=" " alt="" coords="943,941,1110,968"/>
+<area shape="rect" id="node30" href="$d7/d0c/classBgpPath.html#af2b2b5a28a6bfc8c72ef259c749ca415" title=" " alt="" coords="943,1040,1110,1067"/>
+<area shape="rect" id="node31" href="$d7/d0c/classBgpPath.html#a30771ce924ae11153ed73b80c9b001c0" title=" " alt="" coords="966,1099,1087,1125"/>
+<area shape="rect" id="node32" href="$de/df8/classRoute.html#a8d74e299482bd9229bee96a96c5d6be8" title=" " alt="" coords="741,857,840,884"/>
+<area shape="rect" id="node34" href="$d0/def/classBgpTable.html#ad46a93847708f16e1df23a110fa1d024" title=" " alt="" coords="703,974,879,1015"/>
+<area shape="rect" id="node35" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="957,1157,1097,1198"/>
+<area shape="rect" id="node36" href="$dd/d38/classIPeer.html#a2eea67fd2de1d071eb0c151e9e79d8d7" title=" " alt="" coords="940,1235,1113,1277"/>
+<area shape="rect" id="node37" href="$de/ddf/classRoutingInstance.html#a130434f6ddf85cec84f449816c054bfa" title=" " alt="" coords="704,1091,877,1133"/>
+<area shape="rect" id="node38" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="701,655,880,681"/>
 </map>

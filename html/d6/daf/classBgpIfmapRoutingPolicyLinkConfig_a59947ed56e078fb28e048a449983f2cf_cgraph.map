@@ -1,6 +1,9 @@
 <map id="BgpIfmapRoutingPolicyLinkConfig::GetInstancePolicyPair" name="BgpIfmapRoutingPolicyLinkConfig::GetInstancePolicyPair">
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="269,5,435,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="275,56,429,83"/>
-<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="285,107,419,133"/>
-<area shape="rect" id="node5" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="267,157,437,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,204,149"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="267,5,419,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="272,56,415,83"/>
+<area shape="rect" id="node4" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a40c9b0f0006a0d89ab48c9915955c60a" title=" " alt="" coords="252,107,435,149"/>
+<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="280,173,407,200"/>
+<area shape="rect" id="node7" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="264,224,423,251"/>
+<area shape="rect" id="node5" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="483,115,641,141"/>
 </map>

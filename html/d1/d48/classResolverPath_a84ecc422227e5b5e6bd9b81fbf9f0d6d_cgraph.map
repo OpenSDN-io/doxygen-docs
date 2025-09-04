@@ -1,11 +1,12 @@
 <map id="ResolverPath::~ResolverPath" name="ResolverPath::~ResolverPath">
-<area shape="rect" id="node2" href="$d3/dda/classResolverNexthop.html#af27a6d9f090f0a4acf2a8eac127570d1" title="ResolverNexthop::RemoveResolverPath" alt="" coords="265,71,543,97"/>
-<area shape="rect" id="node10" href="$db/def/classPathResolverPartition.html#a5059037f36fcb80f8eca31086cee6e8e" title="PathResolverPartition\l::part_id" alt="" coords="324,122,484,163"/>
-<area shape="rect" id="node3" href="$d3/dda/classResolverNexthop.html#a470270fe2a327d17b6ea36da2a0b5181" title="ResolverNexthop::empty" alt="" coords="618,41,801,68"/>
-<area shape="rect" id="node9" href="$d1/d31/classPathResolver.html#a064ca1a170e20460042475d38cbfdc27" title="PathResolver::RegisterUnregister\lResolverNexthop" alt="" coords="592,93,827,134"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="875,41,1016,68"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1079,12,1281,39"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1065,63,1295,105"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1344,12,1560,39"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1609,5,1799,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,197,69"/>
+<area shape="rect" id="node2" href="$db/def/classPathResolverPartition.html#a6d5de367750546c3c7e3f82d6b87ccdd" title=" " alt="" coords="298,5,446,47"/>
+<area shape="rect" id="node3" href="$d3/dda/classResolverNexthop.html#af27a6d9f090f0a4acf2a8eac127570d1" title=" " alt="" coords="245,71,499,98"/>
+<area shape="rect" id="node4" href="$d3/dda/classResolverNexthop.html#a4c10dfe0d16516b268cdbc6e9c327d16" title=" " alt="" coords="571,42,737,69"/>
+<area shape="rect" id="node10" href="$d1/d31/classPathResolver.html#a064ca1a170e20460042475d38cbfdc27" title=" " alt="" coords="547,93,761,135"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="809,42,943,69"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1003,13,1189,39"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="991,64,1201,105"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1249,13,1452,39"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1500,5,1677,47"/>
 </map>

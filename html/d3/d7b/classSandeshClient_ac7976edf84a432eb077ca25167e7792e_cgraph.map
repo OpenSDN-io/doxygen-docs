@@ -1,8 +1,7 @@
 <map id="SandeshClient::ReceiveCtrlMsg" name="SandeshClient::ReceiveCtrlMsg">
-<area shape="rect" id="node2" href="$d1/dfd/classSandeshSession.html#a48429daf3c38886d3c0de12cb9818026" title="SandeshSession::DecodeCtrl\lSandesh" alt="" coords="278,5,485,46"/>
-<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a29c9791bca50ddd1413522474c24f136" title="Sandesh::Name" alt="" coords="319,71,443,97"/>
-<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a5819d03363e0b55b11eb918d7ad1af62" title="Sandesh::Release" alt="" coords="313,121,449,148"/>
-<area shape="rect" id="node7" href="$d5/d70/classSandeshUVETypeMaps.html#aab78625cc875d489e5de93b93d075df2" title="SandeshUVETypeMaps\l::SyncAllMaps" alt="" coords="297,173,465,214"/>
-<area shape="rect" id="node3" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title="SandeshBaseFactory\l::CreateInstance" alt="" coords="534,5,690,46"/>
-<area shape="rect" id="node4" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title="SandeshBaseFactory\l::GetMap" alt="" coords="739,5,895,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,212,73"/>
+<area shape="rect" id="node2" href="$d1/dfd/classSandeshSession.html#a48429daf3c38886d3c0de12cb9818026" title=" " alt="" coords="260,5,455,47"/>
+<area shape="rect" id="node5" href="$d5/d70/classSandeshUVETypeMaps.html#aab78625cc875d489e5de93b93d075df2" title=" " alt="" coords="277,71,437,112"/>
+<area shape="rect" id="node3" href="$dc/dbf/classSandeshBaseFactory.html#a70668a049a987b4b606d62fe27e43d0d" title=" " alt="" coords="503,5,651,47"/>
+<area shape="rect" id="node4" href="$dc/dbf/classSandeshBaseFactory.html#a5a277a1159168577ecc40004b9f2c0b4" title=" " alt="" coords="699,5,847,47"/>
 </map>

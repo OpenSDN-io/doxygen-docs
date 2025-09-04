@@ -1,5 +1,10 @@
 <map id="etcd::etcdql::EtcdIf::EtcdAsyncDeleteCall" name="etcd::etcdql::EtcdIf::EtcdAsyncDeleteCall">
-<area shape="rect" id="node2" href="$d1/d78/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncCall.html" title="etcd::etcdql::EtcdIf\l::EtcdAsyncCall" alt="" coords="138,174,280,215"/>
-<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html" title="etcdserverpb::DeleteRange\lResponse" alt="" coords="306,174,504,215"/>
-<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html" title="etcdserverpb::ResponseHeader" alt="" coords="443,83,667,109"/>
+<area shape="rect" id="node1" title=" " alt="" coords="844,118,996,159"/>
+<area shape="rect" id="node2" href="$d1/d78/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncCall.html" title=" " alt="" coords="561,67,693,109"/>
+<area shape="rect" id="node3" title=" " alt="" coords="283,5,385,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="271,56,397,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="304,107,364,133"/>
+<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html" title=" " alt="" coords="536,150,717,191"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,183,181,209"/>
+<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html" title=" " alt="" coords="231,208,437,235"/>
 </map>

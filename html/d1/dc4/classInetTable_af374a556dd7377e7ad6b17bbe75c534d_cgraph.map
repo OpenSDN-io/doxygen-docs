@@ -1,33 +1,38 @@
 <map id="InetTable::GetFabricAttributes" name="InetTable::GetFabricAttributes">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="543,260,740,287"/>
-<area shape="rect" id="node3" href="$d1/d53/classInetRoute.html#ac8caabef2568195a64e0ee94ad8bb935" title="InetRoute::GetPrefix" alt="" coords="293,117,445,144"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="272,67,467,93"/>
-<area shape="rect" id="node12" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="274,219,465,245"/>
-<area shape="rect" id="node13" href="$d3/d22/classIp4Prefix.html#aa6001f2ffdc65e84ffe0be1b7551ee91" title="Ip4Prefix::ip4_addr" alt="" coords="298,269,441,296"/>
-<area shape="rect" id="node14" href="$d3/d22/classIp4Prefix.html#ad9d4d55e21e995a293ce8e48ba570e4c" title="Ip4Prefix::prefixlen" alt="" coords="297,320,441,347"/>
-<area shape="rect" id="node15" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="281,371,457,397"/>
-<area shape="rect" id="node16" href="$d8/d5b/classInetVpnTable.html#ab5d320db574069fac2680a43e39e0c84" title="InetVpnTable::TableFind" alt="" coords="282,168,457,195"/>
-<area shape="rect" id="node19" href="$d1/dc4/classInetTable.html#a561fb8f3d4ae018feca8fc0f9d78e5fd" title="InetTable::UpdateAttributes" alt="" coords="269,472,469,499"/>
-<area shape="rect" id="node32" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="304,523,435,549"/>
-<area shape="rect" id="node5" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="580,41,703,68"/>
-<area shape="rect" id="node11" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="583,92,699,119"/>
-<area shape="rect" id="node6" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="884,41,1025,68"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1159,71,1361,97"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1145,5,1375,46"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1424,71,1640,97"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1689,63,1879,105"/>
-<area shape="rect" id="node17" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title="DBTablePartition::Find" alt="" coords="560,168,723,195"/>
-<area shape="rect" id="node18" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title="DBTablePartition::FindInternal" alt="" coords="848,168,1061,195"/>
-<area shape="rect" id="node20" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="576,560,707,587"/>
-<area shape="rect" id="node21" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="867,589,1042,616"/>
-<area shape="rect" id="node22" href="$da/d36/classExtCommunity.html#aa7a1660cc0a873c71dbaf9abf4364769" title="ExtCommunity::is_origin_vn" alt="" coords="1158,508,1362,535"/>
-<area shape="rect" id="node23" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title="BgpServer::extcomm_db" alt="" coords="550,712,733,739"/>
-<area shape="rect" id="node24" href="$d2/ddb/classExtCommunityDB.html#aeee37a16f9de61d22d55623e442bd633" title="ExtCommunityDB::RemoveOrigin\lVnAndLocate" alt="" coords="522,377,761,418"/>
-<area shape="rect" id="node27" href="$d2/ddb/classExtCommunityDB.html#adabed51b1c1bb5fcadf1a311beb63a88" title="ExtCommunityDB::ReplaceOrigin\lVnAndLocate" alt="" coords="523,311,759,353"/>
-<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="570,443,713,469"/>
-<area shape="rect" id="node30" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title="BgpAttrDB::ReplaceExtCommunity\lAndLocate" alt="" coords="518,494,765,535"/>
-<area shape="rect" id="node25" href="$da/d36/classExtCommunity.html#a66540db4218b1ab16d55edac9866486d" title="ExtCommunity::RemoveOriginVn" alt="" coords="837,363,1072,389"/>
-<area shape="rect" id="node26" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; ExtCommunity, ExtCommunity\lPtr, ExtCommunitySpec, ExtCommunity\lCompare, ExtCommunityDB \&gt;::Locate" alt="" coords="814,414,1095,485"/>
-<area shape="rect" id="node28" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title="ExtCommunity::Append" alt="" coords="867,312,1042,339"/>
-<area shape="rect" id="node31" href="$d5/dcf/classBgpAttr.html#ad3d046d381285d8c5e284616b2805c1b" title="BgpAttr::set_ext_community" alt="" coords="851,509,1059,536"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,309,201,336"/>
+<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html#a4b02953acc3b86b96e71c878a711c0e6" title=" " alt="" coords="270,56,410,83"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="279,107,401,133"/>
+<area shape="rect" id="node7" href="$d1/d53/classInetRoute.html#a30c52d3e405d7be2d61e2527e1e36324" title=" " alt="" coords="269,157,411,184"/>
+<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="251,208,429,235"/>
+<area shape="rect" id="node9" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="249,259,431,285"/>
+<area shape="rect" id="node17" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="257,309,423,336"/>
+<area shape="rect" id="node18" href="$d3/d22/classIp4Prefix.html#a66a20206a407b74a98afedc7327cc688" title=" " alt="" coords="275,360,405,387"/>
+<area shape="rect" id="node19" href="$d3/d22/classIp4Prefix.html#a0216429eefdd5b2bdbbe376154cb96d5" title=" " alt="" coords="275,411,405,437"/>
+<area shape="rect" id="node20" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="503,309,681,336"/>
+<area shape="rect" id="node21" href="$d8/d5b/classInetVpnTable.html#ab5d320db574069fac2680a43e39e0c84" title=" " alt="" coords="259,687,421,713"/>
+<area shape="rect" id="node24" href="$d1/dc4/classInetTable.html#a561fb8f3d4ae018feca8fc0f9d78e5fd" title=" " alt="" coords="249,535,431,561"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="525,5,659,32"/>
+<area shape="rect" id="node4" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="525,56,659,83"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#ae586140cbe5d22634efdd18a06188277" title=" " alt="" coords="521,107,663,133"/>
+<area shape="rect" id="node10" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="537,259,647,285"/>
+<area shape="rect" id="node11" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="534,208,650,235"/>
+<area shape="rect" id="node12" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="816,208,949,235"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1072,237,1259,264"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="1060,171,1271,213"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1319,237,1521,264"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1569,230,1747,271"/>
+<area shape="rect" id="node22" href="$df/d9e/classDBTablePartition.html#ab7d011c96da5a8d842d5270c6a55b073" title=" " alt="" coords="515,811,669,837"/>
+<area shape="rect" id="node23" href="$df/d9e/classDBTablePartition.html#a509062ec1881453da69305ec1c137335" title=" " alt="" coords="784,811,981,837"/>
+<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="527,659,657,685"/>
+<area shape="rect" id="node26" href="$db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b" title=" " alt="" coords="509,709,675,736"/>
+<area shape="rect" id="node27" href="$da/d36/classExtCommunity.html#aa7a1660cc0a873c71dbaf9abf4364769" title=" " alt="" coords="1073,575,1258,601"/>
+<area shape="rect" id="node28" href="$d2/ddb/classExtCommunityDB.html#aeee37a16f9de61d22d55623e442bd633" title=" " alt="" coords="483,426,701,467"/>
+<area shape="rect" id="node31" href="$d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b" title=" " alt="" coords="479,491,705,533"/>
+<area shape="rect" id="node33" href="$d2/ddb/classExtCommunityDB.html#adabed51b1c1bb5fcadf1a311beb63a88" title=" " alt="" coords="483,361,701,402"/>
+<area shape="rect" id="node35" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="532,557,652,584"/>
+<area shape="rect" id="node36" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title=" " alt="" coords="802,597,963,624"/>
+<area shape="rect" id="node29" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="753,441,1012,511"/>
+<area shape="rect" id="node30" href="$da/d36/classExtCommunity.html#a66540db4218b1ab16d55edac9866486d" title=" " alt="" coords="776,389,989,416"/>
+<area shape="rect" id="node32" href="$d5/dcf/classBgpAttr.html#ad3d046d381285d8c5e284616b2805c1b" title=" " alt="" coords="789,536,977,563"/>
+<area shape="rect" id="node34" href="$da/d36/classExtCommunity.html#a6ad50913d33ad415800ab7b3476b03c9" title=" " alt="" coords="803,339,963,365"/>
 </map>

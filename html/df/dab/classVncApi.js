@@ -5,7 +5,7 @@ var classVncApi =
     [ "Add2URI", "df/dab/classVncApi.html#a2fdd6d510fde4ac151a18cc9da9e3afa", null ],
     [ "CondTest", "df/dab/classVncApi.html#a05bc25a284331c6df0aec95d885af43a", null ],
     [ "GetConfig", "df/dab/classVncApi.html#a61d49150ab69737878d199eaafcb904f", null ],
-    [ "GetToken", "df/dab/classVncApi.html#afc51c90d4f338c58bdb8a5717160bd07", null ],
+    [ "GetToken", "df/dab/classVncApi.html#ad812f7273059d8487caed44b5045bac6", null ],
     [ "hex_dump", "df/dab/classVncApi.html#ac3d81f3c3f158f7870cd0d37c752222b", null ],
     [ "KsRespHandler", "df/dab/classVncApi.html#a5ffde6a28e9bf46c8f7f1b81428a0477", null ],
     [ "MakeUri", "df/dab/classVncApi.html#a152957778994f18c6f6186107858336f", null ],

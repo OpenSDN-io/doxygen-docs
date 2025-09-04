@@ -8,7 +8,7 @@ var classGmpProto =
     [ "ClearStats", "dc/d17/classGmpProto.html#a069935e946224adfd6fb89d9b908c465", null ],
     [ "CreateIntf", "dc/d17/classGmpProto.html#aa49538fc11cf4d34ca8acfb4cc7d6d43", null ],
     [ "DeleteIntf", "dc/d17/classGmpProto.html#a0b8905166269831f1cc6ecf4b4d4c92c", null ],
-    [ "GetStats", "dc/d17/classGmpProto.html#a04c9ed97b803d99cd36122ecc39cd369", null ],
+    [ "GetStats", "dc/d17/classGmpProto.html#a8f7b06abcfc77049cd2003f5733b2da3", null ],
     [ "GmpBufferFree", "dc/d17/classGmpProto.html#a037fd84bcd9b1a839dd6550dd4593aa1", null ],
     [ "GmpBufferGet", "dc/d17/classGmpProto.html#a5c6cc11523ae6443b08d2d9fbf9ed2f6", null ],
     [ "GmpIntfSGClear", "dc/d17/classGmpProto.html#aeb253ede236c1742e20a98fc96e527d3", null ],

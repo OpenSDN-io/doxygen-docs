@@ -1,8 +1,11 @@
 <map id="AgentOperDBEntry" name="AgentOperDBEntry">
-<area shape="rect" id="node2" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="21,523,133,549"/>
-<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="40,445,115,472"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="24,368,131,395"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="11,277,143,304"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="24,187,131,213"/>
-<area shape="rect" id="node8" href="$df/d70/classDB.html" title="DB" alt="" coords="97,96,137,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,591,140,617"/>
+<area shape="rect" id="node2" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="19,515,126,541"/>
+<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="36,439,109,465"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="21,363,124,389"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="9,273,136,300"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="21,184,124,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="8,95,63,121"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html" title=" " alt="" coords="89,95,131,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="81,5,139,32"/>
 </map>

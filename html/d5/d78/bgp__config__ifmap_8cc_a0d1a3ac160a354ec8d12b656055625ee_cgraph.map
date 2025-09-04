@@ -1,8 +1,9 @@
 <map id="GetRoutingInstanceRoutingPolicy" name="GetRoutingInstanceRoutingPolicy">
-<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="255,5,422,32"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="255,56,422,83"/>
-<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="261,107,416,133"/>
-<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="271,157,406,184"/>
-<area shape="rect" id="node6" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="254,208,423,235"/>
-<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="269,259,408,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,188,166"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="239,5,391,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="244,56,387,83"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="237,107,394,133"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="250,157,381,184"/>
+<area shape="rect" id="node6" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="252,208,379,235"/>
+<area shape="rect" id="node7" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="236,259,395,285"/>
 </map>

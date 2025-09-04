@@ -1,6 +1,7 @@
 <map id="BgpIfmapInstanceConfig::DeleteNeighbor" name="BgpIfmapInstanceConfig::DeleteNeighbor">
-<area shape="rect" id="node2" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title="BgpConfigManager::server" alt="" coords="235,5,429,32"/>
-<area shape="rect" id="node3" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title="BgpConfigManager::Notify" alt="" coords="236,56,428,83"/>
-<area shape="rect" id="node4" href="$d0/dbd/classBgpNeighborConfig.html#ac34548dc2c52bf891cec6f205000e751" title="BgpNeighborConfig::name" alt="" coords="236,107,428,133"/>
-<area shape="rect" id="node5" href="$d6/ddf/classBgpInstanceConfig.html#a918008040293d1099a90e794a93058d1" title="BgpInstanceConfig::\ldelete_neighbor" alt="" coords="257,158,407,199"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,172,131"/>
+<area shape="rect" id="node2" href="$d6/ddf/classBgpInstanceConfig.html#a918008040293d1099a90e794a93058d1" title=" " alt="" coords="238,5,379,47"/>
+<area shape="rect" id="node3" href="$d0/dbd/classBgpNeighborConfig.html#a568554a8d7ecf79ca9c833e7f87f1657" title=" " alt="" coords="221,71,396,98"/>
+<area shape="rect" id="node4" href="$da/d05/classBgpConfigManager.html#a18ad0af3ad1384406a5309d95a5cd4ff" title=" " alt="" coords="221,122,397,149"/>
+<area shape="rect" id="node5" href="$da/d05/classBgpConfigManager.html#a9fa163d4a53bdb30cdd22b9869a93b71" title=" " alt="" coords="220,173,397,199"/>
 </map>

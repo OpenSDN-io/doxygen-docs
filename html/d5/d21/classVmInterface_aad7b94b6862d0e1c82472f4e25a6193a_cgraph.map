@@ -1,9 +1,13 @@
 <map id="VmInterface::UpdateInterfaceHealthCheckService" name="VmInterface::UpdateInterfaceHealthCheckService">
-<area shape="rect" id="node2" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="283,5,475,46"/>
-<area shape="rect" id="node3" href="$dd/df6/classHealthCheckService.html#a6c9286d19587c46398f1551840e69f28" title="HealthCheckService\l::health_check_type" alt="" coords="302,70,455,111"/>
-<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#aa9f91ab1e8bed9094aabe38c402e0207" title="HealthCheckInstanceBase\l::destination_ip" alt="" coords="283,135,475,177"/>
-<area shape="rect" id="node5" href="$d8/d4e/classHealthCheckInstanceBase.html#aa204d43a924e6f6221f64ffcb831c28d" title="HealthCheckInstanceBase\l::get_source_ip" alt="" coords="283,201,475,242"/>
-<area shape="rect" id="node6" href="$dd/df6/classHealthCheckService.html#a49325837a31d18695cba94b7d33a1975" title="HealthCheckService\l::ResyncHealthCheckInterface" alt="" coords="270,266,487,307"/>
-<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#a0ee9e6bae25a6cddb888259c86b13c09" title="VmInterface::vmi_cfg_uuid" alt="" coords="536,248,733,275"/>
-<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="572,299,697,325"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,224,201,265"/>
+<area shape="rect" id="node2" href="$d8/d4e/classHealthCheckInstanceBase.html#a3327e884001f2ba9f79515aa10944e4c" title=" " alt="" coords="261,5,439,47"/>
+<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a4bb1c5ab24d518a3632dbd51d08c6cb3" title=" " alt="" coords="261,71,439,112"/>
+<area shape="rect" id="node4" href="$dd/df6/classHealthCheckService.html#a233e99280e9c6a431373afe4b7aeff6c" title=" " alt="" coords="279,136,421,177"/>
+<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#a68882086ec8fd17bfbb5d4f4529f635a" title=" " alt="" coords="273,202,427,229"/>
+<area shape="rect" id="node6" href="$d5/d21/classVmInterface.html#a683955e5f281f5e68923b7fcb4d34208" title=" " alt="" coords="255,253,445,295"/>
+<area shape="rect" id="node7" href="$dd/df6/classHealthCheckService.html#a49325837a31d18695cba94b7d33a1975" title=" " alt="" coords="249,319,451,360"/>
+<area shape="rect" id="node10" href="$d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef" title=" " alt="" coords="261,384,439,425"/>
+<area shape="rect" id="node11" href="$d0/dcc/classInterface.html#af0605da7d9b1f9af45c6d428342a6313" title=" " alt="" coords="297,450,403,477"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="531,301,645,327"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#a6359392d9d696bc0b3c777af0417d152" title=" " alt="" coords="499,351,677,378"/>
 </map>

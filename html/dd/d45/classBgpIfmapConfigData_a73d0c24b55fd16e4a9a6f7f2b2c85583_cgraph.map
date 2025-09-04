@@ -1,16 +1,17 @@
 <map id="BgpIfmapConfigData::CreatePeering" name="BgpIfmapConfigData::CreatePeering">
-<area shape="rect" id="node2" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a3db5ff51703236cef1d371fd5f228d2f" title="BgpIfmapPeeringConfig\l::SetNodeProxy" alt="" coords="214,111,389,153"/>
-<area shape="rect" id="node12" href="$d8/d3c/classBgpIfmapPeeringConfig.html#afbd9840c15bcdeaa6f091c2619760183" title="BgpIfmapPeeringConfig\l::node" alt="" coords="214,46,389,87"/>
-<area shape="rect" id="node11" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="459,173,597,200"/>
-<area shape="rect" id="node13" href="$d8/d3c/classBgpIfmapPeeringConfig.html#ae63736c32979ef9dfa52750b4428118e" title="BgpIfmapPeeringConfig\l::instance" alt="" coords="214,229,389,270"/>
-<area shape="rect" id="node14" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5bb63fddafe3f88b6227ff12077130e0" title="BgpIfmapInstanceConfig\l::AddPeering" alt="" coords="211,294,392,335"/>
-<area shape="rect" id="node3" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title="IFMapNodeProxy::Swap" alt="" coords="441,119,615,145"/>
-<area shape="rect" id="node10" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title="IFMapNodeProxy::node" alt="" coords="443,61,613,88"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="664,93,835,120"/>
-<area shape="rect" id="node9" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="682,144,817,171"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="883,5,1109,32"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="901,57,1091,98"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="907,123,1085,149"/>
-<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="893,174,1099,215"/>
-<area shape="rect" id="node15" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a778cd5856921302ac23b4910b65a8a85" title="BgpIfmapPeeringConfig\l::name" alt="" coords="441,294,615,335"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,148,171"/>
+<area shape="rect" id="node2" href="$d6/d53/classBgpIfmapInstanceConfig.html#a5bb63fddafe3f88b6227ff12077130e0" title=" " alt="" coords="196,5,363,47"/>
+<area shape="rect" id="node4" href="$d8/d3c/classBgpIfmapPeeringConfig.html#ae63736c32979ef9dfa52750b4428118e" title=" " alt="" coords="200,71,359,112"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="427,141,557,167"/>
+<area shape="rect" id="node6" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a4c4efa03ad0359232a2578dd6a89185e" title=" " alt="" coords="200,253,359,295"/>
+<area shape="rect" id="node8" href="$d8/d3c/classBgpIfmapPeeringConfig.html#a3db5ff51703236cef1d371fd5f228d2f" title=" " alt="" coords="200,188,359,229"/>
+<area shape="rect" id="node3" href="$d8/d3c/classBgpIfmapPeeringConfig.html#aca3722a1353e73503f9cb35ebf39544d" title=" " alt="" coords="413,5,571,47"/>
+<area shape="rect" id="node7" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="413,253,571,279"/>
+<area shape="rect" id="node9" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title=" " alt="" coords="411,195,573,222"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="621,170,784,197"/>
+<area shape="rect" id="node15" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="639,221,766,247"/>
+<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="839,68,1036,109"/>
+<area shape="rect" id="node12" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="848,133,1027,175"/>
+<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="832,199,1043,226"/>
+<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="854,250,1021,277"/>
 </map>

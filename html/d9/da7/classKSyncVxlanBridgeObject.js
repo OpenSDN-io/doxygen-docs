@@ -6,7 +6,7 @@ var classKSyncVxlanBridgeObject =
     [ "DBToKSyncEntry", "d9/da7/classKSyncVxlanBridgeObject.html#a4c14f47550750b9d2e42501acd8601f7", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d9/da7/classKSyncVxlanBridgeObject.html#a7c715d1b6fc37f081befa66b2b4bbcd7", null ],
     [ "Init", "d9/da7/classKSyncVxlanBridgeObject.html#a8cbbca3f77f9609d4b8474c27955d0e0", null ],
-    [ "ksync", "d9/da7/classKSyncVxlanBridgeObject.html#a7da60b22a99453b9c68290fc396fd3f2", null ],
+    [ "ksync", "d9/da7/classKSyncVxlanBridgeObject.html#aec53f123a0d8a55f4b7e789f04735a13", null ],
     [ "RegisterDBClients", "d9/da7/classKSyncVxlanBridgeObject.html#a707e1ad6cf53dc6ce54028b0d3bdfea2", null ],
     [ "Shutdown", "d9/da7/classKSyncVxlanBridgeObject.html#a284c1eb8e933af17fcfd5b30eb243a58", null ],
     [ "ksync_", "d9/da7/classKSyncVxlanBridgeObject.html#a41625418fce4a21f2eacb1d2fb075b0a", null ]

@@ -22,7 +22,7 @@ var classBridgeAgentRouteTable =
     [ "FindRouteNoLock", "d8/d2e/classBridgeAgentRouteTable.html#a78b7240ac336fa7d2cb97ab12f99d8fb", null ],
     [ "FindVmFromDhcpBinding", "d8/d2e/classBridgeAgentRouteTable.html#acd29ee6fcce85330dcd810fa2aba06ee", null ],
     [ "GetAgentSandesh", "d8/d2e/classBridgeAgentRouteTable.html#a3b1301dc4ab6c8c1809422d9751f1511", null ],
-    [ "GetTableName", "d8/d2e/classBridgeAgentRouteTable.html#a4860fe59764bae802bf315deb0a2ccf1", null ],
-    [ "GetTableType", "d8/d2e/classBridgeAgentRouteTable.html#ac0fe662a25e8ee39c046cc1ed9b3193b", null ],
+    [ "GetTableName", "d8/d2e/classBridgeAgentRouteTable.html#aaf1b404d9b53fb04529a0ee9145024c5", null ],
+    [ "GetTableType", "d8/d2e/classBridgeAgentRouteTable.html#a6ca5f9ef13031a5dbd7be5e0b7fe1a2f", null ],
     [ "walkid_", "d8/d2e/classBridgeAgentRouteTable.html#a3913e9b993ecde21ebed74fee9c4c6fa", null ]
 ];

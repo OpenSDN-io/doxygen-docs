@@ -1,15 +1,16 @@
 <map id="BgpAttrDB" name="BgpAttrDB">
-<area shape="rect" id="node2" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; BgpAttr, BgpAttrPtr,\l BgpAttrSpec, BgpAttrCompare,\l BgpAttrDB \&gt;" alt="" coords="389,6,616,77"/>
-<area shape="rect" id="node13" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,195,358,221"/>
-<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="640,247,856,273"/>
-<area shape="rect" id="node16" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="641,404,855,431"/>
-<area shape="rect" id="node4" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1441,481,1530,508"/>
-<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1093,543,1246,569"/>
-<area shape="rect" id="node6" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="705,635,791,661"/>
-<area shape="rect" id="node7" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,669,354,696"/>
-<area shape="rect" id="node19" href="$df/d70/classDB.html" title="DB" alt="" coords="927,501,969,528"/>
-<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,720,352,747"/>
-<area shape="rect" id="node14" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="1041,239,1298,281"/>
-<area shape="rect" id="node15" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="723,311,773,337"/>
-<area shape="rect" id="node17" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="1046,397,1293,438"/>
+<area shape="rect" id="node1" title=" " alt="" coords="818,45,903,71"/>
+<area shape="rect" id="node2" href="$d6/dd7/classBgpPathAttributeDB.html" title=" " alt="" coords="411,5,620,76"/>
+<area shape="rect" id="node3" href="$db/d26/classBgpServer.html" title=" " alt="" coords="474,103,557,130"/>
+<area shape="rect" id="node4" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="789,214,932,241"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html" title=" " alt="" coords="475,181,556,207"/>
+<area shape="rect" id="node6" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="208,130,319,157"/>
+<area shape="rect" id="node7" title=" " alt="" coords="236,181,291,207"/>
+<area shape="rect" id="node8" title=" " alt="" coords="17,211,76,238"/>
+<area shape="rect" id="node14" href="$df/d70/classDB.html" title=" " alt="" coords="243,79,284,106"/>
+<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="211,294,316,321"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,294,88,321"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="415,231,615,258"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="418,282,613,309"/>
+<area shape="rect" id="node13" title=" " alt="" coords="481,333,549,359"/>
 </map>

@@ -1,3 +1,4 @@
 <map id="aux::NetlinkResponse::NetlinkResponse" name="aux::NetlinkResponse::NetlinkResponse">
-<area shape="rect" id="node2" href="$de/dc3/classaux_1_1NetlinkSocket.html#a1ce0b628aeab6a4f22fc22006a11f72a" title="Returns a reference to the Netlink socket descriptor. " alt="" coords="217,12,383,39"/>
+<area shape="rect" id="node1" title="Construct a NetlinkResponse object from the request message and the Netlink socket." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node2" href="$de/dc3/classaux_1_1NetlinkSocket.html#a6d324e0a253160577bb1c580d5aa7893" title="Returns a reference to the Netlink socket descriptor." alt="" coords="203,13,353,39"/>
 </map>

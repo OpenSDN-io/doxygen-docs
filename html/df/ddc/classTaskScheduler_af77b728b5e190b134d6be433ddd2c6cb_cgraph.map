@@ -1,4 +1,5 @@
 <map id="TaskScheduler::ClearTaskGroupStats" name="TaskScheduler::ClearTaskGroupStats">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary. " alt="" coords="241,5,455,32"/>
-<area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#a1bc0053f611b448ec7ab5bf487fd9ddc" title="TaskGroup::ClearTaskGroup\lStats" alt="" coords="248,57,448,98"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,180,76"/>
+<area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#a1bc0053f611b448ec7ab5bf487fd9ddc" title=" " alt="" coords="235,5,421,47"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="228,71,428,98"/>
 </map>

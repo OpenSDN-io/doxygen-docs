@@ -1,9 +1,10 @@
 <map id="ProuterUveTable::VMInterfaceAdd" name="ProuterUveTable::VMInterfaceAdd">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a8c3d0aba9a0dbe2147147d23a1be1bd7" title="VmInterface::logical\l_interface" alt="" coords="311,5,465,46"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="305,71,471,97"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="294,122,482,163"/>
-<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="301,188,475,215"/>
-<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="544,129,691,156"/>
-<area shape="rect" id="node6" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="531,180,703,207"/>
-<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="753,180,930,207"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,227,120"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="283,5,441,32"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="275,57,449,98"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="287,123,437,149"/>
+<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#a36dd9fb09dc073c023b5c60dbd60edc5" title=" " alt="" coords="293,174,431,215"/>
+<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="509,64,647,91"/>
+<area shape="rect" id="node5" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="497,115,659,141"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="707,115,873,141"/>
 </map>

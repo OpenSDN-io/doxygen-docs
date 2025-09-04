@@ -1,8 +1,11 @@
 <map id="InstanceManager::OnErrorEventHandler" name="InstanceManager::OnErrorEventHandler">
-<area shape="rect" id="node2" href="$d2/d17/classInstanceManager.html#af63650143cdfcdefcb7bd6828855ccf9" title="InstanceManager::GetSvcInstance" alt="" coords="245,13,488,40"/>
-<area shape="rect" id="node3" href="$d2/d17/classInstanceManager.html#a783cf7b883c5a430aa11b36545748407" title="InstanceManager::GetState" alt="" coords="267,64,466,91"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="539,35,711,61"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#aba50fab5e810df7214a574f8aaf55f55" title="Agent::service_instance\l_table" alt="" coords="537,86,714,127"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="763,5,989,32"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="781,57,971,98"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,119,180,160"/>
+<area shape="rect" id="node2" href="$d2/d17/classInstanceManager.html#a7df2fe090ba26902451f3948ecfca088" title=" " alt="" coords="248,75,431,102"/>
+<area shape="rect" id="node7" href="$d2/d17/classInstanceManager.html#a23a9a3a5eae605fdfb82cd090fa4fa4b" title=" " alt="" coords="228,126,451,153"/>
+<area shape="rect" id="node8" href="$d1/d03/classInstanceState.html#ad73aaf645c266e6119b0e671484fa45e" title=" " alt="" coords="275,177,404,219"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="499,42,661,69"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#acafad075dd6b41fd905ec1d1a38a158c" title=" " alt="" coords="499,93,661,135"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="725,5,904,47"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="709,71,920,98"/>
+<area shape="rect" id="node9" href="$d1/d03/classInstanceState.html#a52ed535ef94f2c9d7b92d29add7d90f7" title=" " alt="" coords="507,185,653,211"/>
 </map>

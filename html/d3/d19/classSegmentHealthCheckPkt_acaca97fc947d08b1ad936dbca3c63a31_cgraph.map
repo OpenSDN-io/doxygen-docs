@@ -1,10 +1,11 @@
 <map id="SegmentHealthCheckPkt::UpdateService" name="SegmentHealthCheckPkt::UpdateService">
-<area shape="rect" id="node2" href="$d3/d19/classSegmentHealthCheckPkt.html#a8f1a8c7935736a1944b6cd463f021a63" title="SegmentHealthCheckPkt\l::GetDelay" alt="" coords="237,74,421,115"/>
-<area shape="rect" id="node6" href="$d3/d19/classSegmentHealthCheckPkt.html#a46c3fd57438b80e0dbbce4383c47578b" title="SegmentHealthCheckPkt\l::GetTimeout" alt="" coords="237,194,421,235"/>
-<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="469,135,661,177"/>
-<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#a11908f903749eb24a02dc436f742fe3f" title="HealthCheckService\l::max_retries" alt="" coords="253,259,406,301"/>
-<area shape="rect" id="node4" href="$dd/df6/classHealthCheckService.html#a854170581581ad536da4600135c21b67" title="HealthCheckService\l::delay" alt="" coords="489,5,642,46"/>
-<area shape="rect" id="node5" href="$dd/df6/classHealthCheckService.html#a8324b92d108d3aaec82b25a1bc342b3b" title="HealthCheckService\l::delay_usecs" alt="" coords="489,70,642,111"/>
-<area shape="rect" id="node7" href="$dd/df6/classHealthCheckService.html#ae73c232afc4b9e36357c980cb16cb7e4" title="HealthCheckService\l::timeout" alt="" coords="489,266,642,307"/>
-<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#a60bc043f030cefbf520d71967f0ea233" title="HealthCheckService\l::timeout_usecs" alt="" coords="489,201,642,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,176,207"/>
+<area shape="rect" id="node2" href="$d3/d19/classSegmentHealthCheckPkt.html#a16e8a433ade581f252eacffe68c40d06" title=" " alt="" coords="224,75,395,116"/>
+<area shape="rect" id="node5" href="$d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef" title=" " alt="" coords="443,136,621,177"/>
+<area shape="rect" id="node6" href="$d3/d19/classSegmentHealthCheckPkt.html#a5ff1cd29aecf2de0d2ac4fc0e91a4815" title=" " alt="" coords="224,195,395,236"/>
+<area shape="rect" id="node9" href="$dd/df6/classHealthCheckService.html#a7d300ae163cf5c66b9aca38ddfaf0a7b" title=" " alt="" coords="238,260,381,301"/>
+<area shape="rect" id="node3" href="$dd/df6/classHealthCheckService.html#a26bcf7c5fcc775ae49126d48e4b1debd" title=" " alt="" coords="461,5,603,47"/>
+<area shape="rect" id="node4" href="$dd/df6/classHealthCheckService.html#af4644f77a03495e25cffd3b3a12ae674" title=" " alt="" coords="461,71,603,112"/>
+<area shape="rect" id="node7" href="$dd/df6/classHealthCheckService.html#aae28a19fd07d8539733f92c66e5db78a" title=" " alt="" coords="461,201,603,243"/>
+<area shape="rect" id="node8" href="$dd/df6/classHealthCheckService.html#ac9a0d9712e1eb6446084b68ba8527762" title=" " alt="" coords="461,267,603,308"/>
 </map>

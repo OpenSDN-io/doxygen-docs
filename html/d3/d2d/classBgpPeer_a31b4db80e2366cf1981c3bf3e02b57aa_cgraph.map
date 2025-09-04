@@ -1,8 +1,9 @@
 <map id="BgpPeer::GetMpNlriNexthop" name="BgpPeer::GetMpNlriNexthop">
-<area shape="rect" id="node2" href="$de/d6b/classAddress.html#ab34d7c07e9ade3c2ac3c7ef4654b2b77" title="Address::V4FromV4MappedV6" alt="" coords="259,5,475,32"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="295,56,438,83"/>
-<area shape="rect" id="node4" href="$d7/d34/classBgpAttrDB.html#a517fa916d32aa26ae794101bd51a5144" title="BgpAttrDB::ReplaceNexthop\lAndLocate" alt="" coords="265,107,469,149"/>
-<area shape="rect" id="node5" href="$d5/dcf/classBgpAttr.html#aa19054994d2f1d04936cffa1f4791038" title="BgpAttr::set_nexthop" alt="" coords="557,77,715,104"/>
-<area shape="rect" id="node7" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l\&lt; BgpAttr, BgpAttrPtr,\l BgpAttrSpec, BgpAttrCompare,\l BgpAttrDB \&gt;::Locate" alt="" coords="523,129,749,199"/>
-<area shape="rect" id="node6" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="798,77,930,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,192,91"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="276,6,407,33"/>
+<area shape="rect" id="node3" href="$d7/d34/classBgpAttrDB.html#a517fa916d32aa26ae794101bd51a5144" title=" " alt="" coords="247,57,436,99"/>
+<area shape="rect" id="node7" href="$de/d6b/classAddress.html#ab34d7c07e9ade3c2ac3c7ef4654b2b77" title=" " alt="" coords="240,123,443,150"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="491,5,700,76"/>
+<area shape="rect" id="node5" href="$d5/dcf/classBgpAttr.html#aa19054994d2f1d04936cffa1f4791038" title=" " alt="" coords="523,101,668,127"/>
+<area shape="rect" id="node6" href="$d5/dcf/classBgpAttr.html#aadbcc5fe5aa55782c1d7fcc5b7b304dd" title=" " alt="" coords="748,101,868,127"/>
 </map>

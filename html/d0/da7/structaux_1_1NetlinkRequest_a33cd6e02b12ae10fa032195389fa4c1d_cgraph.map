@@ -1,3 +1,4 @@
 <map id="aux::NetlinkRequest::insert_attr" name="aux::NetlinkRequest::insert_attr">
-<area shape="rect" id="node2" href="$df/d1f/namespaceaux.html#ada23bf2f00c991e9fb45a42ee99f8464" title="A wrapper function to insert an attribute into a netlink message. " alt="" coords="209,12,330,39"/>
+<area shape="rect" id="node1" title="Inserts an attribute stored in attr_data into this Netlink reequest." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$df/d1f/namespaceaux.html#ada23bf2f00c991e9fb45a42ee99f8464" title="A wrapper function to insert an attribute into a netlink message." alt="" coords="192,13,301,39"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="AgentInit::CreateModulesBase" name="AgentInit::CreateModulesBase">
-<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391" title="AgentInit::agent" alt="" coords="302,5,429,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a81b4f80493d50571326321b21739a284" title="Agent::set_event_notifier" alt="" coords="273,56,458,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a64aea0113839097a37c65dd9346bfca8" title="Agent::set_stats" alt="" coords="302,107,429,133"/>
-<area shape="rect" id="node6" href="$d8/d16/classAgentInit.html#a75658036fa4a285dd34d8580e3b629a4" title="AgentInit::CreateModules" alt="" coords="272,157,459,184"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="507,107,607,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,205,108"/>
+<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#afb41d5e09913db8d0262060dcdefd864" title=" " alt="" coords="281,5,396,32"/>
+<area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#a75658036fa4a285dd34d8580e3b629a4" title=" " alt="" coords="253,56,424,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a81b4f80493d50571326321b21739a284" title=" " alt="" coords="255,107,422,133"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a64aea0113839097a37c65dd9346bfca8" title=" " alt="" coords="279,157,398,184"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#ad2407e84fb59a24da5d98907217daf10" title=" " alt="" coords="472,157,565,184"/>
 </map>

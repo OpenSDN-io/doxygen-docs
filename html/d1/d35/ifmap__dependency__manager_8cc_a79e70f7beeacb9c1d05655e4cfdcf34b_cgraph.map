@@ -1,25 +1,27 @@
 <map id="RegisterConfigHandler" name="RegisterConfigHandler">
-<area shape="rect" id="node2" href="$dd/dd0/classIFMapDependencyManager.html#ac4a7e1e812932143546d9571a73991fa" title="IFMapDependencyManager\l::Register" alt="" coords="221,243,419,285"/>
-<area shape="rect" id="node3" href="$d6/dee/classAgentOperDBTable.html#a57c2e0d000bceab6bdddb059a76f23f6" title="AgentOperDBTable::Config\lEventHandler" alt="" coords="223,309,417,350"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="493,5,651,32"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="512,56,632,83"/>
-<area shape="rect" id="node6" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title="OperDB::dependency\l_manager" alt="" coords="493,107,651,149"/>
-<area shape="rect" id="node7" href="$db/d09/classAgentDBTable.html#af433317d1648c6f13434b509ad9b8df7" title="AgentDBTable::IFNodeToUuid" alt="" coords="467,173,677,200"/>
-<area shape="rect" id="node8" href="$dd/dd0/classIFMapDependencyManager.html#a3bf8c7a26a5d9ab90ffefcd6c9113d2c" title="IFMapDependencyManager\l::IFMapNodeGet" alt="" coords="473,225,671,266"/>
-<area shape="rect" id="node14" href="$de/d02/classIFMapNodeState.html#a12083a5674b2d84cd01de0f7fd821bbe" title="IFMapNodeState::uuid" alt="" coords="490,291,654,317"/>
-<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="483,341,661,368"/>
-<area shape="rect" id="node16" href="$db/d09/classAgentDBTable.html#aa7ac0b3ff261274f7c363fe7676f1a66" title="AgentDBTable::IFNodeToReq" alt="" coords="470,392,674,419"/>
-<area shape="rect" id="node17" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="487,509,657,536"/>
-<area shape="rect" id="node20" href="$dd/dd0/classIFMapDependencyManager.html#a6d05af5bc3d057178eccda11649b8846" title="IFMapDependencyManager\l::IsNodeIdentifiedByUuid" alt="" coords="473,443,671,485"/>
-<area shape="rect" id="node22" href="$de/d02/classIFMapNodeState.html#a7c17347346e2f4ceeafb2d8aa93bedb9" title="IFMapNodeState::set_uuid" alt="" coords="477,560,667,587"/>
-<area shape="rect" id="node23" href="$de/d02/classIFMapNodeState.html#a5018f926dc2168d91e1e5a7981aa8937" title="IFMapNodeState::set\l_oper_db_request_enqueued" alt="" coords="468,611,676,653"/>
-<area shape="rect" id="node9" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="746,345,881,372"/>
-<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="737,232,889,259"/>
-<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="727,289,899,316"/>
-<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="949,453,1176,480"/>
-<area shape="rect" id="node13" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="968,282,1157,323"/>
-<area shape="rect" id="node18" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="750,459,877,485"/>
-<area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="725,509,901,536"/>
-<area shape="rect" id="node21" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="729,408,898,435"/>
-<area shape="rect" id="node24" href="$de/d02/classIFMapNodeState.html#a5097253b5b0e36022e923db44a518c1d" title="IFMapNodeState::oper\l_db_request_enqueued" alt="" coords="727,611,899,653"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,355,159,381"/>
+<area shape="rect" id="node2" href="$d6/dee/classAgentOperDBTable.html#a57c2e0d000bceab6bdddb059a76f23f6" title=" " alt="" coords="208,314,388,355"/>
+<area shape="rect" id="node25" href="$dd/dd0/classIFMapDependencyManager.html#ac4a7e1e812932143546d9571a73991fa" title=" " alt="" coords="207,379,389,421"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="463,11,610,37"/>
+<area shape="rect" id="node4" href="$dc/dff/classOperDB.html#ac7e651611596ecc188093b1e3f8375e4" title=" " alt="" coords="463,62,610,103"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="456,128,617,155"/>
+<area shape="rect" id="node10" href="$dd/dd0/classIFMapDependencyManager.html#a3bf8c7a26a5d9ab90ffefcd6c9113d2c" title=" " alt="" coords="445,179,628,221"/>
+<area shape="rect" id="node15" href="$db/d09/classAgentDBTable.html#aa7ac0b3ff261274f7c363fe7676f1a66" title=" " alt="" coords="439,245,634,272"/>
+<area shape="rect" id="node16" href="$db/d09/classAgentDBTable.html#af433317d1648c6f13434b509ad9b8df7" title=" " alt="" coords="437,296,636,323"/>
+<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="453,347,620,373"/>
+<area shape="rect" id="node18" href="$dd/dd0/classIFMapDependencyManager.html#a6d05af5bc3d057178eccda11649b8846" title=" " alt="" coords="445,398,628,439"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="481,464,592,491"/>
+<area shape="rect" id="node21" href="$de/d02/classIFMapNodeState.html#a5018f926dc2168d91e1e5a7981aa8937" title=" " alt="" coords="443,515,631,557"/>
+<area shape="rect" id="node23" href="$de/d02/classIFMapNodeState.html#a7c17347346e2f4ceeafb2d8aa93bedb9" title=" " alt="" coords="447,581,626,608"/>
+<area shape="rect" id="node24" href="$de/d02/classIFMapNodeState.html#a12083a5674b2d84cd01de0f7fd821bbe" title=" " alt="" coords="460,632,613,659"/>
+<area shape="rect" id="node6" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="684,5,881,32"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="723,56,842,83"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="929,128,1140,155"/>
+<area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="699,157,866,184"/>
+<area shape="rect" id="node11" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="701,208,864,235"/>
+<area shape="rect" id="node13" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="711,259,854,285"/>
+<area shape="rect" id="node14" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="719,321,846,348"/>
+<area shape="rect" id="node12" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="945,201,1124,242"/>
+<area shape="rect" id="node19" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="703,405,862,432"/>
+<area shape="rect" id="node22" href="$de/d02/classIFMapNodeState.html#a18b9f91bd63fe226f15db5901970cd78" title=" " alt="" coords="705,515,861,557"/>
 </map>

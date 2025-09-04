@@ -1,8 +1,9 @@
 <map id="RoutingInstanceMgr::LocateTraceBuffer" name="RoutingInstanceMgr::LocateTraceBuffer">
-<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#ad3f885eb40ef258078ed78847b7c4dab" title="RoutingInstanceMgr\l::GetActiveTraceBuffer" alt="" coords="206,5,373,46"/>
-<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#adc9a1678580898f134d26aecf9575023" title="RoutingInstanceMgr\l::GetTraceBuffer" alt="" coords="214,70,365,111"/>
-<area shape="rect" id="node4" href="$d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492" title="SandeshTraceBufferCreate" alt="" coords="422,77,615,104"/>
-<area shape="rect" id="node5" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Trace::GetInstance" alt="" coords="666,52,809,79"/>
-<area shape="rect" id="node7" href="$d4/d8b/classTrace.html#a19e877455bf7fc168d0dcd0cfa733f70" title="Trace::TraceBufAdd" alt="" coords="665,103,810,129"/>
-<area shape="rect" id="node6" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Trace::Trace" alt="" coords="859,52,957,79"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,144,80"/>
+<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#ad9864fba8c4b26fa664647d16354e9ac" title=" " alt="" coords="192,5,345,47"/>
+<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#adc9a1678580898f134d26aecf9575023" title=" " alt="" coords="199,71,338,112"/>
+<area shape="rect" id="node4" href="$d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492" title=" " alt="" coords="393,78,572,105"/>
+<area shape="rect" id="node5" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title=" " alt="" coords="622,53,755,79"/>
+<area shape="rect" id="node7" href="$d4/d8b/classTrace.html#a19e877455bf7fc168d0dcd0cfa733f70" title=" " alt="" coords="620,103,757,130"/>
+<area shape="rect" id="node6" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="805,53,900,79"/>
 </map>

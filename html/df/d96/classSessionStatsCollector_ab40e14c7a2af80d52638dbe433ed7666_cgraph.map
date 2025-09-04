@@ -1,8 +1,9 @@
 <map id="SessionStatsCollector::EnqueueSessionMsg" name="SessionStatsCollector::EnqueueSessionMsg">
-<area shape="rect" id="node2" href="$d4/d59/classAgentUveBase.html#ab157dc970a1c99086be05be9658b6e4f" title="AgentUveBase::agent" alt="" coords="240,5,403,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae8ee3a20def9370096d09a536d2f9f9f" title="Agent::params" alt="" coords="263,56,380,83"/>
-<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#a1f5b862ae5af51788ee1b1ea797f74a7" title="AgentParam::max_endpoints\l_per_session_msg" alt="" coords="217,107,426,149"/>
-<area shape="rect" id="node5" href="$df/d96/classSessionStatsCollector.html#ac1c63240e8deb2511f88c1a458414d1b" title="SessionStatsCollector\l::DispatchSessionMsg" alt="" coords="240,173,403,214"/>
-<area shape="rect" id="node6" href="$d0/d29/classFlowStatsManager.html#aef3c358df2fc8d27d53c64364897de0f" title="FlowStatsManager::Update\lSessionMsgExportStats" alt="" coords="475,139,671,181"/>
-<area shape="rect" id="node7" href="$d0/d29/classFlowStatsManager.html#a16f9a9770f63657c60597588b111e421" title="FlowStatsManager::Update\lSessionSampleExportStats" alt="" coords="475,205,671,246"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,159,131"/>
+<area shape="rect" id="node2" href="$d4/d59/classAgentUveBase.html#a33acd60a101cffce3a1c413714afca67" title=" " alt="" coords="227,5,377,32"/>
+<area shape="rect" id="node3" href="$df/d96/classSessionStatsCollector.html#ac1c63240e8deb2511f88c1a458414d1b" title=" " alt="" coords="225,57,379,98"/>
+<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#ab01e3031f6a7fbc57540bd9353683d88" title=" " alt="" coords="207,122,397,163"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a40469a62dd1c93712c9164c8240f0021" title=" " alt="" coords="249,188,355,215"/>
+<area shape="rect" id="node4" href="$d0/d29/classFlowStatsManager.html#aef3c358df2fc8d27d53c64364897de0f" title=" " alt="" coords="446,25,627,66"/>
+<area shape="rect" id="node5" href="$d0/d29/classFlowStatsManager.html#a16f9a9770f63657c60597588b111e421" title=" " alt="" coords="445,90,628,131"/>
 </map>

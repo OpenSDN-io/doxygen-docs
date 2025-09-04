@@ -1,7 +1,8 @@
 <map id="ConcurrencyScope::SetRunningTask" name="ConcurrencyScope::SetRunningTask">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="319,12,521,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#afec2fb95fb2ccf1544e29f3f39ddaa5e" title="This function should not be called in production code. It is only for unit testing to control current..." alt="" coords="307,63,533,89"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="581,12,797,39"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="846,5,1037,46"/>
-<area shape="rect" id="node6" href="$d5/db9/namespacebgp__log__test.html#a1075ea28d59f44dbfb7fd533bc2ddd54" title="bgp_log_test::unit_test" alt="" coords="604,63,775,89"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,243,65"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="303,13,490,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#afec2fb95fb2ccf1544e29f3f39ddaa5e" title="This function should not be called in production code. It is only for unit testing to control current..." alt="" coords="291,63,503,90"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="551,13,753,39"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="801,5,979,47"/>
+<area shape="rect" id="node6" href="$d5/db9/namespacebgp__log__test.html#a1075ea28d59f44dbfb7fd533bc2ddd54" title=" " alt="" coords="575,63,729,90"/>
 </map>

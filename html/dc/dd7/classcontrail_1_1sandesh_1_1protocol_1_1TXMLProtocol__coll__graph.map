@@ -1,7 +1,9 @@
 <map id="contrail::sandesh::protocol::TXMLProtocol" name="contrail::sandesh::protocol::TXMLProtocol">
-<area shape="rect" id="node2" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title="contrail::sandesh::\lprotocol::TVirtualProtocol\l\&lt; TXMLProtocol \&gt;" alt="" coords="493,5,680,61"/>
-<area shape="rect" id="node3" href="$d3/da4/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolDefaults.html" title="contrail::sandesh::\lprotocol::TProtocolDefaults" alt="" coords="201,13,399,54"/>
-<area shape="rect" id="node4" href="$d9/de9/classcontrail_1_1sandesh_1_1protocol_1_1TProtocol.html" title="contrail::sandesh::\lprotocol::TProtocol" alt="" coords="5,13,149,54"/>
-<area shape="rect" id="node5" href="$d7/db7/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol_1_1LookaheadReader.html" title="contrail::sandesh::\lprotocol::TXMLProtocol\l::LookaheadReader" alt="" coords="501,85,672,141"/>
-<area shape="rect" id="node6" href="$d8/dcc/classcontrail_1_1sandesh_1_1transport_1_1TTransport.html" title="contrail::sandesh::\ltransport::TTransport" alt="" coords="221,131,379,173"/>
+<area shape="rect" id="node1" title=" " alt="" coords="745,99,904,141"/>
+<area shape="rect" id="node2" href="$db/d8c/classcontrail_1_1sandesh_1_1protocol_1_1TVirtualProtocol.html" title=" " alt="" coords="457,5,628,61"/>
+<area shape="rect" id="node3" href="$d3/da4/classcontrail_1_1sandesh_1_1protocol_1_1TProtocolDefaults.html" title=" " alt="" coords="187,13,368,54"/>
+<area shape="rect" id="node4" href="$d9/de9/classcontrail_1_1sandesh_1_1protocol_1_1TProtocol.html" title=" " alt="" coords="5,13,137,54"/>
+<area shape="rect" id="node5" href="$d7/db7/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol_1_1LookaheadReader.html" title=" " alt="" coords="463,148,622,204"/>
+<area shape="rect" id="node6" href="$d8/dcc/classcontrail_1_1sandesh_1_1transport_1_1TTransport.html" title=" " alt="" coords="205,106,350,147"/>
+<area shape="rect" id="node7" title=" " alt="" coords="515,228,570,255"/>
 </map>

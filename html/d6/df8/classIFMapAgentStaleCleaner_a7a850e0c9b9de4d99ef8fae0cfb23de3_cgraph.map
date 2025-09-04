@@ -1,26 +1,27 @@
 <map id="IFMapAgentStaleCleaner::Clear" name="IFMapAgentStaleCleaner::Clear">
-<area shape="rect" id="node2" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title="DB::FindTable" alt="" coords="269,193,379,220"/>
-<area shape="rect" id="node3" href="$d5/d9c/classIFMapLinkTable.html#a20e0c993807794de518924629c70228f" title="IFMapLinkTable::Clear" alt="" coords="243,244,405,271"/>
-<area shape="rect" id="node22" href="$d1/d09/classIFMapTable.html#ac3b48487dc45bdc5bcf34630e457e6be" title="IFMapTable::ClearTables" alt="" coords="235,447,413,473"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="464,67,659,93"/>
-<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a8e7297c80490c6cdf1180f123fb80e4d" title="DBTableBase::HasListeners" alt="" coords="462,117,661,144"/>
-<area shape="rect" id="node13" href="$df/d9e/classDBTablePartition.html#ae6d3dc74129d1e88f4b4d014b31cc040" title="DBTablePartition::GetFirst" alt="" coords="468,168,655,195"/>
-<area shape="rect" id="node14" href="$df/d9e/classDBTablePartition.html#aa06a20a900892cd9b2b663679b6afde5" title="DBTablePartition::GetNext" alt="" coords="466,219,657,245"/>
-<area shape="rect" id="node15" href="$d4/d52/classDBGraphTable.html#ac6c155d4b8e944e5162b2993875bcbd3" title="DBGraphTable::graph" alt="" coords="482,269,641,296"/>
-<area shape="rect" id="node16" href="$d0/d0c/classDBGraph.html#a4079e01102a2fcb4ca9bcd02ac306076" title="DBGraph::Unlink" alt="" coords="496,320,627,347"/>
-<area shape="rect" id="node19" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title="DBTablePartBase::Delete" alt="" coords="470,371,653,397"/>
-<area shape="rect" id="node5" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="744,41,867,68"/>
-<area shape="rect" id="node11" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="747,92,863,119"/>
-<area shape="rect" id="node6" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="968,41,1109,68"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1191,12,1393,39"/>
-<area shape="rect" id="node10" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1177,63,1407,105"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1456,12,1672,39"/>
-<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1721,5,1911,46"/>
-<area shape="rect" id="node17" href="$d6/d21/classDBGraphEdge.html#a2fe20cc5a5fa471d695a9a86d2f272a6" title="DBGraphEdge::edge_id" alt="" coords="720,320,891,347"/>
-<area shape="rect" id="node18" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="950,320,1127,347"/>
-<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title="DBEntryBase::MarkDelete" alt="" coords="710,371,901,397"/>
-<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="721,421,890,448"/>
-<area shape="rect" id="node23" href="$df/d70/classDB.html#a2ef8d2c4b8ceef5522739bea01c022f5" title="DB::lower_bound" alt="" coords="495,421,627,448"/>
-<area shape="rect" id="node24" href="$df/d70/classDB.html#a77c857fc83a14f1cd0b0526b2917da26" title="DB::end" alt="" coords="525,472,598,499"/>
-<area shape="rect" id="node25" href="$d1/d09/classIFMapTable.html#a69c82d6340c6344d65616597624dd4b3" title="IFMapTable::Clear" alt="" coords="493,523,629,549"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,403,173,445"/>
+<area shape="rect" id="node2" href="$d5/d9c/classIFMapLinkTable.html#a20e0c993807794de518924629c70228f" title=" " alt="" coords="228,208,381,235"/>
+<area shape="rect" id="node21" href="$d1/d09/classIFMapTable.html#ac3b48487dc45bdc5bcf34630e457e6be" title=" " alt="" coords="221,411,388,437"/>
+<area shape="rect" id="node25" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title=" " alt="" coords="252,461,357,488"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a866048e74826317ec97c1a8424bdc5e0" title=" " alt="" coords="443,31,617,57"/>
+<area shape="rect" id="node6" href="$df/d9e/classDBTablePartition.html#ae6d3dc74129d1e88f4b4d014b31cc040" title=" " alt="" coords="441,81,619,108"/>
+<area shape="rect" id="node7" href="$df/d9e/classDBTablePartition.html#aa06a20a900892cd9b2b663679b6afde5" title=" " alt="" coords="441,132,619,159"/>
+<area shape="rect" id="node8" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="439,183,621,209"/>
+<area shape="rect" id="node16" href="$d4/d52/classDBGraphTable.html#a8393a17bf9fb1f791c0c1877a2a13e68" title=" " alt="" coords="457,233,603,260"/>
+<area shape="rect" id="node17" href="$d7/df2/classDBTableBase.html#a77f9e87025bd117e52b8d9a9dbde8a10" title=" " alt="" coords="436,284,624,311"/>
+<area shape="rect" id="node18" href="$d0/d0c/classDBGraph.html#a4079e01102a2fcb4ca9bcd02ac306076" title=" " alt="" coords="469,335,591,361"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="682,5,841,32"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a07f430909d328ed3ab11502ca1c4317a" title=" " alt="" coords="672,56,851,83"/>
+<area shape="rect" id="node9" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="706,157,817,184"/>
+<area shape="rect" id="node10" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="703,208,819,235"/>
+<area shape="rect" id="node11" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="915,208,1049,235"/>
+<area shape="rect" id="node12" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1125,179,1312,205"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="1113,230,1324,271"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1372,179,1575,205"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1623,171,1800,213"/>
+<area shape="rect" id="node19" href="$d6/d21/classDBGraphEdge.html#a568cfae1d93e564aa16caf22b5a53f08" title=" " alt="" coords="682,335,841,361"/>
+<area shape="rect" id="node20" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="899,335,1065,361"/>
+<area shape="rect" id="node22" href="$d1/d09/classIFMapTable.html#a69c82d6340c6344d65616597624dd4b3" title=" " alt="" coords="465,385,595,412"/>
+<area shape="rect" id="node23" href="$df/d70/classDB.html#a77c857fc83a14f1cd0b0526b2917da26" title=" " alt="" coords="495,436,565,463"/>
+<area shape="rect" id="node24" href="$df/d70/classDB.html#a2ef8d2c4b8ceef5522739bea01c022f5" title=" " alt="" coords="469,487,591,513"/>
 </map>

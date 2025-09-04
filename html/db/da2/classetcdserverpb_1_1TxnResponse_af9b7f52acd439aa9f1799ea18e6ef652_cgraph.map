@@ -1,7 +1,8 @@
 <map id="etcdserverpb::TxnResponse::SerializeWithCachedSizes" name="etcdserverpb::TxnResponse::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a709dd39426284e56ce0f482f84502b37" title="etcdserverpb::TxnResponse\l::has_header" alt="" coords="257,5,458,46"/>
-<area shape="rect" id="node4" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a59277095d09e8004eb84069b32828a09" title="etcdserverpb::TxnResponse\l::succeeded" alt="" coords="257,70,458,111"/>
-<area shape="rect" id="node5" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a55e5fdf3a1d37150f90c58257f98ad26" title="etcdserverpb::TxnResponse\l::responses_size" alt="" coords="257,135,458,177"/>
-<area shape="rect" id="node6" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#ae4a30a05a7c88311f2c7bfcf748ba128" title="etcdserverpb::TxnResponse\l::responses" alt="" coords="257,201,458,242"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="507,5,731,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,192,145"/>
+<area shape="rect" id="node2" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a67204d378919877af6112e9f6ca0f5a0" title=" " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node4" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a87b3a05769d7990394e7c74f99ed100f" title=" " alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node5" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a67bb8eadd60621a11d5af4947a34f6c4" title=" " alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node6" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#ab9c1206fddc9d79c8f5a2370ad4b4873" title=" " alt="" coords="240,201,427,243"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="475,5,681,47"/>
 </map>

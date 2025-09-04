@@ -1,11 +1,12 @@
 <map id="mvccpb::Event::MergeFrom" name="mvccpb::Event::MergeFrom">
-<area shape="rect" id="node2" href="$dd/d5a/classmvccpb_1_1Event.html#a6b24a141d713eee0b798f103f42168ab" title="mvccpb::Event::has_kv" alt="" coords="269,5,441,32"/>
-<area shape="rect" id="node4" href="$dd/d5a/classmvccpb_1_1Event.html#acd14ee6555f4bfed9b216f494ebfc773" title="mvccpb::Event::mutable_kv" alt="" coords="253,56,456,83"/>
-<area shape="rect" id="node5" href="$dd/d5a/classmvccpb_1_1Event.html#a964af331e4748dc379c6e68fd0a592af" title="mvccpb::Event::kv" alt="" coords="283,107,426,133"/>
-<area shape="rect" id="node6" href="$dd/d5a/classmvccpb_1_1Event.html#a6071460bd2ce75b1f2034967cf9c5c67" title="mvccpb::Event::has\l_prev_kv" alt="" coords="280,158,429,199"/>
-<area shape="rect" id="node7" href="$dd/d5a/classmvccpb_1_1Event.html#a282e33ef334dad97092d549b0fe1cb48" title="mvccpb::Event::mutable\l_prev_kv" alt="" coords="265,223,445,265"/>
-<area shape="rect" id="node8" href="$dd/d5a/classmvccpb_1_1Event.html#a41f7a5c6fe8b164a46a65da3dbb8f00e" title="mvccpb::Event::prev_kv" alt="" coords="265,289,444,316"/>
-<area shape="rect" id="node9" href="$dd/d5a/classmvccpb_1_1Event.html#ad12455db0aafd4086a8d9ce8baf89ffc" title="mvccpb::Event::type" alt="" coords="277,340,432,367"/>
-<area shape="rect" id="node10" href="$dd/d5a/classmvccpb_1_1Event.html#acfed3693912a889d6c7c9d4f11a22764" title="mvccpb::Event::set_type" alt="" coords="263,391,446,417"/>
-<area shape="rect" id="node3" href="$dd/d5a/classmvccpb_1_1Event.html#ae2d0fb41f62dd9a3e5d9aa7bd0dab4ca" title="mvccpb::Event::internal\l_default_instance" alt="" coords="504,78,680,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,188,229"/>
+<area shape="rect" id="node2" href="$dd/d5a/classmvccpb_1_1Event.html#a75f3ba37c1462fdf068940787b4e965d" title=" " alt="" coords="248,5,407,32"/>
+<area shape="rect" id="node4" href="$dd/d5a/classmvccpb_1_1Event.html#a26e286c3b307100fd3b868478b1c9b3c" title=" " alt="" coords="259,57,396,98"/>
+<area shape="rect" id="node5" href="$dd/d5a/classmvccpb_1_1Event.html#a3b8e00ecc2ba174c7987b18c72e40530" title=" " alt="" coords="262,123,393,149"/>
+<area shape="rect" id="node6" href="$dd/d5a/classmvccpb_1_1Event.html#acd14ee6555f4bfed9b216f494ebfc773" title=" " alt="" coords="236,173,419,200"/>
+<area shape="rect" id="node7" href="$dd/d5a/classmvccpb_1_1Event.html#a282e33ef334dad97092d549b0fe1cb48" title=" " alt="" coords="246,225,409,266"/>
+<area shape="rect" id="node8" href="$dd/d5a/classmvccpb_1_1Event.html#ab9305fc594162fb3b9f5388dcad30c3f" title=" " alt="" coords="246,291,409,317"/>
+<area shape="rect" id="node9" href="$dd/d5a/classmvccpb_1_1Event.html#acfed3693912a889d6c7c9d4f11a22764" title=" " alt="" coords="244,341,411,368"/>
+<area shape="rect" id="node10" href="$dd/d5a/classmvccpb_1_1Event.html#a28be708c589c6be5e51a4db26e304c17" title=" " alt="" coords="257,392,398,419"/>
+<area shape="rect" id="node3" href="$dd/d5a/classmvccpb_1_1Event.html#ae2d0fb41f62dd9a3e5d9aa7bd0dab4ca" title=" " alt="" coords="467,27,625,69"/>
 </map>

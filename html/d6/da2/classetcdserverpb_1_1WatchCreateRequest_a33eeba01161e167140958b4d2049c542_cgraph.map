@@ -1,7 +1,8 @@
 <map id="etcdserverpb::WatchCreateRequest::WatchCreateRequest" name="etcdserverpb::WatchCreateRequest::WatchCreateRequest">
-<area shape="rect" id="node2" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ae822e986ea166286bf129a08eeddb5ec" title="etcdserverpb::WatchCreate\lRequest::internal_default\l_instance" alt="" coords="294,5,493,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5dcc424f5cc34f334c37de5a3b6a5a02" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCreateRequest" alt="" coords="273,86,514,127"/>
-<area shape="rect" id="node6" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a5a117e6646da1201e8ac10b60b6e1e1c" title="etcdserverpb::WatchCreate\lRequest::SharedCtor" alt="" coords="294,151,493,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a10af6348a11060805cd82287f16e7f07" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCreateRequestImpl" alt="" coords="563,86,834,127"/>
-<area shape="rect" id="node5" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a6520dee8eb470f56ff958f42c54bd48e" title="etcdserverpb::WatchCreate\lRequest::InitAsDefaultInstance" alt="" coords="883,86,1106,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,208,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5dcc424f5cc34f334c37de5a3b6a5a02" title=" " alt="" coords="256,5,477,47"/>
+<area shape="rect" id="node5" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#ae822e986ea166286bf129a08eeddb5ec" title=" " alt="" coords="275,71,458,127"/>
+<area shape="rect" id="node6" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a5a117e6646da1201e8ac10b60b6e1e1c" title=" " alt="" coords="275,152,458,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a10af6348a11060805cd82287f16e7f07" title=" " alt="" coords="525,5,772,47"/>
+<area shape="rect" id="node4" href="$d6/da2/classetcdserverpb_1_1WatchCreateRequest.html#a6520dee8eb470f56ff958f42c54bd48e" title=" " alt="" coords="820,5,1024,47"/>
 </map>

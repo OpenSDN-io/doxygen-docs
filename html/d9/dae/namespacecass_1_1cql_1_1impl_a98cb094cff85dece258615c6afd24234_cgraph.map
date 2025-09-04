@@ -1,31 +1,32 @@
 <map id="cass::cql::impl::StaticCfGetResultSync" name="cass::cql::impl::StaticCfGetResultSync">
-<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#aa19281bb7d472dab36d67b4ea75b147b" title="cass::cql::impl::Execute\lQueryResultSync" alt="" coords="230,217,405,258"/>
-<area shape="rect" id="node11" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#aadda5f0eb86bb2c58689b6c10a01c5be" title="cass::cql::impl::StaticCf\lGetResult" alt="" coords="230,506,405,547"/>
-<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a0f1169c2f95a77f943c53fc73acf11a2" title="cass::cql::interface\l::CassLibrary::CassStatementNew" alt="" coords="470,151,711,193"/>
-<area shape="rect" id="node4" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#af40fafce3d8c652e2e05aa7487d824f1" title="cass::cql::impl::Execute\lQuerySyncInternal" alt="" coords="503,217,678,258"/>
-<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a77fea7033e218d5b57e94191641a0974" title="cass::cql::interface\l::CassLibrary::CassStatement\lSetConsistency" alt="" coords="794,5,1006,61"/>
-<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aa6152f6c59f8d229d9d19119175b50cc" title="cass::cql::interface\l::CassLibrary::CassSessionExecute" alt="" coords="777,86,1023,127"/>
-<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title="cass::cql::interface\l::CassLibrary::CassFutureWait" alt="" coords="793,151,1007,193"/>
-<area shape="rect" id="node8" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title="cass::cql::interface\l::CassLibrary::CassFutureErrorCode" alt="" coords="776,217,1024,258"/>
-<area shape="rect" id="node9" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title="cass::cql::interface\l::CassLibrary::CassFutureError\lMessage" alt="" coords="793,283,1007,339"/>
-<area shape="rect" id="node10" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a7c0cc7f693188e84d9842dda5bcebf71" title="cass::cql::interface\l::CassLibrary::CassFutureGet\lResult" alt="" coords="797,363,1003,419"/>
-<area shape="rect" id="node12" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a86101f0ccadfe76ca8581a75d79f85e4" title="cass::cql::interface\l::CassLibrary::CassIterator\lFromResult" alt="" coords="495,312,687,368"/>
-<area shape="rect" id="node13" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a49ba2305eb951eb7fc8bec6ae4ebba95" title="cass::cql::interface\l::CassLibrary::CassIteratorNext" alt="" coords="479,393,702,434"/>
-<area shape="rect" id="node14" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a88d89ba10b8b2e985f763e20551a417b" title="cass::cql::interface\l::CassLibrary::CassIterator\lGetRow" alt="" coords="495,459,687,515"/>
-<area shape="rect" id="node15" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a13e120e49caded8b3edc3f505180f9eb" title="cass::cql::interface\l::CassLibrary::CassResultColumn\lCount" alt="" coords="473,539,708,595"/>
-<area shape="rect" id="node16" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a728b7f0ffceeda4661e423e5daeb028b" title="cass::cql::interface\l::CassLibrary::CassResultColumnName" alt="" coords="454,619,727,661"/>
-<area shape="rect" id="node17" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a16b1717e88dada855d4aade93b36e0ea" title="cass::cql::interface\l::CassLibrary::CassRowGetColumn" alt="" coords="469,685,713,726"/>
-<area shape="rect" id="node18" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a2c40df607cdc3cd009e717019c2d5fd7" title="cass::cql::impl::CassValue2\lDbDataValue" alt="" coords="491,779,690,821"/>
-<area shape="rect" id="node19" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#abff05b4626a7a26655d6027b1ed350c3" title="cass::cql::interface\l::CassLibrary::CassValueIsNull" alt="" coords="791,443,1009,485"/>
-<area shape="rect" id="node20" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a77537dda431ad2c15d184cbd802b0531" title="cass::cql::interface\l::CassLibrary::GetCassValueType" alt="" coords="783,509,1017,550"/>
-<area shape="rect" id="node21" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aceb33600667ed3d4087bd714865f203f" title="cass::cql::interface\l::CassLibrary::CassValueGet\lString" alt="" coords="799,575,1001,631"/>
-<area shape="rect" id="node22" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aa9323b1b38e4ab14d623e5a57a762425" title="cass::cql::interface\l::CassLibrary::CassValueGetUuid" alt="" coords="783,655,1017,697"/>
-<area shape="rect" id="node23" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#abac144423b3c9844921b89fa82b21e48" title="cass::cql::impl::encode_uuid" alt="" coords="797,721,1003,748"/>
-<area shape="rect" id="node24" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a0a3682bf89cf8e1a363695ca20a71b90" title="cass::cql::interface\l::CassLibrary::CassValueGet\lDouble" alt="" coords="799,772,1001,828"/>
-<area shape="rect" id="node25" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a8078dc372aa589091ad519f2e12ce59b" title="cass::cql::interface\l::CassLibrary::CassValueGetInt8" alt="" coords="786,853,1014,894"/>
-<area shape="rect" id="node26" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a9e82077265acc2b628c84351fcc179e7" title="cass::cql::interface\l::CassLibrary::CassValueGet\lInt16" alt="" coords="799,919,1001,975"/>
-<area shape="rect" id="node27" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a55e070e41f7c467eabbbd4d19c105940" title="cass::cql::interface\l::CassLibrary::CassValueGet\lInt32" alt="" coords="799,999,1001,1055"/>
-<area shape="rect" id="node28" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a7ea26a4692bbe25215621dcbf5dd555f" title="cass::cql::interface\l::CassLibrary::CassValueGet\lInt64" alt="" coords="799,1079,1001,1135"/>
-<area shape="rect" id="node29" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a01f6d7d445215f79d81491ec02184ffb" title="cass::cql::interface\l::CassLibrary::CassValueGetInet" alt="" coords="786,1159,1014,1201"/>
-<area shape="rect" id="node30" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#acc0b39bb896bce9e62668b2617f5d714" title="cass::cql::interface\l::CassLibrary::CassValueGet\lBytes" alt="" coords="799,1225,1001,1281"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,432,168,473"/>
+<area shape="rect" id="node2" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#aa19281bb7d472dab36d67b4ea75b147b" title=" " alt="" coords="216,232,379,273"/>
+<area shape="rect" id="node11" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a1ebe1aff38f8ad2fc4704fae67d00636" title=" " alt="" coords="216,545,379,587"/>
+<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a0f1169c2f95a77f943c53fc73acf11a2" title=" " alt="" coords="442,167,666,208"/>
+<area shape="rect" id="node4" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#af40fafce3d8c652e2e05aa7487d824f1" title=" " alt="" coords="473,232,635,273"/>
+<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title=" " alt="" coords="729,5,963,47"/>
+<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title=" " alt="" coords="745,71,947,127"/>
+<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a7c0cc7f693188e84d9842dda5bcebf71" title=" " alt="" coords="749,151,943,207"/>
+<area shape="rect" id="node8" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title=" " alt="" coords="746,232,946,273"/>
+<area shape="rect" id="node9" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aa6152f6c59f8d229d9d19119175b50cc" title=" " alt="" coords="731,297,961,339"/>
+<area shape="rect" id="node10" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a77fea7033e218d5b57e94191641a0974" title=" " alt="" coords="747,363,945,419"/>
+<area shape="rect" id="node12" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a86101f0ccadfe76ca8581a75d79f85e4" title=" " alt="" coords="465,349,643,405"/>
+<area shape="rect" id="node13" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a88d89ba10b8b2e985f763e20551a417b" title=" " alt="" coords="465,429,643,485"/>
+<area shape="rect" id="node14" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a49ba2305eb951eb7fc8bec6ae4ebba95" title=" " alt="" coords="451,509,657,551"/>
+<area shape="rect" id="node15" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a13e120e49caded8b3edc3f505180f9eb" title=" " alt="" coords="445,575,663,631"/>
+<area shape="rect" id="node16" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a728b7f0ffceeda4661e423e5daeb028b" title=" " alt="" coords="427,656,681,697"/>
+<area shape="rect" id="node17" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a16b1717e88dada855d4aade93b36e0ea" title=" " alt="" coords="439,721,669,763"/>
+<area shape="rect" id="node18" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#a2c40df607cdc3cd009e717019c2d5fd7" title=" " alt="" coords="462,837,646,879"/>
+<area shape="rect" id="node19" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#acc0b39bb896bce9e62668b2617f5d714" title=" " alt="" coords="751,443,941,499"/>
+<area shape="rect" id="node20" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a0a3682bf89cf8e1a363695ca20a71b90" title=" " alt="" coords="751,523,941,579"/>
+<area shape="rect" id="node21" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a01f6d7d445215f79d81491ec02184ffb" title=" " alt="" coords="740,604,952,645"/>
+<area shape="rect" id="node22" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a9e82077265acc2b628c84351fcc179e7" title=" " alt="" coords="751,670,941,726"/>
+<area shape="rect" id="node23" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a55e070e41f7c467eabbbd4d19c105940" title=" " alt="" coords="751,750,941,806"/>
+<area shape="rect" id="node24" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a7ea26a4692bbe25215621dcbf5dd555f" title=" " alt="" coords="751,830,941,886"/>
+<area shape="rect" id="node25" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a8078dc372aa589091ad519f2e12ce59b" title=" " alt="" coords="740,911,952,952"/>
+<area shape="rect" id="node26" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aceb33600667ed3d4087bd714865f203f" title=" " alt="" coords="751,977,941,1033"/>
+<area shape="rect" id="node27" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#aa9323b1b38e4ab14d623e5a57a762425" title=" " alt="" coords="737,1057,955,1099"/>
+<area shape="rect" id="node28" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#abff05b4626a7a26655d6027b1ed350c3" title=" " alt="" coords="745,1123,947,1164"/>
+<area shape="rect" id="node29" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#abac144423b3c9844921b89fa82b21e48" title=" " alt="" coords="752,1189,940,1215"/>
+<area shape="rect" id="node30" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a77537dda431ad2c15d184cbd802b0531" title=" " alt="" coords="737,1240,955,1281"/>
 </map>

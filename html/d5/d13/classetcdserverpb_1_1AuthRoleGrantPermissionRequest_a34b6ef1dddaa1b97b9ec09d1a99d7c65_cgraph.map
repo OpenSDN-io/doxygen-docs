@@ -1,10 +1,11 @@
 <map id="etcdserverpb::AuthRoleGrantPermissionRequest::default_instance" name="etcdserverpb::AuthRoleGrantPermissionRequest::default_instance">
-<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a27d07100ab73746e5aa67de5503eca2f" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleGrant\lPermissionRequest" alt="" coords="269,35,469,91"/>
-<area shape="rect" id="node9" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a8c8bc2e8ccc69206c402e11fb69cb47d" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::internal\l_default_instance" alt="" coords="265,115,474,171"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a3a0e986753a9f0318fca97a2fbb00edc" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleGrant\lPermissionRequestImpl" alt="" coords="523,35,723,91"/>
-<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title="protobuf_auth_2eproto\l::InitDefaultsPermission" alt="" coords="801,5,980,46"/>
-<area shape="rect" id="node7" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a5241a3a196a153c5f8c4e110d7a6faaf" title="etcdserverpb::AuthRoleGrant\lPermissionRequest::InitAsDefault\lInstance" alt="" coords="771,71,1010,127"/>
-<area shape="rect" id="node5" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title="protobuf_auth_2eproto\l::InitDefaultsPermissionImpl" alt="" coords="1059,5,1266,46"/>
-<area shape="rect" id="node6" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title="authpb::Permission\l::InitAsDefaultInstance" alt="" coords="1315,5,1485,46"/>
-<area shape="rect" id="node8" href="$db/d4b/classauthpb_1_1Permission.html#af7badf31915956e44deecc2f69ad90e6" title="authpb::Permission\l::internal_default_instance" alt="" coords="1065,78,1260,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,83,197,139"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a27d07100ab73746e5aa67de5503eca2f" title=" " alt="" coords="250,43,433,99"/>
+<area shape="rect" id="node9" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a8c8bc2e8ccc69206c402e11fb69cb47d" title=" " alt="" coords="245,123,437,179"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a3a0e986753a9f0318fca97a2fbb00edc" title=" " alt="" coords="485,43,668,99"/>
+<area shape="rect" id="node4" href="$d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a5241a3a196a153c5f8c4e110d7a6faaf" title=" " alt="" coords="716,5,935,61"/>
+<area shape="rect" id="node6" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a590885471335b7a6db0db10562b51d06" title=" " alt="" coords="745,86,906,127"/>
+<area shape="rect" id="node5" href="$db/d4b/classauthpb_1_1Permission.html#af7badf31915956e44deecc2f69ad90e6" title=" " alt="" coords="989,13,1163,54"/>
+<area shape="rect" id="node7" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#af31fc836fe8fcf4d937cf24fce5dc586" title=" " alt="" coords="983,86,1169,127"/>
+<area shape="rect" id="node8" href="$db/d4b/classauthpb_1_1Permission.html#a226867d131d882046efed0ef2bcf531f" title=" " alt="" coords="1217,86,1373,127"/>
 </map>

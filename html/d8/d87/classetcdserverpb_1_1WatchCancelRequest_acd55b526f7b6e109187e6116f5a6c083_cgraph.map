@@ -1,8 +1,9 @@
 <map id="etcdserverpb::WatchCancelRequest::New" name="etcdserverpb::WatchCancelRequest::New">
-<area shape="rect" id="node2" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ac92d545277f5760383d14c3e117a7914" title="etcdserverpb::WatchCancel\lRequest::WatchCancelRequest" alt="" coords="253,86,472,127"/>
-<area shape="rect" id="node3" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#a971146976be43b14285ecc473d5703bc" title="etcdserverpb::WatchCancel\lRequest::internal_default\l_instance" alt="" coords="542,5,741,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a115a26c9209996af01215d9f4d3d0d82" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCancelRequest" alt="" coords="520,86,763,127"/>
-<area shape="rect" id="node7" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ae4b7c85d3bfdd5e52cc28ba64ad55e39" title="etcdserverpb::WatchCancel\lRequest::SharedCtor" alt="" coords="542,151,741,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6f6295db1f1c0658d7f94dd632e05c10" title="protobuf_rpc_2eproto\l::InitDefaultsWatchCancelRequestImpl" alt="" coords="811,86,1082,127"/>
-<area shape="rect" id="node6" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ad6c679cada35cf7a900692577c83da68" title="etcdserverpb::WatchCancel\lRequest::InitAsDefaultInstance" alt="" coords="1131,86,1354,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,188,120"/>
+<area shape="rect" id="node2" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ac92d545277f5760383d14c3e117a7914" title=" " alt="" coords="236,79,439,120"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a115a26c9209996af01215d9f4d3d0d82" title=" " alt="" coords="487,5,709,47"/>
+<area shape="rect" id="node6" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#a971146976be43b14285ecc473d5703bc" title=" " alt="" coords="507,71,689,127"/>
+<area shape="rect" id="node7" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ae4b7c85d3bfdd5e52cc28ba64ad55e39" title=" " alt="" coords="507,152,689,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6f6295db1f1c0658d7f94dd632e05c10" title=" " alt="" coords="757,5,1004,47"/>
+<area shape="rect" id="node5" href="$d8/d87/classetcdserverpb_1_1WatchCancelRequest.html#ad6c679cada35cf7a900692577c83da68" title=" " alt="" coords="1052,5,1256,47"/>
 </map>

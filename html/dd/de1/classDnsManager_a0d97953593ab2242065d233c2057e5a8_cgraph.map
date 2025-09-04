@@ -1,10 +1,11 @@
 <map id="DnsManager::PendingListViewDelete" name="DnsManager::PendingListViewDelete">
-<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#ae9f1bdda3c0144b5ff8f2b47fe4c34df" title="VirtualDnsConfig::GetViewName" alt="" coords="273,56,506,83"/>
-<area shape="rect" id="node5" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title="DnsManager::ResetTransId" alt="" coords="293,107,486,133"/>
-<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="585,5,743,32"/>
-<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title="BindUtil::RemoveSpecialChars" alt="" coords="555,56,773,83"/>
-<area shape="rect" id="node6" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title="IndexAllocator::FreeIndex" alt="" coords="571,107,757,133"/>
-<area shape="rect" id="node7" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title="BitSet::reset" alt="" coords="822,107,925,133"/>
-<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="974,81,1074,108"/>
-<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="973,132,1075,159"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,205,115"/>
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#ae3137494bfe850db04ca6e4e63fbea66" title=" " alt="" coords="253,56,468,83"/>
+<area shape="rect" id="node5" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title=" " alt="" coords="270,107,451,133"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a51d56d39587809e1ab5bb2fb1f5f45a7" title=" " alt="" coords="543,5,691,32"/>
+<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a387755a56637baa432d331e0daf3f2da" title=" " alt="" coords="516,56,719,83"/>
+<area shape="rect" id="node6" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title=" " alt="" coords="532,107,703,133"/>
+<area shape="rect" id="node7" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title=" " alt="" coords="767,107,861,133"/>
+<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="910,81,1001,108"/>
+<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="909,132,1001,159"/>
 </map>

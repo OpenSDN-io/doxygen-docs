@@ -1,6 +1,5 @@
 var dependency_8h =
 [
-    [ "DependencyList", "d2/db0/classDependencyList.html", "d2/db0/classDependencyList" ],
     [ "DependencyRef", "d2/db8/classDependencyRef.html", "d2/db8/classDependencyRef" ],
     [ "DependencyList", "d2/db0/classDependencyList.html", "d2/db0/classDependencyList" ],
     [ "IteratorBase", "d7/dcd/classDependencyList_1_1IteratorBase.html", "d7/dcd/classDependencyList_1_1IteratorBase" ],

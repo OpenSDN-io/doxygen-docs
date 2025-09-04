@@ -1,6 +1,5 @@
 var cql__if__impl_8h =
 [
-    [ "Deleter", "db/df8/structcass_1_1cql_1_1impl_1_1Deleter.html", null ],
     [ "Deleter< CassCluster >", "d9/d1a/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassCluster_01_4.html", "d9/d1a/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassCluster_01_4" ],
     [ "Deleter< CassSsl >", "d5/d6a/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassSsl_01_4.html", "d5/d6a/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassSsl_01_4" ],
     [ "Deleter< CassSession >", "d7/dcc/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassSession_01_4.html", "d7/dcc/structcass_1_1cql_1_1impl_1_1Deleter_3_01CassSession_01_4" ],

@@ -1,18 +1,19 @@
 <map id="MirrorKSyncEntry::Sync" name="MirrorKSyncEntry::Sync">
-<area shape="rect" id="node2" href="$d6/d2d/classMirrorEntry.html#abd613f18e4606ff0da6a867dfe98f2aa" title="MirrorEntry::nic_assisted\l_mirroring" alt="" coords="236,5,417,46"/>
-<area shape="rect" id="node3" href="$d6/d2d/classMirrorEntry.html#a9f7c750ca83afbfa0798d26094b3ffcb" title="MirrorEntry::nic_assisted\l_mirroring_vlan" alt="" coords="236,70,417,111"/>
-<area shape="rect" id="node4" href="$d6/d2d/classMirrorEntry.html#a85ea14230fe50eece6bc01ec96bab7d9" title="MirrorEntry::GetVni" alt="" coords="254,136,399,163"/>
-<area shape="rect" id="node5" href="$d6/d2d/classMirrorEntry.html#a97cf7440e9f125bcf8241475124b0def" title="MirrorEntry::GetMirrorFlag" alt="" coords="232,187,421,213"/>
-<area shape="rect" id="node6" href="$dd/df9/classMirrorKSyncObject.html#a774b4a0f8c091e843e3ef700cebec288" title="MirrorKSyncObject::\lksync" alt="" coords="251,238,402,279"/>
-<area shape="rect" id="node7" href="$d7/de7/classKSync.html#a018b915ee6ba3b6dae6b645efede0491" title="KSync::nh_ksync_obj" alt="" coords="247,304,406,331"/>
-<area shape="rect" id="node8" href="$d6/d2d/classMirrorEntry.html#a9552e322ae09821e8e5453ff1fa7d0f9" title="MirrorEntry::GetNH" alt="" coords="255,355,399,381"/>
-<area shape="rect" id="node9" href="$d3/dd9/classMirrorKSyncEntry.html#a2796e7c5d668135c3489b34c895ecb79" title="MirrorKSyncEntry::nh" alt="" coords="248,405,405,432"/>
-<area shape="rect" id="node10" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title="KSyncObject::GetReference" alt="" coords="227,456,427,483"/>
-<area shape="rect" id="node17" href="$d6/d2d/classMirrorEntry.html#a9d958aa0199014358592fd39b94b4d24" title="MirrorEntry::mirror\l_index" alt="" coords="256,507,397,549"/>
-<area shape="rect" id="node11" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title="KSyncObject::Find" alt="" coords="497,405,636,432"/>
-<area shape="rect" id="node12" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title="KSyncObject::CreateImpl" alt="" coords="475,456,659,483"/>
-<area shape="rect" id="node16" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title="KSyncEntry::SetState" alt="" coords="487,507,646,533"/>
-<area shape="rect" id="node13" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title="KSyncObject::Alloc" alt="" coords="721,405,865,432"/>
-<area shape="rect" id="node14" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title="KSyncIndexTable::Alloc" alt="" coords="707,456,879,483"/>
-<area shape="rect" id="node15" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="713,507,873,533"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,249,168,276"/>
+<area shape="rect" id="node2" href="$d6/d2d/classMirrorEntry.html#ac024296415548b4da163fece5052bd67" title=" " alt="" coords="223,5,396,32"/>
+<area shape="rect" id="node3" href="$d6/d2d/classMirrorEntry.html#a4a1e801c6b7400a2b5371c8f07bc271f" title=" " alt="" coords="242,56,377,83"/>
+<area shape="rect" id="node4" href="$d6/d2d/classKSyncObject.html#ac3973423a3c1db3bf1f662bb3ae0aad5" title=" " alt="" coords="216,107,403,133"/>
+<area shape="rect" id="node11" href="$d6/d2d/classMirrorEntry.html#a77642879a3a3162e51203c337640b51b" title=" " alt="" coords="242,157,377,184"/>
+<area shape="rect" id="node12" href="$dd/df9/classMirrorKSyncObject.html#ae27267b1557c88eab0d2e1c5468e09b5" title=" " alt="" coords="240,209,379,250"/>
+<area shape="rect" id="node13" href="$d6/d2d/classMirrorEntry.html#af671bbfe61cea23d2d4a2ee0d94cc6b5" title=" " alt="" coords="246,274,373,315"/>
+<area shape="rect" id="node14" href="$d3/dd9/classMirrorKSyncEntry.html#a11a8b48027a15510fa3ecc3554418d3b" title=" " alt="" coords="236,340,383,367"/>
+<area shape="rect" id="node15" href="$d7/de7/classKSync.html#ac8b25d35b2b8883411d25e49353c074c" title=" " alt="" coords="236,391,383,417"/>
+<area shape="rect" id="node16" href="$d6/d2d/classMirrorEntry.html#a8085cdf32cb417c7db3af4704cc3c32c" title=" " alt="" coords="226,442,393,483"/>
+<area shape="rect" id="node17" href="$d6/d2d/classMirrorEntry.html#a21aac9c2f8e1ee513a304ed778dc8c97" title=" " alt="" coords="226,507,393,549"/>
+<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a4269326f8428c045018b5286f57f70c6" title=" " alt="" coords="451,56,621,83"/>
+<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#a293ea8308ef854b14792edd58daa1323" title=" " alt="" coords="471,107,601,133"/>
+<area shape="rect" id="node10" href="$dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352" title=" " alt="" coords="461,157,611,184"/>
+<area shape="rect" id="node6" href="$d6/d0c/classKSyncIndexTable.html#affbcd1b2644b00c08a0c87c35f0a864e" title=" " alt="" coords="669,5,829,32"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a4447b5e19e7c8e8822a59e157f272ba9" title=" " alt="" coords="682,56,817,83"/>
+<area shape="rect" id="node8" href="$d6/d84/ksync__object_8cc.html#a464ba26c9e8c098daf8e37babb050019" title=" " alt="" coords="678,107,821,133"/>
 </map>

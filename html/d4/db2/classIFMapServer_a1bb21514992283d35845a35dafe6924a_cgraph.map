@@ -1,6 +1,7 @@
 <map id="IFMapServer::SaveClientHistory" name="IFMapServer::SaveClientHistory">
-<area shape="rect" id="node2" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title="IFMapClient::identifier" alt="" coords="286,5,450,32"/>
-<area shape="rect" id="node3" href="$d0/dcd/classIFMapClient.html#a761899d8e01ac99d98c50a45d8964bcc" title="IFMapClient::index" alt="" coords="297,56,439,83"/>
-<area shape="rect" id="node4" href="$d0/dcd/classIFMapClient.html#a63d77b4397d6fba6d8827102b9f29bbb" title="IFMapClient::created_at" alt="" coords="281,107,455,133"/>
-<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="291,157,445,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,216,108"/>
+<area shape="rect" id="node2" href="$d0/dcd/classIFMapClient.html#a955e06a0fc8287c9adef894b7b26389c" title=" " alt="" coords="264,5,427,32"/>
+<area shape="rect" id="node3" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title=" " alt="" coords="270,56,421,83"/>
+<area shape="rect" id="node4" href="$d0/dcd/classIFMapClient.html#aa0ac6aa7a2a0bcc2753ee873e09716c1" title=" " alt="" coords="279,107,411,133"/>
+<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="273,157,417,184"/>
 </map>

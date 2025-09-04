@@ -2,8 +2,8 @@ var classAgentInit =
 [
     [ "AgentInit", "d8/d16/classAgentInit.html#af1aa3cb1c50770c4cebe1184609b56dc", null ],
     [ "~AgentInit", "d8/d16/classAgentInit.html#a088165eefa48decc17bf678e39316fbc", null ],
-    [ "agent", "d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391", null ],
-    [ "agent_param", "d8/d16/classAgentInit.html#ac1a170ee2974a22fbd377b5983727943", null ],
+    [ "agent", "d8/d16/classAgentInit.html#afb41d5e09913db8d0262060dcdefd864", null ],
+    [ "agent_param", "d8/d16/classAgentInit.html#ad40b828d8c3d3c33ec92ff635b4503b9", null ],
     [ "AgentName", "d8/d16/classAgentInit.html#a777fa4ff7878db0a909933230cf01120", null ],
     [ "ConnectToController", "d8/d16/classAgentInit.html#a77622d7bddc17634efe3135d3899ef3c", null ],
     [ "ConnectToControllerBase", "d8/d16/classAgentInit.html#a889ac910d0bc178d66bcb4675083a434", null ],

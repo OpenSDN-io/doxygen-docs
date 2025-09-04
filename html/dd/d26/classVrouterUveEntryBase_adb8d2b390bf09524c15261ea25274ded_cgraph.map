@@ -1,7 +1,8 @@
 <map id="VrouterUveEntryBase::AppendInterfaceInternal" name="VrouterUveEntryBase::AppendInterfaceInternal">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="241,5,415,32"/>
-<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#ae91343c296330677f954377b7cdfbdfd" title="Interface::IsUveActive" alt="" coords="245,56,411,83"/>
-<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="464,5,627,32"/>
-<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="464,56,627,83"/>
-<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#a4fd87c56f04720c18b01075aa866ef65" title="Interface::l2_active" alt="" coords="472,107,619,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,175,65"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="223,5,381,32"/>
+<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#af377a1cd872e08379b20e324d2a85ff0" title=" " alt="" coords="226,56,378,83"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#a6fd6189ca5101759b6f3a014413dd12b" title=" " alt="" coords="429,5,576,32"/>
+<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#a03bcb6663848b160281aa09eb4eab9b7" title=" " alt="" coords="429,56,576,83"/>
+<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#a281641596faa3100508b192afa61f325" title=" " alt="" coords="436,107,569,133"/>
 </map>

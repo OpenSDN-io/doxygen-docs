@@ -5,7 +5,7 @@ var classVrouterControlInterface =
     [ "AgentCmdToVrCmd", "dc/d6b/classVrouterControlInterface.html#a6483cd52579995a9b1af8d1dcf737333", null ],
     [ "DecodeAgentHdr", "dc/d6b/classVrouterControlInterface.html#a6047c3103ad588f5693f65a061e02810", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dc/d6b/classVrouterControlInterface.html#a976b36646d860b7fb023e9701ad0d0ec", null ],
-    [ "EncapsulationLength", "dc/d6b/classVrouterControlInterface.html#a7cfcd3ac2d152ab0ba5f4f70b0eee344", null ],
+    [ "EncapsulationLength", "dc/d6b/classVrouterControlInterface.html#a7bc936bd926a8f62d3a02991c4f3fda6", null ],
     [ "EncodeAgentHdr", "dc/d6b/classVrouterControlInterface.html#ac8922d834c74b6d7d3e78fec21eca790", null ],
     [ "InitControlInterface", "dc/d6b/classVrouterControlInterface.html#a286e48f0ef3befbdd3014a6a24331437", null ],
     [ "Process", "dc/d6b/classVrouterControlInterface.html#a33eed7b8a4425e54f4ae37f16f5fc2c7", null ],

@@ -18,13 +18,13 @@ var bgp__aspath_8h =
     [ "As4PathPtr", "d0/d9d/bgp__aspath_8h.html#a5fb6167068e32261b8d2ba6c5c7a4bf9", null ],
     [ "AsPath4BytePtr", "d0/d9d/bgp__aspath_8h.html#a443cb3464f5f2eac173a7876f5d7cdc1", null ],
     [ "AsPathPtr", "d0/d9d/bgp__aspath_8h.html#a9d95b488368e62a6b8da2aef2402d4e5", null ],
+    [ "intrusive_ptr_add_ref", "d0/d9d/bgp__aspath_8h.html#a01a8cf263304e947c17e5ea9618b88ec", null ],
     [ "intrusive_ptr_add_ref", "d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e", null ],
     [ "intrusive_ptr_add_ref", "d0/d9d/bgp__aspath_8h.html#aab46b14529826aa283aad20af98320b9", null ],
-    [ "intrusive_ptr_add_ref", "d0/d9d/bgp__aspath_8h.html#a01a8cf263304e947c17e5ea9618b88ec", null ],
+    [ "intrusive_ptr_del_ref", "d0/d9d/bgp__aspath_8h.html#a6e3aded163ad6eeb9409ad32a314f8a4", null ],
     [ "intrusive_ptr_del_ref", "d0/d9d/bgp__aspath_8h.html#a38830e0f12d881eefaa00f29632618fa", null ],
     [ "intrusive_ptr_del_ref", "d0/d9d/bgp__aspath_8h.html#a16a756097ac436237ce83a67e1d312ef", null ],
-    [ "intrusive_ptr_del_ref", "d0/d9d/bgp__aspath_8h.html#a6e3aded163ad6eeb9409ad32a314f8a4", null ],
+    [ "intrusive_ptr_release", "d0/d9d/bgp__aspath_8h.html#a6594c7c3dc9ca5b021b08d8fea09e116", null ],
     [ "intrusive_ptr_release", "d0/d9d/bgp__aspath_8h.html#a0ee38ffc269b9ff050119096acd440db", null ],
-    [ "intrusive_ptr_release", "d0/d9d/bgp__aspath_8h.html#a0c427d4dacc5457ba5399a01f896fc1c", null ],
-    [ "intrusive_ptr_release", "d0/d9d/bgp__aspath_8h.html#a6594c7c3dc9ca5b021b08d8fea09e116", null ]
+    [ "intrusive_ptr_release", "d0/d9d/bgp__aspath_8h.html#a0c427d4dacc5457ba5399a01f896fc1c", null ]
 ];

@@ -1,35 +1,37 @@
 <map id="IFMapLinkTable::AddLink" name="IFMapLinkTable::AddLink">
-<area shape="rect" id="node2" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title="DBTable::GetTablePartition" alt="" coords="235,88,429,115"/>
-<area shape="rect" id="node10" href="$d5/d9c/classIFMapLinkTable.html#aba5f3913b61fca8f05d88a9020b855cb" title="IFMapLinkTable::LinkKey" alt="" coords="242,804,422,831"/>
-<area shape="rect" id="node13" href="$d5/d9c/classIFMapLinkTable.html#a89d7d9883fa218500225ae5f6e91a713" title="IFMapLinkTable::FindLink" alt="" coords="241,205,423,232"/>
-<area shape="rect" id="node14" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="243,256,421,283"/>
-<area shape="rect" id="node15" href="$d0/dfa/classIFMapLink.html#aa3ff3e68b0a844b925ebe61d9d413fb2" title="IFMapLink::SetLinkRevival" alt="" coords="237,307,427,333"/>
-<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title="DBEntryBase::ClearDelete" alt="" coords="236,357,428,384"/>
-<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#ada948255e0ae0365b546086a1565d325" title="DBEntryBase::set_last\l_change_at_to_now" alt="" coords="249,139,415,181"/>
-<area shape="rect" id="node19" href="$df/d9e/classDBTablePartition.html#a101c5923e51fa4274f30461801866074" title="DBTablePartition::Change" alt="" coords="239,408,425,435"/>
-<area shape="rect" id="node25" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title="DBTablePartition::Add" alt="" coords="251,459,413,485"/>
-<area shape="rect" id="node29" href="$d0/dfa/classIFMapLink.html#a88d1e796469508aca22e8dfa2ab69c40" title="IFMapLink::SetProperties" alt="" coords="241,677,423,704"/>
-<area shape="rect" id="node3" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title="HashToPartition" alt="" coords="541,41,664,68"/>
-<area shape="rect" id="node9" href="$d5/d0a/classDBTable.html#a01d9fea848204b56caf366b84ed83c86" title="DBTable::Hash" alt="" coords="545,92,661,119"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="808,41,949,68"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1045,12,1246,39"/>
-<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1030,63,1261,105"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1309,12,1525,39"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1574,5,1765,46"/>
-<area shape="rect" id="node11" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="525,880,680,907"/>
-<area shape="rect" id="node12" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="794,728,963,755"/>
-<area shape="rect" id="node18" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="525,147,680,173"/>
-<area shape="rect" id="node20" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="513,357,693,384"/>
-<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="794,383,963,409"/>
-<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="789,433,968,460"/>
-<area shape="rect" id="node23" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="815,281,942,308"/>
-<area shape="rect" id="node24" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="777,332,981,359"/>
-<area shape="rect" id="node26" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title="DBEntryBase::set_table\l_partition" alt="" coords="515,510,690,551"/>
-<area shape="rect" id="node27" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="511,408,694,435"/>
-<area shape="rect" id="node28" href="$d7/df2/classDBTableBase.html#ad669489c55eae34e9ffe3ca1e6f2d594" title="DBTableBase::AddRemoveCallback" alt="" coords="478,459,727,485"/>
-<area shape="rect" id="node30" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title="IFMapLink::left" alt="" coords="544,728,661,755"/>
-<area shape="rect" id="node31" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="535,779,670,805"/>
-<area shape="rect" id="node32" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="533,829,672,856"/>
-<area shape="rect" id="node33" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title="IFMapLink::right" alt="" coords="540,627,665,653"/>
-<area shape="rect" id="node34" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="523,677,682,704"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,325,175,352"/>
+<area shape="rect" id="node2" href="$df/d9e/classDBTablePartition.html#a328f0e6af1397d28a0ac0a1efe9530c9" title=" " alt="" coords="237,148,389,175"/>
+<area shape="rect" id="node11" href="$df/d9e/classDBTablePartition.html#a101c5923e51fa4274f30461801866074" title=" " alt="" coords="226,89,401,116"/>
+<area shape="rect" id="node12" href="$d8/d44/classDBEntryBase.html#a6827a3e81a73415a9a6d2b8847afe036" title=" " alt="" coords="223,199,403,225"/>
+<area shape="rect" id="node13" href="$d5/d9c/classIFMapLinkTable.html#a89d7d9883fa218500225ae5f6e91a713" title=" " alt="" coords="228,249,399,276"/>
+<area shape="rect" id="node14" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="223,300,404,327"/>
+<area shape="rect" id="node22" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="230,351,397,377"/>
+<area shape="rect" id="node23" href="$d5/d9c/classIFMapLinkTable.html#aba5f3913b61fca8f05d88a9020b855cb" title=" " alt="" coords="229,401,397,428"/>
+<area shape="rect" id="node26" href="$d8/d44/classDBEntryBase.html#ada948255e0ae0365b546086a1565d325" title=" " alt="" coords="235,453,392,494"/>
+<area shape="rect" id="node28" href="$d0/dfa/classIFMapLink.html#aa3ff3e68b0a844b925ebe61d9d413fb2" title=" " alt="" coords="225,519,401,545"/>
+<area shape="rect" id="node29" href="$d0/dfa/classIFMapLink.html#a88d1e796469508aca22e8dfa2ab69c40" title=" " alt="" coords="228,629,399,656"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a86b27844ec841ab805bfb63c12141cba" title=" " alt="" coords="452,132,683,159"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="482,81,653,108"/>
+<area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="482,183,653,209"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#ae9926273f7f906af57b609b8d1c0adac" title=" " alt="" coords="485,234,649,275"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="767,5,885,32"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="747,56,905,83"/>
+<area shape="rect" id="node7" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="731,107,921,133"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="743,157,909,184"/>
+<area shape="rect" id="node15" href="$d5/d0a/classDBTable.html#afbc6fd2968efa8f6d9bd337c80bf2bb3" title=" " alt="" coords="512,300,623,327"/>
+<area shape="rect" id="node16" href="$dc/d9f/db__table_8cc.html#a452118b20fa10e12762da70e9d527287" title=" " alt="" coords="509,351,625,377"/>
+<area shape="rect" id="node17" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="759,351,893,377"/>
+<area shape="rect" id="node18" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="981,321,1168,348"/>
+<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="969,373,1180,414"/>
+<area shape="rect" id="node19" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1228,321,1431,348"/>
+<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1479,314,1656,355"/>
+<area shape="rect" id="node24" href="$dc/d17/classIFMapNode.html#ae558a024c581279d2dfcb0d08cf6154f" title=" " alt="" coords="494,401,641,428"/>
+<area shape="rect" id="node25" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="747,452,905,479"/>
+<area shape="rect" id="node27" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="495,452,639,479"/>
+<area shape="rect" id="node30" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title=" " alt="" coords="513,553,621,580"/>
+<area shape="rect" id="node31" href="$d0/dfa/classIFMapLink.html#ad153169675ddc500b86b658651c4d917" title=" " alt="" coords="495,604,639,631"/>
+<area shape="rect" id="node32" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="502,655,633,681"/>
+<area shape="rect" id="node33" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title=" " alt="" coords="510,705,625,732"/>
+<area shape="rect" id="node34" href="$d0/dfa/classIFMapLink.html#ae99fcd88cca8255f800a625b5df263a7" title=" " alt="" coords="494,757,641,798"/>
+<area shape="rect" id="node35" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="504,823,631,849"/>
 </map>

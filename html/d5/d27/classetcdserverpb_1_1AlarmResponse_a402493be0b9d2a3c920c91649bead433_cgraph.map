@@ -1,6 +1,7 @@
 <map id="etcdserverpb::AlarmResponse::ByteSizeLong" name="etcdserverpb::AlarmResponse::ByteSizeLong">
-<area shape="rect" id="node2" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#a1b40cedd08f97e7bb44ebb7d5cd78c63" title="etcdserverpb::AlarmResponse\l::alarms_size" alt="" coords="269,5,485,46"/>
-<area shape="rect" id="node3" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#ae3960884e63d8cd05154768e23a28435" title="etcdserverpb::AlarmResponse\l::alarms" alt="" coords="269,70,485,111"/>
-<area shape="rect" id="node4" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#a57d1dfbf1c0e8762edf716a755e5baaf" title="etcdserverpb::AlarmResponse\l::has_header" alt="" coords="269,135,485,177"/>
-<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="533,135,757,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node2" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#a235c1d1217a366f66f8c220d85bf8d15" title=" " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#acfa79750c3e8ad1a1ebdec34c36d1058" title=" " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$d5/d27/classetcdserverpb_1_1AlarmResponse.html#abbebbd5a6ca8fd3a6a9daa95ebc858cd" title=" " alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="499,136,705,177"/>
 </map>

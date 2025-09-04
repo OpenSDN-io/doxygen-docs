@@ -1,8 +1,0 @@
-<map id="BgpAsAService::IsBgpService" name="BgpAsAService::IsBgpService">
-<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="309,5,451,32"/>
-<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="317,56,443,83"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="299,107,461,149"/>
-<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#ab489ae6a5e07a3b1774f45f5f101fc39" title="VnEntry::GetGatewayFromIpam" alt="" coords="267,173,493,200"/>
-<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#a74cefd476164f1f79c7ba5283590b75b" title="VnEntry::GetDnsFromIpam" alt="" coords="283,224,477,251"/>
-<area shape="rect" id="node6" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="541,199,677,225"/>
-</map>

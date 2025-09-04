@@ -1,9 +1,11 @@
 <map id="IFMapServerParser::Receive" name="IFMapServerParser::Receive">
-<area shape="rect" id="node2" href="$d1/d09/classIFMapTable.html#a5004d1fb81da83fb78734df36e2aa12f" title="IFMapTable::FindTable" alt="" coords="209,56,372,83"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="205,132,376,159"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="461,5,613,32"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title="DB::FindTable" alt="" coords="483,56,592,83"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="424,107,651,133"/>
-<area shape="rect" id="node7" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="474,157,601,184"/>
-<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="449,208,625,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,150,149,191"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="197,107,359,133"/>
+<area shape="rect" id="node7" href="$d1/d09/classIFMapTable.html#a5004d1fb81da83fb78734df36e2aa12f" title=" " alt="" coords="201,208,355,235"/>
+<area shape="rect" id="node3" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="413,5,611,32"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="453,56,571,83"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="407,107,617,133"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="429,157,595,184"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title=" " alt="" coords="459,208,565,235"/>
+<area shape="rect" id="node9" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="441,259,583,285"/>
 </map>

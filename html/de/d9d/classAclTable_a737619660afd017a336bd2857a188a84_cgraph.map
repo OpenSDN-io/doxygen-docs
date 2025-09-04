@@ -1,6 +1,7 @@
 <map id="AclTable::OperDBDelete" name="AclTable::OperDBDelete">
-<area shape="rect" id="node2" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="281,5,385,32"/>
-<area shape="rect" id="node3" href="$de/d3a/classAclDBEntry.html#a3bf531031bd235bba0cc135e3cdc030c" title="AclDBEntry::GetUuid" alt="" coords="256,56,411,83"/>
-<area shape="rect" id="node4" href="$de/d9d/classAclTable.html#afd209f8c3c54d905ce87870ba754eba4" title="AclTable::DeleteUnresolved\lEntry" alt="" coords="233,107,434,149"/>
-<area shape="rect" id="node5" href="$de/d3a/classAclDBEntry.html#a59b28dbd0982e1d9a22724e1238eae4b" title="AclDBEntry::DeleteAllAcl\lEntries" alt="" coords="242,173,425,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,171,134"/>
+<area shape="rect" id="node2" href="$de/d3a/classAclDBEntry.html#a59b28dbd0982e1d9a22724e1238eae4b" title=" " alt="" coords="225,5,395,47"/>
+<area shape="rect" id="node3" href="$de/d9d/classAclTable.html#afd209f8c3c54d905ce87870ba754eba4" title=" " alt="" coords="219,71,401,112"/>
+<area shape="rect" id="node4" href="$de/d3a/classAclDBEntry.html#a2282fb005cabe2c75673618a4dd50213" title=" " alt="" coords="237,137,383,163"/>
+<area shape="rect" id="node5" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title=" " alt="" coords="261,187,359,214"/>
 </map>

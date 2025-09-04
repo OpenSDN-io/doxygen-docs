@@ -16,7 +16,7 @@ var classVirtualGatewayConfigTable =
     [ "InitFromConfig", "da/d40/classVirtualGatewayConfigTable.html#a77d765721d377c3b0604a6e34cdbe966", null ],
     [ "ProcessRequest", "da/d40/classVirtualGatewayConfigTable.html#a9dd3f5fea4f03d4aee9fa6c3b2fd237b", null ],
     [ "Shutdown", "da/d40/classVirtualGatewayConfigTable.html#a63faf8a3aac44bcf9298933530700fdd", null ],
-    [ "table", "da/d40/classVirtualGatewayConfigTable.html#a4cafb3186b188393e09bb4bf60b5d15c", null ],
+    [ "table", "da/d40/classVirtualGatewayConfigTable.html#a3ac045a2632e2b665aadfc7f73683c18", null ],
     [ "agent_", "da/d40/classVirtualGatewayConfigTable.html#ad84fc8460076e32673fcb6e8bf293fd3", null ],
     [ "table_", "da/d40/classVirtualGatewayConfigTable.html#af535b33fb77df527070810884c0bfab5", null ],
     [ "work_queue_", "da/d40/classVirtualGatewayConfigTable.html#ad0ff2f1eba91427541f0733d112ac69b", null ]

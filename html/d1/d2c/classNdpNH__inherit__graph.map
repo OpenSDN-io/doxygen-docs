@@ -1,7 +1,8 @@
 <map id="NdpNH" name="NdpNH">
-<area shape="rect" id="node2" href="$d4/dec/classNextHop.html" title="NextHop" alt="" coords="161,229,239,256"/>
-<area shape="rect" id="node3" href="$d5/d7f/classAgentRefCount.html" title="AgentRefCount\&lt; NextHop \&gt;" alt="" coords="5,155,211,181"/>
-<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html" title="AgentDBEntry" alt="" coords="235,155,348,181"/>
-<area shape="rect" id="node5" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="255,80,329,107"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="239,5,345,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="151,304,217,331"/>
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html" title=" " alt="" coords="147,229,221,256"/>
+<area shape="rect" id="node3" href="$d5/d7f/classAgentRefCount.html" title=" " alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="216,155,323,181"/>
+<area shape="rect" id="node5" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="233,80,306,107"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="218,5,321,32"/>
 </map>

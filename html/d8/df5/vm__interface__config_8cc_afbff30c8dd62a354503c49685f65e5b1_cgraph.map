@@ -1,7 +1,9 @@
 <map id="ReadDhcpOptions" name="ReadDhcpOptions">
-<area shape="rect" id="node2" href="$d7/dd5/classOperDhcpOptions.html#a5de7f62c294b377f3cf527ff28b24125" title="OperDhcpOptions::set\l_options" alt="" coords="193,5,357,46"/>
-<area shape="rect" id="node3" href="$d7/dd5/classOperDhcpOptions.html#ac6b91b3f0e8500c603f13b16d82cf9d6" title="OperDhcpOptions::set\l_host_routes" alt="" coords="193,70,357,111"/>
-<area shape="rect" id="node4" href="$d7/dd5/classOperDhcpOptions.html#afec3b5d97d39553a10fd704958d9721c" title="OperDhcpOptions::update\l_host_routes" alt="" coords="405,70,595,111"/>
-<area shape="rect" id="node5" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title="Ip4PrefixParse" alt="" coords="643,77,757,104"/>
-<area shape="rect" id="node6" href="$dd/dea/address_8cc.html#a2c830dd2a2e3885d90bd89b34f528e4d" title="CountDots" alt="" coords="805,77,896,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,133,102"/>
+<area shape="rect" id="node2" href="$d7/dd5/classOperDhcpOptions.html#ac6b91b3f0e8500c603f13b16d82cf9d6" title=" " alt="" coords="181,35,333,76"/>
+<area shape="rect" id="node7" href="$d7/dd5/classOperDhcpOptions.html#a5de7f62c294b377f3cf527ff28b24125" title=" " alt="" coords="181,100,333,141"/>
+<area shape="rect" id="node3" href="$d7/dd5/classOperDhcpOptions.html#ace33239f2554b1fdbbb2e72bb275fdfe" title=" " alt="" coords="603,5,761,47"/>
+<area shape="rect" id="node4" href="$d7/dd5/classOperDhcpOptions.html#afec3b5d97d39553a10fd704958d9721c" title=" " alt="" coords="381,64,555,105"/>
+<area shape="rect" id="node5" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title=" " alt="" coords="627,71,737,98"/>
+<area shape="rect" id="node6" href="$dd/dea/address_8cc.html#a2c830dd2a2e3885d90bd89b34f528e4d" title=" " alt="" coords="809,71,895,98"/>
 </map>

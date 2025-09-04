@@ -1,14 +1,15 @@
 <map id="DhcpProto::VnNotify" name="DhcpProto::VnNotify">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="499,5,626,32"/>
-<area shape="rect" id="node3" href="$d8/d04/classDhcpProto.html#afba1497be264f29b87b1415a1a1c506c" title="DhcpProto::CreateLeaseDb" alt="" coords="209,157,405,184"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#af81128d76b9847ae132b2a036257c3d1" title="VmInterface::subnet" alt="" coords="485,56,640,83"/>
-<area shape="rect" id="node5" href="$d8/d04/classDhcpProto.html#a2b618e784100c36a41e552734394d336" title="DhcpProto::DeleteLeaseDb" alt="" coords="465,107,661,133"/>
-<area shape="rect" id="node7" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="495,157,631,184"/>
-<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="482,209,643,250"/>
-<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="728,191,853,217"/>
-<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#a3a7e0acbca4dbf55d79ec04794a89ee1" title="VmInterface::subnet_plen" alt="" coords="468,325,657,352"/>
-<area shape="rect" id="node10" href="$d8/d04/classDhcpProto.html#ad6a99a7ef000dbd65162631f3169f3b3" title="DhcpProto::GetLeaseFileName" alt="" coords="453,376,672,403"/>
-<area shape="rect" id="node11" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="739,325,843,352"/>
-<area shape="rect" id="node12" href="$d0/dcc/classInterface.html#ae2ac1c63e37ac895eb7d11b578bcbd84" title="Interface::GetUuid" alt="" coords="720,376,861,403"/>
-<area shape="rect" id="node13" href="$db/de3/classProto.html#a4e095767d39cf3f1371ea22b6e4959d4" title="Proto::agent" alt="" coords="740,427,841,453"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,296,148,323"/>
+<area shape="rect" id="node2" href="$d8/d04/classDhcpProto.html#afba1497be264f29b87b1415a1a1c506c" title=" " alt="" coords="196,216,379,243"/>
+<area shape="rect" id="node13" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="471,376,587,403"/>
+<area shape="rect" id="node3" href="$d8/d04/classDhcpProto.html#a2b618e784100c36a41e552734394d336" title=" " alt="" coords="437,5,620,32"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="687,31,801,57"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#abb785f8f71253a4d30d6e4332625b42e" title=" " alt="" coords="465,107,592,133"/>
+<area shape="rect" id="node6" href="$d8/d04/classDhcpProto.html#ad6a99a7ef000dbd65162631f3169f3b3" title=" " alt="" coords="427,157,631,184"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="455,209,602,250"/>
+<area shape="rect" id="node11" href="$d5/d21/classVmInterface.html#aba1858821316f0a5df60c99a003c596b" title=" " alt="" coords="458,275,599,301"/>
+<area shape="rect" id="node12" href="$d5/d21/classVmInterface.html#a24d3f8f807f00b1baea3c3d63239e078" title=" " alt="" coords="443,325,615,352"/>
+<area shape="rect" id="node7" href="$db/de3/classProto.html#a596e11204254c94313429e6f748d0eaa" title=" " alt="" coords="697,107,791,133"/>
+<area shape="rect" id="node8" href="$d0/dcc/classInterface.html#ad8cbff5e7a74f3aee30db0b6318019cd" title=" " alt="" coords="679,157,809,184"/>
+<area shape="rect" id="node9" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title=" " alt="" coords="695,208,793,235"/>
 </map>

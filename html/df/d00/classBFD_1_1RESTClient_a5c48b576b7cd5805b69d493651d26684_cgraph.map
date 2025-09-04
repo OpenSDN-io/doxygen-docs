@@ -1,43 +1,52 @@
 <map id="BFD::RESTClient::CreateRESTClientSessionCallback" name="BFD::RESTClient::CreateRESTClientSessionCallback">
-<area shape="rect" id="node2" href="$df/d00/classBFD_1_1RESTClient.html#a101deebf9f8efc2b5125ad9bba8183cc" title="BFD::RESTClient::SetError" alt="" coords="301,445,488,472"/>
-<area shape="rect" id="node3" href="$df/d00/classBFD_1_1RESTClient.html#a192c7ea68694db243015f9081f8aa22a" title="BFD::RESTClient::Stop" alt="" coords="536,445,699,472"/>
-<area shape="rect" id="node4" href="$d4/d6e/classHttpClient.html#ad63d0375c26b2fb95602029b21a961a4" title="HttpClient::Shutdown" alt="" coords="747,445,907,472"/>
-<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="979,395,1141,421"/>
-<area shape="rect" id="node6" href="$d4/d6e/classHttpClient.html#a59e4b4dbd7cd07e40353d4ce1f3bc514" title="HttpClient::ShutdownInternal" alt="" coords="955,445,1165,472"/>
-<area shape="rect" id="node42" href="$d4/d0c/classWorkQueue.html#ad1105c410661e7d88120a72d70719a9e" title="WorkQueue::deleted" alt="" coords="983,496,1137,523"/>
-<area shape="rect" id="node7" href="$d4/d6e/classHttpClient.html#ad05dc36c7508ed5ed30032e725b87070" title="HttpClient::RemoveConnection\lInternal" alt="" coords="1217,162,1439,203"/>
-<area shape="rect" id="node17" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title="TimerManager::DeleteTimer" alt="" coords="1225,420,1431,447"/>
-<area shape="rect" id="node38" href="$d4/d6e/classHttpClient.html#a62ab87661139988df4d03a292d0759ed" title="HttpClient::SessionShutdown" alt="" coords="1223,471,1433,497"/>
-<area shape="rect" id="node41" href="$d4/d0c/classWorkQueue.html#a0332b1e1925d03d02c47a3149a2f114a" title="WorkQueue::ScheduleShutdown" alt="" coords="1214,521,1442,548"/>
-<area shape="rect" id="node8" href="$d3/de9/classHttpConnection.html#af646ce1f51e9839a2da413890539551f" title="HttpConnection::endpoint" alt="" coords="1505,93,1693,120"/>
-<area shape="rect" id="node9" href="$d3/de9/classHttpConnection.html#a70456d8e8f0fdb83d3a7458d2a7449bb" title="HttpConnection::id" alt="" coords="1527,144,1670,171"/>
-<area shape="rect" id="node10" href="$df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b" title="del_conn" alt="" coords="1559,195,1639,221"/>
-<area shape="rect" id="node11" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title="HttpConnection::session" alt="" coords="1766,5,1946,32"/>
-<area shape="rect" id="node12" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title="HttpClientSession::\lmutex" alt="" coords="1783,57,1929,98"/>
-<area shape="rect" id="node13" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title="HttpClientSession::\lSetConnection" alt="" coords="1783,122,1929,163"/>
-<area shape="rect" id="node14" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title="HttpConnection::curl\l_handle" alt="" coords="1779,187,1933,229"/>
-<area shape="rect" id="node15" href="$d3/de9/classHttpConnection.html#afe7c36358579cba086912ae67ee3e71a" title="HttpConnection::set\l_curl_handle" alt="" coords="1781,253,1931,294"/>
-<area shape="rect" id="node16" href="$df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2" title="del_curl_handle" alt="" coords="1794,319,1918,345"/>
-<area shape="rect" id="node18" href="$dc/dea/classTimer.html#acdaac2a7b93c2fcd4d8743f083110a0a" title="Timer::fired" alt="" coords="1550,369,1647,396"/>
-<area shape="rect" id="node19" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="1543,420,1655,447"/>
-<area shape="rect" id="node37" href="$dc/dea/classTimer.html#aeacd04766fe18c8c3d1e3b4ba203f2e5" title="Timer::IsDeleteOnCompletion" alt="" coords="1491,471,1706,497"/>
-<area shape="rect" id="node20" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1755,369,1957,396"/>
-<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1773,420,1939,447"/>
-<area shape="rect" id="node36" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1795,471,1917,497"/>
-<area shape="rect" id="node21" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2007,125,2223,152"/>
-<area shape="rect" id="node22" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="2277,118,2467,159"/>
-<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance. " alt="" coords="2019,177,2210,218"/>
-<area shape="rect" id="node27" href="$d6/d9c/classTask.html#a35761ed69a744e8bd8f823fade686a3b" title="Task::GetTaskId" alt="" coords="2053,243,2176,269"/>
-<area shape="rect" id="node28" href="$d6/d9c/classTask.html#aab5f6bb19def56d1e0f9d1793df56ca0" title="Task::GetTaskInstance" alt="" coords="2031,293,2198,320"/>
-<area shape="rect" id="node25" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="2277,286,2467,327"/>
-<area shape="rect" id="node29" href="$d9/daa/classTaskEntry.html#a6998e902a50cff62e3b1fa831975f5c8" title="TaskEntry::WaitQSize" alt="" coords="2035,395,2194,421"/>
-<area shape="rect" id="node30" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title="TaskEntry::DeleteFromWaitQ" alt="" coords="2011,445,2218,472"/>
-<area shape="rect" id="node31" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_. " alt="" coords="2005,496,2224,523"/>
-<area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_. " alt="" coords="2008,547,2221,573"/>
-<area shape="rect" id="node33" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title="TaskEntry::IsDisabled" alt="" coords="2035,597,2195,624"/>
-<area shape="rect" id="node34" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies. " alt="" coords="2023,648,2206,675"/>
-<area shape="rect" id="node35" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies..." alt="" coords="2026,699,2203,725"/>
-<area shape="rect" id="node26" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="2272,184,2472,211"/>
-<area shape="rect" id="node39" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="1520,521,1677,548"/>
-<area shape="rect" id="node40" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="1763,521,1949,548"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,245,193"/>
+<area shape="rect" id="node2" href="$df/d00/classBFD_1_1RESTClient.html#a101deebf9f8efc2b5125ad9bba8183cc" title=" " alt="" coords="293,159,475,186"/>
+<area shape="rect" id="node3" href="$df/d00/classBFD_1_1RESTClient.html#a192c7ea68694db243015f9081f8aa22a" title=" " alt="" coords="523,159,683,186"/>
+<area shape="rect" id="node4" href="$d4/d6e/classHttpClient.html#ad63d0375c26b2fb95602029b21a961a4" title=" " alt="" coords="731,159,877,186"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html#a33c71f6155600547525a335da70d5c4a" title=" " alt="" coords="930,109,1071,135"/>
+<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="925,159,1076,186"/>
+<area shape="rect" id="node20" href="$d4/d6e/classHttpClient.html#a59e4b4dbd7cd07e40353d4ce1f3bc514" title=" " alt="" coords="1134,406,1325,433"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="1124,13,1335,39"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1387,115,1589,142"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="1129,64,1330,105"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1391,189,1585,215"/>
+<area shape="rect" id="node19" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="1133,181,1326,223"/>
+<area shape="rect" id="node8" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="1399,5,1577,47"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="1645,7,1849,48"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="1647,72,1846,113"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="1641,203,1852,230"/>
+<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="1643,137,1851,179"/>
+<area shape="rect" id="node13" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1914,279,2101,306"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="1900,203,2115,230"/>
+<area shape="rect" id="node16" href="$da/d91/classWaterMarkTuple.html#ae3f636535f9a66218700d7025e6e39f5" title=" " alt="" coords="1907,137,2107,179"/>
+<area shape="rect" id="node21" href="$d9/d81/classTimerManager.html#ab91db5e3454ac9f7941a67a3335e3743" title=" " alt="" coords="1396,482,1580,509"/>
+<area shape="rect" id="node37" href="$d4/d6e/classHttpClient.html#ad05dc36c7508ed5ed30032e725b87070" title=" " alt="" coords="1387,627,1589,668"/>
+<area shape="rect" id="node47" href="$d4/d0c/classWorkQueue.html#a0332b1e1925d03d02c47a3149a2f114a" title=" " alt="" coords="1383,330,1593,357"/>
+<area shape="rect" id="node49" href="$d4/d6e/classHttpClient.html#a62ab87661139988df4d03a292d0759ed" title=" " alt="" coords="1391,406,1585,433"/>
+<area shape="rect" id="node22" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="1695,457,1798,483"/>
+<area shape="rect" id="node35" href="$dc/dea/classTimer.html#addfd0fd74120f1e32490b95b94f72b51" title=" " alt="" coords="1703,507,1791,534"/>
+<area shape="rect" id="node36" href="$dc/dea/classTimer.html#a022aa3954013d3ba44fba9557df448d4" title=" " alt="" coords="1649,558,1844,585"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1929,355,2085,382"/>
+<area shape="rect" id="node34" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title=" " alt="" coords="1950,457,2065,483"/>
+<area shape="rect" id="node24" href="$d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="2180,127,2348,154"/>
+<area shape="rect" id="node25" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="2178,178,2350,205"/>
+<area shape="rect" id="node26" href="$d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="2165,229,2363,255"/>
+<area shape="rect" id="node27" href="$d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="2163,279,2365,306"/>
+<area shape="rect" id="node28" href="$d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="2167,330,2361,357"/>
+<area shape="rect" id="node29" href="$d1/d72/classTaskGroup.html#a9603ac4fad9d7c6d6ee28fe89aaa9011" title=" " alt="" coords="2169,381,2359,407"/>
+<area shape="rect" id="node30" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="2205,431,2323,458"/>
+<area shape="rect" id="node31" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="2186,482,2342,509"/>
+<area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="2189,533,2339,559"/>
+<area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="2187,583,2341,610"/>
+<area shape="rect" id="node38" href="$df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b" title=" " alt="" coords="1709,659,1784,686"/>
+<area shape="rect" id="node45" href="$d3/de9/classHttpConnection.html#af646ce1f51e9839a2da413890539551f" title=" " alt="" coords="1661,710,1832,737"/>
+<area shape="rect" id="node46" href="$d3/de9/classHttpConnection.html#a70456d8e8f0fdb83d3a7458d2a7449bb" title=" " alt="" coords="1681,609,1812,635"/>
+<area shape="rect" id="node39" href="$d3/de9/classHttpConnection.html#ac2de3e8301ce51f42566412f0d5500b0" title=" " alt="" coords="1936,583,2079,624"/>
+<area shape="rect" id="node40" href="$df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2" title=" " alt="" coords="1951,649,2063,675"/>
+<area shape="rect" id="node41" href="$d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0" title=" " alt="" coords="1939,700,2075,741"/>
+<area shape="rect" id="node42" href="$d3/de9/classHttpConnection.html#a2f7b5cbbb37cf83d94e0eb844f3b3029" title=" " alt="" coords="1924,766,2091,793"/>
+<area shape="rect" id="node43" href="$d3/de9/classHttpConnection.html#afe7c36358579cba086912ae67ee3e71a" title=" " alt="" coords="1938,817,2077,859"/>
+<area shape="rect" id="node44" href="$d7/dab/classHttpClientSession.html#aab76650bab02b2ba41a69f89d8df06a2" title=" " alt="" coords="1939,517,2075,559"/>
+<area shape="rect" id="node48" href="$d4/d0c/classWorkQueue.html#a56ea02daf8eb54a6b5b3d7e9d02da0ae" title=" " alt="" coords="1647,305,1846,331"/>
+<area shape="rect" id="node50" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title=" " alt="" coords="1673,406,1820,433"/>
 </map>

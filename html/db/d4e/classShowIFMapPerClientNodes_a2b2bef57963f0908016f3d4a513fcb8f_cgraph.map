@@ -1,19 +1,20 @@
 <map id="ShowIFMapPerClientNodes::CopyNode" name="ShowIFMapPerClientNodes::CopyNode">
-<area shape="rect" id="node2" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title="IFMapServer::exporter" alt="" coords="267,48,432,75"/>
-<area shape="rect" id="node3" href="$d3/d31/classIFMapExporter.html#adff65202f4e55fbc89cb5c71a021477a" title="IFMapExporter::NodeState\lLookup" alt="" coords="254,99,445,141"/>
-<area shape="rect" id="node10" href="$db/db7/classIFMapState.html#a34ea84fe493d9e5e412b2f516d36b611" title="IFMapState::interest" alt="" coords="273,165,425,192"/>
-<area shape="rect" id="node11" href="$d6/dd0/classBitSet.html#a8df98e6888d3f594109600d72bb20269" title="BitSet::test" alt="" coords="302,216,397,243"/>
-<area shape="rect" id="node14" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="272,267,427,293"/>
-<area shape="rect" id="node16" href="$db/db7/classIFMapState.html#a17ad6aefd507f5abfef24a223f271b6c" title="IFMapState::advertised" alt="" coords="264,317,435,344"/>
-<area shape="rect" id="node17" href="$d3/d31/classIFMapExporter.html#ab9d29d4b358b8f7d25949553ec5685df" title="IFMapExporter::ClientHas\lConfigTracker" alt="" coords="256,369,443,410"/>
-<area shape="rect" id="node18" href="$d3/d31/classIFMapExporter.html#a7e55d7bbd3f27c335e5468bd212611fd" title="IFMapExporter::ClientConfig\lTrackerHasState" alt="" coords="248,434,451,475"/>
-<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html#a566a83c5da12a9cfdd760d722dfb394b" title="IFMapExporter::Find" alt="" coords="525,5,675,32"/>
-<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="533,56,667,83"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="514,107,686,133"/>
-<area shape="rect" id="node9" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a16f2879199fe51d54ec1d774f72a158f" title="IFMapExporter::TableInfo::id" alt="" coords="499,157,701,184"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="749,77,976,104"/>
-<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="768,129,957,170"/>
-<area shape="rect" id="node12" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="550,208,650,235"/>
-<area shape="rect" id="node13" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="549,259,651,285"/>
-<area shape="rect" id="node15" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="515,309,685,336"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,206,188,247"/>
+<area shape="rect" id="node2" href="$db/db7/classIFMapState.html#ac974c7256a1e4100bdc14ec56a9ee0df" title=" " alt="" coords="251,5,410,32"/>
+<area shape="rect" id="node3" href="$d3/d31/classIFMapExporter.html#a7e55d7bbd3f27c335e5468bd212611fd" title=" " alt="" coords="236,57,425,98"/>
+<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html#ab9d29d4b358b8f7d25949553ec5685df" title=" " alt="" coords="243,122,418,163"/>
+<area shape="rect" id="node5" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title=" " alt="" coords="254,188,407,215"/>
+<area shape="rect" id="node6" href="$db/db7/classIFMapState.html#ab127354d952306d87afe4e2cde4badac" title=" " alt="" coords="260,239,401,265"/>
+<area shape="rect" id="node7" href="$d3/d31/classIFMapExporter.html#adff65202f4e55fbc89cb5c71a021477a" title=" " alt="" coords="241,290,420,331"/>
+<area shape="rect" id="node14" href="$d6/dd0/classBitSet.html#ad0e9942d4f2f23fb69c4b95a35edc0a7" title=" " alt="" coords="287,377,375,404"/>
+<area shape="rect" id="node17" href="$dc/d17/classIFMapNode.html#ae558a024c581279d2dfcb0d08cf6154f" title=" " alt="" coords="257,453,404,480"/>
+<area shape="rect" id="node8" href="$d3/d31/classIFMapExporter.html#a9436200856a7ffd6f4ba2d6f655f5783" title=" " alt="" coords="496,175,639,201"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="486,225,649,252"/>
+<area shape="rect" id="node12" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a6f4196fc36a78311ac25a322629c9453" title=" " alt="" coords="473,276,661,303"/>
+<area shape="rect" id="node13" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="504,327,631,353"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="725,189,904,230"/>
+<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="709,255,920,281"/>
+<area shape="rect" id="node15" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="522,377,613,404"/>
+<area shape="rect" id="node16" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="521,428,613,455"/>
+<area shape="rect" id="node18" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="488,479,647,505"/>
 </map>

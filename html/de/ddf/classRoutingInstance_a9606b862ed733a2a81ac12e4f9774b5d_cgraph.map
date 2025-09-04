@@ -1,12 +1,13 @@
 <map id="RoutingInstance::ProcessRouteAggregationConfig" name="RoutingInstance::ProcessRouteAggregationConfig">
-<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#a110240d097b48aa53cbc8295e15dc17c" title="RoutingInstance::route\l_aggregator" alt="" coords="525,5,693,46"/>
-<area shape="rect" id="node3" href="$d6/ddf/classBgpInstanceConfig.html#a52b49231f1fb340f4b993cc616e83c36" title="BgpInstanceConfig::\laggregate_routes" alt="" coords="270,46,421,87"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#a49f96175ea733a407c0584ee891bac07" title="RoutingInstance::LocateRoute\lAggregator" alt="" coords="238,111,453,153"/>
-<area shape="rect" id="node11" href="$d5/dae/classIRouteAggregator.html#a1f0932eb047029358bbd4692e0d2e457" title="IRouteAggregator::Process\lAggregateRouteConfig" alt="" coords="249,177,442,218"/>
-<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="514,103,705,129"/>
-<area shape="rect" id="node6" href="$d0/def/classBgpTable.html#a2511a870274f94ba58c6ee12909233cd" title="BgpTable::LocatePathResolver" alt="" coords="501,153,717,180"/>
-<area shape="rect" id="node7" href="$d0/def/classBgpTable.html#af5af7e396646606ce93c95f0365e0448" title="BgpTable::deleter" alt="" coords="1053,103,1187,129"/>
-<area shape="rect" id="node8" href="$d0/def/classBgpTable.html#a528aa4c7601e33411e56bebad495297e" title="BgpTable::IsDeleted" alt="" coords="798,153,949,180"/>
-<area shape="rect" id="node10" href="$d0/def/classBgpTable.html#a65bee4d663e1bf94a0b390fe00f20405" title="BgpTable::CreatePathResolver" alt="" coords="765,204,981,231"/>
-<area shape="rect" id="node9" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="1030,153,1210,180"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,179,141"/>
+<area shape="rect" id="node2" href="$d6/ddf/classBgpInstanceConfig.html#a420fa82fe0fb0cc0c105ab313eeb5ea3" title=" " alt="" coords="255,5,397,47"/>
+<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#a49f96175ea733a407c0584ee891bac07" title=" " alt="" coords="227,71,425,112"/>
+<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#a245eee0f8fca33de9e36b154e27fa3d0" title=" " alt="" coords="496,129,651,171"/>
+<area shape="rect" id="node11" href="$d5/dae/classIRouteAggregator.html#a1f0932eb047029358bbd4692e0d2e457" title=" " alt="" coords="236,188,416,229"/>
+<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="485,27,662,54"/>
+<area shape="rect" id="node5" href="$d0/def/classBgpTable.html#a2511a870274f94ba58c6ee12909233cd" title=" " alt="" coords="473,78,673,105"/>
+<area shape="rect" id="node6" href="$d0/def/classBgpTable.html#a65bee4d663e1bf94a0b390fe00f20405" title=" " alt="" coords="721,27,921,54"/>
+<area shape="rect" id="node7" href="$d0/def/classBgpTable.html#af5af7e396646606ce93c95f0365e0448" title=" " alt="" coords="989,78,1112,105"/>
+<area shape="rect" id="node8" href="$d0/def/classBgpTable.html#ae915727d52675a90431e4765c9ddd7d6" title=" " alt="" coords="751,129,891,155"/>
+<area shape="rect" id="node9" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="969,129,1132,155"/>
 </map>

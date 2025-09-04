@@ -1,7 +1,8 @@
 <map id="OVSDB::OvsdbClientSslSession::OnCleanup" name="OVSDB::OvsdbClientSslSession::OnCleanup">
-<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="299,5,442,32"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="277,56,464,83"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="513,56,650,83"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="699,56,885,83"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="933,56,1077,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,220,65"/>
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title=" " alt="" coords="268,5,443,32"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title=" " alt="" coords="288,56,423,83"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title=" " alt="" coords="491,5,623,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="671,5,845,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="893,5,1029,32"/>
 </map>

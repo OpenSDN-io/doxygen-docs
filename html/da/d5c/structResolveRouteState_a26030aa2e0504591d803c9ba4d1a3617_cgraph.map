@@ -1,6 +1,0 @@
-<map id="ResolveRouteState::GetOpL3" name="ResolveRouteState::GetOpL3">
-<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="227,5,389,32"/>
-<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ade1089a4681177ce3766777a156b4957" title="VmInterface::forwarding_vrf" alt="" coords="205,56,411,83"/>
-<area shape="rect" id="node4" href="$d5/d21/classVmInterface.html#af81128d76b9847ae132b2a036257c3d1" title="VmInterface::subnet" alt="" coords="231,107,385,133"/>
-<area shape="rect" id="node5" href="$d5/d21/classVmInterface.html#a3a7e0acbca4dbf55d79ec04794a89ee1" title="VmInterface::subnet_plen" alt="" coords="213,157,403,184"/>
-</map>

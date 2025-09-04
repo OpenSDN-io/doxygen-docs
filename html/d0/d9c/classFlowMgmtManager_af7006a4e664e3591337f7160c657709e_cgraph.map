@@ -1,7 +1,8 @@
 <map id="FlowMgmtManager::BgpAsAServiceRequestHandler" name="FlowMgmtManager::BgpAsAServiceRequestHandler">
-<area shape="rect" id="node2" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#aa6885f94675d6f7e31d03d27083c0eda" title="BgpAsAServiceFlowMgmtRequest\l::type" alt="" coords="305,5,543,46"/>
-<area shape="rect" id="node3" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#ad7c78454b2c0b9ec9538f1225b3406a8" title="BgpAsAServiceFlowMgmtRequest\l::vm_uuid" alt="" coords="305,70,543,111"/>
-<area shape="rect" id="node4" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#a87b1b405b88632a1559faead658f7980" title="BgpAsAServiceFlowMgmtRequest\l::source_port" alt="" coords="305,135,543,177"/>
-<area shape="rect" id="node5" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#a8c7b15800eb5221048dcc3eda1d06847" title="BgpAsAServiceFlowMgmtRequest\l::index" alt="" coords="305,201,543,242"/>
-<area shape="rect" id="node6" href="$d0/d9c/classFlowMgmtManager.html#acae7e2f5085a818035551ab7ba150a69" title="FlowMgmtManager::agent" alt="" coords="329,267,519,293"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,240,163"/>
+<area shape="rect" id="node2" href="$d0/d9c/classFlowMgmtManager.html#afdab1a3c041c1c78bad00cd5f3d0d103" title=" " alt="" coords="313,5,487,32"/>
+<area shape="rect" id="node3" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#a2adbb265b5b78809e7f3e60037280052" title=" " alt="" coords="288,57,512,98"/>
+<area shape="rect" id="node4" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#a72888b8af3e56fb9790743e4b5e58c04" title=" " alt="" coords="288,122,512,163"/>
+<area shape="rect" id="node5" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#aa21a99284e2d1f59f8176764c3c0772b" title=" " alt="" coords="288,187,512,229"/>
+<area shape="rect" id="node6" href="$de/db5/classBgpAsAServiceFlowMgmtRequest.html#a1e707636f15767e9fd586e7a7a5db3bd" title=" " alt="" coords="288,253,512,294"/>
 </map>

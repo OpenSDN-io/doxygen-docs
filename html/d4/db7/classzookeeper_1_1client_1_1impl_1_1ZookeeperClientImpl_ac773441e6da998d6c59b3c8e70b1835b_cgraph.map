@@ -1,9 +1,10 @@
 <map id="zookeeper::client::impl::ZookeeperClientImpl::DeleteNodeSync" name="zookeeper::client::impl::ZookeeperClientImpl::DeleteNodeSync">
-<area shape="rect" id="node2" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#a1f6931b89cc45f4de68035c2422c3b00" title="zookeeper::client::\limpl::IsZooErrorRecoverable" alt="" coords="258,5,465,46"/>
-<area shape="rect" id="node3" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#aadcfec6325961c10a8fffba7c1c38218" title="zookeeper::client::\limpl::IsZooErrorUnrecoverable" alt="" coords="251,70,472,111"/>
-<area shape="rect" id="node4" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#aea85b88e2039ed72bb5dc50345d88d95" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::Reconnect" alt="" coords="263,136,459,192"/>
-<area shape="rect" id="node5" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#ac80b5bab102673d3de83bc1c5f7769d3" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::Shutdown" alt="" coords="521,96,717,152"/>
-<area shape="rect" id="node6" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a99e06e42a828b9a7910d032629cae9f5" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::Connect" alt="" coords="521,176,717,232"/>
-<area shape="rect" id="node7" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#ab705a69f576d9ae142e7753f68635e95" title="zookeeper::client::\limpl::ZookeeperWatcher" alt="" coords="766,183,949,225"/>
-<area shape="rect" id="node8" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a6984bc2ac605c6da9ca625301acdd1db" title="zookeeper::client::\limpl::ZookeeperClientImpl\l::GetClient" alt="" coords="998,176,1194,232"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,179,119"/>
+<area shape="rect" id="node2" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#a1f6931b89cc45f4de68035c2422c3b00" title=" " alt="" coords="233,5,419,47"/>
+<area shape="rect" id="node3" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#aadcfec6325961c10a8fffba7c1c38218" title=" " alt="" coords="227,71,425,112"/>
+<area shape="rect" id="node4" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#aea85b88e2039ed72bb5dc50345d88d95" title=" " alt="" coords="239,137,413,193"/>
+<area shape="rect" id="node5" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a99e06e42a828b9a7910d032629cae9f5" title=" " alt="" coords="473,97,647,153"/>
+<area shape="rect" id="node8" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#ac80b5bab102673d3de83bc1c5f7769d3" title=" " alt="" coords="473,177,647,233"/>
+<area shape="rect" id="node6" href="$db/dc6/namespacezookeeper_1_1client_1_1impl.html#ab705a69f576d9ae142e7753f68635e95" title=" " alt="" coords="695,104,857,145"/>
+<area shape="rect" id="node7" href="$d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a6984bc2ac605c6da9ca625301acdd1db" title=" " alt="" coords="905,97,1079,153"/>
 </map>

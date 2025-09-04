@@ -1,7 +1,8 @@
 <map id="BgpSenderPartition::SetQueueActive" name="BgpSenderPartition::SetQueueActive">
-<area shape="rect" id="node2" href="$d6/dfd/classIndexMap.html#a5bdc85c3c90d51e8984e2d26490c24aa" title="IndexMap::Find" alt="" coords="243,5,362,32"/>
-<area shape="rect" id="node3" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a9262ce3529a715b87e9ff930bbce5a0a" title="BgpSenderPartition\l::PeerState::SetQueueActive" alt="" coords="200,57,405,98"/>
-<area shape="rect" id="node6" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#ad0025af56e73814bfad1633f23f4128e" title="BgpSenderPartition\l::RibState::index" alt="" coords="229,122,376,163"/>
-<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#a958ab293b94f91a7461891fc49019e0d" title="BitIsSet" alt="" coords="453,39,525,65"/>
-<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a26225b3d5c0ac95d8f80dfda8905a4b4" title="SetBit" alt="" coords="459,89,520,116"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,140,98"/>
+<area shape="rect" id="node2" href="$d6/dfd/classIndexMap.html#adf3ccb2f90c7432c7f0b414daf50ea14" title=" " alt="" coords="227,5,339,32"/>
+<area shape="rect" id="node3" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a63208f99355023d3686b7f04564c1058" title=" " alt="" coords="215,57,350,98"/>
+<area shape="rect" id="node4" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a9262ce3529a715b87e9ff930bbce5a0a" title=" " alt="" coords="188,122,377,163"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a958ab293b94f91a7461891fc49019e0d" title=" " alt="" coords="425,104,495,131"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#a26225b3d5c0ac95d8f80dfda8905a4b4" title=" " alt="" coords="431,155,489,181"/>
 </map>

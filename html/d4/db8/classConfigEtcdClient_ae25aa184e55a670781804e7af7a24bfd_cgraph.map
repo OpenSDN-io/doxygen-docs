@@ -1,7 +1,8 @@
 <map id="ConfigEtcdClient::HandleEtcdConnectionStatus" name="ConfigEtcdClient::HandleEtcdConnectionStatus">
-<area shape="rect" id="node2" href="$df/dc8/classConfigDbClient.html#acdb891297d2d003be4f36a56034ec772" title="ConfigDbClient::UpdateConnectionInfo" alt="" coords="237,5,509,32"/>
-<area shape="rect" id="node4" href="$df/d58/classprocess_1_1ConnectionState.html#aee01aea290e3aa072aed9fe6acac04f6" title="process::ConnectionState\l::GetInstance" alt="" coords="280,57,467,98"/>
-<area shape="rect" id="node6" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title="process::ConnectionState\l::Update" alt="" coords="280,122,467,163"/>
-<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="573,5,728,32"/>
-<area shape="rect" id="node5" href="$df/d58/classprocess_1_1ConnectionState.html#a16dc4b9616ab7c1c26b51b86ec0d2dbf" title="process::ConnectionState\l::ConnectionState" alt="" coords="557,57,744,98"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,175,112"/>
+<area shape="rect" id="node2" href="$df/d58/classprocess_1_1ConnectionState.html#aee01aea290e3aa072aed9fe6acac04f6" title=" " alt="" coords="261,5,434,47"/>
+<area shape="rect" id="node4" href="$df/d58/classprocess_1_1ConnectionState.html#a9a8b0215751ae2caf2beac31c84a1c68" title=" " alt="" coords="261,71,434,112"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#acdb891297d2d003be4f36a56034ec772" title=" " alt="" coords="223,137,472,163"/>
+<area shape="rect" id="node3" href="$df/d58/classprocess_1_1ConnectionState.html#a16dc4b9616ab7c1c26b51b86ec0d2dbf" title=" " alt="" coords="520,5,693,47"/>
+<area shape="rect" id="node6" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="535,137,679,163"/>
 </map>

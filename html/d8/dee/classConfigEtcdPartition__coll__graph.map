@@ -1,7 +1,13 @@
 <map id="ConfigEtcdPartition" name="ConfigEtcdPartition">
-<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html" title="ConfigEtcdClient" alt="" coords="511,539,640,565"/>
-<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html" title="ConfigDbClient" alt="" coords="369,440,487,467"/>
-<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="349,349,507,376"/>
-<area shape="rect" id="node9" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="273,244,423,271"/>
-<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="620,244,735,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="473,645,608,672"/>
+<area shape="rect" id="node2" href="$d4/db8/classConfigEtcdClient.html" title=" " alt="" coords="394,549,514,575"/>
+<area shape="rect" id="node3" href="$df/dc8/classConfigDbClient.html" title=" " alt="" coords="308,452,418,479"/>
+<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html" title=" " alt="" coords="291,363,435,389"/>
+<area shape="rect" id="node5" title=" " alt="" coords="94,5,149,32"/>
+<area shape="rect" id="node9" href="$da/dbf/structConfigClientOptions.html" title=" " alt="" coords="235,243,374,269"/>
+<area shape="rect" id="node6" title=" " alt="" coords="398,243,456,269"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="582,243,688,269"/>
+<area shape="rect" id="node8" title=" " alt="" coords="594,5,676,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="443,452,646,479"/>
+<area shape="rect" id="node11" title=" " alt="" coords="538,541,719,583"/>
 </map>

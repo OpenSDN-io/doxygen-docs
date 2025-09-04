@@ -1,8 +1,9 @@
 <map id="ConcurrencyScope::ConcurrencyScope" name="ConcurrencyScope::ConcurrencyScope">
-<area shape="rect" id="node2" href="$df/df9/classConcurrencyScope.html#a21eda6c9aa166bd41a585c9d7a54a19c" title="ConcurrencyScope::SetRunningTask" alt="" coords="286,37,538,64"/>
-<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="599,12,801,39"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#afec2fb95fb2ccf1544e29f3f39ddaa5e" title="This function should not be called in production code. It is only for unit testing to control current..." alt="" coords="587,63,813,89"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="861,12,1077,39"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1126,5,1317,46"/>
-<area shape="rect" id="node7" href="$d5/db9/namespacebgp__log__test.html#a1075ea28d59f44dbfb7fd533bc2ddd54" title="bgp_log_test::unit_test" alt="" coords="884,63,1055,89"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,220,72"/>
+<area shape="rect" id="node2" href="$df/df9/classConcurrencyScope.html#a21eda6c9aa166bd41a585c9d7a54a19c" title=" " alt="" coords="268,38,505,65"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="566,13,753,39"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#afec2fb95fb2ccf1544e29f3f39ddaa5e" title="This function should not be called in production code. It is only for unit testing to control current..." alt="" coords="553,63,765,90"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="813,13,1016,39"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1064,5,1241,47"/>
+<area shape="rect" id="node7" href="$d5/db9/namespacebgp__log__test.html#a1075ea28d59f44dbfb7fd533bc2ddd54" title=" " alt="" coords="837,63,992,90"/>
 </map>

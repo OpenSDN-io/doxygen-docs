@@ -1,10 +1,13 @@
 <map id="Inet6Route" name="Inet6Route">
-<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html" title="BgpRoute" alt="" coords="57,613,140,640"/>
-<area shape="rect" id="node3" href="$de/df8/classRoute.html" title="Route" alt="" coords="73,536,132,563"/>
-<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title="DBEntry" alt="" coords="67,459,141,485"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title="DBEntryBase" alt="" coords="60,368,167,395"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="50,277,181,304"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="63,187,169,213"/>
-<area shape="rect" id="node9" href="$df/d70/classDB.html" title="DB" alt="" coords="115,96,156,123"/>
-<area shape="rect" id="node11" href="$d6/da8/classInet6Prefix.html" title="Inet6Prefix" alt="" coords="165,613,256,640"/>
+<area shape="rect" id="node1" title=" " alt="" coords="45,693,132,720"/>
+<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html" title=" " alt="" coords="49,604,129,631"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html" title=" " alt="" coords="64,528,121,555"/>
+<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="61,452,135,479"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="53,363,156,389"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="48,273,175,300"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="60,184,163,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,95,60,121"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html" title=" " alt="" coords="108,95,149,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="99,5,158,32"/>
+<area shape="rect" id="node11" href="$d6/da8/classInet6Prefix.html" title=" " alt="" coords="153,604,238,631"/>
 </map>

@@ -1,6 +1,5 @@
 var route__aggregator_8h =
 [
-    [ "AggregateRoute", "d0/dc5/classAggregateRoute.html", "d0/dc5/classAggregateRoute" ],
     [ "AggregateRouteBase", "df/dde/structAggregateRouteBase.html", "df/dde/structAggregateRouteBase" ],
     [ "AggregateInetRoute", "de/d95/classAggregateInetRoute.html", null ],
     [ "AggregateInet6Route", "d2/dd6/classAggregateInet6Route.html", null ],

@@ -1,6 +1,7 @@
 <map id="ErmVpnTable::DestroyTreeManager" name="ErmVpnTable::DestroyTreeManager">
-<area shape="rect" id="node2" href="$d3/dbd/classMcastTreeManager.html#ae63e543d5a25c76c91de375aa5ea7a80" title="McastTreeManager::Terminate" alt="" coords="248,31,464,57"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="541,5,723,32"/>
-<area shape="rect" id="node5" href="$d3/dbd/classMcastTreeManager.html#a5cc1fdd97348cce692b097ee6ce352c4" title="McastTreeManager::FreePartitions" alt="" coords="513,56,751,83"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="800,5,992,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,184,65"/>
+<area shape="rect" id="node2" href="$d3/dbd/classMcastTreeManager.html#ae63e543d5a25c76c91de375aa5ea7a80" title=" " alt="" coords="232,31,431,57"/>
+<area shape="rect" id="node3" href="$d3/dbd/classMcastTreeManager.html#a5cc1fdd97348cce692b097ee6ce352c4" title=" " alt="" coords="479,5,701,32"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title=" " alt="" coords="505,56,675,83"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title=" " alt="" coords="749,56,929,83"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="etcdserverpb::LeaseRevokeRequest::LeaseRevokeRequest" name="etcdserverpb::LeaseRevokeRequest::LeaseRevokeRequest">
-<area shape="rect" id="node2" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a456bf4b5f140d33de33cab7378102f88" title="etcdserverpb::LeaseRevoke\lRequest::internal_default\l_instance" alt="" coords="297,5,498,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a49296b59072e64952734557842311494" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseRevokeRequest" alt="" coords="275,86,519,127"/>
-<area shape="rect" id="node6" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a3207c66bc0480ebcb4c7ab2cb8370c87" title="etcdserverpb::LeaseRevoke\lRequest::SharedCtor" alt="" coords="297,151,498,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ab4867343c1ad90509874f0cd51139546" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseRevokeRequestImpl" alt="" coords="569,86,842,127"/>
-<area shape="rect" id="node5" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a47aab4df2e5d702a19ca11678e428e6c" title="etcdserverpb::LeaseRevoke\lRequest::InitAsDefaultInstance" alt="" coords="891,86,1114,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,208,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a49296b59072e64952734557842311494" title=" " alt="" coords="256,5,479,47"/>
+<area shape="rect" id="node5" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a456bf4b5f140d33de33cab7378102f88" title=" " alt="" coords="276,71,459,127"/>
+<area shape="rect" id="node6" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a3207c66bc0480ebcb4c7ab2cb8370c87" title=" " alt="" coords="276,152,459,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ab4867343c1ad90509874f0cd51139546" title=" " alt="" coords="527,5,773,47"/>
+<area shape="rect" id="node4" href="$d3/d6a/classetcdserverpb_1_1LeaseRevokeRequest.html#a47aab4df2e5d702a19ca11678e428e6c" title=" " alt="" coords="821,5,1025,47"/>
 </map>

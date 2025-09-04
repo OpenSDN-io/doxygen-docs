@@ -1,6 +1,7 @@
 <map id="AgentConfig::RegisterDBClients" name="AgentConfig::RegisterDBClients">
-<area shape="rect" id="node2" href="$d1/d09/classIFMapTable.html#a5004d1fb81da83fb78734df36e2aa12f" title="IFMapTable::FindTable" alt="" coords="280,31,443,57"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ac3c6e36bd8c8c2d991028be2ad7b921b" title="Agent::db" alt="" coords="319,81,403,108"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="491,5,643,32"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title="DB::FindTable" alt="" coords="512,56,621,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,216,57"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab285bc334d7944ea376b7eb606a94000" title=" " alt="" coords="302,5,381,32"/>
+<area shape="rect" id="node3" href="$d1/d09/classIFMapTable.html#a5004d1fb81da83fb78734df36e2aa12f" title=" " alt="" coords="264,56,419,83"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title=" " alt="" coords="485,31,591,57"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="467,81,609,108"/>
 </map>

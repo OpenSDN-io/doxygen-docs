@@ -1,19 +1,31 @@
 <map id="MetadataProxy::OnAVrfChange" name="MetadataProxy::OnAVrfChange">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="525,155,702,181"/>
-<area shape="rect" id="node3" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title="ServicesModule::agent" alt="" coords="286,72,455,99"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="305,123,436,149"/>
-<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a40e6de848a5b218426c58ac30d60aa26" title="VrfEntry::GetInet6Unicast\lRouteTable" alt="" coords="277,6,464,47"/>
-<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title="DBTableBase::Register" alt="" coords="287,224,455,251"/>
-<area shape="rect" id="node9" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="275,311,467,353"/>
-<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a754792e5fc7bbe3e396a8b61cc7b29f0" title="VrfEntry::GetRouteTable" alt="" coords="525,13,701,40"/>
-<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#a8c9efc7dbca95d5f641b72d76f860a73" title="VrfEntry::RouteTableDeleted" alt="" coords="761,13,965,40"/>
-<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="525,337,701,364"/>
-<area shape="rect" id="node12" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="515,388,712,415"/>
-<area shape="rect" id="node15" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="539,439,688,465"/>
-<area shape="rect" id="node16" href="$de/d30/classInterfaceNH.html#a4372449ea4b16b5d92b3e469953346d8" title="InterfaceNH::GetInterface" alt="" coords="519,489,708,516"/>
-<area shape="rect" id="node17" href="$d5/d21/classVmInterface.html#a59a1f65611be4d86e4201704f6dfa55b" title="VmInterface::mdata\l_ip6_addr" alt="" coords="537,206,689,247"/>
-<area shape="rect" id="node18" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="524,271,703,313"/>
-<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="771,337,954,364"/>
-<area shape="rect" id="node13" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="813,388,912,415"/>
-<area shape="rect" id="node14" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="778,439,947,465"/>
+<area shape="rect" id="node1" title="A callback that is invoked each time when a VRF entry is modified: added, changed or deleted." alt="" coords="5,304,209,331"/>
+<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="733,6,889,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#aa166dd176c87f9db039517f7ef051d17" title=" " alt="" coords="287,334,406,360"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="260,422,433,464"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="492,34,659,60"/>
+<area shape="rect" id="node8" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="257,268,436,309"/>
+<area shape="rect" id="node28" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title=" " alt="" coords="267,563,426,590"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="493,551,658,578"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a2fb89a60a53895197657b6510d654abe" title=" " alt="" coords="717,602,906,628"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="493,399,657,426"/>
+<area shape="rect" id="node11" href="$d4/d57/classAgentRoute.html#a6e333f7398c11428594f33747c20c554" title=" " alt="" coords="484,450,667,476"/>
+<area shape="rect" id="node14" href="$de/d30/classInterfaceNH.html#a58959a145e76232e41dd03a28542b5bc" title=" " alt="" coords="488,500,663,527"/>
+<area shape="rect" id="node15" href="$d5/d21/classVmInterface.html#a6cafcd1afa18945fd209b48d6e1eaab0" title=" " alt="" coords="506,85,645,126"/>
+<area shape="rect" id="node16" href="$db/d96/classMetadataProxy.html#aa66919db6dfadb17b89292ab99e42ba9" title="Adds routes to internal addresses of VM&#39;s interfaces." alt="" coords="485,333,666,374"/>
+<area shape="rect" id="node25" href="$db/d96/classMetadataProxy.html#a2dd15df80598cda1d4c8331744fa461b" title="Adds a new neighbour (an arp entry) with given IP and MAC addresses." alt="" coords="485,150,666,192"/>
+<area shape="rect" id="node26" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="507,216,644,243"/>
+<area shape="rect" id="node27" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="493,268,657,309"/>
+<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="726,450,897,476"/>
+<area shape="rect" id="node12" href="$de/df8/classRoute.html#a7dca06e09d43f3fae87715e0a7dd2454" title=" " alt="" coords="766,500,857,527"/>
+<area shape="rect" id="node13" href="$d4/d3d/classAgentPath.html#aa57c8f9e6ae11f258548c80659bc1e6a" title=" " alt="" coords="732,551,891,578"/>
+<area shape="rect" id="node17" href="$de/dc3/classaux_1_1NetlinkSocket.html#a6d324e0a253160577bb1c580d5aa7893" title="Returns a reference to the Netlink socket descriptor." alt="" coords="956,134,1107,160"/>
+<area shape="rect" id="node18" href="$d0/da7/structaux_1_1NetlinkRequest.html#a33cd6e02b12ae10fa032195389fa4c1d" title="Inserts an attribute stored in attr_data into this Netlink reequest." alt="" coords="742,333,881,374"/>
+<area shape="rect" id="node20" href="$d0/da7/structaux_1_1NetlinkRequest.html#ab23c0a6c4af5d997eb9e3bc01891a0ed" title="Returns a pointer to the Netlink message, generated using this class." alt="" coords="962,192,1101,233"/>
+<area shape="rect" id="node21" href="$de/dc3/classaux_1_1NetlinkSocket.html#ad30c09d9581746f7b25c4b8a7e1bbc22" title="Returns a reference to the Netlink socket sockaddr struct." alt="" coords="966,270,1097,312"/>
+<area shape="rect" id="node22" href="$df/d1f/namespaceaux.html#aee7eb6097d38c9858d6310adaba4cb96" title="Reads a response (ack/nock) after a Netlink request." alt="" coords="730,180,893,207"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#a7a7650115f4a9fc4dd8ac2f8c5765a65" title=" " alt="" coords="715,399,908,426"/>
+<area shape="rect" id="node24" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name." alt="" coords="720,79,903,106"/>
+<area shape="rect" id="node19" href="$df/d1f/namespaceaux.html#ada23bf2f00c991e9fb45a42ee99f8464" title="A wrapper function to insert an attribute into a netlink message." alt="" coords="977,340,1086,367"/>
+<area shape="rect" id="node29" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="504,602,647,628"/>
 </map>

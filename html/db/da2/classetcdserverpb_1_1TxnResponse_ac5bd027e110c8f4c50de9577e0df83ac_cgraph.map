@@ -1,8 +1,9 @@
 <map id="etcdserverpb::TxnResponse::MergeFrom" name="etcdserverpb::TxnResponse::MergeFrom">
-<area shape="rect" id="node2" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a709dd39426284e56ce0f482f84502b37" title="etcdserverpb::TxnResponse\l::has_header" alt="" coords="257,5,458,46"/>
-<area shape="rect" id="node4" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a0ead8e0ffb71c7c3c8955be9f8481958" title="etcdserverpb::TxnResponse\l::mutable_header" alt="" coords="257,70,458,111"/>
-<area shape="rect" id="node5" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a01e7febfa8d8a2ba5132a8b5ff17acaf" title="etcdserverpb::TxnResponse\l::header" alt="" coords="257,135,458,177"/>
-<area shape="rect" id="node6" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a59277095d09e8004eb84069b32828a09" title="etcdserverpb::TxnResponse\l::succeeded" alt="" coords="257,201,458,242"/>
-<area shape="rect" id="node7" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#aa824969c61b2d858b0f0ca540484ba91" title="etcdserverpb::TxnResponse\l::set_succeeded" alt="" coords="257,266,458,307"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="507,5,731,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,192,177"/>
+<area shape="rect" id="node2" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a67204d378919877af6112e9f6ca0f5a0" title=" " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node4" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a0ee90bdd2c8a66f5a0ac8d1f52ed2ad2" title=" " alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node5" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#a0ead8e0ffb71c7c3c8955be9f8481958" title=" " alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node6" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#aa824969c61b2d858b0f0ca540484ba91" title=" " alt="" coords="240,201,427,243"/>
+<area shape="rect" id="node7" href="$db/da2/classetcdserverpb_1_1TxnResponse.html#ab9c1206fddc9d79c8f5a2370ad4b4873" title=" " alt="" coords="240,267,427,308"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="475,5,681,47"/>
 </map>

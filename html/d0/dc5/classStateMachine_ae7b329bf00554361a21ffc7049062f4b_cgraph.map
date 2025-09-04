@@ -1,6 +1,7 @@
 <map id="StateMachine::set_last_notification_in" name="StateMachine::set_last_notification_in">
-<area shape="rect" id="node2" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="263,5,417,32"/>
-<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title="StateMachine::peer" alt="" coords="267,56,413,83"/>
-<area shape="rect" id="node4" href="$de/d90/structBgpProto_1_1Notification.html#aa7ae2709613b7e3f092519f980bc2a67" title="BgpProto::Notification\l::toString" alt="" coords="258,107,422,149"/>
-<area shape="rect" id="node5" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title="StateMachine::BGPPeerInfoSend" alt="" coords="225,173,455,200"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,161,119"/>
+<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title=" " alt="" coords="209,5,424,32"/>
+<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title=" " alt="" coords="249,56,384,83"/>
+<area shape="rect" id="node4" href="$de/d90/structBgpProto_1_1Notification.html#aa7ae2709613b7e3f092519f980bc2a67" title=" " alt="" coords="241,107,392,149"/>
+<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="245,173,389,200"/>
 </map>

@@ -26,7 +26,7 @@ var classInterfaceUveTable =
     [ "DispatchInterfaceMsg", "d6/d1c/classInterfaceUveTable.html#ab7a7d749fb16167f28a591f7d179225d", null ],
     [ "DispatchInterfaceObjectLog", "d6/d1c/classInterfaceUveTable.html#a2cb62c5ea9f59048d837883a7b3b6052", null ],
     [ "DispatchVMIStatsMsg", "d6/d1c/classInterfaceUveTable.html#a247554c84848e7f750f6f4d1ea3378a5", null ],
-    [ "DispatchVMITagsMsg", "d6/d1c/classInterfaceUveTable.html#a385a379ad0d5a9d9defbe47ee7302e6f", null ],
+    [ "DispatchVMITagsMsg", "d6/d1c/classInterfaceUveTable.html#a70f23f2d5c948139889f8ddf3b845d39", null ],
     [ "HandleVmiTagListChange", "d6/d1c/classInterfaceUveTable.html#af0d0f9b47ccc4235640aa12ebb1d464e", null ],
     [ "InterfaceAddHandler", "d6/d1c/classInterfaceUveTable.html#ad2d0bcfdb41245a5b839dd7b4a980e86", null ],
     [ "InterfaceDeleteHandler", "d6/d1c/classInterfaceUveTable.html#a5a6a9d96151457892c7d6e80192e1883", null ],

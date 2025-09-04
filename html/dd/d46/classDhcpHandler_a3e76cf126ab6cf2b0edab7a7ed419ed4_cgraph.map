@@ -1,7 +1,8 @@
 <map id="DhcpHandler::UpdateStats" name="DhcpHandler::UpdateStats">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="269,5,421,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ae45040fa59c05a496eb4a49a1d5674f9" title="Agent::GetDhcpProto" alt="" coords="266,56,425,83"/>
-<area shape="rect" id="node4" href="$d8/d04/classDhcpProto.html#a24513c05450d38a7a3601d10c3a700c9" title="DhcpProto::IncrStatsOffers" alt="" coords="249,107,442,133"/>
-<area shape="rect" id="node5" href="$d8/d04/classDhcpProto.html#a848cd094309bef13bd0dce93aa0d2b0d" title="DhcpProto::IncrStatsAcks" alt="" coords="253,157,438,184"/>
-<area shape="rect" id="node6" href="$d8/d04/classDhcpProto.html#ab1e199f0dbbff6fa4403612a4e6459ce" title="DhcpProto::IncrStatsNacks" alt="" coords="248,208,443,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,184,133"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="254,5,393,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a937af7f96dcbf59e9f15773fdd847e3b" title=" " alt="" coords="250,56,397,83"/>
+<area shape="rect" id="node4" href="$d8/d04/classDhcpProto.html#a848cd094309bef13bd0dce93aa0d2b0d" title=" " alt="" coords="236,107,411,133"/>
+<area shape="rect" id="node5" href="$d8/d04/classDhcpProto.html#ab1e199f0dbbff6fa4403612a4e6459ce" title=" " alt="" coords="232,157,415,184"/>
+<area shape="rect" id="node6" href="$d8/d04/classDhcpProto.html#a24513c05450d38a7a3601d10c3a700c9" title=" " alt="" coords="233,208,414,235"/>
 </map>

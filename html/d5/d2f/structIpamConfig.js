@@ -14,7 +14,7 @@ var structIpamConfig =
     [ "GetObject", "d5/d2f/structIpamConfig.html#a2a3cbb307ff6233488743bb0012d314e", null ],
     [ "GetVirtualDns", "d5/d2f/structIpamConfig.html#a4c70b163985bbab0b3a29d71dd4a70c7", null ],
     [ "GetVirtualDnsName", "d5/d2f/structIpamConfig.html#a7c7ff1b8ba45719873b661937accd7a2", null ],
-    [ "GetVnniList", "d5/d2f/structIpamConfig.html#a3c0ec3831971e3f77816ae97ae777840", null ],
+    [ "GetVnniList", "d5/d2f/structIpamConfig.html#ac5524c0b8da28dca658926dd8348dfab", null ],
     [ "Notify", "d5/d2f/structIpamConfig.html#af8c922fcffdb6a4e9496d9a77f34b9f4", null ],
     [ "OnAdd", "d5/d2f/structIpamConfig.html#a3ac820fa1dd3d3d83a4e570c0faa386a", null ],
     [ "OnChange", "d5/d2f/structIpamConfig.html#a17f4b28da60df23b3c47aa0df5dfe208", null ],

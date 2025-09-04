@@ -1,5 +1,6 @@
 <map id="IpamConfig::Delete" name="IpamConfig::Delete">
-<area shape="rect" id="node2" href="$d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49" title="DnsConfig::MarkDelete" alt="" coords="212,5,383,32"/>
-<area shape="rect" id="node3" href="$d5/d2f/structIpamConfig.html#af8c922fcffdb6a4e9496d9a77f34b9f4" title="IpamConfig::Notify" alt="" coords="225,56,369,83"/>
-<area shape="rect" id="node4" href="$d0/d31/structVirtualDnsConfig.html#ac8966db363319b26a45ce86832bbec74" title="VirtualDnsConfig::DelIpam" alt="" coords="200,107,395,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#ac8966db363319b26a45ce86832bbec74" title=" " alt="" coords="188,5,367,32"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49" title=" " alt="" coords="197,56,357,83"/>
+<area shape="rect" id="node4" href="$d5/d2f/structIpamConfig.html#af8c922fcffdb6a4e9496d9a77f34b9f4" title=" " alt="" coords="211,107,343,133"/>
 </map>

@@ -1,6 +1,5 @@
 var derived__stats_8h =
 [
-    [ "SandeshStructDeleteTrait", "d3/dfe/structSandeshStructDeleteTrait.html", "d3/dfe/structSandeshStructDeleteTrait" ],
     [ "DerivedStatsIf", "d3/dca/classcontrail_1_1sandesh_1_1DerivedStatsIf.html", "d3/dca/classcontrail_1_1sandesh_1_1DerivedStatsIf" ],
     [ "DerivedStatsPeriodicIf", "da/d02/classcontrail_1_1sandesh_1_1DerivedStatsPeriodicIf.html", "da/d02/classcontrail_1_1sandesh_1_1DerivedStatsPeriodicIf" ],
     [ "DSPeriodicIsSet", "d3/ddb/classcontrail_1_1sandesh_1_1DSPeriodicIsSet.html", "d3/ddb/classcontrail_1_1sandesh_1_1DSPeriodicIsSet" ],

@@ -1,8 +1,9 @@
 <map id="igmp_packet_" name="igmp_packet_">
-<area shape="rect" id="node2" href="$dd/dc2/structigmp__v3__report__.html" title="igmp_v3_report_" alt="" coords="525,96,656,123"/>
-<area shape="rect" id="node3" href="$d4/d10/structigmp__hdr__.html" title="igmp_hdr_" alt="" coords="283,5,373,32"/>
-<area shape="rect" id="node5" href="$df/d18/structigmp__v3__query__.html" title="igmp_v3_query_" alt="" coords="5,96,133,123"/>
-<area shape="rect" id="node6" href="$d3/dd7/structigmp__naked__header__.html" title="igmp_naked_header_" alt="" coords="163,96,324,123"/>
-<area shape="rect" id="node7" href="$df/d93/structigmp__v1v2__pkt__.html" title="igmp_v1v2_pkt_" alt="" coords="351,96,480,123"/>
-<area shape="rect" id="node4" href="$d3/d84/structigmp__v3__rpt__rcrd__.html" title="igmp_v3_rpt_rcrd_" alt="" coords="685,5,827,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="251,184,353,211"/>
+<area shape="rect" id="node2" href="$dd/dc2/structigmp__v3__report__.html" title=" " alt="" coords="476,95,595,121"/>
+<area shape="rect" id="node3" href="$d4/d10/structigmp__hdr__.html" title=" " alt="" coords="258,5,341,32"/>
+<area shape="rect" id="node5" href="$df/d18/structigmp__v3__query__.html" title=" " alt="" coords="5,95,124,121"/>
+<area shape="rect" id="node6" href="$d3/dd7/structigmp__naked__header__.html" title=" " alt="" coords="153,95,297,121"/>
+<area shape="rect" id="node7" href="$df/d93/structigmp__v1v2__pkt__.html" title=" " alt="" coords="322,95,439,121"/>
+<area shape="rect" id="node4" href="$d3/d84/structigmp__v3__rpt__rcrd__.html" title=" " alt="" coords="621,5,751,32"/>
 </map>

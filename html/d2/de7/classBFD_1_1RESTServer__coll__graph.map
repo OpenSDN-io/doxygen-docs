@@ -1,6 +1,10 @@
 <map id="BFD::RESTServer" name="BFD::RESTServer">
-<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html" title="BFD::Server" alt="" coords="216,277,315,304"/>
-<area shape="rect" id="node3" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html" title="BFD::Server::SessionManager" alt="" coords="5,187,216,213"/>
-<area shape="rect" id="node5" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="208,96,323,123"/>
-<area shape="rect" id="node7" href="$db/d0c/classBFD_1_1Connection.html" title="BFD::Connection" alt="" coords="331,187,460,213"/>
+<area shape="rect" id="node1" title=" " alt="" coords="241,363,370,389"/>
+<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html" title=" " alt="" coords="206,273,301,300"/>
+<area shape="rect" id="node3" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html" title=" " alt="" coords="5,184,205,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="38,95,173,121"/>
+<area shape="rect" id="node5" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="199,95,305,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,5,293,32"/>
+<area shape="rect" id="node7" href="$db/d0c/classBFD_1_1Connection.html" title=" " alt="" coords="315,184,437,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="328,273,387,300"/>
 </map>

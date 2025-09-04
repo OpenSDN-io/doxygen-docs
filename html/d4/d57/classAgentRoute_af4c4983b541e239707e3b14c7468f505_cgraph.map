@@ -1,7 +1,0 @@
-<map id="AgentRoute::WaitForTraffic" name="AgentRoute::WaitForTraffic">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="279,5,420,32"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="287,56,412,83"/>
-<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="293,107,405,133"/>
-<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="248,157,451,184"/>
-<area shape="rect" id="node6" href="$d8/d35/classPathPreference.html#a1192c808001f4e82442205bb834809f3" title="PathPreference::wait\l_for_traffic" alt="" coords="271,209,427,250"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="EvpnManager::MayDelete" name="EvpnManager::MayDelete">
+<area shape="rect" id="node1" title="Trigger deletion of the EvpnManager and propagate the delete to any dependents." alt="" coords="5,46,179,73"/>
+<area shape="rect" id="node2" href="$d9/dd0/classEvpnManagerPartition.html#ae06e2cd13688f7812db39efa93a1e13a" title="Return true if the EvpnManagerPartition is empty i.e. it has no local or remote EvpnMcastNodes and no..." alt="" coords="227,5,377,47"/>
+<area shape="rect" id="node3" href="$d9/dd0/classEvpnManagerPartition.html#ad9cd11b23fa32f29e016768559af87da" title=" " alt="" coords="227,71,377,112"/>
+</map>

@@ -1,5 +1,6 @@
 <map id="VxlanRoutingManager::FindPathWithGivenPeer" name="VxlanRoutingManager::FindPathWithGivenPeer">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="235,5,376,32"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="243,56,368,83"/>
-<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="249,107,361,133"/>
+<area shape="rect" id="node1" title="Finds in the given route the path with a specified Peer type." alt="" coords="5,49,173,90"/>
+<area shape="rect" id="node2" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="221,5,356,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="236,56,341,83"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="231,107,347,133"/>
 </map>

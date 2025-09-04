@@ -2,7 +2,7 @@ var classIFMapServerTable =
 [
     [ "RequestData", "dd/d05/structIFMapServerTable_1_1RequestData.html", "dd/d05/structIFMapServerTable_1_1RequestData" ],
     [ "IFMapServerTable", "dc/dd4/classIFMapServerTable.html#a5d368d658f3721a7a3e36dc35622155a", null ],
-    [ "AllocEntry", "dc/dd4/classIFMapServerTable.html#ae5a51606c2c748c1e4d08e304f90447f", null ],
+    [ "AllocEntry", "dc/dd4/classIFMapServerTable.html#aeca93983cfff96638d58f2583c5caff5", null ],
     [ "Clear", "dc/dd4/classIFMapServerTable.html#a29ca0c1a59d7ba53027a4f9d19829c5f", null ],
     [ "DeleteIfEmpty", "dc/dd4/classIFMapServerTable.html#ada768a2db59d5f7600be2de2ff564b6f", null ],
     [ "DeleteNode", "dc/dd4/classIFMapServerTable.html#aef8418bbe0ca3cbfe8e6b6b3c55530d7", null ],

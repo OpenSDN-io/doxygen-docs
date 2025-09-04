@@ -1,0 +1,105 @@
+var namespaces_dup =
+[
+    [ "AgentUtXmlUtils", "d6/d24/namespaceAgentUtXmlUtils.html", [
+      [ "AddXmlNodeWithAttr", "d6/d24/namespaceAgentUtXmlUtils.html#a90ac00d0319cb38c7a70b5d134e22083", null ],
+      [ "AddXmlNodeWithAttr", "d6/d24/namespaceAgentUtXmlUtils.html#a6e216aa640deceb6dd954b74b13c01be", null ],
+      [ "AddXmlNodeWithIntValue", "d6/d24/namespaceAgentUtXmlUtils.html#ae11e1b3234117bf140c621c75552e49a", null ],
+      [ "AddXmlNodeWithIntValue", "d6/d24/namespaceAgentUtXmlUtils.html#a65c1002bfc1984e3dcdf86b173759a4f", null ],
+      [ "AddXmlNodeWithValue", "d6/d24/namespaceAgentUtXmlUtils.html#ab182ac0831708f0d2447d1e2682fae3f", null ],
+      [ "AddXmlNodeWithValue", "d6/d24/namespaceAgentUtXmlUtils.html#a42ca505537164ce3e16911697024ed06", null ],
+      [ "GetBoolAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#abdb520f43eed9d98d541862e82ecfd99", null ],
+      [ "GetBoolAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#af94cdfd1942c699c910a1499697f6e45", null ],
+      [ "GetIntAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#a6b29716b9bf95168ab39abed9da0b2ba", null ],
+      [ "GetIntAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#a15f3e30a44d37026dbf94fe242a7d3a1", null ],
+      [ "GetStringAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#abc5551284fc9bad08505d70508508573", null ],
+      [ "GetStringAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#aa6cc18bdabca15e0fdb72419750d5b11", null ],
+      [ "GetUintAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#a48c1bf9e5961968f5aa33d6ab5f8c7a4", null ],
+      [ "GetUintAttribute", "d6/d24/namespaceAgentUtXmlUtils.html#a316028bfc8b7a5e2d368bb86836713c4", null ],
+      [ "LinkXmlNode", "d6/d24/namespaceAgentUtXmlUtils.html#aac295f309e087dfd19fef1a5231de71c", null ],
+      [ "LinkXmlNode", "d6/d24/namespaceAgentUtXmlUtils.html#a691f94ac30fced37b3981733557f6eb9", null ],
+      [ "NovaIntfAdd", "d6/d24/namespaceAgentUtXmlUtils.html#a139d8d3b23edae17b423dd6292f0278f", null ],
+      [ "NovaIntfAdd", "d6/d24/namespaceAgentUtXmlUtils.html#ab5ac48a843cd48d653a89085d17470f3", null ]
+    ] ],
+    [ "authpb", "d6/d57/namespaceauthpb.html", "d6/d57/namespaceauthpb" ],
+    [ "autogen", "d2/dac/namespaceautogen.html", [
+      [ "FormatDateTime", "d2/dac/namespaceautogen.html#a26384a3bddca60a657e3f4761023434c", null ],
+      [ "FormatTime", "d2/dac/namespaceautogen.html#a76976993264b3c04e45eb7e51b309393", null ],
+      [ "ParseBoolean", "d2/dac/namespaceautogen.html#a8997c4cc5f1c7474b2e2f68cddd8ff69", null ],
+      [ "ParseBoolean", "d2/dac/namespaceautogen.html#a3f15f248b526da75a2ea5ed9415bb506", null ],
+      [ "ParseBoolean", "d2/dac/namespaceautogen.html#a14bac99a0ac052204b2c5d00f805c450", null ],
+      [ "ParseBoolean", "d2/dac/namespaceautogen.html#aef582b071c3d5f8c3c7c0ec7a7d944e0", null ],
+      [ "ParseDateTime", "d2/dac/namespaceautogen.html#a56e7a99b65692fb99c2fb04ac675ff72", null ],
+      [ "ParseDateTime", "d2/dac/namespaceautogen.html#a256f904a5c9c6c580c39b452ddeaf5cd", null ],
+      [ "ParseInteger", "d2/dac/namespaceautogen.html#a945959de0b568c01c0ec7e0a772e1162", null ],
+      [ "ParseInteger", "d2/dac/namespaceautogen.html#af07def679b78a8d72c6ef8acfd0608bc", null ],
+      [ "ParseInteger", "d2/dac/namespaceautogen.html#a97603a25af3e08e16b4130958ce9d48c", null ],
+      [ "ParseInteger", "d2/dac/namespaceautogen.html#a2544646fe22df00a31cd799377d99cb7", null ],
+      [ "ParseString", "d2/dac/namespaceautogen.html#a112c34c3db5c1a84374763e3f3bdf4db", null ],
+      [ "ParseTime", "d2/dac/namespaceautogen.html#a2dfd01c6f713424d0af5e90ff46c523a", null ],
+      [ "ParseTime", "d2/dac/namespaceautogen.html#aa544e5344631c84d28e4db48c7da0155", null ],
+      [ "ParseUnsignedLong", "d2/dac/namespaceautogen.html#a88ca50ee4e64e4298354bdc7c48e1dbd", null ],
+      [ "ParseUnsignedLong", "d2/dac/namespaceautogen.html#a518ca8faeb5e47a5a91e9aa8f23654bc", null ],
+      [ "ParseUnsignedLong", "d2/dac/namespaceautogen.html#a23805779ec6b1100d6610894c860e813", null ],
+      [ "ParseUnsignedLong", "d2/dac/namespaceautogen.html#acfc33297c210951e13803a4d492394c6", null ]
+    ] ],
+    [ "aux", "df/d1f/namespaceaux.html", "df/d1f/namespaceaux" ],
+    [ "BFD", "d1/d0a/namespaceBFD.html", "d1/d0a/namespaceBFD" ],
+    [ "bgp_log_test", "d5/db9/namespacebgp__log__test.html", [
+      [ "init", "d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0", null ],
+      [ "init", "d5/db9/namespacebgp__log__test.html#aaed5d24d9e5d53380036eb2c036439eb", null ],
+      [ "init_common", "d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad", null ],
+      [ "LogServerName", "d5/db9/namespacebgp__log__test.html#a5b014e718b3e57fdcc0241ac81e2eeb2", null ],
+      [ "LogServerName", "d5/db9/namespacebgp__log__test.html#ad7506f43e277480acad04b5c1aceee2c", null ],
+      [ "unit_test", "d5/db9/namespacebgp__log__test.html#a1075ea28d59f44dbfb7fd533bc2ddd54", null ],
+      [ "unit_test_", "d5/db9/namespacebgp__log__test.html#a7bb6ac3189154af4c29a12f7c7188ce3", null ]
+    ] ],
+    [ "boost", "d4/da9/namespaceboost.html", "d4/da9/namespaceboost" ],
+    [ "cass", "d4/db0/namespacecass.html", "d4/db0/namespacecass" ],
+    [ "contrail", "d2/dfa/namespacecontrail.html", "d2/dfa/namespacecontrail" ],
+    [ "detail", "dd/d39/namespacedetail.html", "dd/d39/namespacedetail" ],
+    [ "etcd", "d1/d48/namespaceetcd.html", "d1/d48/namespaceetcd" ],
+    [ "etcdserverpb", "da/d56/namespaceetcdserverpb.html", "da/d56/namespaceetcdserverpb" ],
+    [ "fsm", "df/d91/namespacefsm.html", "df/d91/namespacefsm" ],
+    [ "GenDb", "d5/d8f/namespaceGenDb.html", "d5/d8f/namespaceGenDb" ],
+    [ "google", "df/d40/namespacegoogle.html", "df/d40/namespacegoogle" ],
+    [ "grpc", "d4/d4f/namespacegrpc.html", null ],
+    [ "IgmpInfo", "dd/d27/namespaceIgmpInfo.html", "dd/d27/namespaceIgmpInfo" ],
+    [ "io", "d1/d96/namespaceio.html", "d1/d96/namespaceio" ],
+    [ "mvccpb", "d3/d96/namespacemvccpb.html", "d3/d96/namespacemvccpb" ],
+    [ "options", "d2/df2/namespaceoptions.html", "d2/df2/namespaceoptions" ],
+    [ "OVSDB", "dd/de3/namespaceOVSDB.html", "dd/de3/namespaceOVSDB" ],
+    [ "Patricia", "d5/dfb/namespacePatricia.html", "d5/dfb/namespacePatricia" ],
+    [ "process", "d8/d25/namespaceprocess.html", "d8/d25/namespaceprocess" ],
+    [ "protobuf_auth_2eproto", "d0/dd3/namespaceprotobuf__auth__2eproto.html", "d0/dd3/namespaceprotobuf__auth__2eproto" ],
+    [ "protobuf_etcdserver_2eproto", "d7/dee/namespaceprotobuf__etcdserver__2eproto.html", "d7/dee/namespaceprotobuf__etcdserver__2eproto" ],
+    [ "protobuf_kv_2eproto", "df/d94/namespaceprotobuf__kv__2eproto.html", "df/d94/namespaceprotobuf__kv__2eproto" ],
+    [ "protobuf_rpc_2eproto", "dc/df9/namespaceprotobuf__rpc__2eproto.html", "dc/df9/namespaceprotobuf__rpc__2eproto" ],
+    [ "pugi", "d3/d68/namespacepugi.html", null ],
+    [ "REST", "d9/d92/namespaceREST.html", [
+      [ "SendErrorResponse", "d9/d92/namespaceREST.html#a588eb2334606dc932aa3a10416c5d01e", null ],
+      [ "SendResponse", "d9/d92/namespaceREST.html#ae49015cf94b36b52dc4446932a3d19c6", null ]
+    ] ],
+    [ "sandesh", "da/dcc/namespacesandesh.html", "da/dcc/namespacesandesh" ],
+    [ "scm", "d4/d7f/namespacescm.html", "d4/d7f/namespacescm" ],
+    [ "ssm", "d5/d58/namespacessm.html", "d5/d58/namespacessm" ],
+    [ "std", "d8/dcc/namespacestd.html", [
+      [ "swap< UpdateInfo >", "d8/dcc/namespacestd.html#a3452573a906656e2a92f96221cbf0fd8", null ]
+    ] ],
+    [ "xmps", "d8/de0/namespacexmps.html", [
+      [ "PeerId", "d8/de0/namespacexmps.html#a4e2fd9d1861fc5956303f67e83af7dce", [
+        [ "CONFIG", "d8/de0/namespacexmps.html#a4e2fd9d1861fc5956303f67e83af7dcea63936f94cac7be7057dcb7bfea2f382d", null ],
+        [ "BGP", "d8/de0/namespacexmps.html#a4e2fd9d1861fc5956303f67e83af7dcea43310c321ef49a4eaf65f3d267cd9ea1", null ],
+        [ "DNS", "d8/de0/namespacexmps.html#a4e2fd9d1861fc5956303f67e83af7dcea16500dd001b0820b24b2d270369af008", null ],
+        [ "OTHER", "d8/de0/namespacexmps.html#a4e2fd9d1861fc5956303f67e83af7dceab728bbcd7ad8c2c35442d2c485bca0d8", null ]
+      ] ],
+      [ "PeerState", "d8/de0/namespacexmps.html#a60e760317f84c6315a626c91042b17df", [
+        [ "UNKNOWN", "d8/de0/namespacexmps.html#a60e760317f84c6315a626c91042b17dfa99d081e9497eb2b03cefd4c6bc63f953", null ],
+        [ "READY", "d8/de0/namespacexmps.html#a60e760317f84c6315a626c91042b17dfa3f0b0463f05b17de4f13715a4ac64c0b", null ],
+        [ "NOT_READY", "d8/de0/namespacexmps.html#a60e760317f84c6315a626c91042b17dfaf1bb317e39d8e5cedf19ee0634aa6dde", null ],
+        [ "TIMEDOUT", "d8/de0/namespacexmps.html#a60e760317f84c6315a626c91042b17dfa611659bd9398d2621d3d4108a4a573fc", null ]
+      ] ],
+      [ "PeerIdToName", "d8/de0/namespacexmps.html#a134f094cfef8101b60d554be314c4070", null ]
+    ] ],
+    [ "xmsm", "d8/d9a/namespacexmsm.html", "d8/d9a/namespacexmsm" ],
+    [ "zookeeper", "d5/dfa/namespacezookeeper.html", "d5/dfa/namespacezookeeper" ]
+];

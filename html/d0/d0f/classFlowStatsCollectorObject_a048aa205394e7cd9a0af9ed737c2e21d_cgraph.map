@@ -1,8 +1,9 @@
 <map id="FlowStatsCollectorObject::FlowStatsCollectorObject" name="FlowStatsCollectorObject::FlowStatsCollectorObject">
-<area shape="rect" id="node2" href="$db/d77/classFlowStatsCollector.html#a7bda5b0705cd3429ec24b005a4f94a15" title="FlowStatsCollector\l::instance_id" alt="" coords="278,5,421,46"/>
-<area shape="rect" id="node3" href="$d0/d29/classFlowStatsManager.html#a0fe0487327ce355617f2f26a1244628d" title="FlowStatsManager::Allocate\lIndex" alt="" coords="248,70,451,111"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="264,136,435,163"/>
-<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="255,187,444,213"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="303,237,395,264"/>
-<area shape="rect" id="node4" href="$d6/d34/classIndexVector.html#a43917c41dcf68411a8db47302407b852" title="IndexVector::Insert" alt="" coords="499,77,643,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,184,164"/>
+<area shape="rect" id="node2" href="$d0/d29/classFlowStatsManager.html#a0fe0487327ce355617f2f26a1244628d" title=" " alt="" coords="232,5,419,47"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17" title=" " alt="" coords="249,71,401,98"/>
+<area shape="rect" id="node5" href="$db/d77/classFlowStatsCollector.html#ab9d76767674b255398cffa2a3f3d968f" title=" " alt="" coords="259,123,392,164"/>
+<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title=" " alt="" coords="239,189,412,215"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a561960151eae0164d71de2ff0a6eabfc" title=" " alt="" coords="283,239,367,266"/>
+<area shape="rect" id="node3" href="$d6/d34/classIndexVector.html#a43917c41dcf68411a8db47302407b852" title=" " alt="" coords="467,13,600,39"/>
 </map>

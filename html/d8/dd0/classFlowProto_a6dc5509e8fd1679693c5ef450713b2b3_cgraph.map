@@ -1,5 +1,10 @@
 <map id="FlowProto::TokenAvailable" name="FlowProto::TokenAvailable">
-<area shape="rect" id="node2" href="$d3/d17/classTokenPool.html#aa92fc8e45580e236049188a1f44d31ee" title="TokenPool::IncrementRestarts" alt="" coords="246,5,461,32"/>
-<area shape="rect" id="node3" href="$da/de0/classFlowEventQueueBase.html#a1f9e2dd1e9b6c507f27472be06b61377" title="FlowEventQueueBase\l::MayBeStartRunner" alt="" coords="272,57,435,98"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title="WorkQueue::MayBeStartRunner" alt="" coords="510,64,735,91"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,180,61"/>
+<area shape="rect" id="node2" href="$d3/d17/classTokenPool.html#aa92fc8e45580e236049188a1f44d31ee" title=" " alt="" coords="228,5,427,32"/>
+<area shape="rect" id="node3" href="$da/de0/classFlowEventQueueBase.html#a1f9e2dd1e9b6c507f27472be06b61377" title=" " alt="" coords="252,57,403,98"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="475,64,685,91"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="747,39,934,65"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="733,89,948,116"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="996,39,1199,65"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1247,31,1424,73"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="DBTablePartition::Change" name="DBTablePartition::Change">
-<area shape="rect" id="node2" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title="DBTablePartBase::Notify" alt="" coords="241,81,421,108"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title="DBEntryBase::is_onlist" alt="" coords="487,5,657,32"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title="DBEntryBase::set_onlist" alt="" coords="483,56,661,83"/>
-<area shape="rect" id="node5" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="509,107,635,133"/>
-<area shape="rect" id="node6" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title="DBPartition::OnTableChange" alt="" coords="470,157,674,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node2" href="$d3/da7/classDBTablePartBase.html#a0c7a5bdb3d0299137af4c91b61546e92" title=" " alt="" coords="228,81,399,108"/>
+<area shape="rect" id="node3" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="483,5,601,32"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a70358aa7086b22b70d1ef80b7743b36f" title=" " alt="" coords="463,56,621,83"/>
+<area shape="rect" id="node5" href="$dd/dd6/classDBPartition.html#afcdc3c9eeba64719a4e172abaac5b260" title=" " alt="" coords="447,107,637,133"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#a4d61fb52403e674ce20b1f178699cf1a" title=" " alt="" coords="459,157,625,184"/>
 </map>

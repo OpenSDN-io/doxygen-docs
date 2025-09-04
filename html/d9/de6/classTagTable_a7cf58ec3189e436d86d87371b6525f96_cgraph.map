@@ -1,11 +1,13 @@
 <map id="TagTable::OperDBAdd" name="TagTable::OperDBAdd">
-<area shape="rect" id="node2" href="$d7/d6b/classTagEntry.html#a585ee9f754b1d2b547cbcd9cae7ceff1" title="TagEntry::Change" alt="" coords="217,115,351,141"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="415,5,574,32"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a682953957a3757fca8bb0abad338dfbe" title="Agent::policy_set_table" alt="" coords="407,56,582,83"/>
-<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="401,107,589,149"/>
-<area shape="rect" id="node9" href="$d9/de6/classTagTable.html#ae570b75a4b6ea9dff130cf876acd9714" title="TagTable::Erase" alt="" coords="433,173,556,200"/>
-<area shape="rect" id="node10" href="$d9/de6/classTagTable.html#a7221d014e29f9645e8407a7f25c8cc49" title="TagTable::Insert" alt="" coords="433,224,556,251"/>
-<area shape="rect" id="node6" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="651,115,797,141"/>
-<area shape="rect" id="node7" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="638,165,810,192"/>
-<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="859,165,1037,192"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,157,141"/>
+<area shape="rect" id="node2" href="$d7/d6b/classTagEntry.html#a585ee9f754b1d2b547cbcd9cae7ceff1" title=" " alt="" coords="205,115,332,141"/>
+<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="394,5,541,32"/>
+<area shape="rect" id="node4" href="$d9/de6/classTagTable.html#ae570b75a4b6ea9dff130cf876acd9714" title=" " alt="" coords="409,56,525,83"/>
+<area shape="rect" id="node5" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="380,107,555,149"/>
+<area shape="rect" id="node9" href="$d9/de6/classTagTable.html#a7221d014e29f9645e8407a7f25c8cc49" title=" " alt="" coords="409,173,525,200"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#af2b4ac2fb27631d11cf8fc7f296569a0" title=" " alt="" coords="388,224,547,251"/>
+<area shape="rect" id="node6" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="614,93,753,120"/>
+<area shape="rect" id="node7" href="$db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="603,144,764,171"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="812,144,979,171"/>
+<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="612,195,755,221"/>
 </map>

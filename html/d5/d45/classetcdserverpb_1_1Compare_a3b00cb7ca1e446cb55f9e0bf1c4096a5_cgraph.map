@@ -1,10 +1,11 @@
 <map id="etcdserverpb::Compare::ByteSizeLong" name="etcdserverpb::Compare::ByteSizeLong">
-<area shape="rect" id="node2" href="$d5/d45/classetcdserverpb_1_1Compare.html#a48be94fbd2cae94f77194ea517265000" title="etcdserverpb::Compare::key" alt="" coords="230,5,437,32"/>
-<area shape="rect" id="node3" href="$d5/d45/classetcdserverpb_1_1Compare.html#af7e78e513fc7f64f050ad3aa7206b96e" title="etcdserverpb::Compare\l::result" alt="" coords="246,57,421,98"/>
-<area shape="rect" id="node4" href="$d5/d45/classetcdserverpb_1_1Compare.html#a623887d5cac28c4acbccb8d551142fca" title="etcdserverpb::Compare\l::target" alt="" coords="246,122,421,163"/>
-<area shape="rect" id="node5" href="$d5/d45/classetcdserverpb_1_1Compare.html#a1f302bfd9df5ed02b8e4f16c8c60a41f" title="etcdserverpb::Compare\l::target_union_case" alt="" coords="246,187,421,229"/>
-<area shape="rect" id="node6" href="$d5/d45/classetcdserverpb_1_1Compare.html#a8d6482b0d9184c4a863ab6a845b486a5" title="etcdserverpb::Compare\l::version" alt="" coords="246,253,421,294"/>
-<area shape="rect" id="node7" href="$d5/d45/classetcdserverpb_1_1Compare.html#a7341411d044d2450a1339a150b3e1df7" title="etcdserverpb::Compare\l::create_revision" alt="" coords="246,318,421,359"/>
-<area shape="rect" id="node8" href="$d5/d45/classetcdserverpb_1_1Compare.html#a614e50329e92c0d6baac237b1d9297b9" title="etcdserverpb::Compare\l::mod_revision" alt="" coords="246,383,421,425"/>
-<area shape="rect" id="node9" href="$d5/d45/classetcdserverpb_1_1Compare.html#a9fd6fa9f71edde26abd7768f98a64da4" title="etcdserverpb::Compare\l::value" alt="" coords="246,449,421,490"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,221,164,263"/>
+<area shape="rect" id="node2" href="$d5/d45/classetcdserverpb_1_1Compare.html#a2a9d45ebea774a3b62c37e9d48d6cfde" title=" " alt="" coords="226,5,385,47"/>
+<area shape="rect" id="node3" href="$d5/d45/classetcdserverpb_1_1Compare.html#ab9ee0be4f60546572bd42ac00c454129" title=" " alt="" coords="212,71,399,98"/>
+<area shape="rect" id="node4" href="$d5/d45/classetcdserverpb_1_1Compare.html#ac23c2bf2a43805e09915eac11d04032f" title=" " alt="" coords="226,123,385,164"/>
+<area shape="rect" id="node5" href="$d5/d45/classetcdserverpb_1_1Compare.html#aa33762f227dd704cd885736c10d3ce04" title=" " alt="" coords="226,188,385,229"/>
+<area shape="rect" id="node6" href="$d5/d45/classetcdserverpb_1_1Compare.html#a4d3d2e24adf1685fddcd844a90698093" title=" " alt="" coords="226,253,385,295"/>
+<area shape="rect" id="node7" href="$d5/d45/classetcdserverpb_1_1Compare.html#a321f2a47feac7c2e4b264ac5a7dc2ee9" title=" " alt="" coords="226,319,385,360"/>
+<area shape="rect" id="node8" href="$d5/d45/classetcdserverpb_1_1Compare.html#a8371549529d06919d534fb06fe323a87" title=" " alt="" coords="226,384,385,425"/>
+<area shape="rect" id="node9" href="$d5/d45/classetcdserverpb_1_1Compare.html#a894531231bc1dc5e83d7f1aba54b3f97" title=" " alt="" coords="226,449,385,491"/>
 </map>

@@ -1,5 +1,6 @@
 <map id="SessionStatsCollector::GetPolicyIdFromFlow" name="SessionStatsCollector::GetPolicyIdFromFlow">
-<area shape="rect" id="node2" href="$d3/d4f/classFlowEntry.html#a44d8650518f688b0f496a75a1bc3d918" title="FlowEntry::fw_policy_uuid" alt="" coords="222,5,413,32"/>
-<area shape="rect" id="node3" href="$d3/d4f/classFlowEntry.html#ad08c326d0df1418af4ae1736c390363a" title="FlowEntry::sg_rule_uuid" alt="" coords="230,56,405,83"/>
-<area shape="rect" id="node4" href="$d3/d4f/classFlowEntry.html#afbbfecb6566fa29adb1b9900cb3fcb72" title="FlowEntry::nw_ace_uuid" alt="" coords="229,107,406,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,161,90"/>
+<area shape="rect" id="node2" href="$d3/d4f/classFlowEntry.html#a13dbf2932e863bb93d05770524d7d30f" title=" " alt="" coords="209,5,384,32"/>
+<area shape="rect" id="node3" href="$d3/d4f/classFlowEntry.html#a68b12824b6809ecbd3e99ca9ad753d67" title=" " alt="" coords="214,56,379,83"/>
+<area shape="rect" id="node4" href="$d3/d4f/classFlowEntry.html#a7d1da108d89622d842c4540f9ac0b984" title=" " alt="" coords="215,107,378,133"/>
 </map>

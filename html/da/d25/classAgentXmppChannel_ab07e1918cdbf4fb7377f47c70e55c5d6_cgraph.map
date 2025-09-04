@@ -1,6 +1,7 @@
 <map id="AgentXmppChannel::Unregister" name="AgentXmppChannel::Unregister">
-<area shape="rect" id="node2" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="310,5,493,46"/>
-<area shape="rect" id="node3" href="$d9/d37/classDynamicPeer.html#a37dfb157075935812c0eb4ced72b225d" title="DynamicPeer::StopRouteExports" alt="" coords="285,71,517,97"/>
-<area shape="rect" id="node4" href="$d6/d81/classXmppChannel.html#ae78bc79b283e348573e7e8a61af1f063" title="XmppChannel::UnRegisterWrite\lReady" alt="" coords="288,122,515,163"/>
-<area shape="rect" id="node5" href="$d6/d81/classXmppChannel.html#a0f3f3e3c457c05a1facd3101432b560b" title="XmppChannel::UnRegisterReceive" alt="" coords="280,188,523,215"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,212,123"/>
+<area shape="rect" id="node2" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title=" " alt="" coords="287,5,455,47"/>
+<area shape="rect" id="node3" href="$d9/d37/classDynamicPeer.html#a37dfb157075935812c0eb4ced72b225d" title=" " alt="" coords="263,71,479,98"/>
+<area shape="rect" id="node4" href="$d6/d81/classXmppChannel.html#a0f3f3e3c457c05a1facd3101432b560b" title=" " alt="" coords="260,122,483,149"/>
+<area shape="rect" id="node5" href="$d6/d81/classXmppChannel.html#ae78bc79b283e348573e7e8a61af1f063" title=" " alt="" coords="268,173,475,215"/>
 </map>

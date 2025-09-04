@@ -1,5 +1,10 @@
 <map id="BgpXmppChannel::CreateType5MvpnRouteRequest" name="BgpXmppChannel::CreateType5MvpnRouteRequest">
-<area shape="rect" id="node2" href="$d6/dbf/classBgpXmppChannel.html#ae5fd280340f9bc9f93e79e576711c248" title="BgpXmppChannel::XmppDecode\lAddress" alt="" coords="281,5,514,46"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title="BgpServer::attr_db" alt="" coords="326,71,469,97"/>
-<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title="BgpPathAttributeDB\l::Locate" alt="" coords="322,122,473,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,215,105"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="305,13,435,39"/>
+<area shape="rect" id="node3" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="300,64,440,105"/>
+<area shape="rect" id="node8" href="$d6/dbf/classBgpXmppChannel.html#ae5fd280340f9bc9f93e79e576711c248" title=" " alt="" coords="263,129,477,171"/>
+<area shape="rect" id="node4" href="$d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe" title=" " alt="" coords="525,64,665,105"/>
+<area shape="rect" id="node5" href="$d6/dd7/classBgpPathAttributeDB.html#ad916267145503007b51e43828ef6741a" title=" " alt="" coords="715,5,855,47"/>
+<area shape="rect" id="node6" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title=" " alt="" coords="713,71,856,98"/>
+<area shape="rect" id="node7" href="$d0/d9d/bgp__aspath_8h.html#a38830e0f12d881eefaa00f29632618fa" title=" " alt="" coords="715,122,854,149"/>
 </map>

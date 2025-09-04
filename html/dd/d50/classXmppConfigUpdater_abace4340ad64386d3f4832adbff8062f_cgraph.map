@@ -1,14 +1,15 @@
 <map id="XmppConfigUpdater::XmppConfigUpdater" name="XmppConfigUpdater::XmppConfigUpdater">
-<area shape="rect" id="node2" href="$dd/d50/classXmppConfigUpdater.html#ab640dfb0641c82a1180039cecac3bdda" title="XmppConfigUpdater::\lProcessGlobalSystemConfig" alt="" coords="217,266,421,307"/>
-<area shape="rect" id="node11" href="$dd/d50/classXmppConfigUpdater.html#abba0a290736cf81064c9ea62a977ecd4" title="XmppConfigUpdater::\lProcessProtocolConfig" alt="" coords="235,429,402,470"/>
-<area shape="rect" id="node13" href="$da/d05/classBgpConfigManager.html#a8537205c16505b539c489077d0c91311" title="BgpConfigManager::Register\lObservers" alt="" coords="216,494,421,535"/>
-<area shape="rect" id="node3" href="$d5/d70/classBgpGlobalSystemConfig.html#acdf0d97e8afb1de572d2dcc98af2dcd3" title="BgpGlobalSystemConfig\l::gr_enable" alt="" coords="469,5,648,46"/>
-<area shape="rect" id="node4" href="$d5/d70/classBgpGlobalSystemConfig.html#a8bcfff89f3c7cfbe36057e30d25070dd" title="BgpGlobalSystemConfig\l::gr_time" alt="" coords="469,70,648,111"/>
-<area shape="rect" id="node5" href="$d5/d70/classBgpGlobalSystemConfig.html#a81c35544aebe4a0fda8312a6ea98c9c1" title="BgpGlobalSystemConfig\l::llgr_time" alt="" coords="469,135,648,177"/>
-<area shape="rect" id="node6" href="$d5/d70/classBgpGlobalSystemConfig.html#a57a15a1129ac6c5c8d8ab7101db15265" title="BgpGlobalSystemConfig\l::end_of_rib_timeout" alt="" coords="469,201,648,242"/>
-<area shape="rect" id="node7" href="$d5/d70/classBgpGlobalSystemConfig.html#a63cbec575ca8edd42729b59a8f89d439" title="BgpGlobalSystemConfig\l::gr_xmpp_helper" alt="" coords="469,266,648,307"/>
-<area shape="rect" id="node8" href="$d5/d70/classBgpGlobalSystemConfig.html#a52379a03ace2cd949275cbfe70d7c36f" title="BgpGlobalSystemConfig\l::fc_enabled" alt="" coords="469,331,648,373"/>
-<area shape="rect" id="node9" href="$d5/d70/classBgpGlobalSystemConfig.html#a3d057456598d5c33b3a359156efcf370" title="BgpGlobalSystemConfig\l::xmpp_hold_time" alt="" coords="469,397,648,438"/>
-<area shape="rect" id="node10" href="$d5/d70/classBgpGlobalSystemConfig.html#a9fd19411e3e5b83baa6fae5503a3bb2a" title="BgpGlobalSystemConfig\l::rd_cluster_seed" alt="" coords="469,462,648,503"/>
-<area shape="rect" id="node12" href="$d6/d76/classBgpProtocolConfig.html#a4146b97eef33e5e104e6fcf8beaf8088" title="BgpProtocolConfig::\lsubcluster_name" alt="" coords="484,527,633,569"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,429,153,471"/>
+<area shape="rect" id="node2" href="$dd/d50/classXmppConfigUpdater.html#ab640dfb0641c82a1180039cecac3bdda" title=" " alt="" coords="201,267,391,308"/>
+<area shape="rect" id="node11" href="$dd/d50/classXmppConfigUpdater.html#abba0a290736cf81064c9ea62a977ecd4" title=" " alt="" coords="218,429,374,471"/>
+<area shape="rect" id="node13" href="$da/d05/classBgpConfigManager.html#a8537205c16505b539c489077d0c91311" title=" " alt="" coords="201,495,391,536"/>
+<area shape="rect" id="node3" href="$d5/d70/classBgpGlobalSystemConfig.html#a273f44982101fd062562693359fb45b9" title=" " alt="" coords="439,5,603,47"/>
+<area shape="rect" id="node4" href="$d5/d70/classBgpGlobalSystemConfig.html#aadbab5dad60ad9a9966b36f204851aa1" title=" " alt="" coords="439,71,603,112"/>
+<area shape="rect" id="node5" href="$d5/d70/classBgpGlobalSystemConfig.html#a624b31a5caee28efe46d0988a27add22" title=" " alt="" coords="439,136,603,177"/>
+<area shape="rect" id="node6" href="$d5/d70/classBgpGlobalSystemConfig.html#af758b47d0e3baf8d980bf09b21c44533" title=" " alt="" coords="439,201,603,243"/>
+<area shape="rect" id="node7" href="$d5/d70/classBgpGlobalSystemConfig.html#af2603376320825e0f7941c2aa1f32a71" title=" " alt="" coords="439,267,603,308"/>
+<area shape="rect" id="node8" href="$d5/d70/classBgpGlobalSystemConfig.html#a57cfb848140966c4a08ef99b326bb75a" title=" " alt="" coords="439,332,603,373"/>
+<area shape="rect" id="node9" href="$d5/d70/classBgpGlobalSystemConfig.html#a4c687bd3d9d71ce5fad3736830b19f2e" title=" " alt="" coords="439,397,603,439"/>
+<area shape="rect" id="node10" href="$d5/d70/classBgpGlobalSystemConfig.html#ad06b17542ed904d88d56a0d4ea0fcdb7" title=" " alt="" coords="439,463,603,504"/>
+<area shape="rect" id="node12" href="$d6/d76/classBgpProtocolConfig.html#a28286363e7a3581a9f61c657640920d1" title=" " alt="" coords="451,528,590,569"/>
 </map>

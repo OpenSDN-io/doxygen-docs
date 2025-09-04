@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthUserDeleteRequest::AuthUserDeleteRequest" name="etcdserverpb::AuthUserDeleteRequest::AuthUserDeleteRequest">
-<area shape="rect" id="node2" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#ac2707d442ac8efec47f4602c5bfeec64" title="etcdserverpb::AuthUserDelete\lRequest::internal_default\l_instance" alt="" coords="291,5,509,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a7efa87c6b09c056bb7e8b9076282a035" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserDelete\lRequest" alt="" coords="295,85,505,141"/>
-<area shape="rect" id="node6" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a1585a129b3388a51a47b5d7f5e3cbf53" title="etcdserverpb::AuthUserDelete\lRequest::SharedCtor" alt="" coords="291,166,509,207"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#abf131030a4880dfa581200d9551ac892" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserDelete\lRequestImpl" alt="" coords="558,85,767,141"/>
-<area shape="rect" id="node5" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a8d81652403691e84259d5b52865e5646" title="etcdserverpb::AuthUserDelete\lRequest::InitAsDefaultInstance" alt="" coords="817,93,1039,134"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,224,134"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a7efa87c6b09c056bb7e8b9076282a035" title=" " alt="" coords="276,5,467,61"/>
+<area shape="rect" id="node5" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#ac2707d442ac8efec47f4602c5bfeec64" title=" " alt="" coords="272,85,471,141"/>
+<area shape="rect" id="node6" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a1585a129b3388a51a47b5d7f5e3cbf53" title=" " alt="" coords="272,166,471,207"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#abf131030a4880dfa581200d9551ac892" title=" " alt="" coords="519,5,709,61"/>
+<area shape="rect" id="node4" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a8d81652403691e84259d5b52865e5646" title=" " alt="" coords="757,13,961,54"/>
 </map>

@@ -15,9 +15,9 @@ var classMatchProtocol =
     ] ],
     [ "MatchProtocol", "d7/df5/classMatchProtocol.html#afdcfb67529d47bf1ee01f7f68a2f7f2b", null ],
     [ "~MatchProtocol", "d7/df5/classMatchProtocol.html#ae91e86585fde25970c00c101c94b0c5c", null ],
-    [ "IsEqual", "d7/df5/classMatchProtocol.html#a30b47a7cedb9fb314c1d514f155446c8", null ],
-    [ "Match", "d7/df5/classMatchProtocol.html#abe83627c8d8ef1a174105f6fb97488ad", null ],
-    [ "protocols", "d7/df5/classMatchProtocol.html#a518453a40cbf69ee79dcfe8dc24b6ad9", null ],
-    [ "ToString", "d7/df5/classMatchProtocol.html#af13fcb781b6fdde2220f6e105c869059", null ],
+    [ "IsEqual", "d7/df5/classMatchProtocol.html#afd9598bc67c2289f70b60cdfe9bdbf42", null ],
+    [ "Match", "d7/df5/classMatchProtocol.html#a8be10a07488232ed8f0a237496b362fa", null ],
+    [ "protocols", "d7/df5/classMatchProtocol.html#a83c8dd29e7f843879989082de16976c0", null ],
+    [ "ToString", "d7/df5/classMatchProtocol.html#a69fb7adc9ca6e8efa45fbe294fe22f36", null ],
     [ "to_match_", "d7/df5/classMatchProtocol.html#aa195ab703ae8e9c3970a18b5cde89b22", null ]
 ];

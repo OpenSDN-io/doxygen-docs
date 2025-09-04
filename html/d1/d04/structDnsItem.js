@@ -1,10 +1,10 @@
 var structDnsItem =
 [
     [ "DnsItem", "d1/d04/structDnsItem.html#acd8458b725dd2ea1cb42e67b058864ce", null ],
-    [ "IsDelete", "d1/d04/structDnsItem.html#a0e49e6f1d86f4cbdfc31ca89f34ce4fd", null ],
-    [ "MatchDelete", "d1/d04/structDnsItem.html#a04f958b868d6cce2b042c0b9d1b87e46", null ],
-    [ "operator==", "d1/d04/structDnsItem.html#adccbc8e04753b6f37c8d5e012ea07b3f", null ],
-    [ "ToString", "d1/d04/structDnsItem.html#a2fdd9d5788d0093d4fbb052ef8666dbe", null ],
+    [ "IsDelete", "d1/d04/structDnsItem.html#a4106599058528d18aeea8c2f1c9221c4", null ],
+    [ "MatchDelete", "d1/d04/structDnsItem.html#a8eb9502ca178a2e60acea6c6ecfa7135", null ],
+    [ "operator==", "d1/d04/structDnsItem.html#abe56708296e4b8b810d04ce88077d9b8", null ],
+    [ "ToString", "d1/d04/structDnsItem.html#adb1b35525a6a8978d96ed3c14a2fcd33", null ],
     [ "data", "d1/d04/structDnsItem.html#afd4a6e6978d216a17d684fc2296b4b3b", null ],
     [ "data_offset", "d1/d04/structDnsItem.html#ae58968d84e43bfbdab4d370df9dac04d", null ],
     [ "data_plen", "d1/d04/structDnsItem.html#a081effe1a12dc694d231869674aada68", null ],

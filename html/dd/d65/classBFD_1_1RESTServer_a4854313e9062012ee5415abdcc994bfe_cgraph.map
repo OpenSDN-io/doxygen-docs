@@ -1,8 +1,9 @@
 <map id="BFD::RESTServer::GetClientSession" name="BFD::RESTServer::GetClientSession">
-<area shape="rect" id="node2" href="$d9/dab/namespaceBFD_1_1REST.html#a279702b1b55a82a823dbd31dbd556a33" title="BFD::REST::SendErrorResponse" alt="" coords="253,71,475,97"/>
-<area shape="rect" id="node3" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title="BFD::REST::SendResponse" alt="" coords="523,71,714,97"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="763,71,896,97"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="944,5,1131,46"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1179,96,1323,123"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="944,121,1131,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,197,90"/>
+<area shape="rect" id="node2" href="$d9/dab/namespaceBFD_1_1REST.html#a279702b1b55a82a823dbd31dbd556a33" title=" " alt="" coords="245,56,460,83"/>
+<area shape="rect" id="node3" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title=" " alt="" coords="508,56,695,83"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="743,56,871,83"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="920,5,1095,32"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="1144,31,1280,57"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="919,107,1096,149"/>
 </map>

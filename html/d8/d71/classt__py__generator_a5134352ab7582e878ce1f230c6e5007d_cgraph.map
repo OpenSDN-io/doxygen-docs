@@ -1,8 +1,9 @@
 <map id="t_py_generator::generate_py_struct_required_validator" name="t_py_generator::generate_py_struct_required_validator">
-<area shape="rect" id="node2" href="$d7/dbd/classt__generator.html#a99da01af7c47d5c05495be8dcf849c27" title="t_generator::indent" alt="" coords="291,5,437,32"/>
-<area shape="rect" id="node3" href="$d7/dbd/classt__generator.html#a3a982fe85557d6e0057d688ebf89d837" title="t_generator::indent_up" alt="" coords="279,56,449,83"/>
-<area shape="rect" id="node4" href="$dd/dd9/classt__struct__common.html#a2ec55420c9325ef44aebbcd7bedbfa58" title="t_struct_common::get\l_members" alt="" coords="282,107,446,149"/>
-<area shape="rect" id="node5" href="$d6/dbb/classt__field.html#a380d0a5d8587db7d67df8f820d875e45" title="t_field::get_req" alt="" coords="305,173,423,200"/>
-<area shape="rect" id="node6" href="$d6/dbb/classt__field.html#a44b09493e803cba47c19df96f77e7720" title="t_field::get_name" alt="" coords="297,224,431,251"/>
-<area shape="rect" id="node7" href="$d7/dbd/classt__generator.html#ae2bcc5d6f052599cf67517ed95cf4093" title="t_generator::indent_down" alt="" coords="270,275,458,301"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,140,196,181"/>
+<area shape="rect" id="node2" href="$dd/dd9/classt__struct__common.html#a2ec55420c9325ef44aebbcd7bedbfa58" title=" " alt="" coords="253,5,403,47"/>
+<area shape="rect" id="node3" href="$d6/dbb/classt__field.html#a0ba89577ced9be7cf98f94d80d825ff1" title=" " alt="" coords="267,71,389,98"/>
+<area shape="rect" id="node4" href="$d6/dbb/classt__field.html#a3b1c9a69b86055802bef3ded119d83e7" title=" " alt="" coords="274,122,382,149"/>
+<area shape="rect" id="node5" href="$d7/dbd/classt__generator.html#a99da01af7c47d5c05495be8dcf849c27" title=" " alt="" coords="263,173,393,199"/>
+<area shape="rect" id="node6" href="$d7/dbd/classt__generator.html#ae2bcc5d6f052599cf67517ed95cf4093" title=" " alt="" coords="244,223,412,250"/>
+<area shape="rect" id="node7" href="$d7/dbd/classt__generator.html#a3a982fe85557d6e0057d688ebf89d837" title=" " alt="" coords="253,274,403,301"/>
 </map>

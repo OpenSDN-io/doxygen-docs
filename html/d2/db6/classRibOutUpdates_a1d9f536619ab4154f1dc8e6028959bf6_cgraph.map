@@ -1,14 +1,15 @@
 <map id="RibOutUpdates::UpdateMarkersOnBlocked" name="RibOutUpdates::UpdateMarkersOnBlocked">
-<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html#a582ba5a71e2add2ef1450ec8e5848669" title="BitSet::empty" alt="" coords="538,31,649,57"/>
-<area shape="rect" id="node3" href="$d0/de5/classRouteUpdate.html#a28f5fa5efa2c6c446fa25d3e7c87653c" title="RouteUpdate::queue_id" alt="" coords="293,132,467,159"/>
-<area shape="rect" id="node4" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title="RibOutUpdates::queue" alt="" coords="296,183,464,209"/>
-<area shape="rect" id="node5" href="$d2/db4/classUpdateQueue.html#ab1f23a7a9501bbbc22ffe3b060c08a36" title="UpdateQueue::MoveMarker" alt="" coords="281,233,479,260"/>
-<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title="BitSet::Reset" alt="" coords="327,284,433,311"/>
-<area shape="rect" id="node7" href="$d2/db4/classUpdateQueue.html#a70e162b96c85f01737d58c2c833c5d25" title="UpdateQueue::AddMarker" alt="" coords="285,81,475,108"/>
-<area shape="rect" id="node8" href="$d6/dd0/classBitSet.html#a322bcc887bafda7adde98bc73c0b4da3" title="BitSet::find_first" alt="" coords="531,132,656,159"/>
-<area shape="rect" id="node11" href="$d6/dd0/classBitSet.html#a6b2fa995df62bc44f8ba8ce93207d883" title="BitSet::find_next" alt="" coords="529,81,658,108"/>
-<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="707,107,829,133"/>
-<area shape="rect" id="node10" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="719,157,817,184"/>
-<area shape="rect" id="node12" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="718,5,818,32"/>
-<area shape="rect" id="node13" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="717,56,819,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,150,216,191"/>
+<area shape="rect" id="node2" href="$d2/db4/classUpdateQueue.html#a70e162b96c85f01737d58c2c833c5d25" title=" " alt="" coords="268,81,441,108"/>
+<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#ac309ad4f38484237319441a86f1abc08" title=" " alt="" coords="501,31,604,57"/>
+<area shape="rect" id="node10" href="$d2/db4/classUpdateQueue.html#ab1f23a7a9501bbbc22ffe3b060c08a36" title=" " alt="" coords="264,132,445,159"/>
+<area shape="rect" id="node11" href="$d2/db6/classRibOutUpdates.html#a8d54f51ed911553e32d6c1e3f7fa00df" title=" " alt="" coords="277,183,432,209"/>
+<area shape="rect" id="node12" href="$d0/de5/classRouteUpdate.html#a365e060355ee8b3be72f35d2ad9efd43" title=" " alt="" coords="275,233,434,260"/>
+<area shape="rect" id="node13" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title=" " alt="" coords="305,284,405,311"/>
+<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a582fcf1c56bbe37867274392602d875e" title=" " alt="" coords="494,132,611,159"/>
+<area shape="rect" id="node7" href="$d6/dd0/classBitSet.html#abf01ad1651c8e8bce9ec599bd65e6631" title=" " alt="" coords="493,81,612,108"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title=" " alt="" coords="672,107,760,133"/>
+<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title=" " alt="" coords="660,157,772,184"/>
+<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="671,5,761,32"/>
+<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="670,56,762,83"/>
 </map>

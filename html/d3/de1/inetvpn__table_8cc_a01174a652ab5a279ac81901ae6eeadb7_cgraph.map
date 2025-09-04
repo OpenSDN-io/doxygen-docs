@@ -1,12 +1,13 @@
 <map id="GenerateDistinguisher" name="GenerateDistinguisher">
-<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="255,5,385,32"/>
-<area shape="rect" id="node3" href="$d5/dcf/classBgpAttr.html#a2431d429c11f3e4561c3d4383b45b69a" title="BgpAttr::source_rd" alt="" coords="249,56,391,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="253,107,387,133"/>
-<area shape="rect" id="node5" href="$dd/d38/classIPeer.html#aef7441054a898fa8bfe98eec38ec3e18" title="IPeer::IsRouterTypeBGPaaS" alt="" coords="222,157,418,184"/>
-<area shape="rect" id="node6" href="$dc/d73/classRouteDistinguisher.html#afd0d1ef7b23472a12ff3431bb0bfab39" title="RouteDistinguisher\l::IsZero" alt="" coords="247,209,393,250"/>
-<area shape="rect" id="node8" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title="IPeer::IsXmppPeer" alt="" coords="249,275,391,301"/>
-<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="221,325,419,352"/>
-<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#aaf56edca8a1b15a063ea1f00fff9c4e4" title="RoutingInstance::GetRD" alt="" coords="232,376,408,403"/>
-<area shape="rect" id="node11" href="$dd/d38/classIPeer.html#a4770db71267187cf7aa665d344272199" title="IPeer::ToString" alt="" coords="263,427,377,453"/>
-<area shape="rect" id="node7" href="$dc/d73/classRouteDistinguisher.html#a18cdc6721d5991f8f6fa51590797d6b8" title="RouteDistinguisher\l::CompareTo" alt="" coords="467,209,613,250"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,156,235"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="237,5,360,32"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="235,56,362,83"/>
+<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#a251e43f78638a9b993df73aa9f0cce19" title=" " alt="" coords="216,107,381,133"/>
+<area shape="rect" id="node5" href="$dd/d38/classIPeer.html#aef7441054a898fa8bfe98eec38ec3e18" title=" " alt="" coords="204,157,393,184"/>
+<area shape="rect" id="node6" href="$dd/d38/classIPeer.html#a83fe529769ccfb58c19db5375c035b71" title=" " alt="" coords="233,208,364,235"/>
+<area shape="rect" id="node7" href="$dc/d73/classRouteDistinguisher.html#a8896426a807dc8c02bb8a35af1524551" title=" " alt="" coords="232,259,365,301"/>
+<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="209,325,388,352"/>
+<area shape="rect" id="node10" href="$d5/dcf/classBgpAttr.html#a960d3aab31aadcb0f6e8b280033fc236" title=" " alt="" coords="233,376,364,403"/>
+<area shape="rect" id="node11" href="$dd/d38/classIPeer.html#a4770db71267187cf7aa665d344272199" title=" " alt="" coords="245,427,353,453"/>
+<area shape="rect" id="node8" href="$dc/d73/classRouteDistinguisher.html#a407c0a7b4c54ea516d08ef638a09e01d" title=" " alt="" coords="441,259,575,301"/>
 </map>

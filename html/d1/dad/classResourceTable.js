@@ -16,7 +16,7 @@ var classResourceTable =
     [ "FlushStale", "d1/dad/classResourceTable.html#a7f188a235470d37cfa49cc240e73f22f", null ],
     [ "InsertKey", "d1/dad/classResourceTable.html#a52430e9fb33d48ddbb70527ccb72778e", null ],
     [ "ReleaseKey", "d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f", null ],
-    [ "resource_manager", "d1/dad/classResourceTable.html#abc6f91eb4a88d0ed5d3932b532ce2ef8", null ],
+    [ "resource_manager", "d1/dad/classResourceTable.html#a49711fd935b2afb33996d53b06a3e31c", null ],
     [ "RestoreKey", "d1/dad/classResourceTable.html#a4ab6796038ef21df0b8a49086fb53840", null ],
     [ "ToString", "d1/dad/classResourceTable.html#aea9ee4d014b32a17b97c501509a60d65", null ],
     [ "key_data_map_", "d1/dad/classResourceTable.html#afa5e6ccc580bf4585ed8b9da9c7480f4", null ],

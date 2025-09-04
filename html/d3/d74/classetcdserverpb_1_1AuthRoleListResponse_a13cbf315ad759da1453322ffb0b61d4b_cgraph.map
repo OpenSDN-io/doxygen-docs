@@ -1,6 +1,7 @@
 <map id="etcdserverpb::AuthRoleListResponse::SerializeWithCachedSizes" name="etcdserverpb::AuthRoleListResponse::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a776bf1e4a950cf2e3b48984364599172" title="etcdserverpb::AuthRoleList\lResponse::has_header" alt="" coords="315,5,511,46"/>
-<area shape="rect" id="node4" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a8196f1461a9eed50324b81d1ae825f67" title="etcdserverpb::AuthRoleList\lResponse::roles_size" alt="" coords="315,70,511,111"/>
-<area shape="rect" id="node5" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a5d9608cbf2d810128c892634f8de4628" title="etcdserverpb::AuthRoleList\lResponse::roles" alt="" coords="315,135,511,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="560,5,784,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,245,112"/>
+<area shape="rect" id="node2" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a491f5a738c089a46bb2623d1cbb19643" title=" " alt="" coords="293,5,475,47"/>
+<area shape="rect" id="node4" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a37fcbd73a9a905aa5fd97ff9656fe1f3" title=" " alt="" coords="293,71,475,112"/>
+<area shape="rect" id="node5" href="$d3/d74/classetcdserverpb_1_1AuthRoleListResponse.html#a2ca2f843465bb970c1ef355f21a52fa7" title=" " alt="" coords="293,136,475,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="523,5,729,47"/>
 </map>

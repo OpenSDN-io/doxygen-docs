@@ -1,8 +1,9 @@
 <map id="ServicesSandesh::DnsStatsSandesh" name="ServicesSandesh::DnsStatsSandesh">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title="Agent::GetInstance" alt="" coords="284,5,431,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a744f67475f76cb13b80e33a15017f08b" title="Agent::GetDnsProto" alt="" coords="282,56,433,83"/>
-<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#a3b9fe8dff30e23e2f42abf987378ab84" title="DnsProto::GetStats" alt="" coords="285,107,430,133"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ac2417024a616d3d66e4d2ddabdd84b08" title="Agent::GetDnslist" alt="" coords="289,157,425,184"/>
-<area shape="rect" id="node6" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title="BindResolver::Resolver" alt="" coords="272,208,443,235"/>
-<area shape="rect" id="node7" href="$d0/d5b/classBindResolver.html#afb8cc0a4f52efff26fce8a55f8d8363e" title="BindResolver::GetDscpValue" alt="" coords="254,259,461,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,193,166"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#ac2417024a616d3d66e4d2ddabdd84b08" title=" " alt="" coords="273,5,400,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0346274c6f2b7f16c5eb0ebe0470277e" title=" " alt="" coords="267,56,407,83"/>
+<area shape="rect" id="node4" href="$d0/d5b/classBindResolver.html#afb8cc0a4f52efff26fce8a55f8d8363e" title=" " alt="" coords="241,107,432,133"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="269,157,404,184"/>
+<area shape="rect" id="node6" href="$d6/df7/classDnsProto.html#abaf30fb18ac0c339b4962c6db2f8cf4b" title=" " alt="" coords="268,208,405,235"/>
+<area shape="rect" id="node7" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title=" " alt="" coords="259,259,415,285"/>
 </map>

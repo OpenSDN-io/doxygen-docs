@@ -1,8 +1,0 @@
-<map id="VmInterface::FloatingIp::GetOpL2" name="VmInterface::FloatingIp::GetOpL2">
-<area shape="rect" id="node2" href="$d0/dd0/vm__interface_8cc.html#a8d8344b463ce5f69774298245e7e6170" title="GetIpActiveState" alt="" coords="261,31,393,57"/>
-<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#a6a391012db00b1c65eb32adffa4307ad" title="Interface::vrf" alt="" coords="273,81,380,108"/>
-<area shape="rect" id="node6" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="263,132,390,159"/>
-<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#a740820ab783c12b63e7aaaf36f621cce" title="VmInterface::ethernet_tag" alt="" coords="230,183,423,209"/>
-<area shape="rect" id="node3" href="$d0/dcc/classInterface.html#aed1f582fda9f51c48b3f5654691d98d6" title="Interface::ipv6_active" alt="" coords="472,5,635,32"/>
-<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#a9b389cf9756aa7ac9822037e634e3828" title="Interface::ipv4_active" alt="" coords="472,56,635,83"/>
-</map>

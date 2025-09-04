@@ -1,7 +1,8 @@
 <map id="BFD::Client::AddSession" name="BFD::Client::AddSession">
-<area shape="rect" id="node2" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="232,5,435,32"/>
-<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#a6625338e6a2c270744b88244ba553d7b" title="BFD::Server::AddSession" alt="" coords="243,56,424,83"/>
-<area shape="rect" id="node5" href="$d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69" title="BFD::Client::Notify" alt="" coords="262,108,405,135"/>
-<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="489,53,687,80"/>
-<area shape="rect" id="node6" href="$db/d0c/classBFD_1_1Connection.html#a89d0ae98e730b222d95ffb6ec8b05ea0" title="BFD::Connection::NotifyState\lChange" alt="" coords="483,105,693,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,175,83"/>
+<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html#a6625338e6a2c270744b88244ba553d7b" title=" " alt="" coords="231,5,405,32"/>
+<area shape="rect" id="node4" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title=" " alt="" coords="223,56,413,83"/>
+<area shape="rect" id="node5" href="$d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69" title=" " alt="" coords="251,107,385,133"/>
+<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title=" " alt="" coords="467,5,653,32"/>
+<area shape="rect" id="node6" href="$db/d0c/classBFD_1_1Connection.html#a89d0ae98e730b222d95ffb6ec8b05ea0" title=" " alt="" coords="461,99,659,141"/>
 </map>

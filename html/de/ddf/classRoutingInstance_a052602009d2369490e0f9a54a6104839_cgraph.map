@@ -1,7 +1,6 @@
 <map id="RoutingInstance::ProcessServiceChainConfig" name="RoutingInstance::ProcessServiceChainConfig">
-<area shape="rect" id="node2" href="$d6/ddf/classBgpInstanceConfig.html#abd0fe0015c89485cf8ee741694880623" title="BgpInstanceConfig::\lservice_chain_info" alt="" coords="273,5,423,46"/>
-<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="252,71,444,97"/>
-<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a1278a9656c5d77fc43317591ff0a5f19" title="BgpServer::service\l_chain_mgr" alt="" coords="276,122,420,163"/>
-<area shape="rect" id="node5" href="$d2/d23/classIServiceChainMgr.html#a2c9a4a9ec4d819a86e2ac06ccab6ac9a" title="IServiceChainMgr::Locate\lServiceChain" alt="" coords="255,187,441,229"/>
-<area shape="rect" id="node6" href="$d2/d23/classIServiceChainMgr.html#a6cd0063e6993781ae91b3bf690be9655" title="IServiceChainMgr::StopService\lChain" alt="" coords="238,253,458,294"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,179,98"/>
+<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#a09f8b804d5b817af590364e060aabfa6" title=" " alt="" coords="227,5,401,32"/>
+<area shape="rect" id="node3" href="$d6/ddf/classBgpInstanceConfig.html#a9e49fc119f7b7b5ca0c584620daec707" title=" " alt="" coords="243,57,385,98"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a1278a9656c5d77fc43317591ff0a5f19" title=" " alt="" coords="247,122,381,163"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthenticateResponse::MergeFrom" name="etcdserverpb::AuthenticateResponse::MergeFrom">
-<area shape="rect" id="node2" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a932578f0985fba27c44186d17d9a5183" title="etcdserverpb::Authenticate\lResponse::token" alt="" coords="254,5,453,46"/>
-<area shape="rect" id="node3" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#afffe1ffa77b34d8065fd978f2389af8c" title="etcdserverpb::Authenticate\lResponse::has_header" alt="" coords="254,70,453,111"/>
-<area shape="rect" id="node5" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#ab32059f79076c81cb3dcb5174859b80a" title="etcdserverpb::Authenticate\lResponse::mutable_header" alt="" coords="254,135,453,177"/>
-<area shape="rect" id="node6" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a5bfde45474a22a0c637c47510fde1042" title="etcdserverpb::Authenticate\lResponse::header" alt="" coords="254,201,453,242"/>
-<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="501,70,725,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,184,145"/>
+<area shape="rect" id="node2" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#ac07d9ee384809356dcc397944ddcd6b9" title=" " alt="" coords="233,5,411,47"/>
+<area shape="rect" id="node4" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#aa6b433a117204b384afef060962ae010" title=" " alt="" coords="233,71,411,112"/>
+<area shape="rect" id="node5" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#ab32059f79076c81cb3dcb5174859b80a" title=" " alt="" coords="232,136,412,177"/>
+<area shape="rect" id="node6" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a601151afe06a930710370e8512de9090" title=" " alt="" coords="233,201,411,243"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="460,5,667,47"/>
 </map>

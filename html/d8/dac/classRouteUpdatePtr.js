@@ -9,8 +9,8 @@ var classRouteUpdatePtr =
     [ "get", "d8/dac/classRouteUpdatePtr.html#ae05ca8c16cf30e8041f1515f3809ef6d", null ],
     [ "operator Proxy", "d8/dac/classRouteUpdatePtr.html#a418d3c7bc8751919d352d18cb5fa321a", null ],
     [ "operator->", "d8/dac/classRouteUpdatePtr.html#aa5405116a2ebd193a16a50d873bc2c98", null ],
-    [ "operator=", "d8/dac/classRouteUpdatePtr.html#ac44fd6addc69a6aabfb3645342cd9a51", null ],
     [ "operator=", "d8/dac/classRouteUpdatePtr.html#a472c4f840edb1daf49929cfd4aa1199a", null ],
+    [ "operator=", "d8/dac/classRouteUpdatePtr.html#ac44fd6addc69a6aabfb3645342cd9a51", null ],
     [ "release", "d8/dac/classRouteUpdatePtr.html#ae528fbd5e309419d626f19ce21eec42d", null ],
     [ "swap", "d8/dac/classRouteUpdatePtr.html#a569c459f54c0e78d7f3a5495e659a403", null ],
     [ "rt_update_", "d8/dac/classRouteUpdatePtr.html#adcf7862e817cb4b5d2c01a2054f1b220", null ]

@@ -1,7 +1,8 @@
 <map id="etcdserverpb::TxnRequest::MergePartialFromCodedStream" name="etcdserverpb::TxnRequest::MergePartialFromCodedStream">
-<area shape="rect" id="node2" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#ae66a39f4ba19598f10ffc26c175906f9" title="etcdserverpb::TxnRequest\l::add_compare" alt="" coords="286,5,477,46"/>
-<area shape="rect" id="node3" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a1198d96dc6f8da6b7e5f9790245ba18f" title="etcdserverpb::TxnRequest\l::add_success" alt="" coords="286,70,477,111"/>
-<area shape="rect" id="node4" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a49e590a31b2e0f67c5f22263ce0ea4de" title="etcdserverpb::TxnRequest\l::add_failure" alt="" coords="286,135,477,177"/>
-<area shape="rect" id="node5" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#af33ec437b243018ecbefc8d2c575a725" title="etcdserverpb::TxnRequest\l::success" alt="" coords="286,201,477,242"/>
-<area shape="rect" id="node6" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#af9737d568356fe7f8eb058a2abcf6e93" title="etcdserverpb::TxnRequest\l::failure" alt="" coords="286,266,477,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,220,177"/>
+<area shape="rect" id="node2" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#ae66a39f4ba19598f10ffc26c175906f9" title=" " alt="" coords="268,5,444,47"/>
+<area shape="rect" id="node3" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a49e590a31b2e0f67c5f22263ce0ea4de" title=" " alt="" coords="268,71,444,112"/>
+<area shape="rect" id="node4" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#a1198d96dc6f8da6b7e5f9790245ba18f" title=" " alt="" coords="268,136,444,177"/>
+<area shape="rect" id="node5" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#afca7130022a9d7bee5b9a12a4a2e235d" title=" " alt="" coords="268,201,444,243"/>
+<area shape="rect" id="node6" href="$d8/da3/classetcdserverpb_1_1TxnRequest.html#aa01a81d1412fa623c76368409558dbcb" title=" " alt="" coords="268,267,444,308"/>
 </map>

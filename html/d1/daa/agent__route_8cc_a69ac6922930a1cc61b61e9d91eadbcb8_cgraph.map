@@ -1,7 +1,8 @@
 <map id="RtPathHasInterfaceComposite" name="RtPathHasInterfaceComposite">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="293,5,443,32"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="305,56,431,83"/>
-<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="273,107,463,133"/>
-<area shape="rect" id="node5" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="298,157,438,184"/>
-<area shape="rect" id="node6" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="312,208,424,235"/>
+<area shape="rect" id="node1" title="returns true if the given path is not null and points" alt="" coords="5,107,208,133"/>
+<area shape="rect" id="node2" href="$d6/dd4/classPeer.html#a88b307d086e73921bf95a2e7ff610e94" title=" " alt="" coords="256,5,427,32"/>
+<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="276,56,407,83"/>
+<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="289,107,394,133"/>
+<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="273,157,410,184"/>
+<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="283,208,399,235"/>
 </map>

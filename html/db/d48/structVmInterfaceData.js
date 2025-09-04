@@ -12,8 +12,8 @@ var structVmInterfaceData =
     ] ],
     [ "VmInterfaceData", "db/d48/structVmInterfaceData.html#a513d296fd1455755c5048f7c17c1784c", null ],
     [ "~VmInterfaceData", "db/d48/structVmInterfaceData.html#a67f57542df402879d69b324e874be66b", null ],
-    [ "OnAdd", "db/d48/structVmInterfaceData.html#add20b12bf1e8a6b4da33087dbed75e88", null ],
-    [ "OnDelete", "db/d48/structVmInterfaceData.html#a2116bd2162591bd18e3f0acd4a39a028", null ],
+    [ "OnAdd", "db/d48/structVmInterfaceData.html#abc9edbde8225f2c26544e1c5bdf970b6", null ],
+    [ "OnDelete", "db/d48/structVmInterfaceData.html#a044a3d1ff8fcb7530b94fc6c6b22bef4", null ],
     [ "OnResync", "db/d48/structVmInterfaceData.html#ae94e29a5927b77d7c223d13f3d108479", null ],
     [ "type_", "db/d48/structVmInterfaceData.html#aabee135e69d16cb370bacf31cec54950", null ]
 ];

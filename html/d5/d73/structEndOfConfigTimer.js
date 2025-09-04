@@ -2,9 +2,9 @@ var structEndOfConfigTimer =
 [
     [ "EndOfConfigTimer", "d5/d73/structEndOfConfigTimer.html#ab9c777d4eb71484f08e3989b8128788f", null ],
     [ "~EndOfConfigTimer", "d5/d73/structEndOfConfigTimer.html#a74720c16b93541bb3ca61ddfd4b341a0", null ],
-    [ "GetFallbackInterval", "d5/d73/structEndOfConfigTimer.html#a13a03415532780f416d731f4ac5d4fbd", null ],
-    [ "GetInactivityInterval", "d5/d73/structEndOfConfigTimer.html#a621c5a2ee762d940f18ffc7bde069c1b", null ],
-    [ "GetTimerInterval", "d5/d73/structEndOfConfigTimer.html#a9d3341452734be8f5451520c1ac69fee", null ],
+    [ "GetFallbackInterval", "d5/d73/structEndOfConfigTimer.html#a5884a7029b90d20ffe0cc94aabaac5f4", null ],
+    [ "GetInactivityInterval", "d5/d73/structEndOfConfigTimer.html#ab6e11900e9df78a3f3edbc561fa4d110", null ],
+    [ "GetTimerInterval", "d5/d73/structEndOfConfigTimer.html#a4d0e42a8a57941f6a936da90c6314273", null ],
     [ "GresEnabled", "d5/d73/structEndOfConfigTimer.html#a096f15a42e5d140ff846c969eb5a999f", null ],
     [ "Reset", "d5/d73/structEndOfConfigTimer.html#aec80cb57f0ae578e0be2888e3adffb78", null ],
     [ "Start", "d5/d73/structEndOfConfigTimer.html#a213d354cac2b8c03759dbb2feb0bdce5", null ],

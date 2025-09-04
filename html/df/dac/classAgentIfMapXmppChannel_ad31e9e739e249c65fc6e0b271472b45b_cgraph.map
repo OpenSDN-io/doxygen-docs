@@ -1,7 +1,7 @@
 <map id="AgentIfMapXmppChannel::ReceiveConfigMessage" name="AgentIfMapXmppChannel::ReceiveConfigMessage">
-<area shape="rect" id="node2" href="$df/dac/classAgentIfMapXmppChannel.html#a687a3c75c4d45cadcbbe5077bb573340" title="AgentIfMapXmppChannel\l::GetXmppServerIdx" alt="" coords="240,5,427,46"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a2b492dbf41b1595d05c65e164bcf8262" title="Agent::ifmap_active\l_xmpp_server_index" alt="" coords="255,70,412,111"/>
-<area shape="rect" id="node4" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="261,136,405,163"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a646ea84ade7442de9e330b33e84e32e1" title="Agent::ifmap_parser" alt="" coords="256,187,411,213"/>
-<area shape="rect" id="node6" href="$d5/d6d/classIFMapAgentParser.html#a7f6facb75ff5843e0a7a6308b229b8b9" title="IFMapAgentParser::Config\lParse" alt="" coords="240,238,427,279"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,176,145"/>
+<area shape="rect" id="node2" href="$d5/d6d/classIFMapAgentParser.html#a7f6facb75ff5843e0a7a6308b229b8b9" title=" " alt="" coords="224,5,403,47"/>
+<area shape="rect" id="node3" href="$df/dac/classAgentIfMapXmppChannel.html#a687a3c75c4d45cadcbbe5077bb573340" title=" " alt="" coords="228,71,399,112"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#aef1aaa7e34a6267c6d627d421dd34635" title=" " alt="" coords="242,136,385,177"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a7b5a6dbb4673605baea2dc73e9731116" title=" " alt="" coords="243,202,383,229"/>
 </map>

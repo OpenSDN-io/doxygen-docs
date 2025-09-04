@@ -1,6 +1,7 @@
 <map id="GlobalVrouter::ChangeCryptTunnelEndpoint" name="GlobalVrouter::ChangeCryptTunnelEndpoint">
-<area shape="rect" id="node2" href="$de/d48/classGlobalVrouter.html#a9f0561ae6f726b1ad257b93da5784b63" title="GlobalVrouter::AddCryptTunnel\lEndpoint" alt="" coords="259,57,482,98"/>
-<area shape="rect" id="node3" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="537,5,708,32"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab358a8a3c05b5f93bc5dd63b23c5b040" title="Agent::crypt_tunnel\l_table" alt="" coords="548,57,697,98"/>
-<area shape="rect" id="node5" href="$d0/d41/classCryptTunnelTable.html#ac321dd6990baa873b2af61401feed939" title="CryptTunnelTable::Create" alt="" coords="531,123,715,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,192,90"/>
+<area shape="rect" id="node2" href="$de/d48/classGlobalVrouter.html#a9f0561ae6f726b1ad257b93da5784b63" title=" " alt="" coords="240,49,443,90"/>
+<area shape="rect" id="node3" href="$d0/d9b/classOperIFMapTable.html#af868f518330e309693a768a4e2d38ed8" title=" " alt="" coords="497,5,655,32"/>
+<area shape="rect" id="node4" href="$d0/d41/classCryptTunnelTable.html#ac321dd6990baa873b2af61401feed939" title=" " alt="" coords="491,56,661,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ae826716853ec38a3748288e198d6f8a6" title=" " alt="" coords="508,107,644,149"/>
 </map>

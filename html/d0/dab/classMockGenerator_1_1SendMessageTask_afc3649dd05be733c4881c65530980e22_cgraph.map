@@ -1,4 +1,5 @@
 <map id="MockGenerator::SendMessageTask::Run" name="MockGenerator::SendMessageTask::Run">
-<area shape="rect" id="node2" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="304,5,459,32"/>
-<area shape="rect" id="node3" href="$d0/dab/classMockGenerator_1_1SendMessageTask.html#a7cda64e75c16ab3d5ba35e97464e20d0" title="MockGenerator::SendMessage\lTask::SendVRouterError" alt="" coords="272,57,491,98"/>
+<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,35,208,76"/>
+<area shape="rect" id="node2" href="$d0/dab/classMockGenerator_1_1SendMessageTask.html#a7cda64e75c16ab3d5ba35e97464e20d0" title=" " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="285,71,429,98"/>
 </map>

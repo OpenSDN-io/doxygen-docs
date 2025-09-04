@@ -1,7 +1,0 @@
-<map id="SessionStatsCollector::UpdateSessionStatsInfo" name="SessionStatsCollector::UpdateSessionStatsInfo">
-<area shape="rect" id="node2" href="$d3/d4f/classFlowEntry.html#a01aafb00870b0c1974208be96d838db1" title="FlowEntry::reverse\l_flow_entry" alt="" coords="277,5,419,46"/>
-<area shape="rect" id="node3" href="$df/d96/classSessionStatsCollector.html#a6e14b587456391f622f94f2d1b698237" title="SessionStatsCollector\l::UpdateSessionFlowStatsInfo" alt="" coords="241,70,455,111"/>
-<area shape="rect" id="node4" href="$d3/d4f/classFlowEntry.html#a67e148d14ab01cdf37b72b8959aa0699" title="FlowEntry::gen_id" alt="" coords="521,27,657,53"/>
-<area shape="rect" id="node5" href="$d3/d4f/classFlowEntry.html#ae4f6674ebd0d53e7ea9831db0b606d27" title="FlowEntry::flow_handle" alt="" coords="504,77,675,104"/>
-<area shape="rect" id="node6" href="$d3/d4f/classFlowEntry.html#ab0234344aef68c591d3266330224d3f2" title="FlowEntry::uuid" alt="" coords="529,128,650,155"/>
-</map>

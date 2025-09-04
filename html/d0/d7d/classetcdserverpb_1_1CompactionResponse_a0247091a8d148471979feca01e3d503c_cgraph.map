@@ -1,6 +1,7 @@
 <map id="etcdserverpb::CompactionResponse::MergeFrom" name="etcdserverpb::CompactionResponse::MergeFrom">
-<area shape="rect" id="node2" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a3be8cf9c15ea37789d6680cffa23af7d" title="etcdserverpb::Compaction\lResponse::has_header" alt="" coords="251,5,445,46"/>
-<area shape="rect" id="node4" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a8065142908c9bade56e8703f45bd6984" title="etcdserverpb::Compaction\lResponse::mutable_header" alt="" coords="249,70,447,111"/>
-<area shape="rect" id="node5" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a967bab8f802d5f30d39a350c92ee575f" title="etcdserverpb::Compaction\lResponse::header" alt="" coords="251,135,445,177"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="496,5,720,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,181,112"/>
+<area shape="rect" id="node2" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a65738a0770ee81cefd38701cdcf9df2a" title=" " alt="" coords="231,5,407,47"/>
+<area shape="rect" id="node4" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a587ab33baa3b31186ee4b8235e5ad074" title=" " alt="" coords="231,71,407,112"/>
+<area shape="rect" id="node5" href="$d0/d7d/classetcdserverpb_1_1CompactionResponse.html#a8065142908c9bade56e8703f45bd6984" title=" " alt="" coords="229,136,409,177"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="457,5,664,47"/>
 </map>

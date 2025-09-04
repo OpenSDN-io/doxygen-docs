@@ -6,7 +6,7 @@ var classHealthCheckInstanceTask =
     [ "CreateInstanceTask", "d0/d85/classHealthCheckInstanceTask.html#ab25e8783da84592d9be0eb1a075bdb79", null ],
     [ "DestroyInstanceTask", "d0/d85/classHealthCheckInstanceTask.html#a241e79cc9a7604e8cb1e31ca93707d32", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d0/d85/classHealthCheckInstanceTask.html#a986ebad3f0e6694bd50583a788faed92", null ],
-    [ "IsRunning", "d0/d85/classHealthCheckInstanceTask.html#a153748e4f58612ef2b3595cc434db8e7", null ],
+    [ "IsRunning", "d0/d85/classHealthCheckInstanceTask.html#accfe9ea22043e4ad9b39ea021f5e1b76", null ],
     [ "RunInstanceTask", "d0/d85/classHealthCheckInstanceTask.html#a5cd8d546fc1d77f2c212ad04a0052e90", null ],
     [ "StopInstanceTask", "d0/d85/classHealthCheckInstanceTask.html#a52c10a938cc2dbc09335fa82bf0287da", null ],
     [ "UpdateInstanceTaskCommand", "d0/d85/classHealthCheckInstanceTask.html#a1822016a856f9e661fca4247cea61689", null ],

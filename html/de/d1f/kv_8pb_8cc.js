@@ -22,5 +22,5 @@ var kv_8pb_8cc =
     [ "file_default_instances", "de/d1f/kv_8pb_8cc.html#a37763a1be199ab6953993349cd69aae3", null ],
     [ "file_level_enum_descriptors", "de/d1f/kv_8pb_8cc.html#aad99a6b011a42153bf0d0e3b70cc12a5", null ],
     [ "file_level_metadata", "de/d1f/kv_8pb_8cc.html#ac67e918699a89c95ec11acb31b2608f6", null ],
-    [ "static_descriptor_initializer", "de/d1f/kv_8pb_8cc.html#a8d10165ae953d1c084fcd1a9ec3b77f2", null ]
+    [ "static_descriptor_initializer", "de/d1f/kv_8pb_8cc.html#abadaa35a7a4c1d734ca4d8ec1a642b3b", null ]
 ];

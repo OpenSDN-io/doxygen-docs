@@ -2,8 +2,8 @@ var classMirrorNHKey =
 [
     [ "MirrorNHKey", "dd/d73/classMirrorNHKey.html#af323725137a8e69b14bf3df67d9f6f2e", null ],
     [ "~MirrorNHKey", "dd/d73/classMirrorNHKey.html#a159f2298daa19e62aec4c4eeb159fad5", null ],
-    [ "AllocEntry", "dd/d73/classMirrorNHKey.html#ab3a4e751f4f86f9acdb8058160a0b6dc", null ],
-    [ "Clone", "dd/d73/classMirrorNHKey.html#aa1d41928ae293ed0d363500236b373a8", null ],
+    [ "AllocEntry", "dd/d73/classMirrorNHKey.html#af20bf56bb29a77f612b50301671790d9", null ],
+    [ "Clone", "dd/d73/classMirrorNHKey.html#a3d2470ae0ba22ff2255bae19fa3163a8", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "dd/d73/classMirrorNHKey.html#ab9a7af379212996592c47cc3167ca6f9", null ],
     [ "MirrorNH", "dd/d73/classMirrorNHKey.html#a92df2d18eb1155ee1237cad44fe5dd8b", null ],
     [ "dip_", "dd/d73/classMirrorNHKey.html#a19ad7cedffe5ce097028b5f66553ba02", null ],

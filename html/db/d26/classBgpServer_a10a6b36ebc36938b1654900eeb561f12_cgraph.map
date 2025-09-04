@@ -1,0 +1,42 @@
+<map id="BgpServer::CollectStats" name="BgpServer::CollectStats">
+<area shape="rect" id="node1" title=" " alt="" coords="5,669,168,695"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#aeeeb90743e9e9f7648b1e80ed6de3362" title=" " alt="" coords="237,74,401,101"/>
+<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#a936dcd6c87b2cc752c3eb37d6d4c26eb" title=" " alt="" coords="238,125,401,167"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a06a2a4c63d62bcb424e2a3a564e8bb82" title=" " alt="" coords="235,191,404,232"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#afcc1c603b70544c24732caf0c97a832b" title=" " alt="" coords="237,257,402,283"/>
+<area shape="rect" id="node19" href="$db/d26/classBgpServer.html#ac7583398387bd7e3a853607a932158e1" title=" " alt="" coords="221,308,417,349"/>
+<area shape="rect" id="node20" href="$db/d26/classBgpServer.html#ad54f5b0be875a76940384140ab6a40c3" title=" " alt="" coords="244,374,395,401"/>
+<area shape="rect" id="node21" href="$d0/dbd/classBgpNeighborConfig.html#a568554a8d7ecf79ca9c833e7f87f1657" title=" " alt="" coords="232,425,407,451"/>
+<area shape="rect" id="node22" href="$d2/dc6/classPeerManager.html#ac8678530692d1329e29ce8f2b5ff802c" title=" " alt="" coords="239,475,399,502"/>
+<area shape="rect" id="node23" href="$db/d26/classBgpServer.html#a1fc4e95e5a752305443598afed21068b" title=" " alt="" coords="231,526,408,553"/>
+<area shape="rect" id="node24" href="$db/d26/classBgpServer.html#af3c74424605410db289a1e330aa5cf45" title=" " alt="" coords="220,577,419,603"/>
+<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#aa8fcc031dc1983e69bb735af300c5986" title=" " alt="" coords="237,628,402,669"/>
+<area shape="rect" id="node26" href="$db/d26/classBgpServer.html#a05c2a88533c2eaf7479930e79ce3596f" title=" " alt="" coords="235,693,403,735"/>
+<area shape="rect" id="node27" href="$db/d26/classBgpServer.html#a63fad156c5ad5c67b95a184541ce399e" title=" " alt="" coords="235,759,403,800"/>
+<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#a5d2e484441e4a8b663ac8f28a85943ed" title=" " alt="" coords="242,824,397,865"/>
+<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#a4703d64c086854a07b65f47cf52cee4d" title=" " alt="" coords="242,889,397,931"/>
+<area shape="rect" id="node32" href="$db/d26/classBgpServer.html#abddffc4ff7692c5f2ad941bde2ee9e2a" title=" " alt="" coords="238,955,401,996"/>
+<area shape="rect" id="node33" href="$db/d26/classBgpServer.html#a1a84016f3e5007dd4e012cc09eeb5af6" title=" " alt="" coords="236,1020,403,1061"/>
+<area shape="rect" id="node34" href="$db/d26/classBgpServer.html#a208ebd8b5a95d8c6157fe19e7be3627a" title=" " alt="" coords="242,1085,397,1127"/>
+<area shape="rect" id="node37" href="$db/d26/classBgpServer.html#ae4babeb8acaea35204891eec809afe80" title=" " alt="" coords="216,1151,423,1178"/>
+<area shape="rect" id="node38" href="$db/d26/classBgpServer.html#a862766cfc55c95a7d76665d02ce846f5" title=" " alt="" coords="238,1202,401,1229"/>
+<area shape="rect" id="node39" href="$de/ddf/classRoutingInstance.html#a681ad0a18a6afd9daf99a4644fd4115c" title=" " alt="" coords="244,1253,395,1295"/>
+<area shape="rect" id="node40" href="$db/d26/classBgpServer.html#a327b43bbc52e718fc01bf66dcaccd185" title=" " alt="" coords="232,1319,407,1346"/>
+<area shape="rect" id="node6" href="$d8/df3/classPeerStats.html#ae7dd9b63e8a9f6abe536947a938b98ed" title=" " alt="" coords="477,165,645,207"/>
+<area shape="rect" id="node7" href="$d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df" title=" " alt="" coords="715,5,887,47"/>
+<area shape="rect" id="node15" href="$d3/d2d/classBgpPeer.html#aaed76b2d31bab91f6f78190ec1af02d4" title=" " alt="" coords="492,231,631,258"/>
+<area shape="rect" id="node16" href="$d3/d2d/classBgpPeer.html#ad084fa54caf5c8273ac61d15c2d93814" title=" " alt="" coords="497,282,625,309"/>
+<area shape="rect" id="node17" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title=" " alt="" coords="491,333,631,359"/>
+<area shape="rect" id="node18" href="$d3/d2d/classBgpPeer.html#a1b3c7000ab2d921b0598404e2828567b" title=" " alt="" coords="490,383,633,410"/>
+<area shape="rect" id="node8" href="$d8/df3/classPeerStats.html#aac230535b47276f2b9b5aba7d98cae46" title=" " alt="" coords="718,71,885,98"/>
+<area shape="rect" id="node9" href="$d8/df3/classPeerStats.html#a6322fe852c367b271a63b439d112cbd9" title=" " alt="" coords="711,122,891,149"/>
+<area shape="rect" id="node10" href="$d8/df3/classPeerStats.html#adeee48d347a3252d9557fb6a6539ed92" title=" " alt="" coords="708,173,895,199"/>
+<area shape="rect" id="node11" href="$d0/d3f/classIPeerDebugStats.html#afea47e954126332e823c358149deecb3" title=" " alt="" coords="704,224,899,265"/>
+<area shape="rect" id="node12" href="$d0/d3f/classIPeerDebugStats.html#a1bc58ad5a7f56d3d6f0bb2018e41ddc4" title=" " alt="" coords="702,289,901,331"/>
+<area shape="rect" id="node13" href="$d0/d3f/classIPeerDebugStats.html#ad103c3fa5539fbbb27c8b807a3cb5db8" title=" " alt="" coords="700,355,903,396"/>
+<area shape="rect" id="node14" href="$d0/d3f/classIPeerDebugStats.html#ab4aa64b64432f998aee6f407b7f8d4d7" title=" " alt="" coords="703,420,899,461"/>
+<area shape="rect" id="node30" href="$db/d26/classBgpServer.html#a22ac262638c7cadd3a1d2b141c865f7a" title=" " alt="" coords="471,889,651,931"/>
+<area shape="rect" id="node31" href="$d4/d81/classIStaticRouteMgr.html#a690c5e312d248d960d5d313a6c3633a8" title=" " alt="" coords="711,889,891,931"/>
+<area shape="rect" id="node35" href="$db/d26/classBgpServer.html#a0d68af961d57dcd813c6a1b10d7fb363" title=" " alt="" coords="471,1085,652,1127"/>
+<area shape="rect" id="node36" href="$d4/d81/classIStaticRouteMgr.html#a322cdeb27fd4880822ec2d60c2c1e430" title=" " alt="" coords="711,1085,892,1127"/>
+</map>

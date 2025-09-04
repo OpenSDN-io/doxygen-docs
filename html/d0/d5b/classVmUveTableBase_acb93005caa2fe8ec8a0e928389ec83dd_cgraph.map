@@ -1,9 +1,10 @@
 <map id="VmUveTableBase::Add" name="VmUveTableBase::Add">
-<area shape="rect" id="node2" href="$d0/d5b/classVmUveTableBase.html#a630743aaeb8c6675444ace8572c12ed1" title="VmUveTableBase::Allocate" alt="" coords="224,5,421,32"/>
-<area shape="rect" id="node4" href="$d9/d04/classVmEntry.html#a351e6bc187b60f50e9bb99dc48868865" title="VmEntry::GetUuid" alt="" coords="253,56,392,83"/>
-<area shape="rect" id="node5" href="$d5/de0/classVmUveEntryBase.html#ac631a78d29d6fcdadc6f876d14dcd1c2" title="VmUveEntryBase::add\l_by_vm_notify" alt="" coords="239,107,407,149"/>
-<area shape="rect" id="node6" href="$d5/de0/classVmUveEntryBase.html#a6d117c1c6c171640b83217da4687da91" title="VmUveEntryBase::set\l_add_by_vm_notify" alt="" coords="241,173,405,214"/>
-<area shape="rect" id="node7" href="$d5/de0/classVmUveEntryBase.html#a07bde44fc978411e3cbdf513acefb967" title="VmUveEntryBase::deleted" alt="" coords="226,239,419,265"/>
-<area shape="rect" id="node8" href="$d5/de0/classVmUveEntryBase.html#af40ad37cbc276229e1539195e97c2262" title="VmUveEntryBase::set\l_renewed" alt="" coords="241,290,405,331"/>
-<area shape="rect" id="node3" href="$d9/d04/classVmEntry.html#a9b04ab6973620389c9b0b4832fdf51ec" title="VmEntry::GetCfgName" alt="" coords="470,5,639,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,147,163,174"/>
+<area shape="rect" id="node2" href="$d5/de0/classVmUveEntryBase.html#a2b3e1b8a04ac19977404cddd83f944b4" title=" " alt="" coords="223,5,379,47"/>
+<area shape="rect" id="node3" href="$d0/d5b/classVmUveTableBase.html#a630743aaeb8c6675444ace8572c12ed1" title=" " alt="" coords="211,71,392,98"/>
+<area shape="rect" id="node5" href="$d5/de0/classVmUveEntryBase.html#abad21868cfa64475489250584983ca8d" title=" " alt="" coords="213,122,390,149"/>
+<area shape="rect" id="node6" href="$d9/d04/classVmEntry.html#a768f5b225868f04f578848aad9976a20" title=" " alt="" coords="237,173,366,199"/>
+<area shape="rect" id="node7" href="$d5/de0/classVmUveEntryBase.html#a6d117c1c6c171640b83217da4687da91" title=" " alt="" coords="225,224,378,265"/>
+<area shape="rect" id="node8" href="$d5/de0/classVmUveEntryBase.html#af40ad37cbc276229e1539195e97c2262" title=" " alt="" coords="225,289,378,331"/>
+<area shape="rect" id="node4" href="$d9/d04/classVmEntry.html#a7fdc037de644b9428996db3d21bb0c0c" title=" " alt="" coords="440,71,599,98"/>
 </map>

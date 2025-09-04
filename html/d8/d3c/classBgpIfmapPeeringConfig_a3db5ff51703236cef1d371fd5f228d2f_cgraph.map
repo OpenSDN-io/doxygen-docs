@@ -1,11 +1,12 @@
 <map id="BgpIfmapPeeringConfig::SetNodeProxy" name="BgpIfmapPeeringConfig::SetNodeProxy">
-<area shape="rect" id="node2" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title="IFMapNodeProxy::Swap" alt="" coords="229,119,403,145"/>
-<area shape="rect" id="node9" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title="IFMapNodeProxy::node" alt="" coords="231,169,401,196"/>
-<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="247,220,385,247"/>
-<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="451,93,621,120"/>
-<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="469,144,603,171"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="669,5,896,32"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="688,57,877,98"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="694,123,871,149"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title="DBTableBase::AddToDBState\lCount" alt="" coords="679,174,886,215"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,164,116"/>
+<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="228,31,359,58"/>
+<area shape="rect" id="node3" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="214,82,373,109"/>
+<area shape="rect" id="node4" href="$d7/d3f/classIFMapNodeProxy.html#a60c68114ade0a934d3eab62de6575c09" title=" " alt="" coords="212,133,375,159"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="423,107,585,134"/>
+<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="441,158,567,185"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="640,5,837,47"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="649,71,828,112"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="633,137,844,163"/>
+<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="655,187,822,214"/>
 </map>

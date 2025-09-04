@@ -7,7 +7,7 @@ var classEncodeContext =
     [ "AddCallback", "d0/d2e/classEncodeContext.html#a3ce2e2a612d9e05e62d2edf7f50fdd84", null ],
     [ "advance", "d0/d2e/classEncodeContext.html#a8a1e105f40403b196d96e82c501c13d3", null ],
     [ "encode_offsets", "d0/d2e/classEncodeContext.html#a6b9a4acd346fa6e7d69815a508462511", null ],
-    [ "length", "d0/d2e/classEncodeContext.html#af8c620e84a8bf076e1307c25b3a602f2", null ],
+    [ "length", "d0/d2e/classEncodeContext.html#a6a654b1f1e7e592ed0467aab5d6c51ec", null ],
     [ "Pop", "d0/d2e/classEncodeContext.html#a05032d40a75f2f599390e681d3c30297", null ],
     [ "Push", "d0/d2e/classEncodeContext.html#aa2f07842b5c4dff0c426215518432aae", null ],
     [ "SaveOffset", "d0/d2e/classEncodeContext.html#a08fef9b668a5e082ff9885ed8773915b", null ],

@@ -1,10 +1,11 @@
 <map id="Dhcpv6Handler::WriteIaOption" name="Dhcpv6Handler::WriteIaOption">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="331,5,458,32"/>
-<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#a5bf513c048165d74d04411f8a6e4a930" title="VnEntry::GetAllocUnitFromIpam" alt="" coords="281,56,508,83"/>
-<area shape="rect" id="node5" href="$d1/dff/classDhcpv6Handler.html#abc75b5d51724d8381c5d830530f056c9" title="Dhcpv6Handler::GetNextOptionPtr" alt="" coords="272,107,517,133"/>
-<area shape="rect" id="node6" href="$d1/d75/structDhcpv6Options.html#ac8af1c35d9a6238d76f689acb9847199" title="Dhcpv6Options::WriteData" alt="" coords="297,157,492,184"/>
-<area shape="rect" id="node7" href="$d1/dff/classDhcpv6Handler.html#a1f2dae0d02121a7cdcb167858dc2d8b8" title="Dhcpv6Handler::GetNextV6\lAddress" alt="" coords="294,209,495,250"/>
-<area shape="rect" id="node9" href="$d1/d75/structDhcpv6Options.html#ac226afb73d66f32c0992c1b55183f2c4" title="Dhcpv6Options::AppendData" alt="" coords="290,275,499,301"/>
-<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#a5a407f30c005fc96084347449a3f9631" title="VnEntry::GetIpam" alt="" coords="596,56,732,83"/>
-<area shape="rect" id="node8" href="$d1/dff/classDhcpv6Handler.html#a4b3fcedff1503981b2b24df96b23a58d" title="Dhcpv6Handler::Increment\lByteInAddress" alt="" coords="566,209,762,250"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,204,163"/>
+<area shape="rect" id="node2" href="$d1/d75/structDhcpv6Options.html#ac226afb73d66f32c0992c1b55183f2c4" title=" " alt="" coords="269,5,459,32"/>
+<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#ae7f686982ebf87255a7593ec63f5674d" title=" " alt="" coords="259,56,469,83"/>
+<area shape="rect" id="node5" href="$d1/dff/classDhcpv6Handler.html#abc75b5d51724d8381c5d830530f056c9" title=" " alt="" coords="252,107,476,133"/>
+<area shape="rect" id="node6" href="$d1/dff/classDhcpv6Handler.html#a1f2dae0d02121a7cdcb167858dc2d8b8" title=" " alt="" coords="271,158,457,199"/>
+<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="306,224,422,251"/>
+<area shape="rect" id="node9" href="$d1/d75/structDhcpv6Options.html#ac8af1c35d9a6238d76f689acb9847199" title=" " alt="" coords="275,275,453,301"/>
+<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#abb785f8f71253a4d30d6e4332625b42e" title=" " alt="" coords="550,56,677,83"/>
+<area shape="rect" id="node7" href="$d1/dff/classDhcpv6Handler.html#a4b3fcedff1503981b2b24df96b23a58d" title=" " alt="" coords="524,158,703,199"/>
 </map>

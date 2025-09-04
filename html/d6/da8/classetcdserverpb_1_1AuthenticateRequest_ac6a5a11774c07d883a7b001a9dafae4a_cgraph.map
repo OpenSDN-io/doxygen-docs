@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthenticateRequest::MergePartialFromCodedStream" name="etcdserverpb::AuthenticateRequest::MergePartialFromCodedStream">
-<area shape="rect" id="node2" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a537abd8f77b25bf09203597a5561d518" title="etcdserverpb::Authenticate\lRequest::mutable_name" alt="" coords="294,5,493,46"/>
-<area shape="rect" id="node3" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a4843568b3a7f119ad3c14511fe5addc1" title="etcdserverpb::Authenticate\lRequest::name" alt="" coords="294,70,493,111"/>
-<area shape="rect" id="node4" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a388e798a730ac3773b5d8193800d4d35" title="etcdserverpb::Authenticate\lRequest::mutable_password" alt="" coords="291,135,496,177"/>
-<area shape="rect" id="node5" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a7861615e105e347c0e311b22ef3478ff" title="etcdserverpb::Authenticate\lRequest::password" alt="" coords="294,201,493,242"/>
-<area shape="rect" id="node6" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title="failure" alt="" coords="361,267,425,293"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,225,171"/>
+<area shape="rect" id="node2" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title=" " alt="" coords="338,5,395,32"/>
+<area shape="rect" id="node3" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a537abd8f77b25bf09203597a5561d518" title=" " alt="" coords="277,57,456,98"/>
+<area shape="rect" id="node4" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a388e798a730ac3773b5d8193800d4d35" title=" " alt="" coords="273,122,460,163"/>
+<area shape="rect" id="node5" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a2126e5a32b46a86db36a342d441d8ea2" title=" " alt="" coords="277,187,456,229"/>
+<area shape="rect" id="node6" href="$d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a9de616d37389eb34767cfdf227187728" title=" " alt="" coords="277,253,456,294"/>
 </map>

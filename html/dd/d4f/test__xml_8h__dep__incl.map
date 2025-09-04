@@ -1,8 +1,9 @@
 <map id="test_xml.h" name="test_xml.h">
-<area shape="rect" id="node2" href="$d0/d9e/test__xml_8cc.html" title="test_xml.cc" alt="" coords="5,80,101,107"/>
-<area shape="rect" id="node3" href="$da/d30/test__xml__dummy_8cc.html" title="test_xml_dummy.cc" alt="" coords="32,155,184,181"/>
-<area shape="rect" id="node4" href="$da/d85/test__xml__oper_8h.html" title="test_xml_oper.h" alt="" coords="178,80,304,107"/>
-<area shape="rect" id="node5" href="$de/d04/test__xml__oper_8cc.html" title="test_xml_oper.cc" alt="" coords="209,155,340,181"/>
-<area shape="rect" id="node6" href="$d5/d1f/test__xml__packet_8cc.html" title="test_xml_packet.cc" alt="" coords="365,155,512,181"/>
-<area shape="rect" id="node7" href="$dd/d93/test__xml__validate_8cc.html" title="test_xml_validate.cc" alt="" coords="431,80,588,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="233,5,316,32"/>
+<area shape="rect" id="node2" href="$d0/d9e/test__xml_8cc.html" title=" " alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$da/d30/test__xml__dummy_8cc.html" title=" " alt="" coords="33,155,172,181"/>
+<area shape="rect" id="node4" href="$de/d04/test__xml__oper_8cc.html" title=" " alt="" coords="196,155,319,181"/>
+<area shape="rect" id="node5" href="$da/d85/test__xml__oper_8h.html" title=" " alt="" coords="171,80,285,107"/>
+<area shape="rect" id="node6" href="$d5/d1f/test__xml__packet_8cc.html" title=" " alt="" coords="343,155,478,181"/>
+<area shape="rect" id="node7" href="$dd/d93/test__xml__validate_8cc.html" title=" " alt="" coords="411,80,552,107"/>
 </map>

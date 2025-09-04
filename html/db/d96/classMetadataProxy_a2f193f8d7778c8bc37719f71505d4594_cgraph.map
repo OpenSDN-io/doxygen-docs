@@ -1,9 +1,10 @@
 <map id="MetadataProxy::ErrorClose" name="MetadataProxy::ErrorClose">
-<area shape="rect" id="node2" href="$d7/d8d/metadata__proxy_8cc.html#a878306c7dc8e3bfb05786b0f879a11c0" title="ErrorMessage" alt="" coords="295,17,406,44"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="504,69,637,96"/>
-<area shape="rect" id="node7" href="$db/d96/classMetadataProxy.html#afd9109e4c1d1deec13558ec79535c087" title="MetadataProxy::CloseServer\lSession" alt="" coords="248,119,453,161"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="688,5,875,46"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="923,96,1067,123"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="688,121,875,148"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="502,123,639,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,184,98"/>
+<area shape="rect" id="node2" href="$db/d96/classMetadataProxy.html#afd9109e4c1d1deec13558ec79535c087" title=" " alt="" coords="232,5,421,47"/>
+<area shape="rect" id="node6" href="$d7/d8d/metadata__proxy_8cc.html#a878306c7dc8e3bfb05786b0f879a11c0" title=" " alt="" coords="275,71,378,98"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="471,93,599,119"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title=" " alt="" coords="469,21,601,47"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="651,27,825,54"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="875,53,1011,79"/>
+<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="649,129,827,171"/>
 </map>

@@ -1,21 +1,22 @@
 <map id="ShowIFMapPerClientLinkTable::CopyNode" name="ShowIFMapPerClientLinkTable::CopyNode">
-<area shape="rect" id="node2" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title="IFMapServer::exporter" alt="" coords="288,5,453,32"/>
-<area shape="rect" id="node3" href="$d3/d31/classIFMapExporter.html#a796122fb7058b5fad2e2d3668562a7be" title="IFMapExporter::LinkState\lLookup" alt="" coords="279,57,463,98"/>
-<area shape="rect" id="node9" href="$db/db7/classIFMapState.html#a34ea84fe493d9e5e412b2f516d36b611" title="IFMapState::interest" alt="" coords="295,123,447,149"/>
-<area shape="rect" id="node10" href="$d6/dd0/classBitSet.html#a8df98e6888d3f594109600d72bb20269" title="BitSet::test" alt="" coords="323,173,418,200"/>
-<area shape="rect" id="node13" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="291,224,450,251"/>
-<area shape="rect" id="node14" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title="IFMapLink::left" alt="" coords="312,275,429,301"/>
-<area shape="rect" id="node15" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="293,325,448,352"/>
-<area shape="rect" id="node17" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title="IFMapLink::right" alt="" coords="308,376,433,403"/>
-<area shape="rect" id="node18" href="$db/db7/classIFMapState.html#a17ad6aefd507f5abfef24a223f271b6c" title="IFMapState::advertised" alt="" coords="285,427,456,453"/>
-<area shape="rect" id="node19" href="$d3/d31/classIFMapExporter.html#ab9d29d4b358b8f7d25949553ec5685df" title="IFMapExporter::ClientHas\lConfigTracker" alt="" coords="277,478,464,519"/>
-<area shape="rect" id="node20" href="$d3/d31/classIFMapExporter.html#a7e55d7bbd3f27c335e5468bd212611fd" title="IFMapExporter::ClientConfig\lTrackerHasState" alt="" coords="269,543,472,585"/>
-<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html#a566a83c5da12a9cfdd760d722dfb394b" title="IFMapExporter::Find" alt="" coords="547,13,696,40"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="535,64,707,91"/>
-<area shape="rect" id="node8" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a16f2879199fe51d54ec1d774f72a158f" title="IFMapExporter::TableInfo::id" alt="" coords="520,115,723,141"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="771,35,997,61"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="789,86,979,127"/>
-<area shape="rect" id="node11" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="571,169,671,196"/>
-<area shape="rect" id="node12" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="571,220,672,247"/>
-<area shape="rect" id="node16" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="537,325,706,352"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,282,205,323"/>
+<area shape="rect" id="node2" href="$db/db7/classIFMapState.html#ac974c7256a1e4100bdc14ec56a9ee0df" title=" " alt="" coords="269,5,427,32"/>
+<area shape="rect" id="node3" href="$d3/d31/classIFMapExporter.html#a7e55d7bbd3f27c335e5468bd212611fd" title=" " alt="" coords="253,57,443,98"/>
+<area shape="rect" id="node4" href="$d3/d31/classIFMapExporter.html#ab9d29d4b358b8f7d25949553ec5685df" title=" " alt="" coords="261,122,435,163"/>
+<area shape="rect" id="node5" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title=" " alt="" coords="271,188,425,215"/>
+<area shape="rect" id="node6" href="$db/db7/classIFMapState.html#ab127354d952306d87afe4e2cde4badac" title=" " alt="" coords="277,239,419,265"/>
+<area shape="rect" id="node7" href="$d0/dfa/classIFMapLink.html#ac8a33c6cddc7511e1aa0e566984c7fc6" title=" " alt="" coords="294,289,402,316"/>
+<area shape="rect" id="node8" href="$d3/d31/classIFMapExporter.html#a796122fb7058b5fad2e2d3668562a7be" title=" " alt="" coords="262,341,434,382"/>
+<area shape="rect" id="node14" href="$d0/dfa/classIFMapLink.html#ad153169675ddc500b86b658651c4d917" title=" " alt="" coords="276,407,420,433"/>
+<area shape="rect" id="node15" href="$d0/dfa/classIFMapLink.html#ac1897b01c1555cb5f34a53ee54eedb76" title=" " alt="" coords="291,457,405,484"/>
+<area shape="rect" id="node16" href="$d6/dd0/classBitSet.html#ad0e9942d4f2f23fb69c4b95a35edc0a7" title=" " alt="" coords="304,508,392,535"/>
+<area shape="rect" id="node19" href="$dc/d17/classIFMapNode.html#ae558a024c581279d2dfcb0d08cf6154f" title=" " alt="" coords="275,559,421,585"/>
+<area shape="rect" id="node9" href="$d3/d31/classIFMapExporter.html#a9436200856a7ffd6f4ba2d6f655f5783" title=" " alt="" coords="513,297,656,324"/>
+<area shape="rect" id="node10" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="503,348,666,375"/>
+<area shape="rect" id="node13" href="$dc/d10/classIFMapExporter_1_1TableInfo.html#a6f4196fc36a78311ac25a322629c9453" title=" " alt="" coords="491,399,679,425"/>
+<area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="743,311,921,353"/>
+<area shape="rect" id="node12" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="727,377,937,404"/>
+<area shape="rect" id="node17" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="539,457,630,484"/>
+<area shape="rect" id="node18" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="539,508,631,535"/>
+<area shape="rect" id="node20" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="505,559,664,585"/>
 </map>

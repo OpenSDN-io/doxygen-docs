@@ -1,9 +1,10 @@
 <map id="EvpnManager::ProcessSegmentDeleteSet" name="EvpnManager::ProcessSegmentDeleteSet">
-<area shape="rect" id="node2" href="$dd/d17/classEvpnSegment.html#a51417a252d4e87e99095d62a87c20009" title="Return true if it&#39;s safe to delete this EvpnSegment. " alt="" coords="282,5,473,32"/>
-<area shape="rect" id="node3" href="$dd/d17/classEvpnSegment.html#a6ae68cecc5758e5628867e0cb8041baf" title="EvpnSegment::esi" alt="" coords="308,56,447,83"/>
-<area shape="rect" id="node4" href="$d4/d15/classEvpnManager.html#a3bf29429747b7a49650c94b9a5fae384" title="Attempt to enqueue a delete for the EvpnManager. " alt="" coords="280,107,475,133"/>
-<area shape="rect" id="node5" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="Return the LifetimeActor for the EvpnManager. " alt="" coords="538,81,702,108"/>
-<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="523,132,717,159"/>
-<area shape="rect" id="node7" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="766,132,962,159"/>
-<area shape="rect" id="node8" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="1011,125,1194,166"/>
+<area shape="rect" id="node1" title="Process the set of EvpnSegments that can potentially be deleted. Remove the EvpnSegment from the map ..." alt="" coords="5,49,216,90"/>
+<area shape="rect" id="node2" href="$dd/d17/classEvpnSegment.html#a7e0ec10b6abfc02c2ed1f82aa6ded861" title=" " alt="" coords="289,5,419,32"/>
+<area shape="rect" id="node3" href="$dd/d17/classEvpnSegment.html#a82859cadd8b0ecc1372a422c4fac4077" title="Return true if it&#39;s safe to delete this EvpnSegment." alt="" coords="267,56,441,83"/>
+<area shape="rect" id="node4" href="$d4/d15/classEvpnManager.html#a3bf29429747b7a49650c94b9a5fae384" title="Attempt to enqueue a delete for the EvpnManager." alt="" coords="264,107,444,133"/>
+<area shape="rect" id="node5" href="$d4/d15/classEvpnManager.html#a0853f64f40c2a3f10a2fa17f4dacf336" title="Return the LifetimeActor for the EvpnManager." alt="" coords="506,81,655,108"/>
+<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title=" " alt="" coords="492,132,669,159"/>
+<area shape="rect" id="node7" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title=" " alt="" coords="717,132,895,159"/>
+<area shape="rect" id="node8" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title=" " alt="" coords="943,125,1109,166"/>
 </map>

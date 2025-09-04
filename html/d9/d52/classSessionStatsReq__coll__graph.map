@@ -1,6 +1,10 @@
 <map id="SessionStatsReq" name="SessionStatsReq">
-<area shape="rect" id="node2" href="$d1/dfa/structRevFlowDepParams.html" title="RevFlowDepParams" alt="" coords="405,333,555,360"/>
-<area shape="rect" id="node3" href="$db/d67/structFlowAction.html" title="FlowAction" alt="" coords="216,229,309,256"/>
-<area shape="rect" id="node4" href="$da/d55/structVrfTranslateActionSpec.html" title="VrfTranslateActionSpec" alt="" coords="5,96,176,123"/>
-<area shape="rect" id="node6" href="$dd/dec/structQosConfigActionSpec.html" title="QosConfigActionSpec" alt="" coords="201,96,361,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="237,421,359,448"/>
+<area shape="rect" id="node2" href="$d1/dfa/structRevFlowDepParams.html" title=" " alt="" coords="133,332,276,359"/>
+<area shape="rect" id="node3" href="$db/d67/structFlowAction.html" title=" " alt="" coords="59,228,145,255"/>
+<area shape="rect" id="node4" href="$da/d55/structVrfTranslateActionSpec.html" title=" " alt="" coords="20,95,179,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="72,5,127,32"/>
+<area shape="rect" id="node6" href="$dd/dec/structQosConfigActionSpec.html" title=" " alt="" coords="203,95,353,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="171,228,239,255"/>
+<area shape="rect" id="node8" title=" " alt="" coords="315,228,361,255"/>
 </map>

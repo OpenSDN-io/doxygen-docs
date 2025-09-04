@@ -1,8 +1,9 @@
 <map id="SessionStatsCollectorObject::SessionStatsCollectorObject" name="SessionStatsCollectorObject::SessionStatsCollectorObject">
-<area shape="rect" id="node2" href="$df/d96/classSessionStatsCollector.html#a9234f61132cf9e57519210ce1d4f207c" title="SessionStatsCollector\l::instance_id" alt="" coords="287,5,449,46"/>
-<area shape="rect" id="node3" href="$d0/d29/classFlowStatsManager.html#a0fe0487327ce355617f2f26a1244628d" title="FlowStatsManager::Allocate\lIndex" alt="" coords="267,70,469,111"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#ab6c45b634b57bc3bb73f6c3d6fbe3cb6" title="Agent::event_manager" alt="" coords="283,136,453,163"/>
-<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="273,187,463,213"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="322,237,414,264"/>
-<area shape="rect" id="node4" href="$d6/d34/classIndexVector.html#a43917c41dcf68411a8db47302407b852" title="IndexVector::Insert" alt="" coords="517,77,661,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,204,164"/>
+<area shape="rect" id="node2" href="$d0/d29/classFlowStatsManager.html#a0fe0487327ce355617f2f26a1244628d" title=" " alt="" coords="252,5,439,47"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17" title=" " alt="" coords="269,71,421,98"/>
+<area shape="rect" id="node5" href="$df/d96/classSessionStatsCollector.html#aff22f2ccf0bb3ab0cbe750cee5be9fb2" title=" " alt="" coords="269,123,421,164"/>
+<area shape="rect" id="node6" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title=" " alt="" coords="259,189,432,215"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a561960151eae0164d71de2ff0a6eabfc" title=" " alt="" coords="303,239,387,266"/>
+<area shape="rect" id="node3" href="$d6/d34/classIndexVector.html#a43917c41dcf68411a8db47302407b852" title=" " alt="" coords="487,13,620,39"/>
 </map>

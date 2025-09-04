@@ -1,11 +1,12 @@
 <map id="BgpYamlConfigManager::Resolve" name="BgpYamlConfigManager::Resolve">
-<area shape="rect" id="node2" href="$d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#acada74fd15b1452e0d4542d8298dd864" title="BgpYamlConfigManager\l::Configuration::GetProtocol\lConfig" alt="" coords="246,5,447,61"/>
-<area shape="rect" id="node3" href="$d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a975606952329e337ab5db41a19969c62" title="BgpYamlConfigManager\l::Configuration::GetNeighborMap" alt="" coords="229,86,464,127"/>
-<area shape="rect" id="node5" href="$d0/dbd/classBgpNeighborConfig.html#a561ab51c996ddeccfc274d9035e8e3d8" title="BgpNeighborConfig::\lpeer_as" alt="" coords="540,206,695,247"/>
-<area shape="rect" id="node6" href="$d0/dbd/classBgpNeighborConfig.html#a76c1a00f4835d248234b9d647d4a06a7" title="BgpNeighborConfig::\lpeer_type" alt="" coords="269,203,424,245"/>
-<area shape="rect" id="node7" href="$d0/dbd/classBgpNeighborConfig.html#a285737c82ae80502c275aa46f8592e65" title="BgpNeighborConfig::\lset_peer_as" alt="" coords="269,269,424,310"/>
-<area shape="rect" id="node8" href="$d6/d76/classBgpProtocolConfig.html#ae41e210aa4bd8e4df8f2baa6ed5486ad" title="BgpProtocolConfig::\lautonomous_system" alt="" coords="267,334,426,375"/>
-<area shape="rect" id="node9" href="$d0/dbd/classBgpNeighborConfig.html#ac34548dc2c52bf891cec6f205000e751" title="BgpNeighborConfig::name" alt="" coords="251,400,443,427"/>
-<area shape="rect" id="node10" href="$d0/dbd/classBgpNeighborConfig.html#a92c36683bcd4ae798e6eb00a24e532a9" title="BgpNeighborConfig::\lset_peer_type" alt="" coords="269,451,424,493"/>
-<area shape="rect" id="node4" href="$d8/d97/classYamlInstanceData.html#a317db9c25a3190a5efdcacd2a87cde4b" title="YamlInstanceData::neighbors" alt="" coords="512,93,723,120"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,168,276"/>
+<area shape="rect" id="node2" href="$d6/d76/classBgpProtocolConfig.html#aa64b40a7efa630fff500bc39c15744ae" title=" " alt="" coords="252,5,393,47"/>
+<area shape="rect" id="node3" href="$d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a975606952329e337ab5db41a19969c62" title=" " alt="" coords="216,71,429,112"/>
+<area shape="rect" id="node5" href="$d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#acada74fd15b1452e0d4542d8298dd864" title=" " alt="" coords="231,137,415,193"/>
+<area shape="rect" id="node6" href="$d0/dbd/classBgpNeighborConfig.html#a568554a8d7ecf79ca9c833e7f87f1657" title=" " alt="" coords="235,217,410,243"/>
+<area shape="rect" id="node7" href="$d0/dbd/classBgpNeighborConfig.html#a6e03f7754a8a4249241c3cb2c9bd54bc" title=" " alt="" coords="503,321,645,363"/>
+<area shape="rect" id="node8" href="$d0/dbd/classBgpNeighborConfig.html#a9e773c12e3d2e8f9db253247ed5ee875" title=" " alt="" coords="251,319,394,360"/>
+<area shape="rect" id="node9" href="$d0/dbd/classBgpNeighborConfig.html#a285737c82ae80502c275aa46f8592e65" title=" " alt="" coords="251,384,394,425"/>
+<area shape="rect" id="node10" href="$d0/dbd/classBgpNeighborConfig.html#a92c36683bcd4ae798e6eb00a24e532a9" title=" " alt="" coords="251,449,394,491"/>
+<area shape="rect" id="node4" href="$d8/d97/classYamlInstanceData.html#a30478c814594f72e96b63e76398997cf" title=" " alt="" coords="477,78,671,105"/>
 </map>

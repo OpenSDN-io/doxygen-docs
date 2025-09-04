@@ -1,4 +1,5 @@
 <map id="TaskScheduler::QueryTaskEntry" name="TaskScheduler::QueryTaskEntry">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id. " alt="" coords="250,5,441,46"/>
-<area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#ad46d47f9c5cc5b3a7a21ef839cd69a12" title="TaskGroup::QueryTaskEntry" alt="" coords="245,71,445,97"/>
+<area shape="rect" id="node1" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="5,27,185,69"/>
+<area shape="rect" id="node2" href="$d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="233,5,423,32"/>
+<area shape="rect" id="node3" href="$df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="238,57,418,98"/>
 </map>

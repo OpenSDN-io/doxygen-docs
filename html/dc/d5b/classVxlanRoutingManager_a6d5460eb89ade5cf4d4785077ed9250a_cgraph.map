@@ -1,4 +1,5 @@
 <map id="VxlanRoutingManager::GetNewLocalSequence" name="VxlanRoutingManager::GetNewLocalSequence">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="232,5,381,32"/>
-<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="237,56,377,83"/>
+<area shape="rect" id="node1" title="Auxilliary functions." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="223,5,354,32"/>
+<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="220,56,357,83"/>
 </map>

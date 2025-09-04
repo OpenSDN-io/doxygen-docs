@@ -1,6 +1,7 @@
 <map id="ConfigClientReinitHandleRequest" name="ConfigClientReinitHandleRequest">
-<area shape="rect" id="node2" href="$d4/d8a/classIFMapSandeshContext.html#a12ad0de5c658f95f056c0ba101ce16fb" title="IFMapSandeshContext\l::ifmap_server" alt="" coords="243,5,410,46"/>
-<area shape="rect" id="node3" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title="IFMapServer::get_config\l_manager" alt="" coords="238,70,415,111"/>
-<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html#a16bf0a9df5448a8dad7c10e18228a954" title="ConfigClientManager\l::ReinitConfigClient" alt="" coords="248,135,405,177"/>
-<area shape="rect" id="node5" href="$de/d27/classConfigClientManager.html#adf11ad39c2d7324f9d627f33ca7ab1c1" title="ConfigClientManager\l::ReinitConfigClient" alt="" coords="464,135,621,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,173,112"/>
+<area shape="rect" id="node2" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title=" " alt="" coords="221,5,387,47"/>
+<area shape="rect" id="node3" href="$d4/d8a/classIFMapSandeshContext.html#a12ad0de5c658f95f056c0ba101ce16fb" title=" " alt="" coords="226,71,382,112"/>
+<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html#a16bf0a9df5448a8dad7c10e18228a954" title=" " alt="" coords="232,136,376,177"/>
+<area shape="rect" id="node5" href="$de/d27/classConfigClientManager.html#adf11ad39c2d7324f9d627f33ca7ab1c1" title=" " alt="" coords="435,136,579,177"/>
 </map>

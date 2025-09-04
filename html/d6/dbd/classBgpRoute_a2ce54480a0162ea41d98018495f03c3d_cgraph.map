@@ -1,8 +1,9 @@
 <map id="BgpRoute::FindPath" name="BgpRoute::FindPath">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="207,5,348,32"/>
-<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a8b90bbf607586840e8010f8f965795ff" title="BgpPath::GetSource" alt="" coords="202,56,353,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a6c71a3212d0c693e2bd14fee80a22bd0" title="BgpPath::IsResolved" alt="" coords="201,107,354,133"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a67803f52d8cd63fb7cc1e5e249a987d7" title="BgpPath::IsAliased" alt="" coords="206,157,349,184"/>
-<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="212,208,343,235"/>
-<area shape="rect" id="node7" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="211,259,343,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,145,159"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="204,5,327,32"/>
+<area shape="rect" id="node3" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="198,56,333,83"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#ae586140cbe5d22634efdd18a06188277" title=" " alt="" coords="194,107,337,133"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a2549360812e6ea0fde37bcc5c317ffad" title=" " alt="" coords="198,157,333,184"/>
+<area shape="rect" id="node6" href="$d7/d0c/classBgpPath.html#aaf09413dc0d340593f6cc5fa2c5d2fb4" title=" " alt="" coords="193,208,337,235"/>
+<area shape="rect" id="node7" href="$d5/dcf/classBgpAttr.html#aadbcc5fe5aa55782c1d7fcc5b7b304dd" title=" " alt="" coords="205,259,325,285"/>
 </map>

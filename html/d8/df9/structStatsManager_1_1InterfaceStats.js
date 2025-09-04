@@ -1,7 +1,7 @@
 var structStatsManager_1_1InterfaceStats =
 [
     [ "InterfaceStats", "d8/df9/structStatsManager_1_1InterfaceStats.html#a270655e4d25b6f251513dac367947886", null ],
-    [ "GetDiffStats", "d8/df9/structStatsManager_1_1InterfaceStats.html#a8d8a3f21ff1b3cf32402b4302d9ecc20", null ],
+    [ "GetDiffStats", "d8/df9/structStatsManager_1_1InterfaceStats.html#a28df9e7229f5f2140a54bdaa3a20815d", null ],
     [ "UpdatePrevStats", "d8/df9/structStatsManager_1_1InterfaceStats.html#aedf966e0d455831b3048a940cbf3dcb4", null ],
     [ "UpdateStats", "d8/df9/structStatsManager_1_1InterfaceStats.html#af55a6abacd51aec51cb448e3c13b09d4", null ],
     [ "added", "d8/df9/structStatsManager_1_1InterfaceStats.html#a5fd7aaa53131d294e9cfc1d251a54b8c", null ],

@@ -1,7 +1,8 @@
 <map id="IFMapTable" name="IFMapTable">
-<area shape="rect" id="node5" href="$d7/d4c/classIFMapAgentTable.html" title="IFMapAgentTable" alt="" coords="5,304,136,331"/>
-<area shape="rect" id="node6" href="$dc/dd4/classIFMapServerTable.html" title="IFMapServerTable" alt="" coords="161,304,297,331"/>
-<area shape="rect" id="node2" href="$d4/d52/classDBGraphTable.html" title="DBGraphTable" alt="" coords="92,155,207,181"/>
-<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="112,80,187,107"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="96,5,203,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="97,229,187,256"/>
+<area shape="rect" id="node5" href="$d7/d4c/classIFMapAgentTable.html" title=" " alt="" coords="5,304,129,331"/>
+<area shape="rect" id="node6" href="$dc/dd4/classIFMapServerTable.html" title=" " alt="" coords="154,304,282,331"/>
+<area shape="rect" id="node2" href="$d4/d52/classDBGraphTable.html" title=" " alt="" coords="89,155,195,181"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="106,80,178,107"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="91,5,193,32"/>
 </map>

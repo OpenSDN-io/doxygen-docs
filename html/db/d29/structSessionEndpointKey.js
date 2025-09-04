@@ -1,8 +1,8 @@
 var structSessionEndpointKey =
 [
     [ "SessionEndpointKey", "db/d29/structSessionEndpointKey.html#afa6df65b1f8c92a8ae6717752357bed8", null ],
-    [ "IsEqual", "db/d29/structSessionEndpointKey.html#ab271845928f33bf673803d2c7fcaf58a", null ],
-    [ "IsLess", "db/d29/structSessionEndpointKey.html#a6045606d7f91c41b4ce54d9849d6a7f6", null ],
+    [ "IsEqual", "db/d29/structSessionEndpointKey.html#a20f68fd00400ce1da0fb0d0b458dc0ca", null ],
+    [ "IsLess", "db/d29/structSessionEndpointKey.html#af8c997990c84e04d9c4dfbdbcee1d3c1", null ],
     [ "Reset", "db/d29/structSessionEndpointKey.html#a50bf04174275318e5036792b609f2eb5", null ],
     [ "is_client_session", "db/d29/structSessionEndpointKey.html#a6b8edee7bd1ffd63142246ef0785d694", null ],
     [ "is_si", "db/d29/structSessionEndpointKey.html#a0f86e77504d5a2e7497eb3e926787e2f", null ],

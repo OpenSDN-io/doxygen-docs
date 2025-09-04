@@ -1,8 +1,24 @@
 <map id="RouteKSyncObject::ManagedDelete" name="RouteKSyncObject::ManagedDelete">
-<area shape="rect" id="node2" href="$dc/d39/classRouteKSyncObject.html#a4bfaa63ba1e81627d4ce98fe29a812fc" title="RouteKSyncObject::Unregister" alt="" coords="262,56,479,83"/>
-<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#addb08452f4a000d5338ebcce93ebb1f9" title="KSyncObject::IsEmpty" alt="" coords="528,5,693,32"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="535,56,687,83"/>
-<area shape="rect" id="node5" href="$d1/dcb/classKSyncObjectManager.html#aceeba758aedefa017739b76b92749e1f" title="KSyncObjectManager\l::Unregister" alt="" coords="531,107,691,149"/>
-<area shape="rect" id="node6" href="$d1/dcb/classKSyncObjectManager.html#ac57c1844d37563f6b188379455bbe226" title="KSyncObjectManager\l::Enqueue" alt="" coords="741,107,901,149"/>
-<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="950,115,1111,141"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,200,105"/>
+<area shape="rect" id="node2" href="$dc/d39/classRouteKSyncObject.html#a4bfaa63ba1e81627d4ce98fe29a812fc" title=" " alt="" coords="248,71,449,98"/>
+<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#addb08452f4a000d5338ebcce93ebb1f9" title=" " alt="" coords="497,21,652,47"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="503,71,646,98"/>
+<area shape="rect" id="node5" href="$d1/dcb/classKSyncObjectManager.html#aceeba758aedefa017739b76b92749e1f" title=" " alt="" coords="501,123,649,164"/>
+<area shape="rect" id="node6" href="$d1/dcb/classKSyncObjectManager.html#ac57c1844d37563f6b188379455bbe226" title=" " alt="" coords="700,123,848,164"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="896,130,1047,157"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="1095,13,1305,39"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1353,129,1555,155"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="1099,64,1301,105"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1357,191,1551,218"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="1103,181,1297,223"/>
+<area shape="rect" id="node9" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="1365,5,1543,47"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="1606,53,1810,95"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="1609,119,1807,160"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="1603,250,1813,277"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="1604,184,1812,225"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1875,301,2062,327"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="1861,250,2076,277"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2124,301,2327,327"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2375,293,2552,335"/>
+<area shape="rect" id="node19" href="$da/d91/classWaterMarkTuple.html#ae3f636535f9a66218700d7025e6e39f5" title=" " alt="" coords="1869,184,2069,225"/>
 </map>

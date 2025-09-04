@@ -1,16 +1,18 @@
 <map id="VnUveEntryBase::FrameVnMsg" name="VnUveEntryBase::FrameVnMsg">
-<area shape="rect" id="node2" href="$d6/de4/classVnUveEntryBase.html#a4ba62af46a8be493b4c386f832a08b52" title="VnUveEntryBase::changed" alt="" coords="580,8,775,34"/>
-<area shape="rect" id="node3" href="$d8/d00/classVnEntry.html#a72806a23400c3b4fdeccddc1fb1addd0" title="VnEntry::GetName" alt="" coords="606,58,749,85"/>
-<area shape="rect" id="node4" href="$d8/d00/classVnEntry.html#af596554642c77bdccb22d70c80ac3e64" title="VnEntry::GetAcl" alt="" coords="332,176,455,202"/>
-<area shape="rect" id="node5" href="$de/d3a/classAclDBEntry.html#a3c689e1779951360c27aecf97d35ff31" title="AclDBEntry::GetName" alt="" coords="311,226,475,253"/>
-<area shape="rect" id="node6" href="$de/d3a/classAclDBEntry.html#a991d9d9f4469c023d19efdc10f91cd03" title="AclDBEntry::Size" alt="" coords="329,277,458,304"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title="Agent::NullString" alt="" coords="327,328,459,354"/>
-<area shape="rect" id="node8" href="$d6/de4/classVnUveEntryBase.html#a1f132ff8e902433f4f25bc39293c57ee" title="VnUveEntryBase::UveVnAcl\lChanged" alt="" coords="292,379,495,420"/>
-<area shape="rect" id="node9" href="$d6/de4/classVnUveEntryBase.html#ad889acc4fb38e94ec508b9a9d1de7675" title="VnUveEntryBase::UveVnAcl\lRuleCountChanged" alt="" coords="292,444,495,486"/>
-<area shape="rect" id="node10" href="$d8/d00/classVnEntry.html#a2dd476da175191a298bce2616373c5af" title="VnEntry::GetMirrorCfgAcl" alt="" coords="302,510,485,537"/>
-<area shape="rect" id="node11" href="$d6/de4/classVnUveEntryBase.html#afc1a7c6e2bce09243ff9083d9129741b" title="VnUveEntryBase::UveVnMirror\lAclChanged" alt="" coords="283,562,503,603"/>
-<area shape="rect" id="node12" href="$d6/de4/classVnUveEntryBase.html#a13ee834bb1f57a117da1f50b147d9cda" title="VnUveEntryBase::BuildInterface\lVmList" alt="" coords="278,110,509,151"/>
-<area shape="rect" id="node13" href="$d6/de4/classVnUveEntryBase.html#ae965fd57adb63cc21124793e46880d68" title="VnUveEntryBase::UveVnVmList\lChanged" alt="" coords="564,110,791,151"/>
-<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#ac85662a98717038fae54ffc4d0844dbf" title="VmInterface::cfg_name" alt="" coords="590,176,765,202"/>
-<area shape="rect" id="node15" href="$d6/de4/classVnUveEntryBase.html#a120824868ed4079ca17b86ed9c66dd58" title="VnUveEntryBase::UveVnInterface\lListChanged" alt="" coords="557,227,797,268"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,351,215,377"/>
+<area shape="rect" id="node2" href="$d6/de4/classVnUveEntryBase.html#a13ee834bb1f57a117da1f50b147d9cda" title=" " alt="" coords="263,107,475,149"/>
+<area shape="rect" id="node4" href="$d6/de4/classVnUveEntryBase.html#a103cd37a2b16821afcd1f4a96c3b3185" title=" " alt="" coords="544,5,724,32"/>
+<area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#a8d621341e61912635c3276285d7d09cc" title=" " alt="" coords="567,239,701,265"/>
+<area shape="rect" id="node8" href="$d8/d00/classVnEntry.html#a93db69eaf5e3359398aedef753f5f167" title=" " alt="" coords="310,224,427,251"/>
+<area shape="rect" id="node9" href="$d8/d00/classVnEntry.html#acd8b24a1b96b06f2f1147f93aa428d76" title=" " alt="" coords="283,275,454,301"/>
+<area shape="rect" id="node10" href="$de/d3a/classAclDBEntry.html#a11c0cc3f26786aded9374668f4d3c0a6" title=" " alt="" coords="291,325,446,352"/>
+<area shape="rect" id="node11" href="$d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title=" " alt="" coords="308,376,429,403"/>
+<area shape="rect" id="node12" href="$de/d3a/classAclDBEntry.html#ad8d65ab75f652efb228e4d19559b0842" title=" " alt="" coords="307,427,431,453"/>
+<area shape="rect" id="node13" href="$d6/de4/classVnUveEntryBase.html#a4ed050690e6729d53b57c794b6c6908a" title=" " alt="" coords="274,478,463,519"/>
+<area shape="rect" id="node14" href="$d6/de4/classVnUveEntryBase.html#a0da197949ac9f86bf723f16570cd7049" title=" " alt="" coords="274,543,463,585"/>
+<area shape="rect" id="node15" href="$d6/de4/classVnUveEntryBase.html#ac5bd1162854d7234605be42bbdf00b3f" title=" " alt="" coords="267,609,470,650"/>
+<area shape="rect" id="node16" href="$d6/de4/classVnUveEntryBase.html#aea5d5578e1f47e89ec82e107cc99423a" title=" " alt="" coords="296,675,441,701"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#a8bcaea8f79d1df9829cf0f8a8882616f" title=" " alt="" coords="555,56,713,83"/>
+<area shape="rect" id="node6" href="$d6/de4/classVnUveEntryBase.html#a13751eead897ec0f0070ff7b77c7fd5f" title=" " alt="" coords="523,107,745,149"/>
+<area shape="rect" id="node7" href="$d6/de4/classVnUveEntryBase.html#af219d5e7db4366570103cfb14f9685a1" title=" " alt="" coords="529,173,739,214"/>
 </map>

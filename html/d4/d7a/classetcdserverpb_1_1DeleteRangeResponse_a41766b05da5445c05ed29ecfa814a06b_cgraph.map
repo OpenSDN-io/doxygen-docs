@@ -1,7 +1,8 @@
 <map id="etcdserverpb::DeleteRangeResponse::SerializeWithCachedSizes" name="etcdserverpb::DeleteRangeResponse::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a628dba76ee8a6cac51a7c87ff43fe547" title="etcdserverpb::DeleteRange\lResponse::has_header" alt="" coords="315,5,514,46"/>
-<area shape="rect" id="node4" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a687c3a203f04d8a2c167abb948188f1e" title="etcdserverpb::DeleteRange\lResponse::deleted" alt="" coords="315,70,514,111"/>
-<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a03f2914506a10821273206240bf8b36d" title="etcdserverpb::DeleteRange\lResponse::prev_kvs_size" alt="" coords="315,135,514,177"/>
-<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a0b18573242c238729e93254b09cd9651" title="etcdserverpb::DeleteRange\lResponse::prev_kvs" alt="" coords="315,201,514,242"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="563,5,787,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,245,145"/>
+<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a30d3c44d2214c916ef5d8398f347b688" title=" " alt="" coords="293,5,475,47"/>
+<area shape="rect" id="node3" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a24dd10eee2195a1587e05281ff828759" title=" " alt="" coords="293,71,475,112"/>
+<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a530b6f89ff9756d353426da3118c79d4" title=" " alt="" coords="293,136,475,177"/>
+<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a032fcd1e24385ebb2d41e7cb3a1fad07" title=" " alt="" coords="293,201,475,243"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="523,71,729,112"/>
 </map>

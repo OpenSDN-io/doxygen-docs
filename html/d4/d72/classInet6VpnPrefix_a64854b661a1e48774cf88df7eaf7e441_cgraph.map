@@ -1,9 +1,0 @@
-<map id="Inet6VpnPrefix::ToString" name="Inet6VpnPrefix::ToString">
-<area shape="rect" id="node2" href="$dc/d73/classRouteDistinguisher.html#a9dbce2162a07ef6d1b3dc7bfc1946830" title="RouteDistinguisher\l::ToString" alt="" coords="235,9,381,50"/>
-<area shape="rect" id="node5" href="$d6/da8/classInet6Prefix.html#ab522777ea9f8da506b74785ab23d5161" title="Inet6Prefix::ToString" alt="" coords="232,96,384,123"/>
-<area shape="rect" id="node3" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title="get_value" alt="" coords="467,5,554,32"/>
-<area shape="rect" id="node4" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title="get_short" alt="" coords="637,5,720,32"/>
-<area shape="rect" id="node6" href="$d6/da8/classInet6Prefix.html#ad1f1455b6e21e0052e98f5ca0ceb7f54" title="Inet6Prefix::ip6_addr" alt="" coords="433,56,589,83"/>
-<area shape="rect" id="node7" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="451,107,571,133"/>
-<area shape="rect" id="node8" href="$d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df" title="Inet6Prefix::prefixlen" alt="" coords="432,157,589,184"/>
-</map>

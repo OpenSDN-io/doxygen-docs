@@ -1,6 +1,8 @@
 <map id="etcdserverpb::RequestOp" name="etcdserverpb::RequestOp">
-<area shape="rect" id="node4" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html" title="etcdserverpb::PutRequest" alt="" coords="146,60,334,86"/>
-<area shape="rect" id="node5" href="$df/d91/classetcdserverpb_1_1DeleteRangeRequest.html" title="etcdserverpb::DeleteRange\lRequest" alt="" coords="141,111,339,152"/>
-<area shape="rect" id="node6" href="$df/d3a/classetcdserverpb_1_1RangeRequest.html" title="etcdserverpb::RangeRequest" alt="" coords="136,177,344,204"/>
-<area shape="rect" id="node3" href="$d8/d31/unionetcdserverpb_1_1RequestOp_1_1RequestUnion.html" title="etcdserverpb::RequestOp\l::RequestUnion" alt="" coords="547,90,733,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="879,20,1049,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,64,181,91"/>
+<area shape="rect" id="node4" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html" title=" " alt="" coords="239,41,413,68"/>
+<area shape="rect" id="node5" href="$df/d91/classetcdserverpb_1_1DeleteRangeRequest.html" title=" " alt="" coords="235,93,417,134"/>
+<area shape="rect" id="node6" href="$df/d3a/classetcdserverpb_1_1RangeRequest.html" title=" " alt="" coords="231,159,421,185"/>
+<area shape="rect" id="node3" href="$d8/d31/unionetcdserverpb_1_1RequestOp_1_1RequestUnion.html" title=" " alt="" coords="605,67,776,109"/>
 </map>

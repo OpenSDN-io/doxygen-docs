@@ -1,7 +1,8 @@
 <map id="BgpProto::BgpMessage" name="BgpProto::BgpMessage">
-<area shape="rect" id="node3" href="$da/d15/structBgpProto_1_1Keepalive.html" title="BgpProto::Keepalive" alt="" coords="5,155,157,181"/>
-<area shape="rect" id="node4" href="$de/d90/structBgpProto_1_1Notification.html" title="BgpProto::Notification" alt="" coords="182,155,345,181"/>
-<area shape="rect" id="node5" href="$d1/d38/structBgpProto_1_1OpenMessage.html" title="BgpProto::OpenMessage" alt="" coords="370,155,549,181"/>
-<area shape="rect" id="node6" href="$d2/db2/structBgpProto_1_1Update.html" title="BgpProto::Update" alt="" coords="575,155,711,181"/>
-<area shape="rect" id="node2" href="$d3/d38/classParseObject.html" title="ParseObject" alt="" coords="312,5,411,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="256,80,416,107"/>
+<area shape="rect" id="node3" href="$da/d15/structBgpProto_1_1Keepalive.html" title=" " alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node4" href="$de/d90/structBgpProto_1_1Notification.html" title=" " alt="" coords="169,155,319,181"/>
+<area shape="rect" id="node5" href="$d1/d38/structBgpProto_1_1OpenMessage.html" title=" " alt="" coords="344,155,512,181"/>
+<area shape="rect" id="node6" href="$d2/db2/structBgpProto_1_1Update.html" title=" " alt="" coords="537,155,663,181"/>
+<area shape="rect" id="node2" href="$d3/d38/classParseObject.html" title=" " alt="" coords="289,5,383,32"/>
 </map>

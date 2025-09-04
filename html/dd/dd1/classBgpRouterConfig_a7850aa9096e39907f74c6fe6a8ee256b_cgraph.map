@@ -1,12 +1,13 @@
 <map id="BgpRouterConfig::UpdateControlNodeZoneConfig" name="BgpRouterConfig::UpdateControlNodeZoneConfig">
-<area shape="rect" id="node2" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="333,5,467,32"/>
-<area shape="rect" id="node3" href="$d7/d4c/classIFMapAgentTable.html#ae1ce1a28200f3bc51a15ffcada279740" title="IFMapAgentTable::GetGraph" alt="" coords="299,56,501,83"/>
-<area shape="rect" id="node5" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="317,107,483,133"/>
-<area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title="DBGraphVertex::end" alt="" coords="323,157,477,184"/>
-<area shape="rect" id="node7" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="315,208,485,235"/>
-<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="331,259,469,285"/>
-<area shape="rect" id="node9" href="$dd/dd1/classBgpRouterConfig.html#aaad7e9e053c1b4266adb3877b6242bba" title="BgpRouterConfig::DeleteControl\lNodeZoneConfig" alt="" coords="286,310,514,351"/>
-<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="317,376,483,403"/>
-<area shape="rect" id="node11" href="$de/d18/agent__cmn_8h.html#ada069ef2d81636444946183d6de69e97" title="CfgUuidSet" alt="" coords="353,427,447,453"/>
-<area shape="rect" id="node4" href="$d4/d52/classDBGraphTable.html#ac6c155d4b8e944e5162b2993875bcbd3" title="DBGraphTable::graph" alt="" coords="563,56,722,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,217,220,258"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="297,5,449,32"/>
+<area shape="rect" id="node3" href="$de/d18/agent__cmn_8h.html#ada069ef2d81636444946183d6de69e97" title=" " alt="" coords="328,56,419,83"/>
+<area shape="rect" id="node4" href="$dd/dd1/classBgpRouterConfig.html#aaad7e9e053c1b4266adb3877b6242bba" title=" " alt="" coords="268,107,479,149"/>
+<area shape="rect" id="node5" href="$d3/d0d/classDBGraphVertex.html#a84a3c229e7c211c6bd2986d15a3b9247" title=" " alt="" coords="302,173,445,200"/>
+<area shape="rect" id="node6" href="$d7/d4c/classIFMapAgentTable.html#a5fdb10448f328294dbac43b0f5d7a750" title=" " alt="" coords="279,224,467,251"/>
+<area shape="rect" id="node8" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="295,275,452,301"/>
+<area shape="rect" id="node9" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="308,325,439,352"/>
+<area shape="rect" id="node10" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="310,376,437,403"/>
+<area shape="rect" id="node11" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="294,427,453,453"/>
+<area shape="rect" id="node7" href="$d4/d52/classDBGraphTable.html#a8393a17bf9fb1f791c0c1877a2a13e68" title=" " alt="" coords="527,224,673,251"/>
 </map>

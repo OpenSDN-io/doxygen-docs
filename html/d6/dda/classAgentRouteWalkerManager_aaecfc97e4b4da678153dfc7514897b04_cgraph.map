@@ -1,5 +1,6 @@
 <map id="AgentRouteWalkerManager::TryUnregister" name="AgentRouteWalkerManager::TryUnregister">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="282,5,409,32"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="254,56,437,83"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="485,56,677,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,185,65"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title=" " alt="" coords="233,5,404,32"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="261,56,376,83"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title=" " alt="" coords="452,5,632,32"/>
 </map>

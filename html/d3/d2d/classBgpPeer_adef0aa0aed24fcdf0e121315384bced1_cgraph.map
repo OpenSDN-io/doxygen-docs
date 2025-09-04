@@ -1,4 +1,6 @@
 <map id="BgpPeer::ProcessEndpointConfig" name="BgpPeer::ProcessEndpointConfig">
-<area shape="rect" id="node2" href="$d0/dbd/classBgpNeighborConfig.html#a80dc47d03cc700e321bb744f6890bd3b" title="BgpNeighborConfig::\lrouter_type" alt="" coords="245,5,400,46"/>
-<area shape="rect" id="node3" href="$d0/dbd/classBgpNeighborConfig.html#ae3acad93e98500e8382de1bce3b0d9b9" title="BgpNeighborConfig::\lsource_port" alt="" coords="245,70,400,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,184,98"/>
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#ad3530c164973dc9b32ef7340a162f2aa" title=" " alt="" coords="246,5,361,32"/>
+<area shape="rect" id="node3" href="$d0/dbd/classBgpNeighborConfig.html#a53340543fd3b70d6d3b466c91943b227" title=" " alt="" coords="232,57,375,98"/>
+<area shape="rect" id="node4" href="$d0/dbd/classBgpNeighborConfig.html#a21f645c0e77aa558f2ef90089ab29834" title=" " alt="" coords="232,122,375,163"/>
 </map>

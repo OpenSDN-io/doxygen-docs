@@ -1,8 +1,9 @@
 <map id="AgentRouteTable::PathSelection" name="AgentRouteTable::PathSelection">
-<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ab2a6966c9dbfc8ebea9d3f6f71ef864b" title="AgentPath::IsLess" alt="" coords="280,81,416,108"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="503,5,628,32"/>
-<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="509,56,621,83"/>
-<area shape="rect" id="node5" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="464,107,667,133"/>
-<area shape="rect" id="node6" href="$d6/dd4/classPeer.html#a5e32ea9f40f18a8fb997370e0d8cdfdb" title="Peer::IsLess" alt="" coords="516,157,615,184"/>
-<area shape="rect" id="node7" href="$d6/dd4/classPeer.html#a3c74b106932622b1aaaaf127460d3407" title="Peer::Compare" alt="" coords="715,157,834,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,216,108"/>
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#a74c37ead39425a3e691a0614e0a7ce91" title=" " alt="" coords="264,81,395,108"/>
+<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="482,5,587,32"/>
+<area shape="rect" id="node4" href="$d6/dd4/classPeer.html#a3245b308e94535cbfe95f372f6624d95" title=" " alt="" coords="487,56,582,83"/>
+<area shape="rect" id="node6" href="$d4/d3d/classAgentPath.html#a8bddfb5c69e2ce1bf8abd538cd2539b5" title=" " alt="" coords="443,107,627,133"/>
+<area shape="rect" id="node7" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="477,157,593,184"/>
+<area shape="rect" id="node5" href="$d6/dd4/classPeer.html#ae752e56463c4805418491b3a0d94d5a7" title=" " alt="" coords="675,56,784,83"/>
 </map>

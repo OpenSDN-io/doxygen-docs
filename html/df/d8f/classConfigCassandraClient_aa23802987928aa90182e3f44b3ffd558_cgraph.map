@@ -1,4 +1,6 @@
 <map id="ConfigCassandraClient::EnqueueUUIDRequest" name="ConfigCassandraClient::EnqueueUUIDRequest">
-<area shape="rect" id="node2" href="$df/d8f/classConfigCassandraClient.html#a105678030d3d55b53d6ab79fb5d90aed" title="ConfigCassandraClient\l::GetPartition" alt="" coords="235,5,405,46"/>
-<area shape="rect" id="node3" href="$d3/d49/classConfigCassandraPartition.html#ab53412d2c1e15ee955489f884ac993b2" title="ConfigCassandraPartition\l::Enqueue" alt="" coords="227,70,413,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,168,112"/>
+<area shape="rect" id="node2" href="$d3/d49/classConfigCassandraPartition.html#ab53412d2c1e15ee955489f884ac993b2" title=" " alt="" coords="216,5,387,47"/>
+<area shape="rect" id="node3" href="$df/d8f/classConfigCassandraClient.html#a105678030d3d55b53d6ab79fb5d90aed" title=" " alt="" coords="223,71,379,112"/>
+<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html#a3b7d699194e475772875a664f3e2218d" title=" " alt="" coords="219,137,384,163"/>
 </map>

@@ -1,18 +1,20 @@
 <map id="XmppSession::Match" name="XmppSession::Match">
-<area shape="rect" id="node2" href="$d5/d13/classXmppSession.html#a17a8e135bec5d3616e90fb0e7689b99c" title="XmppSession::Connection" alt="" coords="222,5,413,32"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a7a2496437fe4657759afe4d8bb10998b" title="XmppConnection::GetState\lMcState" alt="" coords="218,57,417,98"/>
-<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#a50d94812a843a0d4c5edb1c59d257a48" title="XmppConnection::GetState\lMcOpenConfirmState" alt="" coords="218,122,417,163"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#a5d54ca8bb8677944597b8f7e71d9c2f8" title="TcpSession::BufferData" alt="" coords="232,188,403,215"/>
-<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#a72dca78676dd42e1b23b7959d50caf92" title="TcpSession::BufferSize" alt="" coords="234,239,401,265"/>
-<area shape="rect" id="node10" href="$d5/d13/classXmppSession.html#a7f034997def2f5e8d45537395e5929fa" title="XmppSession::SetBuf" alt="" coords="237,289,398,316"/>
-<area shape="rect" id="node12" href="$d5/d13/classXmppSession.html#a309f352f4853e68a413e9e9a6fb3742f" title="XmppSession::MatchRegex" alt="" coords="219,340,416,367"/>
-<area shape="rect" id="node14" href="$d5/d13/classXmppSession.html#aa6b4e2ee18524d7bdf8070a8d839bfda" title="XmppSession::tag_to\l_pattern" alt="" coords="238,391,397,433"/>
-<area shape="rect" id="node15" href="$db/dda/classSslSession.html#a27c83441c1286b740cc79e5ffc2a1104" title="SslSession::IsSslDisabled" alt="" coords="224,457,411,484"/>
-<area shape="rect" id="node16" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="222,508,413,535"/>
-<area shape="rect" id="node17" href="$db/dda/classSslSession.html#ab3a459e54d68a6a5f21f406a3e03843f" title="SslSession::SetSslHandShake\lInProgress" alt="" coords="211,559,424,601"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title="XmppConnection::state\l_machine" alt="" coords="506,86,681,127"/>
-<area shape="rect" id="node5" href="$d2/db3/classXmppStateMachine.html#af3faaa257e90809591f6175c9e495994" title="XmppStateMachine::StateType" alt="" coords="483,35,703,61"/>
-<area shape="rect" id="node7" href="$d2/db3/classXmppStateMachine.html#a290e0274fd9a58afdc366af136358829" title="XmppStateMachine::OpenConfirm\lStateType" alt="" coords="473,151,714,193"/>
-<area shape="rect" id="node11" href="$d5/d13/classXmppSession.html#af5a38288959f15ad68bd124ffaf83483" title="XmppSession::ReplaceBuf" alt="" coords="498,289,689,316"/>
-<area shape="rect" id="node13" href="$d2/dfa/namespacecontrail.html#a27412c58b1c934c21cbac2595cc044b0" title="contrail::regex_search" alt="" coords="510,340,677,367"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,289,152,316"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#a5d54ca8bb8677944597b8f7e71d9c2f8" title=" " alt="" coords="222,5,381,32"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a72dca78676dd42e1b23b7959d50caf92" title=" " alt="" coords="223,56,380,83"/>
+<area shape="rect" id="node4" href="$d5/d13/classXmppSession.html#a17a8e135bec5d3616e90fb0e7689b99c" title=" " alt="" coords="213,107,390,133"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a607b8acfc0626fc3b076586ea83fb430" title=" " alt="" coords="210,158,393,199"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#abe6483e0ec739882c3549d85e8be767a" title=" " alt="" coords="210,223,393,265"/>
+<area shape="rect" id="node10" href="$d0/d64/classXmppConnection.html#ab833f81b40bc2aabdca8a41749f2f5cd" title=" " alt="" coords="214,289,389,316"/>
+<area shape="rect" id="node11" href="$db/dda/classSslSession.html#a27c83441c1286b740cc79e5ffc2a1104" title=" " alt="" coords="213,340,390,367"/>
+<area shape="rect" id="node12" href="$d5/d13/classXmppSession.html#a309f352f4853e68a413e9e9a6fb3742f" title=" " alt="" coords="209,391,393,417"/>
+<area shape="rect" id="node15" href="$d5/d13/classXmppSession.html#a7f034997def2f5e8d45537395e5929fa" title=" " alt="" coords="226,441,377,468"/>
+<area shape="rect" id="node17" href="$db/dda/classSslSession.html#ab3a459e54d68a6a5f21f406a3e03843f" title=" " alt="" coords="200,493,403,534"/>
+<area shape="rect" id="node18" href="$d5/d13/classXmppSession.html#aa6b4e2ee18524d7bdf8070a8d839bfda" title=" " alt="" coords="228,558,375,599"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#a047978f31d10f64358012ea76e6789c2" title=" " alt="" coords="451,129,672,170"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title=" " alt="" coords="482,194,641,235"/>
+<area shape="rect" id="node9" href="$d2/db3/classXmppStateMachine.html#a5e3d8e35f61b63f98a09954569e0da80" title=" " alt="" coords="460,260,663,287"/>
+<area shape="rect" id="node13" href="$d2/dfa/namespacecontrail.html#a27412c58b1c934c21cbac2595cc044b0" title=" " alt="" coords="486,391,637,417"/>
+<area shape="rect" id="node14" href="$d2/dfa/namespacecontrail.html#a024f3bba6121ebf082108f29fa5a209a" title=" " alt="" coords="720,391,871,417"/>
+<area shape="rect" id="node16" href="$d5/d13/classXmppSession.html#af5a38288959f15ad68bd124ffaf83483" title=" " alt="" coords="472,441,651,468"/>
 </map>

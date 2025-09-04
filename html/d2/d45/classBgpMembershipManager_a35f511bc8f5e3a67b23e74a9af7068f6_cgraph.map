@@ -1,6 +1,7 @@
 <map id="BgpMembershipManager::AssertRegisterRibIn" name="BgpMembershipManager::AssertRegisterRibIn">
-<area shape="rect" id="node2" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a18ad31a297358b35d7d234b6a08cfbd2" title="BgpMembershipManager\l::PeerRibState::action" alt="" coords="249,5,431,46"/>
-<area shape="rect" id="node3" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="249,71,431,127"/>
-<area shape="rect" id="node4" href="$dd/d38/classIPeer.html#a7f93b328eb7749967565ae8921fd61a1" title="IPeer::IsInGRTimerWaitState" alt="" coords="237,151,443,177"/>
-<area shape="rect" id="node5" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a9948c03074c4f735e028544b5626d627" title="BgpMembershipManager\l::PeerRibState::ribout\l_registered" alt="" coords="249,201,431,257"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,172,139"/>
+<area shape="rect" id="node2" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a934aab8f9b74a5087e1a006ad8d73a30" title=" " alt="" coords="232,5,399,47"/>
+<area shape="rect" id="node3" href="$dd/d38/classIPeer.html#a7f93b328eb7749967565ae8921fd61a1" title=" " alt="" coords="220,71,411,98"/>
+<area shape="rect" id="node4" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af91f789bef3c53717a55540db45a7320" title=" " alt="" coords="232,122,399,178"/>
+<area shape="rect" id="node5" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a8beeeaa528c50a88e62872e13e4bf2ba" title=" " alt="" coords="232,202,399,258"/>
 </map>

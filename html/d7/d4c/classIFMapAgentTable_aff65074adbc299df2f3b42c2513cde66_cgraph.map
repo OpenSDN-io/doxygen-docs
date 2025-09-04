@@ -1,23 +1,24 @@
 <map id="IFMapAgentTable::HandlePendingLinks" name="IFMapAgentTable::HandlePendingLinks">
-<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="525,12,699,38"/>
-<area shape="rect" id="node3" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title="DB::FindTable" alt="" coords="557,121,667,148"/>
-<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title="DBGraphVertex::edge\l_list_begin" alt="" coords="297,176,460,218"/>
-<area shape="rect" id="node5" href="$d4/d52/classDBGraphTable.html#ac6c155d4b8e944e5162b2993875bcbd3" title="DBGraphTable::graph" alt="" coords="299,242,458,269"/>
-<area shape="rect" id="node6" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title="DBGraphVertex::edge\l_list_end" alt="" coords="297,294,460,335"/>
-<area shape="rect" id="node7" href="$d7/d42/classDBGraphVertex_1_1edge__iterator.html#a0650e7fec45b35deb6ded324bf8cd5d7" title="DBGraphVertex::edge\l_iterator::target" alt="" coords="297,359,460,400"/>
-<area shape="rect" id="node12" href="$d0/dfa/classIFMapLink.html#ae99fcd88cca8255f800a625b5df263a7" title="IFMapLink::sequence\l_number" alt="" coords="300,424,457,466"/>
-<area shape="rect" id="node13" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="309,490,448,517"/>
-<area shape="rect" id="node14" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="311,541,446,568"/>
-<area shape="rect" id="node15" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title="IFMapTable::Typename" alt="" coords="294,592,463,618"/>
-<area shape="rect" id="node16" href="$d0/dfa/classIFMapLink.html#ac3e2494a3b1fbea19f469e37ab15c1ff" title="IFMapLink::metadata" alt="" coords="299,642,458,669"/>
-<area shape="rect" id="node17" href="$d5/d12/classIFMapAgentLinkTable.html#abbd706537b9dc8ac55e86ffd8eb33858" title="IFMapAgentLinkTable\l::LinkDefAdd" alt="" coords="299,694,458,735"/>
-<area shape="rect" id="node19" href="$d5/d12/classIFMapAgentLinkTable.html#a9f17ce82f796299579c2bf3221ddcd83" title="IFMapAgentLinkTable\l::DelLink" alt="" coords="299,59,458,100"/>
-<area shape="rect" id="node8" href="$d6/d21/classDBGraphEdge.html#af6219f0002d0211be192c1618d0c2c82" title="DBGraphEdge::target" alt="" coords="533,341,691,368"/>
-<area shape="rect" id="node11" href="$d6/d21/classDBGraphEdge.html#aa1c3bf4c7daabc0de94907bb7db1600e" title="DBGraphEdge::source" alt="" coords="531,392,693,418"/>
-<area shape="rect" id="node9" href="$d0/d0c/classDBGraph.html#a698c95e5e53122a59b089bca99d50826" title="DBGraph::graph" alt="" coords="804,341,929,368"/>
-<area shape="rect" id="node10" href="$d0/d0c/classDBGraph.html#a4875e1cfe270de8305667422eca1de21" title="DBGraph::vertex_data" alt="" coords="783,392,950,418"/>
-<area shape="rect" id="node18" href="$d5/d12/classIFMapAgentLinkTable.html#a895d0a978c7cb32a8cdc45369ef119c4" title="IFMapAgentLinkTable\l::RemoveDefListEntry" alt="" coords="531,694,693,735"/>
-<area shape="rect" id="node20" href="$d5/d9c/classIFMapLinkTable.html#aa419d7344dfab4fed5b95f2bb02647b4" title="IFMapLinkTable::DeleteLink" alt="" coords="513,66,711,93"/>
-<area shape="rect" id="node21" href="$d0/dfa/classIFMapLink.html#a3344e24aadbbf0a97d7c14524cd3787e" title="IFMapLink::RemoveOriginInfo" alt="" coords="761,37,973,64"/>
-<area shape="rect" id="node22" href="$d0/dfa/classIFMapLink.html#a90d513d18a1707f2cfe02cdc9a2eca6f" title="IFMapLink::is_origin\l_empty" alt="" coords="791,88,942,130"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,358,224,400"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title=" " alt="" coords="489,11,652,38"/>
+<area shape="rect" id="node3" href="$d5/d12/classIFMapAgentLinkTable.html#a9f17ce82f796299579c2bf3221ddcd83" title=" " alt="" coords="277,58,425,100"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html#aec90a06b596af9e2c064b27480063e1c" title=" " alt="" coords="518,120,623,147"/>
+<area shape="rect" id="node8" href="$d3/d0d/classDBGraphVertex.html#a82769c69cc9ec6eee5168cb84f5d4211" title=" " alt="" coords="277,176,426,217"/>
+<area shape="rect" id="node9" href="$d3/d0d/classDBGraphVertex.html#ac5b3c51bc3b3d199d961e56fcc89eca7" title=" " alt="" coords="277,241,426,282"/>
+<area shape="rect" id="node10" href="$d4/d52/classDBGraphTable.html#a8393a17bf9fb1f791c0c1877a2a13e68" title=" " alt="" coords="278,307,425,334"/>
+<area shape="rect" id="node11" href="$d5/d12/classIFMapAgentLinkTable.html#abbd706537b9dc8ac55e86ffd8eb33858" title=" " alt="" coords="277,358,425,400"/>
+<area shape="rect" id="node13" href="$d0/dfa/classIFMapLink.html#ad153169675ddc500b86b658651c4d917" title=" " alt="" coords="279,424,423,451"/>
+<area shape="rect" id="node14" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="286,475,417,502"/>
+<area shape="rect" id="node15" href="$d0/dfa/classIFMapLink.html#ae99fcd88cca8255f800a625b5df263a7" title=" " alt="" coords="278,526,425,568"/>
+<area shape="rect" id="node16" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="288,592,415,619"/>
+<area shape="rect" id="node17" href="$d7/d42/classDBGraphVertex_1_1edge__iterator.html#a725c431d24f32f65aeb4a024dd27153a" title=" " alt="" coords="277,644,426,685"/>
+<area shape="rect" id="node22" href="$d1/d09/classIFMapTable.html#a5bf8d6faa928ed58a0b94788bf75b23a" title=" " alt="" coords="272,710,431,736"/>
+<area shape="rect" id="node4" href="$d5/d9c/classIFMapLinkTable.html#aa419d7344dfab4fed5b95f2bb02647b4" title=" " alt="" coords="479,66,663,92"/>
+<area shape="rect" id="node5" href="$d0/dfa/classIFMapLink.html#a90d513d18a1707f2cfe02cdc9a2eca6f" title=" " alt="" coords="738,29,877,70"/>
+<area shape="rect" id="node6" href="$d0/dfa/classIFMapLink.html#a3344e24aadbbf0a97d7c14524cd3787e" title=" " alt="" coords="711,95,904,122"/>
+<area shape="rect" id="node12" href="$d5/d12/classIFMapAgentLinkTable.html#a895d0a978c7cb32a8cdc45369ef119c4" title=" " alt="" coords="495,358,646,400"/>
+<area shape="rect" id="node18" href="$d6/d21/classDBGraphEdge.html#aa1c3bf4c7daabc0de94907bb7db1600e" title=" " alt="" coords="494,626,647,652"/>
+<area shape="rect" id="node21" href="$d6/d21/classDBGraphEdge.html#af6219f0002d0211be192c1618d0c2c82" title=" " alt="" coords="497,676,644,703"/>
+<area shape="rect" id="node19" href="$d0/d0c/classDBGraph.html#ab79f8eda240175eaa71aced1e2561a51" title=" " alt="" coords="749,626,865,652"/>
+<area shape="rect" id="node20" href="$d0/d0c/classDBGraph.html#a554563d95256c2c15c08c31b997a9203" title=" " alt="" coords="731,676,883,703"/>
 </map>

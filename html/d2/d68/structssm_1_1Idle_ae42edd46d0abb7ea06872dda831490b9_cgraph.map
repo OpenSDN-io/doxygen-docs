@@ -1,5 +1,6 @@
 <map id="ssm::Idle::Idle" name="ssm::Idle::Idle">
-<area shape="rect" id="node2" href="$d3/d36/classSandeshStateMachine.html#a1d9905c5e9dd95fc4d1c366a90d59c3c" title="SandeshStateMachine\l::set_state" alt="" coords="168,5,333,46"/>
-<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#a8fa59ca74cb84f367a425425f657ab5b" title="SandeshStateMachine\l::StateName" alt="" coords="168,70,333,111"/>
-<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="381,12,536,39"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,111,73"/>
+<area shape="rect" id="node2" href="$d3/d36/classSandeshStateMachine.html#a1d9905c5e9dd95fc4d1c366a90d59c3c" title=" " alt="" coords="159,5,312,47"/>
+<area shape="rect" id="node4" href="$d3/d36/classSandeshStateMachine.html#af673e1862fca496e382ba5c4ac807536" title=" " alt="" coords="159,71,312,112"/>
+<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="360,13,504,39"/>
 </map>

@@ -1,51 +1,52 @@
 <map id="ResolverNexthop::Match" name="ResolverNexthop::Match">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title="BgpTable::family" alt="" coords="285,153,416,180"/>
-<area shape="rect" id="node3" href="$d1/d31/classPathResolver.html#a1d8fde174ae2382a013763ff406e03d8" title="PathResolver::nexthop\l_longest_match" alt="" coords="267,205,434,246"/>
-<area shape="rect" id="node4" href="$df/dc3/path__resolver_8cc.html#ae76eb8c919c7d1e4d860a747bf20a05c" title="RoutePrefixIsAddress" alt="" coords="271,480,430,507"/>
-<area shape="rect" id="node15" href="$d1/d31/classPathResolver.html#a0ee1245b714f03e23914c23dc176014e" title="PathResolver::RoutePrefix\lMatch" alt="" coords="257,270,445,311"/>
-<area shape="rect" id="node23" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title="BgpRoute::table" alt="" coords="288,800,413,827"/>
-<area shape="rect" id="node26" href="$d6/dbd/classBgpRoute.html#a8cfe0e317a7bf3433a0ca65bb63af860" title="BgpRoute::IsUsable" alt="" coords="277,1161,425,1188"/>
-<area shape="rect" id="node28" href="$d6/dbd/classBgpRoute.html#a8dd481d2d74b988c383c147eccce5d92" title="BgpRoute::BestPath" alt="" coords="541,1369,691,1396"/>
-<area shape="rect" id="node32" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="285,1263,416,1289"/>
-<area shape="rect" id="node33" href="$d5/dcf/classBgpAttr.html#a09bcf67929ed50860aedfffca4d66bcb" title="BgpAttr::nexthop" alt="" coords="285,1313,417,1340"/>
-<area shape="rect" id="node34" href="$d1/d31/classPathResolver.html#a639884739a37fc9d793e339465f1abf1" title="PathResolver::get_condition\l_listener" alt="" coords="249,1365,452,1406"/>
-<area shape="rect" id="node37" href="$d8/d67/classBgpConditionListener.html#a2e5f901b90da0e694975f72ff9216274" title="BgpConditionListener\l::CheckMatchState" alt="" coords="270,1030,431,1071"/>
-<area shape="rect" id="node41" href="$d3/dda/classResolverNexthop.html#adbb7d206552b93589b18b713bf819c16" title="ResolverNexthop::RemoveRoute" alt="" coords="235,1431,466,1457"/>
-<area shape="rect" id="node42" href="$d8/d67/classBgpConditionListener.html#a6da6678387825202a4b1325a09a28483" title="BgpConditionListener\l::RemoveMatchState" alt="" coords="270,965,431,1006"/>
-<area shape="rect" id="node45" href="$d3/dda/classResolverNexthop.html#acb8953f3ecf8cb9bef6895f51ce3124b" title="ResolverNexthop::InsertRoute" alt="" coords="243,1481,458,1508"/>
-<area shape="rect" id="node46" href="$d8/d67/classBgpConditionListener.html#aac81466d16f35c119b1be9f83a909d04" title="BgpConditionListener\l::SetMatchState" alt="" coords="270,1095,431,1137"/>
-<area shape="rect" id="node49" href="$d1/d67/classConditionMatch.html#a4f4dc1e901f571d2f9dbde079ea42d84" title="ConditionMatch::deleted" alt="" coords="261,1532,441,1559"/>
-<area shape="rect" id="node50" href="$d1/d31/classPathResolver.html#aa8d89adb6752165f96f820e57c55820b" title="PathResolver::UpdateResolver\lNexthop" alt="" coords="242,1583,459,1625"/>
-<area shape="rect" id="node5" href="$d1/d53/classInetRoute.html#ac8caabef2568195a64e0ee94ad8bb935" title="InetRoute::GetPrefix" alt="" coords="540,379,692,405"/>
-<area shape="rect" id="node6" href="$d3/d22/classIp4Prefix.html#a3bbb52dd6d1ad52f135ef49039c9ed22" title="Ip4Prefix::addr" alt="" coords="558,632,674,659"/>
-<area shape="rect" id="node7" href="$d3/d22/classIp4Prefix.html#ad9d4d55e21e995a293ce8e48ba570e4c" title="Ip4Prefix::prefixlen" alt="" coords="799,328,943,355"/>
-<area shape="rect" id="node8" href="$de/dd1/classInet6Route.html#ae909150240fc2ea01b979f866ea02088" title="Inet6Route::GetPrefix" alt="" coords="536,277,696,304"/>
-<area shape="rect" id="node9" href="$d6/da8/classInet6Prefix.html#aa8e8bbea825f6ad9f81120a1140d5ade" title="Inet6Prefix::addr" alt="" coords="551,429,681,456"/>
-<area shape="rect" id="node10" href="$d6/da8/classInet6Prefix.html#ab905c192c9caafdf1a463f42b7c8c1df" title="Inet6Prefix::prefixlen" alt="" coords="1024,24,1181,51"/>
-<area shape="rect" id="node11" href="$d1/d3a/classEvpnRoute.html#aa972fdd53eef2c45c94e15271578a8c3" title="EvpnRoute::GetPrefix" alt="" coords="537,328,695,355"/>
-<area shape="rect" id="node12" href="$d0/db1/classEvpnPrefix.html#ad3c168d9c6494800cd41b0e16c6736f8" title="EvpnPrefix::family" alt="" coords="545,227,687,253"/>
-<area shape="rect" id="node13" href="$d0/db1/classEvpnPrefix.html#a3b4b5ae39186a92e2bd2c4739e0b7492" title="EvpnPrefix::addr" alt="" coords="552,531,680,557"/>
-<area shape="rect" id="node14" href="$d0/db1/classEvpnPrefix.html#a1353f037c771ca92e9c93783d7c468d6" title="EvpnPrefix::prefixlen" alt="" coords="538,581,694,608"/>
-<area shape="rect" id="node16" href="$d3/d22/classIp4Prefix.html#aa8b8dd5f74acf6ea7d5cc170f9a7e161" title="Ip4Prefix::IsMoreSpecific" alt="" coords="526,75,706,101"/>
-<area shape="rect" id="node18" href="$d6/da8/classInet6Prefix.html#a867230d08e8cc50c7df94fa543646d03" title="Inet6Prefix::IsMoreSpecific" alt="" coords="519,24,713,51"/>
-<area shape="rect" id="node21" href="$d0/db1/classEvpnPrefix.html#a21d7ea5f7df97b75f47c212fd2e81e4c" title="EvpnPrefix::inet_prefix" alt="" coords="532,125,700,152"/>
-<area shape="rect" id="node22" href="$d0/db1/classEvpnPrefix.html#a2bf20bcf9f0a6a34a6d386fc86bc4bee" title="EvpnPrefix::inet6_prefix" alt="" coords="528,176,704,203"/>
-<area shape="rect" id="node17" href="$d3/d22/classIp4Prefix.html#aa6001f2ffdc65e84ffe0be1b7551ee91" title="Ip4Prefix::ip4_addr" alt="" coords="799,125,942,152"/>
-<area shape="rect" id="node19" href="$d6/d3b/classInet6Masks.html#a4d8e25a422cb6d44a3a245434e62723b" title="Inet6Masks::PrefixlenToMask" alt="" coords="766,75,975,101"/>
-<area shape="rect" id="node20" href="$d6/da8/classInet6Prefix.html#a34331282031cc5f0fccca091541c91ee" title="Inet6Prefix::operator&amp;" alt="" coords="788,24,953,51"/>
-<area shape="rect" id="node24" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="528,734,704,775"/>
-<area shape="rect" id="node25" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="525,800,707,827"/>
-<area shape="rect" id="node27" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="782,1217,959,1244"/>
-<area shape="rect" id="node31" href="$d7/d0c/classBgpPath.html#a2cddc24414ad3515cc356edd1df074aa" title="BgpPath::IsFeasible" alt="" coords="543,1319,689,1345"/>
-<area shape="rect" id="node29" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="800,1395,941,1421"/>
-<area shape="rect" id="node30" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="801,1344,941,1371"/>
-<area shape="rect" id="node35" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="551,1420,681,1447"/>
-<area shape="rect" id="node36" href="$db/d26/classBgpServer.html#a934ce0a1b2973bbee7e6070b7505e034" title="BgpServer::condition\l_listener" alt="" coords="537,1471,695,1513"/>
-<area shape="rect" id="node38" href="$d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title="ConditionMatchTableState\l::table_state_mutex" alt="" coords="521,969,711,1010"/>
-<area shape="rect" id="node39" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="530,1035,702,1061"/>
-<area shape="rect" id="node40" href="$d0/dd7/classConditionMatchTableState.html#a68aa9544d61c769e17453337cbd91559" title="ConditionMatchTableState\l::GetListenerId" alt="" coords="521,1086,711,1127"/>
-<area shape="rect" id="node43" href="$d1/d67/classConditionMatch.html#a815e69097d416c17b7b66d71fa260760" title="ConditionMatch::Decrement\lNumMatchstate" alt="" coords="515,851,717,893"/>
-<area shape="rect" id="node44" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title="DBEntryBase::ClearState" alt="" coords="525,917,707,944"/>
-<area shape="rect" id="node47" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title="DBEntryBase::SetState" alt="" coords="531,1217,701,1244"/>
-<area shape="rect" id="node48" href="$d1/d67/classConditionMatch.html#a969311611e574657e7f67baf3c4123e3" title="ConditionMatch::Increment\lNumMatchstate" alt="" coords="517,1151,715,1193"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,743,171,769"/>
+<area shape="rect" id="node2" href="$d6/dbd/classBgpRoute.html#a6ed6f992ae97aa0d7675cb4cebab949e" title=" " alt="" coords="499,31,641,57"/>
+<area shape="rect" id="node5" href="$d8/d67/classBgpConditionListener.html#a2e5f901b90da0e694975f72ff9216274" title=" " alt="" coords="251,398,397,439"/>
+<area shape="rect" id="node10" href="$d1/d67/classConditionMatch.html#a396243a6d4495a6e84d102a74e1954f9" title=" " alt="" coords="243,549,405,576"/>
+<area shape="rect" id="node11" href="$d0/def/classBgpTable.html#ae03997dea3dbab64d82a5403715eaa1c" title=" " alt="" coords="741,625,859,652"/>
+<area shape="rect" id="node12" href="$d1/d31/classPathResolver.html#a639884739a37fc9d793e339465f1abf1" title=" " alt="" coords="232,651,416,693"/>
+<area shape="rect" id="node16" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="263,717,385,744"/>
+<area shape="rect" id="node17" href="$d3/dda/classResolverNexthop.html#acb8953f3ecf8cb9bef6895f51ce3124b" title=" " alt="" coords="225,768,423,795"/>
+<area shape="rect" id="node18" href="$d6/dbd/classBgpRoute.html#ab237eb65b2f5957623b022bd53453e45" title=" " alt="" coords="254,120,394,147"/>
+<area shape="rect" id="node21" href="$d5/dcf/classBgpAttr.html#aadbcc5fe5aa55782c1d7fcc5b7b304dd" title=" " alt="" coords="264,819,384,845"/>
+<area shape="rect" id="node22" href="$d1/d31/classPathResolver.html#ab520a0c94735e40b90be6ed0485cfffe" title=" " alt="" coords="247,870,401,911"/>
+<area shape="rect" id="node23" href="$d8/d67/classBgpConditionListener.html#a6da6678387825202a4b1325a09a28483" title=" " alt="" coords="251,322,397,363"/>
+<area shape="rect" id="node26" href="$d3/dda/classResolverNexthop.html#adbb7d206552b93589b18b713bf819c16" title=" " alt="" coords="219,936,429,963"/>
+<area shape="rect" id="node27" href="$df/dc3/path__resolver_8cc.html#ae76eb8c919c7d1e4d860a747bf20a05c" title=" " alt="" coords="249,1021,399,1048"/>
+<area shape="rect" id="node38" href="$d1/d31/classPathResolver.html#a0ee1245b714f03e23914c23dc176014e" title=" " alt="" coords="236,1242,412,1283"/>
+<area shape="rect" id="node43" href="$d8/d67/classBgpConditionListener.html#aac81466d16f35c119b1be9f83a909d04" title=" " alt="" coords="251,470,397,511"/>
+<area shape="rect" id="node46" href="$d6/dbd/classBgpRoute.html#a941b1b54cac7e3e5178fe1a964aa23fe" title=" " alt="" coords="266,1308,382,1335"/>
+<area shape="rect" id="node49" href="$d3/dda/classResolverNexthop.html#a9de5325d26f55b935bb79c962076ccb3" title=" " alt="" coords="245,1359,403,1385"/>
+<area shape="rect" id="node50" href="$d1/d31/classPathResolver.html#aa8d89adb6752165f96f820e57c55820b" title=" " alt="" coords="225,1410,423,1451"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="733,56,867,83"/>
+<area shape="rect" id="node4" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="733,5,867,32"/>
+<area shape="rect" id="node6" href="$d0/dd7/classConditionMatchTableState.html#ab93181b66d47a83626afad5457f25dcb" title=" " alt="" coords="483,417,657,458"/>
+<area shape="rect" id="node7" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="489,365,651,392"/>
+<area shape="rect" id="node9" href="$d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title=" " alt="" coords="483,299,657,341"/>
+<area shape="rect" id="node8" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="711,358,889,399"/>
+<area shape="rect" id="node13" href="$db/d26/classBgpServer.html#a934ce0a1b2973bbee7e6070b7505e034" title=" " alt="" coords="499,702,641,743"/>
+<area shape="rect" id="node14" href="$d1/d31/classPathResolver.html#aca28fc114568633abcca8a115673ede8" title=" " alt="" coords="499,651,641,677"/>
+<area shape="rect" id="node15" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="510,768,630,795"/>
+<area shape="rect" id="node19" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="717,183,883,209"/>
+<area shape="rect" id="node20" href="$d7/d0c/classBgpPath.html#a9972807efa15d0b27b2c4a1a546efd38" title=" " alt="" coords="500,132,640,159"/>
+<area shape="rect" id="node24" href="$d8/d44/classDBEntryBase.html#a62fa4794268381f4287f95adf8704de6" title=" " alt="" coords="483,183,657,209"/>
+<area shape="rect" id="node25" href="$d1/d67/classConditionMatch.html#a815e69097d416c17b7b66d71fa260760" title=" " alt="" coords="477,234,663,275"/>
+<area shape="rect" id="node28" href="$d0/db1/classEvpnPrefix.html#af57f8cd4a7351e8018ef43ca0b4e5808" title=" " alt="" coords="511,819,629,845"/>
+<area shape="rect" id="node29" href="$d3/d22/classIp4Prefix.html#a996a5b45fc99f07ca15885b624ced4a6" title=" " alt="" coords="517,869,623,896"/>
+<area shape="rect" id="node30" href="$d6/da8/classInet6Prefix.html#ae8d8b09ef54e511ada38ecefab29548a" title=" " alt="" coords="511,920,629,947"/>
+<area shape="rect" id="node31" href="$d0/db1/classEvpnPrefix.html#ad2f5667fca280815faa042ecfff2804a" title=" " alt="" coords="506,1173,634,1200"/>
+<area shape="rect" id="node32" href="$d1/d3a/classEvpnRoute.html#aaa81ed6f36402d73a2e6f4af75293d63" title=" " alt="" coords="495,1224,645,1251"/>
+<area shape="rect" id="node33" href="$d1/d53/classInetRoute.html#a30c52d3e405d7be2d61e2527e1e36324" title=" " alt="" coords="499,1275,641,1301"/>
+<area shape="rect" id="node34" href="$de/dd1/classInet6Route.html#a6cf648f23c2c959c90552f00f4c742bf" title=" " alt="" coords="495,1123,645,1149"/>
+<area shape="rect" id="node35" href="$d0/db1/classEvpnPrefix.html#a14eb6f5f64ee268400caff62547d976c" title=" " alt="" coords="499,1021,641,1048"/>
+<area shape="rect" id="node36" href="$d3/d22/classIp4Prefix.html#a0216429eefdd5b2bdbbe376154cb96d5" title=" " alt="" coords="735,1161,865,1188"/>
+<area shape="rect" id="node37" href="$d6/da8/classInet6Prefix.html#acdba172388dd137f418061c9d9d1352e" title=" " alt="" coords="729,1237,871,1264"/>
+<area shape="rect" id="node39" href="$d0/db1/classEvpnPrefix.html#ae4bde6d14d28a4a3b6e1fcdbcfb74f38" title=" " alt="" coords="490,1376,650,1403"/>
+<area shape="rect" id="node40" href="$d0/db1/classEvpnPrefix.html#a06b6e6d5f3ff4d75ccf099f199922955" title=" " alt="" coords="493,1477,647,1504"/>
+<area shape="rect" id="node41" href="$d6/da8/classInet6Prefix.html#aeed5ae5aca9aeb2849f717bf50057fb3" title=" " alt="" coords="481,1427,659,1453"/>
+<area shape="rect" id="node42" href="$d3/d22/classIp4Prefix.html#a655955f548e23e10da4482510d1e0f06" title=" " alt="" coords="486,1325,654,1352"/>
+<area shape="rect" id="node44" href="$d1/d67/classConditionMatch.html#a969311611e574657e7f67baf3c4123e3" title=" " alt="" coords="481,534,659,575"/>
+<area shape="rect" id="node45" href="$d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="489,483,651,509"/>
+<area shape="rect" id="node47" href="$d8/d44/classDBEntryBase.html#ab07bd6dfa63fea93777ca3241b3f419c" title=" " alt="" coords="488,1529,652,1570"/>
+<area shape="rect" id="node48" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="485,1595,655,1621"/>
 </map>

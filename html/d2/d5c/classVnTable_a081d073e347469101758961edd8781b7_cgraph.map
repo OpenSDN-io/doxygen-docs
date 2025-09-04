@@ -1,6 +1,8 @@
 <map id="VnTable::DelVn" name="VnTable::DelVn">
-<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title="DBTableBase::Enqueue" alt="" coords="173,56,344,83"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="392,5,619,32"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title="DB::GetPartition" alt="" coords="442,56,569,83"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html#a7e82ca030d517c8a09d24d546624fff4" title="DBTablePartBase::index" alt="" coords="417,107,593,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,117,108"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="165,81,327,108"/>
+<area shape="rect" id="node3" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="381,5,579,32"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="421,56,539,83"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="375,107,585,133"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="397,157,563,184"/>
 </map>

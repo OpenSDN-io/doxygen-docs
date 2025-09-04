@@ -1,7 +1,8 @@
 <map id="etcdserverpb::LeaseGrantRequest::LeaseGrantRequest" name="etcdserverpb::LeaseGrantRequest::LeaseGrantRequest">
-<area shape="rect" id="node2" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a0502ecf35bbd7d2e3520a4aacd1fd5a7" title="etcdserverpb::LeaseGrant\lRequest::internal_default\l_instance" alt="" coords="283,5,472,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ad59ebad64210fe810f5522e00976b065" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseGrantRequest" alt="" coords="261,86,493,127"/>
-<area shape="rect" id="node6" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a4f39cf804c8ccbcec1b3e97d4281101e" title="etcdserverpb::LeaseGrant\lRequest::SharedCtor" alt="" coords="283,151,472,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0cccefebd3a19efba9081786036bb6f0" title="protobuf_rpc_2eproto\l::InitDefaultsLeaseGrantRequestImpl" alt="" coords="541,86,803,127"/>
-<area shape="rect" id="node5" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a9fbe233b564fbf621f2feb1d1b3d0fcb" title="etcdserverpb::LeaseGrant\lRequest::InitAsDefaultInstance" alt="" coords="851,86,1074,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,199,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ad59ebad64210fe810f5522e00976b065" title=" " alt="" coords="247,5,459,47"/>
+<area shape="rect" id="node5" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a0502ecf35bbd7d2e3520a4aacd1fd5a7" title=" " alt="" coords="266,71,439,127"/>
+<area shape="rect" id="node6" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a4f39cf804c8ccbcec1b3e97d4281101e" title=" " alt="" coords="266,152,439,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0cccefebd3a19efba9081786036bb6f0" title=" " alt="" coords="507,5,744,47"/>
+<area shape="rect" id="node4" href="$d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#a9fbe233b564fbf621f2feb1d1b3d0fcb" title=" " alt="" coords="792,5,996,47"/>
 </map>

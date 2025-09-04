@@ -1,7 +1,0 @@
-<map id="gmp_send_one_packet" name="gmp_send_one_packet">
-<area shape="rect" id="node2" href="$dc/d17/classGmpProto.html#a05be4b323ccfc41285de87bc5dfd8981" title="GmpProto::SendPacket" alt="" coords="224,81,395,108"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="479,5,606,32"/>
-<area shape="rect" id="node4" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title="VrfTable::FindVrfFromName" alt="" coords="443,56,642,83"/>
-<area shape="rect" id="node5" href="$d5/d33/classGmpIntf.html#a6ae0b80ecf21e99f7827fc8d46982b7a" title="GmpIntf::get_vrf_name" alt="" coords="456,107,629,133"/>
-<area shape="rect" id="node6" href="$d5/d33/classGmpIntf.html#aeff10162575b90970ff12e2d1d079059" title="GmpIntf::get_ip_address" alt="" coords="452,157,633,184"/>
-</map>

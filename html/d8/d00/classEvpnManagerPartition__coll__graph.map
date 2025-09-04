@@ -1,43 +1,40 @@
 <map id="EvpnManagerPartition" name="EvpnManagerPartition">
-<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF. " alt="" coords="882,1219,992,1245"/>
-<area shape="rect" id="node3" href="$da/da4/classEvpnTable.html" title="EvpnTable" alt="" coords="999,1317,1087,1344"/>
-<area shape="rect" id="node45" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; EvpnManager \&gt;" alt="" coords="651,1317,865,1344"/>
-<area shape="rect" id="node4" href="$d0/def/classBgpTable.html" title="BgpTable" alt="" coords="1187,1037,1268,1064"/>
-<area shape="rect" id="node37" href="$d1/d31/classPathResolver.html" title="PathResolver" alt="" coords="1307,1128,1413,1155"/>
-<area shape="rect" id="node39" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; BgpTable \&gt;" alt="" coords="932,1128,1119,1155"/>
-<area shape="rect" id="node40" href="$d3/db0/classErmVpnTable.html" title="ErmVpnTable" alt="" coords="448,1128,555,1155"/>
-<area shape="rect" id="node5" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="1739,896,1832,923"/>
-<area shape="rect" id="node6" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="2024,731,2099,757"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="2099,508,2205,535"/>
-<area shape="rect" id="node47" href="$d3/da7/classDBTablePartBase.html" title="DBTablePartBase" alt="" coords="2123,731,2255,757"/>
-<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="1413,337,1635,378"/>
-<area shape="rect" id="node26" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="2125,344,2211,371"/>
-<area shape="rect" id="node30" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; TcpSessionPtr \&gt;" alt="" coords="712,344,928,371"/>
-<area shape="rect" id="node32" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; BgpSession * \&gt;" alt="" coords="388,344,601,371"/>
-<area shape="rect" id="node11" href="$de/ddf/classRoutingInstance.html" title="RoutingInstance" alt="" coords="1035,947,1161,973"/>
-<area shape="rect" id="node36" href="$d6/ddf/classBgpInstanceConfig.html" title="BgpInstanceConfig" alt="" coords="1018,419,1160,445"/>
-<area shape="rect" id="node9" href="$df/d70/classDB.html" title="DB" alt="" coords="1934,344,1975,371"/>
-<area shape="rect" id="node24" href="$db/d26/classBgpServer.html" title="BgpServer" alt="" coords="1703,731,1792,757"/>
-<area shape="rect" id="node16" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1327,731,1437,757"/>
-<area shape="rect" id="node12" href="$d2/d72/classRoutingInstanceMgr.html" title="RoutingInstanceMgr" alt="" coords="1275,837,1425,864"/>
-<area shape="rect" id="node46" href="$df/d9e/classDBTablePartition.html" title="DBTablePartition" alt="" coords="2287,837,2416,864"/>
-<area shape="rect" id="node35" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance \&gt;" alt="" coords="933,1037,1163,1064"/>
-<area shape="rect" id="node13" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RoutingInstance\lMgr \&gt;" alt="" coords="1087,723,1303,765"/>
-<area shape="rect" id="node14" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="253,508,381,535"/>
-<area shape="rect" id="node15" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="642,830,856,871"/>
-<area shape="rect" id="node38" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; PathResolver \&gt;" alt="" coords="1209,1219,1420,1245"/>
-<area shape="rect" id="node42" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; MvpnProject\lManager \&gt;" alt="" coords="5,1310,197,1351"/>
-<area shape="rect" id="node44" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; McastTreeManager \&gt;" alt="" coords="244,1317,492,1344"/>
-<area shape="rect" id="node17" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="1066,508,1197,535"/>
-<area shape="rect" id="node21" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="1441,486,1668,557"/>
-<area shape="rect" id="node19" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="635,141,761,168"/>
-<area shape="rect" id="node22" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="625,344,676,371"/>
-<area shape="rect" id="node31" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; TcpSession\lPtr, WorkQueue\&lt; TcpSessionPtr \&gt; \&gt;" alt="" coords="677,501,933,542"/>
-<area shape="rect" id="node33" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; BgpSession\l *, WorkQueue\&lt; BgpSession * \&gt; \&gt;" alt="" coords="406,501,652,542"/>
-<area shape="rect" id="node23" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="1223,501,1417,542"/>
-<area shape="rect" id="node25" href="$d1/df7/classBgpSessionManager.html" title="BgpSessionManager" alt="" coords="1743,508,1896,535"/>
-<area shape="rect" id="node27" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="2153,141,2271,168"/>
-<area shape="rect" id="node28" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="2503,141,2617,168"/>
-<area shape="rect" id="node41" href="$d5/dd5/classMvpnProjectManager.html" title="MvpnProjectManager" alt="" coords="102,1219,260,1245"/>
-<area shape="rect" id="node43" href="$d3/dbd/classMcastTreeManager.html" title="McastTreeManager" alt="" coords="445,1219,587,1245"/>
+<area shape="rect" id="node1" title="This class represents a partition in the EvpnManager." alt="" coords="2748,859,2899,885"/>
+<area shape="rect" id="node2" href="$d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF." alt="" coords="2479,103,2581,129"/>
+<area shape="rect" id="node3" href="$da/da4/classEvpnTable.html" title=" " alt="" coords="2782,148,2865,175"/>
+<area shape="rect" id="node4" href="$d0/def/classBgpTable.html" title=" " alt="" coords="1811,381,1887,408"/>
+<area shape="rect" id="node28" href="$d1/d31/classPathResolver.html" title=" " alt="" coords="2161,251,2260,277"/>
+<area shape="rect" id="node31" href="$d3/db0/classErmVpnTable.html" title=" " alt="" coords="2161,301,2260,328"/>
+<area shape="rect" id="node5" href="$d3/d72/classRouteTable.html" title=" " alt="" coords="1403,485,1491,512"/>
+<area shape="rect" id="node6" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="1002,485,1074,512"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="595,591,698,617"/>
+<area shape="rect" id="node38" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="975,637,1101,664"/>
+<area shape="rect" id="node8" title=" " alt="" coords="277,553,332,580"/>
+<area shape="rect" id="node11" href="$de/ddf/classRoutingInstance.html" title=" " alt="" coords="1388,536,1505,563"/>
+<area shape="rect" id="node19" href="$de/df9/classTcpServer.html" title=" " alt="" coords="606,989,687,1016"/>
+<area shape="rect" id="node27" href="$d6/ddf/classBgpInstanceConfig.html" title=" " alt="" coords="774,395,907,421"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html" title=" " alt="" coords="284,731,325,757"/>
+<area shape="rect" id="node17" href="$db/d26/classBgpServer.html" title=" " alt="" coords="605,740,688,767"/>
+<area shape="rect" id="node10" title=" " alt="" coords="17,731,76,757"/>
+<area shape="rect" id="node12" href="$d2/d72/classRoutingInstanceMgr.html" title=" " alt="" coords="1780,592,1919,619"/>
+<area shape="rect" id="node37" href="$df/d9e/classDBTablePartition.html" title=" " alt="" coords="1386,921,1507,948"/>
+<area shape="rect" id="node13" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1165,259,1360,301"/>
+<area shape="rect" id="node14" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="587,157,706,184"/>
+<area shape="rect" id="node26" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="935,309,1141,336"/>
+<area shape="rect" id="node29" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1550,196,1739,223"/>
+<area shape="rect" id="node30" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1179,219,1346,245"/>
+<area shape="rect" id="node33" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1952,54,2125,95"/>
+<area shape="rect" id="node35" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1533,115,1756,141"/>
+<area shape="rect" id="node36" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1943,5,2135,32"/>
+<area shape="rect" id="node15" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="208,150,401,191"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1419,836,1475,863"/>
+<area shape="rect" id="node18" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="967,871,1109,897"/>
+<area shape="rect" id="node20" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="249,991,360,1017"/>
+<area shape="rect" id="node21" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="252,940,357,967"/>
+<area shape="rect" id="node22" title=" " alt="" coords="5,1076,88,1103"/>
+<area shape="rect" id="node23" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="547,888,747,915"/>
+<area shape="rect" id="node24" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="549,939,744,965"/>
+<area shape="rect" id="node25" title=" " alt="" coords="613,837,681,864"/>
+<area shape="rect" id="node32" href="$d5/dd5/classMvpnProjectManager.html" title=" " alt="" coords="2457,153,2603,180"/>
+<area shape="rect" id="node34" href="$d3/dbd/classMcastTreeManager.html" title=" " alt="" coords="2463,272,2597,299"/>
 </map>

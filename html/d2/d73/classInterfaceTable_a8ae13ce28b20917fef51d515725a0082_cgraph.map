@@ -1,7 +1,0 @@
-<map id="InterfaceTable::FindVmRef" name="InterfaceTable::FindVmRef">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a3af467d5407c28e06e5aa71755b0258c" title="Agent::vm_table" alt="" coords="275,5,405,32"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="246,57,434,98"/>
-<area shape="rect" id="node4" href="$db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title="AgentDBTable::Find" alt="" coords="496,64,643,91"/>
-<area shape="rect" id="node5" href="$db/d89/classAgentDBEntry.html#a1b536cf143dd4f42d0c9d6feb81ecd70" title="AgentDBEntry::IsActive" alt="" coords="483,115,655,141"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="705,115,882,141"/>
-</map>

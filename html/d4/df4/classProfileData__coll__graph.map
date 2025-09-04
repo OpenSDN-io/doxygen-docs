@@ -1,9 +1,11 @@
 <map id="ProfileData" name="ProfileData">
-<area shape="rect" id="node2" href="$d6/d63/structProfileData_1_1WorkQueueStats.html" title="ProfileData::WorkQueueStats" alt="" coords="163,139,373,165"/>
-<area shape="rect" id="node5" href="$db/ddb/structProfileData_1_1FlowStats.html" title="ProfileData::FlowStats" alt="" coords="567,57,732,84"/>
-<area shape="rect" id="node4" href="$d0/d98/structProfileData_1_1DBTableStats.html" title="ProfileData::DBTableStats" alt="" coords="555,305,743,332"/>
-<area shape="rect" id="node6" href="$d7/df5/structProfileData_1_1FlowTokenStats.html" title="ProfileData::FlowTokenStats" alt="" coords="167,5,369,32"/>
-<area shape="rect" id="node7" href="$d9/d8c/structTaskStats.html" title="TaskStats" alt="" coords="607,356,691,383"/>
-<area shape="rect" id="node8" href="$d3/dfc/structProfileData_1_1XmppStats.html" title="ProfileData::XmppStats" alt="" coords="563,413,736,440"/>
-<area shape="rect" id="node9" href="$de/daa/structProfileData_1_1PktStats.html" title="ProfileData::PktStats" alt="" coords="571,464,727,491"/>
+<area shape="rect" id="node1" title=" " alt="" coords="839,309,925,336"/>
+<area shape="rect" id="node2" href="$d6/d63/structProfileData_1_1WorkQueueStats.html" title=" " alt="" coords="152,172,347,199"/>
+<area shape="rect" id="node5" href="$db/ddb/structProfileData_1_1FlowStats.html" title=" " alt="" coords="523,135,676,161"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,103,60,129"/>
+<area shape="rect" id="node4" href="$d0/d98/structProfileData_1_1DBTableStats.html" title=" " alt="" coords="512,307,687,333"/>
+<area shape="rect" id="node6" href="$d7/df5/structProfileData_1_1FlowTokenStats.html" title=" " alt="" coords="156,85,343,112"/>
+<area shape="rect" id="node7" href="$d9/d8c/structTaskStats.html" title=" " alt="" coords="559,357,640,384"/>
+<area shape="rect" id="node8" href="$d3/dfc/structProfileData_1_1XmppStats.html" title=" " alt="" coords="520,415,679,441"/>
+<area shape="rect" id="node9" href="$de/daa/structProfileData_1_1PktStats.html" title=" " alt="" coords="527,465,672,492"/>
 </map>

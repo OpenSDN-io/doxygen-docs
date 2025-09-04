@@ -15,8 +15,8 @@ var classVirtualGateway =
     [ "RouteUpdate", "d2/ddd/classVirtualGateway.html#a2d108c847d7dcac67bd49dd0dfe49510", null ],
     [ "RouteUpdate", "d2/ddd/classVirtualGateway.html#a459527ef6163ecc0979767e7641f6a38", null ],
     [ "Shutdown", "d2/ddd/classVirtualGateway.html#aadbc02f065760dcfa2c81d983a30e4fd", null ],
-    [ "SubnetUpdate", "d2/ddd/classVirtualGateway.html#a2fdbd88ae58e6befa4e23cce37bd8ca7", null ],
     [ "SubnetUpdate", "d2/ddd/classVirtualGateway.html#ac68893bc59360652e299d3ba3cac3948", null ],
+    [ "SubnetUpdate", "d2/ddd/classVirtualGateway.html#a2fdbd88ae58e6befa4e23cce37bd8ca7", null ],
     [ "agent_", "d2/ddd/classVirtualGateway.html#a966e4729d3fb2710db16ec322ba576a3", null ],
     [ "listener_id_", "d2/ddd/classVirtualGateway.html#a763cc09f099d1b5e63aaaf140fd8d2e8", null ],
     [ "vgw_config_table_", "d2/ddd/classVirtualGateway.html#a2711d7b0e66da033b8321cd3b80031c4", null ]

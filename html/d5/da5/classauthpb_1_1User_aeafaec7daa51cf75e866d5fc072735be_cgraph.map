@@ -1,8 +1,9 @@
 <map id="authpb::User::New" name="authpb::User::New">
-<area shape="rect" id="node2" href="$d5/da5/classauthpb_1_1User.html#a46433f84718d10bc5273914cc78c72e2" title="authpb::User::User" alt="" coords="198,77,341,104"/>
-<area shape="rect" id="node3" href="$d5/da5/classauthpb_1_1User.html#a0a191a7a250dc108ef0effcb7fbd04e8" title="authpb::User::internal\l_default_instance" alt="" coords="401,5,564,46"/>
-<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a47c4cea6947e0bc0b80b235df23b579c" title="protobuf_auth_2eproto\l::InitDefaultsUser" alt="" coords="397,70,568,111"/>
-<area shape="rect" id="node7" href="$d5/da5/classauthpb_1_1User.html#aa15d7368ea6a2b7d2bacdea582b056f1" title="authpb::User::SharedCtor" alt="" coords="390,136,575,163"/>
-<area shape="rect" id="node5" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a32c5b68d2d08d7a69243e7c086fc51bb" title="protobuf_auth_2eproto\l::InitDefaultsUserImpl" alt="" coords="624,70,795,111"/>
-<area shape="rect" id="node6" href="$d5/da5/classauthpb_1_1User.html#a0892df9e59986477ce05bfa9daad4172" title="authpb::User::InitAsDefault\lInstance" alt="" coords="843,70,1042,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,137,105"/>
+<area shape="rect" id="node2" href="$d5/da5/classauthpb_1_1User.html#a46433f84718d10bc5273914cc78c72e2" title=" " alt="" coords="185,78,319,105"/>
+<area shape="rect" id="node3" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a47c4cea6947e0bc0b80b235df23b579c" title=" " alt="" coords="377,5,527,47"/>
+<area shape="rect" id="node6" href="$d5/da5/classauthpb_1_1User.html#a0a191a7a250dc108ef0effcb7fbd04e8" title=" " alt="" coords="379,71,525,112"/>
+<area shape="rect" id="node7" href="$d5/da5/classauthpb_1_1User.html#aa15d7368ea6a2b7d2bacdea582b056f1" title=" " alt="" coords="367,137,537,163"/>
+<area shape="rect" id="node4" href="$d0/dd3/namespaceprotobuf__auth__2eproto.html#a32c5b68d2d08d7a69243e7c086fc51bb" title=" " alt="" coords="585,5,736,47"/>
+<area shape="rect" id="node5" href="$d5/da5/classauthpb_1_1User.html#a0892df9e59986477ce05bfa9daad4172" title=" " alt="" coords="784,5,965,47"/>
 </map>

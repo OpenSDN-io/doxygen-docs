@@ -1,7 +1,8 @@
 <map id="BgpSessionManager::Shutdown" name="BgpSessionManager::Shutdown">
-<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title="TcpServer::Shutdown" alt="" coords="241,5,399,32"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title="WorkQueue::SetExitCallback" alt="" coords="217,56,423,83"/>
-<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html#a4df004b3ea5904e64542fe7a75efe2fe" title="BgpSessionManager::\lWorkQueueExitCallback" alt="" coords="231,107,409,149"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="472,5,659,32"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a58a221d9f0bdcc9bb00fcb2f4cdbd3aa" title="BgpServer::RetryDelete" alt="" coords="478,115,653,141"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,156,90"/>
+<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#acf060c16140e3f413ef61819c3f02d14" title=" " alt="" coords="204,5,396,32"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a1098ecf63ce455ad9e9eb6e6efdf80fb" title=" " alt="" coords="227,56,373,83"/>
+<area shape="rect" id="node5" href="$d1/df7/classBgpSessionManager.html#a4df004b3ea5904e64542fe7a75efe2fe" title=" " alt="" coords="218,107,382,149"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title=" " alt="" coords="444,56,619,83"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a58a221d9f0bdcc9bb00fcb2f4cdbd3aa" title=" " alt="" coords="451,115,612,141"/>
 </map>

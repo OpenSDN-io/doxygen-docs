@@ -1,14 +1,19 @@
 <map id="AgentRoute::RemovePath" name="AgentRoute::RemovePath">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="549,5,648,32"/>
-<area shape="rect" id="node3" href="$de/df8/classRoute.html#a264132d02c781dbbd1750e1fdf35b5dd" title="Route::Sort" alt="" coords="307,64,400,91"/>
-<area shape="rect" id="node7" href="$dc/d2b/classAgentRouteTable.html#a2059cd7df3c2f2543082778c2276da40" title="AgentRouteTable::PathSelection" alt="" coords="240,151,467,177"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#a6c75aa6244c8b97c31b2ec04b6f56503" title="DBEntryBase::set_last\l_update_at_to_now" alt="" coords="515,57,682,98"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html#ada948255e0ae0365b546086a1565d325" title="DBEntryBase::set_last\l_change_at_to_now" alt="" coords="515,122,682,163"/>
-<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="755,69,909,96"/>
-<area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#ab2a6966c9dbfc8ebea9d3f6f71ef864b" title="AgentPath::IsLess" alt="" coords="531,188,667,215"/>
-<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="769,131,895,157"/>
-<area shape="rect" id="node10" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="776,181,888,208"/>
-<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#a7e709bed8255339c78017fa62a44851d" title="AgentPath::path_preference" alt="" coords="731,232,933,259"/>
-<area shape="rect" id="node12" href="$d6/dd4/classPeer.html#a5e32ea9f40f18a8fb997370e0d8cdfdb" title="Peer::IsLess" alt="" coords="783,283,881,309"/>
-<area shape="rect" id="node13" href="$d6/dd4/classPeer.html#a3c74b106932622b1aaaaf127460d3407" title="Peer::Compare" alt="" coords="982,283,1101,309"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,271,179,297"/>
+<area shape="rect" id="node2" href="$de/df8/classRoute.html#a7dca06e09d43f3fae87715e0a7dd2454" title=" " alt="" coords="519,296,609,323"/>
+<area shape="rect" id="node3" href="$dc/d2b/classAgentRouteTable.html#a2059cd7df3c2f2543082778c2276da40" title=" " alt="" coords="227,161,437,188"/>
+<area shape="rect" id="node10" href="$de/df8/classRoute.html#ab99f388a445702c87ca21f45b96d5fbf" title=" " alt="" coords="279,245,385,272"/>
+<area shape="rect" id="node14" href="$de/df8/classRoute.html#a264132d02c781dbbd1750e1fdf35b5dd" title=" " alt="" coords="287,355,377,381"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a74c37ead39425a3e691a0614e0a7ce91" title=" " alt="" coords="499,107,629,133"/>
+<area shape="rect" id="node5" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="730,107,835,133"/>
+<area shape="rect" id="node6" href="$d6/dd4/classPeer.html#a3245b308e94535cbfe95f372f6624d95" title=" " alt="" coords="735,157,830,184"/>
+<area shape="rect" id="node8" href="$d4/d3d/classAgentPath.html#a8bddfb5c69e2ce1bf8abd538cd2539b5" title=" " alt="" coords="691,5,875,32"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="725,56,841,83"/>
+<area shape="rect" id="node7" href="$d6/dd4/classPeer.html#ae752e56463c4805418491b3a0d94d5a7" title=" " alt="" coords="923,157,1032,184"/>
+<area shape="rect" id="node11" href="$db/dc7/classPath.html#ae232f7e89889774d412bb256a0bee9e7" title=" " alt="" coords="489,179,639,221"/>
+<area shape="rect" id="node13" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="711,355,855,381"/>
+<area shape="rect" id="node12" href="$db/dc7/classPath.html#a2191c38b90b7c951cf887c5f78aa1e22" title=" " alt="" coords="699,208,866,235"/>
+<area shape="rect" id="node15" href="$d6/de2/service__instance_8cc.html#a80e2a92150013fbdd8da1454ce6e9014" title=" " alt="" coords="528,413,600,440"/>
+<area shape="rect" id="node16" href="$d8/d44/classDBEntryBase.html#ada948255e0ae0365b546086a1565d325" title=" " alt="" coords="485,347,643,389"/>
+<area shape="rect" id="node17" href="$d8/d44/classDBEntryBase.html#a6c75aa6244c8b97c31b2ec04b6f56503" title=" " alt="" coords="485,465,643,506"/>
 </map>

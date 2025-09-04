@@ -1,9 +1,10 @@
 <map id="RouteExport::Unregister" name="RouteExport::Unregister">
-<area shape="rect" id="node2" href="$d5/d0a/classDBTable.html#a7869bc4aceaa662eb5453bd29f4b54df" title="DBTable::WalkTable" alt="" coords="232,56,381,83"/>
-<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="445,5,619,32"/>
-<area shape="rect" id="node4" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="468,56,596,83"/>
-<area shape="rect" id="node5" href="$d1/dec/classDBTableWalkMgr.html#a7d6aa8aed83cc74f1c575a3cfe31a0c0" title="DBTableWalkMgr::WalkTable" alt="" coords="429,107,635,133"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#afab5f8f9b7524b615ef88c0e2837e916" title="DBTableBase::incr_walk\l_again_count" alt="" coords="706,34,883,75"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#a34510ab3477d9ed627127134fadafc32" title="DBTableBase::incr_walk\l_request_count" alt="" coords="706,99,883,141"/>
-<area shape="rect" id="node8" href="$da/d93/structDBTableWalkMgr_1_1WalkRequestInfo.html#a12d5d34c8420a60c363d688f16938af2" title="DBTableWalkMgr::WalkRequest\lInfo::AppendWalkReq" alt="" coords="683,165,906,206"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node2" href="$d5/d0a/classDBTable.html#a7869bc4aceaa662eb5453bd29f4b54df" title=" " alt="" coords="217,56,357,83"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title=" " alt="" coords="419,5,582,32"/>
+<area shape="rect" id="node4" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title=" " alt="" coords="440,56,561,83"/>
+<area shape="rect" id="node5" href="$d1/dec/classDBTableWalkMgr.html#a7d6aa8aed83cc74f1c575a3cfe31a0c0" title=" " alt="" coords="405,107,596,133"/>
+<area shape="rect" id="node6" href="$da/d93/structDBTableWalkMgr_1_1WalkRequestInfo.html#a12d5d34c8420a60c363d688f16938af2" title=" " alt="" coords="644,34,852,75"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#afab5f8f9b7524b615ef88c0e2837e916" title=" " alt="" coords="666,99,830,141"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html#a34510ab3477d9ed627127134fadafc32" title=" " alt="" coords="666,165,830,206"/>
 </map>

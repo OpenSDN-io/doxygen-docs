@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dc/d4e/classetcd_1_1etcdql_1_1EtcdResponse.html" title="etcd::etcdql::EtcdResponse" alt="" coords="6,5,202,32"/>
+<area shape="rect" id="node1" href="$d1/d78/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncCall.html" title=" " alt="" coords="5,104,137,145"/>
+<area shape="rect" id="node2" href="$d9/d40/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncDeleteCall.html" title=" " alt="" coords="185,5,337,47"/>
+<area shape="rect" id="node3" href="$d6/d73/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncGetCall.html" title=" " alt="" coords="194,71,329,112"/>
+<area shape="rect" id="node4" href="$d1/de6/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncSetCall.html" title=" " alt="" coords="194,136,329,177"/>
+<area shape="rect" id="node5" href="$d6/d1f/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncWatchCall.html" title=" " alt="" coords="186,201,337,243"/>
 </map>

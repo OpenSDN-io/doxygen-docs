@@ -8,7 +8,7 @@ var structRouteLeakState =
     [ "AddRoute", "de/dbc/structRouteLeakState.html#a0c56b5c11dce902073753bf5b3477a3c", null ],
     [ "CanAdd", "de/dbc/structRouteLeakState.html#a7b391ec6db87100291a667e8438d7836", null ],
     [ "DeleteRoute", "de/dbc/structRouteLeakState.html#a5b5ba11a4191cd9bd8652fc1f2c7023d", null ],
-    [ "dest_vrf", "de/dbc/structRouteLeakState.html#a448c54712da29370c7d0e10aa9bfad8a", null ],
+    [ "dest_vrf", "de/dbc/structRouteLeakState.html#a2f64a6ddca3a9923a0d46b1d24470205", null ],
     [ "peer_list", "de/dbc/structRouteLeakState.html#ab7d4adf9c0359e832a06f37f6fdc6f41", null ],
     [ "set_dest_vrf", "de/dbc/structRouteLeakState.html#adf3ec4843424e4a3945c45b8a762816d", null ],
     [ "agent_", "de/dbc/structRouteLeakState.html#aa6fffecde9bcda21594bf0c344d50e5c", null ],

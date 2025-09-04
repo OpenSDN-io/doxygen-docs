@@ -1,13 +1,17 @@
 <map id="MetadataClient" name="MetadataClient">
-<area shape="rect" id="node2" href="$d4/d6e/classHttpClient.html" title="HttpClient" alt="" coords="949,475,1037,501"/>
-<area shape="rect" id="node9" href="$dc/da4/struct__GlobalInfo.html" title="_GlobalInfo" alt="" coords="1221,505,1317,532"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title="TcpServer" alt="" coords="568,507,653,533"/>
-<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="235,547,354,573"/>
-<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; EnqueuedCb \&gt;" alt="" coords="507,203,715,229"/>
-<area shape="rect" id="node15" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="581,436,641,463"/>
-<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="237,665,352,692"/>
-<area shape="rect" id="node13" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Enqueued\lCb, WorkQueue\&lt; EnqueuedCb \&gt; \&gt;" alt="" coords="869,150,1117,191"/>
-<area shape="rect" id="node11" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="231,40,358,67"/>
-<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="25,5,76,32"/>
-<area shape="rect" id="node16" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="227,464,362,491"/>
+<area shape="rect" id="node1" title=" " alt="" coords="271,363,381,389"/>
+<area shape="rect" id="node2" href="$d4/d6e/classHttpClient.html" title=" " alt="" coords="357,273,439,300"/>
+<area shape="rect" id="node9" href="$dc/da4/struct__GlobalInfo.html" title=" " alt="" coords="406,363,494,389"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html" title=" " alt="" coords="124,184,205,211"/>
+<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="219,95,329,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="405,95,460,121"/>
+<area shape="rect" id="node12" href="$dc/dea/classTimer.html" title=" " alt="" coords="525,184,580,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="135,95,194,121"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="5,95,111,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="17,5,99,32"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="229,184,420,211"/>
+<area shape="rect" id="node11" title=" " alt="" coords="445,184,501,211"/>
+<area shape="rect" id="node13" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="501,95,625,121"/>
+<area shape="rect" id="node14" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="583,5,634,32"/>
+<area shape="rect" id="node15" title=" " alt="" coords="477,5,559,32"/>
 </map>

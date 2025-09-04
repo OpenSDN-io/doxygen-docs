@@ -1,51 +1,52 @@
 <map id="AgentXmppChannel::ReceiveBgpMessage" name="AgentXmppChannel::ReceiveBgpMessage">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a98ebefc0499e93352429ddc6f94edf6f" title="Agent::stats" alt="" coords="333,5,433,32"/>
-<area shape="rect" id="node3" href="$d0/d98/classAgentStats.html#a28c8cb8b9eb359da7b7180a3e7f5a46e" title="AgentStats::incr_xmpp\l_in_msgs" alt="" coords="298,57,467,98"/>
-<area shape="rect" id="node4" href="$dd/d50/classXmlPugi.html#a5eac92abe9690255cf79f39c1500f274" title="XmlPugi::FindNode" alt="" coords="876,939,1020,965"/>
-<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#a4a9ce922706211bb4c72b2653918f918" title="AgentXmppChannel::end\l_of_rib_rx_timer" alt="" coords="573,290,755,331"/>
-<area shape="rect" id="node6" href="$d7/df0/structControllerTimer.html#afc007651cf1a474b87968c67e0a6e777" title="ControllerTimer::Cancel" alt="" coords="295,2191,471,2217"/>
-<area shape="rect" id="node9" href="$da/d25/classAgentXmppChannel.html#a438486447b2f062dde4cf777f530e414" title="AgentXmppChannel::EndOfRibRx" alt="" coords="265,537,501,564"/>
-<area shape="rect" id="node19" href="$dd/d50/classXmlPugi.html#a70a76e8be6c292fdd3a0876f241eef97" title="XmlPugi::ReadNode" alt="" coords="873,177,1023,204"/>
-<area shape="rect" id="node22" href="$dd/d50/classXmlPugi.html#aa013a9d61eb81cfdfe2a19be7e6c5e51" title="XmlPugi::ReadAttrib" alt="" coords="872,127,1024,153"/>
-<area shape="rect" id="node11" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="857,1157,1039,1198"/>
-<area shape="rect" id="node23" href="$da/d25/classAgentXmppChannel.html#ab2a1d060775460d51aa36c0a86fd3a9a" title="AgentXmppChannel::GetBgp\lPeerName" alt="" coords="845,1274,1051,1315"/>
-<area shape="rect" id="node24" href="$da/d25/classAgentXmppChannel.html#aaaa8a4c41e0e9f090b0e40742903b139" title="AgentXmppChannel::Receive\lMvpnUpdate" alt="" coords="559,778,769,819"/>
-<area shape="rect" id="node29" href="$da/d25/classAgentXmppChannel.html#a49d1634a8a0ec2955473a4f16c3a0e07" title="AgentXmppChannel::Receive\lMulticastUpdate" alt="" coords="559,225,769,266"/>
-<area shape="rect" id="node33" href="$da/d25/classAgentXmppChannel.html#ae1f51c45643d4ee45d49ac0cbd5e42ec" title="AgentXmppChannel::Receive\lEvpnUpdate" alt="" coords="277,1610,488,1651"/>
-<area shape="rect" id="node48" href="$da/d25/classAgentXmppChannel.html#ab59c79c29254d3441d422d5e6845de24" title="AgentXmppChannel::Receive\lInet4MplsUpdate" alt="" coords="559,1047,769,1089"/>
-<area shape="rect" id="node50" href="$da/d25/classAgentXmppChannel.html#a228f27c31a4f35e5f3ac49f769c72e79" title="AgentXmppChannel::Receive\lV4V6Update" alt="" coords="559,1215,769,1257"/>
-<area shape="rect" id="node7" href="$d7/df0/structControllerTimer.html#a196c257e57aca9e43f272dbe9f0f2cbd" title="ControllerTimer::timer_name" alt="" coords="559,2191,769,2217"/>
-<area shape="rect" id="node8" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="608,2241,720,2268"/>
-<area shape="rect" id="node10" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="587,407,741,433"/>
-<area shape="rect" id="node12" href="$d3/d2d/classBgpPeer.html#ad4410ffcf2dd7ddee481a02f1510d904" title="BgpPeer::DeleteStale" alt="" coords="584,457,744,484"/>
-<area shape="rect" id="node13" href="$da/d25/classAgentXmppChannel.html#a590dc25862c7d006b89fd609b8ed3a4e" title="AgentXmppChannel::agent" alt="" coords="566,508,762,535"/>
-<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#a09788b9ff3a81149fe8b81e033686428" title="Agent::controller" alt="" coords="883,720,1013,747"/>
-<area shape="rect" id="node15" href="$df/def/classVNController.html#a5ddcc15ee10e77746fe718779593c7e9" title="VNController::FlushTimed\lOutChannels" alt="" coords="570,559,758,601"/>
-<area shape="rect" id="node16" href="$d6/d9c/classMulticastHandler.html#ac9bcf89f52b68d87fff85f5340874313" title="MulticastHandler::GetInstance" alt="" coords="555,625,773,652"/>
-<area shape="rect" id="node17" href="$d6/d9c/classMulticastHandler.html#a2a8a5c63cd88bf32299e5a99ccb903eb" title="MulticastHandler::FlushPeerInfo" alt="" coords="550,356,778,383"/>
-<area shape="rect" id="node18" href="$d8/dfe/classAgent.html#a26be3a3e9554e90a264df0d0a5bad68d" title="Agent::multicast_tree\l_builder_peer" alt="" coords="867,513,1029,554"/>
-<area shape="rect" id="node20" href="$dd/d50/classXmlPugi.html#a5462644fbda68c71a8a845f0ceacf1e9" title="XmlPugi::IsNull" alt="" coords="1135,880,1257,907"/>
-<area shape="rect" id="node21" href="$dd/d50/classXmlPugi.html#a38612caa67a5894bd7d634e2b0bd3e4c" title="XmlPugi::SetContext" alt="" coords="1118,152,1274,179"/>
-<area shape="rect" id="node25" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="1136,1611,1256,1637"/>
-<area shape="rect" id="node26" href="$dc/dff/classOperDB.html#a1e1be91f26a92aea51eef8e64b23f7ca" title="OperDB::multicast" alt="" coords="877,669,1019,696"/>
-<area shape="rect" id="node27" href="$d6/d9c/classMulticastHandler.html#abd41bec8df1475c5a33ba54f6aa5f5e1" title="MulticastHandler::Modify\lMvpnVrfRegistration" alt="" coords="856,822,1040,863"/>
-<area shape="rect" id="node28" href="$d8/dfe/classAgent.html#a122ffa3768fd8326c52f8edd30a4ff18" title="Agent::mulitcast_builder" alt="" coords="857,596,1039,623"/>
-<area shape="rect" id="node30" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title="TunnelType::MplsType" alt="" coords="867,279,1029,305"/>
-<area shape="rect" id="node31" href="$d6/d9c/classMulticastHandler.html#a2cadbce885adaac7ec9545e7c6b016dc" title="MulticastHandler::Modify\lFabricMembers" alt="" coords="856,330,1040,371"/>
-<area shape="rect" id="node32" href="$df/def/classVNController.html#ae41cc7870d0d4aa4b27fdb839d56f779" title="VNController::multicast\l_sequence_number" alt="" coords="861,395,1035,437"/>
-<area shape="rect" id="node34" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="885,1552,1011,1579"/>
-<area shape="rect" id="node35" href="$db/d35/classVrfTable.html#a4a46eb3a9a23b17f4031c8fd4212e3f0" title="VrfTable::GetEvpnRouteTable" alt="" coords="843,1735,1053,1761"/>
-<area shape="rect" id="node36" href="$dd/dec/controller__peer_8cc.html#a020b19e15756d4871ae793a670c70f56" title="ParseEvpnAddress" alt="" coords="593,1836,735,1863"/>
-<area shape="rect" id="node37" href="$d3/df5/classMacAddress.html#a63ee1ae1fe8920701c228d2c89cbb532" title="MacAddress::IsMulticast" alt="" coords="575,1887,753,1913"/>
-<area shape="rect" id="node38" href="$d3/df5/classMacAddress.html#a6fb1333e2f0a73a54b04ab3d81876561" title="MacAddress::BroadcastMac" alt="" coords="849,1999,1047,2025"/>
-<area shape="rect" id="node39" href="$d8/dfe/classAgent.html#a69109a71e7b00199ef93020e625241f0" title="Agent::tsn_enabled" alt="" coords="591,2140,737,2167"/>
-<area shape="rect" id="node40" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title="EvpnAgentRouteTable\l::DeleteReq" alt="" coords="583,1333,745,1374"/>
-<area shape="rect" id="node41" href="$dc/d5b/classVxlanRoutingManager.html#a2722350adb0570b4b967aa8ef8799b9c" title="Checks whether VxLAN routing manager is enabled or not. " alt="" coords="866,1603,1030,1645"/>
-<area shape="rect" id="node42" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type. " alt="" coords="866,1669,1030,1710"/>
-<area shape="rect" id="node43" href="$dd/dec/controller__peer_8cc.html#abbe5acc813b9bad0fc2a745e657e896f" title="InetRequestDelete" alt="" coords="593,1399,735,1425"/>
-<area shape="rect" id="node44" href="$da/d25/classAgentXmppChannel.html#a23d0bb9919c59bd5d4bc898f5234b0f5" title="AgentXmppChannel::AddMulticast\lEvpnRoute" alt="" coords="827,1869,1069,1910"/>
-<area shape="rect" id="node45" href="$da/d25/classAgentXmppChannel.html#af39767ba27c71134efe2fdc93bb3f1e7" title="AgentXmppChannel::IsEcmp" alt="" coords="561,1449,767,1476"/>
-<area shape="rect" id="node46" href="$da/d25/classAgentXmppChannel.html#a1225ba9655f24c60c08bc39c5eca7b22" title="AgentXmppChannel::AddEvpn\lEcmpRoute" alt="" coords="556,1551,772,1593"/>
-<area shape="rect" id="node47" href="$da/d25/classAgentXmppChannel.html#a69076bad056b09ef6a2768b17c8a7c2a" title="AgentXmppChannel::AddEvpn\lRoute" alt="" coords="556,1719,772,1761"/>
-<area shape="rect" id="node49" href="$d2/d3d/classVrfEntry.html#ace38389f8bea493488fc65105808a3fb" title="VrfEntry::GetInet4MplsUnicast\lRouteTable" alt="" coords="839,1091,1057,1133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,968,197,1009"/>
+<area shape="rect" id="node2" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title=" " alt="" coords="797,817,965,859"/>
+<area shape="rect" id="node3" href="$d7/df0/structControllerTimer.html#afc007651cf1a474b87968c67e0a6e777" title=" " alt="" coords="276,1425,435,1451"/>
+<area shape="rect" id="node6" href="$da/d25/classAgentXmppChannel.html#a4a9ce922706211bb4c72b2653918f918" title=" " alt="" coords="534,181,701,223"/>
+<area shape="rect" id="node7" href="$da/d25/classAgentXmppChannel.html#a438486447b2f062dde4cf777f530e414" title=" " alt="" coords="245,437,465,463"/>
+<area shape="rect" id="node16" href="$da/d25/classAgentXmppChannel.html#af86ed526058bb539374092a495dc6196" title=" " alt="" coords="785,1131,976,1172"/>
+<area shape="rect" id="node17" href="$d0/d98/classAgentStats.html#a28c8cb8b9eb359da7b7180a3e7f5a46e" title=" " alt="" coords="278,1476,433,1517"/>
+<area shape="rect" id="node18" href="$da/d25/classAgentXmppChannel.html#ae1f51c45643d4ee45d49ac0cbd5e42ec" title=" " alt="" coords="259,1308,451,1349"/>
+<area shape="rect" id="node37" href="$da/d25/classAgentXmppChannel.html#ab59c79c29254d3441d422d5e6845de24" title=" " alt="" coords="521,939,713,980"/>
+<area shape="rect" id="node41" href="$da/d25/classAgentXmppChannel.html#a49d1634a8a0ec2955473a4f16c3a0e07" title=" " alt="" coords="521,116,713,157"/>
+<area shape="rect" id="node46" href="$da/d25/classAgentXmppChannel.html#aaaa8a4c41e0e9f090b0e40742903b139" title=" " alt="" coords="521,669,713,711"/>
+<area shape="rect" id="node48" href="$da/d25/classAgentXmppChannel.html#a228f27c31a4f35e5f3ac49f769c72e79" title=" " alt="" coords="521,1611,713,1652"/>
+<area shape="rect" id="node50" href="$d8/dfe/classAgent.html#ad2407e84fb59a24da5d98907217daf10" title=" " alt="" coords="309,1542,402,1569"/>
+<area shape="rect" id="node4" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="566,1981,669,2007"/>
+<area shape="rect" id="node5" href="$d7/df0/structControllerTimer.html#af5c1a42a32ad9471183ef57809e6b003" title=" " alt="" coords="524,1930,711,1957"/>
+<area shape="rect" id="node8" href="$da/d25/classAgentXmppChannel.html#a041fde0d9d06b33868f20754b53cabb2" title=" " alt="" coords="528,298,707,325"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a1b0cf9df83125a41962254ea9d6a6495" title=" " alt="" coords="822,635,939,662"/>
+<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#ad4410ffcf2dd7ddee481a02f1510d904" title=" " alt="" coords="544,349,691,375"/>
+<area shape="rect" id="node11" href="$d6/d9c/classMulticastHandler.html#a2a8a5c63cd88bf32299e5a99ccb903eb" title=" " alt="" coords="513,247,721,274"/>
+<area shape="rect" id="node13" href="$df/def/classVNController.html#a5ddcc15ee10e77746fe718779593c7e9" title=" " alt="" coords="531,400,704,441"/>
+<area shape="rect" id="node14" href="$d6/d9c/classMulticastHandler.html#ac9bcf89f52b68d87fff85f5340874313" title=" " alt="" coords="518,466,717,493"/>
+<area shape="rect" id="node15" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="545,517,689,543"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#af5bfcc0c7ba22480d6d3c4fc96e96386" title=" " alt="" coords="807,240,954,281"/>
+<area shape="rect" id="node19" href="$da/d25/classAgentXmppChannel.html#a1225ba9655f24c60c08bc39c5eca7b22" title=" " alt="" coords="518,1107,717,1148"/>
+<area shape="rect" id="node20" href="$db/d35/classVrfTable.html#a4a46eb3a9a23b17f4031c8fd4212e3f0" title=" " alt="" coords="783,1403,978,1430"/>
+<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="823,1353,938,1379"/>
+<area shape="rect" id="node22" href="$da/d25/classAgentXmppChannel.html#a69076bad056b09ef6a2768b17c8a7c2a" title=" " alt="" coords="518,1493,717,1535"/>
+<area shape="rect" id="node23" href="$da/d25/classAgentXmppChannel.html#a23d0bb9919c59bd5d4bc898f5234b0f5" title=" " alt="" coords="769,1673,992,1715"/>
+<area shape="rect" id="node24" href="$d3/df5/classMacAddress.html#a6fb1333e2f0a73a54b04ab3d81876561" title=" " alt="" coords="787,1505,974,1531"/>
+<area shape="rect" id="node25" href="$dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type." alt="" coords="805,1739,956,1780"/>
+<area shape="rect" id="node26" href="$dc/d5b/classVxlanRoutingManager.html#a2722350adb0570b4b967aa8ef8799b9c" title="Checks whether VxLAN routing manager is enabled or not." alt="" coords="805,1556,956,1597"/>
+<area shape="rect" id="node27" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="1080,883,1191,910"/>
+<area shape="rect" id="node28" href="$de/d8b/classEvpnAgentRouteTable.html#af7304f0aa3eee4c7cec587799434c1a7" title=" " alt="" coords="541,1224,693,1265"/>
+<area shape="rect" id="node29" href="$dd/dec/controller__peer_8cc.html#abbe5acc813b9bad0fc2a745e657e896f" title=" " alt="" coords="552,1829,683,1855"/>
+<area shape="rect" id="node31" href="$da/d25/classAgentXmppChannel.html#af39767ba27c71134efe2fdc93bb3f1e7" title=" " alt="" coords="1040,1622,1231,1649"/>
+<area shape="rect" id="node32" href="$d3/df5/classMacAddress.html#a20a26b7bad7f15b9a94764ca680d08e9" title=" " alt="" coords="534,1290,701,1317"/>
+<area shape="rect" id="node33" href="$dc/dff/classOperDB.html#a16c2477c96c50d4de6795ac7da1f38d5" title=" " alt="" coords="815,585,946,611"/>
+<area shape="rect" id="node34" href="$dd/dec/controller__peer_8cc.html#a020b19e15756d4871ae793a670c70f56" title=" " alt="" coords="550,1173,685,1199"/>
+<area shape="rect" id="node36" href="$d8/dfe/classAgent.html#a61d6c826df9862838459ca07171b5607" title=" " alt="" coords="550,1341,685,1367"/>
+<area shape="rect" id="node30" href="$da/dcd/classInetUnicastAgentRouteTable.html#acbec4b79373a009b950f3f837b9c6be8" title=" " alt="" coords="786,1807,975,1848"/>
+<area shape="rect" id="node35" href="$dd/dea/address_8cc.html#ac81869ebfad571493842d6bd199c8e01" title=" " alt="" coords="826,1197,935,1223"/>
+<area shape="rect" id="node38" href="$da/d25/classAgentXmppChannel.html#a29ffd5bc8854aefcc73564346dbbd4d1" title=" " alt="" coords="782,1065,979,1107"/>
+<area shape="rect" id="node39" href="$da/dcd/classInetUnicastAgentRouteTable.html#adee4777f6a8da269eeacf4bf75784469" title=" " alt="" coords="786,935,975,976"/>
+<area shape="rect" id="node40" href="$d2/d3d/classVrfEntry.html#a3e254dad18c6125a7aac8e4c449b3958" title=" " alt="" coords="780,1000,981,1041"/>
+<area shape="rect" id="node42" href="$d6/d9c/classMulticastHandler.html#a2cadbce885adaac7ec9545e7c6b016dc" title=" " alt="" coords="797,5,964,47"/>
+<area shape="rect" id="node43" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title=" " alt="" coords="805,71,957,98"/>
+<area shape="rect" id="node44" href="$d8/dfe/classAgent.html#a122ffa3768fd8326c52f8edd30a4ff18" title=" " alt="" coords="799,419,962,446"/>
+<area shape="rect" id="node45" href="$df/def/classVNController.html#ae41cc7870d0d4aa4b27fdb839d56f779" title=" " alt="" coords="801,123,960,164"/>
+<area shape="rect" id="node47" href="$d6/d9c/classMulticastHandler.html#abd41bec8df1475c5a33ba54f6aa5f5e1" title=" " alt="" coords="797,687,964,728"/>
+<area shape="rect" id="node49" href="$da/d25/classAgentXmppChannel.html#afa47954c04dfa52af8e9efa6b18984b8" title=" " alt="" coords="779,1622,983,1649"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="etcdserverpb::ResponseHeader::SerializeWithCachedSizes" name="etcdserverpb::ResponseHeader::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#afa968835b70f26e6a8be23c380256fe4" title="etcdserverpb::ResponseHeader\l::cluster_id" alt="" coords="277,5,501,46"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a12445b0732df1b2118af903f5e78d667" title="etcdserverpb::ResponseHeader\l::member_id" alt="" coords="277,70,501,111"/>
-<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a8ca23e0975b1cf990949437416ae00f8" title="etcdserverpb::ResponseHeader\l::revision" alt="" coords="277,135,501,177"/>
-<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a593bcd10a2e99360d6cd4fb78e02b411" title="etcdserverpb::ResponseHeader\l::raft_term" alt="" coords="277,201,501,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,212,145"/>
+<area shape="rect" id="node2" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a70d72edf2a2db7b3b24ef8276498ea7b" title=" " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ada10fe6d49fac5847ad8142e9326836f" title=" " alt="" coords="260,71,467,112"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab14deac0df36ca020d2b50531fb7f233" title=" " alt="" coords="260,136,467,177"/>
+<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ae878b35c2f5c5abc0e357daecd20f762" title=" " alt="" coords="260,201,467,243"/>
 </map>

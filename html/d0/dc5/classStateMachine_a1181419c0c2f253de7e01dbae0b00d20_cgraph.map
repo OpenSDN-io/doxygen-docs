@@ -1,6 +1,7 @@
 <map id="StateMachine::reset_last_info" name="StateMachine::reset_last_info">
-<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title="StateMachine::peer" alt="" coords="248,5,395,32"/>
-<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#a4927f09dfd81bbbc1cccff1487e6d6f5" title="StateMachine::StateName" alt="" coords="226,56,417,83"/>
-<area shape="rect" id="node4" href="$d0/dc5/classStateMachine.html#a3336894245e1fea375f2c79074ed07c4" title="StateMachine::LastStateName" alt="" coords="212,107,431,133"/>
-<area shape="rect" id="node5" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title="StateMachine::BGPPeerInfoSend" alt="" coords="206,157,437,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,144,115"/>
+<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title=" " alt="" coords="192,5,407,32"/>
+<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#ad5d6177f0ee43443091ced7b0a37ed6a" title=" " alt="" coords="199,56,400,83"/>
+<area shape="rect" id="node4" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title=" " alt="" coords="232,107,367,133"/>
+<area shape="rect" id="node5" href="$d0/dc5/classStateMachine.html#a92dbcb1a3de7d10383c4a26d49174f23" title=" " alt="" coords="211,157,387,184"/>
 </map>

@@ -8,9 +8,9 @@ var structBgpAttrOrigin =
     [ "BgpAttrOrigin", "d2/d67/structBgpAttrOrigin.html#a3f3739ccc16b04f4d1dcfe4b913cbddb", null ],
     [ "BgpAttrOrigin", "d2/d67/structBgpAttrOrigin.html#aae1b32d206975b542f0bdd0cba21e96f", null ],
     [ "BgpAttrOrigin", "d2/d67/structBgpAttrOrigin.html#a6eb3095add462a33723458f6e7505726", null ],
-    [ "CompareTo", "d2/d67/structBgpAttrOrigin.html#aba2f6df311783bb39a3ea3d3928e5b40", null ],
+    [ "CompareTo", "d2/d67/structBgpAttrOrigin.html#aa03425e2c9efc1ddded677dee70ca28b", null ],
     [ "ToCanonical", "d2/d67/structBgpAttrOrigin.html#ad78f39918fa8f0c54862986eee8bedde", null ],
-    [ "ToString", "d2/d67/structBgpAttrOrigin.html#aab7750ef751684c37f2f34a76b98ba32", null ],
+    [ "ToString", "d2/d67/structBgpAttrOrigin.html#a3bf01a5dcd42f4c08bf714804d483735", null ],
     [ "kFlags", "d2/d67/structBgpAttrOrigin.html#ac0c555ff0a2ba44c4d4c5365e830dd08", null ],
     [ "kSize", "d2/d67/structBgpAttrOrigin.html#aff19e1cf730b72aadc637d93c540c7a8", null ],
     [ "origin", "d2/d67/structBgpAttrOrigin.html#a174316fca364068017baa4976d3a87ec", null ]

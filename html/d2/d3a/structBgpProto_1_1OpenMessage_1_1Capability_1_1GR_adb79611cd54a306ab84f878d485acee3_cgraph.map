@@ -1,7 +1,8 @@
 <map id="BgpProto::OpenMessage::Capability::GR::Decode" name="BgpProto::OpenMessage::Capability::GR::Decode">
-<area shape="rect" id="node2" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a6e2671e791fbf1282fc878054e6bf10a" title="BgpProto::OpenMessage\l::Capability::GR::Initialize" alt="" coords="236,5,423,46"/>
-<area shape="rect" id="node3" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title="get_value" alt="" coords="286,71,373,97"/>
-<area shape="rect" id="node5" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a864fd55d04de8ff9e902d255cdf7baea" title="BgpProto::OpenMessage\l::Capability::GR::set_flags" alt="" coords="235,122,423,163"/>
-<area shape="rect" id="node6" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a93f72ec1ed03f4165755dabdbaa466b7" title="BgpProto::OpenMessage\l::Capability::GR::set_time" alt="" coords="236,187,423,229"/>
-<area shape="rect" id="node4" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title="get_short" alt="" coords="472,71,555,97"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,173,131"/>
+<area shape="rect" id="node2" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title=" " alt="" coords="270,5,347,32"/>
+<area shape="rect" id="node4" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a6e2671e791fbf1282fc878054e6bf10a" title=" " alt="" coords="224,57,393,98"/>
+<area shape="rect" id="node5" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a864fd55d04de8ff9e902d255cdf7baea" title=" " alt="" coords="221,122,396,163"/>
+<area shape="rect" id="node6" href="$d2/d3a/structBgpProto_1_1OpenMessage_1_1Capability_1_1GR.html#a93f72ec1ed03f4165755dabdbaa466b7" title=" " alt="" coords="223,187,395,229"/>
+<area shape="rect" id="node3" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title=" " alt="" coords="444,5,521,32"/>
 </map>

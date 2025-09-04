@@ -6,7 +6,7 @@ var classRouteFlowMgmtKey =
     [ "AddrToType", "db/d96/classRouteFlowMgmtKey.html#acd7cf3731c52388c789090d7bde9a6a4", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d96/classRouteFlowMgmtKey.html#adbcb761b04b5be9dcc479bfd846cbdf1", null ],
     [ "RouteToType", "db/d96/classRouteFlowMgmtKey.html#af77b74fa8c61fe341086aba9b6c283f8", null ],
-    [ "UseDBEntry", "db/d96/classRouteFlowMgmtKey.html#a0e9c8edf01d2a149b1ff518fa24a1cc9", null ],
-    [ "vrf_id", "db/d96/classRouteFlowMgmtKey.html#a133e7a80174db0958c25d50c73fc8290", null ],
+    [ "UseDBEntry", "db/d96/classRouteFlowMgmtKey.html#aecb1a903a03e8aa08e15c9b0a164de6d", null ],
+    [ "vrf_id", "db/d96/classRouteFlowMgmtKey.html#ae561089011020a76e84fdd23b7042cf6", null ],
     [ "vrf_id_", "db/d96/classRouteFlowMgmtKey.html#a82eb4c0876a1b165e56fe1307097c298", null ]
 ];

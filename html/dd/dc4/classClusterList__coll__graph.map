@@ -1,7 +1,8 @@
 <map id="ClusterList" name="ClusterList">
-<area shape="rect" id="node2" href="$df/d8b/structClusterListSpec.html" title="ClusterListSpec" alt="" coords="507,13,629,40"/>
-<area shape="rect" id="node3" href="$d9/dc1/classBgpAttribute.html" title="BgpAttribute" alt="" coords="291,5,395,32"/>
-<area shape="rect" id="node4" href="$d3/d38/classParseObject.html" title="ParseObject" alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node5" href="$d6/daf/classClusterListDB.html" title="ClusterListDB" alt="" coords="513,65,623,92"/>
-<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html" title="BgpPathAttributeDB\l\&lt; ClusterList, ClusterList\lPtr, ClusterListSpec, ClusterList\lCompare, ClusterListDB \&gt;" alt="" coords="230,57,455,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="668,43,753,69"/>
+<area shape="rect" id="node2" href="$df/d8b/structClusterListSpec.html" title=" " alt="" coords="409,12,524,39"/>
+<area shape="rect" id="node3" href="$d9/dc1/classBgpAttribute.html" title=" " alt="" coords="207,5,302,32"/>
+<area shape="rect" id="node4" href="$d3/d38/classParseObject.html" title=" " alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$d6/daf/classClusterListDB.html" title=" " alt="" coords="415,68,519,95"/>
+<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html" title=" " alt="" coords="149,57,360,127"/>
 </map>

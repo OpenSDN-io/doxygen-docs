@@ -1,6 +1,7 @@
 <map id="XmppServer::AllocSession" name="XmppServer::AllocSession">
-<area shape="rect" id="node2" href="$d5/d13/classXmppSession.html#a42296f06cb514c738a0e7b80684d118c" title="XmppSession::EnableTcpKeepalive" alt="" coords="246,12,493,39"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a99ff7dcfd321f2299dccf6649fc3c3fe" title="TcpSession::ToUVEKey" alt="" coords="286,63,453,89"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#ae003ac5c35229455c64624c6b5c272f5" title="TcpSession::SetSocketKeepalive\lOptions" alt="" coords="542,5,773,46"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="821,12,965,39"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,184,65"/>
+<area shape="rect" id="node2" href="$d5/d13/classXmppSession.html#a42296f06cb514c738a0e7b80684d118c" title=" " alt="" coords="232,13,459,39"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a324597919c6ba0a4d6410250ef1741e9" title=" " alt="" coords="265,63,426,90"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#ae003ac5c35229455c64624c6b5c272f5" title=" " alt="" coords="507,5,720,47"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="768,13,904,39"/>
 </map>

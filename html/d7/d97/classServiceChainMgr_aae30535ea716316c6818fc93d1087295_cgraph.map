@@ -1,6 +1,7 @@
 <map id="ServiceChainMgr::ResolvePendingServiceChain" name="ServiceChainMgr::ResolvePendingServiceChain">
-<area shape="rect" id="node2" href="$d4/d35/classServiceChainGroup.html#a6b9ac633effd9ceb632ddb24b371f96e" title="ServiceChainGroup::\lDeleteRoutingInstance" alt="" coords="247,5,417,46"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#a939d0d6f79a844af3ec51b255316a0af" title="RoutingInstance::config" alt="" coords="245,71,419,97"/>
-<area shape="rect" id="node5" href="$d6/ddf/classBgpInstanceConfig.html#abd0fe0015c89485cf8ee741694880623" title="BgpInstanceConfig::\lservice_chain_info" alt="" coords="257,122,407,163"/>
-<area shape="rect" id="node3" href="$d2/d23/classIServiceChainMgr.html#a35a7af97bf65b2295b464c112705cf8d" title="IServiceChainMgr::Update\lServiceChainGroup" alt="" coords="467,5,658,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,183,98"/>
+<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#abb30204a64bd87474ca1869a927f0c85" title=" " alt="" coords="231,5,391,32"/>
+<area shape="rect" id="node3" href="$d4/d35/classServiceChainGroup.html#a6b9ac633effd9ceb632ddb24b371f96e" title=" " alt="" coords="233,57,388,98"/>
+<area shape="rect" id="node5" href="$d6/ddf/classBgpInstanceConfig.html#a9e49fc119f7b7b5ca0c584620daec707" title=" " alt="" coords="240,122,381,163"/>
+<area shape="rect" id="node4" href="$d2/d23/classIServiceChainMgr.html#a35a7af97bf65b2295b464c112705cf8d" title=" " alt="" coords="439,57,616,98"/>
 </map>

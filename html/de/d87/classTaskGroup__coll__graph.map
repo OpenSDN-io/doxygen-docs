@@ -1,5 +1,6 @@
 <map id="TaskGroup" name="TaskGroup">
-<area shape="rect" id="node3" href="$d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt; " alt="" coords="174,200,259,227"/>
-<area shape="rect" id="node2" href="$d9/d8c/structTaskStats.html" title="TaskStats" alt="" coords="188,5,271,32"/>
-<area shape="rect" id="node4" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="345,96,395,123"/>
+<area shape="rect" id="node1" title="TaskGroup maintains per &lt;task&#45;id&gt; information including,." alt="" coords="97,95,182,121"/>
+<area shape="rect" id="node3" href="$d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt;" alt="" coords="153,199,235,225"/>
+<area shape="rect" id="node2" href="$d9/d8c/structTaskStats.html" title=" " alt="" coords="153,5,235,32"/>
+<area shape="rect" id="node4" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="314,95,365,121"/>
 </map>

@@ -6,9 +6,9 @@ var classBFD_1_1Client =
     [ "DeleteClientSessions", "d7/d4a/classBFD_1_1Client.html#a1712a2c4b278fa42050d4f9963b874ce", null ],
     [ "DeleteSession", "d7/d4a/classBFD_1_1Client.html#a864dae0fab85efd75ae8a65e98e31017", null ],
     [ "GetConnection", "d7/d4a/classBFD_1_1Client.html#aeb33474ef445c3cde6a35d72f9390c58", null ],
-    [ "GetSession", "d7/d4a/classBFD_1_1Client.html#a7d199f31b91f391e4432374ed65b6fc8", null ],
+    [ "GetSession", "d7/d4a/classBFD_1_1Client.html#a2e58f08b5364e0e4adc3bfb0486c5a50", null ],
     [ "Notify", "d7/d4a/classBFD_1_1Client.html#a145416ced9ecfec4565aca07562d8b69", null ],
-    [ "Up", "d7/d4a/classBFD_1_1Client.html#afd059edcea4c10f90a203bead987d470", null ],
+    [ "Up", "d7/d4a/classBFD_1_1Client.html#a640dbf758f17ad31c062705bce74f26a", null ],
     [ "cm_", "d7/d4a/classBFD_1_1Client.html#a43901850056148a6a87fb4c2230792ec", null ],
     [ "id_", "d7/d4a/classBFD_1_1Client.html#aa7834495812e7cdede9603521f7491db", null ]
 ];

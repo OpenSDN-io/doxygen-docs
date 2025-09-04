@@ -1,3 +1,4 @@
 <map id="TaskScheduler::TaskScheduler" name="TaskScheduler::TaskScheduler">
-<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="270,5,461,46"/>
+<area shape="rect" id="node1" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="256,5,433,47"/>
 </map>

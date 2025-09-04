@@ -1,51 +1,52 @@
 <map id="StateMachine::StartSession" name="StateMachine::StartSession">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#ab02c6f9d1399c2ed4bfed60234135c36" title="BgpPeer::CreateSession" alt="" coords="277,376,454,403"/>
-<area shape="rect" id="node32" href="$d0/dc5/classStateMachine.html#ac0e480534c6a6d0cd8c7e1dbe0707cde" title="StateMachine::set_active\l_session" alt="" coords="273,830,458,871"/>
-<area shape="rect" id="node34" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title="TcpSession::set_observer" alt="" coords="795,837,981,864"/>
-<area shape="rect" id="node42" href="$d0/dc5/classStateMachine.html#a62f52c6da63e7c761e1f9abbca57531e" title="StateMachine::OnSessionEvent" alt="" coords="254,896,477,923"/>
-<area shape="rect" id="node44" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="303,947,428,973"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title="BgpServer::session\l_manager" alt="" coords="557,139,704,181"/>
-<area shape="rect" id="node45" href="$de/df9/classTcpServer.html#a4920ac804ddbc71c1922729de4a3cd6d" title="TcpServer::Connect" alt="" coords="292,728,439,755"/>
-<area shape="rect" id="node50" href="$d3/d2d/classBgpPeer.html#ab2f4334a49e222e80946402b1b84fa6c" title="BgpPeer::peer_key" alt="" coords="293,997,437,1024"/>
-<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#a993b74c2a470e70330bd1eac31bed858" title="BgpPeer::PrefixLimitIdle\lTimerRunning" alt="" coords="541,339,720,381"/>
-<area shape="rect" id="node5" href="$d3/d2d/classBgpPeer.html#a7e37f10864b5aa36408bd911a1627c43" title="BgpPeer::session" alt="" coords="564,405,697,432"/>
-<area shape="rect" id="node7" href="$d1/df7/classBgpSessionManager.html#a54bb4751fb4ba70bec0b7812af6e5280" title="BgpSessionManager::\lCreateSession" alt="" coords="550,507,711,549"/>
-<area shape="rect" id="node16" href="$d3/d2d/classBgpPeer.html#a32c8021fee01ca20c763462c1ff4ef6a" title="BgpPeer::SetSessionSocket\lAuthKey" alt="" coords="531,205,730,246"/>
-<area shape="rect" id="node25" href="$d3/d2d/classBgpPeer.html#ac653c49c4d028ca2621a1634017d2126" title="BgpPeer::BindLocalEndpoint" alt="" coords="529,456,733,483"/>
-<area shape="rect" id="node26" href="$d5/de5/classBgpSession.html#afa411750e22ce2e1caf7ae80d85743b1" title="BgpSession::set_peer" alt="" coords="550,288,711,315"/>
-<area shape="rect" id="node4" href="$dc/dea/classTimer.html#a7c72a98be7a1d0f1ec2db60e351bcb35" title="Timer::running" alt="" coords="829,347,947,373"/>
-<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title="TcpServer::CreateSession" alt="" coords="795,515,981,541"/>
-<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="1584,591,1728,617"/>
-<area shape="rect" id="node11" href="$d2/d0e/classTcpSession.html#ad8740e4f810aa650f174fe6fb31c3e47" title="TcpSession::SetSocketOptions" alt="" coords="1320,489,1536,516"/>
-<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#a5bb53c6f137091a676580e9b4f54c7d8" title="TcpServer::socket_open\l_failure" alt="" coords="801,398,975,439"/>
-<area shape="rect" id="node13" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title="TcpServer::DeleteSession" alt="" coords="795,616,981,643"/>
-<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="1069,515,1243,541"/>
-<area shape="rect" id="node14" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title="TcpSession::Close" alt="" coords="1087,667,1225,693"/>
-<area shape="rect" id="node15" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="1335,667,1521,693"/>
-<area shape="rect" id="node17" href="$d3/d2d/classBgpPeer.html#aec38850975a7d49f6e4e0ccfab2b9a0b" title="BgpPeer::PeerAddress" alt="" coords="805,27,971,53"/>
-<area shape="rect" id="node19" href="$d3/d2d/classBgpPeer.html#a1ca9c1795b5f6eac4c3ffb5a49f39e02" title="BgpPeer::LogInstallAuthKeys" alt="" coords="784,195,992,221"/>
-<area shape="rect" id="node22" href="$d2/d0e/classTcpSession.html#a653bcca1fc3065f242cf9176a038ad6f" title="TcpSession::SetMd5Socket\lOption" alt="" coords="791,99,985,141"/>
-<area shape="rect" id="node18" href="$dd/dde/structBgpPeerKey.html#a5548d60bfd49c2a1647d754cffc53dc6" title="BgpPeerKey::address" alt="" coords="1077,5,1235,32"/>
-<area shape="rect" id="node20" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="1368,140,1488,167"/>
-<area shape="rect" id="node21" href="$d1/df6/classAuthenticationData.html#a23c991a1a30ad7ac37780ee90c0f320a" title="AuthenticationData\l::KeyTypeToString" alt="" coords="1082,158,1230,199"/>
-<area shape="rect" id="node23" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title="TcpSession::server" alt="" coords="1085,107,1227,133"/>
-<area shape="rect" id="node24" href="$de/df9/classTcpServer.html#af4cacf9f0aee1d0fdc69163c60d59c6a" title="TcpServer::SetMd5SocketOption" alt="" coords="1042,56,1270,83"/>
-<area shape="rect" id="node27" href="$d5/de5/classBgpSession.html#aa3ddc60e7d726fbb1b2313b6b69c2a91" title="BgpSession::peer" alt="" coords="821,296,955,323"/>
-<area shape="rect" id="node28" href="$d3/d2d/classBgpPeer.html#a69686c9109f463ecc124fde435bd22f6" title="BgpPeer::GetTaskInstance" alt="" coords="793,245,983,272"/>
-<area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1055,341,1257,368"/>
-<area shape="rect" id="node31" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="1041,275,1271,317"/>
-<area shape="rect" id="node30" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="1320,341,1536,368"/>
-<area shape="rect" id="node33" href="$d0/dc5/classStateMachine.html#a3cafbde5ef6d23ba1d8dc13805e9a6a0" title="StateMachine::DeleteSession" alt="" coords="525,837,736,864"/>
-<area shape="rect" id="node36" href="$d0/dc5/classStateMachine.html#a8e265805a07cd564869ba5498cec8681" title="StateMachine::Enqueue" alt="" coords="801,897,975,924"/>
-<area shape="rect" id="node35" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title="TcpSession::observer" alt="" coords="1077,849,1235,876"/>
-<area shape="rect" id="node37" href="$d0/dc5/classStateMachine.html#aad14cf4d573e5addd350fe6bef5f0fd3" title="StateMachine::LogEvent" alt="" coords="1067,951,1245,977"/>
-<area shape="rect" id="node41" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="1075,900,1237,927"/>
-<area shape="rect" id="node38" href="$d0/dc5/classStateMachine.html#a51cbe0bae3ddb185dd653883ad77c31b" title="StateMachine::get_state" alt="" coords="1339,951,1517,977"/>
-<area shape="rect" id="node39" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="1335,1001,1521,1028"/>
-<area shape="rect" id="node40" href="$d0/dc5/classStateMachine.html#a4927f09dfd81bbbc1cccff1487e6d6f5" title="StateMachine::StateName" alt="" coords="1333,900,1523,927"/>
-<area shape="rect" id="node43" href="$d3/d2d/classBgpPeer.html#a5dfc7692bc2f3d1e68b4130c96984915" title="BgpPeer::inc_connect\l_error" alt="" coords="550,947,711,989"/>
-<area shape="rect" id="node46" href="$de/df9/classTcpServer.html#a80992c9419f511b798cd87cd3cf8140c" title="TcpServer::ConnectHandler" alt="" coords="532,728,729,755"/>
-<area shape="rect" id="node47" href="$de/df9/classTcpServer.html#aef632e92b369b7052eb9941a5d4be47d" title="TcpServer::ConnectHandler\lComplete" alt="" coords="789,769,987,810"/>
-<area shape="rect" id="node48" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title="TcpServer::InsertSession\lToMap" alt="" coords="1066,783,1246,825"/>
-<area shape="rect" id="node49" href="$de/df9/classTcpServer.html#a6754e2fd2c45130c0ff43d6f8604e229" title="TcpServer::RemoveSession\lFromMap" alt="" coords="1058,718,1254,759"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,627,192,654"/>
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#a4920ac804ddbc71c1922729de4a3cd6d" title=" " alt="" coords="274,111,413,138"/>
+<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#ab02c6f9d1399c2ed4bfed60234135c36" title=" " alt="" coords="261,682,426,709"/>
+<area shape="rect" id="node20" href="$db/d26/classBgpServer.html#adec0acb47c2c37fc42da6896ac752061" title=" " alt="" coords="524,936,660,977"/>
+<area shape="rect" id="node35" href="$d0/dc5/classStateMachine.html#a62f52c6da63e7c761e1f9abbca57531e" title=" " alt="" coords="240,541,447,567"/>
+<area shape="rect" id="node45" href="$d3/d2d/classBgpPeer.html#a0f1c64066919793ee5fa3334886c4c26" title=" " alt="" coords="278,783,409,810"/>
+<area shape="rect" id="node46" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title=" " alt="" coords="286,834,401,861"/>
+<area shape="rect" id="node47" href="$d0/dc5/classStateMachine.html#ac0e480534c6a6d0cd8c7e1dbe0707cde" title=" " alt="" coords="259,449,428,491"/>
+<area shape="rect" id="node49" href="$d2/d0e/classTcpSession.html#a88c5dd490387ef487cae83effa4a38a9" title=" " alt="" coords="752,566,925,593"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a80992c9419f511b798cd87cd3cf8140c" title=" " alt="" coords="501,57,683,83"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="1026,162,1162,189"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#aef632e92b369b7052eb9941a5d4be47d" title=" " alt="" coords="747,45,930,87"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title=" " alt="" coords="1009,5,1179,47"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#a6754e2fd2c45130c0ff43d6f8604e229" title=" " alt="" coords="1003,71,1185,112"/>
+<area shape="rect" id="node9" href="$d3/d2d/classBgpPeer.html#ac653c49c4d028ca2621a1634017d2126" title=" " alt="" coords="499,650,685,677"/>
+<area shape="rect" id="node10" href="$d1/df7/classBgpSessionManager.html#a54bb4751fb4ba70bec0b7812af6e5280" title=" " alt="" coords="517,281,667,323"/>
+<area shape="rect" id="node17" href="$d3/d2d/classBgpPeer.html#a06cc62ee3c988583a518e66b3da2955c" title=" " alt="" coords="511,701,673,743"/>
+<area shape="rect" id="node19" href="$d3/d2d/classBgpPeer.html#a7e37f10864b5aa36408bd911a1627c43" title=" " alt="" coords="777,738,901,765"/>
+<area shape="rect" id="node21" href="$d5/de5/classBgpSession.html#afa411750e22ce2e1caf7ae80d85743b1" title=" " alt="" coords="517,885,667,911"/>
+<area shape="rect" id="node26" href="$d3/d2d/classBgpPeer.html#a32c8021fee01ca20c763462c1ff4ef6a" title=" " alt="" coords="499,819,685,860"/>
+<area shape="rect" id="node11" href="$de/df9/classTcpServer.html#a8a756a7ea5037e05e7c8840ff4cfa06f" title=" " alt="" coords="751,263,926,290"/>
+<area shape="rect" id="node13" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title=" " alt="" coords="751,314,926,341"/>
+<area shape="rect" id="node15" href="$d2/d0e/classTcpSession.html#ad8740e4f810aa650f174fe6fb31c3e47" title=" " alt="" coords="737,213,940,239"/>
+<area shape="rect" id="node16" href="$de/df9/classTcpServer.html#a1cc9e1f0bb15486c55e046105a986e1f" title=" " alt="" coords="757,365,920,407"/>
+<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title=" " alt="" coords="1011,263,1177,290"/>
+<area shape="rect" id="node14" href="$d2/d0e/classTcpSession.html#afc8622774097c84a226687c406c65c89" title=" " alt="" coords="1028,355,1160,382"/>
+<area shape="rect" id="node18" href="$dc/dea/classTimer.html#a3894c1a4d1a83029cce2a64970d03d6e" title=" " alt="" coords="786,687,891,714"/>
+<area shape="rect" id="node22" href="$d3/d2d/classBgpPeer.html#adc279e2cf7262d19cf3cd3d3c8c1a2a5" title=" " alt="" coords="749,957,928,983"/>
+<area shape="rect" id="node25" href="$d5/de5/classBgpSession.html#aa3ddc60e7d726fbb1b2313b6b69c2a91" title=" " alt="" coords="776,1007,901,1034"/>
+<area shape="rect" id="node23" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1001,957,1187,983"/>
+<area shape="rect" id="node24" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="989,1008,1199,1049"/>
+<area shape="rect" id="node27" href="$d3/d2d/classBgpPeer.html#a1ca9c1795b5f6eac4c3ffb5a49f39e02" title=" " alt="" coords="743,789,934,815"/>
+<area shape="rect" id="node30" href="$d3/d2d/classBgpPeer.html#a1006a62ba4c1dfbf2fe6edbb2b63bc8f" title=" " alt="" coords="762,906,915,933"/>
+<area shape="rect" id="node32" href="$d2/d0e/classTcpSession.html#a653bcca1fc3065f242cf9176a038ad6f" title=" " alt="" coords="747,840,930,881"/>
+<area shape="rect" id="node28" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title=" " alt="" coords="1299,746,1408,773"/>
+<area shape="rect" id="node29" href="$d1/df6/classAuthenticationData.html#a3a96121ab2ad33482b3a6803e3268d0b" title=" " alt="" coords="1028,739,1160,780"/>
+<area shape="rect" id="node31" href="$dd/dde/structBgpPeerKey.html#a3c7c8984e84d223d6c5ba6dea3e3e6bd" title=" " alt="" coords="1021,906,1167,933"/>
+<area shape="rect" id="node33" href="$d2/d0e/classTcpSession.html#a0c6cc6e638dd8be9522e21170a840459" title=" " alt="" coords="1027,855,1161,882"/>
+<area shape="rect" id="node34" href="$de/df9/classTcpServer.html#af4cacf9f0aee1d0fdc69163c60d59c6a" title=" " alt="" coords="988,805,1200,831"/>
+<area shape="rect" id="node36" href="$d0/dc5/classStateMachine.html#a8e265805a07cd564869ba5498cec8681" title=" " alt="" coords="758,482,919,509"/>
+<area shape="rect" id="node44" href="$d3/d2d/classBgpPeer.html#a5dfc7692bc2f3d1e68b4130c96984915" title=" " alt="" coords="517,533,667,575"/>
+<area shape="rect" id="node37" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1019,447,1169,474"/>
+<area shape="rect" id="node43" href="$d0/dc5/classStateMachine.html#aad14cf4d573e5addd350fe6bef5f0fd3" title=" " alt="" coords="1012,498,1176,525"/>
+<area shape="rect" id="node38" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="1248,338,1459,365"/>
+<area shape="rect" id="node39" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1507,418,1708,445"/>
+<area shape="rect" id="node40" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="1253,440,1454,481"/>
+<area shape="rect" id="node41" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1511,535,1704,562"/>
+<area shape="rect" id="node42" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="1257,557,1450,599"/>
+<area shape="rect" id="node48" href="$d0/dc5/classStateMachine.html#a3cafbde5ef6d23ba1d8dc13805e9a6a0" title=" " alt="" coords="495,431,689,458"/>
+<area shape="rect" id="node50" href="$d2/d0e/classTcpSession.html#adf33e39f41b52baeebf35a7ddb7825eb" title=" " alt="" coords="1020,566,1168,593"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="ShowConfigDBUUIDCache::BufferStageCommon" name="ShowConfigDBUUIDCache::BufferStageCommon">
-<area shape="rect" id="node2" href="$d4/d8a/classIFMapSandeshContext.html#a12ad0de5c658f95f056c0ba101ce16fb" title="IFMapSandeshContext\l::ifmap_server" alt="" coords="261,5,427,46"/>
-<area shape="rect" id="node3" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title="IFMapServer::get_config\l_manager" alt="" coords="255,70,433,111"/>
-<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html#a4ec6669fcf66d60fbaa5c1920bf4782d" title="ConfigClientManager\l::config_db_client" alt="" coords="265,135,423,177"/>
-<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#a3ba378bfdbead414e6ad848ad7f72fef" title="ConfigDbClient::UUIDToObj\lCacheShow" alt="" coords="245,201,443,242"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,188,145"/>
+<area shape="rect" id="node2" href="$de/d27/classConfigClientManager.html#a2d01d066a3bff9cdbadb5ba2f9371cef" title=" " alt="" coords="257,5,401,47"/>
+<area shape="rect" id="node3" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title=" " alt="" coords="247,71,412,112"/>
+<area shape="rect" id="node4" href="$d4/d8a/classIFMapSandeshContext.html#a12ad0de5c658f95f056c0ba101ce16fb" title=" " alt="" coords="251,136,407,177"/>
+<area shape="rect" id="node5" href="$df/dc8/classConfigDbClient.html#a3ba378bfdbead414e6ad848ad7f72fef" title=" " alt="" coords="236,201,423,243"/>
 </map>

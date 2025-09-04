@@ -1,29 +1,52 @@
 <map id="bgp_ribout_updates.cc" name="bgp_ribout_updates.cc">
-<area shape="rect" id="node2" href="$d6/dcd/bgp__ribout__updates_8h.html" title="bgp/bgp_ribout_updates.h" alt="" coords="2266,485,2456,512"/>
-<area shape="rect" id="node9" href="$d6/de9/task__annotations_8h.html" title="base/task_annotations.h" alt="" coords="508,403,689,429"/>
-<area shape="rect" id="node19" href="$d1/d1a/bgp__log_8h.html" title="bgp/bgp_log.h" alt="" coords="661,80,773,107"/>
-<area shape="rect" id="node32" href="$d0/d7f/bgp__ribout_8h.html" title="bgp/bgp_ribout.h" alt="" coords="1225,245,1356,272"/>
-<area shape="rect" id="node40" href="$d2/d82/bgp__route_8h.html" title="bgp/bgp_route.h" alt="" coords="1423,320,1549,347"/>
-<area shape="rect" id="node43" href="$d2/d9a/bgp__update__queue_8h.html" title="bgp/bgp_update_queue.h" alt="" coords="1974,80,2159,107"/>
-<area shape="rect" id="node46" href="$db/d3a/bgp__update__monitor_8h.html" title="bgp/bgp_update_monitor.h" alt="" coords="2809,403,3004,429"/>
-<area shape="rect" id="node47" href="$d6/d17/bgp__update__sender_8h.html" title="bgp/bgp_update_sender.h" alt="" coords="2317,320,2504,347"/>
-<area shape="rect" id="node50" href="$dc/d40/message__builder_8h.html" title="bgp/message_builder.h" alt="" coords="813,245,984,272"/>
-<area shape="rect" id="node5" href="$d8/d3c/util_8h.html" title="base/util.h" alt="" coords="2500,568,2591,595"/>
-<area shape="rect" id="node12" href="$db/da4/task_8h.html" title="base/task.h" alt="" coords="1687,485,1784,512"/>
-<area shape="rect" id="node21" href="$d5/d77/logging_8h.html" title="base/logging.h" alt="" coords="287,163,404,189"/>
-<area shape="rect" id="node25" href="$d6/d53/bgp__server_8h.html" title="bgp/bgp_server.h" alt="" coords="823,485,956,512"/>
-<area shape="rect" id="node27" href="$d8/d86/ipeer_8h.html" title="bgp/ipeer.h" alt="" coords="530,320,624,347"/>
-<area shape="rect" id="node30" href="$d2/d36/bgp__table_8h.html" title="bgp/bgp_table.h" alt="" coords="1053,163,1179,189"/>
-<area shape="rect" id="node26" href="$d9/d9b/address_8h.html" title="base/address.h" alt="" coords="777,568,897,595"/>
-<area shape="rect" id="node28" href="$df/de9/bgp__proto_8h.html" title="bgp/bgp_proto.h" alt="" coords="967,403,1093,429"/>
-<area shape="rect" id="node29" href="$d7/d4d/bgp__attr_8h.html" title="bgp/bgp_attr.h" alt="" coords="1031,485,1145,512"/>
-<area shape="rect" id="node31" href="$d3/d0d/bgp__rib__policy_8h.html" title="bgp/bgp_rib_policy.h" alt="" coords="967,320,1121,347"/>
-<area shape="rect" id="node35" href="$d1/d69/bitset_8h.html" title="base/bitset.h" alt="" coords="1455,485,1561,512"/>
-<area shape="rect" id="node36" href="$dc/df9/index__map_8h.html" title="base/index_map.h" alt="" coords="1999,403,2140,429"/>
-<area shape="rect" id="node37" href="$dd/d61/db__entry_8h.html" title="db/db_entry.h" alt="" coords="1321,485,1431,512"/>
-<area shape="rect" id="node38" href="$d2/d0d/tunnel__encap__type_8h.html" title="net/tunnel_encap_type.h" alt="" coords="221,320,403,347"/>
-<area shape="rect" id="node41" href="$db/d57/bgp__path_8h.html" title="bgp/bgp_path.h" alt="" coords="1424,403,1547,429"/>
-<area shape="rect" id="node42" href="$d9/d7f/route_8h.html" title="route/route.h" alt="" coords="1621,403,1728,429"/>
-<area shape="rect" id="node45" href="$d9/d03/bgp__update_8h.html" title="bgp/bgp_update.h" alt="" coords="1997,163,2136,189"/>
-<area shape="rect" id="node49" href="$d5/d47/queue__task_8h.html" title="base/queue_task.h" alt="" coords="2316,403,2460,429"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1749,5,1903,32"/>
+<area shape="rect" id="node2" href="$d6/dcd/bgp__ribout__updates_8h.html" title=" " alt="" coords="626,483,799,509"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2581,565,2636,591"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2618,162,2789,189"/>
+<area shape="rect" id="node9" href="$d6/de9/task__annotations_8h.html" title=" " alt="" coords="373,401,537,427"/>
+<area shape="rect" id="node19" href="$d1/d1a/bgp__log_8h.html" title=" " alt="" coords="2269,80,2375,107"/>
+<area shape="rect" id="node32" href="$d0/d7f/bgp__ribout_8h.html" title=" " alt="" coords="2131,244,2249,271"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3087,80,3239,107"/>
+<area shape="rect" id="node40" href="$d2/d82/bgp__route_8h.html" title=" " alt="" coords="1066,319,1183,345"/>
+<area shape="rect" id="node43" href="$d2/d9a/bgp__update__queue_8h.html" title=" " alt="" coords="1371,80,1540,107"/>
+<area shape="rect" id="node46" href="$db/d3a/bgp__update__monitor_8h.html" title=" " alt="" coords="1456,401,1633,427"/>
+<area shape="rect" id="node47" href="$d6/d17/bgp__update__sender_8h.html" title=" " alt="" coords="1207,319,1381,345"/>
+<area shape="rect" id="node50" href="$dc/d40/message__builder_8h.html" title=" " alt="" coords="2747,244,2905,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="451,565,598,591"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1640,565,1697,591"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html" title=" " alt="" coords="1174,565,1257,591"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1227,647,1356,673"/>
+<area shape="rect" id="node10" title=" " alt="" coords="322,483,386,509"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1281,565,1321,591"/>
+<area shape="rect" id="node12" href="$db/da4/task_8h.html" title=" " alt="" coords="410,483,501,509"/>
+<area shape="rect" id="node13" title=" " alt="" coords="623,565,773,591"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2127,565,2173,591"/>
+<area shape="rect" id="node15" title=" " alt="" coords="883,565,974,591"/>
+<area shape="rect" id="node16" title=" " alt="" coords="161,565,323,591"/>
+<area shape="rect" id="node17" title=" " alt="" coords="347,565,427,591"/>
+<area shape="rect" id="node18" title=" " alt="" coords="5,557,137,599"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2168,155,2319,196"/>
+<area shape="rect" id="node21" href="$d5/d77/logging_8h.html" title=" " alt="" coords="1818,162,1925,189"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1999,162,2143,189"/>
+<area shape="rect" id="node25" href="$d6/d53/bgp__server_8h.html" title=" " alt="" coords="2091,483,2215,509"/>
+<area shape="rect" id="node27" href="$d8/d86/ipeer_8h.html" title=" " alt="" coords="2585,319,2672,345"/>
+<area shape="rect" id="node30" href="$d2/d36/bgp__table_8h.html" title=" " alt="" coords="2343,162,2459,189"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1728,244,1855,271"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1879,244,2055,271"/>
+<area shape="rect" id="node26" href="$d9/d9b/address_8h.html" title=" " alt="" coords="2197,565,2308,591"/>
+<area shape="rect" id="node28" href="$df/de9/bgp__proto_8h.html" title=" " alt="" coords="2405,401,2522,427"/>
+<area shape="rect" id="node29" href="$d7/d4d/bgp__attr_8h.html" title=" " alt="" coords="1807,483,1914,509"/>
+<area shape="rect" id="node31" href="$d3/d0d/bgp__rib__policy_8h.html" title=" " alt="" coords="2316,319,2459,345"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1816,319,1975,345"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1506,483,1581,509"/>
+<area shape="rect" id="node35" href="$d1/d69/bitset_8h.html" title=" " alt="" coords="2493,483,2589,509"/>
+<area shape="rect" id="node36" href="$dc/df9/index__map_8h.html" title=" " alt="" coords="2151,401,2279,427"/>
+<area shape="rect" id="node37" href="$dd/d61/db__entry_8h.html" title=" " alt="" coords="874,483,975,509"/>
+<area shape="rect" id="node38" href="$d2/d0d/tunnel__encap__type_8h.html" title=" " alt="" coords="2696,319,2860,345"/>
+<area shape="rect" id="node41" href="$db/d57/bgp__path_8h.html" title=" " alt="" coords="1760,401,1873,427"/>
+<area shape="rect" id="node42" href="$d9/d7f/route_8h.html" title=" " alt="" coords="768,401,863,427"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1443,244,1481,271"/>
+<area shape="rect" id="node45" href="$d9/d03/bgp__update_8h.html" title=" " alt="" coords="1493,162,1620,189"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1197,393,1330,435"/>
+<area shape="rect" id="node49" href="$d5/d47/queue__task_8h.html" title=" " alt="" coords="989,401,1121,427"/>
 </map>

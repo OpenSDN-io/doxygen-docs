@@ -1,8 +1,9 @@
 <map id="etcdserverpb::MemberUpdateRequest::New" name="etcdserverpb::MemberUpdateRequest::New">
-<area shape="rect" id="node2" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#a747d19371b5e4eabab4bf2522ef636ed" title="etcdserverpb::MemberUpdate\lRequest::MemberUpdateRequest" alt="" coords="269,86,504,127"/>
-<area shape="rect" id="node3" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#aa684c228c6a9d91e7144c9fbb98debbc" title="etcdserverpb::MemberUpdate\lRequest::internal_default\l_instance" alt="" coords="574,5,789,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a4b8fc6eebee4ea95b048dee85673d28f" title="protobuf_rpc_2eproto\l::InitDefaultsMemberUpdateRequest" alt="" coords="552,86,811,127"/>
-<area shape="rect" id="node7" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#a11575c94575164e953f2b1b2f9d4b564" title="etcdserverpb::MemberUpdate\lRequest::SharedCtor" alt="" coords="574,151,789,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a067e0662052da1301e63d5a34a648732" title="protobuf_rpc_2eproto\l::InitDefaultsMemberUpdateRequestImpl" alt="" coords="859,86,1146,127"/>
-<area shape="rect" id="node6" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#ae7b225a4c5fc9f76ec02ad4d5e5b715f" title="etcdserverpb::MemberUpdate\lRequest::InitAsDefaultInstance" alt="" coords="1195,86,1418,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,200,120"/>
+<area shape="rect" id="node2" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#a747d19371b5e4eabab4bf2522ef636ed" title=" " alt="" coords="248,79,463,120"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a4b8fc6eebee4ea95b048dee85673d28f" title=" " alt="" coords="511,5,745,47"/>
+<area shape="rect" id="node6" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#aa684c228c6a9d91e7144c9fbb98debbc" title=" " alt="" coords="531,71,725,127"/>
+<area shape="rect" id="node7" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#a11575c94575164e953f2b1b2f9d4b564" title=" " alt="" coords="531,152,725,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a067e0662052da1301e63d5a34a648732" title=" " alt="" coords="793,5,1052,47"/>
+<area shape="rect" id="node5" href="$d0/ddb/classetcdserverpb_1_1MemberUpdateRequest.html#ae7b225a4c5fc9f76ec02ad4d5e5b715f" title=" " alt="" coords="1100,5,1304,47"/>
 </map>

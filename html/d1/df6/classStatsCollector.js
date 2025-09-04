@@ -7,7 +7,7 @@ var classStatsCollector =
     [ "StatsCollector", "d1/df6/classStatsCollector.html#ad5636243ce22d2e8a948b294945e6e54", null ],
     [ "~StatsCollector", "d1/df6/classStatsCollector.html#ad13082de2f55fe1f0196e61f63bfe138", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d1/df6/classStatsCollector.html#a60147508e58882aafe670c416593fe7c", null ],
-    [ "expiry_time", "d1/df6/classStatsCollector.html#ae9ee2dcf662c856e6caecc5bfc7dfc60", null ],
+    [ "expiry_time", "d1/df6/classStatsCollector.html#aa7f35f0854225133b50f1818e5f3899d", null ],
     [ "InitDone", "d1/df6/classStatsCollector.html#ae3a218abe62fbaa12ad2b41fb541a868", null ],
     [ "RescheduleTimer", "d1/df6/classStatsCollector.html#ac1b7ef61a0ce13a3731d97de3b10fee6", null ],
     [ "RestartTimer", "d1/df6/classStatsCollector.html#a3bc4bc08a99b4a4027f09732d8a9408d", null ],

@@ -41,5 +41,6 @@ var namespacedetail =
     [ "ContextIterator", "dd/d31/structdetail_1_1ContextIterator.html", "dd/d31/structdetail_1_1ContextIterator" ],
     [ "ContextIterator< void >", "d0/d6d/structdetail_1_1ContextIterator_3_01void_01_4.html", "d0/d6d/structdetail_1_1ContextIterator_3_01void_01_4" ],
     [ "SaveOffset", "d3/dcb/structdetail_1_1SaveOffset.html", "d3/dcb/structdetail_1_1SaveOffset" ],
-    [ "SaveOffset< void >", "d0/d55/structdetail_1_1SaveOffset_3_01void_01_4.html", "d0/d55/structdetail_1_1SaveOffset_3_01void_01_4" ]
+    [ "SaveOffset< void >", "d0/d55/structdetail_1_1SaveOffset_3_01void_01_4.html", "d0/d55/structdetail_1_1SaveOffset_3_01void_01_4" ],
+    [ "debug_", "dd/d39/namespacedetail.html#aae5513b1df1c3410143ec0ed8cc0ca31", null ]
 ];

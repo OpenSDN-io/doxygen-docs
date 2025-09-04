@@ -1,7 +1,8 @@
 <map id="DnsUveClient::SendDnsUve" name="DnsUveClient::SendDnsUve">
-<area shape="rect" id="node2" href="$d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b" title="Dns::GetHostName" alt="" coords="256,5,403,32"/>
-<area shape="rect" id="node3" href="$d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662" title="Dns::GetCollector" alt="" coords="261,56,397,83"/>
-<area shape="rect" id="node4" href="$d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b" title="Dns::GetSelfIp" alt="" coords="272,107,387,133"/>
-<area shape="rect" id="node5" href="$d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e" title="Dns::GetVersion" alt="" coords="266,157,393,184"/>
-<area shape="rect" id="node6" href="$d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c" title="MiscUtils::GetBuildInfo" alt="" coords="451,157,621,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,193,108"/>
+<area shape="rect" id="node2" href="$d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662" title=" " alt="" coords="247,5,374,32"/>
+<area shape="rect" id="node3" href="$d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b" title=" " alt="" coords="241,56,380,83"/>
+<area shape="rect" id="node4" href="$d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b" title=" " alt="" coords="256,107,365,133"/>
+<area shape="rect" id="node5" href="$d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e" title=" " alt="" coords="251,157,370,184"/>
+<area shape="rect" id="node6" href="$d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c" title=" " alt="" coords="428,157,585,184"/>
 </map>

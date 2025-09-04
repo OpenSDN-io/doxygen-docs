@@ -1,8 +1,0 @@
-<map id="FlowEntry::SetAclAction" name="FlowEntry::SetAclAction">
-<area shape="rect" id="node2" href="$d0/d2a/flow__entry_8cc.html#a474546b8efd7d58c0ffc5720a14c78c1" title="SetAclListAclAction" alt="" coords="229,31,376,57"/>
-<area shape="rect" id="node3" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="424,5,528,32"/>
-<area shape="rect" id="node4" href="$d0/d2a/flow__entry_8cc.html#a31097c5410a296660e1b87fe87855c9c" title="SetActionStr" alt="" coords="425,56,527,83"/>
-<area shape="rect" id="node5" href="$d3/d1f/classTrafficAction.html#a303861543b4c8ac90455805ab9231091" title="TrafficAction::ActionToString" alt="" coords="576,5,779,32"/>
-<area shape="rect" id="node6" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="617,56,737,83"/>
-<area shape="rect" id="node7" href="$da/d55/structVrfTranslateActionSpec.html#a11dd755721debe8868e028b0f28e759b" title="VrfTranslateActionSpec\l::vrf_name" alt="" coords="591,107,763,149"/>
-</map>

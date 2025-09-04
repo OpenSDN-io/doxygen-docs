@@ -1,23 +1,24 @@
 <map id="StateMachine::PeerClose" name="StateMachine::PeerClose">
-<area shape="rect" id="node2" href="$d0/dc5/classStateMachine.html#af78883b9bff1128095ce0f1d9a338049" title="StateMachine::UpdateFlap\lCount" alt="" coords="259,111,451,153"/>
-<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#a357a8d467ed57bc7f11390afd26aa830" title="BgpPeer::Close" alt="" coords="295,177,415,204"/>
-<area shape="rect" id="node11" href="$d3/d2d/classBgpPeer.html#ae81cde83869aa3f2ca964da4e1ae0c53" title="BgpPeer::AttemptGRHelperMode" alt="" coords="237,228,472,255"/>
-<area shape="rect" id="node13" href="$d0/dc5/classStateMachine.html#a803975d65470cadfbaec1f0e9750441e" title="StateMachine::set_idle\l_hold_time" alt="" coords="270,279,439,321"/>
-<area shape="rect" id="node14" href="$d0/dc5/classStateMachine.html#a913ffa705008a4d00b1e60008f24972d" title="StateMachine::idle\l_hold_time" alt="" coords="565,309,707,350"/>
-<area shape="rect" id="node15" href="$d0/dc5/classStateMachine.html#aa4c85692d4c55436ee254c4b2f4e1196" title="StateMachine::GetIdleHold\lTimeMSecs" alt="" coords="257,397,452,438"/>
-<area shape="rect" id="node16" href="$d0/dc5/classStateMachine.html#a47c6b8d5568964bc6961ebbf8d620722" title="StateMachine::reset\l_hold_time" alt="" coords="279,462,430,503"/>
-<area shape="rect" id="node3" href="$d0/dc5/classStateMachine.html#a51cbe0bae3ddb185dd653883ad77c31b" title="StateMachine::get_state" alt="" coords="547,5,725,32"/>
-<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#a490365d0594a602f89f331148d7325c8" title="BgpPeer::increment\l_flap_count" alt="" coords="561,57,711,98"/>
-<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title="BgpPeer::peer_stats" alt="" coords="560,123,712,149"/>
-<area shape="rect" id="node9" href="$d0/d3f/classIPeerDebugStats.html#a2ec67c033953df6680fb5b5a8f503327" title="IPeerDebugStats::Clear" alt="" coords="550,173,722,200"/>
-<area shape="rect" id="node5" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="821,13,976,40"/>
-<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="824,64,973,91"/>
-<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#a022240911b6f54662656ed3fd3ad06dc" title="BgpPeer::BGPPeerInfoSend" alt="" coords="800,115,997,141"/>
-<area shape="rect" id="node12" href="$d3/d2d/classBgpPeer.html#a4966c7f6cbf9aef2d94d560f3d00e91d" title="BgpPeer::notification" alt="" coords="557,228,715,255"/>
-<area shape="rect" id="node17" href="$d0/dc5/classStateMachine.html#a9c83195d5cb2301512243cb12befb405" title="StateMachine::GetConfigured\lHoldTime" alt="" coords="531,403,741,445"/>
-<area shape="rect" id="node21" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title="StateMachine::peer" alt="" coords="563,469,709,496"/>
-<area shape="rect" id="node22" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title="StateMachine::BGPPeerInfoSend" alt="" coords="521,520,751,547"/>
-<area shape="rect" id="node18" href="$d3/d2d/classBgpPeer.html#a8e3bd84b5190c1fa0c696eea44e2931e" title="BgpPeer::hold_time" alt="" coords="824,360,973,387"/>
-<area shape="rect" id="node19" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title="BgpPeer::server" alt="" coords="836,411,961,437"/>
-<area shape="rect" id="node20" href="$db/d26/classBgpServer.html#ad75f30496312741959a18fa8d08173fa" title="BgpServer::hold_time" alt="" coords="817,461,980,488"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,176,200"/>
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#aeba705d7a3c468fc8f98494b99d3dfe4" title=" " alt="" coords="224,5,439,32"/>
+<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#a357a8d467ed57bc7f11390afd26aa830" title=" " alt="" coords="275,56,388,83"/>
+<area shape="rect" id="node5" href="$d0/dc5/classStateMachine.html#a304e553bf0d603f8b909025b4c888971" title=" " alt="" coords="242,107,421,149"/>
+<area shape="rect" id="node6" href="$d0/dc5/classStateMachine.html#ad545d3c66d7a50f37eb6f006e3c9ede8" title=" " alt="" coords="529,167,659,209"/>
+<area shape="rect" id="node7" href="$d0/dc5/classStateMachine.html#a47c6b8d5568964bc6961ebbf8d620722" title=" " alt="" coords="262,290,401,331"/>
+<area shape="rect" id="node14" href="$d0/dc5/classStateMachine.html#a803975d65470cadfbaec1f0e9750441e" title=" " alt="" coords="254,225,409,266"/>
+<area shape="rect" id="node15" href="$d0/dc5/classStateMachine.html#af78883b9bff1128095ce0f1d9a338049" title=" " alt="" coords="243,447,420,489"/>
+<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#abf3b22af254044c4d894f13d5b827eeb" title=" " alt="" coords="523,5,665,32"/>
+<area shape="rect" id="node8" href="$d0/dc5/classStateMachine.html#aba35014e26e3050e71bbf9d4f347c889" title=" " alt="" coords="487,236,701,263"/>
+<area shape="rect" id="node9" href="$d0/dc5/classStateMachine.html#a56e4c273f04cfbe9a501173a76bd0da5" title=" " alt="" coords="497,287,691,329"/>
+<area shape="rect" id="node13" href="$d0/dc5/classStateMachine.html#a7de3883f6247199098f5e4d49c36b4ca" title=" " alt="" coords="527,353,661,380"/>
+<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#a279594357cb22ad761a8ac8f9fcf8aaf" title=" " alt="" coords="774,244,909,271"/>
+<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#af62d4ffee7f538f9c5c293ff6bdd51f5" title=" " alt="" coords="768,295,915,321"/>
+<area shape="rect" id="node12" href="$d3/d2d/classBgpPeer.html#a5456d4dff0a40c3d80a1d28bed4b7e5d" title=" " alt="" coords="784,345,899,372"/>
+<area shape="rect" id="node16" href="$d0/d3f/classIPeerDebugStats.html#a2ec67c033953df6680fb5b5a8f503327" title=" " alt="" coords="514,404,674,431"/>
+<area shape="rect" id="node17" href="$d0/dc5/classStateMachine.html#aad8b92db393500d4be9a6e95bf2c329d" title=" " alt="" coords="512,455,676,481"/>
+<area shape="rect" id="node18" href="$d3/d2d/classBgpPeer.html#a490365d0594a602f89f331148d7325c8" title=" " alt="" coords="526,506,662,547"/>
+<area shape="rect" id="node22" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title=" " alt="" coords="524,572,664,599"/>
+<area shape="rect" id="node19" href="$d3/d2d/classBgpPeer.html#a798072845d07ac98223db93d44ac3387" title=" " alt="" coords="749,463,933,489"/>
+<area shape="rect" id="node20" href="$d3/d2d/classBgpPeer.html#a1b3c7000ab2d921b0598404e2828567b" title=" " alt="" coords="770,513,913,540"/>
+<area shape="rect" id="node21" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="769,564,913,591"/>
 </map>

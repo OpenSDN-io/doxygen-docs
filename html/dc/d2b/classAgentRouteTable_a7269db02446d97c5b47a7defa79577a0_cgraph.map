@@ -1,7 +1,8 @@
 <map id="AgentRouteTable::DeleteRouteDone" name="AgentRouteTable::DeleteRouteDone">
-<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="320,5,472,32"/>
-<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#aa510876627227108a8dbaa9decae3bb5" title="DBTable::ReleaseWalker" alt="" coords="307,56,485,83"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="563,5,738,32"/>
-<area shape="rect" id="node5" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="587,56,715,83"/>
-<area shape="rect" id="node6" href="$d1/dec/classDBTableWalkMgr.html#a18129067777844344fee0a5e401e7064" title="DBTableWalkMgr::ReleaseWalker" alt="" coords="533,107,768,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,240,57"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="300,5,443,32"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html#aa510876627227108a8dbaa9decae3bb5" title=" " alt="" coords="288,56,455,83"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title=" " alt="" coords="530,5,693,32"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title=" " alt="" coords="551,56,672,83"/>
+<area shape="rect" id="node6" href="$d1/dec/classDBTableWalkMgr.html#a18129067777844344fee0a5e401e7064" title=" " alt="" coords="503,107,720,133"/>
 </map>

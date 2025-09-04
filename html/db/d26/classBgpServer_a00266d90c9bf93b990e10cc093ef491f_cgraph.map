@@ -1,8 +1,9 @@
 <map id="BgpServer::Initialize" name="BgpServer::Initialize">
-<area shape="rect" id="node2" href="$d2/db6/classRibOutUpdates.html#a8d497de3fe661d5a7f496f2421dc56ad" title="RibOutUpdates::Initialize" alt="" coords="208,41,392,68"/>
-<area shape="rect" id="node3" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title="DB::PartitionCount" alt="" coords="440,41,581,68"/>
-<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="645,12,846,39"/>
-<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title="TaskScheduler::HardwareThread\lCount" alt="" coords="630,63,861,105"/>
-<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="909,12,1125,39"/>
-<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads..." alt="" coords="1174,5,1365,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,144,69"/>
+<area shape="rect" id="node2" href="$d2/db6/classRibOutUpdates.html#a8d497de3fe661d5a7f496f2421dc56ad" title=" " alt="" coords="192,42,359,69"/>
+<area shape="rect" id="node3" href="$df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="407,42,540,69"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="600,13,787,39"/>
+<area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#aa50cf620d67afe0938bc4f8da4856217" title=" " alt="" coords="588,64,799,105"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="847,13,1049,39"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1097,5,1275,47"/>
 </map>

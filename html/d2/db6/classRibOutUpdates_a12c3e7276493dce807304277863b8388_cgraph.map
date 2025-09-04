@@ -1,5 +1,6 @@
 <map id="RibOutUpdates::Enqueue" name="RibOutUpdates::Enqueue">
-<area shape="rect" id="node2" href="$db/dd4/classRibOut.html#a57ce1dfcfabf24dfd2c1dff30fd4a946" title="RibOut::sender" alt="" coords="294,5,413,32"/>
-<area shape="rect" id="node3" href="$d2/d48/classBgpUpdateSender.html#aa6d1eee80928fdd17635cb86284a7493" title="BgpUpdateSender::RibOutActive" alt="" coords="237,56,469,83"/>
-<area shape="rect" id="node4" href="$d0/de5/classRouteUpdate.html#a28f5fa5efa2c6c446fa25d3e7c87653c" title="RouteUpdate::queue_id" alt="" coords="267,107,440,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node2" href="$d0/de5/classRouteUpdate.html#a365e060355ee8b3be72f35d2ad9efd43" title=" " alt="" coords="251,5,410,32"/>
+<area shape="rect" id="node3" href="$d2/d48/classBgpUpdateSender.html#aa6d1eee80928fdd17635cb86284a7493" title=" " alt="" coords="224,56,437,83"/>
+<area shape="rect" id="node4" href="$db/dd4/classRibOut.html#a57ce1dfcfabf24dfd2c1dff30fd4a946" title=" " alt="" coords="275,107,386,133"/>
 </map>

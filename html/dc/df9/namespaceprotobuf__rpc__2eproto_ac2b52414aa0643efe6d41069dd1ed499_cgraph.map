@@ -1,8 +1,9 @@
 <map id="protobuf_rpc_2eproto::InitDefaultsAuthDisableResponse" name="protobuf_rpc_2eproto::InitDefaultsAuthDisableResponse">
-<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0f155858244ba876fc287534000caa80" title="protobuf_rpc_2eproto\l::InitDefaultsAuthDisableResponseImpl" alt="" coords="302,38,578,79"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="635,5,850,46"/>
-<area shape="rect" id="node6" href="$db/df8/classetcdserverpb_1_1AuthDisableResponse.html#a18fd25988ed8e7c247b268d9eef27a4c" title="etcdserverpb::AuthDisable\lResponse::InitAsDefaultInstance" alt="" coords="627,70,859,111"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="907,5,1151,46"/>
-<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1200,5,1424,46"/>
-<area shape="rect" id="node7" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="917,70,1141,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0f155858244ba876fc287534000caa80" title=" " alt="" coords="280,39,531,80"/>
+<area shape="rect" id="node3" href="$db/df8/classetcdserverpb_1_1AuthDisableResponse.html#a18fd25988ed8e7c247b268d9eef27a4c" title=" " alt="" coords="579,5,793,47"/>
+<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title=" " alt="" coords="587,71,785,112"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="849,5,1056,47"/>
+<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title=" " alt="" coords="841,71,1064,112"/>
+<area shape="rect" id="node7" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title=" " alt="" coords="1112,71,1319,112"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="GlobalSystemConfig::ConfigDelete" name="GlobalSystemConfig::ConfigDelete">
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="209,19,386,45"/>
-<area shape="rect" id="node3" href="$d2/dd0/classGlobalSystemConfig.html#a178e81d8d6e58e5428211d7c6b45c896" title="GlobalSystemConfig\l::Reset" alt="" coords="220,70,375,111"/>
-<area shape="rect" id="node4" href="$d2/dc9/structBGPaaServiceParameters.html#a9a5711d80908c43317ce6526aa5caaae" title="BGPaaServiceParameters\l::Reset" alt="" coords="445,5,632,46"/>
-<area shape="rect" id="node5" href="$d7/d18/structGracefulRestartParameters.html#aaa4201e002065e5749e1ebc028b2cd51" title="GracefulRestartParameters\l::Reset" alt="" coords="440,70,637,111"/>
-<area shape="rect" id="node6" href="$dd/d0f/structFastConvergenceParameters.html#ab2b317398fa992b67f314143ff6b007e" title="FastConvergenceParameters\l::Reset" alt="" coords="435,135,642,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,41,147,83"/>
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="195,19,361,46"/>
+<area shape="rect" id="node3" href="$d2/dd0/classGlobalSystemConfig.html#a178e81d8d6e58e5428211d7c6b45c896" title=" " alt="" coords="207,71,349,112"/>
+<area shape="rect" id="node4" href="$d2/dc9/structBGPaaServiceParameters.html#a9a5711d80908c43317ce6526aa5caaae" title=" " alt="" coords="417,5,594,47"/>
+<area shape="rect" id="node5" href="$d7/d18/structGracefulRestartParameters.html#aaa4201e002065e5749e1ebc028b2cd51" title=" " alt="" coords="414,71,597,112"/>
+<area shape="rect" id="node6" href="$dd/d0f/structFastConvergenceParameters.html#ab2b317398fa992b67f314143ff6b007e" title=" " alt="" coords="409,136,601,177"/>
 </map>

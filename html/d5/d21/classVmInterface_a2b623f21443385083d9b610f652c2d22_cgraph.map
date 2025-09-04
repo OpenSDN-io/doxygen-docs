@@ -1,6 +1,12 @@
 <map id="VmInterface::CopyIpAddress" name="VmInterface::CopyIpAddress">
-<area shape="rect" id="node2" href="$d2/d73/classInterfaceTable.html#ac5744c4d9b287f8ab0aeca108ccb1a09" title="InterfaceTable::agent" alt="" coords="291,5,450,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a7aae9dfd7540807b5b773ed5aefa6706" title="Agent::fabric_vrf_name" alt="" coords="283,56,458,83"/>
-<area shape="rect" id="node4" href="$d2/d73/classInterfaceTable.html#a106e0bced479d65d3c7c97b9575bea26" title="InterfaceTable::DhcpSnoop\lSetConfigSeen" alt="" coords="273,107,468,149"/>
-<area shape="rect" id="node5" href="$d2/d73/classInterfaceTable.html#a062754932806943e320275560477a7ea" title="InterfaceTable::GetDhcpSnoop\lEntry" alt="" coords="261,173,480,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,197,229"/>
+<area shape="rect" id="node2" href="$d2/d73/classInterfaceTable.html#ad2067c37978a983744a4757575609ce2" title=" " alt="" coords="274,5,419,32"/>
+<area shape="rect" id="node3" href="$d2/d73/classInterfaceTable.html#a106e0bced479d65d3c7c97b9575bea26" title=" " alt="" coords="256,57,437,98"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ae7a09205339edcfbc430d239d2e74ed1" title=" " alt="" coords="267,123,426,149"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="265,173,429,200"/>
+<area shape="rect" id="node7" href="$d2/d73/classInterfaceTable.html#a062754932806943e320275560477a7ea" title=" " alt="" coords="245,225,448,266"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="279,291,414,317"/>
+<area shape="rect" id="node9" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="289,341,404,368"/>
+<area shape="rect" id="node10" href="$d0/dcc/classInterface.html#a3decfd0607228d2f82a0f509209255dd" title=" " alt="" coords="297,392,396,419"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="496,173,667,200"/>
 </map>

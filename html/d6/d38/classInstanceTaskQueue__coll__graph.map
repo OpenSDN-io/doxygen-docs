@@ -1,6 +1,11 @@
 <map id="InstanceTaskQueue" name="InstanceTaskQueue">
-<area shape="rect" id="node2" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="32,187,147,213"/>
-<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="191,187,251,213"/>
-<area shape="rect" id="node7" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="298,96,432,123"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="292,5,343,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="64,273,203,300"/>
+<area shape="rect" id="node2" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="30,184,135,211"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node4" href="$dc/dea/classTimer.html" title=" " alt="" coords="179,184,234,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="118,95,173,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="197,95,256,121"/>
+<area shape="rect" id="node7" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="281,95,405,121"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="272,5,323,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="347,5,429,32"/>
 </map>

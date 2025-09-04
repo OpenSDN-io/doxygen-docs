@@ -1,6 +1,5 @@
 var static__route_8h =
 [
-    [ "StaticRoute", "d0/d2a/classStaticRoute.html", "d0/d2a/classStaticRoute" ],
     [ "StaticRouteBase", "d6/da5/structStaticRouteBase.html", "d6/da5/structStaticRouteBase" ],
     [ "StaticRouteInet", "d0/d40/classStaticRouteInet.html", null ],
     [ "StaticRouteInet6", "d3/d84/classStaticRouteInet6.html", null ],

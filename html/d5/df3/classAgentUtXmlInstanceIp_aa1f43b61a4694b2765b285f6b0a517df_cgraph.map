@@ -1,11 +1,12 @@
 <map id="AgentUtXmlInstanceIp::ToXml" name="AgentUtXmlInstanceIp::ToXml">
-<area shape="rect" id="node2" href="$d6/d24/namespaceAgentUtXmlUtils.html#a6e216aa640deceb6dd954b74b13c01be" title="AgentUtXmlUtils::AddXmlNode\lWithAttr" alt="" coords="224,5,448,46"/>
-<area shape="rect" id="node3" href="$d5/df3/classAgentUtXmlInstanceIp.html#a71f27755882e08a52c6f17f4b4fd51c7" title="AgentUtXmlInstanceIp\l::NodeType" alt="" coords="252,70,420,111"/>
-<area shape="rect" id="node4" href="$d6/d24/namespaceAgentUtXmlUtils.html#a42ca505537164ce3e16911697024ed06" title="AgentUtXmlUtils::AddXmlNode\lWithValue" alt="" coords="707,289,931,330"/>
-<area shape="rect" id="node5" href="$d9/ddc/classAgentUtXmlNode.html#ad0ee4b95e24a0b74b94631bec7ebc2d7" title="AgentUtXmlNode::name" alt="" coords="246,187,426,213"/>
-<area shape="rect" id="node6" href="$d9/ddc/classAgentUtXmlNode.html#ac87abe655fdfe41762062d7df085590f" title="AgentUtXmlNode::op\l_delete" alt="" coords="499,205,658,246"/>
-<area shape="rect" id="node7" href="$d5/d59/classAgentUtXmlConfig.html#ace02856cd43c89ad365dbac72442d737" title="AgentUtXmlConfig::AddIdPerms" alt="" coords="222,288,450,315"/>
-<area shape="rect" id="node10" href="$d6/d24/namespaceAgentUtXmlUtils.html#a691f94ac30fced37b3981733557f6eb9" title="AgentUtXmlUtils::LinkXmlNode" alt="" coords="223,339,449,365"/>
-<area shape="rect" id="node8" href="$d0/d9e/test__xml_8cc.html#a0ef01cc9cb06b4668c26c2f6ebd33ec8" title="AddPermissions" alt="" coords="515,271,642,297"/>
-<area shape="rect" id="node9" href="$d0/d9e/test__xml_8cc.html#a122ea70cf280d71e24eac0cd4648a2c3" title="AddUuid" alt="" coords="540,321,617,348"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,160,317"/>
+<area shape="rect" id="node2" href="$d5/d59/classAgentUtXmlConfig.html#ace02856cd43c89ad365dbac72442d737" title=" " alt="" coords="208,107,419,133"/>
+<area shape="rect" id="node4" href="$d6/d24/namespaceAgentUtXmlUtils.html#a42ca505537164ce3e16911697024ed06" title=" " alt="" coords="661,74,867,115"/>
+<area shape="rect" id="node6" href="$d9/ddc/classAgentUtXmlNode.html#a55c4a530703b59cef824852a99a51fd3" title=" " alt="" coords="467,158,613,199"/>
+<area shape="rect" id="node7" href="$d6/d24/namespaceAgentUtXmlUtils.html#a6e216aa640deceb6dd954b74b13c01be" title=" " alt="" coords="211,275,416,317"/>
+<area shape="rect" id="node8" href="$d6/d24/namespaceAgentUtXmlUtils.html#a691f94ac30fced37b3981733557f6eb9" title=" " alt="" coords="210,341,417,368"/>
+<area shape="rect" id="node9" href="$d9/ddc/classAgentUtXmlNode.html#aff2d58e826a13ad0b5eded5b781afce5" title=" " alt="" coords="231,392,395,419"/>
+<area shape="rect" id="node10" href="$d5/df3/classAgentUtXmlInstanceIp.html#a71f27755882e08a52c6f17f4b4fd51c7" title=" " alt="" coords="236,443,391,485"/>
+<area shape="rect" id="node3" href="$d0/d9e/test__xml_8cc.html#a0ef01cc9cb06b4668c26c2f6ebd33ec8" title=" " alt="" coords="482,5,598,32"/>
+<area shape="rect" id="node5" href="$d0/d9e/test__xml_8cc.html#a122ea70cf280d71e24eac0cd4648a2c3" title=" " alt="" coords="504,107,576,133"/>
 </map>

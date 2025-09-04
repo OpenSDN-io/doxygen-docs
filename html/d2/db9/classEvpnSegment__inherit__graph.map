@@ -1,3 +1,4 @@
 <map id="EvpnSegment" name="EvpnSegment">
-<area shape="rect" id="node2" href="$d3/def/structDBState.html" title="DBState" alt="" coords="24,5,99,32"/>
+<area shape="rect" id="node1" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi&#45;homed to it...." alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node2" href="$d3/def/structDBState.html" title=" " alt="" coords="21,5,93,32"/>
 </map>

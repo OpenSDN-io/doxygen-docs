@@ -1,5 +1,6 @@
 <map id="SandeshStateMachine::UpdateRxMsgFailStats" name="SandeshStateMachine::UpdateRxMsgFailStats">
-<area shape="rect" id="node2" href="$d2/dca/classSandeshMessageStatistics.html#ae74490eb7fe27268750d73d7b5d00a26" title="SandeshMessageStatistics\l::UpdateRecvFailed" alt="" coords="229,5,424,46"/>
-<area shape="rect" id="node3" href="$d2/dca/classSandeshMessageStatistics.html#a96e22b71b7adb8a9414fa8d8cf518b67" title="SandeshMessageStatistics\l::UpdateInternal" alt="" coords="472,5,667,46"/>
-<area shape="rect" id="node4" href="$d8/daf/sandesh__statistics_8cc.html#a66a6b8850093d97aea774c74327f5e2d" title="UpdateDetailStatsDrops" alt="" coords="715,12,893,39"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$d2/dca/classSandeshMessageStatistics.html#ae74490eb7fe27268750d73d7b5d00a26" title=" " alt="" coords="220,5,401,47"/>
+<area shape="rect" id="node3" href="$d2/dca/classSandeshMessageStatistics.html#a96e22b71b7adb8a9414fa8d8cf518b67" title=" " alt="" coords="449,5,631,47"/>
+<area shape="rect" id="node4" href="$d8/daf/sandesh__statistics_8cc.html#a66a6b8850093d97aea774c74327f5e2d" title=" " alt="" coords="679,13,843,39"/>
 </map>

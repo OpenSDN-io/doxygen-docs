@@ -1,8 +1,0 @@
-<map id="BgpXmppMessage::GetVirtualNetwork" name="BgpXmppMessage::GetVirtualNetwork">
-<area shape="rect" id="node2" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a333b0bfd98002fb68b76581e70fb9857" title="RibOutAttr::NextHop\l::origin_vn_index" alt="" coords="303,5,457,46"/>
-<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="281,71,479,97"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="284,121,476,148"/>
-<area shape="rect" id="node5" href="$d2/d72/classRoutingInstanceMgr.html#a33835f2e211792023ac475558b123895" title="RoutingInstanceMgr\l::GetVirtualNetworkByVnIndex" alt="" coords="269,173,491,214"/>
-<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#a37e0385c3de8bc8ca5eed32de4675af6" title="RoutingInstance::GetVirtual\lNetworkName" alt="" coords="539,231,739,273"/>
-<area shape="rect" id="node6" href="$d2/d72/classRoutingInstanceMgr.html#a4888d37f82fbff52bebe8f3e570a68e8" title="RoutingInstanceMgr\l::GetInstanceByVnIndex" alt="" coords="549,166,728,207"/>
-</map>

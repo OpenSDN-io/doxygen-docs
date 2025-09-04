@@ -1,12 +1,13 @@
 <map id="etcdserverpb::AuthenticateResponse::New" name="etcdserverpb::AuthenticateResponse::New">
-<area shape="rect" id="node2" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a5550e88e20e3f52d04626b1b56992716" title="etcdserverpb::Authenticate\lResponse::AuthenticateResponse" alt="" coords="253,86,491,127"/>
-<area shape="rect" id="node3" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a7e9663e8dbb73fa9b8d1b8828ee70766" title="etcdserverpb::Authenticate\lResponse::internal_default\l_instance" alt="" coords="565,5,763,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6b81ee33b7fa3f66d7fa987730ac0313" title="protobuf_rpc_2eproto\l::InitDefaultsAuthenticateResponse" alt="" coords="539,86,789,127"/>
-<area shape="rect" id="node11" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#ae21b8a6c2e1beb9e22b556cb3ddff33b" title="etcdserverpb::Authenticate\lResponse::SharedCtor" alt="" coords="565,151,763,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ac383ddff98767e59274a2ed9819f53be" title="protobuf_rpc_2eproto\l::InitDefaultsAuthenticateResponseImpl" alt="" coords="837,86,1117,127"/>
-<area shape="rect" id="node6" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeader" alt="" coords="1174,53,1389,94"/>
-<area shape="rect" id="node9" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a2566e49378fa4206eaeb16f616ecc682" title="etcdserverpb::Authenticate\lResponse::InitAsDefaultInstance" alt="" coords="1165,118,1397,159"/>
-<area shape="rect" id="node7" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title="protobuf_rpc_2eproto\l::InitDefaultsResponseHeaderImpl" alt="" coords="1446,53,1690,94"/>
-<area shape="rect" id="node8" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title="etcdserverpb::ResponseHeader\l::InitAsDefaultInstance" alt="" coords="1739,53,1963,94"/>
-<area shape="rect" id="node10" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="1456,118,1680,159"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,184,153"/>
+<area shape="rect" id="node2" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a5550e88e20e3f52d04626b1b56992716" title=" " alt="" coords="232,112,451,153"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a6b81ee33b7fa3f66d7fa987730ac0313" title=" " alt="" coords="499,39,727,80"/>
+<area shape="rect" id="node10" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a7e9663e8dbb73fa9b8d1b8828ee70766" title=" " alt="" coords="523,105,702,161"/>
+<area shape="rect" id="node11" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#ae21b8a6c2e1beb9e22b556cb3ddff33b" title=" " alt="" coords="523,185,702,227"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#ac383ddff98767e59274a2ed9819f53be" title=" " alt="" coords="775,39,1028,80"/>
+<area shape="rect" id="node5" href="$d9/dfd/classetcdserverpb_1_1AuthenticateResponse.html#a2566e49378fa4206eaeb16f616ecc682" title=" " alt="" coords="1076,5,1291,47"/>
+<area shape="rect" id="node7" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af787831131205e3e05ce37eb86f72b1c" title=" " alt="" coords="1085,71,1282,112"/>
+<area shape="rect" id="node6" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="1347,5,1553,47"/>
+<area shape="rect" id="node8" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a2be8108fff7e8ad62871488af9158640" title=" " alt="" coords="1339,71,1561,112"/>
+<area shape="rect" id="node9" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#ab80a09d7666842be393f104b4ae5cf19" title=" " alt="" coords="1609,71,1816,112"/>
 </map>

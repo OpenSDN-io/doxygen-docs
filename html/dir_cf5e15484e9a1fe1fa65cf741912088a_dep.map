@@ -1,10 +1,10 @@
 <map id="freebsd" name="freebsd">
-<area shape="rect" id="node1" href="dir_cf5e15484e9a1fe1fa65cf741912088a.html" title="freebsd" alt="" coords="41,52,113,100"/>
-<area shape="rect" id="node2" href="dir_34882d24fe7992c22b17f4b3cabebcb8.html" title="oper" alt="" coords="5,148,77,196"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000083_000011.html" title="1" alt="" coords="60,127,69,141"/>
-<area shape="rect" id="node3" href="dir_0511ec8e9ab6cfdc6a27fa9bb5132f26.html" title="cmn" alt="" coords="5,244,77,292"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000083_000009.html" title="1" alt="" coords="75,227,84,242"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000011_000009.html" title="143" alt="" coords="28,218,53,233"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000009_000011.html" title="12" alt="" coords="33,208,51,222"/>
-<area shape="rect" id="clust1" href="dir_e088eb05decbd4ad62d65d44165b4031.html" title="nix" alt="" coords="31,16,124,111"/>
+<area shape="rect" id="node1" href="dir_cf5e15484e9a1fe1fa65cf741912088a.html" title="freebsd" alt="" coords="43,52,115,100"/>
+<area shape="rect" id="node2" href="dir_0511ec8e9ab6cfdc6a27fa9bb5132f26.html" title="cmn" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000083_000009.html" title="1" alt="" coords="61,127,69,142"/>
+<area shape="rect" id="node3" href="dir_34882d24fe7992c22b17f4b3cabebcb8.html" title="oper" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000083_000011.html" title="1" alt="" coords="76,227,84,242"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000009_000011.html" title="12" alt="" coords="33,218,48,233"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000011_000009.html" title="143" alt="" coords="31,208,53,222"/>
+<area shape="rect" id="clust1" href="dir_e088eb05decbd4ad62d65d44165b4031.html" title="nix" alt="" coords="32,16,125,111"/>
 </map>

@@ -1,11 +1,12 @@
 <map id="IsBgpaasCompositeNexthop" name="IsBgpaasCompositeNexthop">
-<area shape="rect" id="node2" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="590,5,730,32"/>
-<area shape="rect" id="node3" href="$dd/d76/classCompositeNH.html#adec401a5b68b65bca9f61f9e386868d0" title="CompositeNH::ComponentNHCount" alt="" coords="261,56,515,83"/>
-<area shape="rect" id="node4" href="$dd/d76/classCompositeNH.html#a8fb8959a6ace2b6bdadb8b59d14512fe" title="CompositeNH::GetNH" alt="" coords="307,107,469,133"/>
-<area shape="rect" id="node5" href="$d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title="IsBgpaasInterfaceNexthop" alt="" coords="291,157,485,184"/>
-<area shape="rect" id="node6" href="$d4/dec/classNextHop.html#aac3637997086e5ddd5abb9b00e7f64a7" title="NextHop::mpls_label" alt="" coords="581,56,739,83"/>
-<area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#ada7ed7a5fb4d53d7260bdbe8f2630e14" title="VmInterface::primary\l_ip_addr" alt="" coords="579,107,741,149"/>
-<area shape="rect" id="node8" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="579,173,741,214"/>
-<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="600,239,720,265"/>
-<area shape="rect" id="node10" href="$dc/dff/classOperDB.html#aec657f68ba66b8f1ec99a6a4edaae591" title="OperDB::bgp_as_a_service" alt="" coords="563,289,757,316"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,195,108"/>
+<area shape="rect" id="node2" href="$dd/d76/classCompositeNH.html#a1fca442bdb4f869388da1990ff795736" title=" " alt="" coords="243,5,477,32"/>
+<area shape="rect" id="node3" href="$dd/d76/classCompositeNH.html#a6c7b88ddfd3655988f748f039fbe3ecd" title=" " alt="" coords="283,56,437,83"/>
+<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="552,81,683,108"/>
+<area shape="rect" id="node5" href="$d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title=" " alt="" coords="271,183,449,209"/>
+<area shape="rect" id="node6" href="$dc/dff/classOperDB.html#a7800ed3a15918ecb5a3771b5f579fb09" title=" " alt="" coords="525,132,709,159"/>
+<area shape="rect" id="node7" href="$d4/dec/classNextHop.html#a37da63d17585608aa80044fdfd790c17" title=" " alt="" coords="545,183,689,209"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="562,233,673,260"/>
+<area shape="rect" id="node9" href="$d5/d21/classVmInterface.html#ae0f4f55a7fa051b7d37511346db8909b" title=" " alt="" coords="544,285,691,326"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ab01e19a4e25871f7d1d9359ca4605dbd" title=" " alt="" coords="544,350,691,391"/>
 </map>

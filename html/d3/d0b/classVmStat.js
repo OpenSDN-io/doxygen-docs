@@ -7,7 +7,7 @@ var classVmStat =
     [ "BuildVmStatsMsg", "d3/d0b/classVmStat.html#aecbee373a12eff39ed02f006a035f1c2", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/d0b/classVmStat.html#aa67c241469ae11a5f59fc03e57e58e84", null ],
     [ "ExecCmd", "d3/d0b/classVmStat.html#a9fed36bfb5f40bda947e87968ccf5242", null ],
-    [ "marked_delete", "d3/d0b/classVmStat.html#a0459addc2b41aa40f92f8fbe8e1768a6", null ],
+    [ "marked_delete", "d3/d0b/classVmStat.html#ae585b6d88a47269067fcbb72c315c466", null ],
     [ "ProcessData", "d3/d0b/classVmStat.html#a6f59b9d73756a1602b5a7b458eb329f3", null ],
     [ "ReadData", "d3/d0b/classVmStat.html#acfcd2b76bf372816ebe8930854b7cb28", null ],
     [ "SendVmCpuStats", "d3/d0b/classVmStat.html#a21c5fccd7933756ad8ef98e52a991b71", null ],

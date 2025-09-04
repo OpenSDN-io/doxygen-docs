@@ -1,13 +1,14 @@
 <map id="AgentParam::ProcessTraceArguments" name="AgentParam::ProcessTraceArguments">
-<area shape="rect" id="node2" href="$d4/dad/agent__param_8cc.html#a4420e2ffea8e1db7b8c97bb58ab30d27" title="SetTraceBufferSize" alt="" coords="249,132,391,159"/>
-<area shape="rect" id="node3" href="$d0/db5/sandesh__trace_8h.html#a3db9b82da2cabb4cd6a995180eaf9ab1" title="SandeshTraceBufferGet" alt="" coords="469,81,643,108"/>
-<area shape="rect" id="node7" href="$d0/db5/sandesh__trace_8h.html#a99135791b57a74fa6c3a98d6ddf7fd8d" title="SandeshTraceBufferCapacityGet" alt="" coords="441,31,671,57"/>
-<area shape="rect" id="node9" href="$d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901" title="SandeshTraceBufferDisable" alt="" coords="457,183,655,209"/>
-<area shape="rect" id="node10" href="$d0/db5/sandesh__trace_8h.html#ac3d7f1565f63c710d4f03292205b6b4e" title="SandeshTraceBufferResetSize" alt="" coords="449,132,663,159"/>
-<area shape="rect" id="node12" href="$d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044" title="SandeshTraceBufferEnable" alt="" coords="459,233,653,260"/>
-<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Trace::GetInstance" alt="" coords="755,56,898,83"/>
-<area shape="rect" id="node6" href="$d4/d8b/classTrace.html#a1d4acfbaad8c333575d5ac994a4c8c64" title="Trace::TraceBufGet" alt="" coords="755,107,898,133"/>
-<area shape="rect" id="node5" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Trace::Trace" alt="" coords="981,56,1080,83"/>
-<area shape="rect" id="node8" href="$d4/d8b/classTrace.html#a9c5edb4dc8b53b188dd074fb89339e0f" title="Trace::TraceBufCapacityGet" alt="" coords="727,5,927,32"/>
-<area shape="rect" id="node11" href="$d4/d8b/classTrace.html#a6c7a6150859cb891bf15ac176e96bb52" title="Trace::TraceBufCapacityReset" alt="" coords="720,157,933,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,188,166"/>
+<area shape="rect" id="node2" href="$d4/dad/agent__param_8cc.html#a4420e2ffea8e1db7b8c97bb58ab30d27" title=" " alt="" coords="236,132,369,159"/>
+<area shape="rect" id="node3" href="$d0/db5/sandesh__trace_8h.html#a99135791b57a74fa6c3a98d6ddf7fd8d" title=" " alt="" coords="417,81,628,108"/>
+<area shape="rect" id="node7" href="$d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901" title=" " alt="" coords="431,183,614,209"/>
+<area shape="rect" id="node8" href="$d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044" title=" " alt="" coords="433,233,612,260"/>
+<area shape="rect" id="node9" href="$d0/db5/sandesh__trace_8h.html#a3db9b82da2cabb4cd6a995180eaf9ab1" title=" " alt="" coords="443,31,603,57"/>
+<area shape="rect" id="node11" href="$d0/db5/sandesh__trace_8h.html#ac3d7f1565f63c710d4f03292205b6b4e" title=" " alt="" coords="423,132,622,159"/>
+<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title=" " alt="" coords="709,56,842,83"/>
+<area shape="rect" id="node6" href="$d4/d8b/classTrace.html#a9c5edb4dc8b53b188dd074fb89339e0f" title=" " alt="" coords="682,107,869,133"/>
+<area shape="rect" id="node5" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="923,56,1017,83"/>
+<area shape="rect" id="node10" href="$d4/d8b/classTrace.html#a1d4acfbaad8c333575d5ac994a4c8c64" title=" " alt="" coords="708,5,843,32"/>
+<area shape="rect" id="node12" href="$d4/d8b/classTrace.html#a6c7a6150859cb891bf15ac176e96bb52" title=" " alt="" coords="676,157,875,184"/>
 </map>

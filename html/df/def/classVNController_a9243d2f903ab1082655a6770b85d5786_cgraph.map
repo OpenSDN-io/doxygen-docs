@@ -1,4 +1,10 @@
 <map id="VNController::VNController" name="VNController::VNController">
-<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#adfdf14c9aec59ed072c3e6447d0d1253" title="WorkQueue::set_name" alt="" coords="255,5,425,32"/>
-<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#a30fd523d0f5c58aa22481b03eab6cf7d" title="WorkQueue::set_disable" alt="" coords="251,56,429,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,185,90"/>
+<area shape="rect" id="node2" href="$d4/d0c/classWorkQueue.html#a30fd523d0f5c58aa22481b03eab6cf7d" title=" " alt="" coords="233,38,399,65"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#adfdf14c9aec59ed072c3e6447d0d1253" title=" " alt="" coords="238,89,394,115"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="447,38,657,65"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="719,13,906,39"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="705,63,920,90"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="968,13,1171,39"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1219,5,1396,47"/>
 </map>

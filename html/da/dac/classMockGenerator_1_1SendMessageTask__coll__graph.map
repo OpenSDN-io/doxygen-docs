@@ -1,5 +1,7 @@
 <map id="MockGenerator::SendMessageTask" name="MockGenerator::SendMessageTask">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="64,187,115,213"/>
-<area shape="rect" id="node3" href="$db/d48/classMockGenerator.html" title="MockGenerator" alt="" coords="139,187,260,213"/>
-<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="143,96,257,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,273,236,300"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="74,184,125,211"/>
+<area shape="rect" id="node3" href="$db/d48/classMockGenerator.html" title=" " alt="" coords="149,184,260,211"/>
+<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="152,95,257,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="163,5,246,32"/>
 </map>

@@ -1,9 +1,10 @@
 <map id="AgentRouteTable" name="AgentRouteTable">
-<area shape="rect" id="node5" href="$d8/d2e/classBridgeAgentRouteTable.html" title="BridgeAgentRouteTable" alt="" coords="619,5,792,32"/>
-<area shape="rect" id="node6" href="$de/d8b/classEvpnAgentRouteTable.html" title="EvpnAgentRouteTable" alt="" coords="624,56,787,83"/>
-<area shape="rect" id="node7" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title="Inet4MulticastAgentRoute\lTable" alt="" coords="611,107,800,149"/>
-<area shape="rect" id="node8" href="$da/dcd/classInetUnicastAgentRouteTable.html" title="InetUnicastAgentRouteTable" alt="" coords="603,173,808,200"/>
-<area shape="rect" id="node2" href="$d3/d72/classRouteTable.html" title="RouteTable" alt="" coords="283,85,376,112"/>
-<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html" title="DBTable" alt="" coords="160,85,235,112"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title="DBTableBase" alt="" coords="5,85,112,112"/>
+<area shape="rect" id="node1" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge,..." alt="" coords="412,85,535,112"/>
+<area shape="rect" id="node5" href="$d8/d2e/classBridgeAgentRouteTable.html" title=" " alt="" coords="598,5,757,32"/>
+<area shape="rect" id="node6" href="$de/d8b/classEvpnAgentRouteTable.html" title=" " alt="" coords="601,56,753,83"/>
+<area shape="rect" id="node7" href="$d0/d76/classInet4MulticastAgentRouteTable.html" title=" " alt="" coords="591,107,764,149"/>
+<area shape="rect" id="node8" href="$da/dcd/classInetUnicastAgentRouteTable.html" title=" " alt="" coords="583,173,772,200"/>
+<area shape="rect" id="node2" href="$d3/d72/classRouteTable.html" title=" " alt="" coords="276,85,364,112"/>
+<area shape="rect" id="node3" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="156,85,228,112"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="5,85,108,112"/>
 </map>

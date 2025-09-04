@@ -1,8 +1,9 @@
 <map id="etcdserverpb::PutRequest::MergeFrom" name="etcdserverpb::PutRequest::MergeFrom">
-<area shape="rect" id="node2" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a282c34abc4b699ebf03063985f10563e" title="etcdserverpb::PutRequest::key" alt="" coords="243,5,463,32"/>
-<area shape="rect" id="node3" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a3d8a067283c6aa74461af6f06b2f47b9" title="etcdserverpb::PutRequest\l::value" alt="" coords="259,57,447,98"/>
-<area shape="rect" id="node4" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#af0f307a8dc72666211c5b038c9a57ff7" title="etcdserverpb::PutRequest\l::lease" alt="" coords="259,122,447,163"/>
-<area shape="rect" id="node5" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#accbc90877a8a152310efc3b86ea0b509" title="etcdserverpb::PutRequest\l::set_lease" alt="" coords="259,187,447,229"/>
-<area shape="rect" id="node6" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a107be8463ad0c00156776da3e237b5b3" title="etcdserverpb::PutRequest\l::prev_kv" alt="" coords="259,253,447,294"/>
-<area shape="rect" id="node7" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a0e73da0f85814643640c0bd3b3c3ecc4" title="etcdserverpb::PutRequest\l::set_prev_kv" alt="" coords="259,318,447,359"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,180,197"/>
+<area shape="rect" id="node2" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#acd66a5919344bb2b3f85fdbde4f72b6d" title=" " alt="" coords="228,5,431,32"/>
+<area shape="rect" id="node3" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#aa0e1699918e4b0658a327e41945561cf" title=" " alt="" coords="242,57,417,98"/>
+<area shape="rect" id="node4" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#aa8d4cb5ca7476d496b312c00e46fa7fd" title=" " alt="" coords="242,122,417,163"/>
+<area shape="rect" id="node5" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#accbc90877a8a152310efc3b86ea0b509" title=" " alt="" coords="242,187,417,229"/>
+<area shape="rect" id="node6" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a0e73da0f85814643640c0bd3b3c3ecc4" title=" " alt="" coords="242,253,417,294"/>
+<area shape="rect" id="node7" href="$d2/d2a/classetcdserverpb_1_1PutRequest.html#a0c400a08a3a9cddb3d6f954d8fc2173d" title=" " alt="" coords="242,318,417,359"/>
 </map>

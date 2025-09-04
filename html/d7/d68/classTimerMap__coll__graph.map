@@ -1,5 +1,9 @@
 <map id="TimerMap" name="TimerMap">
-<area shape="rect" id="node3" href="$dc/dea/classTimer.html" title="Timer" alt="" coords="131,187,191,213"/>
-<area shape="rect" id="node5" href="$d0/dd4/classTimer_1_1TimerTask.html" title="Timer::TimerTask" alt="" coords="213,96,347,123"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="207,5,257,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,273,85,300"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,95,79,121"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html" title=" " alt="" coords="129,184,183,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="123,95,181,121"/>
+<area shape="rect" id="node5" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="206,95,330,121"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="197,5,248,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="272,5,355,32"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="VmUveTable::VmStatCollectionStart" name="VmUveTable::VmStatCollectionStart">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#aa6f01c1ac26989e3c80a28068289c537" title="Agent::isKvmMode" alt="" coords="288,5,432,32"/>
-<area shape="rect" id="node4" href="$d9/d04/classVmEntry.html#a351e6bc187b60f50e9bb99dc48868865" title="VmEntry::GetUuid" alt="" coords="291,56,429,83"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a5ce2c29913cb75b5a3787c6889f3cffc" title="Agent::isDockerMode" alt="" coords="280,107,440,133"/>
-<area shape="rect" id="node7" href="$d3/d0b/classVmStat.html#a0b46a2b5a023d3d55a326070e099701b" title="VmStat::Start" alt="" coords="305,157,415,184"/>
-<area shape="rect" id="node3" href="$dc/dd4/classAgentParam.html#a82baa8f451285fa63a36ab2bd7ac00b4" title="AgentParam::isKvmMode" alt="" coords="497,5,682,32"/>
-<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#a43e89e48d4cd931480ce0bbac8135309" title="AgentParam::isDockerMode" alt="" coords="489,107,690,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,212,115"/>
+<area shape="rect" id="node2" href="$d9/d04/classVmEntry.html#a768f5b225868f04f578848aad9976a20" title=" " alt="" coords="269,5,398,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a5ce2c29913cb75b5a3787c6889f3cffc" title=" " alt="" coords="260,56,407,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#aa6f01c1ac26989e3c80a28068289c537" title=" " alt="" coords="267,107,400,133"/>
+<area shape="rect" id="node7" href="$d3/d0b/classVmStat.html#a0b46a2b5a023d3d55a326070e099701b" title=" " alt="" coords="282,157,385,184"/>
+<area shape="rect" id="node4" href="$dc/dd4/classAgentParam.html#a7512191bbfbe080b4ade28af37ca575a" title=" " alt="" coords="455,56,640,83"/>
+<area shape="rect" id="node6" href="$dc/dd4/classAgentParam.html#acefe3bf940836b914d50636612032e11" title=" " alt="" coords="462,107,633,133"/>
 </map>

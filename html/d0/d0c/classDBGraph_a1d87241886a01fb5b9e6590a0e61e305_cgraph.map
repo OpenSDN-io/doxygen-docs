@@ -1,6 +1,7 @@
 <map id="DBGraph::Visit" name="DBGraph::Visit">
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html#a3a937cad9444804fdc0b7e804c87e1c8" title="DBGraphVertex::set\l_visited" alt="" coords="182,5,333,46"/>
-<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#a6228262a54afbcae1c3711e1f0b6921e" title="DBGraphVertex::vertex" alt="" coords="171,71,343,97"/>
-<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title="DBGraphVertex::begin" alt="" coords="174,121,341,148"/>
-<area shape="rect" id="node5" href="$da/d8a/structDBGraph_1_1VisitorFilter.html#aedb72c32a7206daa8e968e14a799b351" title="DBGraph::VisitorFilter\l::AllowedEdges" alt="" coords="176,173,339,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,116,127"/>
+<area shape="rect" id="node2" href="$da/d8a/structDBGraph_1_1VisitorFilter.html#a8c228a38438c69c29674e0b1ffe86584" title=" " alt="" coords="167,5,318,47"/>
+<area shape="rect" id="node3" href="$d3/d0d/classDBGraphVertex.html#aad0600eae430182ae8e474d42374515f" title=" " alt="" coords="167,71,319,98"/>
+<area shape="rect" id="node4" href="$d3/d0d/classDBGraphVertex.html#a3a937cad9444804fdc0b7e804c87e1c8" title=" " alt="" coords="173,123,312,164"/>
+<area shape="rect" id="node5" href="$d3/d0d/classDBGraphVertex.html#a64d6319afdb8394224ef22b8713aaf30" title=" " alt="" coords="164,189,321,215"/>
 </map>

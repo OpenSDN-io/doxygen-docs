@@ -1,9 +1,10 @@
 <map id="ContrailAgentInit::FactoryInit" name="ContrailAgentInit::FactoryInit">
-<area shape="rect" id="node2" href="$dd/d7f/structStaticObjectFactory.html#ae7d50d05afba5314d1587097ed03ee4e" title="StaticObjectFactory\l::LinkImpl" alt="" coords="209,5,357,46"/>
-<area shape="rect" id="node4" href="$d8/d16/classAgentInit.html#ac4c501db0fd60860ffd255be91260391" title="AgentInit::agent" alt="" coords="219,71,346,97"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a69109a71e7b00199ef93020e625241f0" title="Agent::tsn_enabled" alt="" coords="209,121,356,148"/>
-<area shape="rect" id="node6" href="$d8/d16/classAgentInit.html#ac1a170ee2974a22fbd377b5983727943" title="AgentInit::agent_param" alt="" coords="195,172,370,199"/>
-<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a2d0b54482678449329d39385a18d3648" title="AgentParam::vrouter\l_on_nic_mode" alt="" coords="205,223,361,265"/>
-<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#a90b6f67f2d8bdf0e52d2d06de8bd42e6" title="AgentParam::vrouter\l_on_host_dpdk" alt="" coords="205,289,361,330"/>
-<area shape="rect" id="node3" href="$dd/d7f/structStaticObjectFactory.html#a546dc71bad5003d7a4e7945dc065c100" title="StaticObjectFactory\l::NewInstance" alt="" coords="419,5,567,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,132,178"/>
+<area shape="rect" id="node2" href="$d8/d16/classAgentInit.html#afb41d5e09913db8d0262060dcdefd864" title=" " alt="" coords="201,5,316,32"/>
+<area shape="rect" id="node3" href="$d8/d16/classAgentInit.html#ad40b828d8c3d3c33ec92ff635b4503b9" title=" " alt="" coords="180,56,337,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/structStaticObjectFactory.html#ae7d50d05afba5314d1587097ed03ee4e" title=" " alt="" coords="189,107,328,149"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a61d6c826df9862838459ca07171b5607" title=" " alt="" coords="191,173,326,200"/>
+<area shape="rect" id="node7" href="$dc/dd4/classAgentParam.html#a80548bd7d8216e50820aed36062c2b9d" title=" " alt="" coords="187,225,330,266"/>
+<area shape="rect" id="node8" href="$dc/dd4/classAgentParam.html#a742f48ea2689a08aa786c5349f10a241" title=" " alt="" coords="187,290,330,331"/>
+<area shape="rect" id="node5" href="$dd/d7f/structStaticObjectFactory.html#a0089190ae6aa295595e31578a97f8a6a" title=" " alt="" coords="385,107,524,149"/>
 </map>

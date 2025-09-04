@@ -1,51 +1,52 @@
 <map id="AgentPath::ResolveGwNextHops" name="AgentPath::ResolveGwNextHops">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a1841d0530b2ad1c80970ee6f63b33a48" title="Agent::fabric_inet4\l_mpls_table" alt="" coords="346,5,491,46"/>
-<area shape="rect" id="node3" href="$da/dcd/classInetUnicastAgentRouteTable.html#a51f883814f3fb71817e6584b1560331e" title="InetUnicastAgentRouteTable\l::FindRoute" alt="" coords="316,70,521,111"/>
-<area shape="rect" id="node6" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="335,135,502,177"/>
-<area shape="rect" id="node7" href="$d4/d57/classAgentRoute.html#adcd6fd8eed3302495616afe5c8ab10ca" title="AgentRoute::GetActiveNextHop" alt="" coords="305,657,532,684"/>
-<area shape="rect" id="node17" href="$d4/d3d/classAgentPath.html#abc49b2a0d61e175d649862dc88a474fd" title="AgentPath::set_unresolved" alt="" coords="321,984,516,1011"/>
-<area shape="rect" id="node19" href="$dc/d2b/classAgentRouteTable.html#ac728f35b56af17a84e1d206c1d78f63b" title="AgentRouteTable::RemoveUnresolved\lRoute" alt="" coords="285,1035,552,1077"/>
-<area shape="rect" id="node20" href="$d4/d3d/classAgentPath.html#a99baed01ef8fcb2b766ecb4bcc9a91ea" title="AgentPath::GetParentRoute" alt="" coords="320,1101,517,1128"/>
-<area shape="rect" id="node21" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title="DBEntryBase::GetDBRequestKey" alt="" coords="862,1013,1095,1040"/>
-<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#afc2cbe5f2dc7a47e06cc0b2c291e4f01" title="Agent::nexthop_table" alt="" coords="898,404,1059,431"/>
-<area shape="rect" id="node22" href="$d4/d3d/classAgentPath.html#a8bc408e1e2e3fbc66e8db75a9b5a404b" title="AgentPath::set_nexthop" alt="" coords="331,1152,507,1179"/>
-<area shape="rect" id="node23" href="$d4/d3d/classAgentPath.html#acff9e2a1ae29e33cd0d3903d872d46d8" title="AgentPath::ChangeNH" alt="" coords="624,252,789,279"/>
-<area shape="rect" id="node24" href="$df/d45/classNextHopTable.html#a102e0d6b54600daa2c4947bf76d4862a" title="NextHopTable::discard_nh" alt="" coords="883,151,1074,177"/>
-<area shape="rect" id="node32" href="$d1/dcc/classNextHopKey.html#a6a7ea30241c974b9e2c4a1b3df7268d7" title="NextHopKey::GetType" alt="" coords="337,1203,500,1229"/>
-<area shape="rect" id="node33" href="$d1/dcc/classNextHopKey.html#a8533a8e26a97efa23aa4b25ca5745e29" title="NextHopKey::SetPolicy" alt="" coords="893,1245,1064,1272"/>
-<area shape="rect" id="node34" href="$d4/d3d/classAgentPath.html#a502c4e07dc11c919347a76d057b87752" title="AgentPath::ReorderCompositeNH" alt="" coords="301,883,537,909"/>
-<area shape="rect" id="node44" href="$d4/d57/classAgentRoute.html#a4ab2e9e00a91215fb5bc6fd43d107d07" title="AgentRoute::FindLocalVmPortPath" alt="" coords="298,1448,539,1475"/>
-<area shape="rect" id="node49" href="$d4/d3d/classAgentPath.html#ac52dc2ad6f82f052c13a4e8b38dba5c5" title="AgentPath::ChangeCompositeNH" alt="" coords="301,404,536,431"/>
-<area shape="rect" id="node4" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title="InetUnicastAgentRouteTable\l::FindLPM" alt="" coords="604,70,809,111"/>
-<area shape="rect" id="node5" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title="Patricia::Tree::LPMFind" alt="" coords="896,77,1061,104"/>
-<area shape="rect" id="node8" href="$d4/d57/classAgentRoute.html#a9d3d33d2182d36a082e317357095e0a6" title="AgentRoute::GetActivePath" alt="" coords="608,556,805,583"/>
-<area shape="rect" id="node11" href="$d4/d3d/classAgentPath.html#a5a46d1874c227dc68c1def831479a4d0" title="AgentPath::ComputeNextHop" alt="" coords="601,657,813,684"/>
-<area shape="rect" id="node15" href="$d8/d44/classDBEntryBase.html#ab23d96cee4ce5e8241e431ab9063a00d" title="DBEntryBase::get_table" alt="" coords="619,607,795,633"/>
-<area shape="rect" id="node9" href="$de/df8/classRoute.html#a2826bd0433a2f5a38c273dc0dd0dd09c" title="Route::front" alt="" coords="929,552,1028,579"/>
-<area shape="rect" id="node10" href="$d4/d3d/classAgentPath.html#a4d73b4024340c38a9cbb6aaeb004ec42" title="AgentPath::UsablePath" alt="" coords="894,501,1063,528"/>
-<area shape="rect" id="node13" href="$db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title="AgentDBTable::FindActive\lEntry" alt="" coords="885,654,1073,695"/>
-<area shape="rect" id="node14" href="$d2/db8/classDependencyRef.html#a8cf929ac51fbc28d3edf22a9a7baeb41" title="DependencyRef::get" alt="" coords="902,771,1055,797"/>
-<area shape="rect" id="node16" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title="DBTablePartBase::parent" alt="" coords="887,603,1070,629"/>
-<area shape="rect" id="node18" href="$d4/d3d/classAgentPath.html#af852f1a31fbbe9ef3a01b23b2814cf56" title="AgentPath::unresolved" alt="" coords="623,1347,791,1373"/>
-<area shape="rect" id="node25" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="909,720,1049,747"/>
-<area shape="rect" id="node26" href="$d0/daf/classTunnelNH.html#ab6838feedf038e489355b779bfe2acf5" title="TunnelNH::GetDip" alt="" coords="910,252,1047,279"/>
-<area shape="rect" id="node27" href="$d9/d84/agent__path_8cc.html#afaecf02d5f28e98bfc84b4949efbee09" title="RebakeLabel" alt="" coords="926,303,1031,329"/>
-<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a809ef2c3eb911e300fb623d99ea11836" title="Agent::mpls_table" alt="" coords="909,353,1049,380"/>
-<area shape="rect" id="node31" href="$d4/d3d/classAgentPath.html#a827e530f7ed7be33a03c3d0b3e8f2028" title="AgentPath::PostChangeNH" alt="" coords="882,201,1075,228"/>
-<area shape="rect" id="node28" href="$df/de8/classMplsLabel.html#a772bd66adc77a13eabd98a95fd640469" title="MplsLabel::ChangeNH" alt="" coords="1150,273,1314,300"/>
-<area shape="rect" id="node29" href="$d8/d44/classDBEntryBase.html#a5d756cf430a98830d7f3ae8fcd11af37" title="DBEntryBase::get_table\l_partition" alt="" coords="1144,325,1320,366"/>
-<area shape="rect" id="node35" href="$d4/d3d/classAgentPath.html#a2a9c8756d9b457ba1125a501d60ceb84" title="AgentPath::CopyLocalPath" alt="" coords="611,1245,802,1272"/>
-<area shape="rect" id="node36" href="$d6/d6c/classCompositeNHKey.html#a38e1612b64c6fbdee4712bbe2ea23547" title="CompositeNHKey::component\l_nh_key_list" alt="" coords="871,1086,1087,1127"/>
-<area shape="rect" id="node37" href="$d6/d6c/classCompositeNHKey.html#a579dd7fd9c3fb194a4ad0972f8a35ffb" title="CompositeNHKey::composite\l_nh_type" alt="" coords="601,875,812,917"/>
-<area shape="rect" id="node38" href="$d2/db8/classDependencyRef.html#a0b849af3b740b9e111d17f21589a25bf" title="DependencyRef::reset" alt="" coords="624,941,789,968"/>
-<area shape="rect" id="node39" href="$df/de8/classMplsLabel.html#a120304e249c7b7391d2448a966d21f95" title="MplsLabel::nexthop" alt="" coords="633,1144,781,1171"/>
-<area shape="rect" id="node40" href="$d1/dcc/classNextHopKey.html#a4f07e24c7d78f6c347e0ddd4eb369bc9" title="NextHopKey::IsEqual" alt="" coords="628,1195,785,1221"/>
-<area shape="rect" id="node41" href="$d6/d6c/classCompositeNHKey.html#aca9350a4085b494dd2fda52e2a9790c5" title="CompositeNHKey::Clone" alt="" coords="617,455,797,481"/>
-<area shape="rect" id="node42" href="$d6/d6c/classCompositeNHKey.html#ab7b65f42e906763ef62d0609b2cdd677" title="CompositeNHKey::Reorder" alt="" coords="610,1043,803,1069"/>
-<area shape="rect" id="node43" href="$d4/d3d/classAgentPath.html#ad28b9c6fd3b27a9188cafce8e30935e8" title="AgentPath::set_composite\l_nh_key" alt="" coords="611,810,802,851"/>
-<area shape="rect" id="node45" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="636,1397,777,1424"/>
-<area shape="rect" id="node46" href="$d4/d3d/classAgentPath.html#a21f05734eb71e6f311ba36a1006ece0b" title="AgentPath::peer" alt="" coords="644,1448,769,1475"/>
-<area shape="rect" id="node47" href="$d6/dd4/classPeer.html#ae53df0331ba68f5841cb0452a4427cbb" title="Peer::export_to_controller" alt="" coords="611,1499,802,1525"/>
-<area shape="rect" id="node48" href="$d6/dd4/classPeer.html#a536f168c9640321e24169eab8d26d14f" title="Peer::GetType" alt="" coords="651,1549,763,1576"/>
-<area shape="rect" id="node50" href="$df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title="NextHopTable::Process" alt="" coords="621,404,792,431"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1026,221,1052"/>
+<area shape="rect" id="node2" href="$d4/d3d/classAgentPath.html#ac52dc2ad6f82f052c13a4e8b38dba5c5" title=" " alt="" coords="281,335,500,362"/>
+<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#acff9e2a1ae29e33cd0d3903d872d46d8" title=" " alt="" coords="580,158,736,184"/>
+<area shape="rect" id="node4" href="$df/d45/classNextHopTable.html#a13c89272547cfb54a83f771d683bb393" title=" " alt="" coords="827,6,1003,32"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#ab35cbd29ce20cbd883d83ade78492314" title=" " alt="" coords="842,208,987,235"/>
+<area shape="rect" id="node20" href="$d8/dfe/classAgent.html#ada31b78a36745ff6873cce56e6243bee" title=" " alt="" coords="325,497,456,538"/>
+<area shape="rect" id="node21" href="$d4/d57/classAgentRoute.html#af3c5bc04adb6e16857098dd70fc5b24c" title=" " alt="" coords="277,563,504,590"/>
+<area shape="rect" id="node26" href="$da/dcd/classInetUnicastAgentRouteTable.html#a51f883814f3fb71817e6584b1560331e" title=" " alt="" coords="296,904,485,945"/>
+<area shape="rect" id="node28" href="$d4/d57/classAgentRoute.html#a7cb1d855b6a95bd2bac8256080af814b" title=" " alt="" coords="287,766,495,792"/>
+<area shape="rect" id="node33" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title=" " alt="" coords="804,1380,1025,1407"/>
+<area shape="rect" id="node34" href="$d4/d3d/classAgentPath.html#a99baed01ef8fcb2b766ecb4bcc9a91ea" title=" " alt="" coords="298,1076,483,1103"/>
+<area shape="rect" id="node35" href="$d1/dcc/classNextHopKey.html#a69d233520600a34f40b9a94cff34a91f" title=" " alt="" coords="315,1127,467,1154"/>
+<area shape="rect" id="node36" href="$d5/d9f/classInetUnicastRouteEntry.html#a7fad580780242fccc9db5c419debe392" title="!" alt="" coords="313,1178,469,1220"/>
+<area shape="rect" id="node37" href="$dc/d2b/classAgentRouteTable.html#ac728f35b56af17a84e1d206c1d78f63b" title=" " alt="" coords="269,1244,512,1285"/>
+<area shape="rect" id="node38" href="$d4/d3d/classAgentPath.html#a502c4e07dc11c919347a76d057b87752" title=" " alt="" coords="281,1026,500,1052"/>
+<area shape="rect" id="node42" href="$d1/dcc/classNextHopKey.html#a8533a8e26a97efa23aa4b25ca5745e29" title=" " alt="" coords="835,1519,994,1546"/>
+<area shape="rect" id="node48" href="$d4/d3d/classAgentPath.html#a8bc408e1e2e3fbc66e8db75a9b5a404b" title=" " alt="" coords="309,1623,472,1650"/>
+<area shape="rect" id="node49" href="$d4/d3d/classAgentPath.html#abc49b2a0d61e175d649862dc88a474fd" title=" " alt="" coords="301,1674,480,1700"/>
+<area shape="rect" id="node12" href="$d6/d6c/classCompositeNHKey.html#aefcc13c0789b70b543aa964a286a4fa9" title=" " alt="" coords="574,563,742,590"/>
+<area shape="rect" id="node14" href="$d4/d3d/classAgentPath.html#acddeaccefd75a53ba597703c5d2e7b3a" title=" " alt="" coords="839,1210,990,1252"/>
+<area shape="rect" id="node15" href="$df/d45/classNextHopTable.html#aacfbee692927a63d53a51acd5107edab" title=" " alt="" coords="577,310,739,336"/>
+<area shape="rect" id="node5" href="$d0/daf/classTunnelNH.html#a66251fd2e7a97bb2de8ab4189551f607" title=" " alt="" coords="850,56,979,83"/>
+<area shape="rect" id="node6" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="849,668,980,695"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#af7bbf3306dda06261650605f06082d7d" title=" " alt="" coords="851,259,978,286"/>
+<area shape="rect" id="node9" href="$d4/d3d/classAgentPath.html#a827e530f7ed7be33a03c3d0b3e8f2028" title=" " alt="" coords="823,107,1006,134"/>
+<area shape="rect" id="node10" href="$d9/d84/agent__path_8cc.html#afaecf02d5f28e98bfc84b4949efbee09" title=" " alt="" coords="867,158,963,184"/>
+<area shape="rect" id="node11" href="$df/de8/classMplsLabel.html#a772bd66adc77a13eabd98a95fd640469" title=" " alt="" coords="1073,158,1228,184"/>
+<area shape="rect" id="node13" href="$d6/d6c/classCompositeNHKey.html#aa770952fd9ef4310958134d6d6060a05" title=" " alt="" coords="816,556,1013,597"/>
+<area shape="rect" id="node16" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="841,462,988,488"/>
+<area shape="rect" id="node17" href="$d8/dfe/classAgent.html#a6d386e8bb92e88e2c0e346903028ab43" title=" " alt="" coords="827,310,1003,336"/>
+<area shape="rect" id="node18" href="$d5/d0a/classDBTable.html#abdc783ae6c9e307f0934728526963804" title=" " alt="" coords="824,360,1005,387"/>
+<area shape="rect" id="node19" href="$df/d9e/classDBTablePartition.html#a137537860d09631f824dfa386e75faa9" title=" " alt="" coords="826,411,1003,438"/>
+<area shape="rect" id="node22" href="$d6/dd4/classPeer.html#a88b307d086e73921bf95a2e7ff610e94" title=" " alt="" coords="573,462,743,488"/>
+<area shape="rect" id="node23" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="591,512,725,539"/>
+<area shape="rect" id="node24" href="$d6/dd4/classPeer.html#a2457955a9aa1c5c2a2d12f297418f167" title=" " alt="" coords="605,614,711,640"/>
+<area shape="rect" id="node25" href="$d4/d3d/classAgentPath.html#abd5608275f8fe0c476d41fa251c264ee" title=" " alt="" coords="600,411,716,438"/>
+<area shape="rect" id="node27" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="563,817,753,858"/>
+<area shape="rect" id="node29" href="$d4/d3d/classAgentPath.html#afcf8bfbaeaf9639279b240691a90bbde" title=" " alt="" coords="560,766,756,792"/>
+<area shape="rect" id="node31" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="576,664,740,691"/>
+<area shape="rect" id="node32" href="$d4/d57/classAgentRoute.html#a6e333f7398c11428594f33747c20c554" title=" " alt="" coords="567,715,749,742"/>
+<area shape="rect" id="node30" href="$d2/db8/classDependencyRef.html#a7ffbd461b856efaa7308518d747c6500" title=" " alt="" coords="844,850,985,876"/>
+<area shape="rect" id="node39" href="$d6/d6c/classCompositeNHKey.html#abfbf7e31640297dad99b6a7c05d1ea54" title=" " alt="" coords="815,1453,1014,1494"/>
+<area shape="rect" id="node40" href="$d6/d6c/classCompositeNHKey.html#a03233adf867208d9596abdb5c8f4eca9" title=" " alt="" coords="561,1050,755,1092"/>
+<area shape="rect" id="node41" href="$d4/d3d/classAgentPath.html#a2a9c8756d9b457ba1125a501d60ceb84" title=" " alt="" coords="568,1471,748,1498"/>
+<area shape="rect" id="node43" href="$d1/dcc/classNextHopKey.html#a9839f12685fbdc68d4f7bc1cd1fd5268" title=" " alt="" coords="585,1116,731,1143"/>
+<area shape="rect" id="node44" href="$df/de8/classMplsLabel.html#a95d045bc92b1e9c893d113c9fbb7b49a" title=" " alt="" coords="591,1167,725,1194"/>
+<area shape="rect" id="node45" href="$d6/d6c/classCompositeNHKey.html#ab7b65f42e906763ef62d0609b2cdd677" title=" " alt="" coords="569,1370,747,1396"/>
+<area shape="rect" id="node46" href="$d2/db8/classDependencyRef.html#a0b849af3b740b9e111d17f21589a25bf" title=" " alt="" coords="582,1268,734,1295"/>
+<area shape="rect" id="node47" href="$d4/d3d/classAgentPath.html#ad28b9c6fd3b27a9188cafce8e30935e8" title=" " alt="" coords="570,985,746,1026"/>
+<area shape="rect" id="node50" href="$d4/d3d/classAgentPath.html#acbb336805a5ce0daa9a65e7479f0dba7" title=" " alt="" coords="581,1674,735,1700"/>
 </map>

@@ -1,9 +1,10 @@
 <map id="etcdserverpb::AuthRoleRevokePermissionRequest::MergePartialFromCodedStream" name="etcdserverpb::AuthRoleRevokePermissionRequest::MergePartialFromCodedStream">
-<area shape="rect" id="node2" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#affd99baaaf06e68010255d6535193f1c" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::mutable_role" alt="" coords="288,5,528,46"/>
-<area shape="rect" id="node3" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a8acde2720e98ca72edabaaa1d434c212" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::role" alt="" coords="297,70,519,111"/>
-<area shape="rect" id="node4" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac3001b8c7ce847cec6a31725b8d334db" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::mutable_key" alt="" coords="289,135,527,177"/>
-<area shape="rect" id="node5" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a1c85a9f6b6428a085e0dd0b745c07118" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::key" alt="" coords="297,201,519,242"/>
-<area shape="rect" id="node6" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a56baf65565b4694f0e6b616d4cbc644d" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::mutable\l_range_end" alt="" coords="297,267,519,323"/>
-<area shape="rect" id="node7" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a0c7f865e4459476350337246cf02e80c" title="etcdserverpb::AuthRoleRevoke\lPermissionRequest::range_end" alt="" coords="297,347,519,389"/>
-<area shape="rect" id="node8" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title="failure" alt="" coords="376,413,440,440"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,188,221,244"/>
+<area shape="rect" id="node2" href="$d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html#ae8d9b5e02cc2732cc27da0108a219a05" title=" " alt="" coords="349,5,406,32"/>
+<area shape="rect" id="node3" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#acac5732167b36b7a3f15793e3c13945b" title=" " alt="" coords="276,57,479,98"/>
+<area shape="rect" id="node4" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac3001b8c7ce847cec6a31725b8d334db" title=" " alt="" coords="270,122,485,163"/>
+<area shape="rect" id="node5" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a56baf65565b4694f0e6b616d4cbc644d" title=" " alt="" coords="276,188,479,244"/>
+<area shape="rect" id="node6" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#affd99baaaf06e68010255d6535193f1c" title=" " alt="" coords="269,269,485,310"/>
+<area shape="rect" id="node7" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a7397214fdcda44b15c9da7056dc482dd" title=" " alt="" coords="276,334,479,375"/>
+<area shape="rect" id="node8" href="$d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#adc7411862bb08f82b0ea06e232555745" title=" " alt="" coords="276,399,479,441"/>
 </map>

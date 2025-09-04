@@ -1,5 +1,9 @@
 <map id="VmInterface::UpdatePolicySet" name="VmInterface::UpdatePolicySet">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a682953957a3757fca8bb0abad338dfbe" title="Agent::policy_set_table" alt="" coords="274,5,449,32"/>
-<area shape="rect" id="node3" href="$d8/dbb/classPolicySetTable.html#acb2484f6dcb08c83474f1d6b8b963059" title="PolicySetTable::global\l_policy_set" alt="" coords="279,57,443,98"/>
-<area shape="rect" id="node4" href="$d0/dfd/classPolicySet.html#a31540ee90f49a1ad37c5ce045709d583" title="PolicySet::fw_policy_list" alt="" coords="272,123,451,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,205,112"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a0c9ef1986396fe775a706188a0457a7a" title=" " alt="" coords="269,5,403,32"/>
+<area shape="rect" id="node5" href="$d0/dfd/classPolicySet.html#a31540ee90f49a1ad37c5ce045709d583" title=" " alt="" coords="253,56,419,83"/>
+<area shape="rect" id="node6" href="$d8/dbb/classPolicySetTable.html#ad20c1400637782a93f62caf5f0e587bc" title=" " alt="" coords="261,107,411,149"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#af2b4ac2fb27631d11cf8fc7f296569a0" title=" " alt="" coords="257,173,415,200"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="467,5,631,32"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="679,5,849,32"/>
 </map>

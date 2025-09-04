@@ -1,15 +1,14 @@
 <map id="TcpServer::InitializeInternal" name="TcpServer::InitializeInternal">
-<area shape="rect" id="node2" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title="EventManager::io_service" alt="" coords="733,187,923,213"/>
-<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title="TcpServer::ResetAcceptor" alt="" coords="253,56,440,83"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#adeadb74d89ea5c2e08528e39514d7264" title="TcpSession::local_endpoint" alt="" coords="489,107,685,133"/>
-<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#af388d3c33a40af67fc923cb41b510370" title="TcpServer::SetName" alt="" coords="270,5,423,32"/>
-<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#abf1900123d3ee0a062316a6ee442e60b" title="TcpServer::AsyncAccept" alt="" coords="259,275,435,301"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="756,107,900,133"/>
-<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#ae32fe7c040353fd774504cc9cfa89b0f" title="TcpServer::set_accept\l_socket" alt="" coords="505,209,668,250"/>
-<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#aa5b13b14fbca3b11c7241660a8bae5f5" title="TcpServer::accept_socket" alt="" coords="735,275,921,301"/>
-<area shape="rect" id="node10" href="$de/df9/classTcpServer.html#a889b149a62398c6ca0178ed91a774a9d" title="TcpServer::AcceptHandler\lInternal" alt="" coords="493,326,681,367"/>
-<area shape="rect" id="node11" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title="TcpServer::AllocSession" alt="" coords="741,392,915,419"/>
-<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#af9caeafa9ae2a549a8c24e240831c0ef" title="TcpServer::AcceptHandler\lComplete" alt="" coords="734,326,922,367"/>
-<area shape="rect" id="node13" href="$de/df9/classTcpServer.html#af0d2a32ff8dd6059049a7f5539467a67" title="TcpServer::AcceptSession" alt="" coords="971,304,1157,331"/>
-<area shape="rect" id="node14" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title="TcpServer::InsertSession\lToMap" alt="" coords="974,355,1154,397"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,184,240"/>
+<area shape="rect" id="node2" href="$de/df9/classTcpServer.html#abf1900123d3ee0a062316a6ee442e60b" title=" " alt="" coords="236,64,403,91"/>
+<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128" title=" " alt="" coords="678,180,851,207"/>
+<area shape="rect" id="node11" href="$de/df9/classTcpServer.html#ae8a0e170981c91bea678e40b8472676b" title=" " alt="" coords="232,239,407,265"/>
+<area shape="rect" id="node12" href="$de/df9/classTcpServer.html#af388d3c33a40af67fc923cb41b510370" title=" " alt="" coords="247,289,391,316"/>
+<area shape="rect" id="node3" href="$de/df9/classTcpServer.html#a8487b5ec379fea93cfb6f76413e0eef1" title=" " alt="" coords="678,5,851,32"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html#a889b149a62398c6ca0178ed91a774a9d" title=" " alt="" coords="455,57,629,98"/>
+<area shape="rect" id="node9" href="$de/df9/classTcpServer.html#ae32fe7c040353fd774504cc9cfa89b0f" title=" " alt="" coords="465,122,619,163"/>
+<area shape="rect" id="node5" href="$de/df9/classTcpServer.html#af9caeafa9ae2a549a8c24e240831c0ef" title=" " alt="" coords="677,57,852,98"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html#a783abff91c89e48a33339077d2cc26eb" title=" " alt="" coords="682,123,847,149"/>
+<area shape="rect" id="node6" href="$de/df9/classTcpServer.html#af0d2a32ff8dd6059049a7f5539467a67" title=" " alt="" coords="900,35,1077,61"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html#ad6b50ff54d002562a89904ce4c4461c7" title=" " alt="" coords="903,86,1074,127"/>
 </map>

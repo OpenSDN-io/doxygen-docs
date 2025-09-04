@@ -1,51 +1,52 @@
 <map id="Dhcpv6Handler::Run" name="Dhcpv6Handler::Run">
-<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a00ed9883cfb1380969f99e1a587b037e" title="ProtoHandler::agent" alt="" coords="1157,712,1309,739"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a383ef0471267255bae50907d2fe59a74" title="Agent::dhcpv6_proto" alt="" coords="1155,960,1311,987"/>
-<area shape="rect" id="node4" href="$d1/df7/classDhcpv6Proto.html#ad2a5ed8294798fcfb246e7b0597c922f" title="Dhcpv6Proto::IncrStatsError" alt="" coords="837,56,1038,83"/>
-<area shape="rect" id="node5" href="$df/da5/classProtoHandler.html#ab821539af1738830be473756f6927716" title="ProtoHandler::GetInterface\lIndex" alt="" coords="839,705,1035,746"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a1763098920517b4774b95a4287ac71d0" title="Agent::interface_table" alt="" coords="254,283,421,309"/>
-<area shape="rect" id="node7" href="$d2/d73/classInterfaceTable.html#a3460257f9b0fa13a0f7104f38d835aa3" title="InterfaceTable::FindInterface" alt="" coords="234,333,441,360"/>
-<area shape="rect" id="node10" href="$d0/dcc/classInterface.html#aa4e925f921176be2ba014008dadde813" title="Interface::type" alt="" coords="279,384,396,411"/>
-<area shape="rect" id="node11" href="$d5/d21/classVmInterface.html#a3618e6b6c70f0fae4ae75e70a0329876" title="VmInterface::dhcp_enable\l_v6_config" alt="" coords="241,435,433,477"/>
-<area shape="rect" id="node12" href="$d1/dff/classDhcpv6Handler.html#a0178aec8e5a248bb05c9785ddf75145f" title="Dhcpv6Handler::ReadOptions" alt="" coords="231,48,443,75"/>
-<area shape="rect" id="node15" href="$d1/df7/classDhcpv6Proto.html#a6faed4c02f4a96d7aabcde1b877fc810" title="Dhcpv6Proto::IncrStatsSolicit" alt="" coords="232,552,443,579"/>
-<area shape="rect" id="node14" href="$d0/dcc/classInterface.html#ac19c400d9ed5e7319db267d9bd0258de" title="Interface::name" alt="" coords="875,5,1000,32"/>
-<area shape="rect" id="node16" href="$d1/df7/classDhcpv6Proto.html#a75666b416cce1f5e635e507379446059" title="Dhcpv6Proto::IncrStatsRequest" alt="" coords="226,653,449,680"/>
-<area shape="rect" id="node17" href="$d1/df7/classDhcpv6Proto.html#a1465639e3bfb7b0680264b1b6b2544e6" title="Dhcpv6Proto::IncrStatsConfirm" alt="" coords="227,704,448,731"/>
-<area shape="rect" id="node18" href="$d1/df7/classDhcpv6Proto.html#a9d3341040870f5528f55fe5f46c98ffa" title="Dhcpv6Proto::IncrStatsRenew" alt="" coords="231,755,444,781"/>
-<area shape="rect" id="node19" href="$d1/df7/classDhcpv6Proto.html#aa34b40917cc98767c7bb9a6ac5ee1b18" title="Dhcpv6Proto::IncrStatsRebind" alt="" coords="230,805,445,832"/>
-<area shape="rect" id="node20" href="$d1/df7/classDhcpv6Proto.html#aeebf366416ca64fc28d1afd803a95501" title="Dhcpv6Proto::IncrStatsRelease" alt="" coords="227,856,448,883"/>
-<area shape="rect" id="node21" href="$d1/df7/classDhcpv6Proto.html#a45be2683a0480a499a95e69f6bd7635a" title="Dhcpv6Proto::IncrStatsDecline" alt="" coords="228,907,447,933"/>
-<area shape="rect" id="node22" href="$d1/df7/classDhcpv6Proto.html#a5c9015c1a462430ec01d4044ffa30171" title="Dhcpv6Proto::IncrStatsReconfigure" alt="" coords="214,957,461,984"/>
-<area shape="rect" id="node23" href="$d1/df7/classDhcpv6Proto.html#a25c0de56bfd450b821d77040a2dc2984" title="Dhcpv6Proto::IncrStatsInformation\lRequest" alt="" coords="214,1009,461,1050"/>
-<area shape="rect" id="node24" href="$d1/dff/classDhcpv6Handler.html#af2f4b7adfc46164ddf8a595c3ddbcb3b" title="Dhcpv6Handler::FindLeaseData" alt="" coords="523,283,749,309"/>
-<area shape="rect" id="node38" href="$d1/dff/classDhcpv6Handler.html#a22af820df90051a3a2ba2e14a7a85535" title="Dhcpv6Handler::SendDhcpResponse" alt="" coords="209,1075,466,1101"/>
-<area shape="rect" id="node50" href="$db/d49/classServicesSandesh.html#a24b3ad204f40e1558dc2c9a0740e1d24" title="ServicesSandesh::Dhcpv6MsgType" alt="" coords="215,1176,460,1203"/>
-<area shape="rect" id="node8" href="$d6/d34/classIndexVector.html#a0e207723cd5ac65242737a8feeee6666" title="IndexVector::At" alt="" coords="575,333,697,360"/>
-<area shape="rect" id="node9" href="$d8/d44/classDBEntryBase.html#af5c1c9aba24569905b6d627451f2b484" title="DBEntryBase::IsDeleted" alt="" coords="547,384,725,411"/>
-<area shape="rect" id="node13" href="$d1/dff/classDhcpv6Handler.html#a903fcea2f3678c09761ef395904b68ad" title="Dhcpv6Handler::ReadIA" alt="" coords="549,11,723,37"/>
-<area shape="rect" id="node25" href="$d5/d21/classVmInterface.html#a9c0028149535fe16b78d112aee99eeb4" title="VmInterface::primary\l_ip6_addr" alt="" coords="857,334,1018,375"/>
-<area shape="rect" id="node26" href="$dd/d33/classDhcpHandlerBase.html#a1c5d898a1ac7d4b6168004548838cb6e" title="DhcpHandlerBase::FindDomainName" alt="" coords="806,501,1069,528"/>
-<area shape="rect" id="node31" href="$d5/d21/classVmInterface.html#a9d279015d37097b6e16c77293447c746" title="VmInterface::IsActive" alt="" coords="856,232,1019,259"/>
-<area shape="rect" id="node33" href="$d5/d21/classVmInterface.html#a9db77e428f9147cdab24aeabf795dc0a" title="VmInterface::fabric_port" alt="" coords="847,451,1027,477"/>
-<area shape="rect" id="node27" href="$d5/d21/classVmInterface.html#ad3409722d31d08b926a0660636083917" title="VmInterface::vn" alt="" coords="1170,425,1297,452"/>
-<area shape="rect" id="node34" href="$d8/d00/classVnEntry.html#a1037b99b37ff98fdbb43f757b0ed528b" title="VnEntry::GetVnIpam" alt="" coords="861,107,1014,133"/>
-<area shape="rect" id="node35" href="$de/d5f/address__util_8cc.html#a2925d338852099df58209429ec5679c6" title="IsIp6SubnetMember" alt="" coords="862,157,1013,184"/>
-<area shape="rect" id="node37" href="$d1/dff/classDhcpv6Handler.html#a2ce0c00e8f5658666402af70de21a706" title="Dhcpv6Handler::FillDhcpInfo" alt="" coords="834,283,1041,309"/>
-<area shape="rect" id="node28" href="$d8/d00/classVnEntry.html#aebaf370dbee44ba02dedd99f4c2c4e6d" title="VnEntry::GetIpamData" alt="" coords="1150,501,1317,528"/>
-<area shape="rect" id="node29" href="$d8/d00/classVnEntry.html#aa1e3556d0db5c9b74a3335aaac939f60" title="VnEntry::GetIpamName" alt="" coords="1398,472,1573,499"/>
-<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a1727d2439ac08247f06ec1cb488037b4" title="Agent::domain_config\l_table" alt="" coords="1404,523,1567,565"/>
-<area shape="rect" id="node32" href="$d3/d81/classVnswInterfaceListenerBase.html#a23c8d94a615dd774265d25b62f301967" title="VnswInterfaceListenerBase\l::IsHostLinkStateUp" alt="" coords="1134,225,1333,266"/>
-<area shape="rect" id="node36" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title="Address::GetIp6SubnetAddress" alt="" coords="1122,157,1345,184"/>
-<area shape="rect" id="node39" href="$d1/dff/classDhcpv6Handler.html#ae15d22df9a068bf9cf74bcbd32b8682c" title="Dhcpv6Handler::UpdateStats" alt="" coords="832,1176,1043,1203"/>
-<area shape="rect" id="node42" href="$d1/dff/classDhcpv6Handler.html#a0956af3b5c701d5f65d41099b18aea3f" title="Dhcpv6Handler::FillDhcpResponse" alt="" coords="515,948,757,975"/>
-<area shape="rect" id="node49" href="$df/da5/classProtoHandler.html#a0490d63958a7202fc6d91970ba3cd083" title="ProtoHandler::Send" alt="" coords="563,897,709,924"/>
-<area shape="rect" id="node40" href="$d1/df7/classDhcpv6Proto.html#ae5f518bfc0964b40e30448da05441eb1" title="Dhcpv6Proto::IncrStatsAdvertise" alt="" coords="1117,1151,1349,1177"/>
-<area shape="rect" id="node41" href="$d1/df7/classDhcpv6Proto.html#ac8211dd7cb06035f1abdeea5b6beec53" title="Dhcpv6Proto::IncrStatsReply" alt="" coords="1130,1201,1337,1228"/>
-<area shape="rect" id="node43" href="$df/da5/classProtoHandler.html#a41828042451de578f355b40425f20778" title="ProtoHandler::EthHdr" alt="" coords="858,923,1017,949"/>
-<area shape="rect" id="node44" href="$d8/dfe/classAgent.html#abbc0825c7dfc8d97dd49c46b8b842352" title="Agent::vhost_interface" alt="" coords="853,973,1022,1000"/>
-<area shape="rect" id="node45" href="$d0/dcc/classInterface.html#abb83064a529ab788f6ca5cd8592def91" title="Interface::mac" alt="" coords="879,1024,995,1051"/>
-<area shape="rect" id="node46" href="$d1/dff/classDhcpv6Handler.html#aa1796ad6a9abf1abe5cb3b3fc183677d" title="Dhcpv6Handler::FillDhcpv6Hdr" alt="" coords="827,821,1047,848"/>
-<area shape="rect" id="node47" href="$df/da5/classProtoHandler.html#a414315d3d64bc2703e140718ef3bad17" title="ProtoHandler::UdpHdr" alt="" coords="855,1075,1019,1101"/>
-<area shape="rect" id="node48" href="$df/da5/classProtoHandler.html#a9e7a6af1a6368b4bcd3fbf756bbecfa8" title="ProtoHandler::Ip6Hdr" alt="" coords="858,872,1017,899"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1236,149,1263"/>
+<area shape="rect" id="node2" href="$df/da5/classProtoHandler.html#a03df49b4b402cfca884456abdd216160" title=" " alt="" coords="807,181,946,208"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#ae12c52ea01bb76b61e1816a3aba732f9" title=" " alt="" coords="229,1199,404,1241"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a96edb70e8b11523062d552d271a41b55" title=" " alt="" coords="805,232,948,259"/>
+<area shape="rect" id="node5" href="$db/d49/classServicesSandesh.html#a24b3ad204f40e1558dc2c9a0740e1d24" title=" " alt="" coords="201,1265,432,1292"/>
+<area shape="rect" id="node6" href="$d2/d73/classInterfaceTable.html#a76a4011aaa7b61e58e813d7f19fc7395" title=" " alt="" coords="221,996,412,1023"/>
+<area shape="rect" id="node9" href="$d1/dff/classDhcpv6Handler.html#af2f4b7adfc46164ddf8a595c3ddbcb3b" title=" " alt="" coords="213,639,420,665"/>
+<area shape="rect" id="node16" href="$d1/df7/classDhcpv6Proto.html#ad2a5ed8294798fcfb246e7b0597c922f" title=" " alt="" coords="511,895,698,921"/>
+<area shape="rect" id="node21" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="801,1105,952,1132"/>
+<area shape="rect" id="node24" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="819,1156,934,1183"/>
+<area shape="rect" id="node34" href="$df/da5/classProtoHandler.html#afcfb4859972a3febd05f08683edee988" title=" " alt="" coords="787,37,966,78"/>
+<area shape="rect" id="node35" href="$d1/df7/classDhcpv6Proto.html#a1465639e3bfb7b0680264b1b6b2544e6" title=" " alt="" coords="214,1316,419,1343"/>
+<area shape="rect" id="node36" href="$d1/df7/classDhcpv6Proto.html#a45be2683a0480a499a95e69f6bd7635a" title=" " alt="" coords="215,1367,418,1393"/>
+<area shape="rect" id="node37" href="$d1/df7/classDhcpv6Proto.html#a25c0de56bfd450b821d77040a2dc2984" title=" " alt="" coords="205,1418,429,1459"/>
+<area shape="rect" id="node38" href="$d1/df7/classDhcpv6Proto.html#aa34b40917cc98767c7bb9a6ac5ee1b18" title=" " alt="" coords="217,1484,416,1511"/>
+<area shape="rect" id="node39" href="$d1/df7/classDhcpv6Proto.html#a5c9015c1a462430ec01d4044ffa30171" title=" " alt="" coords="203,1535,431,1561"/>
+<area shape="rect" id="node40" href="$d1/df7/classDhcpv6Proto.html#aeebf366416ca64fc28d1afd803a95501" title=" " alt="" coords="213,1585,420,1612"/>
+<area shape="rect" id="node41" href="$d1/df7/classDhcpv6Proto.html#a9d3341040870f5528f55fe5f46c98ffa" title=" " alt="" coords="217,1636,416,1663"/>
+<area shape="rect" id="node42" href="$d1/df7/classDhcpv6Proto.html#a75666b416cce1f5e635e507379446059" title=" " alt="" coords="213,1687,420,1713"/>
+<area shape="rect" id="node43" href="$d1/df7/classDhcpv6Proto.html#a6faed4c02f4a96d7aabcde1b877fc810" title=" " alt="" coords="219,1737,414,1764"/>
+<area shape="rect" id="node44" href="$d1/dff/classDhcpv6Handler.html#a0178aec8e5a248bb05c9785ddf75145f" title=" " alt="" coords="219,1097,414,1124"/>
+<area shape="rect" id="node46" href="$d1/dff/classDhcpv6Handler.html#a22af820df90051a3a2ba2e14a7a85535" title=" " alt="" coords="197,145,436,172"/>
+<area shape="rect" id="node50" href="$d0/dcc/classInterface.html#af0605da7d9b1f9af45c6d428342a6313" title=" " alt="" coords="263,1788,370,1815"/>
+<area shape="rect" id="node7" href="$d6/d34/classIndexVector.html#a9af21c519289e550ee81910ad1dea7e1" title=" " alt="" coords="549,996,661,1023"/>
+<area shape="rect" id="node8" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="793,1004,960,1031"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ac092d6a39b9d8178bf72783f4a32eaaa" title=" " alt="" coords="523,399,687,425"/>
+<area shape="rect" id="node11" href="$d1/dff/classDhcpv6Handler.html#a2ce0c00e8f5658666402af70de21a706" title=" " alt="" coords="509,601,700,628"/>
+<area shape="rect" id="node12" href="$dd/d33/classDhcpHandlerBase.html#a1c5d898a1ac7d4b6168004548838cb6e" title=" " alt="" coords="484,500,725,527"/>
+<area shape="rect" id="node14" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="819,333,935,360"/>
+<area shape="rect" id="node15" href="$d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="533,777,676,804"/>
+<area shape="rect" id="node17" href="$d5/d21/classVmInterface.html#a39758eea8240168be07a2a6a5acaf9c4" title=" " alt="" coords="530,676,679,703"/>
+<area shape="rect" id="node31" href="$de/d5f/address__util_8cc.html#a2925d338852099df58209429ec5679c6" title=" " alt="" coords="535,727,674,753"/>
+<area shape="rect" id="node33" href="$d5/d21/classVmInterface.html#ae0f4f55a7fa051b7d37511346db8909b" title=" " alt="" coords="531,829,678,870"/>
+<area shape="rect" id="node13" href="$d8/d00/classVnEntry.html#aa37dc86663eb7bdf2badabdb152cee52" title=" " alt="" coords="799,283,954,309"/>
+<area shape="rect" id="node18" href="$d5/d21/classVmInterface.html#a0c9ef1986396fe775a706188a0457a7a" title=" " alt="" coords="1028,592,1163,619"/>
+<area shape="rect" id="node19" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="796,668,957,695"/>
+<area shape="rect" id="node20" href="$d0/dcc/classInterface.html#ad8cbff5e7a74f3aee30db0b6318019cd" title=" " alt="" coords="811,719,942,745"/>
+<area shape="rect" id="node22" href="$d3/d81/classVnswInterfaceListenerBase.html#ab2f4abd83d9d5ad9b7b742add9d0db63" title=" " alt="" coords="785,770,968,811"/>
+<area shape="rect" id="node23" href="$d8/dfe/classAgent.html#a87be18c0ac33cfbd1d426558401da812" title=" " alt="" coords="827,836,926,863"/>
+<area shape="rect" id="node25" href="$d5/d21/classVmInterface.html#aab39db275d1e573a9b3a996baea5ef88" title=" " alt="" coords="789,887,964,913"/>
+<area shape="rect" id="node26" href="$d5/d21/classVmInterface.html#a328569d876a4319d21e9e48e21458152" title=" " alt="" coords="786,938,967,979"/>
+<area shape="rect" id="node27" href="$d0/dcc/classInterface.html#a9e3cf9116b2e50af75b7f96540d1d524" title=" " alt="" coords="809,384,944,411"/>
+<area shape="rect" id="node28" href="$d0/dcc/classInterface.html#a5d92565bab8f5894ba12dd7536ca0670" title=" " alt="" coords="813,435,941,477"/>
+<area shape="rect" id="node29" href="$d5/d21/classVmInterface.html#a34d3d31586d4bd95b54354f33843f1db" title=" " alt="" coords="807,617,946,644"/>
+<area shape="rect" id="node30" href="$d7/de7/classKSync.html#aa52c0c8c24e8468474ba2e402cd90317" title=" " alt="" coords="798,501,955,542"/>
+<area shape="rect" id="node32" href="$de/d6b/classAddress.html#af8e3c0f6d121a305147fa1c8fc017fb7" title=" " alt="" coords="773,1055,980,1081"/>
+<area shape="rect" id="node45" href="$d1/dff/classDhcpv6Handler.html#a903fcea2f3678c09761ef395904b68ad" title=" " alt="" coords="523,1097,686,1124"/>
+<area shape="rect" id="node47" href="$d1/dff/classDhcpv6Handler.html#a0956af3b5c701d5f65d41099b18aea3f" title=" " alt="" coords="491,145,718,172"/>
+<area shape="rect" id="node48" href="$df/da5/classProtoHandler.html#a0490d63958a7202fc6d91970ba3cd083" title=" " alt="" coords="537,95,673,121"/>
+<area shape="rect" id="node49" href="$d1/dff/classDhcpv6Handler.html#ae15d22df9a068bf9cf74bcbd32b8682c" title=" " alt="" coords="508,196,701,223"/>
 </map>

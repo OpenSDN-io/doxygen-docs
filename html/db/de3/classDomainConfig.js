@@ -14,7 +14,7 @@ var classDomainConfig =
     [ "GetVDns", "db/de3/classDomainConfig.html#a6efe98365c55df7585cdd442c8272fa8", null ],
     [ "Init", "db/de3/classDomainConfig.html#aefdd8addd6008f6bc93fc951e67b0997", null ],
     [ "IpamAddChange", "db/de3/classDomainConfig.html#ad452dfd4fad6bb1fd03d6bb441d63607", null ],
-    [ "IpamChanged", "db/de3/classDomainConfig.html#aa5c839a40c6a1a31acda850c5963fbc4", null ],
+    [ "IpamChanged", "db/de3/classDomainConfig.html#afcdc5c3da8c03d6f66c63938f7ce235c", null ],
     [ "IpamDelete", "db/de3/classDomainConfig.html#ae7648844996431cae2dd2e9147d2e826", null ],
     [ "RegisterIpamCb", "db/de3/classDomainConfig.html#a6ac20aa8687b35b1571f3f41d363988d", null ],
     [ "RegisterVdnsCb", "db/de3/classDomainConfig.html#ad4e4c5eaf770b157ae88f44bada41b5c", null ],

@@ -1,7 +1,8 @@
 <map id="AgentUtXmlPacket::ReadXml" name="AgentUtXmlPacket::ReadXml">
-<area shape="rect" id="node2" href="$d9/ddc/classAgentUtXmlNode.html#a82d866abc47d49425e1a8cd213fbd80c" title="AgentUtXmlNode::ReadXml" alt="" coords="265,12,466,39"/>
-<area shape="rect" id="node4" href="$d7/d9a/classAgentUtXmlPacketUtils.html#a563f529db39a428679ba8291f342e643" title="AgentUtXmlPacketUtils\l::ReadXml" alt="" coords="278,63,453,105"/>
-<area shape="rect" id="node6" href="$d9/ddc/classAgentUtXmlNode.html#a77ddbcd03b8d344d58eb4662cdad224f" title="AgentUtXmlNode::node" alt="" coords="278,129,453,156"/>
-<area shape="rect" id="node3" href="$d6/d24/namespaceAgentUtXmlUtils.html#aa6cc18bdabca15e0fdb72419750d5b11" title="AgentUtXmlUtils::GetString\lAttribute" alt="" coords="515,5,715,46"/>
-<area shape="rect" id="node5" href="$d6/d24/namespaceAgentUtXmlUtils.html#a316028bfc8b7a5e2d368bb86836713c4" title="AgentUtXmlUtils::GetUint\lAttribute" alt="" coords="520,70,709,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,200,83"/>
+<area shape="rect" id="node2" href="$d9/ddc/classAgentUtXmlNode.html#a397cc68c1b179126a2f1cd917bedf040" title=" " alt="" coords="261,5,421,32"/>
+<area shape="rect" id="node3" href="$d9/ddc/classAgentUtXmlNode.html#a82d866abc47d49425e1a8cd213fbd80c" title=" " alt="" coords="248,56,433,83"/>
+<area shape="rect" id="node5" href="$d7/d9a/classAgentUtXmlPacketUtils.html#a563f529db39a428679ba8291f342e643" title=" " alt="" coords="261,107,421,149"/>
+<area shape="rect" id="node4" href="$d6/d24/namespaceAgentUtXmlUtils.html#aa6cc18bdabca15e0fdb72419750d5b11" title=" " alt="" coords="481,49,664,90"/>
+<area shape="rect" id="node6" href="$d6/d24/namespaceAgentUtXmlUtils.html#a316028bfc8b7a5e2d368bb86836713c4" title=" " alt="" coords="486,114,659,155"/>
 </map>

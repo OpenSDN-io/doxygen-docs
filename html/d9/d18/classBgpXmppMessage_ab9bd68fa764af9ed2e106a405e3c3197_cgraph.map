@@ -1,11 +1,12 @@
 <map id="BgpXmppMessage::EncodeEnetNextHop" name="BgpXmppMessage::EncodeEnetNextHop">
-<area shape="rect" id="node2" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a925ea0bf0726fc20dcba845d3948c568" title="RibOutAttr::NextHop\l::address" alt="" coords="299,5,453,46"/>
-<area shape="rect" id="node3" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#ada1f0d3b38e12fd1c3cab569ddc0cb64" title="RibOutAttr::NextHop\l::label" alt="" coords="299,70,453,111"/>
-<area shape="rect" id="node4" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a9b33a5870db12d3e66b8625cd1ec0f93" title="RibOutAttr::NextHop\l::l3_label" alt="" coords="299,135,453,177"/>
-<area shape="rect" id="node5" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a6c013e19b564b177417dd2c956a999db" title="RibOutAttr::NextHop::mac" alt="" coords="281,201,471,228"/>
-<area shape="rect" id="node6" href="$d3/df5/classMacAddress.html#a1bc42ad1e9fcdae15fa1c7f021eb9727" title="MacAddress::IsZero" alt="" coords="301,252,451,279"/>
-<area shape="rect" id="node8" href="$d3/df5/classMacAddress.html#a61525bbaf4bed72eaf63cb2565999f47" title="MacAddress::ToString" alt="" coords="296,303,456,329"/>
-<area shape="rect" id="node9" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#ae3a9bd3fc4dee1cf8f481686ac418097" title="RibOutAttr::NextHop\l::encap" alt="" coords="299,354,453,395"/>
-<area shape="rect" id="node10" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#aa76b43a05d1c026563eec745cff8a1d3" title="RibOutAttr::NextHop\l::tag_list" alt="" coords="299,419,453,461"/>
-<area shape="rect" id="node7" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title="CompareTo" alt="" coords="521,252,615,279"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,221,216,263"/>
+<area shape="rect" id="node2" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#ad4f809298f034ea1c14597906651d03a" title=" " alt="" coords="281,5,425,47"/>
+<area shape="rect" id="node3" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a9bffc6a18216aab47341652f1d5c62ea" title=" " alt="" coords="281,71,425,112"/>
+<area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#a86b5dd2ee52e9b90c29287a210634f33" title=" " alt="" coords="283,137,423,163"/>
+<area shape="rect" id="node6" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a48eac9e8334b65c8ca52b5a3e5623b52" title=" " alt="" coords="281,188,425,229"/>
+<area shape="rect" id="node7" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a2b9ee1cf7f0e91b58d598de7f49f86a1" title=" " alt="" coords="281,253,425,295"/>
+<area shape="rect" id="node8" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#acfc839171fc4f02cfdbd20d766c7c9f5" title=" " alt="" coords="264,319,441,346"/>
+<area shape="rect" id="node9" href="$d4/dc4/classRibOutAttr_1_1NextHop.html#a9cfe87d4b7b3d37642cae00e2a61be69" title=" " alt="" coords="281,371,425,412"/>
+<area shape="rect" id="node10" href="$d3/df5/classMacAddress.html#a13cee0d772aea4317ceaf2d8038b495a" title=" " alt="" coords="277,437,428,463"/>
+<area shape="rect" id="node5" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title=" " alt="" coords="489,137,579,163"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="etcdserverpb::AuthUserDeleteRequest::New" name="etcdserverpb::AuthUserDeleteRequest::New">
-<area shape="rect" id="node2" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a28afa8c14c25dfb2654260cf5428e5f2" title="etcdserverpb::AuthUserDelete\lRequest::AuthUserDeleteRequest" alt="" coords="272,93,509,134"/>
-<area shape="rect" id="node3" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#ac2707d442ac8efec47f4602c5bfeec64" title="etcdserverpb::AuthUserDelete\lRequest::internal_default\l_instance" alt="" coords="557,5,776,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a7efa87c6b09c056bb7e8b9076282a035" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserDelete\lRequest" alt="" coords="562,85,771,141"/>
-<area shape="rect" id="node7" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a1585a129b3388a51a47b5d7f5e3cbf53" title="etcdserverpb::AuthUserDelete\lRequest::SharedCtor" alt="" coords="557,166,776,207"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#abf131030a4880dfa581200d9551ac892" title="protobuf_rpc_2eproto\l::InitDefaultsAuthUserDelete\lRequestImpl" alt="" coords="825,85,1034,141"/>
-<area shape="rect" id="node6" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a8d81652403691e84259d5b52865e5646" title="etcdserverpb::AuthUserDelete\lRequest::InitAsDefaultInstance" alt="" coords="1083,93,1306,134"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,204,134"/>
+<area shape="rect" id="node2" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a28afa8c14c25dfb2654260cf5428e5f2" title=" " alt="" coords="252,93,471,134"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a7efa87c6b09c056bb7e8b9076282a035" title=" " alt="" coords="523,5,713,61"/>
+<area shape="rect" id="node6" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#ac2707d442ac8efec47f4602c5bfeec64" title=" " alt="" coords="519,85,717,141"/>
+<area shape="rect" id="node7" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a1585a129b3388a51a47b5d7f5e3cbf53" title=" " alt="" coords="519,166,717,207"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#abf131030a4880dfa581200d9551ac892" title=" " alt="" coords="765,5,956,61"/>
+<area shape="rect" id="node5" href="$dc/dd4/classetcdserverpb_1_1AuthUserDeleteRequest.html#a8d81652403691e84259d5b52865e5646" title=" " alt="" coords="1004,13,1208,54"/>
 </map>

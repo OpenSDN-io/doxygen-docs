@@ -16,7 +16,7 @@ var classPolicyGraphVertex =
     [ "parent_vertex", "d2/d1b/classPolicyGraphVertex.html#a7ae8ea870e8ab876c472c72b45d3b768", null ],
     [ "set_vertex", "d2/d1b/classPolicyGraphVertex.html#a9cceaee519fead06b7762d2ded087ed8", null ],
     [ "Type", "d2/d1b/classPolicyGraphVertex.html#aeb10c835ea6e3a2d68486110b4277c3d", null ],
-    [ "vertex", "d2/d1b/classPolicyGraphVertex.html#a7925575a8a5c839c260c390842b8a7e3", null ],
+    [ "vertex", "d2/d1b/classPolicyGraphVertex.html#a9926c81df294dab807db360c203a5997", null ],
     [ "open_vertex_", "d2/d1b/classPolicyGraphVertex.html#a63acc968400c1c55d6b80c049d95d357", null ],
     [ "vertex_id_", "d2/d1b/classPolicyGraphVertex.html#aa28d8b05d4d00a22dcf602c161d47016", null ]
 ];

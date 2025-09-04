@@ -1,13 +1,14 @@
 <map id="BgpMembershipManager::RegisterRibIn" name="BgpMembershipManager::RegisterRibIn">
-<area shape="rect" id="node2" href="$d2/d45/classBgpMembershipManager.html#ab0b4f642ae5d6339dde03468a2e064e4" title="BgpMembershipManager\l::LocatePeerRibState" alt="" coords="238,135,421,177"/>
-<area shape="rect" id="node7" href="$d2/d45/classBgpMembershipManager.html#a35f511bc8f5e3a67b23e74a9af7068f6" title="BgpMembershipManager\l::AssertRegisterRibIn" alt="" coords="238,339,421,381"/>
-<area shape="rect" id="node12" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af8c6870455e325d556b527fb2a3f1344" title="BgpMembershipManager\l::PeerRibState::set_ribin\l_registered" alt="" coords="238,405,421,461"/>
-<area shape="rect" id="node3" href="$d2/d45/classBgpMembershipManager.html#a5ca7d92d66fa8052c8a37814cce6697f" title="BgpMembershipManager\l::LocatePeerState" alt="" coords="493,5,675,46"/>
-<area shape="rect" id="node4" href="$d2/d45/classBgpMembershipManager.html#a53537ae451aeb789eceebbbbac562b16" title="BgpMembershipManager\l::LocateRibState" alt="" coords="493,70,675,111"/>
-<area shape="rect" id="node5" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#a2a136cfff6ba3292e744cc518b4438fc" title="BgpMembershipManager\l::PeerState::LocatePeerRibState" alt="" coords="470,135,698,177"/>
-<area shape="rect" id="node6" href="$d0/d79/classBgpMembershipManager_1_1RibState.html#a837696967b16d895edcf2d787a856a75" title="BgpMembershipManager\l::RibState::InsertPeerRibState" alt="" coords="477,201,691,242"/>
-<area shape="rect" id="node8" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a18ad31a297358b35d7d234b6a08cfbd2" title="BgpMembershipManager\l::PeerRibState::action" alt="" coords="493,266,675,307"/>
-<area shape="rect" id="node9" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a46e571970c4001e7a88a5a525ad25db4" title="BgpMembershipManager\l::PeerRibState::ribin\l_registered" alt="" coords="493,332,675,388"/>
-<area shape="rect" id="node10" href="$dd/d38/classIPeer.html#a7f93b328eb7749967565ae8921fd61a1" title="IPeer::IsInGRTimerWaitState" alt="" coords="481,412,687,439"/>
-<area shape="rect" id="node11" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a9948c03074c4f735e028544b5626d627" title="BgpMembershipManager\l::PeerRibState::ribout\l_registered" alt="" coords="493,463,675,519"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,348,172,389"/>
+<area shape="rect" id="node2" href="$d2/d45/classBgpMembershipManager.html#a35f511bc8f5e3a67b23e74a9af7068f6" title=" " alt="" coords="220,129,387,171"/>
+<area shape="rect" id="node7" href="$d2/d45/classBgpMembershipManager.html#ab0b4f642ae5d6339dde03468a2e064e4" title=" " alt="" coords="220,348,387,389"/>
+<area shape="rect" id="node12" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af8c6870455e325d556b527fb2a3f1344" title=" " alt="" coords="220,414,387,470"/>
+<area shape="rect" id="node3" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a934aab8f9b74a5087e1a006ad8d73a30" title=" " alt="" coords="457,5,623,47"/>
+<area shape="rect" id="node4" href="$dd/d38/classIPeer.html#a7f93b328eb7749967565ae8921fd61a1" title=" " alt="" coords="445,71,635,98"/>
+<area shape="rect" id="node5" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#af91f789bef3c53717a55540db45a7320" title=" " alt="" coords="457,122,623,178"/>
+<area shape="rect" id="node6" href="$da/d04/classBgpMembershipManager_1_1PeerRibState.html#a8beeeaa528c50a88e62872e13e4bf2ba" title=" " alt="" coords="457,202,623,258"/>
+<area shape="rect" id="node8" href="$d0/d79/classBgpMembershipManager_1_1RibState.html#a837696967b16d895edcf2d787a856a75" title=" " alt="" coords="440,283,640,324"/>
+<area shape="rect" id="node9" href="$de/d6f/classBgpMembershipManager_1_1PeerState.html#a2a136cfff6ba3292e744cc518b4438fc" title=" " alt="" coords="435,348,645,389"/>
+<area shape="rect" id="node10" href="$d2/d45/classBgpMembershipManager.html#a5ca7d92d66fa8052c8a37814cce6697f" title=" " alt="" coords="457,413,623,455"/>
+<area shape="rect" id="node11" href="$d2/d45/classBgpMembershipManager.html#a53537ae451aeb789eceebbbbac562b16" title=" " alt="" coords="457,479,623,520"/>
 </map>

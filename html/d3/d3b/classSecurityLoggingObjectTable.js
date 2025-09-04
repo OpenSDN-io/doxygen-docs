@@ -2,8 +2,8 @@ var classSecurityLoggingObjectTable =
 [
     [ "SecurityLoggingObjectTable", "d3/d3b/classSecurityLoggingObjectTable.html#a32b9e2ccb06eb692a88ada713e222b91", null ],
     [ "~SecurityLoggingObjectTable", "d3/d3b/classSecurityLoggingObjectTable.html#a4e9f94bf86810806eca99523ff4e95e5", null ],
-    [ "AllocEntry", "d3/d3b/classSecurityLoggingObjectTable.html#a8c687d41c475d374d96d20eafa41475f", null ],
-    [ "BuildData", "d3/d3b/classSecurityLoggingObjectTable.html#a7de2978424513c55ea1ea45d116d893c", null ],
+    [ "AllocEntry", "d3/d3b/classSecurityLoggingObjectTable.html#a84715cd56cc7aa0fb10d173af1903236", null ],
+    [ "BuildData", "d3/d3b/classSecurityLoggingObjectTable.html#a649143db7cf2bddc7d18ff83042d4101", null ],
     [ "CreateTable", "d3/d3b/classSecurityLoggingObjectTable.html#a6e5a5535c9693c9cbd5ea9338732c369", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/d3b/classSecurityLoggingObjectTable.html#aa0ce9be70d1ab8b01212f1d538152d02", null ],
     [ "GetAgentSandesh", "d3/d3b/classSecurityLoggingObjectTable.html#a0c9a6d82278b71636c0814949684eac7", null ],

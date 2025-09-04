@@ -9,9 +9,9 @@ var structIFMapOrigin =
     ] ],
     [ "IFMapOrigin", "db/d6c/structIFMapOrigin.html#a246de3881b4cade0825e66ee7f97869e", null ],
     [ "IFMapOrigin", "db/d6c/structIFMapOrigin.html#a516df8d1df2393767d4739cbea6683ac", null ],
-    [ "IsOriginXmpp", "db/d6c/structIFMapOrigin.html#a1742cd1f577726cd8102c21b9dbec502", null ],
-    [ "operator==", "db/d6c/structIFMapOrigin.html#a18dd02e68ceff3e2b4dda2006bc3abc1", null ],
+    [ "IsOriginXmpp", "db/d6c/structIFMapOrigin.html#abcef90045266a0259e6912aca813eb91", null ],
+    [ "operator==", "db/d6c/structIFMapOrigin.html#a00349a85d73b2d135c7f9f3d1e557894", null ],
     [ "set_origin", "db/d6c/structIFMapOrigin.html#a8008175bec2998393f574ab966d4151c", null ],
-    [ "ToString", "db/d6c/structIFMapOrigin.html#a58e525776d9037851b19dbbed8608da3", null ],
+    [ "ToString", "db/d6c/structIFMapOrigin.html#a82fe632459070f5548deca433ab1773c", null ],
     [ "origin", "db/d6c/structIFMapOrigin.html#a2673756abac8242ddef2a94966286ca8", null ]
 ];

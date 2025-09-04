@@ -1,6 +1,7 @@
 <map id="VrfKSyncObject::Shutdown" name="VrfKSyncObject::Shutdown">
-<area shape="rect" id="node2" href="$d7/de7/classKSync.html#ab1e820796025be29618710fb70a35486" title="KSync::agent" alt="" coords="287,5,393,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a661b6ae0b81be524aabb25dcefaabd47" title="Agent::vrf_table" alt="" coords="277,56,403,83"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title="DBTableBase::Unregister" alt="" coords="249,107,431,133"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title="DBTableBase::RetryDelete" alt="" coords="480,107,672,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$d7/de7/classKSync.html#a6fd71f2e85ed88dfdbd8536201fd7387" title=" " alt="" coords="270,5,370,32"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title=" " alt="" coords="235,56,405,83"/>
+<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="263,107,377,133"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#a561e9fb9968a5848e7c63682b0b7bb84" title=" " alt="" coords="453,56,633,83"/>
 </map>

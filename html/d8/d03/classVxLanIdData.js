@@ -2,8 +2,8 @@ var classVxLanIdData =
 [
     [ "VxLanIdData", "d8/d03/classVxLanIdData.html#a150635a5e605939058c9441b4463454b", null ],
     [ "~VxLanIdData", "d8/d03/classVxLanIdData.html#ac934891cf7b21eca38f76a7c6a418f12", null ],
-    [ "bridge", "d8/d03/classVxLanIdData.html#a11e71def4c62f3b775022355a7732a06", null ],
-    [ "mirror_destination", "d8/d03/classVxLanIdData.html#a85c25b04dbddb4dc1cadeb77b09e5cd5", null ],
+    [ "bridge", "d8/d03/classVxLanIdData.html#a281e1662024e154b1070ea8320511096", null ],
+    [ "mirror_destination", "d8/d03/classVxLanIdData.html#a54f48994ce70b01ea8d8222d0893c445", null ],
     [ "nh_req", "d8/d03/classVxLanIdData.html#afbb50920302041744f529fdd4304cd6b", null ],
     [ "vrf_name", "d8/d03/classVxLanIdData.html#abcecdfacd5dd5d01fb04c666f189dadf", null ],
     [ "bridge_", "d8/d03/classVxLanIdData.html#acab3aa59aeae9b48a0397a01482599ba", null ],

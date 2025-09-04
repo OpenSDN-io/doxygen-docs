@@ -1,8 +1,10 @@
 <map id="MplsTable::ReserveLabel" name="MplsTable::ReserveLabel">
-<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="254,5,413,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="239,56,428,83"/>
-<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2cc0bc115b1d6b06227aaa21856a1ebd" title="ResourceManager::Reserve\lIndex" alt="" coords="235,107,432,149"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="481,74,682,115"/>
-<area shape="rect" id="node6" href="$d9/dbf/classIndexResourceTable.html#a5d451f49aa40b1bd290df2654f5aa84b" title="IndexResourceTable\l::ReserveIndex" alt="" coords="506,139,657,181"/>
-<area shape="rect" id="node7" href="$df/d10/classIndexVectorResource.html#a403d7f33ca5f4d0db6f1dac67c0aaeed" title="IndexVectorResource\l::InsertAtIndex" alt="" coords="731,139,890,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,173,91"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="239,5,386,32"/>
+<area shape="rect" id="node3" href="$de/d6b/classResourceManager.html#a2cc0bc115b1d6b06227aaa21856a1ebd" title=" " alt="" coords="221,57,404,98"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="227,123,398,149"/>
+<area shape="rect" id="node4" href="$d9/dbf/classIndexResourceTable.html#a5d451f49aa40b1bd290df2654f5aa84b" title=" " alt="" coords="475,25,615,66"/>
+<area shape="rect" id="node7" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title=" " alt="" coords="452,90,637,131"/>
+<area shape="rect" id="node5" href="$df/d10/classIndexVectorResource.html#a403d7f33ca5f4d0db6f1dac67c0aaeed" title=" " alt="" coords="685,25,832,66"/>
+<area shape="rect" id="node6" href="$d6/d34/classIndexVector.html#a0934d8293a6d9b7a2e13da2c952765ac" title=" " alt="" coords="880,32,1059,59"/>
 </map>

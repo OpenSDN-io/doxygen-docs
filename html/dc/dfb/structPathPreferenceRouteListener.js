@@ -2,9 +2,9 @@ var structPathPreferenceRouteListener =
 [
     [ "PathPreferenceRouteListener", "dc/dfb/structPathPreferenceRouteListener.html#a25c1ee1ebb5dc55fabfbf66a0038021b", null ],
     [ "Delete", "dc/dfb/structPathPreferenceRouteListener.html#a218ac9e1c66e7039d24dcd443e5d71ba", null ],
-    [ "deleted", "dc/dfb/structPathPreferenceRouteListener.html#ac2a178635f3914c722ce6ca38b2c09d8", null ],
+    [ "deleted", "dc/dfb/structPathPreferenceRouteListener.html#a0894967dbead185d5f0463c7e5880a5a", null ],
     [ "DeleteState", "dc/dfb/structPathPreferenceRouteListener.html#a18752b104d3cdabb66ff8a66057050a1", null ],
-    [ "id", "dc/dfb/structPathPreferenceRouteListener.html#ae39045fc523bc6357dac0124cf1ea7b3", null ],
+    [ "id", "dc/dfb/structPathPreferenceRouteListener.html#a3820f024be040088e93b6f682dfe4306", null ],
     [ "Init", "dc/dfb/structPathPreferenceRouteListener.html#a414dd85bc8de4bd1fd4404cfc471115d", null ],
     [ "ManagedDelete", "dc/dfb/structPathPreferenceRouteListener.html#a98b9527042613b71ba85da973a712090", null ],
     [ "Notify", "dc/dfb/structPathPreferenceRouteListener.html#aa583c41f21785f0ab079a5e6c76da7b8", null ],

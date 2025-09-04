@@ -2,9 +2,9 @@ var bitvector_8h =
 [
     [ "bit_vector_", "d3/dff/structbit__vector__.html", "d3/dff/structbit__vector__" ],
     [ "BV_BAD_BITNUM", "d4/d1a/bitvector_8h.html#a66bed0ff33de10feb7b22d0c9b8d07c3", null ],
-    [ "bit_vector", "d4/d1a/bitvector_8h.html#a4b43163e1acc526333c39cb1e5f30c0f", null ],
+    [ "bit_vector", "d4/d1a/bitvector_8h.html#a80f2412bedd9017454b40e8e72331f35", null ],
     [ "bv_bitnum_t", "d4/d1a/bitvector_8h.html#ab1c33d8f4360702bb99855261052b683", null ],
-    [ "bv_callback", "d4/d1a/bitvector_8h.html#a732dd99a862c5e6423c35c2102a35ff7", null ],
+    [ "bv_callback", "d4/d1a/bitvector_8h.html#a919448bdef15912c9a6838315b5dc670", null ],
     [ "bv_callback_option", "d4/d1a/bitvector_8h.html#a029aa1b4dc914305ab9472027ed5d0dc", [
       [ "BV_CALL_CHANGE", "d4/d1a/bitvector_8h.html#a029aa1b4dc914305ab9472027ed5d0dcaad6800e1c4985462f8e6e46329e4657e", null ],
       [ "BV_CALL_SET", "d4/d1a/bitvector_8h.html#a029aa1b4dc914305ab9472027ed5d0dca070cc7d0d3c510c274b0e4f7c32d85ce", null ]

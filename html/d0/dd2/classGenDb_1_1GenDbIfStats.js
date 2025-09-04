@@ -9,7 +9,7 @@ var classGenDb_1_1GenDbIfStats =
       [ "TABLE_OP_READ_FAIL", "d0/dd2/classGenDb_1_1GenDbIfStats.html#a3d09a3afa07787726b29e840a5064bb3abf83a8a6f9194f892e9f573ccaaeef44", null ]
     ] ],
     [ "GenDbIfStats", "d0/dd2/classGenDb_1_1GenDbIfStats.html#a2acaacb12100d206a58b14dc3884b640", null ],
-    [ "GetCumulative", "d0/dd2/classGenDb_1_1GenDbIfStats.html#af0bd97f342f42adaa5e34858e514460e", null ],
+    [ "GetCumulative", "d0/dd2/classGenDb_1_1GenDbIfStats.html#acf00ef694d6c94a970c9a82e3e8515b0", null ],
     [ "GetDiffs", "d0/dd2/classGenDb_1_1GenDbIfStats.html#a0615e9d087f334837e9f04845cf19ba5", null ],
     [ "IncrementErrors", "d0/dd2/classGenDb_1_1GenDbIfStats.html#a70d41de082506f26bd61351891f874aa", null ],
     [ "IncrementTableRead", "d0/dd2/classGenDb_1_1GenDbIfStats.html#a65a4c42de23cb76bbbe8572628098ff7", null ],

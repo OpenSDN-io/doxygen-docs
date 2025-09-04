@@ -1,6 +1,7 @@
 <map id="DBTable::AllocWalker" name="DBTable::AllocWalker">
-<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title="DBTableBase::database" alt="" coords="234,5,409,32"/>
-<area shape="rect" id="node3" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title="DB::GetWalkMgr" alt="" coords="257,56,385,83"/>
-<area shape="rect" id="node4" href="$d1/dec/classDBTableWalkMgr.html#a197121e7e6cee9e285690b6bb8a68241" title="DBTableWalkMgr::AllocWalker" alt="" coords="213,107,429,133"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a12024c5ff7cc47d84456108998e7ff99" title="DBTableBase::incr_walker\l_count" alt="" coords="478,99,669,141"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,153,90"/>
+<area shape="rect" id="node2" href="$d1/dec/classDBTableWalkMgr.html#a197121e7e6cee9e285690b6bb8a68241" title=" " alt="" coords="201,13,400,39"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html#ad6218c08a63596bb9dc40819d821fb91" title=" " alt="" coords="219,63,382,90"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html#a1998b45c2d94444253e9948d31b6919e" title=" " alt="" coords="240,114,361,141"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#a12024c5ff7cc47d84456108998e7ff99" title=" " alt="" coords="448,5,623,47"/>
 </map>

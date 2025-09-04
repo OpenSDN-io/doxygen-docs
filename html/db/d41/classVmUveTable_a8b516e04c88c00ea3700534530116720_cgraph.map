@@ -1,10 +1,11 @@
 <map id="VmUveTable::UpdateBitmap" name="VmUveTable::UpdateBitmap">
-<area shape="rect" id="node2" href="$d9/d04/classVmEntry.html#a351e6bc187b60f50e9bb99dc48868865" title="VmEntry::GetUuid" alt="" coords="308,41,447,68"/>
-<area shape="rect" id="node3" href="$d3/d4b/classVmUveEntry.html#ac9a42ed589d4ef50c61df0abaf0e6f4a" title="VmUveEntry::UpdatePortBitmap" alt="" coords="262,92,493,119"/>
-<area shape="rect" id="node4" href="$df/d22/structL4PortBitmap.html#a837c4d6758f048d2916d1c27d6a5c876" title="L4PortBitmap::AddPort" alt="" coords="549,12,718,39"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a353ab60b407dd91325049a55243c10bc" title="Agent::uve" alt="" coords="587,63,679,89"/>
-<area shape="rect" id="node7" href="$d4/d59/classAgentUveBase.html#a6b06b5af2deadb455ffbbb7bc90b619f" title="AgentUveBase::interface\l_uve_table" alt="" coords="541,114,725,155"/>
-<area shape="rect" id="node8" href="$d6/d02/classInterfaceUveStatsTable.html#a74501ea18ad3ee2b9285f29f0832a5ab" title="InterfaceUveStatsTable\l::UpdatePortBitmap" alt="" coords="547,179,720,221"/>
-<area shape="rect" id="node5" href="$db/d7a/structL4PortBitmap_1_1PortBitmap.html#ad8b3a7c65ed0caafd0ec16f9e55f74c8" title="L4PortBitmap::PortBitmap\l::AddPort" alt="" coords="789,5,979,46"/>
-<area shape="rect" id="node9" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#af1a10cceac8da05cf58133fefe2a4ad9" title="InterfaceUveTable::\lUveInterfaceEntry::UpdatePort\lBitmap" alt="" coords="774,172,994,228"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,192,106"/>
+<area shape="rect" id="node2" href="$d9/d04/classVmEntry.html#a768f5b225868f04f578848aad9976a20" title=" " alt="" coords="281,54,411,81"/>
+<area shape="rect" id="node3" href="$d3/d4b/classVmUveEntry.html#ac9a42ed589d4ef50c61df0abaf0e6f4a" title=" " alt="" coords="240,105,452,131"/>
+<area shape="rect" id="node4" href="$df/d22/structL4PortBitmap.html#a837c4d6758f048d2916d1c27d6a5c876" title=" " alt="" coords="505,13,663,39"/>
+<area shape="rect" id="node6" href="$d4/d59/classAgentUveBase.html#a6cbbd075985866503943fc8e683f2577" title=" " alt="" coords="500,64,668,105"/>
+<area shape="rect" id="node7" href="$d6/d02/classInterfaceUveStatsTable.html#a74501ea18ad3ee2b9285f29f0832a5ab" title=" " alt="" coords="505,129,663,171"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a561960151eae0164d71de2ff0a6eabfc" title=" " alt="" coords="542,195,626,222"/>
+<area shape="rect" id="node5" href="$db/d7a/structL4PortBitmap_1_1PortBitmap.html#ad8b3a7c65ed0caafd0ec16f9e55f74c8" title=" " alt="" coords="729,5,905,47"/>
+<area shape="rect" id="node8" href="$d6/d03/structInterfaceUveTable_1_1UveInterfaceEntry.html#af1a10cceac8da05cf58133fefe2a4ad9" title=" " alt="" coords="716,122,919,178"/>
 </map>

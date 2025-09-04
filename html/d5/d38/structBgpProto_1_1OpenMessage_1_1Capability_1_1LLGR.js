@@ -1,8 +1,6 @@
 var structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR =
 [
     [ "Family", "d9/d91/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR_1_1Family.html", "d9/d91/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR_1_1Family" ],
-    [ "ForwardingStatePreservedFlag", "d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a348bd8871d2accad7b6b7400221d9aa9a40b31e1fb7f64a2e69414250754e20bb", null ],
-    [ "RestartTimeMask", "d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a348bd8871d2accad7b6b7400221d9aa9aa5e2e64560398493c18446c70e3262a1", null ],
     [ "LLGR", "d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a4b180d1bfefa8626056cd5282a409a5f", null ],
     [ "Decode", "d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#adf52d58938dfbadeea25c71180bc3bba", null ],
     [ "Encode", "d5/d38/structBgpProto_1_1OpenMessage_1_1Capability_1_1LLGR.html#a95db9237c4d98da162a01058b23eec74", null ],

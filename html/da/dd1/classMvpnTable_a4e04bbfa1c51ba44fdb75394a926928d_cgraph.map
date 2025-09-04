@@ -1,11 +1,12 @@
 <map id="MvpnTable::DeleteMvpnManager" name="MvpnTable::DeleteMvpnManager">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title="BgpTable::server" alt="" coords="321,5,452,32"/>
-<area shape="rect" id="node4" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="288,56,485,83"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a5e01573d539191b65ef8e93b1e93041e" title="DBTableBase::empty" alt="" coords="308,107,465,133"/>
-<area shape="rect" id="node7" href="$da/dd1/classMvpnTable.html#aa3e9a9ad0d74a7c8af6fe58af79de9ab" title="MvpnTable::manager" alt="" coords="308,157,465,184"/>
-<area shape="rect" id="node8" href="$de/ddf/classRoutingInstance.html#a23488c927403538d6e8fd0ad96b5f835" title="RoutingInstance::manager" alt="" coords="291,208,483,235"/>
-<area shape="rect" id="node9" href="$d2/d72/classRoutingInstanceMgr.html#ae329f4cc8d4cc75b1d03ca4b272030ce" title="RoutingInstanceMgr\l::mvpn_project_managers" alt="" coords="291,259,482,301"/>
-<area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a171164030e7c2d4adfce9f151b8d6093" title="DBTableBase::name" alt="" coords="311,325,463,352"/>
-<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="534,5,709,32"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a03f9ce60e631e7091fe71b7f81e083c9" title="DBTableBase::Size" alt="" coords="550,107,693,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,217,192"/>
+<area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a70afef7ab99e415744d30bc173835745" title=" " alt="" coords="281,5,428,32"/>
+<area shape="rect" id="node4" href="$da/dd1/classMvpnTable.html#a0823e131e214978e9eb86e024b26f700" title=" " alt="" coords="283,56,426,83"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#a09f8b804d5b817af590364e060aabfa6" title=" " alt="" coords="267,107,442,133"/>
+<area shape="rect" id="node6" href="$d2/d72/classRoutingInstanceMgr.html#ab3e7e511f6db3708c8cb756a547fee7e" title=" " alt="" coords="268,158,441,199"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="283,224,426,251"/>
+<area shape="rect" id="node8" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="265,275,444,301"/>
+<area shape="rect" id="node9" href="$d0/def/classBgpTable.html#a31a7df9ea5fc625b81633aa90f8dd21b" title=" " alt="" coords="295,325,415,352"/>
+<area shape="rect" id="node3" href="$d7/df2/classDBTableBase.html#ae643720e8801e0b35c24a5e0bf1312ed" title=" " alt="" coords="505,5,640,32"/>
+<area shape="rect" id="node10" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title=" " alt="" coords="492,325,653,352"/>
 </map>

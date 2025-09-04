@@ -1,5 +1,6 @@
 <map id="MvpnTable::CreatePathResolver" name="MvpnTable::CreatePathResolver">
-<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title="BgpTable::routing_instance" alt="" coords="280,5,477,32"/>
-<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title="BgpTable::path_resolver" alt="" coords="289,56,468,83"/>
-<area shape="rect" id="node4" href="$d1/d31/classPathResolver.html#a969cd58a24f32b37ab0521924cb8063b" title="PathResolver::set_nexthop\l_longest_match" alt="" coords="281,107,476,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,213,83"/>
+<area shape="rect" id="node2" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title=" " alt="" coords="270,5,431,32"/>
+<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#a49b826c28aa443dcc2c755af75e9dec6" title=" " alt="" coords="261,56,440,83"/>
+<area shape="rect" id="node4" href="$d1/d31/classPathResolver.html#a969cd58a24f32b37ab0521924cb8063b" title=" " alt="" coords="261,107,440,149"/>
 </map>

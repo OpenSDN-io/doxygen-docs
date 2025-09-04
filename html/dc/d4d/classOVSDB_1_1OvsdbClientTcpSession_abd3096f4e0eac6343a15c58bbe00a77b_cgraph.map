@@ -1,6 +1,7 @@
 <map id="OVSDB::OvsdbClientTcpSession::SendMsg" name="OVSDB::OvsdbClientTcpSession::SendMsg">
-<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="280,71,413,97"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="461,5,648,46"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="696,96,840,123"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="461,121,648,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,221,90"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="269,56,397,83"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="447,5,621,32"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="671,31,807,57"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="445,107,623,149"/>
 </map>

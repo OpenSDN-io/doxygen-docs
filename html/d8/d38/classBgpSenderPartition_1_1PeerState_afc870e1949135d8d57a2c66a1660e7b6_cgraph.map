@@ -1,13 +1,14 @@
 <map id="BgpSenderPartition::PeerState::Add" name="BgpSenderPartition::PeerState::Add">
-<area shape="rect" id="node2" href="$d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0" title="bgp_log_test::init" alt="" coords="206,81,341,108"/>
-<area shape="rect" id="node12" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#ad0025af56e73814bfad1633f23f4128e" title="BgpSenderPartition\l::RibState::index" alt="" coords="200,133,347,174"/>
-<area shape="rect" id="node3" href="$d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac" title="LoggingInit" alt="" coords="415,29,510,56"/>
-<area shape="rect" id="node6" href="$d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad" title="bgp_log_test::init\l_common" alt="" coords="395,127,530,169"/>
-<area shape="rect" id="node4" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title="CheckEnvironmentAndUpdate" alt="" coords="579,5,797,32"/>
-<area shape="rect" id="node5" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title="SetLoggingDisabled" alt="" coords="846,44,997,71"/>
-<area shape="rect" id="node7" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title="Sandesh::SetLoggingParams" alt="" coords="585,107,791,133"/>
-<area shape="rect" id="node9" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title="Sandesh::LoggingUtLevel" alt="" coords="595,208,781,235"/>
-<area shape="rect" id="node10" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title="Sandesh::SetLoggingCategory" alt="" coords="580,259,796,285"/>
-<area shape="rect" id="node11" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title="Sandesh::SetLoggingLevel" alt="" coords="592,157,784,184"/>
-<area shape="rect" id="node8" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title="SetLoggingLevel" alt="" coords="857,120,986,147"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,146,140,187"/>
+<area shape="rect" id="node2" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a63208f99355023d3686b7f04564c1058" title=" " alt="" coords="188,117,323,158"/>
+<area shape="rect" id="node3" href="$d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0" title=" " alt="" coords="194,183,317,209"/>
+<area shape="rect" id="node4" href="$d5/db9/namespacebgp__log__test.html#afd6d521b8a7f4dfb1285c851e6d7ddad" title=" " alt="" coords="371,125,493,166"/>
+<area shape="rect" id="node11" href="$d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac" title=" " alt="" coords="389,212,475,239"/>
+<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a43a495eada28d343bab14c2eb021b327" title=" " alt="" coords="555,56,726,83"/>
+<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a7ebc705db8cf51bdc7bb21f65d35946e" title=" " alt="" coords="541,107,740,133"/>
+<area shape="rect" id="node7" href="$d8/d11/logging_8cc.html#af4aab8109ddaa8b2699b74aa88382eca" title=" " alt="" coords="788,233,927,260"/>
+<area shape="rect" id="node8" href="$de/d75/classSandesh.html#a03a415aee20107cef5c4bf177f39d6c9" title=" " alt="" coords="553,157,729,184"/>
+<area shape="rect" id="node10" href="$de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9" title=" " alt="" coords="545,5,736,32"/>
+<area shape="rect" id="node9" href="$d8/d11/logging_8cc.html#a6046f377dbed57fa4d681bd3f03360e7" title=" " alt="" coords="799,81,916,108"/>
+<area shape="rect" id="node12" href="$d8/d11/logging_8cc.html#a569f0113aa8f48a1dc8557c6455eca1c" title=" " alt="" coords="541,259,740,285"/>
 </map>

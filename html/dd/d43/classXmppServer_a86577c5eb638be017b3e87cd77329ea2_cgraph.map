@@ -1,7 +1,8 @@
 <map id="XmppServer::InsertConnection" name="XmppServer::InsertConnection">
-<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="275,31,477,57"/>
-<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#ab34b1eb5405c1a78bf336190b26f135f" title="XmppConnection::Initialize" alt="" coords="277,81,475,108"/>
-<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="277,132,475,159"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="525,5,712,32"/>
-<area shape="rect" id="node4" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="529,56,709,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,208,83"/>
+<area shape="rect" id="node2" href="$d0/d64/classXmppConnection.html#a6749b758a9b0f4588c681461f677df1f" title=" " alt="" coords="260,5,439,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#ab34b1eb5405c1a78bf336190b26f135f" title=" " alt="" coords="261,56,438,83"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a4ecac316052b17e6cf89ec1196a537df" title=" " alt="" coords="256,107,443,133"/>
+<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title=" " alt="" coords="491,81,660,108"/>
+<area shape="rect" id="node6" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="494,132,657,159"/>
 </map>

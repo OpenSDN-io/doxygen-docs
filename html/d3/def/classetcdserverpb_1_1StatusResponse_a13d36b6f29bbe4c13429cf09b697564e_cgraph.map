@@ -1,9 +1,10 @@
 <map id="etcdserverpb::StatusResponse::SerializeWithCachedSizes" name="etcdserverpb::StatusResponse::SerializeWithCachedSizes">
-<area shape="rect" id="node2" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a646df240ba96bb027dd9df1b1de3f3b6" title="etcdserverpb::StatusResponse\l::has_header" alt="" coords="272,5,491,46"/>
-<area shape="rect" id="node4" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a13b2eb065727477d549855756e1ecf98" title="etcdserverpb::StatusResponse\l::version" alt="" coords="272,70,491,111"/>
-<area shape="rect" id="node5" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#abda7ed2f17925ed9c2dcb8653d8362e5" title="etcdserverpb::StatusResponse\l::dbsize" alt="" coords="272,135,491,177"/>
-<area shape="rect" id="node6" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a41eb455dcbbd97fe7cead15382728710" title="etcdserverpb::StatusResponse\l::leader" alt="" coords="272,201,491,242"/>
-<area shape="rect" id="node7" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a33a68e335d6da0120600f09374b71b8e" title="etcdserverpb::StatusResponse\l::raftindex" alt="" coords="272,266,491,307"/>
-<area shape="rect" id="node8" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a710128673ab1ed7185b28d497c1922cb" title="etcdserverpb::StatusResponse\l::raftterm" alt="" coords="272,331,491,373"/>
-<area shape="rect" id="node3" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="539,5,763,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,208,211"/>
+<area shape="rect" id="node2" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a43ac5f13e01d68221b38bc198325df8a" title=" " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a93a7523beaf960d97629c1ddb98f6140" title=" " alt="" coords="256,71,459,112"/>
+<area shape="rect" id="node5" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#a6dbc070483ef8f7a5d6deb9da4d4a67b" title=" " alt="" coords="256,136,459,177"/>
+<area shape="rect" id="node6" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#ab30c9432c7ba369331997316d627e136" title=" " alt="" coords="256,201,459,243"/>
+<area shape="rect" id="node7" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#aa8657c6773946e4cda1f97e07bd21474" title=" " alt="" coords="256,267,459,308"/>
+<area shape="rect" id="node8" href="$d3/def/classetcdserverpb_1_1StatusResponse.html#ac985cbf48ddfb364ccc0602784836ab0" title=" " alt="" coords="256,332,459,373"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="507,71,713,112"/>
 </map>

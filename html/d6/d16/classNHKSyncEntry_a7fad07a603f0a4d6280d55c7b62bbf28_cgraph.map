@@ -1,9 +1,10 @@
 <map id="NHKSyncEntry::UnresolvedReference" name="NHKSyncEntry::UnresolvedReference">
-<area shape="rect" id="node2" href="$d6/d16/classNHKSyncEntry.html#a8ea65721964f7c7747f786343158f01c" title="NHKSyncEntry::interface" alt="" coords="280,5,461,32"/>
-<area shape="rect" id="node3" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title="KSyncEntry::IsResolved" alt="" coords="284,56,457,83"/>
-<area shape="rect" id="node7" href="$d6/d16/classNHKSyncEntry.html#ac04e4190b9f26827a18cc23d7c34dc3a" title="NHKSyncEntry::crypt\l_interface" alt="" coords="293,107,449,149"/>
-<area shape="rect" id="node8" href="$d0/d1d/classNHKSyncEntry_1_1KSyncComponentNH.html#af6c1421b2c2e502f4faeaffa06384374" title="NHKSyncEntry::KSyncComponent\lNH::nh" alt="" coords="251,173,490,214"/>
-<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title="KSyncEntry::GetObject" alt="" coords="557,5,725,32"/>
-<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a2f893c3672cfca8f7e3c83b84d98d608" title="KSyncObject::IsIndexValid" alt="" coords="546,56,737,83"/>
-<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title="KSyncEntry::IsDataResolved" alt="" coords="539,107,743,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,189,131"/>
+<area shape="rect" id="node2" href="$d6/d16/classNHKSyncEntry.html#abaf84ab42875179d2b095cd8348d670d" title=" " alt="" coords="275,5,424,47"/>
+<area shape="rect" id="node3" href="$d6/d16/classNHKSyncEntry.html#aaab25a1a7e668cade7c5ac43743b8f6f" title=" " alt="" coords="264,71,435,98"/>
+<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title=" " alt="" coords="268,122,431,149"/>
+<area shape="rect" id="node8" href="$d0/d1d/classNHKSyncEntry_1_1KSyncComponentNH.html#a90399332de63a6aeb425f1ce11aaa5cd" title=" " alt="" coords="237,173,461,215"/>
+<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title=" " alt="" coords="525,71,684,98"/>
+<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title=" " alt="" coords="509,122,700,149"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a09a50e0a7121ad8af07ff30c764f370a" title=" " alt="" coords="516,173,693,199"/>
 </map>

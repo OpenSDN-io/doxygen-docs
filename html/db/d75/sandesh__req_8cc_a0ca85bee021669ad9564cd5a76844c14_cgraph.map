@@ -1,11 +1,12 @@
 <map id="SendSandeshSendingParams" name="SendSandeshSendingParams">
-<area shape="rect" id="node2" href="$de/d75/classSandesh.html#aa3225855a51a6b3c2bdcf07620458d43" title="Sandesh::get_send_rate\l_limit" alt="" coords="297,5,474,46"/>
-<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a86d6ed1387d5b99326273b323675894c" title="Sandesh::IsSendingObject\lLogsDisabled" alt="" coords="290,70,481,111"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html#a8ee754572a8bd5ad1a18faa0c4765d0c" title="Sandesh::IsSendingAllMessages\lDisabled" alt="" coords="271,135,500,177"/>
-<area shape="rect" id="node5" href="$de/d75/classSandesh.html#ad3297908af53be0a0b52a0f76426842f" title="Sandesh::IsSendingFlowsDisabled" alt="" coords="264,201,507,228"/>
-<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a751f512c61b479b20f8a5c4c10e5e1ac" title="Sandesh::client" alt="" coords="325,252,446,279"/>
-<area shape="rect" id="node7" href="$d3/d7b/classSandeshClient.html#aa8af68d4a588a4d0285dd59bb3f5b195" title="SandeshClient::IsSession" alt="" coords="293,303,477,329"/>
-<area shape="rect" id="node8" href="$d3/d7b/classSandeshClient.html#a32f1e629d1138d55762c4c7c0122c11b" title="SandeshClient::session" alt="" coords="299,353,471,380"/>
-<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html#ade7e91eb4d5204c732f67c83af57dfaf" title="TcpSession::GetDscpValue" alt="" coords="289,404,481,431"/>
-<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="555,404,699,431"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,211,200,237"/>
+<area shape="rect" id="node2" href="$de/d75/classSandesh.html#a751f512c61b479b20f8a5c4c10e5e1ac" title=" " alt="" coords="305,5,417,32"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#aa3225855a51a6b3c2bdcf07620458d43" title=" " alt="" coords="279,57,442,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a40bcbbe1ebbdb012fafb0da72289102f" title=" " alt="" coords="269,123,452,149"/>
+<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a8ee754572a8bd5ad1a18faa0c4765d0c" title=" " alt="" coords="253,174,468,215"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#ad3297908af53be0a0b52a0f76426842f" title=" " alt="" coords="248,240,473,267"/>
+<area shape="rect" id="node8" href="$de/d75/classSandesh.html#a86d6ed1387d5b99326273b323675894c" title=" " alt="" coords="272,291,449,333"/>
+<area shape="rect" id="node9" href="$d3/d7b/classSandeshClient.html#aa8af68d4a588a4d0285dd59bb3f5b195" title=" " alt="" coords="274,357,447,384"/>
+<area shape="rect" id="node10" href="$d3/d7b/classSandeshClient.html#a1007915924bfa352091ecb6a009d245a" title=" " alt="" coords="281,408,441,435"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="521,123,657,149"/>
 </map>

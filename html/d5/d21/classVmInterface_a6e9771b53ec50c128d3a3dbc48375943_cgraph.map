@@ -1,6 +1,7 @@
 <map id="VmInterface::UpdateL2" name="VmInterface::UpdateL2">
-<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#aa122fc0b801f89fc30ac885e18ca38d9" title="VmInterface::device_type" alt="" coords="229,5,419,32"/>
-<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#a239f6bb91dfaf6a05dc9670d7f220bfd" title="VmInterface::IsVxlanMode" alt="" coords="227,56,421,83"/>
-<area shape="rect" id="node4" href="$d3/d08/classTunnelType.html#ab1e1bc7ee789760b21ce89987e077025" title="TunnelType::ComputeType" alt="" coords="470,31,661,57"/>
-<area shape="rect" id="node5" href="$d3/d08/classTunnelType.html#a5ee0b0b25a656d62f10d886e4e2d7bbb" title="TunnelType::AllType" alt="" coords="491,81,640,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#aa53276e885cf57c3feff49329d5c838c" title=" " alt="" coords="215,5,387,32"/>
+<area shape="rect" id="node3" href="$d5/d21/classVmInterface.html#a7883f362a04bf15cf531295c86f16696" title=" " alt="" coords="212,56,391,83"/>
+<area shape="rect" id="node4" href="$d3/d08/classTunnelType.html#a5ee0b0b25a656d62f10d886e4e2d7bbb" title=" " alt="" coords="458,31,597,57"/>
+<area shape="rect" id="node5" href="$d3/d08/classTunnelType.html#ab1e1bc7ee789760b21ce89987e077025" title=" " alt="" coords="439,81,616,108"/>
 </map>

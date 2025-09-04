@@ -1,6 +1,7 @@
 <map id="VRouter::DeleteRoute" name="VRouter::DeleteRoute">
-<area shape="rect" id="node2" href="$d0/d9b/classOperIFMapTable.html#a6fab69d5fd07633c73a17223d7c3e761" title="OperIFMapTable::agent" alt="" coords="235,5,405,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a2c47f47a1e6db67402ca285fd60f06f2" title="Agent::fabric_vrf" alt="" coords="255,56,385,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a32c698a9829e91a27e88b8f2513a8172" title="Agent::fabric_rt_export_peer" alt="" coords="217,107,423,133"/>
-<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a3b9bce500f8fd47b317eb175dc387120" title="VrfEntry::GetName" alt="" coords="248,157,392,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,156,108"/>
+<area shape="rect" id="node2" href="$d0/d9b/classOperIFMapTable.html#af868f518330e309693a768a4e2d38ed8" title=" " alt="" coords="219,5,377,32"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a5ded0522e1800a2e3a5bf0272993adb3" title=" " alt="" coords="204,56,392,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#aa166dd176c87f9db039517f7ef051d17" title=" " alt="" coords="239,107,357,133"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="231,157,365,184"/>
 </map>

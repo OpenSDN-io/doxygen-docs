@@ -1,9 +1,10 @@
 <map id="XmppConnection::SendStartTls" name="XmppConnection::SendStartTls">
-<area shape="rect" id="node2" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title="XmppProto::EncodeStream" alt="" coords="283,5,479,32"/>
-<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#aaaa422cab22b8b64023f21b0b0a956a8" title="XmppConnection::inc\l_stream_feature_fail" alt="" coords="301,57,461,98"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="278,123,485,149"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="315,173,448,200"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="533,107,720,149"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="768,199,912,225"/>
-<area shape="rect" id="node8" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="533,224,720,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,212,120"/>
+<area shape="rect" id="node2" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title=" " alt="" coords="266,5,447,32"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#aaaa422cab22b8b64023f21b0b0a956a8" title=" " alt="" coords="283,57,430,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="293,123,421,149"/>
+<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#ae6e36a0ac7b89691a6bfa9e9e4d8044d" title=" " alt="" coords="260,173,453,200"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="503,72,677,99"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="727,97,863,124"/>
+<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="501,174,679,215"/>
 </map>

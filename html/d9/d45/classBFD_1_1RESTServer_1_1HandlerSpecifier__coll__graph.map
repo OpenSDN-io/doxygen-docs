@@ -1,9 +1,16 @@
 <map id="BFD::RESTServer::HandlerSpecifier" name="BFD::RESTServer::HandlerSpecifier">
-<area shape="rect" id="node2" href="$dd/d06/classcontrail_1_1regex.html" title="contrail::regex" alt="" coords="5,411,120,437"/>
-<area shape="rect" id="node4" href="$d4/d7c/structBFD_1_1RESTServer_1_1RESTData.html" title="BFD::RESTServer::RESTData" alt="" coords="145,411,348,437"/>
-<area shape="rect" id="node5" href="$d5/d1b/classHttpRequest.html" title="HttpRequest" alt="" coords="155,177,257,204"/>
-<area shape="rect" id="node9" href="$d2/d0e/classTcpSession.html" title="TcpSession" alt="" coords="420,125,513,152"/>
-<area shape="rect" id="node7" href="$da/d27/structHttpSession.html" title="HttpSession" alt="" coords="283,320,383,347"/>
-<area shape="rect" id="node8" href="$db/dda/classSslSession.html" title="SslSession" alt="" coords="363,229,453,256"/>
-<area shape="rect" id="node10" href="$d2/dfc/structio_1_1SocketStats.html" title="io::SocketStats" alt="" coords="402,5,520,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="54,525,237,567"/>
+<area shape="rect" id="node2" href="$dd/d06/classcontrail_1_1regex.html" title=" " alt="" coords="5,436,109,463"/>
+<area shape="rect" id="node3" title=" " alt="" coords="10,347,105,373"/>
+<area shape="rect" id="node4" href="$d4/d7c/structBFD_1_1RESTServer_1_1RESTData.html" title=" " alt="" coords="134,436,333,463"/>
+<area shape="rect" id="node5" href="$d5/d1b/classHttpRequest.html" title=" " alt="" coords="147,198,242,225"/>
+<area shape="rect" id="node6" title=" " alt="" coords="246,5,301,32"/>
+<area shape="rect" id="node7" href="$da/d27/structHttpSession.html" title=" " alt="" coords="271,347,366,373"/>
+<area shape="rect" id="node10" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="387,139,477,165"/>
+<area shape="rect" id="node8" title=" " alt="" coords="445,257,616,284"/>
+<area shape="rect" id="node9" href="$db/dda/classSslSession.html" title=" " alt="" coords="333,257,421,284"/>
+<area shape="rect" id="node11" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="373,5,483,32"/>
+<area shape="rect" id="node12" title=" " alt="" coords="508,5,567,32"/>
+<area shape="rect" id="node13" title=" " alt="" coords="595,5,677,32"/>
+<area shape="rect" id="node14" title=" " alt="" coords="501,139,557,165"/>
 </map>

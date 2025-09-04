@@ -1,5 +1,6 @@
 <map id="BgpPeer::GetRTargetTable" name="BgpPeer::GetRTargetTable">
-<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title="BgpServer::routing\l_instance_mgr" alt="" coords="274,5,417,46"/>
-<area shape="rect" id="node3" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title="RoutingInstanceMgr\l::GetDefaultRoutingInstance" alt="" coords="243,70,448,111"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="250,136,441,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,181,98"/>
+<area shape="rect" id="node2" href="$d2/d72/classRoutingInstanceMgr.html#a6ebf31404a14e516e9d4a38cc8bd53b4" title=" " alt="" coords="229,5,417,47"/>
+<area shape="rect" id="node3" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="235,71,412,98"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9" title=" " alt="" coords="258,123,389,164"/>
 </map>

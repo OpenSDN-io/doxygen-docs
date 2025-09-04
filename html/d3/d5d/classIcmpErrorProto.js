@@ -8,7 +8,7 @@ var classIcmpErrorProto =
     [ "ClearStats", "d3/d5d/classIcmpErrorProto.html#a9548072bf263aafbe18fc3c5a12271fa", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d3/d5d/classIcmpErrorProto.html#a0ae399f92b5c963cca63be2a8b582687", null ],
     [ "FlowIndexToKey", "d3/d5d/classIcmpErrorProto.html#a0f7858b0f24dc92e344f2332a504de3e", null ],
-    [ "GetStats", "d3/d5d/classIcmpErrorProto.html#a319995ec633361d8269e3f8fd2d6fa5f", null ],
+    [ "GetStats", "d3/d5d/classIcmpErrorProto.html#af44e43502a4b2aea9ff6613bcb21eba5", null ],
     [ "incrememt_df_msgs", "d3/d5d/classIcmpErrorProto.html#ade16c9ca06211264183acd20fc647bf6", null ],
     [ "increment_drops", "d3/d5d/classIcmpErrorProto.html#a47e821b055b9ec1496e2caabbdae612f", null ],
     [ "increment_interface_errors", "d3/d5d/classIcmpErrorProto.html#a4d87cc12ab3453f5f37204422289dad1", null ],

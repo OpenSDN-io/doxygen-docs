@@ -1,5 +1,6 @@
 <map id="BFD::Client::DeleteClientSessions" name="BFD::Client::DeleteClientSessions">
-<area shape="rect" id="node2" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="237,5,440,32"/>
-<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#a1a5cf608eea0e0bc69f920db79f14a66" title="BFD::Server::DeleteClient\lSessions" alt="" coords="245,57,432,98"/>
-<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title="BFD::Server::EnqueueEvent" alt="" coords="489,64,687,91"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,176,76"/>
+<area shape="rect" id="node2" href="$d7/d90/classBFD_1_1Server.html#a1a5cf608eea0e0bc69f920db79f14a66" title=" " alt="" coords="232,5,407,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title=" " alt="" coords="224,71,415,98"/>
+<area shape="rect" id="node3" href="$d7/d90/classBFD_1_1Server.html#ac631b4a76de094049d468d6797e0544f" title=" " alt="" coords="463,13,649,39"/>
 </map>

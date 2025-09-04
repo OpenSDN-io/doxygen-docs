@@ -1,7 +1,8 @@
 <map id="XmppProto::EncodeFeatureTlsStart" name="XmppProto::EncodeFeatureTlsStart">
-<area shape="rect" id="node2" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title="XmppStanza::AllocXmppXmlImpl" alt="" coords="251,77,488,104"/>
-<area shape="rect" id="node3" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title="XmppXmlImplFactory\l::Instance" alt="" coords="536,5,699,46"/>
-<area shape="rect" id="node5" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title="XmppXmlImplFactory\l::GetXmlImpl" alt="" coords="536,70,699,111"/>
-<area shape="rect" id="node6" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title="XmlBase::LoadDoc" alt="" coords="545,136,689,163"/>
-<area shape="rect" id="node4" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title="XmppXmlImplFactory\l::XmppXmlImplFactory" alt="" coords="747,5,917,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node2" href="$d4/d18/classXmppStanza.html#aedbd055e3bb257a4a761ef4ed78be3fc" title=" " alt="" coords="236,78,452,105"/>
+<area shape="rect" id="node3" href="$d9/db0/structXmppXmlImplFactory.html#a639676ec9eeda353a5a312c18d94985e" title=" " alt="" coords="500,5,649,47"/>
+<area shape="rect" id="node4" href="$d9/db0/structXmppXmlImplFactory.html#ab4b400840e1ace2d035143150f93c077" title=" " alt="" coords="500,71,649,112"/>
+<area shape="rect" id="node6" href="$d2/d78/classXmlBase.html#a67e440e6047102e572a2e73616766de5" title=" " alt="" coords="507,137,642,163"/>
+<area shape="rect" id="node5" href="$d9/db0/structXmppXmlImplFactory.html#a1389226b8bc8a1c24645e6641aa28e6e" title=" " alt="" coords="697,71,855,112"/>
 </map>

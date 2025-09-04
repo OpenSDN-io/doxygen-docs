@@ -3,7 +3,7 @@ var classAgentRefCount =
     [ "AgentRefCount", "d5/d7f/classAgentRefCount.html#a4e3337c2c3c946d90080b8816ef996bb", null ],
     [ "AgentRefCount", "d5/d7f/classAgentRefCount.html#ae9804b94859cc358c62c9a164d72ed12", null ],
     [ "~AgentRefCount", "d5/d7f/classAgentRefCount.html#a37eace9a51fce6ceaa18900cddde5793", null ],
-    [ "GetRefCount", "d5/d7f/classAgentRefCount.html#a243891c095d65cb45f8beac44ed45d0a", null ],
+    [ "GetRefCount", "d5/d7f/classAgentRefCount.html#a8cdec40b4cdb2ebbb72720062bd8baa3", null ],
     [ "operator=", "d5/d7f/classAgentRefCount.html#a3ea6b0f5b107fca2707c0e9cff65bff9", null ],
     [ "swap", "d5/d7f/classAgentRefCount.html#aa20df3545cb63bae9eaff7576214e268", null ],
     [ "intrusive_ptr_add_back_ref", "d5/d7f/classAgentRefCount.html#aecce8cc5bc3762195a9c476538fc38c7", null ],

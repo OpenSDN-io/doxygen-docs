@@ -1,8 +1,9 @@
 <map id="ResolverNexthop::GetResolverRouteState" name="ResolverNexthop::GetResolverRouteState">
-<area shape="rect" id="node2" href="$d3/dda/classResolverNexthop.html#a82294151427f593e678a5e4e198c8cd6" title="ResolverNexthop::GetRoute" alt="" coords="275,5,477,32"/>
-<area shape="rect" id="node3" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title="BgpTable::path_resolver" alt="" coords="287,56,465,83"/>
-<area shape="rect" id="node4" href="$d1/d31/classPathResolver.html#a126e93f3097d36c35e54249dfcba85b8" title="PathResolver::FindResolver\lRouteState" alt="" coords="278,107,474,149"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="526,115,698,141"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title="DBTableBase::GetTablePartition" alt="" coords="747,85,973,112"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title="DBTablePartBase::dbstate\l_mutex" alt="" coords="765,137,955,178"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,205,135"/>
+<area shape="rect" id="node2" href="$d1/d31/classPathResolver.html#a126e93f3097d36c35e54249dfcba85b8" title=" " alt="" coords="255,35,437,76"/>
+<area shape="rect" id="node6" href="$d3/dda/classResolverNexthop.html#ab4ca31434446d13eed54e9ba4dcee671" title=" " alt="" coords="253,101,439,127"/>
+<area shape="rect" id="node7" href="$d0/def/classBgpTable.html#aab98e8fb1d0266de0e36dbeb5ed866bc" title=" " alt="" coords="265,151,427,178"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="487,42,649,69"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="713,5,892,47"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="697,71,908,98"/>
 </map>

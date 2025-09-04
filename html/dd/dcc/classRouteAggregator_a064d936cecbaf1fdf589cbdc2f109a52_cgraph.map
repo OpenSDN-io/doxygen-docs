@@ -1,7 +1,8 @@
 <map id="RouteAggregator::RemoveAggregateRoutePrefix" name="RouteAggregator::RemoveAggregateRoutePrefix">
-<area shape="rect" id="node2" href="$dd/dcc/classRouteAggregator.html#a9f1f1b779dfcb0bffb76cab846bf30a7" title="RouteAggregator::StopAggregate\lRouteDone" alt="" coords="312,5,547,46"/>
-<area shape="rect" id="node3" href="$d0/dc5/classAggregateRoute.html#a370011a7c02f92991c4bbf0994175821" title="AggregateRoute::bgp\l_table" alt="" coords="350,70,509,111"/>
-<area shape="rect" id="node4" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="599,52,790,79"/>
-<area shape="rect" id="node5" href="$d0/dc5/classAggregateRoute.html#a80f43293e59d20e582f3fc0d39db85a5" title="AggregateRoute::GetFamily" alt="" coords="595,103,795,129"/>
-<area shape="rect" id="node6" href="$dd/dcc/classRouteAggregator.html#a33e73a13a1626fd8bda7976ee5d80f10" title="RouteAggregator::GetFamily" alt="" coords="843,103,1048,129"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,240,98"/>
+<area shape="rect" id="node2" href="$d0/dc5/classAggregateRoute.html#a525e6420a2638aeb383545caeb21aebd" title=" " alt="" coords="322,23,469,65"/>
+<area shape="rect" id="node6" href="$dd/dcc/classRouteAggregator.html#a9f1f1b779dfcb0bffb76cab846bf30a7" title=" " alt="" coords="288,89,503,130"/>
+<area shape="rect" id="node3" href="$d0/dc5/classAggregateRoute.html#a8e250749f2aaa29b8daa8fbb2fcc2de0" title=" " alt="" coords="551,5,735,32"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="554,56,731,83"/>
+<area shape="rect" id="node4" href="$dd/dcc/classRouteAggregator.html#a3d4b13b01689228064799f3a2218918a" title=" " alt="" coords="783,5,971,32"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="EvpnMacState::LocateAliasedPath" name="EvpnMacState::LocateAliasedPath">
-<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title="BgpPath::GetPeer" alt="" coords="299,5,434,32"/>
-<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a7e7fb92ad74a85f82fd88100a0dd7510" title="BgpPath::GetAttr" alt="" coords="301,56,432,83"/>
-<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a82f90decfbcd9922ccc5e9ff32837d76" title="BgpPath::GetFlags" alt="" coords="297,107,437,133"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a14a2b65e54bb7f103747d9fc09372c34" title="BgpPath::GetLabel" alt="" coords="296,157,437,184"/>
+<area shape="rect" id="node1" title="Find or create the matching aliased BgpPath." alt="" coords="5,81,231,108"/>
+<area shape="rect" id="node2" href="$d7/d0c/classBgpPath.html#ab2964ebef496ce3c14f457bd5e3e04c9" title=" " alt="" coords="284,5,407,32"/>
+<area shape="rect" id="node3" href="$d7/d0c/classBgpPath.html#a499d8e7e87910367ad92decdefdb9683" title=" " alt="" coords="279,56,412,83"/>
+<area shape="rect" id="node4" href="$d7/d0c/classBgpPath.html#a1cd35b90f72792072772d1767349e204" title=" " alt="" coords="279,107,411,133"/>
+<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#a4aed2d95615ed6e1ee79c645ebc21c05" title=" " alt="" coords="282,157,409,184"/>
 </map>

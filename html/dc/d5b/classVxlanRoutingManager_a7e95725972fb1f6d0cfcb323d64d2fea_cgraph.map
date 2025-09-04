@@ -1,5 +1,6 @@
 <map id="VxlanRoutingManager::HasVrfNexthop" name="VxlanRoutingManager::HasVrfNexthop">
-<area shape="rect" id="node2" href="$de/df8/classRoute.html#a186f1db09b8eb44f857d81b118bd70d7" title="Route::GetPathList" alt="" coords="223,5,364,32"/>
-<area shape="rect" id="node3" href="$d4/d3d/classAgentPath.html#ae56680cd3387f1d01542eff72770850d" title="AgentPath::nexthop" alt="" coords="219,56,368,83"/>
-<area shape="rect" id="node4" href="$d4/dec/classNextHop.html#a0c7a00522d6d540fecb6a2105ae81cfe" title="NextHop::GetType" alt="" coords="223,107,363,133"/>
+<area shape="rect" id="node1" title="Determines whether the given route has the path with a VRF nexthop (VrfNH)" alt="" coords="5,49,156,90"/>
+<area shape="rect" id="node2" href="$de/df8/classRoute.html#a49d8d04d1f4c15575dde4f8760dfb779" title=" " alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node3" href="$d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="207,56,338,83"/>
+<area shape="rect" id="node4" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="204,107,341,133"/>
 </map>

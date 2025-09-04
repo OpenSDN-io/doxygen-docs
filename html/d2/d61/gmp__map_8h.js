@@ -6,7 +6,7 @@ var gmp__map_8h =
     [ "MGM_GROUP_ADDED", "d2/d61/gmp__map_8h.html#adfa6ee817f44abd65d3267fe3353d111", null ],
     [ "MGM_GROUP_REMOVED", "d2/d61/gmp__map_8h.html#ab4c977e42fc3355ddf9de3c45b3aa799", null ],
     [ "MGM_GROUP_SRC_REMOVED", "d2/d61/gmp__map_8h.html#a59a766042f82457f9565b2f9231705bd", null ],
-    [ "mgm_global_data", "d2/d61/gmp__map_8h.html#a7e7915c3b9fbc298ad97389c5fbaa3b8", null ],
+    [ "mgm_global_data", "d2/d61/gmp__map_8h.html#aed6ad65436dc718bbcb124bce35106dd", null ],
     [ "mc_af", "d2/d61/gmp__map_8h.html#a99d64c6eb92971cc491619c41f48bc20", [
       [ "MCAST_AF_IPV4", "d2/d61/gmp__map_8h.html#a99d64c6eb92971cc491619c41f48bc20a4958906f0383fab71aca75ccf2e95844", null ],
       [ "MCAST_AF_FIRST", "d2/d61/gmp__map_8h.html#a99d64c6eb92971cc491619c41f48bc20a03aee8b084dd6d2311c621857fb6844a", null ],

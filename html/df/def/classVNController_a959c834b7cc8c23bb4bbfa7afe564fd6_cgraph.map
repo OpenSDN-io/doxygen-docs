@@ -1,9 +1,0 @@
-<map id="VNController::DeleteConnectionInfo" name="VNController::DeleteConnectionInfo">
-<area shape="rect" id="node2" href="$de/d5f/address__util_8cc.html#ae69ead6c79c371290b0c6cd1b2145b63" title="AddressFromString" alt="" coords="348,5,492,32"/>
-<area shape="rect" id="node4" href="$df/def/classVNController.html#a97426006b5dccdc7917303b31ffcaaa2" title="VNController::MakeConnection\lPrefix" alt="" coords="309,57,531,98"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#abf223d7bcb0c6f100e72ba7f0d482943" title="Agent::connection_state" alt="" coords="331,123,509,149"/>
-<area shape="rect" id="node8" href="$df/d58/classprocess_1_1ConnectionState.html#a919b0ede82e04766f9a473f7726cdea8" title="process::ConnectionState\l::Delete" alt="" coords="327,174,513,215"/>
-<area shape="rect" id="node3" href="$de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45" title="GetHostIp" alt="" coords="627,5,714,32"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a89406f39a1c63ec7388d8255d9c7f3d9" title="Agent::xmpp_dns_server\l_prefix" alt="" coords="579,57,762,98"/>
-<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#aa4fbd4f96f62d5a602aa9a0a4d578da4" title="Agent::xmpp_control\l_node_prefix" alt="" coords="592,122,749,163"/>
-</map>

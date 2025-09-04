@@ -1,12 +1,6 @@
 <map id="RouteTableWalkerState" name="RouteTableWalkerState">
-<area shape="rect" id="node2" href="$d1/d46/classLifetimeRef.html" title="LifetimeRef\&lt; RouteTableWalker\lState \&gt;" alt="" coords="1537,130,1765,171"/>
-<area shape="rect" id="node3" href="$d6/d09/classLifetimeRefBase.html" title="LifetimeRefBase" alt="" coords="1241,216,1370,243"/>
-<area shape="rect" id="node4" href="$d2/db8/classDependencyRef.html" title="DependencyRef\&lt; LifetimeRef\lBase, LifetimeActor \&gt;" alt="" coords="1543,254,1758,295"/>
-<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html" title="LifetimeActor" alt="" coords="1250,307,1361,333"/>
-<area shape="rect" id="node6" href="$dd/d0e/classLifetimeManager.html" title="LifetimeManager" alt="" coords="903,252,1035,279"/>
-<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html" title="WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt;" alt="" coords="478,195,701,237"/>
-<area shape="rect" id="node10" href="$de/d7d/classQueueTaskRunner.html" title="QueueTaskRunner\&lt; Lifetime\lManager::LifetimeActorRef,\l WorkQueue\&lt; LifetimeManager\l::LifetimeActorRef \&gt; \&gt;" alt="" coords="856,137,1083,207"/>
-<area shape="rect" id="node8" href="$da/d91/classWaterMarkTuple.html" title="WaterMarkTuple" alt="" coords="202,5,329,32"/>
-<area shape="rect" id="node11" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="564,124,615,151"/>
-<area shape="rect" id="node14" href="$d2/db0/classDependencyList.html" title="DependencyList\&lt; Lifetime\lRefBase, LifetimeActor \&gt;" alt="" coords="872,358,1067,399"/>
+<area shape="rect" id="node1" title=" " alt="" coords="29,289,187,316"/>
+<area shape="rect" id="node2" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="5,185,211,227"/>
+<area shape="rect" id="node3" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="49,109,167,136"/>
+<area shape="rect" id="node4" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="11,5,205,47"/>
 </map>

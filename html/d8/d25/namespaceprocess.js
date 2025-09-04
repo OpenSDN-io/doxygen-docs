@@ -10,5 +10,19 @@ var namespaceprocess =
     [ "FlagConfigManager", "dc/df2/classprocess_1_1FlagConfigManager.html", "dc/df2/classprocess_1_1FlagConfigManager" ],
     [ "FlagUveManager", "df/dbf/classprocess_1_1FlagUveManager.html", "df/dbf/classprocess_1_1FlagUveManager" ],
     [ "FlagManager", "d4/d9f/classprocess_1_1FlagManager.html", "d4/d9f/classprocess_1_1FlagManager" ],
-    [ "Signal", "d0/d14/classprocess_1_1Signal.html", "d0/d14/classprocess_1_1Signal" ]
+    [ "Signal", "d0/d14/classprocess_1_1Signal.html", "d0/d14/classprocess_1_1Signal" ],
+    [ "ConnectionTypeName", "d8/d25/namespaceprocess.html#ad86b86a36873ad367b4da65ed7744838", null ],
+    [ "context_iterator", "d8/d25/namespaceprocess.html#abf761a200cebe6edeed67b9369dc8f3e", null ],
+    [ "context_size", "d8/d25/namespaceprocess.html#a579bed7f7c18a38ac6bba35fe2c9a036", null ],
+    [ "ContextVec", "d8/d25/namespaceprocess.html#acbe36f38a157806340fc0d43819e51ea", null ],
+    [ "Endpoint", "d8/d25/namespaceprocess.html#a2b2ed35a62a994d32fb5130ec361fa21", null ],
+    [ "flag_cfg_itr", "d8/d25/namespaceprocess.html#ad7dc8b8dc33d0147bd92a9d11423b1e0", null ],
+    [ "FlagConfigVec", "d8/d25/namespaceprocess.html#a91c72e2cb9ea594afcc82539cd8c490d", null ],
+    [ "FlagVec", "d8/d25/namespaceprocess.html#a8913ff65aec539aa6759e7bb8c251f2e", null ],
+    [ "ProcessStateFn", "d8/d25/namespaceprocess.html#ac396569eac7a9c187ae700bad566ed2e", null ],
+    [ "GetConnectionInfoMessage", "d8/d25/namespaceprocess.html#a3ba10d1af160148c81a78f54809a2e2f", null ],
+    [ "GetConnectionInfoMessage", "d8/d25/namespaceprocess.html#ab898a2ec32f8c5d7bf8656ff8edb6a22", null ],
+    [ "GetProcessStateCb", "d8/d25/namespaceprocess.html#ad1f197172683746855f497710d6223cc", null ],
+    [ "GetProcessStateCb", "d8/d25/namespaceprocess.html#a944d72838313b7f6800b034992a7c0c3", null ],
+    [ "debug_", "d8/d25/namespaceprocess.html#ac92c4d6b4acb89eea12cde9c5e468377", null ]
 ];

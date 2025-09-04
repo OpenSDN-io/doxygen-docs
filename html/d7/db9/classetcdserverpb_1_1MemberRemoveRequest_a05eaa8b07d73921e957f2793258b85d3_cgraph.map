@@ -1,8 +1,9 @@
 <map id="etcdserverpb::MemberRemoveRequest::New" name="etcdserverpb::MemberRemoveRequest::New">
-<area shape="rect" id="node2" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a72669b0ce12e0acc833ae2013374ef32" title="etcdserverpb::MemberRemove\lRequest::MemberRemoveRequest" alt="" coords="275,86,515,127"/>
-<area shape="rect" id="node3" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a87e3a4cbae7bdfa76c2fef80df938d0c" title="etcdserverpb::MemberRemove\lRequest::internal_default\l_instance" alt="" coords="584,5,805,61"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a566fabb3f95a5dbdfb9d8349a59435" title="protobuf_rpc_2eproto\l::InitDefaultsMemberRemoveRequest" alt="" coords="563,86,827,127"/>
-<area shape="rect" id="node7" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a0949fcfda95085cb17d8e30b72b9bcaf" title="etcdserverpb::MemberRemove\lRequest::SharedCtor" alt="" coords="584,151,805,193"/>
-<area shape="rect" id="node5" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5ffe00306fb6ba6ef57ab16455fd3848" title="protobuf_rpc_2eproto\l::InitDefaultsMemberRemoveRequestImpl" alt="" coords="875,86,1168,127"/>
-<area shape="rect" id="node6" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a303b5aa404203eec8553fe9f94eb7ae9" title="etcdserverpb::MemberRemove\lRequest::InitAsDefaultInstance" alt="" coords="1217,86,1439,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,205,120"/>
+<area shape="rect" id="node2" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a72669b0ce12e0acc833ae2013374ef32" title=" " alt="" coords="253,79,473,120"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a566fabb3f95a5dbdfb9d8349a59435" title=" " alt="" coords="521,5,760,47"/>
+<area shape="rect" id="node6" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a87e3a4cbae7bdfa76c2fef80df938d0c" title=" " alt="" coords="541,71,741,127"/>
+<area shape="rect" id="node7" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a0949fcfda95085cb17d8e30b72b9bcaf" title=" " alt="" coords="541,152,741,193"/>
+<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#a5ffe00306fb6ba6ef57ab16455fd3848" title=" " alt="" coords="808,5,1072,47"/>
+<area shape="rect" id="node5" href="$d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a303b5aa404203eec8553fe9f94eb7ae9" title=" " alt="" coords="1120,5,1324,47"/>
 </map>

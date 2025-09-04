@@ -1,6 +1,7 @@
 <map id="OperVirtualDns::ConfigAddChange" name="OperVirtualDns::ConfigAddChange">
-<area shape="rect" id="node2" href="$db/de3/classDomainConfig.html#a1167d51252654b343b477c09933bd472" title="DomainConfig::VDnsAddChange" alt="" coords="249,56,479,83"/>
-<area shape="rect" id="node3" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title="IFMapNode::GetObject" alt="" coords="543,5,710,32"/>
-<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="557,56,696,83"/>
-<area shape="rect" id="node5" href="$db/de3/classDomainConfig.html#a9b55ac610ebc19849fbb4264392f6313" title="DomainConfig::CallVdnsCb" alt="" coords="529,107,725,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,187,90"/>
+<area shape="rect" id="node2" href="$db/de3/classDomainConfig.html#a1167d51252654b343b477c09933bd472" title=" " alt="" coords="235,56,449,83"/>
+<area shape="rect" id="node3" href="$db/de3/classDomainConfig.html#a9b55ac610ebc19849fbb4264392f6313" title=" " alt="" coords="497,5,680,32"/>
+<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#abdc8608a2456425cfca8c012911af660" title=" " alt="" coords="510,56,667,83"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="523,107,654,133"/>
 </map>

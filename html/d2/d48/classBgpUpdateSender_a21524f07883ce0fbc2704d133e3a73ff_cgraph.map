@@ -1,15 +1,17 @@
 <map id="BgpUpdateSender::Leave" name="BgpUpdateSender::Leave">
-<area shape="rect" id="node2" href="$d2/d48/classBgpUpdateSender.html#a37f00e7cfc9fa00d69235a0c7288e6da" title="BgpUpdateSender::partition" alt="" coords="240,217,443,244"/>
-<area shape="rect" id="node3" href="$d7/d93/classBgpSenderPartition.html#a580482bf827afd353d2f2664741b36ad" title="BgpSenderPartition\l::Remove" alt="" coords="268,269,415,310"/>
-<area shape="rect" id="node4" href="$d6/dfd/classIndexMap.html#a5bdc85c3c90d51e8984e2d26490c24aa" title="IndexMap::Find" alt="" coords="518,5,637,32"/>
-<area shape="rect" id="node5" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#aff87868e3bb643acdb031bc7abcb7184" title="BgpSenderPartition\l::RibState::Remove" alt="" coords="504,538,651,579"/>
-<area shape="rect" id="node7" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#aebd8f7e6d6eee5aaf1ab44ca706c614c" title="BgpSenderPartition\l::PeerState::Remove" alt="" coords="500,122,655,163"/>
-<area shape="rect" id="node9" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#aa4792fa4ee9cc0374fca9ec4f6c96803" title="BgpSenderPartition\l::RibState::empty" alt="" coords="504,57,651,98"/>
-<area shape="rect" id="node11" href="$d7/d93/classBgpSenderPartition.html#a66585f63da1fbc59f9ca127def4b6bcd" title="BgpSenderPartition\l::WorkRibOutInvalidate" alt="" coords="491,239,663,281"/>
-<area shape="rect" id="node12" href="$d6/dfd/classIndexMap.html#a92fb72302e068b915d2be5320ee9e91c" title="IndexMap::Remove" alt="" coords="504,305,651,332"/>
-<area shape="rect" id="node8" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#ad0025af56e73814bfad1633f23f4128e" title="BgpSenderPartition\l::RibState::index" alt="" coords="712,151,859,193"/>
-<area shape="rect" id="node13" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ae75b5fc9443d9ab625eeef73bbe1d7e1" title="BgpSenderPartition\l::PeerState::empty" alt="" coords="504,407,651,449"/>
-<area shape="rect" id="node14" href="$d7/d93/classBgpSenderPartition.html#aeb6d093ebb18003882f3e211e5fcd604" title="BgpSenderPartition\l::WorkPeerInvalidate" alt="" coords="499,473,656,514"/>
-<area shape="rect" id="node6" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ab2c54361f631555b595e2b0b9ce8e8e5" title="BgpSenderPartition\l::PeerState::index" alt="" coords="712,443,859,485"/>
-<area shape="rect" id="node10" href="$d6/dd0/classBitSet.html#aab765a980db190e3fce57841259f133f" title="BitSet::none" alt="" coords="735,64,836,91"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,246,176,273"/>
+<area shape="rect" id="node2" href="$d2/d48/classBgpUpdateSender.html#a37f00e7cfc9fa00d69235a0c7288e6da" title=" " alt="" coords="224,217,407,243"/>
+<area shape="rect" id="node3" href="$d7/d93/classBgpSenderPartition.html#a580482bf827afd353d2f2664741b36ad" title=" " alt="" coords="248,268,383,309"/>
+<area shape="rect" id="node4" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ae7b6193a260e8546b3ade69d0e071392" title=" " alt="" coords="466,5,601,47"/>
+<area shape="rect" id="node5" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a901c3436eb79a089434a919efdb6875a" title=" " alt="" coords="466,71,601,112"/>
+<area shape="rect" id="node7" href="$d6/dfd/classIndexMap.html#adf3ccb2f90c7432c7f0b414daf50ea14" title=" " alt="" coords="477,137,589,163"/>
+<area shape="rect" id="node8" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ac7907402e82a3f8c107d0bae51e29058" title=" " alt="" coords="661,223,796,264"/>
+<area shape="rect" id="node9" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a63208f99355023d3686b7f04564c1058" title=" " alt="" coords="661,313,796,355"/>
+<area shape="rect" id="node10" href="$d6/dfd/classIndexMap.html#a92fb72302e068b915d2be5320ee9e91c" title=" " alt="" coords="466,422,601,449"/>
+<area shape="rect" id="node12" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#aff87868e3bb643acdb031bc7abcb7184" title=" " alt="" coords="465,239,601,280"/>
+<area shape="rect" id="node13" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#aebd8f7e6d6eee5aaf1ab44ca706c614c" title=" " alt="" coords="462,356,605,397"/>
+<area shape="rect" id="node14" href="$d7/d93/classBgpSenderPartition.html#aeb6d093ebb18003882f3e211e5fcd604" title=" " alt="" coords="462,473,605,515"/>
+<area shape="rect" id="node15" href="$d7/d93/classBgpSenderPartition.html#a66585f63da1fbc59f9ca127def4b6bcd" title=" " alt="" coords="455,539,612,580"/>
+<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#a1e9d617fe4446ae0c0c9161ecbe98fbc" title=" " alt="" coords="681,78,776,105"/>
+<area shape="rect" id="node11" href="$d6/dfd/classIndexMap.html#aef7b5395fd0d02d4df8ca9e2375ed02b" title=" " alt="" coords="660,422,797,449"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="AgentInit" name="AgentInit">
-<area shape="rect" id="node2" href="$d9/daa/classContrailInitCommon.html" title="ContrailInitCommon" alt="" coords="5,80,157,107"/>
-<area shape="rect" id="node4" href="$d4/d07/classLinuxVxlanAgentInit.html" title="LinuxVxlanAgentInit" alt="" coords="182,80,335,107"/>
-<area shape="rect" id="node5" href="$d0/d92/classTorAgentInit.html" title="TorAgentInit" alt="" coords="359,80,459,107"/>
-<area shape="rect" id="node3" href="$d5/db7/classContrailAgentInit.html" title="ContrailAgentInit" alt="" coords="15,155,147,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="200,5,275,32"/>
+<area shape="rect" id="node2" href="$d9/daa/classContrailInitCommon.html" title=" " alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node4" href="$d4/d07/classLinuxVxlanAgentInit.html" title=" " alt="" coords="168,80,307,107"/>
+<area shape="rect" id="node5" href="$d0/d92/classTorAgentInit.html" title=" " alt="" coords="331,80,423,107"/>
+<area shape="rect" id="node3" href="$d5/db7/classContrailAgentInit.html" title=" " alt="" coords="15,155,134,181"/>
 </map>

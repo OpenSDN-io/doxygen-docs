@@ -1,6 +1,7 @@
 <map id="SslServer::AcceptHandShakeHandler" name="SslServer::AcceptHandShakeHandler">
-<area shape="rect" id="node2" href="$db/dda/classSslSession.html#a14dfa1f269bd52cfbb89ac9c19bf94c8" title="SslSession::SetSslHandShake\lSuccess" alt="" coords="264,5,477,46"/>
-<area shape="rect" id="node3" href="$db/dda/classSslSession.html#a4acfb27a1de94dad5f3f2515f10ee058" title="SslSession::SetSslHandShake\lFailure" alt="" coords="264,70,477,111"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="277,136,464,163"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="525,136,669,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,200,98"/>
+<area shape="rect" id="node2" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="262,5,437,32"/>
+<area shape="rect" id="node4" href="$db/dda/classSslSession.html#a4acfb27a1de94dad5f3f2515f10ee058" title=" " alt="" coords="248,57,451,98"/>
+<area shape="rect" id="node5" href="$db/dda/classSslSession.html#a14dfa1f269bd52cfbb89ac9c19bf94c8" title=" " alt="" coords="248,122,451,163"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="499,5,635,32"/>
 </map>

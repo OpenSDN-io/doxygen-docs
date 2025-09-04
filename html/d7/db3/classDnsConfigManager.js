@@ -20,7 +20,7 @@ var classDnsConfigManager =
     [ "graph", "d7/db3/classDnsConfigManager.html#a71ca5a60df60a3358d342ea7eb6a2a05", null ],
     [ "IdentifierMapInit", "d7/db3/classDnsConfigManager.html#a8257b5bc184e0d48dcedc289c7399082", null ],
     [ "Initialize", "d7/db3/classDnsConfigManager.html#aaaf465e7501b036d628d2b1661981e99", null ],
-    [ "localname", "d7/db3/classDnsConfigManager.html#ac6f141217fbd11309983e1aaa19c7d6e", null ],
+    [ "localname", "d7/db3/classDnsConfigManager.html#ab870b75a3be5c24877cdcfda5d41fd90", null ],
     [ "OnChange", "d7/db3/classDnsConfigManager.html#a8375c5c9b039a7e3a0094a18408f9291", null ],
     [ "ProcessChanges", "d7/db3/classDnsConfigManager.html#af2d18081772465cc3470c290407cad59", null ],
     [ "ProcessGlobalQosConfig", "d7/db3/classDnsConfigManager.html#a29ceb86f1eb592d8b4634a485d27a508", null ],

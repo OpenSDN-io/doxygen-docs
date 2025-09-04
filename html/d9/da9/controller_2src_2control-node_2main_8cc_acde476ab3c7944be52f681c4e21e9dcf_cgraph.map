@@ -1,12 +1,13 @@
 <map id="ControlNodeGetProcessStateCb" name="ControlNodeGetProcessStateCb">
-<area shape="rect" id="node2" href="$d8/d25/namespaceprocess.html#a944d72838313b7f6800b034992a7c0c3" title="process::GetProcessStateCb" alt="" coords="295,20,499,47"/>
-<area shape="rect" id="node5" href="$d5/d0d/classControlNode.html#a1cdb2b4c8ff808d3b00e77a06613cab8" title="ControlNode::GetProcessState" alt="" coords="288,75,507,101"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a4ac4b4244a7b397a0ba13bbb3a018cea" title="BgpServer::HasSelfConfiguration" alt="" coords="280,125,515,152"/>
-<area shape="rect" id="node10" href="$db/d26/classBgpServer.html#a5dd9db0c711bbc862923c8afcb09760b" title="BgpServer::admin_down" alt="" coords="307,176,487,203"/>
-<area shape="rect" id="node11" href="$de/d27/classConfigClientManager.html#ac27e0fc731d88ea77cd4001599558e84" title="ConfigClientManager\l::GetEndOfRibComputed" alt="" coords="307,227,487,269"/>
-<area shape="rect" id="node3" href="$d8/d25/namespaceprocess.html#ab898a2ec32f8c5d7bf8656ff8edb6a22" title="process::GetConnectionInfo\lMessage" alt="" coords="571,5,773,46"/>
-<area shape="rect" id="node4" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title="integerToString" alt="" coords="829,12,949,39"/>
-<area shape="rect" id="node7" href="$db/d26/classBgpServer.html#a6b1cf99885365f7f2b3e4a3477e080e3" title="BgpServer::bgp_identifier_u32" alt="" coords="563,71,781,97"/>
-<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a79251f927f0aa33a7a763bfb0f941577" title="BgpServer::local_autonomous\l_system" alt="" coords="564,122,780,163"/>
-<area shape="rect" id="node9" href="$db/d26/classBgpServer.html#a233b773a2667adeadfb273e9716f10e7" title="BgpServer::autonomous\l_system" alt="" coords="583,187,761,229"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,217,149"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#aeeeb90743e9e9f7648b1e80ed6de3362" title=" " alt="" coords="291,5,455,32"/>
+<area shape="rect" id="node3" href="$de/d27/classConfigClientManager.html#a4f0f0e00a567c027f2ff278545577b1c" title=" " alt="" coords="289,57,457,98"/>
+<area shape="rect" id="node4" href="$d5/d0d/classControlNode.html#a1cdb2b4c8ff808d3b00e77a06613cab8" title=" " alt="" coords="271,123,474,149"/>
+<area shape="rect" id="node5" href="$d8/d25/namespaceprocess.html#a944d72838313b7f6800b034992a7c0c3" title=" " alt="" coords="276,173,469,200"/>
+<area shape="rect" id="node8" href="$db/d26/classBgpServer.html#a51290822f49a0781306922832dccbebf" title=" " alt="" coords="265,245,480,272"/>
+<area shape="rect" id="node6" href="$d8/d25/namespaceprocess.html#ab898a2ec32f8c5d7bf8656ff8edb6a22" title=" " alt="" coords="534,143,719,185"/>
+<area shape="rect" id="node7" href="$dd/d70/string__util_8h.html#abf0bb328a638b537a16cc43e3014ab72" title=" " alt="" coords="773,151,883,177"/>
+<area shape="rect" id="node9" href="$db/d26/classBgpServer.html#a936dcd6c87b2cc752c3eb37d6d4c26eb" title=" " alt="" coords="545,209,708,250"/>
+<area shape="rect" id="node10" href="$db/d26/classBgpServer.html#ab909667669413585d8d4c38f57f093f1" title=" " alt="" coords="528,275,725,301"/>
+<area shape="rect" id="node11" href="$db/d26/classBgpServer.html#ac7583398387bd7e3a853607a932158e1" title=" " alt="" coords="529,326,725,367"/>
 </map>

@@ -1,9 +1,25 @@
 <map id="HealthCheckService::DeleteInstances" name="HealthCheckService::DeleteInstances">
-<area shape="rect" id="node2" href="$dd/df6/classHealthCheckService.html#a446980e88383cc9aa8eec2f1bc9b27db" title="HealthCheckService\l::StopHealthCheckService" alt="" coords="209,70,399,111"/>
-<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a9ab28788ab854033371a0cbdeaf93ac8" title="HealthCheckInstanceBase\l::DestroyInstanceTask" alt="" coords="448,5,640,46"/>
-<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06" title="HealthCheckInstanceBase\l::StopTask" alt="" coords="448,70,640,111"/>
-<area shape="rect" id="node8" href="$d8/d4e/classHealthCheckInstanceBase.html#a77ccce099efd5a7c302f22c2451914ed" title="HealthCheckInstanceBase\l::service" alt="" coords="448,135,640,177"/>
-<area shape="rect" id="node5" href="$dd/df6/classHealthCheckService.html#a77749be4896cf655c9918bb31a907014" title="HealthCheckService\l::table" alt="" coords="713,38,866,79"/>
-<area shape="rect" id="node6" href="$db/d24/classHealthCheckTable.html#afbcd66737ff44d7fc8ef38e72b0447a9" title="HealthCheckTable::Instance\lEventEnqueue" alt="" coords="688,103,891,145"/>
-<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title="WorkQueue::Enqueue" alt="" coords="939,111,1101,137"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,148,105"/>
+<area shape="rect" id="node2" href="$dd/df6/classHealthCheckService.html#a446980e88383cc9aa8eec2f1bc9b27db" title=" " alt="" coords="196,64,375,105"/>
+<area shape="rect" id="node3" href="$d8/d4e/classHealthCheckInstanceBase.html#a9ab28788ab854033371a0cbdeaf93ac8" title=" " alt="" coords="423,5,601,47"/>
+<area shape="rect" id="node4" href="$d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef" title=" " alt="" coords="653,61,832,103"/>
+<area shape="rect" id="node5" href="$d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06" title=" " alt="" coords="423,124,601,165"/>
+<area shape="rect" id="node6" href="$db/d24/classHealthCheckTable.html#ad0d51934a48450005c80b2c4bc784ec8" title=" " alt="" coords="649,192,836,233"/>
+<area shape="rect" id="node23" href="$dd/df6/classHealthCheckService.html#a2d7c778b4755ddfb85ce2610ba6476a7" title=" " alt="" coords="671,127,814,168"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="884,199,1035,226"/>
+<area shape="rect" id="node8" href="$d4/d0c/classWorkQueue.html#ac78e849a17c59bdc773f9351014b8e8b" title=" " alt="" coords="1083,82,1293,109"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html#ae753e7d86aa77ca1715947db13c8d38c" title=" " alt="" coords="1341,198,1543,225"/>
+<area shape="rect" id="node20" href="$d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611" title=" " alt="" coords="1087,133,1289,175"/>
+<area shape="rect" id="node21" href="$d4/d0c/classWorkQueue.html#a6148cdde635da99345eb164a7a904511" title=" " alt="" coords="1345,261,1539,287"/>
+<area shape="rect" id="node22" href="$d4/d0c/classWorkQueue.html#aa32af289dad2694e869e88822359417c" title=" " alt="" coords="1091,251,1285,292"/>
+<area shape="rect" id="node9" href="$da/d91/classWaterMarkTuple.html#ae5b60526b1d010fc304b1c24cf5a88d7" title=" " alt="" coords="1353,75,1531,116"/>
+<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html#a356d5679e95db6a340ed176a557014ab" title=" " alt="" coords="1594,123,1798,164"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html#a455481ee5e70317d7a7baf3af6c14c07" title=" " alt="" coords="1597,188,1795,229"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="1591,319,1801,346"/>
+<area shape="rect" id="node18" href="$d4/d0c/classWorkQueue.html#a4745b0404de6c52ececb16a9db7dddff" title=" " alt="" coords="1592,253,1800,295"/>
+<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1863,370,2050,397"/>
+<area shape="rect" id="node17" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="1849,319,2064,346"/>
+<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2112,370,2315,397"/>
+<area shape="rect" id="node16" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2363,363,2540,404"/>
+<area shape="rect" id="node19" href="$da/d91/classWaterMarkTuple.html#ae3f636535f9a66218700d7025e6e39f5" title=" " alt="" coords="1857,253,2057,295"/>
 </map>

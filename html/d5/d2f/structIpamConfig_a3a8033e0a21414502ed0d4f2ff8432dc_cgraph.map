@@ -1,6 +1,7 @@
 <map id="IpamConfig::AssociateIpamVdns" name="IpamConfig::AssociateIpamVdns">
-<area shape="rect" id="node2" href="$d5/d2f/structIpamConfig.html#a4c70b163985bbab0b3a29d71dd4a70c7" title="IpamConfig::GetVirtualDns" alt="" coords="305,5,500,32"/>
-<area shape="rect" id="node3" href="$d5/d2f/structIpamConfig.html#a7c7ff1b8ba45719873b661937accd7a2" title="IpamConfig::GetVirtualDnsName" alt="" coords="285,56,520,83"/>
-<area shape="rect" id="node4" href="$d4/da5/structDnsConfig.html#aa32ec1012c5c04ea078f1973ecadc0aa" title="DnsConfig::GetName" alt="" coords="323,107,482,133"/>
-<area shape="rect" id="node5" href="$d0/d31/structVirtualDnsConfig.html#a6835bf5e3f5a01a683286d27fe7cd853" title="VirtualDnsConfig::AddIpam" alt="" coords="304,157,501,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,220,108"/>
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#a6835bf5e3f5a01a683286d27fe7cd853" title=" " alt="" coords="284,5,467,32"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a51d56d39587809e1ab5bb2fb1f5f45a7" title=" " alt="" coords="301,56,449,83"/>
+<area shape="rect" id="node4" href="$d5/d2f/structIpamConfig.html#a4c70b163985bbab0b3a29d71dd4a70c7" title=" " alt="" coords="285,107,465,133"/>
+<area shape="rect" id="node5" href="$d5/d2f/structIpamConfig.html#a7c7ff1b8ba45719873b661937accd7a2" title=" " alt="" coords="268,157,483,184"/>
 </map>

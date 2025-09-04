@@ -1,10 +1,11 @@
 <map id="AgentQosConfigTable::ReleaseIndex" name="AgentQosConfigTable::ReleaseIndex">
-<area shape="rect" id="node2" href="$d4/dcd/classAgentQosConfig.html#a024ac1fd0015650f7bb0ec266eab9a8f" title="AgentQosConfig::id" alt="" coords="239,5,385,32"/>
-<area shape="rect" id="node3" href="$db/d09/classAgentDBTable.html#a395b8ca851ea52d9887cf9c15acfbfd4" title="AgentDBTable::agent" alt="" coords="233,56,391,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0cde552c623a5950494fe867200306f3" title="Agent::resource_manager" alt="" coords="217,107,407,133"/>
-<area shape="rect" id="node5" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title="ResourceManager::Release" alt="" coords="214,157,410,184"/>
-<area shape="rect" id="node9" href="$d6/d34/classIndexVector.html#aa9dfee57934514ce475d5916ac94fdce" title="IndexVector::Remove" alt="" coords="232,208,392,235"/>
-<area shape="rect" id="node6" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title="ResourceManager::resource\l_table" alt="" coords="459,91,661,133"/>
-<area shape="rect" id="node7" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title="ResourceTable::FindKeyPtr" alt="" coords="465,157,655,184"/>
-<area shape="rect" id="node8" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title="ResourceTable::ReleaseKey" alt="" coords="461,208,659,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,155,141"/>
+<area shape="rect" id="node2" href="$db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="221,5,367,32"/>
+<area shape="rect" id="node3" href="$d4/dcd/classAgentQosConfig.html#a23fab89245fbd7cc3fd211bb192ab731" title=" " alt="" coords="226,56,362,83"/>
+<area shape="rect" id="node4" href="$de/d6b/classResourceManager.html#a2d5fbfb2b692b8d5210ebda35df565ac" title=" " alt="" coords="203,107,385,133"/>
+<area shape="rect" id="node8" href="$d6/d34/classIndexVector.html#aa9dfee57934514ce475d5916ac94fdce" title=" " alt="" coords="221,157,367,184"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#a0b9dc73fdcfed18b0da9114963443a80" title=" " alt="" coords="209,208,379,235"/>
+<area shape="rect" id="node5" href="$d1/dad/classResourceTable.html#a3f466dd18a2e09ffb686332eb7120cf5" title=" " alt="" coords="436,56,616,83"/>
+<area shape="rect" id="node6" href="$d1/dad/classResourceTable.html#af285f872ae67f85d90f3d6827b84800f" title=" " alt="" coords="433,107,619,133"/>
+<area shape="rect" id="node7" href="$de/d6b/classResourceManager.html#a064c87b149154e5339e70c15fe6d0113" title=" " alt="" coords="433,158,619,199"/>
 </map>

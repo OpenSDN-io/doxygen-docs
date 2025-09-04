@@ -1,8 +1,9 @@
 <map id="ShowMulticastManagerDetailHandler::FillMulticastForwarderInfo" name="ShowMulticastManagerDetailHandler::FillMulticastForwarderInfo">
-<area shape="rect" id="node2" href="$d6/dc4/classMcastForwarder.html#adc6b5280e788d77255e6a15e44a64c76" title="McastForwarder::address" alt="" coords="560,16,744,43"/>
-<area shape="rect" id="node3" href="$d6/dc4/classMcastForwarder.html#a2a36df8b15b3edf00b33fe34375cbfee" title="McastForwarder::label" alt="" coords="569,153,735,180"/>
-<area shape="rect" id="node4" href="$d6/dc4/classMcastForwarder.html#a98e7fa925eef187ab57bfd31eb0e28e3" title="McastForwarder::label\l_block" alt="" coords="324,103,489,145"/>
-<area shape="rect" id="node5" href="$dc/d2b/classLabelBlock.html#a162f5a1bab81fff9219b70a793198530" title="LabelBlock::ToString" alt="" coords="330,169,483,196"/>
-<area shape="rect" id="node6" href="$d6/dc4/classMcastForwarder.html#a33108121e2a2d59b8162ad50a2d91137" title="McastForwarder::router_id" alt="" coords="311,220,502,247"/>
-<area shape="rect" id="node7" href="$d9/dd7/classShowMulticastManagerDetailHandler.html#a05d478fbb8f3541ce4052b8354d99a8b" title="ShowMulticastManagerDetail\lHandler::FillMulticastLinkInfo" alt="" coords="301,38,512,79"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,231,166"/>
+<area shape="rect" id="node2" href="$d6/dc4/classMcastForwarder.html#a64e38bcaf4057bb3dc095b8e4107de9a" title=" " alt="" coords="519,18,689,44"/>
+<area shape="rect" id="node3" href="$d9/dd7/classShowMulticastManagerDetailHandler.html#a05d478fbb8f3541ce4052b8354d99a8b" title=" " alt="" coords="279,37,471,78"/>
+<area shape="rect" id="node4" href="$d6/dc4/classMcastForwarder.html#ad59a55eb1735f70d48619fa38e1cdc70" title=" " alt="" coords="529,72,679,99"/>
+<area shape="rect" id="node5" href="$d6/dc4/classMcastForwarder.html#a0ee843b841a8d29b122dcdd0708581a4" title=" " alt="" coords="299,154,450,196"/>
+<area shape="rect" id="node6" href="$d6/dc4/classMcastForwarder.html#a2f854db8f24a7ca623167d32e99013aa" title=" " alt="" coords="287,220,462,247"/>
+<area shape="rect" id="node7" href="$dc/d2b/classLabelBlock.html#a7d8993e7d526887044cfad20ee171074" title=" " alt="" coords="304,271,445,298"/>
 </map>

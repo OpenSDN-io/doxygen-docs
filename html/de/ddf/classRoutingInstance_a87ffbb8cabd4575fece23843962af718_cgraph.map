@@ -1,7 +1,8 @@
 <map id="RoutingInstance::ProcessRoutingPolicyConfig" name="RoutingInstance::ProcessRoutingPolicyConfig">
-<area shape="rect" id="node2" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title="RoutingInstance::server" alt="" coords="258,5,433,32"/>
-<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#ae27b8de77641068e34951f4c2e573a7c" title="BgpServer::routing\l_policy_mgr" alt="" coords="274,57,417,98"/>
-<area shape="rect" id="node4" href="$d6/ddf/classBgpInstanceConfig.html#ab8c50a2eb23aeba2e0450bb8446b281a" title="BgpInstanceConfig::\lrouting_policy_list" alt="" coords="270,122,421,163"/>
-<area shape="rect" id="node5" href="$d9/d8d/classRoutingPolicyMgr.html#ae6ce5d560e714923c535572997fb5659" title="RoutingPolicyMgr::GetRouting\lPolicy" alt="" coords="238,187,453,229"/>
-<area shape="rect" id="node6" href="$dc/d96/classRoutingPolicy.html#ad3d87db7033849e1a265cd95028bcfc3" title="RoutingPolicy::generation" alt="" coords="252,253,439,280"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,179,163"/>
+<area shape="rect" id="node2" href="$dc/d96/classRoutingPolicy.html#a1fe741465843f48ede0d93fcc2590b03" title=" " alt="" coords="241,5,411,32"/>
+<area shape="rect" id="node3" href="$d9/d8d/classRoutingPolicyMgr.html#ae6ce5d560e714923c535572997fb5659" title=" " alt="" coords="227,57,425,98"/>
+<area shape="rect" id="node4" href="$d6/ddf/classBgpInstanceConfig.html#a003a68b942d731dee17abf8b246a425f" title=" " alt="" coords="255,122,397,163"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#ae27b8de77641068e34951f4c2e573a7c" title=" " alt="" coords="261,187,391,229"/>
+<area shape="rect" id="node6" href="$de/ddf/classRoutingInstance.html#a9a39de4d71ad8b1779fc5b7e54b86850" title=" " alt="" coords="245,253,407,280"/>
 </map>

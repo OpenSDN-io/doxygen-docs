@@ -1,6 +1,0 @@
-<map id="BgpPeerClose::UpdateRouteStats" name="BgpPeerClose::UpdateRouteStats">
-<area shape="rect" id="node2" href="$d8/d25/classBgpPeerClose.html#aa9b356407c0a6893ee494d1fab6a8e51" title="BgpPeerClose::GetManager" alt="" coords="259,5,458,32"/>
-<area shape="rect" id="node4" href="$df/ddb/classPeerCloseManager.html#a0d5f2b7c799cccf599df39f70be49ec5" title="PeerCloseManager::Update\lRouteStats" alt="" coords="259,57,458,98"/>
-<area shape="rect" id="node3" href="$d3/d2d/classBgpPeer.html#ae00713836759229368ad53eb1c5ca416" title="BgpPeer::close_manager" alt="" coords="507,5,690,32"/>
-<area shape="rect" id="node5" href="$d7/d0c/classBgpPath.html#ada86069c1ca416398272f60af187df09" title="BgpPath::IsStale" alt="" coords="535,64,662,91"/>
-</map>

@@ -1,8 +1,9 @@
 <map id="cass::cql::CqlIfImpl::ConnectSync" name="cass::cql::CqlIfImpl::ConnectSync">
-<area shape="rect" id="node2" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a4d65112da8143753eab52fc306fb4ddd" title="cass::cql::interface\l::CassLibrary::CassSessionNew" alt="" coords="213,5,435,46"/>
-<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a6da6d559265794f40fea715126dc5f4f" title="cass::cql::interface\l::CassLibrary::CassSessionConnect" alt="" coords="201,70,447,111"/>
-<area shape="rect" id="node4" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#ade2958745de7afb1a6b7000d1997d955" title="cass::cql::impl::SyncFutureWait" alt="" coords="213,136,435,163"/>
-<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title="cass::cql::interface\l::CassLibrary::CassFutureWait" alt="" coords="513,63,727,105"/>
-<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title="cass::cql::interface\l::CassLibrary::CassFutureErrorCode" alt="" coords="496,129,744,170"/>
-<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title="cass::cql::interface\l::CassLibrary::CassFutureError\lMessage" alt="" coords="513,195,727,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,141,112"/>
+<area shape="rect" id="node2" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a6da6d559265794f40fea715126dc5f4f" title=" " alt="" coords="189,5,423,47"/>
+<area shape="rect" id="node3" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#a4d65112da8143753eab52fc306fb4ddd" title=" " alt="" coords="201,71,411,112"/>
+<area shape="rect" id="node4" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#ade2958745de7afb1a6b7000d1997d955" title=" " alt="" coords="202,137,410,163"/>
+<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title=" " alt="" coords="471,56,704,97"/>
+<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title=" " alt="" coords="486,122,689,178"/>
+<area shape="rect" id="node7" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title=" " alt="" coords="487,203,687,244"/>
 </map>

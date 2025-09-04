@@ -8,6 +8,6 @@ var ifmap__dependency__manager_8cc =
     [ "LocateNodeEventPolicy", "d1/d35/ifmap__dependency__manager_8cc.html#a148a206688e89c2001080ebf314cf4e0", null ],
     [ "LocateReactionMap", "d1/d35/ifmap__dependency__manager_8cc.html#aa5b623d49533b3668803c3e977e29a84", null ],
     [ "MakePath", "d1/d35/ifmap__dependency__manager_8cc.html#aaaa2e80632c1c66b03ee15fe18526cab", null ],
-    [ "RegisterConfigHandler", "d1/d35/ifmap__dependency__manager_8cc.html#ad630a83f36e8d2761761eb5e08e8fd4f", null ],
-    [ "RegisterConfigHandler", "d1/d35/ifmap__dependency__manager_8cc.html#a79e70f7beeacb9c1d05655e4cfdcf34b", null ]
+    [ "RegisterConfigHandler", "d1/d35/ifmap__dependency__manager_8cc.html#a79e70f7beeacb9c1d05655e4cfdcf34b", null ],
+    [ "RegisterConfigHandler", "d1/d35/ifmap__dependency__manager_8cc.html#ad630a83f36e8d2761761eb5e08e8fd4f", null ]
 ];

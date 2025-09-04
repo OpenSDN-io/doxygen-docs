@@ -16,6 +16,6 @@ var classBgpAttrDB =
     [ "ReplaceSourceRdAndLocate", "d7/d34/classBgpAttrDB.html#ab8520c2d8c049037802f4f2030919392", null ],
     [ "ReplaceSubProtocolAndLocate", "d7/d34/classBgpAttrDB.html#a63ebbf2ef6550332e61a5fb1387f56ea", null ],
     [ "server", "d7/d34/classBgpAttrDB.html#a91265e070be7a2c777bea958e6839da9", null ],
-    [ "server", "d7/d34/classBgpAttrDB.html#a60bd7e5437691fbcb472f6a1294a2591", null ],
+    [ "server", "d7/d34/classBgpAttrDB.html#ade49e36fd470e23908ea9d7a4181972c", null ],
     [ "server_", "d7/d34/classBgpAttrDB.html#a10cdbd6c99179d339fabce2f56c5378a", null ]
 ];

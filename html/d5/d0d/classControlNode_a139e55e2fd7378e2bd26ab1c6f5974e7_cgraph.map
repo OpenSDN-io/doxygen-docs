@@ -1,51 +1,52 @@
 <map id="ControlNode::ControlNodeInfoLogger" name="ControlNode::ControlNodeInfoLogger">
-<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#afa305a0016cb5e62351503f0d1a2a007" title="BgpServer::localname" alt="" coords="540,5,705,32"/>
-<area shape="rect" id="node3" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="265,573,420,600"/>
-<area shape="rect" id="node4" href="$d5/d0d/classControlNode.html#a3e34f5ddc904b0708721339d5384ac0f" title="ControlNode::GetSelfIp" alt="" coords="257,624,428,651"/>
-<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#a80845c1c8b4a41e8c66704730e6c29f2" title="BgpServer::CollectStats" alt="" coords="255,675,430,701"/>
-<area shape="rect" id="node35" href="$dd/dfb/classBgpXmppChannelManager.html#adcfe27cc4b5950c351b1649ea6d1ee09" title="BgpXmppChannelManager\l::CollectStats" alt="" coords="245,1398,440,1439"/>
-<area shape="rect" id="node44" href="$d4/db2/classIFMapServer.html#a17c51faf39c42e53425f7653b3036f8f" title="IFMapServer::CollectStats" alt="" coords="249,1744,437,1771"/>
-<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#a7fc6ee40fc2654348d496b226127a971" title="BgpServer::VisitBgpPeers" alt="" coords="529,784,716,811"/>
-<area shape="rect" id="node7" href="$db/d26/classBgpServer.html#a31daa2ffe3f10a69526d8cf20cf79aa4" title="BgpServer::FillPeerStats" alt="" coords="534,835,711,861"/>
-<area shape="rect" id="node14" href="$db/d26/classBgpServer.html#a5dd9db0c711bbc862923c8afcb09760b" title="BgpServer::admin_down" alt="" coords="533,885,713,912"/>
-<area shape="rect" id="node15" href="$db/d26/classBgpServer.html#aa82b3f70e58af160f0f3483d91143464" title="BgpServer::bgp_identifier\l_string" alt="" coords="529,937,716,978"/>
-<area shape="rect" id="node16" href="$db/d26/classBgpServer.html#a79251f927f0aa33a7a763bfb0f941577" title="BgpServer::local_autonomous\l_system" alt="" coords="515,1002,731,1043"/>
-<area shape="rect" id="node17" href="$db/d26/classBgpServer.html#a233b773a2667adeadfb273e9716f10e7" title="BgpServer::autonomous\l_system" alt="" coords="533,1067,712,1109"/>
-<area shape="rect" id="node18" href="$db/d26/classBgpServer.html#a93b519828b0d55ff3b2d16aa947aeada" title="BgpServer::num_bgp_peer" alt="" coords="526,1133,719,1160"/>
-<area shape="rect" id="node19" href="$db/d26/classBgpServer.html#a698c09df2857d6e28b436a4b88fe30ce" title="BgpServer::NumUpPeer" alt="" coords="535,1184,710,1211"/>
-<area shape="rect" id="node20" href="$db/d26/classBgpServer.html#af52b4bfd648476184cc358ea3a1cc956" title="BgpServer::num_deleting\l_bgp_peer" alt="" coords="529,1235,716,1277"/>
-<area shape="rect" id="node21" href="$db/d26/classBgpServer.html#ab64da95702b92c0a533d07af1f6ff254" title="BgpServer::num_bgpaas_peer" alt="" coords="515,56,731,83"/>
-<area shape="rect" id="node22" href="$db/d26/classBgpServer.html#a3c3dfcf53aa082ff58907c761298a059" title="BgpServer::NumUpBgpaasPeer" alt="" coords="511,107,734,133"/>
-<area shape="rect" id="node23" href="$db/d26/classBgpServer.html#af6e5a339ddda1ed2a404361830b6ee9b" title="BgpServer::num_deleting\l_bgpaas_peer" alt="" coords="529,158,716,199"/>
-<area shape="rect" id="node24" href="$db/d26/classBgpServer.html#aed6e0508e70a5c3a57a8713a20b7261a" title="BgpServer::num_routing\l_instance" alt="" coords="533,223,712,265"/>
-<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#a053350b2c2aa042e26b8cb46577667ba" title="BgpServer::num_deleted\l_routing_instance" alt="" coords="531,289,714,330"/>
-<area shape="rect" id="node26" href="$db/d26/classBgpServer.html#aa5d6fcd9c234e6e70166573c006ecca1" title="BgpServer::num_service\l_chains" alt="" coords="533,354,713,395"/>
-<area shape="rect" id="node27" href="$db/d26/classBgpServer.html#ac2b1e1d2401c17a70fb824b2c0d69184" title="BgpServer::num_down\l_service_chains" alt="" coords="539,419,707,461"/>
-<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#a0e5f1d990012c9985b9ecdfb20863e41" title="BgpServer::num_static\l_routes" alt="" coords="538,485,707,526"/>
-<area shape="rect" id="node30" href="$db/d26/classBgpServer.html#a09fdd1d4393d27c8dc34f6f047e2d408" title="BgpServer::num_down\l_static_routes" alt="" coords="539,550,707,591"/>
-<area shape="rect" id="node32" href="$d0/dbd/classBgpNeighborConfig.html#ac34548dc2c52bf891cec6f205000e751" title="BgpNeighborConfig::name" alt="" coords="527,616,719,643"/>
-<area shape="rect" id="node33" href="$de/ddf/classRoutingInstance.html#a681ad0a18a6afd9daf99a4644fd4115c" title="RoutingInstance::peer\l_manager" alt="" coords="541,667,704,709"/>
-<area shape="rect" id="node34" href="$d2/dc6/classPeerManager.html#aa807f1f4f82d5d2eed74374ee24ad5f9" title="PeerManager::NextPeer" alt="" coords="535,733,710,760"/>
-<area shape="rect" id="node8" href="$d8/df3/classPeerStats.html#ae7dd9b63e8a9f6abe536947a938b98ed" title="PeerStats::FillPeerDebug\lStats" alt="" coords="812,1221,993,1262"/>
-<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title="BgpPeer::peer_stats" alt="" coords="827,759,979,785"/>
-<area shape="rect" id="node11" href="$d3/d2d/classBgpPeer.html#a3a2a2dddb8fa375ff4d7b09b242bf80b" title="BgpPeer::ToUVEKey" alt="" coords="828,809,977,836"/>
-<area shape="rect" id="node9" href="$d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df" title="PeerStats::FillPeerUpdate\lStats" alt="" coords="1048,1221,1235,1262"/>
-<area shape="rect" id="node12" href="$d3/d2d/classBgpPeer.html#ab6ffe49990dca40f5065da47a937220a" title="BgpPeer::flap_count" alt="" coords="827,911,978,937"/>
-<area shape="rect" id="node13" href="$d3/d2d/classBgpPeer.html#aa7c194cf98746e662b7d58e3c0595074" title="BgpPeer::last_flap" alt="" coords="833,961,972,988"/>
-<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#a55aedc356ff0cb0afdc824ca95efa283" title="BgpServer::GetStaticRoute\lCount" alt="" coords="805,485,1000,526"/>
-<area shape="rect" id="node31" href="$db/d26/classBgpServer.html#ac24f08c831bbf642baae399a4dc06a9a" title="BgpServer::GetDownStatic\lRouteCount" alt="" coords="805,550,1000,591"/>
-<area shape="rect" id="node36" href="$dd/dfb/classBgpXmppChannelManager.html#a422fcd61ce49092378dccb031d539578" title="BgpXmppChannelManager\l::VisitChannels" alt="" coords="525,1497,720,1538"/>
-<area shape="rect" id="node37" href="$dd/dfb/classBgpXmppChannelManager.html#a208d675e46dde109d60c6e49c0f51eeb" title="BgpXmppChannelManager\l::FillPeerInfo" alt="" coords="525,1562,720,1603"/>
-<area shape="rect" id="node41" href="$dd/dfb/classBgpXmppChannelManager.html#a7354525886edfd51ad7f1069c324c88b" title="BgpXmppChannelManager\l::count" alt="" coords="525,1301,720,1342"/>
-<area shape="rect" id="node42" href="$dd/dfb/classBgpXmppChannelManager.html#a3e6543a932ea88af1ff6d45160794815" title="BgpXmppChannelManager\l::NumUpPeer" alt="" coords="525,1366,720,1407"/>
-<area shape="rect" id="node43" href="$dd/dfb/classBgpXmppChannelManager.html#a60c28a85890a91d1789396eb2f2ba191" title="BgpXmppChannelManager\l::deleting_count" alt="" coords="525,1431,720,1473"/>
-<area shape="rect" id="node38" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title="BgpXmppChannel::Peer" alt="" coords="815,1468,990,1495"/>
-<area shape="rect" id="node39" href="$dd/d38/classIPeer.html#aef75c69c56951433265da78fdae746dc" title="IPeer::peer_stats" alt="" coords="837,1519,968,1545"/>
-<area shape="rect" id="node40" href="$dd/d38/classIPeer.html#a24372b828371a7286d8cbc5505a8503a" title="IPeer::ToUVEKey" alt="" coords="839,1569,967,1596"/>
-<area shape="rect" id="node45" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title="IFMapServer::get_config\l_manager" alt="" coords="534,1795,711,1837"/>
-<area shape="rect" id="node46" href="$de/d27/classConfigClientManager.html#a4ec6669fcf66d60fbaa5c1920bf4782d" title="ConfigClientManager\l::config_db_client" alt="" coords="544,1861,701,1902"/>
-<area shape="rect" id="node47" href="$df/dc8/classConfigDbClient.html#a56080042bdc62d32a7c68f86da126c70" title="ConfigDbClient::GetConnectionInfo" alt="" coords="499,1927,747,1953"/>
-<area shape="rect" id="node48" href="$de/d27/classConfigClientManager.html#add6c5fa2da2c76bd374e8276283ffd64" title="ConfigClientManager\l::config_amqp_client" alt="" coords="544,1627,701,1669"/>
-<area shape="rect" id="node49" href="$d4/dff/classConfigAmqpClient.html#ae5d5e0898a029d144e4a1eb16dc5ac90" title="ConfigAmqpClient::GetConnectionInfo" alt="" coords="489,1693,757,1720"/>
-<area shape="rect" id="node50" href="$d4/db2/classIFMapServer.html#a2bd3dddeee2d5a6f3f9a437a6fd5d180" title="IFMapServer::GetUIInfo" alt="" coords="537,1744,709,1771"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1586,181,1627"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html#a10a6b36ebc36938b1654900eeb561f12" title=" " alt="" coords="237,689,399,716"/>
+<area shape="rect" id="node14" href="$db/d26/classBgpServer.html#ad54f5b0be875a76940384140ab6a40c3" title=" " alt="" coords="502,5,653,32"/>
+<area shape="rect" id="node33" href="$dd/dfb/classBgpXmppChannelManager.html#abf5d2cb912ec508df8774fbcbb208792" title=" " alt="" coords="229,1466,407,1507"/>
+<area shape="rect" id="node42" href="$d4/db2/classIFMapServer.html#a10d4880c56f25f603b8d6a65d49a7310" title=" " alt="" coords="229,1680,407,1707"/>
+<area shape="rect" id="node49" href="$d5/d0d/classControlNode.html#a3e34f5ddc904b0708721339d5384ac0f" title=" " alt="" coords="239,1731,397,1757"/>
+<area shape="rect" id="node50" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="246,1781,390,1808"/>
+<area shape="rect" id="node3" href="$db/d26/classBgpServer.html#aeeeb90743e9e9f7648b1e80ed6de3362" title=" " alt="" coords="495,799,659,825"/>
+<area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a936dcd6c87b2cc752c3eb37d6d4c26eb" title=" " alt="" coords="496,850,659,891"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html#a06a2a4c63d62bcb424e2a3a564e8bb82" title=" " alt="" coords="493,915,662,957"/>
+<area shape="rect" id="node6" href="$db/d26/classBgpServer.html#afcc1c603b70544c24732caf0c97a832b" title=" " alt="" coords="495,981,660,1008"/>
+<area shape="rect" id="node13" href="$db/d26/classBgpServer.html#ac7583398387bd7e3a853607a932158e1" title=" " alt="" coords="479,1033,675,1074"/>
+<area shape="rect" id="node15" href="$d0/dbd/classBgpNeighborConfig.html#a568554a8d7ecf79ca9c833e7f87f1657" title=" " alt="" coords="490,1099,665,1125"/>
+<area shape="rect" id="node16" href="$d2/dc6/classPeerManager.html#ac8678530692d1329e29ce8f2b5ff802c" title=" " alt="" coords="497,1149,657,1176"/>
+<area shape="rect" id="node17" href="$db/d26/classBgpServer.html#a1fc4e95e5a752305443598afed21068b" title=" " alt="" coords="489,1200,666,1227"/>
+<area shape="rect" id="node18" href="$db/d26/classBgpServer.html#af3c74424605410db289a1e330aa5cf45" title=" " alt="" coords="478,1251,677,1277"/>
+<area shape="rect" id="node19" href="$db/d26/classBgpServer.html#aa8fcc031dc1983e69bb735af300c5986" title=" " alt="" coords="495,57,660,98"/>
+<area shape="rect" id="node20" href="$db/d26/classBgpServer.html#a05c2a88533c2eaf7479930e79ce3596f" title=" " alt="" coords="493,122,661,163"/>
+<area shape="rect" id="node21" href="$db/d26/classBgpServer.html#a63fad156c5ad5c67b95a184541ce399e" title=" " alt="" coords="493,187,661,229"/>
+<area shape="rect" id="node22" href="$db/d26/classBgpServer.html#a5d2e484441e4a8b663ac8f28a85943ed" title=" " alt="" coords="500,253,655,294"/>
+<area shape="rect" id="node23" href="$db/d26/classBgpServer.html#a4703d64c086854a07b65f47cf52cee4d" title=" " alt="" coords="500,318,655,359"/>
+<area shape="rect" id="node25" href="$db/d26/classBgpServer.html#abddffc4ff7692c5f2ad941bde2ee9e2a" title=" " alt="" coords="496,383,659,425"/>
+<area shape="rect" id="node26" href="$db/d26/classBgpServer.html#a1a84016f3e5007dd4e012cc09eeb5af6" title=" " alt="" coords="494,449,661,490"/>
+<area shape="rect" id="node27" href="$db/d26/classBgpServer.html#a208ebd8b5a95d8c6157fe19e7be3627a" title=" " alt="" coords="500,514,655,555"/>
+<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#ae4babeb8acaea35204891eec809afe80" title=" " alt="" coords="474,580,681,607"/>
+<area shape="rect" id="node30" href="$db/d26/classBgpServer.html#a862766cfc55c95a7d76665d02ce846f5" title=" " alt="" coords="496,631,659,657"/>
+<area shape="rect" id="node31" href="$de/ddf/classRoutingInstance.html#a681ad0a18a6afd9daf99a4644fd4115c" title=" " alt="" coords="502,682,653,723"/>
+<area shape="rect" id="node32" href="$db/d26/classBgpServer.html#a327b43bbc52e718fc01bf66dcaccd185" title=" " alt="" coords="490,748,665,775"/>
+<area shape="rect" id="node7" href="$d8/df3/classPeerStats.html#ae7dd9b63e8a9f6abe536947a938b98ed" title=" " alt="" coords="755,1139,923,1181"/>
+<area shape="rect" id="node8" href="$d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df" title=" " alt="" coords="977,1139,1149,1181"/>
+<area shape="rect" id="node9" href="$d3/d2d/classBgpPeer.html#aaed76b2d31bab91f6f78190ec1af02d4" title=" " alt="" coords="769,935,908,961"/>
+<area shape="rect" id="node10" href="$d3/d2d/classBgpPeer.html#ad084fa54caf5c8273ac61d15c2d93814" title=" " alt="" coords="775,985,903,1012"/>
+<area shape="rect" id="node11" href="$d3/d2d/classBgpPeer.html#ac9adcca6ea8747c860217cd11a629e3e" title=" " alt="" coords="769,1036,909,1063"/>
+<area shape="rect" id="node12" href="$d3/d2d/classBgpPeer.html#a1b3c7000ab2d921b0598404e2828567b" title=" " alt="" coords="767,1087,910,1113"/>
+<area shape="rect" id="node24" href="$db/d26/classBgpServer.html#a22ac262638c7cadd3a1d2b141c865f7a" title=" " alt="" coords="749,318,929,359"/>
+<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#a0d68af961d57dcd813c6a1b10d7fb363" title=" " alt="" coords="748,514,929,555"/>
+<area shape="rect" id="node34" href="$dd/dfb/classBgpXmppChannelManager.html#af0990ee328a515c2e694818dec24cb0b" title=" " alt="" coords="489,1498,666,1539"/>
+<area shape="rect" id="node35" href="$dd/dfb/classBgpXmppChannelManager.html#a8511e5fc0845011dec10af09576a73a3" title=" " alt="" coords="489,1563,666,1605"/>
+<area shape="rect" id="node36" href="$dd/dfb/classBgpXmppChannelManager.html#a80db039e421b466bb2ad5fe63bba2a2a" title=" " alt="" coords="489,1302,666,1343"/>
+<area shape="rect" id="node40" href="$dd/dfb/classBgpXmppChannelManager.html#a509d76571816b8debaf198eee177bfc1" title=" " alt="" coords="489,1367,666,1409"/>
+<area shape="rect" id="node41" href="$dd/dfb/classBgpXmppChannelManager.html#a422fcd61ce49092378dccb031d539578" title=" " alt="" coords="489,1433,666,1474"/>
+<area shape="rect" id="node37" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title=" " alt="" coords="758,1259,919,1285"/>
+<area shape="rect" id="node38" href="$dd/d38/classIPeer.html#aef75c69c56951433265da78fdae746dc" title=" " alt="" coords="778,1309,899,1336"/>
+<area shape="rect" id="node39" href="$dd/d38/classIPeer.html#a24372b828371a7286d8cbc5505a8503a" title=" " alt="" coords="777,1360,900,1387"/>
+<area shape="rect" id="node43" href="$de/d27/classConfigClientManager.html#ad4a3e1845d752808c7c92597d6e29db0" title=" " alt="" coords="505,1782,649,1823"/>
+<area shape="rect" id="node44" href="$de/d27/classConfigClientManager.html#a2d01d066a3bff9cdbadb5ba2f9371cef" title=" " alt="" coords="505,1847,649,1889"/>
+<area shape="rect" id="node45" href="$d4/db2/classIFMapServer.html#a54dd1b324ac69b1b0055df19f0f32c77" title=" " alt="" coords="495,1913,660,1954"/>
+<area shape="rect" id="node46" href="$d4/dff/classConfigAmqpClient.html#a387c63f50eb8689127b3fa8e4c501c31" title=" " alt="" coords="455,1629,700,1656"/>
+<area shape="rect" id="node47" href="$df/dc8/classConfigDbClient.html#a9083fe6a5128eebdc56a82b68581cdd8" title=" " alt="" coords="463,1680,691,1707"/>
+<area shape="rect" id="node48" href="$d4/db2/classIFMapServer.html#a8eac7821b3674e6ed683ca53c853bc6c" title=" " alt="" coords="496,1731,659,1757"/>
 </map>

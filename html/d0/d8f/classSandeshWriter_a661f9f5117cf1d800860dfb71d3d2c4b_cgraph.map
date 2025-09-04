@@ -1,5 +1,10 @@
 <map id="SandeshWriter::WriteReady" name="SandeshWriter::WriteReady">
-<area shape="rect" id="node2" href="$d1/dfd/classSandeshSession.html#a3a87471a603c88d30a7f805a680c0a21" title="SandeshSession::increment\l_write_ready_cb_error" alt="" coords="266,5,467,46"/>
-<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html#aad7309ebbbc4ab1f16ee4fecfd489652" title="SandeshSession::send\l_queue" alt="" coords="283,70,450,111"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title="WorkQueue::MayBeStartRunner" alt="" coords="254,136,479,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,188,98"/>
+<area shape="rect" id="node2" href="$d1/dfd/classSandeshSession.html#a3a87471a603c88d30a7f805a680c0a21" title=" " alt="" coords="249,5,434,47"/>
+<area shape="rect" id="node3" href="$d4/d0c/classWorkQueue.html#af732cae3f686d952b71def5b5771ea9e" title=" " alt="" coords="236,71,447,98"/>
+<area shape="rect" id="node8" href="$d1/dfd/classSandeshSession.html#aad7309ebbbc4ab1f16ee4fecfd489652" title=" " alt="" coords="263,123,419,164"/>
+<area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="509,46,695,73"/>
+<area shape="rect" id="node7" href="$d4/d0c/classWorkQueue.html#ad05e5d288235f679f0b71c9ad0e525a9" title=" " alt="" coords="495,97,709,123"/>
+<area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="757,46,960,73"/>
+<area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="1008,39,1185,80"/>
 </map>

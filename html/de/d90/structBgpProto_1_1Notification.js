@@ -60,7 +60,7 @@ var structBgpProto_1_1Notification =
     [ "FsmSubcodeToString", "de/d90/structBgpProto_1_1Notification.html#a68fca14ae3b81d617ff0da5803854333", null ],
     [ "MsgHdrSubcodeToString", "de/d90/structBgpProto_1_1Notification.html#adc30a4237a9273cc79f182669659128c", null ],
     [ "OpenMsgSubcodeToString", "de/d90/structBgpProto_1_1Notification.html#a72c416627dd6a1c397df144f016417db", null ],
-    [ "ToString", "de/d90/structBgpProto_1_1Notification.html#a504f144efaafd8de1b56e7b72964da82", null ],
+    [ "ToString", "de/d90/structBgpProto_1_1Notification.html#a112519dc5868547d47e3a1a05bfdb0bc", null ],
     [ "toString", "de/d90/structBgpProto_1_1Notification.html#aa7ae2709613b7e3f092519f980bc2a67", null ],
     [ "UpdateMsgSubCodeToString", "de/d90/structBgpProto_1_1Notification.html#af14f15a75889c29a4182ee7d5d848459", null ],
     [ "data", "de/d90/structBgpProto_1_1Notification.html#aa63806ad9fba4ce3b71356b2ac9a8efc", null ],

@@ -1,51 +1,52 @@
 <map id="xmsm::Active::react" name="xmsm::Active::react">
-<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title="XmppStateMachine::session" alt="" coords="563,521,768,548"/>
-<area shape="rect" id="node3" href="$d2/db3/classXmppStateMachine.html#ac0eff15d2bce70fe4a71dc35d1e34823" title="XmppStateMachine::Assign\lSession" alt="" coords="253,59,451,101"/>
-<area shape="rect" id="node7" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title="XmppStateMachine::connection" alt="" coords="239,328,465,355"/>
-<area shape="rect" id="node8" href="$d0/d64/classXmppConnection.html#abfd07e475de5ed01d8ca851ba1752f9b" title="XmppConnection::IsDeleted" alt="" coords="251,151,453,177"/>
-<area shape="rect" id="node11" href="$d2/db3/classXmppStateMachine.html#a17bb1d3d39d5bbfa56a099d451954b1e" title="XmppStateMachine::ResetSession" alt="" coords="231,379,473,405"/>
-<area shape="rect" id="node27" href="$d2/db3/classXmppStateMachine.html#aadaf2fa0ca64cfda2b442c5537518a8e" title="XmppStateMachine::IsAuth\lEnabled" alt="" coords="253,667,451,709"/>
-<area shape="rect" id="node28" href="$d2/db3/classXmppStateMachine.html#ae564d0abe236d093dd91db98522ee303" title="XmppStateMachine::Resurrect\lOldConnection" alt="" coords="243,733,461,774"/>
-<area shape="rect" id="node38" href="$d2/db3/classXmppStateMachine.html#ab7674b266fa9c4c23c8da0becfb05fc9" title="XmppStateMachine::Cancel\lOpenTimer" alt="" coords="252,907,452,949"/>
-<area shape="rect" id="node39" href="$d0/d64/classXmppConnection.html#abbb3ae66abcfc46625209abce0f3909f" title="XmppConnection::SendOpen\lConfirm" alt="" coords="249,1111,455,1153"/>
-<area shape="rect" id="node44" href="$d0/d64/classXmppConnection.html#ab0e364172e4a20ce835a75004e6934ef" title="XmppConnection::SendClose" alt="" coords="247,1177,457,1204"/>
-<area shape="rect" id="node45" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title="XmppStateMachine::SendConnectionInfo" alt="" coords="209,1228,495,1255"/>
-<area shape="rect" id="node46" href="$d5/d98/structxmsm_1_1EvXmppOpen.html#ae9f539a497ccecb66607dbc9d4b203bd" title="xmsm::EvXmppOpen::Name" alt="" coords="249,1279,455,1305"/>
-<area shape="rect" id="node47" href="$d0/d64/classXmppConnection.html#a984d2a28f3876d7a8166064f3b6a6ebc" title="XmppConnection::StartKeep\lAliveTimer" alt="" coords="250,1359,454,1401"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#adec3ade39649132471eb3537da904d54" title="XmppConnection::set\l_session" alt="" coords="585,34,746,75"/>
-<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="863,71,1054,97"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title="TcpSession::SetDscpSocket\lOption" alt="" coords="859,5,1058,46"/>
-<area shape="rect" id="node9" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title="XmppConnection::deleter" alt="" coords="572,151,759,177"/>
-<area shape="rect" id="node10" href="$dd/d9e/classLifetimeActor.html#a7913677e6ba03c5a721270cceddcf701" title="LifetimeActor::IsDeleted" alt="" coords="575,100,755,127"/>
-<area shape="rect" id="node12" href="$d0/d64/classXmppConnection.html#a23558db06521b840c31bcd2484582ac1" title="XmppConnection::StopKeep\lAliveTimer" alt="" coords="564,455,767,497"/>
-<area shape="rect" id="node17" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title="XmppConnection::ChannelMux" alt="" coords="555,303,776,329"/>
-<area shape="rect" id="node18" href="$d2/dc0/classXmppChannelMux.html#a29703702acf40ca4fa933af6315496d0" title="XmppChannelMux::HandleState\lEvent" alt="" coords="845,186,1073,227"/>
-<area shape="rect" id="node20" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title="XmppConnection::server" alt="" coords="1151,429,1334,456"/>
-<area shape="rect" id="node23" href="$dd/d43/classXmppServer.html#a95ae202c3be8ef85c166994b3d00274f" title="XmppServer::IsPeerCloseGraceful" alt="" coords="545,353,786,380"/>
-<area shape="rect" id="node26" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title="XmppConnection::ManagedDelete" alt="" coords="837,420,1080,447"/>
-<area shape="rect" id="node13" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title="Timer::Cancel" alt="" coords="903,1024,1015,1051"/>
-<area shape="rect" id="node14" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title="TaskScheduler::GetInstance" alt="" coords="1142,1049,1343,1076"/>
-<area shape="rect" id="node15" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1159,999,1326,1025"/>
-<area shape="rect" id="node16" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title="Timer::SetState" alt="" coords="1181,1255,1304,1281"/>
-<area shape="rect" id="node19" href="$d0/d64/classXmppConnection.html#a3ff26874a02bbf1a5ae1159813788c75" title="XmppConnection::IsClient" alt="" coords="1147,336,1338,363"/>
-<area shape="rect" id="node21" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title="XmppClient::NotifyConnection\lEvent" alt="" coords="1133,219,1352,261"/>
-<area shape="rect" id="node22" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title="XmppServer::NotifyConnection\lEvent" alt="" coords="1131,154,1354,195"/>
-<area shape="rect" id="node24" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title="XmppServer::deleter" alt="" coords="881,369,1037,396"/>
-<area shape="rect" id="node25" href="$dd/d43/classXmppServer.html#a488f580469fd1593d9e9898a657a8010" title="XmppServer::IsGRHelperMode\lEnabled" alt="" coords="849,303,1068,345"/>
-<area shape="rect" id="node29" href="$d2/d0e/classTcpSession.html#a99ff7dcfd321f2299dccf6649fc3c3fe" title="TcpSession::ToUVEKey" alt="" coords="582,973,749,1000"/>
-<area shape="rect" id="node30" href="$d2/d0e/classTcpSession.html#a6a0c0d17c2f2c080eaee48310718fcc8" title="TcpSession::ToString" alt="" coords="589,740,742,767"/>
-<area shape="rect" id="node31" href="$d7/dcc/classXmppConnectionEndpoint.html#aa3feddf908a2bb62311371840c5db71b" title="XmppConnectionEndpoint\l::connection" alt="" coords="570,791,761,833"/>
-<area shape="rect" id="node32" href="$d0/d64/classXmppConnection.html#a912112d5e295c3fa438b6d8631cf9ad8" title="XmppConnection::SwapXmpp\lStateMachine" alt="" coords="558,857,773,898"/>
-<area shape="rect" id="node33" href="$d2/db3/classXmppStateMachine.html#a8f81e77fb345ef7dae21b26332cb025f" title="XmppStateMachine::SwapXmpp\lConnection" alt="" coords="551,623,780,665"/>
-<area shape="rect" id="node35" href="$d5/d13/classXmppSession.html#a77e700009b817a8d97f4656422165adf" title="XmppSession::SetConnection" alt="" coords="559,923,771,949"/>
-<area shape="rect" id="node37" href="$d0/d64/classXmppConnection.html#ad69716f1a60d068527132393b085de9c" title="XmppConnection::Shutdown" alt="" coords="563,572,768,599"/>
-<area shape="rect" id="node34" href="$d0/d64/classXmppConnection.html#a4f2471c01d3644cb972d0abab4602015" title="XmppConnection::SwapContents" alt="" coords="841,471,1076,497"/>
-<area shape="rect" id="node36" href="$d0/d64/classXmppConnection.html#a8691a8b0403256840cf541a3705e6855" title="XmppConnection::GetTaskInstance" alt="" coords="835,923,1083,949"/>
-<area shape="rect" id="node40" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title="XmppProto::EncodeStream" alt="" coords="567,1075,763,1101"/>
-<area shape="rect" id="node41" href="$d0/d64/classXmppConnection.html#a2ae8250762a5581bc4efac608d962288" title="XmppConnection::inc\l_open_fail" alt="" coords="585,1126,745,1167"/>
-<area shape="rect" id="node42" href="$d0/d64/classXmppConnection.html#a7a35d8341baa08df77e1a5765e93a0b3" title="XmppConnection::ToUVEKey" alt="" coords="855,1293,1062,1320"/>
-<area shape="rect" id="node43" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="599,1243,732,1269"/>
-<area shape="rect" id="node48" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title="Timer::Start" alt="" coords="909,1409,1008,1436"/>
-<area shape="rect" id="node49" href="$d0/d64/classXmppConnection.html#a103e99a7c914f284452486c9ca0f14eb" title="XmppConnection::KeepAlive\lTimerExpired" alt="" coords="562,1410,769,1451"/>
-<area shape="rect" id="node50" href="$d0/d64/classXmppConnection.html#a70433a057970c935645676c5e911d7d9" title="XmppConnection::Keepalive\lTimerErrorHanlder" alt="" coords="563,1345,768,1386"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,507,144,533"/>
+<area shape="rect" id="node2" href="$d2/db3/classXmppStateMachine.html#ac0eff15d2bce70fe4a71dc35d1e34823" title=" " alt="" coords="231,390,415,431"/>
+<area shape="rect" id="node6" href="$d2/db3/classXmppStateMachine.html#ab7674b266fa9c4c23c8da0becfb05fc9" title=" " alt="" coords="231,157,415,198"/>
+<area shape="rect" id="node11" href="$d2/db3/classXmppStateMachine.html#a6395432bb00279144818ec93ec455781" title=" " alt="" coords="220,273,427,300"/>
+<area shape="rect" id="node12" href="$d2/db3/classXmppStateMachine.html#aadaf2fa0ca64cfda2b442c5537518a8e" title=" " alt="" coords="232,325,415,366"/>
+<area shape="rect" id="node13" href="$d0/d64/classXmppConnection.html#a4ecac316052b17e6cf89ec1196a537df" title=" " alt="" coords="230,56,417,83"/>
+<area shape="rect" id="node16" href="$d5/d98/structxmsm_1_1EvXmppOpen.html#ae9f539a497ccecb66607dbc9d4b203bd" title=" " alt="" coords="228,456,419,483"/>
+<area shape="rect" id="node17" href="$d2/db3/classXmppStateMachine.html#a17bb1d3d39d5bbfa56a099d451954b1e" title=" " alt="" coords="211,507,436,533"/>
+<area shape="rect" id="node29" href="$d2/db3/classXmppStateMachine.html#ae564d0abe236d093dd91db98522ee303" title=" " alt="" coords="223,710,423,751"/>
+<area shape="rect" id="node31" href="$d2/db3/classXmppStateMachine.html#ab8fce539a786bc792ce19a155c51e57d" title=" " alt="" coords="519,608,709,635"/>
+<area shape="rect" id="node40" href="$d0/d64/classXmppConnection.html#ab0e364172e4a20ce835a75004e6934ef" title=" " alt="" coords="226,951,421,977"/>
+<area shape="rect" id="node43" href="$d2/db3/classXmppStateMachine.html#acea69e09da345ef36a905eb94aedefb9" title=" " alt="" coords="192,1001,455,1028"/>
+<area shape="rect" id="node44" href="$d0/d64/classXmppConnection.html#abbb3ae66abcfc46625209abce0f3909f" title=" " alt="" coords="228,1227,419,1269"/>
+<area shape="rect" id="node47" href="$d0/d64/classXmppConnection.html#a984d2a28f3876d7a8166064f3b6a6ebc" title=" " alt="" coords="229,1427,417,1469"/>
+<area shape="rect" id="node3" href="$d0/d64/classXmppConnection.html#adec3ade39649132471eb3537da904d54" title=" " alt="" coords="540,274,688,315"/>
+<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a179ccbb9248fb76dde8e561d3bebd3a5" title=" " alt="" coords="801,157,975,184"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#af24e37114e7cc1f364810c741cb708ec" title=" " alt="" coords="793,209,983,250"/>
+<area shape="rect" id="node7" href="$dc/dea/classTimer.html#a18a9ec123397a973c72243c8372c237f" title=" " alt="" coords="837,107,939,133"/>
+<area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#adc75dda98486053fdcc079259a069dba" title="Cancels a Task that can be in RUN/WAIT state. The caller needs to ensure that the task exists when Ca..." alt="" coords="1066,81,1222,108"/>
+<area shape="rect" id="node9" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1051,132,1237,159"/>
+<area shape="rect" id="node10" href="$dc/dea/classTimer.html#a17836a643bf23f904ba878379bdb6d66" title=" " alt="" coords="1087,776,1201,803"/>
+<area shape="rect" id="node14" href="$d0/d64/classXmppConnection.html#a0bc9de10e900e7c871667501a5a5e18c" title=" " alt="" coords="529,56,699,83"/>
+<area shape="rect" id="node15" href="$dd/d9e/classLifetimeActor.html#a5eba36c599b876e1f8dcc3be7b1aeb23" title=" " alt="" coords="533,5,695,32"/>
+<area shape="rect" id="node18" href="$d0/d64/classXmppConnection.html#a3dde5e2d475d1c7fc85a5ee3018226f7" title=" " alt="" coords="513,157,715,184"/>
+<area shape="rect" id="node19" href="$d2/dc0/classXmppChannelMux.html#a29703702acf40ca4fa933af6315496d0" title=" " alt="" coords="510,339,718,381"/>
+<area shape="rect" id="node23" href="$d0/d64/classXmppConnection.html#a7045789e03b4adfe8bdf3742935bcfd0" title=" " alt="" coords="805,456,971,483"/>
+<area shape="rect" id="node24" href="$dd/d43/classXmppServer.html#a139626f98cb36d895533f083e3b4a6f7" title=" " alt="" coords="503,507,725,533"/>
+<area shape="rect" id="node27" href="$d0/d64/classXmppConnection.html#a60153ffc07259fe304dc614a324d8b62" title=" " alt="" coords="777,641,999,668"/>
+<area shape="rect" id="node28" href="$d0/d64/classXmppConnection.html#a23558db06521b840c31bcd2484582ac1" title=" " alt="" coords="521,209,707,250"/>
+<area shape="rect" id="node20" href="$d0/d64/classXmppConnection.html#ab833f81b40bc2aabdca8a41749f2f5cd" title=" " alt="" coords="801,405,975,432"/>
+<area shape="rect" id="node21" href="$db/de5/classXmppClient.html#a288f7b05d27d45d070ab687277f5aaa1" title=" " alt="" coords="789,274,987,315"/>
+<area shape="rect" id="node22" href="$dd/d43/classXmppServer.html#af00559d18e56d32894df66300f4b0291" title=" " alt="" coords="787,339,989,381"/>
+<area shape="rect" id="node25" href="$dd/d43/classXmppServer.html#ae9510910a1b92b58998681e1ddb44fd7" title=" " alt="" coords="817,573,959,600"/>
+<area shape="rect" id="node26" href="$dd/d43/classXmppServer.html#ac3ed5c1761452f51cd76c375e1b2340f" title=" " alt="" coords="787,507,989,549"/>
+<area shape="rect" id="node30" href="$d7/dcc/classXmppConnectionEndpoint.html#aa3feddf908a2bb62311371840c5db71b" title=" " alt="" coords="527,1059,701,1101"/>
+<area shape="rect" id="node32" href="$d5/d13/classXmppSession.html#a77e700009b817a8d97f4656422165adf" title=" " alt="" coords="515,1008,713,1035"/>
+<area shape="rect" id="node34" href="$d0/d64/classXmppConnection.html#ad69716f1a60d068527132393b085de9c" title=" " alt="" coords="520,659,708,685"/>
+<area shape="rect" id="node35" href="$d0/d64/classXmppConnection.html#ab796b030f7988ac594fbb6a1a1662c54" title=" " alt="" coords="535,710,693,751"/>
+<area shape="rect" id="node36" href="$d2/db3/classXmppStateMachine.html#a8f81e77fb345ef7dae21b26332cb025f" title=" " alt="" coords="509,775,719,817"/>
+<area shape="rect" id="node37" href="$d0/d64/classXmppConnection.html#a912112d5e295c3fa438b6d8631cf9ad8" title=" " alt="" coords="516,841,712,882"/>
+<area shape="rect" id="node38" href="$d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e" title=" " alt="" coords="541,907,687,933"/>
+<area shape="rect" id="node39" href="$d2/d0e/classTcpSession.html#a324597919c6ba0a4d6410250ef1741e9" title=" " alt="" coords="533,957,695,984"/>
+<area shape="rect" id="node33" href="$d0/d64/classXmppConnection.html#a2b5076308201715f25dace88a3f91a83" title=" " alt="" coords="773,1008,1003,1035"/>
+<area shape="rect" id="node41" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="550,1176,678,1203"/>
+<area shape="rect" id="node42" href="$d0/d64/classXmppConnection.html#ae6e36a0ac7b89691a6bfa9e9e4d8044d" title=" " alt="" coords="791,1344,985,1371"/>
+<area shape="rect" id="node45" href="$d9/d4b/classXmppProto.html#ab8022027c8d07b32da5ec6d330103b52" title=" " alt="" coords="523,1293,705,1320"/>
+<area shape="rect" id="node46" href="$d0/d64/classXmppConnection.html#a2ae8250762a5581bc4efac608d962288" title=" " alt="" coords="541,1227,687,1269"/>
+<area shape="rect" id="node48" href="$d0/d64/classXmppConnection.html#a70433a057970c935645676c5e911d7d9" title=" " alt="" coords="521,1395,707,1437"/>
+<area shape="rect" id="node49" href="$d0/d64/classXmppConnection.html#a103e99a7c914f284452486c9ca0f14eb" title=" " alt="" coords="521,1461,707,1502"/>
+<area shape="rect" id="node50" href="$dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title=" " alt="" coords="842,1460,934,1487"/>
 </map>

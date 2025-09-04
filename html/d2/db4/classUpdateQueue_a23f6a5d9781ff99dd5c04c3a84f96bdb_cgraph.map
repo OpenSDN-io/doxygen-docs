@@ -1,10 +1,11 @@
 <map id="UpdateQueue::MarkerSplit" name="UpdateQueue::MarkerSplit">
-<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html#a582ba5a71e2add2ef1450ec8e5848669" title="BitSet::empty" alt="" coords="258,5,369,32"/>
-<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title="BitSet::Reset" alt="" coords="261,56,366,83"/>
-<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a322bcc887bafda7adde98bc73c0b4da3" title="BitSet::find_first" alt="" coords="251,107,376,133"/>
-<area shape="rect" id="node7" href="$d6/dd0/classBitSet.html#a6b2fa995df62bc44f8ba8ce93207d883" title="BitSet::find_next" alt="" coords="249,157,378,184"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="427,81,549,108"/>
-<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="439,132,537,159"/>
-<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="438,183,538,209"/>
-<area shape="rect" id="node9" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="437,233,539,260"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node2" href="$d6/dd0/classBitSet.html#ac309ad4f38484237319441a86f1abc08" title=" " alt="" coords="237,5,340,32"/>
+<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a582fcf1c56bbe37867274392602d875e" title=" " alt="" coords="230,56,347,83"/>
+<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#abf01ad1651c8e8bce9ec599bd65e6631" title=" " alt="" coords="229,107,348,133"/>
+<area shape="rect" id="node9" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title=" " alt="" coords="239,157,339,184"/>
+<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title=" " alt="" coords="408,31,496,57"/>
+<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title=" " alt="" coords="396,81,508,108"/>
+<area shape="rect" id="node7" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="407,132,497,159"/>
+<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="406,183,498,209"/>
 </map>

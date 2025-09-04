@@ -7,8 +7,8 @@ var classNexthopIndexResourceKey =
     [ "BackupVlanResource", "d5/d35/classNexthopIndexResourceKey.html#a46df859bd84a397a1d7627ce7bd5fa17", null ],
     [ "BackupVrfResource", "d5/d35/classNexthopIndexResourceKey.html#a4c0a40db5c70ff2830ed3fe64b5bb4b9", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d5/d35/classNexthopIndexResourceKey.html#a2c749b2918e70eba3d9d5618df029ba0", null ],
-    [ "GetNhKey", "d5/d35/classNexthopIndexResourceKey.html#aef1c65d98234c87a2dcdabda55b026a6", null ],
-    [ "IsLess", "d5/d35/classNexthopIndexResourceKey.html#ac79f4df491f59d2cd594d406be82f841", null ],
+    [ "GetNhKey", "d5/d35/classNexthopIndexResourceKey.html#a13bb2489441bafae847a349edfed81c6", null ],
+    [ "IsLess", "d5/d35/classNexthopIndexResourceKey.html#a83be3499310bed8870f03e03cc51524e", null ],
     [ "ToString", "d5/d35/classNexthopIndexResourceKey.html#afb0a1876dafa7ff0c0f491427eb6fa3d", null ],
     [ "nh_key_", "d5/d35/classNexthopIndexResourceKey.html#a262a01416cba290de7ea702e7957ff7d", null ]
 ];

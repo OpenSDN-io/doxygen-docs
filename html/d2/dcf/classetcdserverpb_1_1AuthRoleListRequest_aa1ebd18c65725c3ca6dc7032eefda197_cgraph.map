@@ -1,7 +1,8 @@
 <map id="etcdserverpb::AuthRoleListRequest::AuthRoleListRequest" name="etcdserverpb::AuthRoleListRequest::AuthRoleListRequest">
-<area shape="rect" id="node2" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a586d938eac22cbf70af75c5637fc5716" title="etcdserverpb::AuthRoleList\lRequest::internal_default\l_instance" alt="" coords="291,5,487,61"/>
-<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#adb1bbf730a22f2ebd57060d1713937d0" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListRequest" alt="" coords="270,86,509,127"/>
-<area shape="rect" id="node6" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aca1c9586dc45921e27a2dc855c6574bb" title="etcdserverpb::AuthRoleList\lRequest::SharedCtor" alt="" coords="291,151,487,193"/>
-<area shape="rect" id="node4" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af6a16f44c4eb4551edd3daf891645be4" title="protobuf_rpc_2eproto\l::InitDefaultsAuthRoleListRequestImpl" alt="" coords="558,86,826,127"/>
-<area shape="rect" id="node5" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a3b2af8ccd3c3d3b02f652ea9c54e4df3" title="etcdserverpb::AuthRoleList\lRequest::InitAsDefaultInstance" alt="" coords="875,86,1098,127"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,207,120"/>
+<area shape="rect" id="node2" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#adb1bbf730a22f2ebd57060d1713937d0" title=" " alt="" coords="255,5,475,47"/>
+<area shape="rect" id="node5" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a586d938eac22cbf70af75c5637fc5716" title=" " alt="" coords="274,71,455,127"/>
+<area shape="rect" id="node6" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#aca1c9586dc45921e27a2dc855c6574bb" title=" " alt="" coords="274,152,455,193"/>
+<area shape="rect" id="node3" href="$dc/df9/namespaceprotobuf__rpc__2eproto.html#af6a16f44c4eb4551edd3daf891645be4" title=" " alt="" coords="523,5,768,47"/>
+<area shape="rect" id="node4" href="$d2/dcf/classetcdserverpb_1_1AuthRoleListRequest.html#a3b2af8ccd3c3d3b02f652ea9c54e4df3" title=" " alt="" coords="816,5,1020,47"/>
 </map>

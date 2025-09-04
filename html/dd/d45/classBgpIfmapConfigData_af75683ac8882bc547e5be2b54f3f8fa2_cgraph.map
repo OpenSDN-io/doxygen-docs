@@ -1,11 +1,12 @@
 <map id="BgpIfmapConfigData::DeleteRoutingPolicyLink" name="BgpIfmapConfigData::DeleteRoutingPolicyLink">
-<area shape="rect" id="node2" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a462c032ed478d950aeeabeb7c8b299a5" title="BgpIfmapRoutingPolicyLink\lConfig::node" alt="" coords="251,5,451,46"/>
-<area shape="rect" id="node4" href="$dc/d17/classIFMapNode.html#aa44eb51e397196ee056a9c222c17af0b" title="IFMapNode::name" alt="" coords="281,71,420,97"/>
-<area shape="rect" id="node5" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a2c2387d7a632ceba12b33dda4b1e2ea7" title="BgpIfmapRoutingPolicyLink\lConfig::instance" alt="" coords="251,122,451,163"/>
-<area shape="rect" id="node6" href="$d6/d53/classBgpIfmapInstanceConfig.html#ad5bf9e9ed52eb579d38fc0468076a97d" title="BgpIfmapInstanceConfig\l::DeleteRoutingPolicy" alt="" coords="260,187,441,229"/>
-<area shape="rect" id="node8" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#acbc2c6ff676dcd2ded730d07cb5cd782" title="BgpIfmapRoutingPolicyLink\lConfig::policy" alt="" coords="251,253,451,294"/>
-<area shape="rect" id="node9" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ae483f142027e97b7b9abc8e0682149d0" title="BgpIfmapRoutingPolicyConfig\l::RemoveInstance" alt="" coords="243,318,458,359"/>
-<area shape="rect" id="node3" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title="IFMapNodeProxy::node" alt="" coords="529,12,700,39"/>
-<area shape="rect" id="node7" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#a71ac2eaf6a1dd7859d24a552d93dfe5b" title="BgpIfmapRoutingPolicyConfig\l::name" alt="" coords="507,187,722,229"/>
-<area shape="rect" id="node10" href="$d6/d53/classBgpIfmapInstanceConfig.html#a4ee5393172828b7e01f676589d2ad02a" title="BgpIfmapInstanceConfig\l::name" alt="" coords="524,318,705,359"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,179,200"/>
+<area shape="rect" id="node2" href="$d6/d53/classBgpIfmapInstanceConfig.html#ad5bf9e9ed52eb579d38fc0468076a97d" title=" " alt="" coords="242,5,409,47"/>
+<area shape="rect" id="node4" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a2c2387d7a632ceba12b33dda4b1e2ea7" title=" " alt="" coords="234,71,417,112"/>
+<area shape="rect" id="node5" href="$dc/d17/classIFMapNode.html#a54cd8dba147003b6e2866e0c99e87c00" title=" " alt="" coords="260,137,391,163"/>
+<area shape="rect" id="node6" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#a40c9b0f0006a0d89ab48c9915955c60a" title=" " alt="" coords="234,188,417,229"/>
+<area shape="rect" id="node8" href="$d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html#acbc2c6ff676dcd2ded730d07cb5cd782" title=" " alt="" coords="234,253,417,295"/>
+<area shape="rect" id="node9" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ae483f142027e97b7b9abc8e0682149d0" title=" " alt="" coords="227,319,424,360"/>
+<area shape="rect" id="node3" href="$d8/dbd/classBgpIfmapRoutingPolicyConfig.html#ab334d0aa2ab58d8d31d971d395a30ff0" title=" " alt="" coords="472,5,669,47"/>
+<area shape="rect" id="node7" href="$d7/d3f/classIFMapNodeProxy.html#a262290de94c662f3fedb76d16751ba81" title=" " alt="" coords="491,195,650,222"/>
+<area shape="rect" id="node10" href="$d6/d53/classBgpIfmapInstanceConfig.html#ac17ca79bc96ba1081c4aec45799a2555" title=" " alt="" coords="487,319,654,360"/>
 </map>

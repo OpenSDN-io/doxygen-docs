@@ -1,18 +1,17 @@
 <map id="t_cpp_generator::local_reflection_name" name="t_cpp_generator::local_reflection_name">
-<area shape="rect" id="node2" href="$d7/dbd/classt__generator.html#a9a6aa9085c225b842e7239ffdbd9ca48" title="t_generator::get_true_type" alt="" coords="229,5,424,32"/>
-<area shape="rect" id="node5" href="$d5/d02/classt__type.html#ad5a78b3b8203735cc1de4a3079476b4d" title="t_type::is_base_type" alt="" coords="249,56,405,83"/>
-<area shape="rect" id="node6" href="$d4/dce/classt__program.html#a5b6e338b1f611845fcbef5b1641261b2" title="t_program::get_name" alt="" coords="245,107,408,133"/>
-<area shape="rect" id="node7" href="$d5/d02/classt__type.html#a4b3d3a8b929e0ffb04943a076602d4d6" title="t_type::get_ascii_fingerprint" alt="" coords="225,157,428,184"/>
-<area shape="rect" id="node11" href="$d5/d02/classt__type.html#a3f11278982fb2a8aca03e9a6be33bb3d" title="t_type::is_enum" alt="" coords="263,208,390,235"/>
-<area shape="rect" id="node12" href="$d5/d02/classt__type.html#a6ef68397e3d3033539c59df6e8dc9211" title="t_type::get_program" alt="" coords="249,259,404,285"/>
-<area shape="rect" id="node13" href="$d5/d02/classt__type.html#ae0db38ffae4229da52692379372057d6" title="t_type::is_container" alt="" coords="251,309,402,336"/>
-<area shape="rect" id="node14" href="$d5/d02/classt__type.html#a75a610454031a54876eb01944a2c6387" title="t_type::is_struct" alt="" coords="263,360,390,387"/>
-<area shape="rect" id="node15" href="$d5/d02/classt__type.html#a4fbb4a8c0352e8e36ef8620a539749bd" title="t_type::is_xception" alt="" coords="254,411,399,437"/>
-<area shape="rect" id="node16" href="$d6/dd2/classt__cpp__generator.html#a96c5f936e16ac52b5382a1868ab15ba4" title="t_cpp_generator::namespace\l_prefix" alt="" coords="221,462,432,503"/>
-<area shape="rect" id="node17" href="$d4/dce/classt__program.html#a833b8f941e1285cc8b21436342fd8db9" title="t_program::get_namespace" alt="" coords="227,528,427,555"/>
-<area shape="rect" id="node3" href="$d5/d02/classt__type.html#a4e3f98ffe63cdc80478fa075633f68ba" title="t_type::get_true_type" alt="" coords="481,5,642,32"/>
-<area shape="rect" id="node4" href="$d5/d02/classt__type.html#a2ecb01db09769aff99ff9781c709a16c" title="t_type::is_typedef" alt="" coords="711,5,849,32"/>
-<area shape="rect" id="node8" href="$d5/d02/classt__type.html#a50bdb301cdcc7ca533df5ca17a77c7d7" title="t_type::get_binary\l_fingerprint" alt="" coords="491,121,631,162"/>
-<area shape="rect" id="node9" href="$d5/d02/classt__type.html#a78cec6ff690f6f1abe641d87d75d2ceb" title="t_type::byte_to_hex" alt="" coords="486,187,637,213"/>
-<area shape="rect" id="node10" href="$d5/d02/classt__type.html#abda54675644d75050853fd5dc58be3c3" title="t_type::nybble_to_xdigit" alt="" coords="691,187,869,213"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,281,156,322"/>
+<area shape="rect" id="node2" href="$d5/d02/classt__type.html#a9a8bf2a9db887e6ff585245d7ff37f05" title=" " alt="" coords="208,35,391,61"/>
+<area shape="rect" id="node6" href="$d4/dce/classt__program.html#aa86f57fd75f08f595d7511ba0d750062" title=" " alt="" coords="227,85,372,112"/>
+<area shape="rect" id="node7" href="$d4/dce/classt__program.html#a2459072e369e9fb4276451dabc1d2166" title=" " alt="" coords="209,136,389,163"/>
+<area shape="rect" id="node8" href="$d5/d02/classt__type.html#a6ef68397e3d3033539c59df6e8dc9211" title=" " alt="" coords="230,187,369,213"/>
+<area shape="rect" id="node9" href="$d7/dbd/classt__generator.html#a9a6aa9085c225b842e7239ffdbd9ca48" title=" " alt="" coords="212,237,387,264"/>
+<area shape="rect" id="node10" href="$d5/d02/classt__type.html#a7c55a24b2be9f9dc0b046b3db05d7fcd" title=" " alt="" coords="228,288,371,315"/>
+<area shape="rect" id="node11" href="$d5/d02/classt__type.html#ac5d5466e62a1784cbfa0c5252c0800c9" title=" " alt="" coords="231,339,367,365"/>
+<area shape="rect" id="node12" href="$d5/d02/classt__type.html#a5917e0225d67bb756e579873e17a40bf" title=" " alt="" coords="242,389,357,416"/>
+<area shape="rect" id="node13" href="$d5/d02/classt__type.html#a5203f2ab35b0693b5ca6fb7623936bc5" title=" " alt="" coords="241,440,357,467"/>
+<area shape="rect" id="node14" href="$d5/d02/classt__type.html#a4a88cbfa717a2b6990442edb352dbdb8" title=" " alt="" coords="234,491,365,517"/>
+<area shape="rect" id="node15" href="$d6/dd2/classt__cpp__generator.html#a96c5f936e16ac52b5382a1868ab15ba4" title=" " alt="" coords="204,542,395,583"/>
+<area shape="rect" id="node3" href="$d5/d02/classt__type.html#a78cec6ff690f6f1abe641d87d75d2ceb" title=" " alt="" coords="443,5,580,32"/>
+<area shape="rect" id="node5" href="$d5/d02/classt__type.html#a19de5de3ca09d9ac5ab9b916fe35f3de" title=" " alt="" coords="448,57,575,98"/>
+<area shape="rect" id="node4" href="$d5/d02/classt__type.html#abda54675644d75050853fd5dc58be3c3" title=" " alt="" coords="628,5,788,32"/>
 </map>

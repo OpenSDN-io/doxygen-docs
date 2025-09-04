@@ -1,4 +1,6 @@
 <map id="RouteLeakState::DeleteRoute" name="RouteLeakState::DeleteRoute">
-<area shape="rect" id="node2" href="$d5/d9a/classAgentRoutePrefix.html#a4ea7fa0bcf466f10ffe7529d8358fb02" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address) " alt="" coords="267,5,445,46"/>
-<area shape="rect" id="node3" href="$d5/d9f/classInetUnicastRouteEntry.html#a3015648edd72d32a23bffd5e9654dc62" title="! " alt="" coords="273,70,439,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,203,91"/>
+<area shape="rect" id="node2" href="$de/dbc/structRouteLeakState.html#ab7d4adf9c0359e832a06f37f6fdc6f41" title=" " alt="" coords="251,5,424,32"/>
+<area shape="rect" id="node3" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="255,57,419,98"/>
+<area shape="rect" id="node4" href="$d5/d9f/classInetUnicastRouteEntry.html#a7fad580780242fccc9db5c419debe392" title="!" alt="" coords="259,122,415,163"/>
 </map>

@@ -1,9 +1,11 @@
 <map id="BgpPeer::BgpPeer" name="BgpPeer::BgpPeer">
-<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a018b94957eb80dfad8ce744611761462" title="BgpPeer::AllocPeerNotify\lWalker" alt="" coords="195,5,381,46"/>
-<area shape="rect" id="node6" href="$d3/d2d/classBgpPeer.html#ad2afee02f31e179bd8da388c6eb2b44b" title="BgpPeer::AllocDeleteStale\lWalker" alt="" coords="192,70,384,111"/>
-<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#a9d611b871e364f9ced6640bfdf677b18" title="BgpPeer::AllocDeletePeer\lWalker" alt="" coords="194,135,382,177"/>
-<area shape="rect" id="node8" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title="UTCTimestampUsec" alt="" coords="211,201,365,228"/>
-<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#a590dc25862c7d006b89fd609b8ed3a4e" title="AgentXmppChannel::agent" alt="" coords="433,27,629,53"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0966452af3235d68f4fff977b066de2d" title="Agent::oper_db" alt="" coords="471,77,591,104"/>
-<area shape="rect" id="node5" href="$dc/dff/classOperDB.html#a65174bb364e208cc959691447019ec3f" title="OperDB::agent_route\l_walk_manager" alt="" coords="451,129,610,170"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,133,153"/>
+<area shape="rect" id="node2" href="$d3/d2d/classBgpPeer.html#a9d611b871e364f9ced6640bfdf677b18" title=" " alt="" coords="183,20,355,61"/>
+<area shape="rect" id="node7" href="$d3/d2d/classBgpPeer.html#ad2afee02f31e179bd8da388c6eb2b44b" title=" " alt="" coords="181,85,357,127"/>
+<area shape="rect" id="node8" href="$d3/d2d/classBgpPeer.html#a018b94957eb80dfad8ce744611761462" title=" " alt="" coords="185,151,354,192"/>
+<area shape="rect" id="node9" href="$d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="197,217,341,243"/>
+<area shape="rect" id="node3" href="$da/d25/classAgentXmppChannel.html#a041fde0d9d06b33868f20754b53cabb2" title=" " alt="" coords="405,122,584,149"/>
+<area shape="rect" id="node4" href="$d3/d2d/classBgpPeer.html#ac5184d675692473f818febd8f42c4341" title=" " alt="" coords="439,173,550,199"/>
+<area shape="rect" id="node5" href="$dc/dff/classOperDB.html#a966a36ddb6edb5c0b8e9ac05048e8d9e" title=" " alt="" coords="422,5,567,47"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#a2027139a8600d1f29ad96721280fb4d1" title=" " alt="" coords="439,71,550,98"/>
 </map>

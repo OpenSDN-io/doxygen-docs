@@ -1,10 +1,11 @@
 <map id="StaticRouteMgr::RemoveStaticRoutePrefix" name="StaticRouteMgr::RemoveStaticRoutePrefix">
-<area shape="rect" id="node2" href="$d6/dc0/classStaticRouteMgr.html#a0269b6f79a7211852e7293c7e9e15972" title="StaticRouteMgr::StopStatic\lRouteDone" alt="" coords="272,82,467,123"/>
-<area shape="rect" id="node6" href="$d0/d2a/classStaticRoute.html#aba82558ed632f51d245a88f403ba618f" title="StaticRoute::bgp_table" alt="" coords="285,173,453,200"/>
-<area shape="rect" id="node3" href="$d0/d2a/classStaticRoute.html#a9b70f5ccfc558830b438cc70a960af2d" title="StaticRoute::set_unregistered" alt="" coords="515,5,728,32"/>
-<area shape="rect" id="node4" href="$d1/d67/classConditionMatch.html#a2102b063baab59c5f8fc4c1cb95a7dac" title="ConditionMatch::num\l_matchstate" alt="" coords="541,57,701,98"/>
-<area shape="rect" id="node5" href="$d0/d2a/classStaticRoute.html#a6f7eb19f94f63ee2bbf8070ffefc8fe2" title="StaticRoute::unregistered" alt="" coords="528,123,715,149"/>
-<area shape="rect" id="node7" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title="RoutingInstance::GetTable" alt="" coords="526,173,717,200"/>
-<area shape="rect" id="node8" href="$d0/d2a/classStaticRoute.html#a236645ece2b4ca7aa7c72dfd9b29f650" title="StaticRoute::GetFamily" alt="" coords="536,224,707,251"/>
-<area shape="rect" id="node9" href="$d6/dc0/classStaticRouteMgr.html#a8789fc41f7b91bdbcb5d5420b9d27052" title="StaticRouteMgr::GetFamily" alt="" coords="776,224,971,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,208,149"/>
+<area shape="rect" id="node2" href="$d0/d2a/classStaticRoute.html#af0b55e1ee57e5af85fe35035c4e187c4" title=" " alt="" coords="269,56,425,83"/>
+<area shape="rect" id="node6" href="$d6/dc0/classStaticRouteMgr.html#a0269b6f79a7211852e7293c7e9e15972" title=" " alt="" coords="256,137,439,178"/>
+<area shape="rect" id="node3" href="$d0/d2a/classStaticRoute.html#a78b839b46d45d5b27d3ee575e0fa4706" title=" " alt="" coords="505,5,663,32"/>
+<area shape="rect" id="node5" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="495,56,673,83"/>
+<area shape="rect" id="node4" href="$d6/dc0/classStaticRouteMgr.html#a196f4302bd244d0b7305f87055212da1" title=" " alt="" coords="729,5,911,32"/>
+<area shape="rect" id="node7" href="$d1/d67/classConditionMatch.html#a2b89e68fb278620bd98cd555c3c279bc" title=" " alt="" coords="511,107,657,149"/>
+<area shape="rect" id="node8" href="$d0/d2a/classStaticRoute.html#a9b70f5ccfc558830b438cc70a960af2d" title=" " alt="" coords="487,173,681,200"/>
+<area shape="rect" id="node9" href="$d0/d2a/classStaticRoute.html#a8420cead10a88ceb14d65dcc36437d0d" title=" " alt="" coords="499,224,669,251"/>
 </map>

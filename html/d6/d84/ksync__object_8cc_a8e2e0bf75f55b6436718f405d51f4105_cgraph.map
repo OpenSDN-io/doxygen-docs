@@ -1,19 +1,18 @@
 <map id="KSyncSM_AddDefer" name="KSyncSM_AddDefer">
-<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#a8165d6dacd0578563fcbcc0b199a1ccf" title="KSyncEntry::GetRefCount" alt="" coords="473,5,658,32"/>
-<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#a7f27930e50cf1ce6bd28bd54eea42434" title="KSyncObject::BackRefDel" alt="" coords="203,321,389,348"/>
-<area shape="rect" id="node7" href="$d6/d84/ksync__object_8cc.html#abad983d10ee472f74faace35ec40263d" title="KSyncSM_Add" alt="" coords="509,259,622,285"/>
-<area shape="rect" id="node13" href="$dc/df2/classKSyncEntry.html#a018fc7ccb324739504b6f69e3e018de5" title="KSyncEntry::AllowDeleteStateComp" alt="" coords="438,56,693,83"/>
-<area shape="rect" id="node14" href="$d6/d84/ksync__object_8cc.html#ae9f7efe30e3b8e6991b93c7e994b28d6" title="KSyncSM_Delete" alt="" coords="231,107,361,133"/>
-<area shape="rect" id="node17" href="$d6/d84/ksync__object_8cc.html#ab33c7625165ed53b1f8b3995bd8d9fe6" title="KSyncSM_DeleteAdd" alt="" coords="218,157,374,184"/>
-<area shape="rect" id="node4" href="$d0/d9d/bgp__aspath_8h.html#a0ee38ffc269b9ff050119096acd440db" title="intrusive_ptr_release" alt="" coords="486,341,645,368"/>
-<area shape="rect" id="node5" href="$d7/dfb/classAsPath.html#a7ae3c8cb4a81d812b02e86665dafd1bc" title="AsPath::Remove" alt="" coords="799,360,926,387"/>
-<area shape="rect" id="node6" href="$d6/dd7/classBgpPathAttributeDB.html#a0a7671c67604d9238f7c7920f534227c" title="BgpPathAttributeDB\l::Delete" alt="" coords="1037,353,1187,394"/>
-<area shape="rect" id="node8" href="$dc/df2/classKSyncEntry.html#aee8764cc725ed38a2218ff44fcf0c200" title="KSyncEntry::UnresolvedReference" alt="" coords="741,309,984,336"/>
-<area shape="rect" id="node9" href="$d6/d2d/classKSyncObject.html#a71f86e5089496fc0cb5703f899d4c9ac" title="KSyncObject::BackRefAdd" alt="" coords="767,157,958,184"/>
-<area shape="rect" id="node11" href="$dc/df2/classKSyncEntry.html#a562aad8c8927a5875f35b9cacda8e492" title="KSyncEntry::SetSeen" alt="" coords="785,208,941,235"/>
-<area shape="rect" id="node12" href="$dc/df2/classKSyncEntry.html#a04467902d6218a16914d87eb4624030a" title="KSyncEntry::Add" alt="" coords="799,259,927,285"/>
-<area shape="rect" id="node10" href="$d0/d9d/bgp__aspath_8h.html#a7ab999cacc9fc62433ed891254db087e" title="intrusive_ptr_add_ref" alt="" coords="1032,157,1192,184"/>
-<area shape="rect" id="node15" href="$dc/df2/classKSyncEntry.html#a38db4980c41ab05a41d684e8c8a8f6b7" title="KSyncEntry::Seen" alt="" coords="498,107,633,133"/>
-<area shape="rect" id="node16" href="$dc/df2/classKSyncEntry.html#a7937d6429cfbd7c26feb43d3ac968645" title="KSyncEntry::Delete" alt="" coords="492,157,639,184"/>
-<area shape="rect" id="node18" href="$dc/df2/classKSyncEntry.html#add5e47f5aa888ea67e080822fea43322" title="KSyncEntry::stale" alt="" coords="498,208,633,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,148,159"/>
+<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#a018fc7ccb324739504b6f69e3e018de5" title=" " alt="" coords="420,56,655,83"/>
+<area shape="rect" id="node3" href="$d6/d2d/classKSyncObject.html#a7f27930e50cf1ce6bd28bd54eea42434" title=" " alt="" coords="196,296,372,323"/>
+<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#ad7f94b01ff617949230c0ed227f06a46" title=" " alt="" coords="450,5,625,32"/>
+<area shape="rect" id="node6" href="$d6/d84/ksync__object_8cc.html#abad983d10ee472f74faace35ec40263d" title=" " alt="" coords="482,259,593,285"/>
+<area shape="rect" id="node12" href="$d6/d84/ksync__object_8cc.html#ae9f7efe30e3b8e6991b93c7e994b28d6" title=" " alt="" coords="221,107,347,133"/>
+<area shape="rect" id="node15" href="$d6/d84/ksync__object_8cc.html#ab33c7625165ed53b1f8b3995bd8d9fe6" title=" " alt="" coords="210,157,358,184"/>
+<area shape="rect" id="node4" href="$d6/d84/ksync__object_8cc.html#ae8fbf6a99590300a60b9c338aed4d918" title=" " alt="" coords="467,309,608,336"/>
+<area shape="rect" id="node7" href="$dc/df2/classKSyncEntry.html#a04467902d6218a16914d87eb4624030a" title=" " alt="" coords="753,183,875,209"/>
+<area shape="rect" id="node8" href="$d6/d2d/classKSyncObject.html#a71f86e5089496fc0cb5703f899d4c9ac" title=" " alt="" coords="725,233,903,260"/>
+<area shape="rect" id="node10" href="$dc/df2/classKSyncEntry.html#a562aad8c8927a5875f35b9cacda8e492" title=" " alt="" coords="739,284,889,311"/>
+<area shape="rect" id="node11" href="$dc/df2/classKSyncEntry.html#aee8764cc725ed38a2218ff44fcf0c200" title=" " alt="" coords="703,335,925,361"/>
+<area shape="rect" id="node9" href="$d6/d84/ksync__object_8cc.html#a464ba26c9e8c098daf8e37babb050019" title=" " alt="" coords="973,233,1116,260"/>
+<area shape="rect" id="node13" href="$dc/df2/classKSyncEntry.html#a7937d6429cfbd7c26feb43d3ac968645" title=" " alt="" coords="469,157,606,184"/>
+<area shape="rect" id="node14" href="$dc/df2/classKSyncEntry.html#abfbda45373d4540dff58d2cee36a8173" title=" " alt="" coords="473,107,602,133"/>
+<area shape="rect" id="node16" href="$dc/df2/classKSyncEntry.html#ac3f928c2afad15db868c6e7e8d3f2918" title=" " alt="" coords="474,208,601,235"/>
 </map>

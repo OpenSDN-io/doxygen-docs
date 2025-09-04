@@ -1,6 +1,7 @@
 <map id="BgpPeerKey::BgpPeerKey" name="BgpPeerKey::BgpPeerKey">
-<area shape="rect" id="node2" href="$d0/dbd/classBgpNeighborConfig.html#ae525c274fcd98dd26f0e7439ff1f7f11" title="BgpNeighborConfig::\lpeer_address" alt="" coords="255,5,409,46"/>
-<area shape="rect" id="node3" href="$d0/dbd/classBgpNeighborConfig.html#a34953b8029a20619d0d0c79302adc394" title="BgpNeighborConfig::port" alt="" coords="241,71,423,97"/>
-<area shape="rect" id="node4" href="$d0/dbd/classBgpNeighborConfig.html#a4b23620031b1dcd56a9ae254989fac8f" title="BgpNeighborConfig::uuid" alt="" coords="241,121,423,148"/>
-<area shape="rect" id="node5" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title="StringToUuid" alt="" coords="280,172,384,199"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,176,123"/>
+<area shape="rect" id="node2" href="$d0/dbd/classBgpNeighborConfig.html#aa3d849b6a97c37eabe00d64b33a881d8" title=" " alt="" coords="236,5,379,47"/>
+<area shape="rect" id="node3" href="$d0/dbd/classBgpNeighborConfig.html#a0967bc0d0074e1212f27439f37307fdf" title=" " alt="" coords="224,71,391,98"/>
+<area shape="rect" id="node4" href="$dd/d70/string__util_8h.html#a23300a664055f4e73e2d04616337a4da" title=" " alt="" coords="259,122,356,149"/>
+<area shape="rect" id="node5" href="$d0/dbd/classBgpNeighborConfig.html#a52daf8e2b651910f17fa4159b416ed4b" title=" " alt="" coords="224,173,391,199"/>
 </map>

@@ -1,13 +1,14 @@
 <map id="DnsManager::ResendRecordsinBatch" name="DnsManager::ResendRecordsinBatch">
-<area shape="rect" id="node2" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title="DnsManager::ResetTransId" alt="" coords="286,56,479,83"/>
-<area shape="rect" id="node7" href="$dd/de1/classDnsManager.html#a646945138905a60b4bceebf30d89373a" title="DnsManager::SendRetransmit" alt="" coords="275,132,490,159"/>
-<area shape="rect" id="node11" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title="Timer::Reschedule" alt="" coords="311,208,454,235"/>
-<area shape="rect" id="node3" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title="IndexAllocator::FreeIndex" alt="" coords="539,31,725,57"/>
-<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title="BitSet::reset" alt="" coords="774,31,877,57"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="926,5,1026,32"/>
-<area shape="rect" id="node6" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="925,56,1027,83"/>
-<area shape="rect" id="node8" href="$d8/d1a/classBindUtil.html#acb9e417f978228932c531e8fddab6d68" title="BindUtil::BuildDnsUpdate" alt="" coords="539,81,725,108"/>
-<area shape="rect" id="node9" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title="BindResolver::Resolver" alt="" coords="547,132,717,159"/>
-<area shape="rect" id="node10" href="$da/dea/bind__util_8h.html#af80e7a87f05fcaf473ba4c801f321d42" title="DnsItemsToString" alt="" coords="564,183,700,209"/>
-<area shape="rect" id="node12" href="$dc/dea/classTimer.html#aa2a15bd41e6bd1ad28cc995a42cd8b17" title="Timer::time" alt="" coords="583,233,681,260"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,212,90"/>
+<area shape="rect" id="node2" href="$dc/dea/classTimer.html#ad93f44a498d55194c695da6a977f6dab" title=" " alt="" coords="293,5,424,32"/>
+<area shape="rect" id="node4" href="$dd/de1/classDnsManager.html#a5ad467aaa32cb8d2be06c1cd747040fe" title=" " alt="" coords="268,56,449,83"/>
+<area shape="rect" id="node9" href="$dd/de1/classDnsManager.html#a646945138905a60b4bceebf30d89373a" title=" " alt="" coords="260,132,457,159"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html#aef17b80e215a73272b170b15b7d559fa" title=" " alt="" coords="547,5,635,32"/>
+<area shape="rect" id="node5" href="$d3/dc6/classIndexAllocator.html#a463a0faf09ebb0a0ffc19b2aaaceb51a" title=" " alt="" coords="505,56,676,83"/>
+<area shape="rect" id="node6" href="$d6/dd0/classBitSet.html#a4960c941d5a66d652791e37b4aa209d0" title=" " alt="" coords="724,56,819,83"/>
+<area shape="rect" id="node7" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="867,31,958,57"/>
+<area shape="rect" id="node8" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="867,81,959,108"/>
+<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#acb9e417f978228932c531e8fddab6d68" title=" " alt="" coords="505,107,676,133"/>
+<area shape="rect" id="node11" href="$da/dea/bind__util_8h.html#af80e7a87f05fcaf473ba4c801f321d42" title=" " alt="" coords="527,157,654,184"/>
+<area shape="rect" id="node12" href="$d0/d5b/classBindResolver.html#a784fbf313fe05a09e6e70cc427b21baf" title=" " alt="" coords="513,208,669,235"/>
 </map>

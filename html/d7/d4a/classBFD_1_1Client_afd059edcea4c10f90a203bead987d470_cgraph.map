@@ -1,9 +1,0 @@
-<map id="BFD::Client::Up" name="BFD::Client::Up">
-<area shape="rect" id="node2" href="$d7/d4a/classBFD_1_1Client.html#a7d199f31b91f391e4432374ed65b6fc8" title="BFD::Client::GetSession" alt="" coords="174,56,349,83"/>
-<area shape="rect" id="node6" href="$d4/d83/classBFD_1_1Session.html#af4ce94c6cfa089477d6db82de22c35d6" title="BFD::Session::Up" alt="" coords="195,111,327,137"/>
-<area shape="rect" id="node3" href="$db/d0c/classBFD_1_1Connection.html#a15ad3b5aaa8cdb06689eb74b37099f59" title="BFD::Connection::GetServer" alt="" coords="397,5,600,32"/>
-<area shape="rect" id="node4" href="$d7/d90/classBFD_1_1Server.html#aa9c76f0a1c3ac9e30cb84f0cffaf1a7f" title="BFD::Server::SessionByKey" alt="" coords="400,56,597,83"/>
-<area shape="rect" id="node5" href="$d7/d31/classBFD_1_1Server_1_1SessionManager.html#a2a0679e5e37f79207a0ad48a46611a11" title="BFD::Server::SessionManager\l::SessionByKey" alt="" coords="649,46,861,87"/>
-<area shape="rect" id="node7" href="$d4/d83/classBFD_1_1Session.html#a833aa82a0305bc0dea8082c06275c34c" title="BFD::Session::local\l_state" alt="" coords="426,109,571,150"/>
-<area shape="rect" id="node8" href="$d4/d83/classBFD_1_1Session.html#a7a4ca6ec68c7f74db4eb76417e93daf3" title="BFD::Session::local\l_state_non_locking" alt="" coords="681,111,828,153"/>
-</map>

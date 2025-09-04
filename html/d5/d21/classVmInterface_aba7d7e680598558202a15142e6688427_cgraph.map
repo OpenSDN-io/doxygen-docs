@@ -1,5 +1,10 @@
 <map id="VmInterface::ObtainOsSpecificParams" name="VmInterface::ObtainOsSpecificParams">
-<area shape="rect" id="node2" href="$d0/dcc/classInterface.html#af6c3f547a8d13e231a4ea8cbfbee68be" title="Interface::ObtainOsSpecific\lParams" alt="" coords="275,23,474,65"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ad893d206e8fd047833ab3cfe51a8d2bc" title="Agent::is_l3mh" alt="" coords="553,5,671,32"/>
-<area shape="rect" id="node4" href="$d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5" title="MacAddress::FromString" alt="" coords="523,56,701,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,209,90"/>
+<area shape="rect" id="node2" href="$d5/d21/classVmInterface.html#a0c9ef1986396fe775a706188a0457a7a" title=" " alt="" coords="282,5,417,32"/>
+<area shape="rect" id="node5" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="515,57,630,84"/>
+<area shape="rect" id="node6" href="$d0/dcc/classInterface.html#af6c3f547a8d13e231a4ea8cbfbee68be" title=" " alt="" coords="257,107,441,149"/>
+<area shape="rect" id="node3" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="491,5,655,32"/>
+<area shape="rect" id="node4" href="$d3/da7/classDBTablePartBase.html#a036097d2f7e774a0a6ac2466d5e50a28" title=" " alt="" coords="704,5,875,32"/>
+<area shape="rect" id="node7" href="$d3/df5/classMacAddress.html#ac8e78b50a6eb7ee34d5c7fca820890c5" title=" " alt="" coords="489,112,656,139"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#a7f45c5e492824e8beb27a9d29940fe0c" title=" " alt="" coords="518,163,627,189"/>
 </map>

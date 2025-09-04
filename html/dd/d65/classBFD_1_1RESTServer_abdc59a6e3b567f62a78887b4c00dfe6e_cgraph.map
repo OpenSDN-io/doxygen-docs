@@ -1,8 +1,9 @@
 <map id="BFD::RESTServer::CreateRESTClientSession" name="BFD::RESTServer::CreateRESTClientSession">
-<area shape="rect" id="node2" href="$dd/d65/classBFD_1_1RESTServer.html#a7625209646ec49c306dec97b2a627080" title="BFD::RESTServer::UniqClientId" alt="" coords="307,20,525,47"/>
-<area shape="rect" id="node3" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title="BFD::REST::SendResponse" alt="" coords="321,71,511,97"/>
-<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title="TcpSession::Send" alt="" coords="573,71,707,97"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a81778da4c436a2011c4c024be308c383" title="TcpSession::IsEstablished\lLocked" alt="" coords="755,5,941,46"/>
-<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="989,96,1133,123"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title="TcpSession::CloseInternal" alt="" coords="755,121,941,148"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,249,115"/>
+<area shape="rect" id="node2" href="$d9/dab/namespaceBFD_1_1REST.html#a2de89c7ab6af2157dacbadf9c7912a0e" title=" " alt="" coords="309,56,495,83"/>
+<area shape="rect" id="node7" href="$dd/d65/classBFD_1_1RESTServer.html#a7625209646ec49c306dec97b2a627080" title=" " alt="" coords="297,107,507,133"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574" title=" " alt="" coords="555,56,683,83"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#ac0f5bea55bb1db346c791c6700afa8f5" title=" " alt="" coords="732,5,907,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="956,31,1092,57"/>
+<area shape="rect" id="node6" href="$d2/d0e/classTcpSession.html#ad7176ca0a3c59225df1585ce3fa2cddc" title=" " alt="" coords="731,107,908,149"/>
 </map>

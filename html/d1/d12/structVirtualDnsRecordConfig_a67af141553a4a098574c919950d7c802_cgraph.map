@@ -1,8 +1,9 @@
 <map id="VirtualDnsRecordConfig::OnDelete" name="VirtualDnsRecordConfig::OnDelete">
-<area shape="rect" id="node2" href="$d1/d12/structVirtualDnsRecordConfig.html#a278f1c5481ba1416b0f333c25e7932af" title="VirtualDnsRecordConfig\l::Trace" alt="" coords="245,5,419,46"/>
-<area shape="rect" id="node6" href="$d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49" title="DnsConfig::MarkDelete" alt="" coords="247,71,417,97"/>
-<area shape="rect" id="node5" href="$d4/da5/structDnsConfig.html#aec5e4036fd37ea42a2596502c5efada5" title="DnsConfig::IsNotified" alt="" coords="707,104,866,131"/>
-<area shape="rect" id="node7" href="$d0/d31/structVirtualDnsConfig.html#ac10bc0ba1f97eb9e08b5b7791a09cc71" title="VirtualDnsConfig::DelRecord" alt="" coords="229,172,435,199"/>
-<area shape="rect" id="node3" href="$d1/d12/structVirtualDnsRecordConfig.html#a530eb41092fccfff295a3fe0fd77df83" title="VirtualDnsRecordConfig\l::VirtualDnsRecordTrace" alt="" coords="483,30,659,71"/>
-<area shape="rect" id="node4" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title="BindUtil::DnsType" alt="" coords="718,37,855,64"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,168,115"/>
+<area shape="rect" id="node2" href="$d0/d31/structVirtualDnsConfig.html#ac10bc0ba1f97eb9e08b5b7791a09cc71" title=" " alt="" coords="216,5,407,32"/>
+<area shape="rect" id="node3" href="$d4/da5/structDnsConfig.html#a08d76973cf9d0d8f4f766dae69c1c019" title=" " alt="" coords="668,85,816,112"/>
+<area shape="rect" id="node4" href="$d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49" title=" " alt="" coords="231,107,391,133"/>
+<area shape="rect" id="node5" href="$d1/d12/structVirtualDnsRecordConfig.html#a278f1c5481ba1416b0f333c25e7932af" title=" " alt="" coords="230,158,393,199"/>
+<area shape="rect" id="node6" href="$d1/d12/structVirtualDnsRecordConfig.html#a530eb41092fccfff295a3fe0fd77df83" title=" " alt="" coords="455,133,620,174"/>
+<area shape="rect" id="node7" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title=" " alt="" coords="678,140,806,167"/>
 </map>

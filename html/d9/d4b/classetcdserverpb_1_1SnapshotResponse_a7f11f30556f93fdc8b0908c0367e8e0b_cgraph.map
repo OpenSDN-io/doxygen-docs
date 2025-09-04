@@ -1,9 +1,10 @@
 <map id="etcdserverpb::SnapshotResponse::MergeFrom" name="etcdserverpb::SnapshotResponse::MergeFrom">
-<area shape="rect" id="node2" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#a95115919b9b115074ec6f9a524658b3a" title="etcdserverpb::SnapshotResponse\l::blob" alt="" coords="291,5,528,46"/>
-<area shape="rect" id="node3" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#aed9dbc76a53360c339ce5846e8af68ae" title="etcdserverpb::SnapshotResponse\l::has_header" alt="" coords="291,70,528,111"/>
-<area shape="rect" id="node5" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#afb5272c2fb0b4ec4ef08996bce6874fe" title="etcdserverpb::SnapshotResponse\l::mutable_header" alt="" coords="291,135,528,177"/>
-<area shape="rect" id="node6" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#a47b8d3e603701f98538662d69663f82e" title="etcdserverpb::SnapshotResponse\l::header" alt="" coords="291,201,528,242"/>
-<area shape="rect" id="node7" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#a4eca12633c581a4c614f48f8dc6692f3" title="etcdserverpb::SnapshotResponse\l::remaining_bytes" alt="" coords="291,266,528,307"/>
-<area shape="rect" id="node8" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#ae235d6cdfd9966340e93b3b3d10e8542" title="etcdserverpb::SnapshotResponse\l::set_remaining_bytes" alt="" coords="291,331,528,373"/>
-<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="576,70,800,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,224,211"/>
+<area shape="rect" id="node2" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#ac7836c98999a6ac81f2fa0cb3fa0da0f" title=" " alt="" coords="272,5,491,47"/>
+<area shape="rect" id="node3" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#aca607f67942ef87c3f022c2e71eb3379" title=" " alt="" coords="272,71,491,112"/>
+<area shape="rect" id="node5" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#a0675730bc64a6fd87818ac68a6e30192" title=" " alt="" coords="272,136,491,177"/>
+<area shape="rect" id="node6" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#afb5272c2fb0b4ec4ef08996bce6874fe" title=" " alt="" coords="272,201,491,243"/>
+<area shape="rect" id="node7" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#a43eda6ac4e0d859fc43f7963381189a2" title=" " alt="" coords="272,267,491,308"/>
+<area shape="rect" id="node8" href="$d9/d4b/classetcdserverpb_1_1SnapshotResponse.html#ae235d6cdfd9966340e93b3b3d10e8542" title=" " alt="" coords="272,332,491,373"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="539,71,745,112"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="XmppConnectionManager::WorkQueueExitCallback" name="XmppConnectionManager::WorkQueueExitCallback">
-<area shape="rect" id="node2" href="$d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c" title="XmppConnectionManager\l::deleter" alt="" coords="245,5,435,46"/>
-<area shape="rect" id="node3" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title="LifetimeActor::RetryDelete" alt="" coords="243,71,437,97"/>
-<area shape="rect" id="node4" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title="LifetimeManager::Enqueue" alt="" coords="486,71,682,97"/>
-<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title="LifetimeActor::Reference\lIncrement" alt="" coords="731,63,914,105"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,177,76"/>
+<area shape="rect" id="node2" href="$d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c" title=" " alt="" coords="228,5,400,47"/>
+<area shape="rect" id="node3" href="$dd/d9e/classLifetimeActor.html#a6fd805b59fb8bc1119ee7778f623596c" title=" " alt="" coords="225,71,403,98"/>
+<area shape="rect" id="node4" href="$dd/d0e/classLifetimeManager.html#ad4965844ff8f10a00b586a2c285f2d1b" title=" " alt="" coords="451,71,628,98"/>
+<area shape="rect" id="node5" href="$dd/d9e/classLifetimeActor.html#a9029e26aa41751f593811b594c6ab102" title=" " alt="" coords="676,64,843,105"/>
 </map>

@@ -1,10 +1,11 @@
 <map id="process::Signal::Initialize" name="process::Signal::Initialize">
-<area shape="rect" id="node2" href="$d0/d14/classprocess_1_1Signal.html#ab5be66e4612fbbb739b7a65126cdaaaf" title="process::Signal::AddSignal" alt="" coords="470,5,663,32"/>
-<area shape="rect" id="node3" href="$d0/d14/classprocess_1_1Signal.html#a188e78d944b8f4d15cceb32c7e44a889" title="process::Signal::Initialize\lSigChild" alt="" coords="237,27,421,69"/>
-<area shape="rect" id="node4" href="$d0/d14/classprocess_1_1Signal.html#a6c41e4749856aaffe53f67f3788a8026" title="process::Signal::Register\lSigHandler" alt="" coords="239,93,420,134"/>
-<area shape="rect" id="node5" href="$d0/d14/classprocess_1_1Signal.html#a9e42eb0ee6cdba18f95dcbb5ecff7610" title="process::Signal::HandleSig" alt="" coords="469,100,664,127"/>
-<area shape="rect" id="node6" href="$d0/d14/classprocess_1_1Signal.html#a76686a2e117902843430bdc02c7334e9" title="process::Signal::HandleSig\lOsSpecific" alt="" coords="712,63,907,105"/>
-<area shape="rect" id="node9" href="$d0/d14/classprocess_1_1Signal.html#ae2f181489d65db97298a2628d3c54033" title="process::Signal::NotifySig" alt="" coords="715,129,903,156"/>
-<area shape="rect" id="node7" href="$d0/d14/classprocess_1_1Signal.html#a02a8df5c7fe6e7c20d9c0665164e1421" title="process::Signal::WaitPid" alt="" coords="975,45,1153,72"/>
-<area shape="rect" id="node8" href="$d0/d14/classprocess_1_1Signal.html#abe0dedad0c7dcc1d6e5d1cd44a05b215" title="process::Signal::NotifySigChld" alt="" coords="955,96,1173,123"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,172,61"/>
+<area shape="rect" id="node2" href="$d0/d14/classprocess_1_1Signal.html#ab5be66e4612fbbb739b7a65126cdaaaf" title=" " alt="" coords="437,5,615,32"/>
+<area shape="rect" id="node3" href="$d0/d14/classprocess_1_1Signal.html#a188e78d944b8f4d15cceb32c7e44a889" title=" " alt="" coords="221,27,387,69"/>
+<area shape="rect" id="node4" href="$d0/d14/classprocess_1_1Signal.html#a6c41e4749856aaffe53f67f3788a8026" title=" " alt="" coords="220,93,388,134"/>
+<area shape="rect" id="node5" href="$d0/d14/classprocess_1_1Signal.html#a9e42eb0ee6cdba18f95dcbb5ecff7610" title=" " alt="" coords="436,100,616,127"/>
+<area shape="rect" id="node6" href="$d0/d14/classprocess_1_1Signal.html#a76686a2e117902843430bdc02c7334e9" title=" " alt="" coords="664,63,844,105"/>
+<area shape="rect" id="node9" href="$d0/d14/classprocess_1_1Signal.html#ae2f181489d65db97298a2628d3c54033" title=" " alt="" coords="667,129,841,156"/>
+<area shape="rect" id="node7" href="$d0/d14/classprocess_1_1Signal.html#abe0dedad0c7dcc1d6e5d1cd44a05b215" title=" " alt="" coords="892,45,1093,72"/>
+<area shape="rect" id="node8" href="$d0/d14/classprocess_1_1Signal.html#a02a8df5c7fe6e7c20d9c0665164e1421" title=" " alt="" coords="910,96,1075,123"/>
 </map>

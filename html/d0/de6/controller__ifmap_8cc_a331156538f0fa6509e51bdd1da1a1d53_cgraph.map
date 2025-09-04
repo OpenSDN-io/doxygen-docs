@@ -1,9 +1,11 @@
 <map id="GetActivePeer" name="GetActivePeer">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a2b492dbf41b1595d05c65e164bcf8262" title="Agent::ifmap_active\l_xmpp_server_index" alt="" coords="201,5,359,46"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a4771ad79ea5a22b9ac8f222093760a4f" title="Agent::controller_xmpp\l_channel" alt="" coords="710,93,885,134"/>
-<area shape="rect" id="node4" href="$da/d25/classAgentXmppChannel.html#a622420e1469eead61befd5b18a92cfad" title="AgentXmppChannel::IsBgpPeer\lActive" alt="" coords="168,187,392,229"/>
-<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#a6ff3d874b37b88d019cd5e5a368a3957" title="AgentXmppChannel::IsXmpp\lChannelActive" alt="" coords="447,122,655,163"/>
-<area shape="rect" id="node6" href="$da/d25/classAgentXmppChannel.html#a541709c09b761c8df1ada7d257d11da8" title="AgentXmppChannel::GetXmpp\lChannel" alt="" coords="441,187,661,229"/>
-<area shape="rect" id="node7" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title="AgentXmppChannel::bgp\l_peer_id" alt="" coords="459,253,642,294"/>
-<area shape="rect" id="node8" href="$d6/d81/classXmppChannel.html#a66dac476634cb503503565a8421c1531" title="XmppChannel::GetPeerState" alt="" coords="447,319,654,345"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,70,111,97"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a12ddcb35781c812a632536f2689ba8c6" title=" " alt="" coords="674,5,830,47"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#aef1aaa7e34a6267c6d627d421dd34635" title=" " alt="" coords="191,63,333,104"/>
+<area shape="rect" id="node4" href="$da/d25/classAgentXmppChannel.html#a622420e1469eead61befd5b18a92cfad" title=" " alt="" coords="159,153,365,195"/>
+<area shape="rect" id="node5" href="$da/d25/classAgentXmppChannel.html#a041fde0d9d06b33868f20754b53cabb2" title=" " alt="" coords="663,86,841,113"/>
+<area shape="rect" id="node6" href="$da/d25/classAgentXmppChannel.html#ab089c3399e4158ef8e80d256c3f02e01" title=" " alt="" coords="430,167,598,208"/>
+<area shape="rect" id="node7" href="$d6/d81/classXmppChannel.html#a66dac476634cb503503565a8421c1531" title=" " alt="" coords="419,233,609,259"/>
+<area shape="rect" id="node8" href="$da/d25/classAgentXmppChannel.html#a541709c09b761c8df1ada7d257d11da8" title=" " alt="" coords="413,284,615,325"/>
+<area shape="rect" id="node9" href="$da/d25/classAgentXmppChannel.html#a6ff3d874b37b88d019cd5e5a368a3957" title=" " alt="" coords="419,49,609,91"/>
 </map>

@@ -1,18 +1,19 @@
 <map id="SandeshBuffer::operator=" name="SandeshBuffer::operator=">
-<area shape="rect" id="node2" href="$de/d75/classSandesh.html#abd061698636ac587f4da71eca3b367ba" title="Sandesh::set_context" alt="" coords="257,5,418,32"/>
-<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a82d424ac514c907fee91a789e8adc462" title="Sandesh::context" alt="" coords="489,31,623,57"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html#acb34588c34eb1890464156ecd1c23dd5" title="Sandesh::set_timestamp" alt="" coords="246,107,429,133"/>
-<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a2bde5a55731f50cf8f5fe120030fa35d" title="Sandesh::timestamp" alt="" coords="478,132,634,159"/>
-<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a24a58160cd65636b0d9871e702f52536" title="Sandesh::set_scope" alt="" coords="262,208,413,235"/>
-<area shape="rect" id="node7" href="$de/d75/classSandesh.html#a9796093f94d8d2d9deee850d16e4d6c7" title="Sandesh::scope" alt="" coords="495,233,617,260"/>
-<area shape="rect" id="node8" href="$de/d75/classSandesh.html#a08afff799b7210cf9c8bd5c0fcc7e34f" title="Sandesh::set_hints" alt="" coords="265,309,409,336"/>
-<area shape="rect" id="node9" href="$de/d75/classSandesh.html#a6ec08a02c1c7951b9d703c09e8c5264e" title="Sandesh::hints" alt="" coords="497,335,615,361"/>
-<area shape="rect" id="node10" href="$de/d75/classSandesh.html#a4f869eec5c05726a89a2b85a7fc9e896" title="Sandesh::set_type" alt="" coords="267,411,408,437"/>
-<area shape="rect" id="node11" href="$de/d75/classSandesh.html#a9d074ddc0866c45b028a81feaf91a265" title="Sandesh::type" alt="" coords="499,436,613,463"/>
-<area shape="rect" id="node12" href="$de/d75/classSandesh.html#a9b7bd2763eb163ad60232faf4e5b747b" title="Sandesh::set_level" alt="" coords="265,512,409,539"/>
-<area shape="rect" id="node13" href="$de/d75/classSandesh.html#a50900d0bb0a317f5eeab20855e7c3e3d" title="Sandesh::level" alt="" coords="497,551,615,577"/>
-<area shape="rect" id="node14" href="$de/d75/classSandesh.html#ac36a467ab57e7e7086d4e8c74343e0d6" title="Sandesh::set_category" alt="" coords="253,613,422,640"/>
-<area shape="rect" id="node15" href="$de/d75/classSandesh.html#a023dc4fec918d309f10c3401bcd5f7f4" title="Sandesh::category" alt="" coords="485,627,627,653"/>
-<area shape="rect" id="node16" href="$de/d75/classSandesh.html#a2a869eedfdc202b6eaf86ae9c160d5f3" title="Sandesh::set_name" alt="" coords="263,715,412,741"/>
-<area shape="rect" id="node17" href="$de/d75/classSandesh.html#a29c9791bca50ddd1413522474c24f136" title="Sandesh::Name" alt="" coords="275,765,399,792"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,376,176,403"/>
+<area shape="rect" id="node2" href="$de/d75/classSandesh.html#aa8ea8445b5dea62169a6d8d1437a68b2" title=" " alt="" coords="444,35,576,61"/>
+<area shape="rect" id="node3" href="$de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3" title=" " alt="" coords="448,111,572,137"/>
+<area shape="rect" id="node4" href="$de/d75/classSandesh.html#a8acd8f284ebdc4cb4911168e25d10753" title=" " alt="" coords="455,275,565,301"/>
+<area shape="rect" id="node5" href="$de/d75/classSandesh.html#a4135c8c926b2895cb698c14af5ea2730" title=" " alt="" coords="457,376,563,403"/>
+<area shape="rect" id="node6" href="$de/d75/classSandesh.html#a85f528a7d72464575432b1be8e718253" title=" " alt="" coords="249,199,365,225"/>
+<area shape="rect" id="node7" href="$de/d75/classSandesh.html#abaf2cc1084b90af3bc6ad2ad0ac6b508" title=" " alt="" coords="452,503,568,529"/>
+<area shape="rect" id="node8" href="$de/d75/classSandesh.html#ac36a467ab57e7e7086d4e8c74343e0d6" title=" " alt="" coords="229,47,386,73"/>
+<area shape="rect" id="node9" href="$de/d75/classSandesh.html#abd061698636ac587f4da71eca3b367ba" title=" " alt="" coords="233,97,382,124"/>
+<area shape="rect" id="node10" href="$de/d75/classSandesh.html#a08afff799b7210cf9c8bd5c0fcc7e34f" title=" " alt="" coords="240,300,375,327"/>
+<area shape="rect" id="node11" href="$de/d75/classSandesh.html#a9b7bd2763eb163ad60232faf4e5b747b" title=" " alt="" coords="241,351,373,377"/>
+<area shape="rect" id="node12" href="$de/d75/classSandesh.html#a2a869eedfdc202b6eaf86ae9c160d5f3" title=" " alt="" coords="238,503,377,529"/>
+<area shape="rect" id="node13" href="$de/d75/classSandesh.html#a24a58160cd65636b0d9871e702f52536" title=" " alt="" coords="237,553,378,580"/>
+<area shape="rect" id="node14" href="$de/d75/classSandesh.html#acb34588c34eb1890464156ecd1c23dd5" title=" " alt="" coords="224,604,391,631"/>
+<area shape="rect" id="node15" href="$de/d75/classSandesh.html#a5350fd5cfa721f724ae4a12d86261f04" title=" " alt="" coords="439,629,581,656"/>
+<area shape="rect" id="node16" href="$de/d75/classSandesh.html#a4f869eec5c05726a89a2b85a7fc9e896" title=" " alt="" coords="242,705,373,732"/>
+<area shape="rect" id="node17" href="$de/d75/classSandesh.html#aae7277c6f60f54cfaec960867cf9716f" title=" " alt="" coords="457,731,563,757"/>
 </map>

@@ -1,14 +1,15 @@
 <map id="DnsAgentXmppChannelManager::GetAgentData" name="DnsAgentXmppChannelManager::GetAgentData">
-<area shape="rect" id="node2" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title="XmppChannel::ToString" alt="" coords="321,5,495,32"/>
-<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title="XmppChannel::connection" alt="" coords="579,220,771,247"/>
-<area shape="rect" id="node4" href="$d0/d64/classXmppConnection.html#a91a31f2086051b21b814d75b802c3c64" title="XmppConnection::endpoint" alt="" coords="309,107,507,133"/>
-<area shape="rect" id="node5" href="$d0/d64/classXmppConnection.html#ab7387f2469c424bd90b98b58ab3623a7" title="XmppConnection::local\l_endpoint" alt="" coords="322,158,494,199"/>
-<area shape="rect" id="node6" href="$d6/d81/classXmppChannel.html#afddbdcdf6dcf877f0b1ac8295ee86298" title="XmppChannel::StateName" alt="" coords="311,224,505,251"/>
-<area shape="rect" id="node7" href="$d6/d81/classXmppChannel.html#a0ed333f7c573a5878bf3fd40b15566ab" title="XmppChannel::LastEvent" alt="" coords="315,275,501,301"/>
-<area shape="rect" id="node8" href="$d6/d81/classXmppChannel.html#aa787f2420f27dcb86ffd384838df0458" title="XmppChannel::LastStateName" alt="" coords="297,325,519,352"/>
-<area shape="rect" id="node9" href="$d6/d81/classXmppChannel.html#ac5b33a862d1e2fd020d94194446de2ce" title="XmppChannel::LastStateChangeAt" alt="" coords="285,376,531,403"/>
-<area shape="rect" id="node10" href="$dd/d1d/classDnsAgentXmppChannelManager.html#a263a959d0b4346f8e40a9026a25dced8" title="DnsAgentXmppChannelManager\l::ChannelToDscp" alt="" coords="292,427,524,469"/>
-<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#ac909e1659d9b3909aeb00ef132afd30f" title="XmppConnection::session" alt="" coords="579,409,770,436"/>
-<area shape="rect" id="node12" href="$d2/d0e/classTcpSession.html#ade7e91eb4d5204c732f67c83af57dfaf" title="TcpSession::GetDscpValue" alt="" coords="579,460,771,487"/>
-<area shape="rect" id="node13" href="$d2/d0e/classTcpSession.html#a8d270fecb7e74047bce4ca1aad801a4c" title="TcpSession::socket" alt="" coords="819,460,963,487"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,219,217,261"/>
+<area shape="rect" id="node2" href="$dd/d1d/classDnsAgentXmppChannelManager.html#a6909a5dbd30fb5c3dd60761f27fb4253" title=" " alt="" coords="273,59,485,101"/>
+<area shape="rect" id="node3" href="$d6/d81/classXmppChannel.html#a167084abe090dd638f2b774b46cd1980" title=" " alt="" coords="544,9,719,36"/>
+<area shape="rect" id="node7" href="$d0/d64/classXmppConnection.html#a6749b758a9b0f4588c681461f677df1f" title=" " alt="" coords="289,125,468,152"/>
+<area shape="rect" id="node8" href="$d6/d81/classXmppChannel.html#a0ed333f7c573a5878bf3fd40b15566ab" title=" " alt="" coords="293,176,464,203"/>
+<area shape="rect" id="node9" href="$d6/d81/classXmppChannel.html#ac5b33a862d1e2fd020d94194446de2ce" title=" " alt="" coords="265,227,492,253"/>
+<area shape="rect" id="node10" href="$d6/d81/classXmppChannel.html#aa787f2420f27dcb86ffd384838df0458" title=" " alt="" coords="277,277,480,304"/>
+<area shape="rect" id="node11" href="$d0/d64/classXmppConnection.html#a56e2397112d12ec025359195bd9dd477" title=" " alt="" coords="300,329,457,370"/>
+<area shape="rect" id="node12" href="$d6/d81/classXmppChannel.html#afddbdcdf6dcf877f0b1ac8295ee86298" title=" " alt="" coords="289,395,468,421"/>
+<area shape="rect" id="node13" href="$d6/d81/classXmppChannel.html#a4f9217ba7fbc062d8a4f0a3cf8993adf" title=" " alt="" coords="299,445,459,472"/>
+<area shape="rect" id="node4" href="$d2/d0e/classTcpSession.html#a40bcbbe1ebbdb012fafb0da72289102f" title=" " alt="" coords="540,64,723,91"/>
+<area shape="rect" id="node6" href="$d0/d64/classXmppConnection.html#a179ccbb9248fb76dde8e561d3bebd3a5" title=" " alt="" coords="544,115,719,141"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html#a57ef8832dcd60314f1d8b562bbcc656c" title=" " alt="" coords="771,64,907,91"/>
 </map>

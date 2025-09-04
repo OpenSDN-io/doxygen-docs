@@ -2,7 +2,7 @@ var structDhcpv6Options =
 [
     [ "AddLen", "d1/d75/structDhcpv6Options.html#a39b416a3c1897fd70bb662070b45366c", null ],
     [ "AppendData", "d1/d75/structDhcpv6Options.html#ac226afb73d66f32c0992c1b55183f2c4", null ],
-    [ "GetLen", "d1/d75/structDhcpv6Options.html#a900c0ac6caf21313a2f77baec44d4469", null ],
+    [ "GetLen", "d1/d75/structDhcpv6Options.html#ae885090c36741561e40f45266e0ad5ac", null ],
     [ "GetNextOptionPtr", "d1/d75/structDhcpv6Options.html#a9222e8855a694465ad4e8d8bda564072", null ],
     [ "WriteData", "d1/d75/structDhcpv6Options.html#ac8af1c35d9a6238d76f689acb9847199", null ],
     [ "code", "d1/d75/structDhcpv6Options.html#a46fe81fe3634c945c41a8f40ea5b4509", null ],

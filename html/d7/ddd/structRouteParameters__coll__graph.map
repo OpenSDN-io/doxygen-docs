@@ -1,5 +1,8 @@
 <map id="RouteParameters" name="RouteParameters">
-<area shape="rect" id="node2" href="$d8/d35/classPathPreference.html" title="PathPreference" alt="" coords="20,104,140,131"/>
-<area shape="rect" id="node5" href="$d3/df5/classMacAddress.html" title="MacAddress" alt="" coords="171,104,271,131"/>
-<area shape="rect" id="node6" href="$d1/db0/classEcmpLoadBalance.html" title="EcmpLoadBalance" alt="" coords="420,104,561,131"/>
+<area shape="rect" id="node1" title="A structure to hold path parameters during the transfer (routes leaking) of data between VRF instance..." alt="" coords="149,201,274,228"/>
+<area shape="rect" id="node2" href="$d8/d35/classPathPreference.html" title=" " alt="" coords="19,103,131,130"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="84,5,152,32"/>
+<area shape="rect" id="node5" href="$d3/df5/classMacAddress.html" title=" " alt="" coords="160,103,255,130"/>
+<area shape="rect" id="node6" href="$d1/db0/classEcmpLoadBalance.html" title=" " alt="" coords="399,103,530,130"/>
 </map>

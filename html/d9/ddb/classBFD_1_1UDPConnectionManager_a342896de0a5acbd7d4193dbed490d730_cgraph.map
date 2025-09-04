@@ -1,6 +1,7 @@
 <map id="BFD::UDPConnectionManager::SendPacket" name="BFD::UDPConnectionManager::SendPacket">
-<area shape="rect" id="node2" href="$d2/d88/classUdpServer.html#ac173eace4ebe7db29752528d157e7902" title="UdpServer::StartSend" alt="" coords="267,47,429,74"/>
-<area shape="rect" id="node3" href="$d2/d88/classUdpServer.html#ad02debf50dc921bec09f0a44ddc85439" title="UdpServer::HandleSendInternal" alt="" coords="477,22,704,49"/>
-<area shape="rect" id="node4" href="$d2/d88/classUdpServer.html#afcaeac5f5ec7eb2bae12afa0be5a0f49" title="UdpServer::DeallocateBuffer" alt="" coords="977,22,1183,49"/>
-<area shape="rect" id="node5" href="$d2/d88/classUdpServer.html#af5be43aff50f7ad63d93507eb5249c82" title="UdpServer::HandleSend" alt="" coords="752,22,928,49"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$d2/d88/classUdpServer.html#ac173eace4ebe7db29752528d157e7902" title=" " alt="" coords="256,13,407,39"/>
+<area shape="rect" id="node3" href="$d2/d88/classUdpServer.html#afcaeac5f5ec7eb2bae12afa0be5a0f49" title=" " alt="" coords="920,38,1108,65"/>
+<area shape="rect" id="node4" href="$d2/d88/classUdpServer.html#ad02debf50dc921bec09f0a44ddc85439" title=" " alt="" coords="455,38,661,65"/>
+<area shape="rect" id="node5" href="$d2/d88/classUdpServer.html#af5be43aff50f7ad63d93507eb5249c82" title=" " alt="" coords="709,89,872,115"/>
 </map>

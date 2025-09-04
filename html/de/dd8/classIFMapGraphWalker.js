@@ -11,7 +11,7 @@ var classIFMapGraphWalker =
     [ "CleanupInterest", "de/dd8/classIFMapGraphWalker.html#aab561a5417204bde6f5fa7e0ddb64170", null ],
     [ "DeleteNewReachableNodesTracker", "de/dd8/classIFMapGraphWalker.html#aa81cc47abd0512fc6a45f9a1797bce74", null ],
     [ "FilterNeighbor", "de/dd8/classIFMapGraphWalker.html#a9ed71ce17f58cb8f051e616a00de25de", null ],
-    [ "get_traversal_white_list", "de/dd8/classIFMapGraphWalker.html#a5e6f65d16166422f9920905bb2e58b14", null ],
+    [ "get_traversal_white_list", "de/dd8/classIFMapGraphWalker.html#a1df927f4f86f0ea85247f112626d9919", null ],
     [ "JoinVertex", "de/dd8/classIFMapGraphWalker.html#a0dd7fe23c35104b26a436b472d91074b", null ],
     [ "LinkAdd", "de/dd8/classIFMapGraphWalker.html#a1f63f07d8f9512da86b7b03358982777", null ],
     [ "LinkDeleteWalk", "de/dd8/classIFMapGraphWalker.html#aaa012e0c95aa4deb91e49c75b158835d", null ],

@@ -1,7 +1,8 @@
 <map id="etcdserverpb::DeleteRangeResponse::ByteSizeLong" name="etcdserverpb::DeleteRangeResponse::ByteSizeLong">
-<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a03f2914506a10821273206240bf8b36d" title="etcdserverpb::DeleteRange\lResponse::prev_kvs_size" alt="" coords="254,5,453,46"/>
-<area shape="rect" id="node3" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a0b18573242c238729e93254b09cd9651" title="etcdserverpb::DeleteRange\lResponse::prev_kvs" alt="" coords="254,70,453,111"/>
-<area shape="rect" id="node4" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a628dba76ee8a6cac51a7c87ff43fe547" title="etcdserverpb::DeleteRange\lResponse::has_header" alt="" coords="254,135,453,177"/>
-<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a687c3a203f04d8a2c167abb948188f1e" title="etcdserverpb::DeleteRange\lResponse::deleted" alt="" coords="254,201,453,242"/>
-<area shape="rect" id="node5" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title="etcdserverpb::ResponseHeader\l::internal_default_instance" alt="" coords="501,135,725,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,187,145"/>
+<area shape="rect" id="node2" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a30d3c44d2214c916ef5d8398f347b688" title=" " alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node3" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a24dd10eee2195a1587e05281ff828759" title=" " alt="" coords="235,71,416,112"/>
+<area shape="rect" id="node5" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a530b6f89ff9756d353426da3118c79d4" title=" " alt="" coords="235,136,416,177"/>
+<area shape="rect" id="node6" href="$d4/d7a/classetcdserverpb_1_1DeleteRangeResponse.html#a032fcd1e24385ebb2d41e7cb3a1fad07" title=" " alt="" coords="235,201,416,243"/>
+<area shape="rect" id="node4" href="$d6/d60/classetcdserverpb_1_1ResponseHeader.html#a0ee2fbc235161d1642cbc35403114e88" title=" " alt="" coords="464,71,671,112"/>
 </map>

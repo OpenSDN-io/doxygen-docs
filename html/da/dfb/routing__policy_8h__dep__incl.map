@@ -1,8 +1,9 @@
 <map id="routing_policy.h" name="routing_policy.h">
-<area shape="rect" id="node2" href="$de/dec/bgp__factory_8cc.html" title="bgp_factory.cc" alt="" coords="5,80,120,107"/>
-<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title="bgp_server.cc" alt="" coords="145,80,255,107"/>
-<area shape="rect" id="node4" href="$dd/db1/bgp__show__routing__instance_8cc.html" title="bgp_show_routing_instance.cc" alt="" coords="279,80,499,107"/>
-<area shape="rect" id="node5" href="$d3/d46/routing__instance_8cc.html" title="routing_instance.cc" alt="" coords="523,80,671,107"/>
-<area shape="rect" id="node6" href="$d0/dd4/routing__policy_8cc.html" title="routing_policy.cc" alt="" coords="696,80,827,107"/>
-<area shape="rect" id="node7" href="$dd/d5f/show__routing__policy_8cc.html" title="show_routing_policy.cc" alt="" coords="851,80,1021,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="411,5,523,32"/>
+<area shape="rect" id="node2" href="$de/dec/bgp__factory_8cc.html" title=" " alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$d4/d87/bgp__server_8cc.html" title=" " alt="" coords="139,80,245,107"/>
+<area shape="rect" id="node4" href="$dd/db1/bgp__show__routing__instance_8cc.html" title=" " alt="" coords="269,80,472,107"/>
+<area shape="rect" id="node5" href="$d3/d46/routing__instance_8cc.html" title=" " alt="" coords="497,80,631,107"/>
+<area shape="rect" id="node6" href="$d0/dd4/routing__policy_8cc.html" title=" " alt="" coords="655,80,774,107"/>
+<area shape="rect" id="node7" href="$dd/d5f/show__routing__policy_8cc.html" title=" " alt="" coords="799,80,956,107"/>
 </map>

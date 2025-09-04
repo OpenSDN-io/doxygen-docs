@@ -1,7 +1,12 @@
 <map id="ConfigAmqpClient::RabbitMQReader" name="ConfigAmqpClient::RabbitMQReader">
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies. " alt="" coords="392,616,443,643"/>
-<area shape="rect" id="node3" href="$d4/dff/classConfigAmqpClient.html" title="ConfigAmqpClient" alt="" coords="467,616,605,643"/>
-<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html" title="ConfigClientManager" alt="" coords="285,525,443,552"/>
-<area shape="rect" id="node9" href="$da/dbf/structConfigClientOptions.html" title="ConfigClientOptions" alt="" coords="386,244,536,271"/>
-<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title="EventManager" alt="" coords="5,244,120,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="7,703,180,744"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="5,613,56,640"/>
+<area shape="rect" id="node3" href="$d4/dff/classConfigAmqpClient.html" title=" " alt="" coords="232,613,360,640"/>
+<area shape="rect" id="node4" href="$de/d27/classConfigClientManager.html" title=" " alt="" coords="345,524,489,551"/>
+<area shape="rect" id="node5" title=" " alt="" coords="227,5,282,32"/>
+<area shape="rect" id="node9" href="$da/dbf/structConfigClientOptions.html" title=" " alt="" coords="399,243,537,269"/>
+<area shape="rect" id="node6" title=" " alt="" coords="561,243,620,269"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="705,243,810,269"/>
+<area shape="rect" id="node8" title=" " alt="" coords="716,5,799,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="513,524,569,551"/>
 </map>

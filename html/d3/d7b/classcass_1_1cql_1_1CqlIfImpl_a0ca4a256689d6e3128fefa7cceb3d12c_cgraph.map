@@ -1,7 +1,8 @@
 <map id="cass::cql::CqlIfImpl::DisconnectSchemaSync" name="cass::cql::CqlIfImpl::DisconnectSchemaSync">
-<area shape="rect" id="node2" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#acc76137df0a964638cc7eb76411cf181" title="cass::cql::interface\l::CassLibrary::CassSessionClose" alt="" coords="241,11,471,53"/>
-<area shape="rect" id="node3" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#ade2958745de7afb1a6b7000d1997d955" title="cass::cql::impl::SyncFutureWait" alt="" coords="245,77,467,104"/>
-<area shape="rect" id="node4" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title="cass::cql::interface\l::CassLibrary::CassFutureWait" alt="" coords="537,5,751,46"/>
-<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title="cass::cql::interface\l::CassLibrary::CassFutureErrorCode" alt="" coords="520,70,768,111"/>
-<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title="cass::cql::interface\l::CassLibrary::CassFutureError\lMessage" alt="" coords="537,136,751,192"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,180,91"/>
+<area shape="rect" id="node2" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#acc76137df0a964638cc7eb76411cf181" title=" " alt="" coords="228,20,447,61"/>
+<area shape="rect" id="node3" href="$d9/dae/namespacecass_1_1cql_1_1impl.html#ade2958745de7afb1a6b7000d1997d955" title=" " alt="" coords="233,86,441,113"/>
+<area shape="rect" id="node4" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab6be28a54188881dc057da8fc603c478" title=" " alt="" coords="495,5,728,47"/>
+<area shape="rect" id="node5" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#af7f9071bbf6715a49a47e7dbd0c1bfc4" title=" " alt="" coords="510,71,713,127"/>
+<area shape="rect" id="node6" href="$d0/de8/classcass_1_1cql_1_1interface_1_1CassLibrary.html#ab0b3e0bc55b148b9a94f3c890d6dfd94" title=" " alt="" coords="511,152,711,193"/>
 </map>

@@ -1,5 +1,6 @@
 <map id="PktInfo::AllocPacketBuffer" name="PktInfo::AllocPacketBuffer">
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a336b21bbbce890ea37d6e47abaac3900" title="Agent::pkt" alt="" coords="294,5,383,32"/>
-<area shape="rect" id="node3" href="$d3/d55/classPktModule.html#a135bd5f128027bdc1a13578b30af85cc" title="PktModule::packet_buffer\l_manager" alt="" coords="245,57,432,98"/>
-<area shape="rect" id="node4" href="$d0/dd9/classPacketBufferManager.html#a5022c34278d3c2e42153011c70120324" title="PacketBufferManager\l::Allocate" alt="" coords="259,122,419,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,180,105"/>
+<area shape="rect" id="node2" href="$d0/dd9/classPacketBufferManager.html#a5022c34278d3c2e42153011c70120324" title=" " alt="" coords="239,5,386,47"/>
+<area shape="rect" id="node3" href="$d3/d55/classPktModule.html#a14b8aff76051e5fb6052cd48b34cfecb" title=" " alt="" coords="228,71,397,112"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="271,137,354,163"/>
 </map>

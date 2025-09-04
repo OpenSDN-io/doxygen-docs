@@ -8,7 +8,7 @@ var classPkt0Socket =
     [ "DISALLOW_COPY_AND_ASSIGN", "db/d13/classPkt0Socket.html#addc97ae450ab720ffc4467e86b6f8e37", null ],
     [ "InitControlInterface", "db/d13/classPkt0Socket.html#a523b9355fc980e7001553394c3a023c9", null ],
     [ "IoShutdownControlInterface", "db/d13/classPkt0Socket.html#aacde0b44c4f5715483ddddc68560ab35", null ],
-    [ "Name", "db/d13/classPkt0Socket.html#ac8310431dd276eb8a1c655e8ad8555ec", null ],
+    [ "Name", "db/d13/classPkt0Socket.html#ac2c457cc3d8386413f16008466f0c1a5", null ],
     [ "OnTimeout", "db/d13/classPkt0Socket.html#a51e5fcf1782ae55a41cd3914edf55262", null ],
     [ "ReadHandler", "db/d13/classPkt0Socket.html#a2cc1bd84f7eabd771565f064d137caf5", null ],
     [ "Send", "db/d13/classPkt0Socket.html#a95cd76b6ca59e05fbd499e740f83afbc", null ],

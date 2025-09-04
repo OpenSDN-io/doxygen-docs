@@ -1,6 +1,7 @@
 <map id="InstanceManager::StopStaleNetNS" name="InstanceManager::StopStaleNetNS">
-<area shape="rect" id="node2" href="$d3/dbc/structServiceInstance_1_1Properties.html#a48050dbc99890f3524204f4c58746845" title="ServiceInstance::Properties\l::ServiceTypeString" alt="" coords="257,5,455,46"/>
-<area shape="rect" id="node4" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title="UuidToString" alt="" coords="304,71,408,97"/>
-<area shape="rect" id="node5" href="$de/d18/agent__cmn_8h.html#ad57d4dd8346a607bdfb4175e4a2d1378" title="CloseTaskFds" alt="" coords="301,121,411,148"/>
-<area shape="rect" id="node3" href="$d5/dbe/classServiceInstanceTypesMapping.html#afd362185ba59597a84d0e24507cfa68f" title="ServiceInstanceTypesMapping\l::IntServiceTypeToStr" alt="" coords="505,5,722,46"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,192,98"/>
+<area shape="rect" id="node2" href="$de/d18/agent__cmn_8h.html#ad57d4dd8346a607bdfb4175e4a2d1378" title=" " alt="" coords="279,5,386,32"/>
+<area shape="rect" id="node3" href="$d3/dbc/structServiceInstance_1_1Properties.html#ac076e647da6d8a1dff96712085e54f00" title=" " alt="" coords="240,57,425,98"/>
+<area shape="rect" id="node5" href="$dd/d70/string__util_8h.html#aa7110ae68a8c5c0271ed60066eab52d6" title=" " alt="" coords="284,123,381,149"/>
+<area shape="rect" id="node4" href="$d5/dbe/classServiceInstanceTypesMapping.html#afd362185ba59597a84d0e24507cfa68f" title=" " alt="" coords="473,57,675,98"/>
 </map>

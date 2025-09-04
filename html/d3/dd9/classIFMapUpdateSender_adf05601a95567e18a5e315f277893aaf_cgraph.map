@@ -1,51 +1,52 @@
 <map id="IFMapUpdateSender::ProcessUpdate" name="IFMapUpdateSender::ProcessUpdate">
-<area shape="rect" id="node2" href="$d3/dd9/classIFMapUpdateSender.html#a9fb0b5760f0f6f52978883e9db8619d3" title="IFMapUpdateSender::\lLogAndCountSentUpdate" alt="" coords="231,434,415,475"/>
-<area shape="rect" id="node31" href="$d5/d2f/classIFMapMessage.html#a93bdb60edadb4c30894710506f745ee2" title="IFMapMessage::EncodeUpdate" alt="" coords="213,980,432,1007"/>
-<area shape="rect" id="node35" href="$d0/d3d/classIFMapUpdate.html#a519b84fb0494a75830adccc4304a2661" title="IFMapUpdate::AdvertiseReset" alt="" coords="216,1081,429,1108"/>
-<area shape="rect" id="node37" href="$d0/d3d/classIFMapUpdate.html#a7043bc45c06555b7c5df2b5306d7a909" title="IFMapUpdate::advertise" alt="" coords="516,1233,692,1260"/>
-<area shape="rect" id="node38" href="$d6/dd0/classBitSet.html#a582ba5a71e2add2ef1450ec8e5848669" title="BitSet::empty" alt="" coords="833,1705,943,1732"/>
-<area shape="rect" id="node39" href="$db/d6a/classIFMapUpdateQueue.html#a46fa7de186ea5a76bae8f78f38c6de9d" title="IFMapUpdateQueue::Dequeue" alt="" coords="215,1132,430,1159"/>
-<area shape="rect" id="node41" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title="IFMapServer::exporter" alt="" coords="240,1284,405,1311"/>
-<area shape="rect" id="node42" href="$d3/d31/classIFMapExporter.html#a47390ff2570ac0187950b67748cff96b" title="IFMapExporter::StateUpdate\lOnDequeue" alt="" coords="221,1479,425,1521"/>
-<area shape="rect" id="node12" href="$d7/dcd/structIFMapListEntry.html#a67b6e33a4c669a4d4abd1c7446306309" title="IFMapListEntry::IsDelete" alt="" coords="799,1107,977,1133"/>
-<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a42ea33e84e32797ca6d7f94a7fe1a1a0" title="BitSet::count" alt="" coords="551,188,657,215"/>
-<area shape="rect" id="node5" href="$d0/d3d/classIFMapUpdate.html#abd26bfc295fd2e2754ce8461981e0103" title="IFMapUpdate::ConfigName" alt="" coords="507,340,701,367"/>
-<area shape="rect" id="node9" href="$d7/dcd/structIFMapListEntry.html#af6363c72b8faa00580be0d7f83af9fc4" title="IFMapListEntry::TypeToString" alt="" coords="501,711,707,737"/>
-<area shape="rect" id="node13" href="$d6/dd0/classBitSet.html#a322bcc887bafda7adde98bc73c0b4da3" title="BitSet::find_first" alt="" coords="541,289,667,316"/>
-<area shape="rect" id="node16" href="$d4/db2/classIFMapServer.html#a5c452999c3e86816b124c660913a8775" title="IFMapServer::GetClient" alt="" coords="519,391,689,417"/>
-<area shape="rect" id="node18" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title="IFMapClient::identifier" alt="" coords="522,492,686,519"/>
-<area shape="rect" id="node19" href="$d0/dcd/classIFMapClient.html#a2276dbefc09683f8d5a6657ec5c44fb0" title="IFMapClient::name" alt="" coords="533,543,675,569"/>
-<area shape="rect" id="node20" href="$d0/d3d/classIFMapUpdate.html#aa6b26c61bc3d8514795e161efe2aae06" title="IFMapUpdate::IsNode" alt="" coords="524,441,684,468"/>
-<area shape="rect" id="node11" href="$d7/dcd/structIFMapListEntry.html#a3211b591c073d43a852bbe29ebd813b2" title="IFMapListEntry::IsUpdate" alt="" coords="797,795,979,821"/>
-<area shape="rect" id="node22" href="$d0/dcd/classIFMapClient.html#a6eb4365d81f273e84e2b89597660d339" title="IFMapClient::incr_update\l_nodes_sent" alt="" coords="513,645,695,686"/>
-<area shape="rect" id="node23" href="$d0/dcd/classIFMapClient.html#a623809e9e8e069afa172f63eb78b0ece" title="IFMapClient::incr_delete\l_nodes_sent" alt="" coords="515,762,693,803"/>
-<area shape="rect" id="node24" href="$d0/d3d/classIFMapUpdate.html#aa2530f56faa4d682a6dd3be8d7874d7b" title="IFMapUpdate::IsLink" alt="" coords="527,5,681,32"/>
-<area shape="rect" id="node26" href="$d0/dcd/classIFMapClient.html#af9e896f54f83a701bde769bd6feb9e62" title="IFMapClient::incr_update\l_links_sent" alt="" coords="513,57,695,98"/>
-<area shape="rect" id="node27" href="$d0/dcd/classIFMapClient.html#a114759a5d4bc30a2ce4c5ca92c1cbfce" title="IFMapClient::incr_delete\l_links_sent" alt="" coords="515,122,693,163"/>
-<area shape="rect" id="node28" href="$d6/dd0/classBitSet.html#a6b2fa995df62bc44f8ba8ce93207d883" title="BitSet::find_next" alt="" coords="539,239,669,265"/>
-<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a6eaedb0beae3e448dd71cf4f1ba090fe" title="num_bits_set" alt="" coords="833,87,943,113"/>
-<area shape="rect" id="node6" href="$d0/d3d/classIFMapUpdate.html#a9e5f5fa32ef6ab63c07112600f0b12b0" title="IFMapUpdate::data" alt="" coords="816,980,960,1007"/>
-<area shape="rect" id="node7" href="$dc/d17/classIFMapNode.html#a152db59d4ec5ceac0829d53ec60b3190" title="IFMapNode::ToString" alt="" coords="811,391,965,417"/>
-<area shape="rect" id="node8" href="$d0/dfa/classIFMapLink.html#a93ba589042b7a1894b2198b4d8df180b" title="IFMapLink::ToString" alt="" coords="815,340,961,367"/>
-<area shape="rect" id="node10" href="$d7/dcd/structIFMapListEntry.html#ad603dea1ad489822f6bf9c33b5e70adf" title="IFMapListEntry::IsMarker" alt="" coords="798,711,978,737"/>
-<area shape="rect" id="node14" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title="find_first_set64" alt="" coords="827,289,949,316"/>
-<area shape="rect" id="node15" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title="bit_position" alt="" coords="839,239,937,265"/>
-<area shape="rect" id="node17" href="$d6/dfd/classIndexMap.html#aa65a205c0eab9fc40112c03a93fb527f" title="IndexMap::end" alt="" coords="829,441,947,468"/>
-<area shape="rect" id="node21" href="$dc/d84/structIFMapObjectPtr.html#acf8dd3f2005a9df3f04b4bd541f23940" title="IFMapObjectPtr::IsNode" alt="" coords="801,492,975,519"/>
-<area shape="rect" id="node25" href="$dc/d84/structIFMapObjectPtr.html#a5661a4cd566698d44811b63a3d20f848" title="IFMapObjectPtr::IsLink" alt="" coords="805,5,971,32"/>
-<area shape="rect" id="node29" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title="block_index" alt="" coords="838,137,938,164"/>
-<area shape="rect" id="node30" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title="block_offset" alt="" coords="837,188,939,215"/>
-<area shape="rect" id="node32" href="$d5/d2f/classIFMapMessage.html#a4d43af009c009edf558f73b983dd30c1" title="IFMapMessage::EncodeNode" alt="" coords="501,879,707,905"/>
-<area shape="rect" id="node34" href="$d5/d2f/classIFMapMessage.html#aa21ac4a2a4bcbf1a797e31870db6a06f" title="IFMapMessage::EncodeLink" alt="" coords="505,1031,703,1057"/>
-<area shape="rect" id="node33" href="$dc/d17/classIFMapNode.html#a28b449ec45ce9267e361ec7c5ad925e6" title="IFMapNode::EncodeNodeDetail" alt="" coords="777,879,999,905"/>
-<area shape="rect" id="node36" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title="BitSet::Reset" alt="" coords="551,1081,657,1108"/>
-<area shape="rect" id="node40" href="$db/d6a/classIFMapUpdateQueue.html#aae0fe4f63a065d7ed5c3e3b85b3210d8" title="IFMapUpdateQueue::EraseFromList" alt="" coords="480,1132,728,1159"/>
-<area shape="rect" id="node43" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title="IFMapNode::table" alt="" coords="537,1487,671,1513"/>
-<area shape="rect" id="node44" href="$d8/d44/classDBEntryBase.html#aab0b2e94618217c6e5eccbdb59390b0a" title="DBEntryBase::GetState" alt="" coords="518,1537,690,1564"/>
-<area shape="rect" id="node45" href="$d3/d31/classIFMapExporter.html#a2f994de9938cac4f4b3736ae867e32c6" title="IFMapExporter::TableListenerId" alt="" coords="777,1788,999,1815"/>
-<area shape="rect" id="node46" href="$db/db7/classIFMapState.html#a17ad6aefd507f5abfef24a223f271b6c" title="IFMapState::advertised" alt="" coords="803,1843,973,1869"/>
-<area shape="rect" id="node47" href="$d3/d31/classIFMapExporter.html#a64c640a0fc34509c3d3193a9efa1c56e" title="IFMapExporter::StateAdvertised\lReset" alt="" coords="491,1589,717,1630"/>
-<area shape="rect" id="node48" href="$d3/d31/classIFMapExporter.html#acd6aef934351e766cce8f7160f362960" title="IFMapExporter::StateAdvertisedOr" alt="" coords="483,1655,725,1681"/>
-<area shape="rect" id="node49" href="$db/db7/classIFMapState.html#a0ddd30bb4df85ee76afaf5acacd996c3" title="IFMapState::Remove" alt="" coords="527,1385,681,1412"/>
-<area shape="rect" id="node50" href="$d3/d31/classIFMapExporter.html#a39d400b53d42988434159f7e586a6d9c" title="IFMapExporter::DeleteState\lIfAppropriate" alt="" coords="504,1807,704,1849"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1313,156,1354"/>
+<area shape="rect" id="node2" href="$d0/d3d/classIFMapUpdate.html#a459181fa2ae81d8aed16630beebbbd6a" title=" " alt="" coords="493,52,656,79"/>
+<area shape="rect" id="node3" href="$d0/d3d/classIFMapUpdate.html#a519b84fb0494a75830adccc4304a2661" title=" " alt="" coords="208,1599,407,1625"/>
+<area shape="rect" id="node5" href="$db/d6a/classIFMapUpdateQueue.html#a46fa7de186ea5a76bae8f78f38c6de9d" title=" " alt="" coords="208,1649,407,1676"/>
+<area shape="rect" id="node8" href="$d6/dd0/classBitSet.html#ac309ad4f38484237319441a86f1abc08" title=" " alt="" coords="791,153,893,180"/>
+<area shape="rect" id="node9" href="$d5/d2f/classIFMapMessage.html#a93bdb60edadb4c30894710506f745ee2" title=" " alt="" coords="204,743,411,769"/>
+<area shape="rect" id="node19" href="$d4/db2/classIFMapServer.html#a6114aefbae866b7400431442a9c624d1" title=" " alt="" coords="231,1700,384,1727"/>
+<area shape="rect" id="node20" href="$d7/dcd/structIFMapListEntry.html#a80c7c412df020f7c6b5b885fd3b3bf85" title=" " alt="" coords="758,1145,926,1172"/>
+<area shape="rect" id="node21" href="$d3/dd9/classIFMapUpdateSender.html#a9fb0b5760f0f6f52978883e9db8619d3" title=" " alt="" coords="222,1313,393,1354"/>
+<area shape="rect" id="node42" href="$d3/d31/classIFMapExporter.html#a47390ff2570ac0187950b67748cff96b" title=" " alt="" coords="212,365,403,406"/>
+<area shape="rect" id="node4" href="$d6/dd0/classBitSet.html#aa12d3d92544236ddbc1786b5e99e590b" title=" " alt="" coords="525,1817,625,1844"/>
+<area shape="rect" id="node6" href="$db/d6a/classIFMapUpdateQueue.html#aae0fe4f63a065d7ed5c3e3b85b3210d8" title=" " alt="" coords="459,1868,691,1895"/>
+<area shape="rect" id="node7" href="$d7/dcd/structIFMapListEntry.html#a635466443a666d3d0f06a6fa41920a9d" title=" " alt="" coords="773,1861,911,1902"/>
+<area shape="rect" id="node10" href="$d0/d3d/classIFMapUpdate.html#ac8e3b9f897e542e1df770d61a036e164" title=" " alt="" coords="775,692,909,719"/>
+<area shape="rect" id="node11" href="$d5/d2f/classIFMapMessage.html#aa21ac4a2a4bcbf1a797e31870db6a06f" title=" " alt="" coords="481,591,669,617"/>
+<area shape="rect" id="node16" href="$d5/d2f/classIFMapMessage.html#a4d43af009c009edf558f73b983dd30c1" title=" " alt="" coords="477,743,672,769"/>
+<area shape="rect" id="node18" href="$d7/dcd/structIFMapListEntry.html#a6ce43540ef807abdba54f76742367db2" title=" " alt="" coords="756,895,928,921"/>
+<area shape="rect" id="node12" href="$d0/dfa/classIFMapLink.html#a5d2e0114f45f1f477bd108e83bb71afe" title=" " alt="" coords="752,540,932,567"/>
+<area shape="rect" id="node13" href="$dc/d17/classIFMapNode.html#ad884719e2df5f5fd17bc540cd66c0dbd" title=" " alt="" coords="755,641,929,668"/>
+<area shape="rect" id="node14" href="$d0/dfa/classIFMapLink.html#a5314c085ed17ac55b8cd7cd43004846f" title=" " alt="" coords="779,591,905,617"/>
+<area shape="rect" id="node15" href="$d0/dfa/classIFMapLink.html#a10f439bd56f1ce03778d128ed6869718" title=" " alt="" coords="776,489,908,516"/>
+<area shape="rect" id="node17" href="$dc/d17/classIFMapNode.html#ad1446a293db95e1a532786105227bbee" title=" " alt="" coords="739,743,945,769"/>
+<area shape="rect" id="node22" href="$d0/d3d/classIFMapUpdate.html#abd26bfc295fd2e2754ce8461981e0103" title=" " alt="" coords="483,793,666,820"/>
+<area shape="rect" id="node24" href="$d6/dd0/classBitSet.html#afc7ec23717b096a3928ec0567f9a2c93" title=" " alt="" coords="525,1767,624,1793"/>
+<area shape="rect" id="node26" href="$d6/dd0/classBitSet.html#a582fcf1c56bbe37867274392602d875e" title=" " alt="" coords="516,1649,633,1676"/>
+<area shape="rect" id="node29" href="$d6/dd0/classBitSet.html#abf01ad1651c8e8bce9ec599bd65e6631" title=" " alt="" coords="515,1599,634,1625"/>
+<area shape="rect" id="node32" href="$d4/db2/classIFMapServer.html#a5c452999c3e86816b124c660913a8775" title=" " alt="" coords="495,1447,655,1473"/>
+<area shape="rect" id="node33" href="$d0/dcd/classIFMapClient.html#a6de4b0eaca4120904d5e28c45c2ea24e" title=" " alt="" coords="499,1497,650,1524"/>
+<area shape="rect" id="node34" href="$d0/dcd/classIFMapClient.html#a114759a5d4bc30a2ce4c5ca92c1cbfce" title=" " alt="" coords="493,1701,657,1742"/>
+<area shape="rect" id="node35" href="$d0/dcd/classIFMapClient.html#a623809e9e8e069afa172f63eb78b0ece" title=" " alt="" coords="493,1047,657,1089"/>
+<area shape="rect" id="node36" href="$d0/dcd/classIFMapClient.html#af9e896f54f83a701bde769bd6feb9e62" title=" " alt="" coords="491,1113,659,1154"/>
+<area shape="rect" id="node37" href="$d0/dcd/classIFMapClient.html#a6eb4365d81f273e84e2b89597660d339" title=" " alt="" coords="491,1178,659,1219"/>
+<area shape="rect" id="node38" href="$d0/d3d/classIFMapUpdate.html#aee1a01818611073590a7a6078c1a5b8b" title=" " alt="" coords="503,1244,647,1271"/>
+<area shape="rect" id="node39" href="$d0/d3d/classIFMapUpdate.html#a5aa875ef20e8583a83a2c3f9d4934205" title=" " alt="" coords="499,1345,650,1372"/>
+<area shape="rect" id="node40" href="$d0/dcd/classIFMapClient.html#a5d45f34895a519905f01d87fde864bce" title=" " alt="" coords="508,1396,641,1423"/>
+<area shape="rect" id="node41" href="$d7/dcd/structIFMapListEntry.html#af6363c72b8faa00580be0d7f83af9fc4" title=" " alt="" coords="477,996,672,1023"/>
+<area shape="rect" id="node23" href="$d0/dfa/classIFMapLink.html#a3006e62869ffbe0dd6b3c40243459d27" title=" " alt="" coords="773,793,911,820"/>
+<area shape="rect" id="node25" href="$db/d77/bitset_8cc.html#a6eaedb0beae3e448dd71cf4f1ba090fe" title=" " alt="" coords="792,1767,892,1793"/>
+<area shape="rect" id="node27" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title=" " alt="" coords="798,1624,886,1651"/>
+<area shape="rect" id="node28" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title=" " alt="" coords="786,1675,898,1701"/>
+<area shape="rect" id="node30" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="797,1523,887,1549"/>
+<area shape="rect" id="node31" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="796,1573,888,1600"/>
+<area shape="rect" id="node43" href="$db/db7/classIFMapState.html#ac974c7256a1e4100bdc14ec56a9ee0df" title=" " alt="" coords="763,259,921,285"/>
+<area shape="rect" id="node44" href="$d3/d31/classIFMapExporter.html#a39d400b53d42988434159f7e586a6d9c" title=" " alt="" coords="481,306,668,347"/>
+<area shape="rect" id="node45" href="$d3/d31/classIFMapExporter.html#aa1eebe7bec0c0b274e6b7d77496cbb13" title=" " alt="" coords="739,343,945,369"/>
+<area shape="rect" id="node46" href="$d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="493,255,656,281"/>
+<area shape="rect" id="node47" href="$db/db7/classIFMapState.html#a0ddd30bb4df85ee76afaf5acacd996c3" title=" " alt="" coords="502,423,647,449"/>
+<area shape="rect" id="node48" href="$d3/d31/classIFMapExporter.html#acd6aef934351e766cce8f7160f362960" title=" " alt="" coords="463,473,687,500"/>
+<area shape="rect" id="node49" href="$d3/d31/classIFMapExporter.html#a64c640a0fc34509c3d3193a9efa1c56e" title=" " alt="" coords="469,525,680,566"/>
+<area shape="rect" id="node50" href="$dc/d17/classIFMapNode.html#a08824e1f7cf7a549a3ae079c7aa13218" title=" " alt="" coords="511,103,638,129"/>
 </map>

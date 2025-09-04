@@ -1,7 +1,8 @@
 <map id="etcdserverpb::KV::Service::Service" name="etcdserverpb::KV::Service::Service">
-<area shape="rect" id="node2" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a995ca99df7554c05301c2a901103617f" title="etcdserverpb::KV::Service\l::Range" alt="" coords="259,5,447,46"/>
-<area shape="rect" id="node3" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#aaa24d53c1f8921e838715dd0f148be3d" title="etcdserverpb::KV::Service::Put" alt="" coords="245,71,462,97"/>
-<area shape="rect" id="node4" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#afd96d5c70ff0f23a4bc563d00c7677d8" title="etcdserverpb::KV::Service\l::DeleteRange" alt="" coords="259,122,447,163"/>
-<area shape="rect" id="node5" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a96edc5eb41e28e9f49b5ef7d63d7d3f6" title="etcdserverpb::KV::Service::Txn" alt="" coords="243,188,463,215"/>
-<area shape="rect" id="node6" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#afa2f340b81b2bdfeadea263d5809cd69" title="etcdserverpb::KV::Service\l::Compact" alt="" coords="259,239,447,281"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,181,171"/>
+<area shape="rect" id="node2" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a6fbf42df14eb0dec32a0e8b62434f95d" title=" " alt="" coords="245,5,421,47"/>
+<area shape="rect" id="node3" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a8c124a0a2bc50d15226a99049c63c16a" title=" " alt="" coords="245,71,421,112"/>
+<area shape="rect" id="node4" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a174651ab63433b6abb7dd55c5bd5e4ba" title=" " alt="" coords="231,137,435,163"/>
+<area shape="rect" id="node5" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a7d55138a5e6678aa1345cee3b2c5265e" title=" " alt="" coords="245,188,421,229"/>
+<area shape="rect" id="node6" href="$de/dba/classetcdserverpb_1_1KV_1_1Service.html#a2e98ccf8dc7c8dd4a4d1cead27e57e17" title=" " alt="" coords="229,254,436,281"/>
 </map>
