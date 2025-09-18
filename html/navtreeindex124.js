@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d8/d3c/classBgpIfmapPeeringConfig.html#af4c3ab6088fc1117df1b742c8b6c5c1d":[2,0,283,19],
 "d8/d3c/classBgpIfmapPeeringConfig.html#af50ce032aedc2065ad8b12747b6ed4f2":[2,0,283,15],
 "d8/d3c/classBgpPathAttributeMpEvpnNlri.html":[2,0,368],
 "d8/d3c/classBgpPathAttributeMpEvpnNlri.html#a309e84fc825abe471fc4a88c5b72f496":[2,0,368,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d8/d5b/classInetVpnTable.html#a0298b2e4175642c2d44a226d780a80aa":[2,0,918,2],
 "d8/d5b/classInetVpnTable.html#a03c8c24d6119520bf242c4fdd7e2e71f":[2,0,918,4],
 "d8/d5b/classInetVpnTable.html#a0fe43f6ffdc0f64742b01ca375b1039b":[2,0,918,5],
-"d8/d5b/classInetVpnTable.html#a40ece611ca21f3fd21da1b0931a0f2ce":[2,0,918,1],
-"d8/d5b/classInetVpnTable.html#a8ea9405bd7f3231c4c491d7cc5c02e46":[2,0,918,10]
+"d8/d5b/classInetVpnTable.html#a40ece611ca21f3fd21da1b0931a0f2ce":[2,0,918,1]
 };

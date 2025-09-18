@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"dc/ddb/dhcp__lease__db_8h.html":[3,0,339],
 "dc/ddb/dhcp__lease__db_8h_source.html":[3,0,339],
 "dc/ddc/classetcdserverpb_1_1DeleteRangeResponseDefaultTypeInternal.html":[2,0,8,16],
 "dc/ddc/classetcdserverpb_1_1DeleteRangeResponseDefaultTypeInternal.html#a28e411c80c1ce8952ceb2c7ff57d6970":[2,0,8,16,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "dc/df2/classKSyncEntry.html#a25172f1fb83f2ddf7cefeb3bc1be3352":[2,0,981,37],
 "dc/df2/classKSyncEntry.html#a26596defaf9183dd79a49df5a840483c":[2,0,981,34],
 "dc/df2/classKSyncEntry.html#a302e7d4cb4bb0a7d85ccc0b133efe838":[2,0,981,6],
-"dc/df2/classKSyncEntry.html#a34b92021c562cc4a56f1417be0ed4832":[2,0,981,42],
-"dc/df2/classKSyncEntry.html#a3708098e6f7c9037bb28db445e083fa6":[2,0,981,12]
+"dc/df2/classKSyncEntry.html#a34b92021c562cc4a56f1417be0ed4832":[2,0,981,42]
 };

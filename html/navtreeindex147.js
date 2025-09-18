@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d9/dfa/structboost_1_1is__POD_3_01PolicyGraphEdge_01_4.html":[2,0,3,4],
 "d9/dfb/agent__route__resync_8cc.html":[3,0,29],
 "d9/dfb/agent__route__resync_8cc_source.html":[3,0,29],
 "d9/dfb/structArpPathPreferenceStateKey.html":[2,0,192],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a71adfa8282b609318f2b0e8e7ed4d4d2":[2,0,8,161,1],
 "da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a71b58e5117566d56494978148b99f1ea":[2,0,8,161,28],
 "da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a78b060bef0a11e12caacd631d55e2bf9":[2,0,8,161,4],
-"da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,161,36],
-"da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a7ccfb1e25653c7b3eeb21dee7011f6fa":[2,0,8,161,38]
+"da/d06/classetcdserverpb_1_1AuthRoleRevokePermissionResponse.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,161,36]
 };

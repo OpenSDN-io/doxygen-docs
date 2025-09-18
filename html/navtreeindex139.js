@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"d9/d40/classOriginVn.html#aeb19d6028d80d8a6217c6c7a80306d25":[2,0,1240,5],
 "d9/d40/classOriginVn.html#af7d8af06c177cdef9123b8630f8ee111":[2,0,1240,0],
 "d9/d40/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncDeleteCall.html":[2,0,7,0,0,1],
 "d9/d40/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncDeleteCall.html#a3110da7ac1971e0a00e71387f7951ee1":[2,0,7,0,0,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "d9/d5c/config__etcd__client_8cc.html":[3,0,249],
 "d9/d5c/config__etcd__client_8cc_source.html":[3,0,249],
 "d9/d5f/ifmap__node_8cc.html":[3,0,546],
-"d9/d5f/ifmap__node_8cc_source.html":[3,0,546],
-"d9/d60/structVirtualGatewayState.html":[2,0,1766]
+"d9/d5f/ifmap__node_8cc_source.html":[3,0,546]
 };

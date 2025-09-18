@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"da/d56/namespaceetcdserverpb.html#af0cb0c2252dd445f369fce82161554f1":[1,0,11,189],
 "da/d56/namespaceetcdserverpb.html#af12cdb4c695a503039f70a4850bc23e8":[1,0,11,223],
 "da/d56/namespaceetcdserverpb.html#af227dd8c91a253d90a7bd12ca50c5773":[1,0,11,184],
 "da/d56/namespaceetcdserverpb.html#af248484035fc633d3c39b35a17059099":[1,0,11,219],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "da/d7f/classSandeshEventStatistics.html#a3582e68fee2151fef729a7d404b83131":[2,0,1493,4],
 "da/d7f/classSandeshEventStatistics.html#a66f0928a32ad80079c18c893ac52fed6":[2,0,1493,5],
 "da/d7f/classSandeshEventStatistics.html#a6e3cad5101b1f9429ee61b5a7f34a8ee":[2,0,1493,3],
-"da/d7f/classSandeshEventStatistics.html#a784e5f74571a8f9d2a8b5bf83cfdb22c":[2,0,1493,7],
-"da/d7f/classSandeshEventStatistics.html#a7add4e52e703da09dbf659a8e79f20cb":[2,0,1493,2]
+"da/d7f/classSandeshEventStatistics.html#a784e5f74571a8f9d2a8b5bf83cfdb22c":[2,0,1493,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"dd/dcc/classRouteAggregator.html#afcaa9f3c702ec2481f146790cc85b47e":[2,0,1426,43],
 "dd/dcc/classetcdserverpb_1_1Auth_1_1Stub.html":[2,0,8,9,1],
 "dd/dcc/classetcdserverpb_1_1Auth_1_1Stub.html#a03c153ea91710b988858c33dbea6ca18":[2,0,8,9,1,3],
 "dd/dcc/classetcdserverpb_1_1Auth_1_1Stub.html#a03ed7d6a32b86ce6a5a2572f79b820b0":[2,0,8,9,1,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "dd/dd5/c_2sandesh_8h.html":[3,0,1013],
 "dd/dd5/c_2sandesh_8h.html#a08090fbe8a784353dfc7bd045e015ca3":[3,0,1013,6],
 "dd/dd5/c_2sandesh_8h.html#a2e1adb6007a767f39deb337015ad46a4":[3,0,1013,17],
-"dd/dd5/c_2sandesh_8h.html#a3bfa6c97b39d57d3af94d32158b92708":[3,0,1013,15],
-"dd/dd5/c_2sandesh_8h.html#a46c72e0de1b630da07f8d02bc4847212":[3,0,1013,18]
+"dd/dd5/c_2sandesh_8h.html#a3bfa6c97b39d57d3af94d32158b92708":[3,0,1013,15]
 };

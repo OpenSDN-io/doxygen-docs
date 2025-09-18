@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"dd/dfb/classBgpXmppChannelManager.html#a198c70504d1443a0178d737240b63861":[2,0,416,14],
 "dd/dfb/classBgpXmppChannelManager.html#a20bbae49a368211af58c3eb9dc5a656a":[2,0,416,29],
 "dd/dfb/classBgpXmppChannelManager.html#a274101b5812cc62ff33fff34cd2367c4":[2,0,416,6],
 "dd/dfb/classBgpXmppChannelManager.html#a2893d9c12ada95e0f53f6bcd5ef386a4":[2,0,416,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "de/d0c/bgp__router_8cc.html":[3,0,165],
 "de/d0c/bgp__router_8cc.html#a334dd9fbb643b023069c7505dae0a91d":[3,0,165,0],
 "de/d0c/bgp__router_8cc_source.html":[3,0,165],
-"de/d0c/bgp__show__route_8cc.html":[3,0,184],
-"de/d0c/bgp__show__route_8cc.html#a413332ad09874b71aad947ab1046d144":[3,0,184,3]
+"de/d0c/bgp__show__route_8cc.html":[3,0,184]
 };

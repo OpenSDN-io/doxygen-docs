@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"df/dc8/classConfigDbClient.html#a7a83ff2f5b2c8218b2e735b4091b0ff5":[2,0,483,18],
 "df/dc8/classConfigDbClient.html#a7e20573d71e46c5f2d3be41f56ffd2e8":[2,0,483,17],
 "df/dc8/classConfigDbClient.html#a879e2493060bcd055cc62318d403dd00":[2,0,483,33],
 "df/dc8/classConfigDbClient.html#a8841ac9bdbb3fd5b14f1e1c2104c4dd8":[2,0,483,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#a99c1e76095179260e3fb0a8f234422e9":[2,0,8,141,16],
 "df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#aaf2ca23bd4c36bb2b7e0d983990782a6":[2,0,8,141,22],
 "df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#acc95a9dd14cb8f3ef0277ac14e320d33":[2,0,8,141,19],
-"df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#ae5ba722e9746b55807ab3dad3b3da001":[2,0,8,141,28],
-"df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#ae93749880cb60d64acea2bbfc2660441":[2,0,8,141,12]
+"df/ddb/classetcdserverpb_1_1AuthUserListRequest.html#ae5ba722e9746b55807ab3dad3b3da001":[2,0,8,141,28]
 };

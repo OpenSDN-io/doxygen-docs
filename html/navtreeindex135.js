@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"d9/d01/classLibvirtInstanceAdapter.html#a0ddea1c1a0b21f80d9c3e498ad9b78d0":[2,0,1050,10],
 "d9/d01/classLibvirtInstanceAdapter.html#a1acd6048631a3d7e2da9a512bc660a9b":[2,0,1050,11],
 "d9/d01/classLibvirtInstanceAdapter.html#a2424cdc139897ffd80a2ab3adcb5d009":[2,0,1050,6],
 "d9/d01/classLibvirtInstanceAdapter.html#a33675b47e0328ddb8c69f171c42f6fd9":[2,0,1050,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "d9/d18/classBgpXmppMessage.html#a3a9d71fa6c82e964fbb4089d4ac4a775":[2,0,417,17],
 "d9/d18/classBgpXmppMessage.html#a4080d30a6af7cad919b3fb4b92b87ccb":[2,0,417,26],
 "d9/d18/classBgpXmppMessage.html#a48720c3ef5b8bccdf6ee148b72175a2b":[2,0,417,27],
-"d9/d18/classBgpXmppMessage.html#a4a26552ddb5fee1858484f9382566133":[2,0,417,20],
-"d9/d18/classBgpXmppMessage.html#a4ac26fa0308ae5ddddec155a31d156c8":[2,0,417,44]
+"d9/d18/classBgpXmppMessage.html#a4a26552ddb5fee1858484f9382566133":[2,0,417,20]
 };

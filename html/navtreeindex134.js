@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"d8/dfe/classAgent.html#aaf1da27c8bacbd84640044853eecad06":[2,0,61,586],
 "d8/dfe/classAgent.html#aaf252aed9fad825f0c0c9789055d7155":[2,0,61,491],
 "d8/dfe/classAgent.html#aaf73f3dbef0e0c9ff2085b9f9f98c0be":[2,0,61,69],
 "d8/dfe/classAgent.html#aafe60322cd8323ac56002f7fd7129a66":[2,0,61,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "d9/d00/structVmInterfaceMirrorData.html#aa542d394de7f0753af4638f4041207ec":[2,0,1793,3],
 "d9/d00/structVmInterfaceMirrorData.html#af5c66166d48884b5b04093f4fb707749":[2,0,1793,4],
 "d9/d01/classLibvirtInstanceAdapter.html":[2,0,1050],
-"d9/d01/classLibvirtInstanceAdapter.html#a0c46e3bf56acdd7e7e6bb8947956dd9a":[2,0,1050,3],
-"d9/d01/classLibvirtInstanceAdapter.html#a0ddea1c1a0b21f80d9c3e498ad9b78d0":[2,0,1050,10]
+"d9/d01/classLibvirtInstanceAdapter.html#a0c46e3bf56acdd7e7e6bb8947956dd9a":[2,0,1050,3]
 };

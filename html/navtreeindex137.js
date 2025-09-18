@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac872762e8101e693a24207ad9133dc3d":[2,0,8,145,44],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#acaae9aff84b530da76034cad3947f298":[2,0,8,145,51],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#acac5732167b36b7a3f15793e3c13945b":[2,0,8,145,20],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ace5baaef61907d02235671a75111e6d7":[2,0,8,145,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "d9/d29/io__log_8h.html#afe7d9542946a4c5c56f37df72f0d5f15":[3,0,634,28],
 "d9/d29/io__log_8h_source.html":[3,0,634],
 "d9/d2a/structIntfMirrorCfgEntry.html":[2,0,952],
-"d9/d2a/structIntfMirrorCfgEntry.html#a483c16cc1663c150e78a013dfeffb95d":[2,0,952,0],
-"d9/d2a/structIntfMirrorCfgEntry.html#abd125f23dbbb014871b038f08920876c":[2,0,952,1]
+"d9/d2a/structIntfMirrorCfgEntry.html#a483c16cc1663c150e78a013dfeffb95d":[2,0,952,0]
 };

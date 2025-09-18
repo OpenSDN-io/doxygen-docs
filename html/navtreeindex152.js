@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"da/d4d/cpuinfo_8h_source.html":[3,0,297],
 "da/d4d/resource__manager_8h.html":[3,0,965],
 "da/d4d/resource__manager_8h_source.html":[3,0,965],
 "da/d4e/classMetadataClient.html":[2,0,1125],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "da/d56/namespaceetcdserverpb.html#aeed22265a75b791ec8fd8bbfafb365e7":[1,0,11,261],
 "da/d56/namespaceetcdserverpb.html#aef6969f049c55754d47c63d04b2eac7c":[1,0,11,241],
 "da/d56/namespaceetcdserverpb.html#aefc0a91544d7c60a01c70ed11dd1cf83":[1,0,11,227],
-"da/d56/namespaceetcdserverpb.html#af0288c2b983f3993ed64bfcfd988db3f":[1,0,11,171],
-"da/d56/namespaceetcdserverpb.html#af0cb0c2252dd445f369fce82161554f1":[1,0,11,189]
+"da/d56/namespaceetcdserverpb.html#af0288c2b983f3993ed64bfcfd988db3f":[1,0,11,171]
 };

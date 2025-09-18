@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"df/d70/classDB.html#ab0c02e8dcaf03b9d83dc0ed24d1107ea":[2,0,530,29],
 "df/d70/classDB.html#ab9f8078367a5990b6bb19c90f7b18cb1":[2,0,530,12],
 "df/d70/classDB.html#abbb76d7897e858bd8375f75ba455bdb4":[2,0,530,30],
 "df/d70/classDB.html#ac42f5e9b367bb93e775bd467337f59bb":[2,0,530,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "df/d8f/classConfigCassandraClient.html#a3792576026e5cc0812f67f08cd9363fc":[2,0,477,36],
 "df/d8f/classConfigCassandraClient.html#a389542a3d0a65f45d54287f597816168":[2,0,477,18],
 "df/d8f/classConfigCassandraClient.html#a3d5f66cf0716b6e35c120d118e5dae78":[2,0,477,5],
-"df/d8f/classConfigCassandraClient.html#a43e235237b0ce3a03619fd3f815d56c2":[2,0,477,14],
-"df/d8f/classConfigCassandraClient.html#a450108e30eab64a2cd5a63d6b02f6ed3":[2,0,477,30]
+"df/d8f/classConfigCassandraClient.html#a43e235237b0ce3a03619fd3f815d56c2":[2,0,477,14]
 };

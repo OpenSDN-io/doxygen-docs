@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"dd/d49/xmpp__stream_8h.html":[3,0,1355],
 "dd/d49/xmpp__stream_8h_source.html":[3,0,1355],
 "dd/d4b/classetcdserverpb_1_1Maintenance_1_1WithStreamedUnaryMethod__Status.html":[2,0,8,8,17],
 "dd/d4b/classetcdserverpb_1_1Maintenance_1_1WithStreamedUnaryMethod__Status.html#a38f32149da5e74ba5fea944c9443a277":[2,0,8,8,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "dd/d58/classKSyncNetlinkDBEntry.html#a12a33bb19de9517af0b5145d4d106edd":[2,0,998,10],
 "dd/d58/classKSyncNetlinkDBEntry.html#a1982011b56b74422cad2751cbfaf8abc":[2,0,998,7],
 "dd/d58/classKSyncNetlinkDBEntry.html#a3f2f3dd4f50afdd68fd99cba969c4dbf":[2,0,998,1],
-"dd/d58/classKSyncNetlinkDBEntry.html#a442f3284ad928857bd9b513e77203ad7":[2,0,998,6],
-"dd/d58/classKSyncNetlinkDBEntry.html#a4737c5a9b8291b0a7a341d17de0fbec6":[2,0,998,9]
+"dd/d58/classKSyncNetlinkDBEntry.html#a442f3284ad928857bd9b513e77203ad7":[2,0,998,6]
 };

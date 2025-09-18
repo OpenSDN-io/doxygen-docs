@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"da/d7f/classSandeshEventStatistics.html#a7add4e52e703da09dbf659a8e79f20cb":[2,0,1493,2],
 "da/d7f/classSandeshEventStatistics.html#a8779117f62cac5958897ddc49fa3d567":[2,0,1493,6],
 "da/d81/gmph__private_8h.html":[3,0,476],
 "da/d81/gmph__private_8h.html#a00fffd39ad7ccea4bbee1033db2bf769":[3,0,476,94],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "da/d96/routing__instance__log_8h.html#aa08f6f10ecbd27cfd17dee4c0153559e":[3,0,989,0],
 "da/d96/routing__instance__log_8h.html#aa24f159476da6c143e0fb08f74d17411":[3,0,989,8],
 "da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6":[3,0,989,3],
-"da/d96/routing__instance__log_8h.html#ab6f0142cd913e0aa9fc0b0a0e0abd938":[3,0,989,12],
-"da/d96/routing__instance__log_8h.html#ac5ab2d937bbf4441b01badbec3eaf709":[3,0,989,1]
+"da/d96/routing__instance__log_8h.html#ab6f0142cd913e0aa9fc0b0a0e0abd938":[3,0,989,12]
 };

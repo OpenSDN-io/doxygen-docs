@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"db/de3/classAgentSandeshManager.html#a2960c0f3445d9e176cedfdfcaec82615":[2,0,122,2],
 "db/de3/classAgentSandeshManager.html#a7cf170c27840aec46deb40d6b5f11347":[2,0,122,4],
 "db/de3/classAgentSandeshManager.html#aa908bfda7d43488b19c797d62e2c3588":[2,0,122,5],
 "db/de3/classAgentSandeshManager.html#ad7f7e04adaa1058efe1db5cdb8116f40":[2,0,122,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "db/df6/classKSyncBulkSandeshContext.html#aec0ccb491cf1e07d039dd8012c9d2e1d":[2,0,977,12],
 "db/df6/classKSyncBulkSandeshContext.html#aefc24be906ed263b3f35b6cf33906bbe":[2,0,977,5],
 "db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html":[2,0,301,0],
-"db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a22903d6dae877370fd50dea59d659500":[2,0,301,0,1],
-"db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a2e6f28bcd217b4beaef2ce3773ddcdd3":[2,0,301,0,0]
+"db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a22903d6dae877370fd50dea59d659500":[2,0,301,0,1]
 };

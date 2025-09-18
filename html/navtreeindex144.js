@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d9/dc1/classBgpAttribute.html#a2b152846f2052d03120f74c181aee0f3":[2,0,237,6],
 "d9/dc1/classBgpAttribute.html#a517c77b2e1933b1ea7b5945d4291a6ad":[2,0,237,8],
 "d9/dc1/classBgpAttribute.html#a51d8a9f6859c0b6cc61677209b08cef5":[2,0,237,12],
 "d9/dc1/classBgpAttribute.html#a5bacaea92a57c25002e4c3949d721494":[2,0,237,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d9/dd0/classEvpnManagerPartition.html#aa5bd6d29d04dee68604fb09e009a97b6":[2,0,652,45],
 "d9/dd0/classEvpnManagerPartition.html#aadecf53209797c9925113fdb33ecc253":[2,0,652,13],
 "d9/dd0/classEvpnManagerPartition.html#ab269e91edababc7a5f105d092a9581e5":[2,0,652,8],
-"d9/dd0/classEvpnManagerPartition.html#abedee1d1b13715814f334649bd0e54a2":[2,0,652,4],
-"d9/dd0/classEvpnManagerPartition.html#ac203407d22fa7057390891e552af5bec":[2,0,652,23]
+"d9/dd0/classEvpnManagerPartition.html#abedee1d1b13715814f334649bd0e54a2":[2,0,652,4]
 };

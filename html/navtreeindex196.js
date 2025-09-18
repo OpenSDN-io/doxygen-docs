@@ -1,5 +1,6 @@
 var NAVTREEINDEX196 =
 {
+"dd/d58/classKSyncNetlinkDBEntry.html#a4737c5a9b8291b0a7a341d17de0fbec6":[2,0,998,9],
 "dd/d58/classKSyncNetlinkDBEntry.html#a5476ac432835709e010990774cd115e7":[2,0,998,2],
 "dd/d58/classKSyncNetlinkDBEntry.html#a61574f544f2661bf862e4e4236b4af78":[2,0,998,5],
 "dd/d58/classKSyncNetlinkDBEntry.html#a727524e67f1c168ce9c7c16247a77bdb":[2,0,998,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a30bac8de34b164783bf22d362aa1338e":[2,0,1362,1,1],
 "dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a3d20b8b261222ae0caee87f480a40567":[2,0,1362,1,6],
 "dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a754ee331a5c12a61235d2ebdf3e96df1":[2,0,1362,1,7],
-"dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a906244f96c7a49a9a7d2ab2310addcb7":[2,0,1362,1,3],
-"dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a90ff5cb68654b5d39851ee982b276602":[2,0,1362,1,4]
+"dd/d6c/structProtoChoice_1_1ChoiceMatcher.html#a906244f96c7a49a9a7d2ab2310addcb7":[2,0,1362,1,3]
 };

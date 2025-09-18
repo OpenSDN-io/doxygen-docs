@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#adca636f53e812e5d1a25596ca9b6866f":[2,0,8,108,35],
 "d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#adebc076a28b6f453e5b22e09e98a8a6c":[2,0,8,108,21],
 "d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#ae16d4127ab326a7085c37f82a7fe712b":[2,0,8,108,42],
 "d9/d9c/classetcdserverpb_1_1LeaseGrantRequest.html#ae8f9713b5f6f1d95a6d3695d95fc452b":[2,0,8,108,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a3c93cf2849d03414c11dcc698cf1cb73":[2,0,561,0,3],
 "d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a5517fd901337f6bbdf1d27fb61347411":[2,0,561,0,9],
 "d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a5f088eb0ad5b20d1c1abbd43a3ebb302":[2,0,561,0,4],
-"d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a6ca26036bbe3c7b4e90187cedea9ea13":[2,0,561,0,8],
-"d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a765109bcecd20904c13ed801480ce684":[2,0,561,0,1]
+"d9/dac/structDhcpHandlerBase_1_1ConfigRecord.html#a6ca26036bbe3c7b4e90187cedea9ea13":[2,0,561,0,8]
 };

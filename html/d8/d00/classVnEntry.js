@@ -33,6 +33,7 @@ var classVnEntry =
     [ "GetMirrorAcl", "d8/d00/classVnEntry.html#ab2d80e2fd42933bbb771fd638842cd26", null ],
     [ "GetMirrorCfgAcl", "d8/d00/classVnEntry.html#acd8b24a1b96b06f2f1147f93aa428d76", null ],
     [ "GetName", "d8/d00/classVnEntry.html#a8d621341e61912635c3276285d7d09cc", null ],
+    [ "GetOperVxlanId", "d8/d00/classVnEntry.html#afdcdad921e3a2bf7e309ca756c66fc30", null ],
     [ "GetPrefix", "d8/d00/classVnEntry.html#ac2631ef41782b3461a637aa759afe5d0", null ],
     [ "GetProject", "d8/d00/classVnEntry.html#acad4e6402461f032a58c45615aa6087f", null ],
     [ "GetRefCount", "d8/d00/classVnEntry.html#a353b3140845d084d150b84bf123397ce", null ],
