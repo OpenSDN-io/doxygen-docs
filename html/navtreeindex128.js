@@ -1,5 +1,7 @@
 var NAVTREEINDEX128 =
 {
+"d8/da6/classBgpLifetimeManager.html#a79da7786697f396e7cbefaae5f3c07d7":[2,0,289,2],
+"d8/da6/classBgpLifetimeManager.html#adf52aa02737bfa909ad5f82c7efc1c3e":[2,0,289,0],
 "d8/da6/classBgpLifetimeManager.html#af2346ca1af0e997681ff4573a5d70386":[2,0,289,1],
 "d8/da6/classOVSDB_1_1OvsdbResourceVxLanId.html":[2,0,15,25],
 "d8/da6/classOVSDB_1_1OvsdbResourceVxLanId.html#a045bee43d9f2cc3438e75bf801f89bba":[2,0,15,25,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX128 =
 "d8/dbb/multicast__flags_8cc_source.html":[3,0,783],
 "d8/dbb/t__classdef_8h.html":[3,0,1095],
 "d8/dbb/t__classdef_8h_source.html":[3,0,1095],
-"d8/dbc/classBgpKeepaliveMessage.html":[2,0,288],
-"d8/dbc/classBgpKeepaliveMessage.html#ab18bc6ac8fa65ce0bbebf46d66cf9e61":[2,0,288,0],
-"d8/dbc/classBgpKeepaliveMessage.html#ae0b684a375613f005decd20dd3f9e178":[2,0,288,1]
+"d8/dbc/classBgpKeepaliveMessage.html":[2,0,288]
 };

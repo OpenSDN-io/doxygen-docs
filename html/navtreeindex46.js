@@ -1,5 +1,7 @@
 var NAVTREEINDEX46 =
 {
+"d3/d2d/classBgpPeer.html#a658c25aed8eedcc58618c727ca2cd480":[2,0,385,260],
+"d3/d2d/classBgpPeer.html#a671ee192c7fcb4c69150870b06f66099":[2,0,385,314],
 "d3/d2d/classBgpPeer.html#a682284c883f43d7ceb440baf558fab89":[2,0,385,74],
 "d3/d2d/classBgpPeer.html#a682c20234fec93855a0ebffefc58d2da":[2,0,385,312],
 "d3/d2d/classBgpPeer.html#a68bd7f909a3873fb16e0ff9006435465":[2,0,385,313],
@@ -247,7 +249,5 @@ var NAVTREEINDEX46 =
 "d3/d2f/tunnel__encap__type_8cc_source.html":[3,0,1200],
 "d3/d30/structIPeerDebugStats_1_1ErrorStats.html":[2,0,963,0],
 "d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a154ad617a90166ffffaa5ad8088696a0":[2,0,963,0,0],
-"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a4d581eec11e6d633345580c12736d36f":[2,0,963,0,2],
-"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a6b07594abdb94664b47a4c99e6de7c10":[2,0,963,0,5],
-"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a8c5d41fb48983f871e6a47aab68ccc98":[2,0,963,0,4]
+"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a4d581eec11e6d633345580c12736d36f":[2,0,963,0,2]
 };

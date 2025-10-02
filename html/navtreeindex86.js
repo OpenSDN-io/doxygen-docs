@@ -1,5 +1,7 @@
 var NAVTREEINDEX86 =
 {
+"d5/dac/linux__vxlan__agent__init_8cc.html":[3,0,696],
+"d5/dac/linux__vxlan__agent__init_8cc_source.html":[3,0,696],
 "d5/dac/structBgpAttrOriginatorId.html":[2,0,250],
 "d5/dac/structBgpAttrOriginatorId.html#a100ece5c324da71748a6f037b8540dbf":[2,0,250,7],
 "d5/dac/structBgpAttrOriginatorId.html#a4baee484d70c892e3975b3124dccac81":[2,0,250,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX86 =
 "d5/dc9/bgp__ifmap__sandesh_8h.html#a1a7cfdb7e90734214a93a1ee5b0a7a53":[3,0,132,0],
 "d5/dc9/bgp__ifmap__sandesh_8h_source.html":[3,0,132],
 "d5/dca/metadata__server__session_8h.html":[3,0,760],
-"d5/dca/metadata__server__session_8h_source.html":[3,0,760],
-"d5/dca/structAceInfo.html":[2,0,37],
-"d5/dca/structAceInfo.html#a4f4cbd7ce108ace7d9c83f0405362c4c":[2,0,37,1]
+"d5/dca/metadata__server__session_8h_source.html":[3,0,760]
 };

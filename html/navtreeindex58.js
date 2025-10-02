@@ -1,5 +1,7 @@
 var NAVTREEINDEX58 =
 {
+"d3/df3/ksync__sock_8h.html#ab1b7ff273eebf7cca65140cfaa7caa02":[3,0,666,25],
+"d3/df3/ksync__sock_8h.html#ac4bed20f301188cfc09c40f08bc26c2c":[3,0,666,28],
 "d3/df3/ksync__sock_8h.html#adc1c666b1319f404978a29a8c5e81a83":[3,0,666,18],
 "d3/df3/ksync__sock_8h.html#adcec88b92809073f4ab9eb4ebf396304":[3,0,666,23],
 "d3/df3/ksync__sock_8h.html#afd657e6ee0195e5cc44c3cf8679679d4":[3,0,666,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX58 =
 "d4/d00/gmp__router_8h.html#af6d11031dd566d30dc6a49148f8d1ebd":[3,0,474,26],
 "d4/d00/gmp__router_8h.html#aff73ef9a72f7f56c88106e319278e74f":[3,0,474,23],
 "d4/d00/gmp__router_8h_source.html":[3,0,474],
-"d4/d01/structProuterUveTable_1_1VmInterfaceState.html":[2,0,1367,5],
-"d4/d01/structProuterUveTable_1_1VmInterfaceState.html#a825a41f61e622dc2e55b6f144ec0e894":[2,0,1367,5,1],
-"d4/d01/structProuterUveTable_1_1VmInterfaceState.html#accc4286f79ab4caf9719bc8f0d8e301e":[2,0,1367,5,0]
+"d4/d01/structProuterUveTable_1_1VmInterfaceState.html":[2,0,1367,5]
 };

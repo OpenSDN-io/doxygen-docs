@@ -1,5 +1,7 @@
 var NAVTREEINDEX88 =
 {
+"d5/dd5/classMvpnProjectManager.html#ae25ac1b8ecb0bbda8571b9515673781d":[2,0,1193,21],
+"d5/dd5/classMvpnProjectManager.html#ae90aa31a76eeaf43e6ef213b58cc8de6":[2,0,1193,23],
 "d5/dd5/classMvpnProjectManager.html#af45a690af6fd80132319bdc89d6ae333":[2,0,1193,9],
 "d5/dd5/classMvpnProjectManager.html#afedf3de8902c03f775dd86b73ef42e85":[2,0,1193,20],
 "d5/dd5/classNHDumpHandler.html":[2,0,1217],
@@ -247,7 +249,5 @@ var NAVTREEINDEX88 =
 "d5/de9/structFlowTraceFilter.html#acef4ff1d4b00bb00a2f2f1d9fd2da607":[2,0,719,0],
 "d5/de9/structFlowTraceFilter.html#adbcaae3507bafacb332277a3ff04cb6b":[2,0,719,13],
 "d5/de9/structFlowTraceFilter.html#af25bb9da859e5e2a18d71ce2c7fa57ba":[2,0,719,9],
-"d5/de9/structFlowTraceFilter.html#af9851a7450ee1f1aef191e47764b1d09":[2,0,719,1],
-"d5/dea/structSessionStatsParams.html":[2,0,1579],
-"d5/dea/structSessionStatsParams.html#a1a120d3a2e02e4d73e186c1fd3b58a23":[2,0,1579,2]
+"d5/de9/structFlowTraceFilter.html#af9851a7450ee1f1aef191e47764b1d09":[2,0,719,1]
 };

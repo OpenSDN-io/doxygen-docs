@@ -1,5 +1,7 @@
 var NAVTREEINDEX33 =
 {
+"d2/d50/structPhysicalInterfaceOsOperStateData.html#a5aedab271e35bc255341a161c6a74a97":[2,0,1302,1],
+"d2/d50/structPhysicalInterfaceOsOperStateData.html#a5d44c116feab6898331b92dc2616bb28":[2,0,1302,3],
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#a6d67dead2fe2b3193cc31999f6b87878":[2,0,1302,4],
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#a9ea550b3735e0e29ec872d37f006c9c0":[2,0,1302,7],
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#ac2379017083aec6b5889358c79bd0cf8":[2,0,1302,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX33 =
 "d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a06568bdf182baffdbc6c43b583b7af30":[2,0,15,1,4],
 "d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a08dd1f698768de3c1f422c73a282d4dd":[2,0,15,1,6],
 "d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a212a169292745b979bd867ed27f8ead3":[2,0,15,1,10],
-"d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a24296f89d56c6c0df2bfa4190972b9ef":[2,0,15,1,7],
-"d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a25c908da298949a5af485fbfedadab81":[2,0,15,1,12],
-"d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a30c512514a921a9db13b9348f20d6d2f":[2,0,15,1,25]
+"d2/d66/classOVSDB_1_1HaStaleDevVnEntry.html#a24296f89d56c6c0df2bfa4190972b9ef":[2,0,15,1,7]
 };

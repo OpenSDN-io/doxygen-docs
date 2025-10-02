@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"db/de3/classAgentSandeshManager.html#a1ec9d17de9ccd9663556e493cb411d20":[2,0,122,6],
+"db/de3/classAgentSandeshManager.html#a2658e8d977b6bb19c5a63dfc1476cbec":[2,0,122,3],
 "db/de3/classAgentSandeshManager.html#a2960c0f3445d9e176cedfdfcaec82615":[2,0,122,2],
 "db/de3/classAgentSandeshManager.html#a7cf170c27840aec46deb40d6b5f11347":[2,0,122,4],
 "db/de3/classAgentSandeshManager.html#aa908bfda7d43488b19c797d62e2c3588":[2,0,122,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "db/df6/classKSyncBulkSandeshContext.html#ae367f22458f904582671867e86a9c474":[2,0,977,8],
 "db/df6/classKSyncBulkSandeshContext.html#ae6ea1dbead2ebf24534956de30a8d3a0":[2,0,977,20],
 "db/df6/classKSyncBulkSandeshContext.html#aec0ccb491cf1e07d039dd8012c9d2e1d":[2,0,977,12],
-"db/df6/classKSyncBulkSandeshContext.html#aefc24be906ed263b3f35b6cf33906bbe":[2,0,977,5],
-"db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html":[2,0,301,0],
-"db/df6/structBgpNeighborConfig_1_1OriginOverrideConfig.html#a22903d6dae877370fd50dea59d659500":[2,0,301,0,1]
+"db/df6/classKSyncBulkSandeshContext.html#aefc24be906ed263b3f35b6cf33906bbe":[2,0,977,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX192 =
 {
+"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a4a0eca73f60b56438c5514f3e830ab04":[2,0,1834,1,1],
+"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a829f69ba3147998e8b0c829f6d5ad970":[2,0,1834,1,5],
 "dd/d22/structVrfAssign_1_1VrfAssignKey.html#ad29285a2390b564c579e2591301039a1":[2,0,1834,1,3],
 "dd/d22/structVrfAssign_1_1VrfAssignKey.html#af172269658ef1660e687a35beb767400":[2,0,1834,1,4],
 "dd/d24/structAsPath4ByteSpec.html":[2,0,204],
@@ -247,7 +249,5 @@ var NAVTREEINDEX192 =
 "dd/d33/classDhcpHandlerBase.html#a18666921ac6888107566b7a5a26925fcaefcaa368b586cf7818d5f2b3c9af3423":[2,0,561,2,0],
 "dd/d33/classDhcpHandlerBase.html#a18666921ac6888107566b7a5a26925fcaf241398e0c8444a5e69c81de77d9b17f":[2,0,561,2,9],
 "dd/d33/classDhcpHandlerBase.html#a18666921ac6888107566b7a5a26925fcafc4a2bd3d6c1bb8c20d62e72b3e3abea":[2,0,561,2,5],
-"dd/d33/classDhcpHandlerBase.html#a198eb0b8f2a4f0191d762e4c5925cba5":[2,0,561,6],
-"dd/d33/classDhcpHandlerBase.html#a1acf7f2b277144d7436b5676fb2eee07":[2,0,561,16],
-"dd/d33/classDhcpHandlerBase.html#a1c5d898a1ac7d4b6168004548838cb6e":[2,0,561,27]
+"dd/d33/classDhcpHandlerBase.html#a198eb0b8f2a4f0191d762e4c5925cba5":[2,0,561,6]
 };

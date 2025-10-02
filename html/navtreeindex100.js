@@ -1,5 +1,7 @@
 var NAVTREEINDEX100 =
 {
+"d6/dac/structMacBinding.html":[2,0,1071],
+"d6/dac/structMacBinding.html#a20b099679102f414ff9cf134b8a57a94":[2,0,1071,8],
 "d6/dac/structMacBinding.html#a34f51284633bdd85a03ce3cd3041e2d8":[2,0,1071,2],
 "d6/dac/structMacBinding.html#a4309b79fd7cd483b617e866b148b0df9":[2,0,1071,6],
 "d6/dac/structMacBinding.html#a547b64c0085a5c3093db36bec646eac3":[2,0,1071,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX100 =
 "d6/dbf/classBgpXmppChannel.html#a5461a88e5e4b20f7eba9e66463a7ab81":[2,0,415,111],
 "d6/dbf/classBgpXmppChannel.html#a552f85eda164a24e268c38d05dde6ec8":[2,0,415,102],
 "d6/dbf/classBgpXmppChannel.html#a556499e14edc243a1839e52298ae961e":[2,0,415,121],
-"d6/dbf/classBgpXmppChannel.html#a577c90a033fb592f77bd27cf48fe263f":[2,0,415,99],
-"d6/dbf/classBgpXmppChannel.html#a5896c4d33a66eacef06b730c6bee08f7":[2,0,415,31],
-"d6/dbf/classBgpXmppChannel.html#a58d601ce88a9259cd30d88c3b6fc6f09":[2,0,415,34]
+"d6/dbf/classBgpXmppChannel.html#a577c90a033fb592f77bd27cf48fe263f":[2,0,415,99]
 };

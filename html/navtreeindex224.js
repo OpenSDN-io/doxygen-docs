@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"df/d8f/classConfigCassandraClient.html#a3d5f66cf0716b6e35c120d118e5dae78":[2,0,477,5],
+"df/d8f/classConfigCassandraClient.html#a43e235237b0ce3a03619fd3f815d56c2":[2,0,477,14],
 "df/d8f/classConfigCassandraClient.html#a450108e30eab64a2cd5a63d6b02f6ed3":[2,0,477,30],
 "df/d8f/classConfigCassandraClient.html#a4e2c84dcedf4f5a0e14f7fa127a0b7b7":[2,0,477,26],
 "df/d8f/classConfigCassandraClient.html#a4f76941db10abd79f4159d56477cfa27":[2,0,477,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "df/d96/classSessionStatsCollector.html#aff22f2ccf0bb3ab0cbe750cee5be9fb2":[2,0,1576,54],
 "df/d97/bfd__rest__common_8h.html":[3,0,84],
 "df/d97/bfd__rest__common_8h.html#a279702b1b55a82a823dbd31dbd556a33":[3,0,84,0],
-"df/d97/bfd__rest__common_8h.html#a2de89c7ab6af2157dacbadf9c7912a0e":[3,0,84,1],
-"df/d97/bfd__rest__common_8h_source.html":[3,0,84],
-"df/d98/bgp__membership_8cc.html":[3,0,137]
+"df/d97/bfd__rest__common_8h.html#a2de89c7ab6af2157dacbadf9c7912a0e":[3,0,84,1]
 };

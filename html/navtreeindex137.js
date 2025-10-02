@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac3001b8c7ce847cec6a31725b8d334db":[2,0,8,145,25],
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac3777d609116e5a97ef24a1343a8c06b":[2,0,8,145,19],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#ac872762e8101e693a24207ad9133dc3d":[2,0,8,145,44],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#acaae9aff84b530da76034cad3947f298":[2,0,8,145,51],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#acac5732167b36b7a3f15793e3c13945b":[2,0,8,145,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "d9/d29/io__log_8h.html#af9fb71f43303dcf0ebf818abae1adb87":[3,0,634,22],
 "d9/d29/io__log_8h.html#afd38bcb3538013e8e6ba57668d15b75c":[3,0,634,24],
 "d9/d29/io__log_8h.html#afe7d9542946a4c5c56f37df72f0d5f15":[3,0,634,28],
-"d9/d29/io__log_8h_source.html":[3,0,634],
-"d9/d2a/structIntfMirrorCfgEntry.html":[2,0,952],
-"d9/d2a/structIntfMirrorCfgEntry.html#a483c16cc1663c150e78a013dfeffb95d":[2,0,952,0]
+"d9/d29/io__log_8h_source.html":[3,0,634]
 };

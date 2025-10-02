@@ -1,5 +1,7 @@
 var NAVTREEINDEX73 =
 {
+"d5/d17/struct__ThriftProtocol.html#a0718bb0d8c78df150923f2fd6f9bb1d0":[2,0,33,14],
+"d5/d17/struct__ThriftProtocol.html#a0cf3eee5203dbb6d88673ba476627c8e":[2,0,33,12],
 "d5/d17/struct__ThriftProtocol.html#a13bc8d885b01efcf47a22eaddf2f4412":[2,0,33,10],
 "d5/d17/struct__ThriftProtocol.html#a1780fb73a922403583f170a2db804fe1":[2,0,33,39],
 "d5/d17/struct__ThriftProtocol.html#a26e1b8fbdcf675dd4d57c2f27a2ec4b9":[2,0,33,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX73 =
 "d5/d21/classVmInterface.html#a3bb04b9637f6380832fc19220852135d":[2,0,1782,352],
 "d5/d21/classVmInterface.html#a3be93ced4299ab1015a0148da5da3c00":[2,0,1782,299],
 "d5/d21/classVmInterface.html#a3da20c2e4e5a9d31a2341eac1a2d4cdd":[2,0,1782,270],
-"d5/d21/classVmInterface.html#a3e25d093207bbff62767db0eac4dd8ed":[2,0,1782,285],
-"d5/d21/classVmInterface.html#a3e5698c4c1f2a8687f9e257f6e71343a":[2,0,1782,60],
-"d5/d21/classVmInterface.html#a3e5e4aa037665ab09e5822fc23a38a5f":[2,0,1782,119]
+"d5/d21/classVmInterface.html#a3e25d093207bbff62767db0eac4dd8ed":[2,0,1782,285]
 };

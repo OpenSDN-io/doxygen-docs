@@ -1,5 +1,7 @@
 var NAVTREEINDEX112 =
 {
+"d7/d7f/structVmInterface_1_1AllowedAddressPair.html#acd0e70da7ea1c9970a18408611684723":[2,0,1782,2,11],
+"d7/d7f/structVmInterface_1_1AllowedAddressPair.html#acd99dfc2fbc1374d94696831926ee320":[2,0,1782,2,8],
 "d7/d7f/structVmInterface_1_1AllowedAddressPair.html#af6665d63dcdd37aeaf08d9cfd8f44d69":[2,0,1782,2,15],
 "d7/d7f/structVmInterface_1_1AllowedAddressPair.html#af7a341d7912db31184d0f144dcd2e0e0":[2,0,1782,2,12],
 "d7/d80/dns__options_8h.html":[3,0,365],
@@ -247,7 +249,5 @@ var NAVTREEINDEX112 =
 "d7/d93/classBgpSenderPartition.html#aa7fc27ca466c2c0d26592bc944a497b3":[2,0,403,22],
 "d7/d93/classBgpSenderPartition.html#ab3f8f949577e73d64c60f87f02a4e9c2":[2,0,403,26],
 "d7/d93/classBgpSenderPartition.html#ac04a9c31932e01ea867a5325238a14ee":[2,0,403,27],
-"d7/d93/classBgpSenderPartition.html#ac0d004718172f924e179f16f5cc4b1ed":[2,0,403,19],
-"d7/d93/classBgpSenderPartition.html#ac2062d57957fcfe74e1b78daf783053a":[2,0,403,16],
-"d7/d93/classBgpSenderPartition.html#ac41d49d9b19f7f0b49d3fb2c3b1af522":[2,0,403,33]
+"d7/d93/classBgpSenderPartition.html#ac0d004718172f924e179f16f5cc4b1ed":[2,0,403,19]
 };

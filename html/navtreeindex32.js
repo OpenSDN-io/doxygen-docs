@@ -1,5 +1,7 @@
 var NAVTREEINDEX32 =
 {
+"d2/d45/classBgpMembershipManager.html#a2e8ceb78a2ea958cee2a858688fa41f5":[2,0,291,63],
+"d2/d45/classBgpMembershipManager.html#a2fbb78664304027afb363a9c22243930":[2,0,291,61],
 "d2/d45/classBgpMembershipManager.html#a311055532265311f360dbe57a77c76c7":[2,0,291,12],
 "d2/d45/classBgpMembershipManager.html#a33cfd88fdc744d4a03304cedf7bad959":[2,0,291,75],
 "d2/d45/classBgpMembershipManager.html#a35f511bc8f5e3a67b23e74a9af7068f6":[2,0,291,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX32 =
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#a4e2cb25991f977fdd6d78c29456b56b9":[2,0,1302,5],
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#a56a7972296df0c49876d628809eaabb9":[2,0,1302,0],
 "d2/d50/structPhysicalInterfaceOsOperStateData.html#a56a7972296df0c49876d628809eaabb9a04c69ee2fbd33ef033a39734d988ba37":[2,0,1302,0,1],
-"d2/d50/structPhysicalInterfaceOsOperStateData.html#a56a7972296df0c49876d628809eaabb9aa41a8a22be3a74e5dc53c42934cc2d25":[2,0,1302,0,0],
-"d2/d50/structPhysicalInterfaceOsOperStateData.html#a5aedab271e35bc255341a161c6a74a97":[2,0,1302,1],
-"d2/d50/structPhysicalInterfaceOsOperStateData.html#a5d44c116feab6898331b92dc2616bb28":[2,0,1302,3]
+"d2/d50/structPhysicalInterfaceOsOperStateData.html#a56a7972296df0c49876d628809eaabb9aa41a8a22be3a74e5dc53c42934cc2d25":[2,0,1302,0,0]
 };

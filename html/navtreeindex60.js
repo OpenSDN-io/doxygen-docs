@@ -1,5 +1,7 @@
 var NAVTREEINDEX60 =
 {
+"d4/d10/structigmp__hdr__.html":[2,0,869],
+"d4/d10/structigmp__hdr__.html#ae3777280ec0f4d55accd785b88f0570d":[2,0,869,1],
 "d4/d10/structigmp__hdr__.html#af93de7ef2bbffd2cf9ad87f1dc7da8ab":[2,0,869,0],
 "d4/d10/structigmp__hdr__.html#afacc70a61647cfa2f081d0792674aa11":[2,0,869,2],
 "d4/d11/structFlowMgmtManager_1_1FlowEntryRefCmp.html":[2,0,700,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX60 =
 "d4/d25/classLogicalInterface.html#a48f6e5398ad8fd05214b66b2a3534a1d":[2,0,1064,15],
 "d4/d25/classLogicalInterface.html#a4efd23c7c2eb5f6bbfffca435eea7b3b":[2,0,1064,4],
 "d4/d25/classLogicalInterface.html#a4fd66c194a0b41cfbcbfebb7781cc2da":[2,0,1064,19],
-"d4/d25/classLogicalInterface.html#a519973af1f6ef0abbea7c7f953b01207":[2,0,1064,3],
-"d4/d25/classLogicalInterface.html#a57f9ddc26d9e9a655cc4a6f3a28bfab5":[2,0,1064,0],
-"d4/d25/classLogicalInterface.html#a57f9ddc26d9e9a655cc4a6f3a28bfab5a6dea0b6db74f520e4f9d9b0d5637d648":[2,0,1064,0,0]
+"d4/d25/classLogicalInterface.html#a519973af1f6ef0abbea7c7f953b01207":[2,0,1064,3]
 };

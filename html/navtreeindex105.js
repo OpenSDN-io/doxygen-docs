@@ -1,5 +1,7 @@
 var NAVTREEINDEX105 =
 {
+"d6/df7/classDnsProto.html#a30b76de73667b7bba6304a7cfa5d9e6ead94da9d96e2d72d393cae4985fecb591":[2,0,595,20,5],
+"d6/df7/classDnsProto.html#a319c049c14ed77281866532e7ef1bbb1":[2,0,595,76],
 "d6/df7/classDnsProto.html#a36837070da1869df5e2cbd039b887738":[2,0,595,92],
 "d6/df7/classDnsProto.html#a36fcc3c9e49fbe0c7ad892ecbf6a8df8":[2,0,595,30],
 "d6/df7/classDnsProto.html#a3faa61302f20e5bc643cbe59997b13eb":[2,0,595,91],
@@ -247,7 +249,5 @@ var NAVTREEINDEX105 =
 "d7/d0b/structfsm_1_1EvBgpKeepalive.html#a34ceca1b86a23ec447e8514a56c955df":[2,0,9,14,1],
 "d7/d0b/structfsm_1_1EvBgpKeepalive.html#a664c61e401c92d7a25d5560c821abf4b":[2,0,9,14,2],
 "d7/d0b/structfsm_1_1EvBgpKeepalive.html#a7594af4006acca34c98e8ab35e9a7a2a":[2,0,9,14,3],
-"d7/d0b/structfsm_1_1EvBgpKeepalive.html#a868469add4679b105a850a3956a21029":[2,0,9,14,0],
-"d7/d0c/classBgpPath.html":[2,0,320],
-"d7/d0c/classBgpPath.html#a04e240e9c9bb4cef693fa6d1516fd2bd":[2,0,320,26]
+"d7/d0b/structfsm_1_1EvBgpKeepalive.html#a868469add4679b105a850a3956a21029":[2,0,9,14,0]
 };

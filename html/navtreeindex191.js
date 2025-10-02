@@ -1,5 +1,7 @@
 var NAVTREEINDEX191 =
 {
+"dd/d06/classcontrail_1_1regex.html#adf5e9765c67ae5528883ef9dc1d26b07":[2,0,5,1,0],
+"dd/d07/xmpp__config_8h.html":[3,0,1327],
 "dd/d07/xmpp__config_8h_source.html":[3,0,1327],
 "dd/d08/bgp__session_8h.html":[3,0,172],
 "dd/d08/bgp__session_8h_source.html":[3,0,172],
@@ -247,7 +249,5 @@ var NAVTREEINDEX191 =
 "dd/d22/classetcdserverpb_1_1Maintenance_1_1Service.html#ad5c307f4273a8a9d597b5af7b055fcbc":[2,0,8,8,0,4],
 "dd/d22/structVrfAssign_1_1VrfAssignKey.html":[2,0,1834,1],
 "dd/d22/structVrfAssign_1_1VrfAssignKey.html#a26550f5bf2487682dd32ae62163011db":[2,0,1834,1,0],
-"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a28d64dcd4839b726b13607e0f156bffc":[2,0,1834,1,2],
-"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a4a0eca73f60b56438c5514f3e830ab04":[2,0,1834,1,1],
-"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a829f69ba3147998e8b0c829f6d5ad970":[2,0,1834,1,5]
+"dd/d22/structVrfAssign_1_1VrfAssignKey.html#a28d64dcd4839b726b13607e0f156bffc":[2,0,1834,1,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX92 =
 {
+"d6/d1f/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncWatchCall.html#a862f32f50db8ce872596d2e7402e40fb":[2,0,7,0,0,4,1],
+"d6/d1f/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncWatchCall.html#aadef83bca100c195cef31daebf9de90b":[2,0,7,0,0,4,4],
 "d6/d1f/structetcd_1_1etcdql_1_1EtcdIf_1_1EtcdAsyncWatchCall.html#aba7cdfc5d3a0bde7110e78985aaef3bf":[2,0,7,0,0,4,0],
 "d6/d1f/vm__stat__docker_8cc.html":[3,0,1237],
 "d6/d1f/vm__stat__docker_8cc_source.html":[3,0,1237],
@@ -247,7 +249,5 @@ var NAVTREEINDEX92 =
 "d6/d2d/classKSyncObject.html#a85c9e4340eb50a1a4a444117f4bbfc34":[2,0,1000,49],
 "d6/d2d/classKSyncObject.html#a86189df2cd238dbdfd99096d3eec9594":[2,0,1000,39],
 "d6/d2d/classKSyncObject.html#a86c12b8bfbc824c4f826bc26e44675f7":[2,0,1000,54],
-"d6/d2d/classKSyncObject.html#a86e5957294cd1532f337113ee646c180":[2,0,1000,55],
-"d6/d2d/classKSyncObject.html#a8be921728b16ff0bf8432f8970a5ed00":[2,0,1000,3],
-"d6/d2d/classKSyncObject.html#a99f78dfadc49cd36ebe9b5f58792ebde":[2,0,1000,29]
+"d6/d2d/classKSyncObject.html#a86e5957294cd1532f337113ee646c180":[2,0,1000,55]
 };

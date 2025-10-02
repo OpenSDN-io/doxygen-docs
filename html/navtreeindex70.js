@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d4/de8/classControllerRouteWalker.html#a8945fb364367deee98f9911653ef3fac":[2,0,508,25],
+"d4/de8/classControllerRouteWalker.html#a9a83bd863bfabbeec2d9fa7b2cdffc85":[2,0,508,8],
 "d4/de8/classControllerRouteWalker.html#a9cc178284e0df9e00a3d53cabd015e2b":[2,0,508,2],
 "d4/de8/classControllerRouteWalker.html#aa0c6da89284416749c4e2cdd2a379c32":[2,0,508,7],
 "d4/de8/classControllerRouteWalker.html#aaa9ae55fcaf337bf9f93e29c7aa3ff2f":[2,0,508,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d4/dff/classConfigAmqpClient.html#a2c2e224b229bb87a4a5c135e5133e01c":[2,0,475,38],
 "d4/dff/classConfigAmqpClient.html#a337f8fee0b37f7fcdea257705edf175c":[2,0,475,1],
 "d4/dff/classConfigAmqpClient.html#a387c63f50eb8689127b3fa8e4c501c31":[2,0,475,9],
-"d4/dff/classConfigAmqpClient.html#a3cebf14de5ad0c756c07f26baa7212b7":[2,0,475,25],
-"d4/dff/classConfigAmqpClient.html#a4c5ce763e553717b529db12df7f744cd":[2,0,475,13],
-"d4/dff/classConfigAmqpClient.html#a5076d9dbaf4433a0543e4c863037d1de":[2,0,475,30]
+"d4/dff/classConfigAmqpClient.html#a3cebf14de5ad0c756c07f26baa7212b7":[2,0,475,25]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX64 =
 {
+"d4/d59/classAgentRouteResync.html#aaa537873a7ac51dfd1ce24ba4f409d0e":[2,0,115,3],
+"d4/d59/classAgentRouteResync.html#af1d8546f933ee55d30ce977b452638cf":[2,0,115,6],
 "d4/d59/classAgentRouteResync.html#afa771d4df2855d85a19255723415e703":[2,0,115,0],
 "d4/d59/classAgentUveBase.html":[2,0,168],
 "d4/d59/classAgentUveBase.html#a04bbadda47e203ac537c86e63106c143":[2,0,168,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX64 =
 "d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a77cb483e29e567a7ffa7d55644788b91":[2,0,8,130,12],
 "d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a783f770988be974844e139ef46af41f7":[2,0,8,130,4],
 "d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a7a638aa699ed270c879a40240f8f638c":[2,0,8,130,1],
-"d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,130,30],
-"d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a7b7d1dacb1ad0e19a5409dce9eb8d4f1":[2,0,8,130,34],
-"d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a86a93e58610798f8ce9c9f91bdfc3f9e":[2,0,8,130,8]
+"d4/d78/classetcdserverpb_1_1AuthEnableRequest.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,130,30]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"dc/d59/ovsdb__client_8h.html":[3,0,829],
+"dc/d59/ovsdb__client_8h_source.html":[3,0,829],
 "dc/d59/xmpp__str_8h.html":[3,0,1354],
 "dc/d59/xmpp__str_8h.html#a064e748ee03ae661b7c33b4647677b76":[3,0,1354,38],
 "dc/d59/xmpp__str_8h.html#a0d456c5eddb00bc9eebdd4c03d898bef":[3,0,1354,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "dc/d6b/classVrouterControlInterface.html#a33eed7b8a4425e54f4ae37f16f5fc2c7":[2,0,1870,8],
 "dc/d6b/classVrouterControlInterface.html#a36804839f16fcc67404b8d85b2e3c831":[2,0,1870,0],
 "dc/d6b/classVrouterControlInterface.html#a6047c3103ad588f5693f65a061e02810":[2,0,1870,3],
-"dc/d6b/classVrouterControlInterface.html#a6483cd52579995a9b1af8d1dcf737333":[2,0,1870,2],
-"dc/d6b/classVrouterControlInterface.html#a7b16929a4c662a0d93d512735c2ba6d7":[2,0,1870,1],
-"dc/d6b/classVrouterControlInterface.html#a7bc936bd926a8f62d3a02991c4f3fda6":[2,0,1870,5]
+"dc/d6b/classVrouterControlInterface.html#a6483cd52579995a9b1af8d1dcf737333":[2,0,1870,2]
 };

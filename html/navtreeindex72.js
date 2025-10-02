@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d5/d0a/classDBTable.html#a68f620ca40cdccedcb6520a57cfc1231":[2,0,546,50],
+"d5/d0a/classDBTable.html#a6a22304e13998dc7e545f12f8598b5a6":[2,0,546,31],
 "d5/d0a/classDBTable.html#a6b62a98212fce7e77771590c1ff5fa18":[2,0,546,25],
 "d5/d0a/classDBTable.html#a6ccf68d14e0cd03240e9126f0bfa99b5":[2,0,546,15],
 "d5/d0a/classDBTable.html#a75da0701cda8fe54be813dd157379b29":[2,0,546,42],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d16/sandesh__message__builder_8h_source.html":[3,0,1029],
 "d5/d17/struct__ThriftProtocol.html":[2,0,33],
 "d5/d17/struct__ThriftProtocol.html#a01c1bb527ff6697f3ceb0dd0b521769c":[2,0,33,48],
-"d5/d17/struct__ThriftProtocol.html#a045f77360dd281c5697eb385cc4030d2":[2,0,33,18],
-"d5/d17/struct__ThriftProtocol.html#a0718bb0d8c78df150923f2fd6f9bb1d0":[2,0,33,14],
-"d5/d17/struct__ThriftProtocol.html#a0cf3eee5203dbb6d88673ba476627c8e":[2,0,33,12]
+"d5/d17/struct__ThriftProtocol.html#a045f77360dd281c5697eb385cc4030d2":[2,0,33,18]
 };

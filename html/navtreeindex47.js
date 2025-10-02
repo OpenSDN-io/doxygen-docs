@@ -1,5 +1,7 @@
 var NAVTREEINDEX47 =
 {
+"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a6b07594abdb94664b47a4c99e6de7c10":[2,0,963,0,5],
+"d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a8c5d41fb48983f871e6a47aab68ccc98":[2,0,963,0,4],
 "d3/d30/structIPeerDebugStats_1_1ErrorStats.html#a967e25e627025c838960c5328bed10bc":[2,0,963,0,3],
 "d3/d30/structIPeerDebugStats_1_1ErrorStats.html#acee2303bb5d66ea840d7738cd8c5a1f0":[2,0,963,0,1],
 "d3/d31/classIFMapExporter.html":[2,0,834],
@@ -247,7 +249,5 @@ var NAVTREEINDEX47 =
 "d3/d38/structPipelineWorker.html#ab3735406522f28fcfe86f5211e8add87":[2,0,1305,0],
 "d3/d3a/structSubTlv.html":[2,0,1635],
 "d3/d3a/structSubTlv.html#a2b707a5b569f4f172efa5461380208e2":[2,0,1635,3],
-"d3/d3a/structSubTlv.html#a7b79f294c3ea5b3b9d20486beb969b7b":[2,0,1635,1],
-"d3/d3a/structSubTlv.html#a7b79f294c3ea5b3b9d20486beb969b7ba57150401df749abeffd2d279b5395fcc":[2,0,1635,1,0],
-"d3/d3a/structSubTlv.html#a7b79f294c3ea5b3b9d20486beb969b7ba69a1a2e0538d5a48e84d23bb5cc7045e":[2,0,1635,1,1]
+"d3/d3a/structSubTlv.html#a7b79f294c3ea5b3b9d20486beb969b7b":[2,0,1635,1]
 };

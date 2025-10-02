@@ -1,5 +1,7 @@
 var NAVTREEINDEX152 =
 {
+"da/d4d/cpuinfo_8h.html#a444cd827ed181e4cd2c85ac5061a42d4":[3,0,297,6],
+"da/d4d/cpuinfo_8h.html#ae19bc7f478d68f42c369619ca65d5231":[3,0,297,5],
 "da/d4d/cpuinfo_8h_source.html":[3,0,297],
 "da/d4d/resource__manager_8h.html":[3,0,965],
 "da/d4d/resource__manager_8h_source.html":[3,0,965],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "da/d56/namespaceetcdserverpb.html#aecba66cdd4fd7f76dc2e4036610bb3c5ac44f446842ce81a87ba912a2357908d6":[1,0,11,166,2],
 "da/d56/namespaceetcdserverpb.html#aecba66cdd4fd7f76dc2e4036610bb3c5ad3f203aacfcffe096127476b33f95beb":[1,0,11,166,4],
 "da/d56/namespaceetcdserverpb.html#aeed22265a75b791ec8fd8bbfafb365e7":[1,0,11,261],
-"da/d56/namespaceetcdserverpb.html#aef6969f049c55754d47c63d04b2eac7c":[1,0,11,241],
-"da/d56/namespaceetcdserverpb.html#aefc0a91544d7c60a01c70ed11dd1cf83":[1,0,11,227],
-"da/d56/namespaceetcdserverpb.html#af0288c2b983f3993ed64bfcfd988db3f":[1,0,11,171]
+"da/d56/namespaceetcdserverpb.html#aef6969f049c55754d47c63d04b2eac7c":[1,0,11,241]
 };

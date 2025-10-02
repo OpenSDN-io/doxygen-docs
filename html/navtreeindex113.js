@@ -1,5 +1,7 @@
 var NAVTREEINDEX113 =
 {
+"d7/d93/classBgpSenderPartition.html#ac2062d57957fcfe74e1b78daf783053a":[2,0,403,16],
+"d7/d93/classBgpSenderPartition.html#ac41d49d9b19f7f0b49d3fb2c3b1af522":[2,0,403,33],
 "d7/d93/classBgpSenderPartition.html#ac6a49f642140432b007c5dceaa16d0e6":[2,0,403,50],
 "d7/d93/classBgpSenderPartition.html#acdbd194b611f2be55e41a39ac8ed4f3c":[2,0,403,45],
 "d7/d93/classBgpSenderPartition.html#acf851ddcdd9c089a6e1c147108a1dd00":[2,0,403,44],
@@ -247,7 +249,5 @@ var NAVTREEINDEX113 =
 "d7/da4/classMacLearningMgmtManager.html#a655cea1e96678b5a38cfc3239fee7711":[2,0,1091,28],
 "d7/da4/classMacLearningMgmtManager.html#a6c80e573ba816bbdd0cedbedb4f52abc":[2,0,1091,2],
 "d7/da4/classMacLearningMgmtManager.html#a6efe1ff70e439e1d4b2de664546a05a6":[2,0,1091,23],
-"d7/da4/classMacLearningMgmtManager.html#a70486a102bbdfdda1948ea07ddfec336":[2,0,1091,33],
-"d7/da4/classMacLearningMgmtManager.html#a724a98d72e53a8d7a0ef11b4c8e80ccc":[2,0,1091,8],
-"d7/da4/classMacLearningMgmtManager.html#a7bc41f31e1d86ae98399d030e1990ae8":[2,0,1091,7]
+"d7/da4/classMacLearningMgmtManager.html#a70486a102bbdfdda1948ea07ddfec336":[2,0,1091,33]
 };

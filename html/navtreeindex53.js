@@ -1,5 +1,7 @@
 var NAVTREEINDEX53 =
 {
+"d3/d96/namespacemvccpb.html#ad98bd2088aaa1439f93083fcd2f6abdeaa44ecc05570f6cdc4094cf93388a312f":[1,0,18,4,3],
+"d3/d96/namespacemvccpb.html#ad98bd2088aaa1439f93083fcd2f6abdeaf3e9f0ecf9c837cfdc9bc0796457b715":[1,0,18,4,2],
 "d3/d96/namespacemvccpb.html#adb518cd35eb0b78ea0768cbd3268e1b2":[1,0,18,13],
 "d3/d97/classInet6Table.html":[2,0,895],
 "d3/d97/classInet6Table.html#a0a140a7f3e344c92854cf3cef5155051":[2,0,895,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX53 =
 "d3/da9/classXmppConfigManager.html#a589f75f15c894e85914c6f47d8d85de7":[2,0,1914,5],
 "d3/da9/classXmppConfigManager.html#a62fab72fd60d8c61347419e4120b16af":[2,0,1914,0],
 "d3/da9/classXmppConfigManager.html#a760f8caa63c2198f775ff63bd4d47662":[2,0,1914,2],
-"d3/da9/classXmppConfigManager.html#a82d454b658b206031974a197ed64c0f2":[2,0,1914,10],
-"d3/da9/classXmppConfigManager.html#a85aaae1e70e317c689076a0a3c0d98e3":[2,0,1914,6],
-"d3/da9/classXmppConfigManager.html#a8e1c767c8ddfe35902b2620c19076425":[2,0,1914,7]
+"d3/da9/classXmppConfigManager.html#a82d454b658b206031974a197ed64c0f2":[2,0,1914,10]
 };

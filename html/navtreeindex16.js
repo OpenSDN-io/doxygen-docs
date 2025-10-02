@@ -1,5 +1,7 @@
 var NAVTREEINDEX16 =
 {
+"d0/def/classBgpTable.html#a962f5fbbb29c5b8f0fc41ed94b0b6b3d":[2,0,409,80],
+"d0/def/classBgpTable.html#a9885fea4b0219d21970c6bdfe0f41786":[2,0,409,69],
 "d0/def/classBgpTable.html#a9b3cc10341ec2e60e8af5b04f5ba8ece":[2,0,409,4],
 "d0/def/classBgpTable.html#a9f0cc40abfa8c9b60b88e66afc1341bb":[2,0,409,46],
 "d0/def/classBgpTable.html#aa04a527fbee7ff1258de9baa40f534af":[2,0,409,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX16 =
 "d0/dff/namespacecontrail_1_1sandesh.html":[1,0,8,0],
 "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7c":[1,0,8,0,20],
 "d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7ca8158f0565dab80586a1f2702a5eae276":[1,0,8,0,20,0],
-"d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7cab4ae726782657ecf4a24215e4ef4d00f":[1,0,8,0,20,1],
-"d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7caba0de64201262ab544a86eb96e781285":[1,0,8,0,20,2],
-"d0/dff/namespacecontrail_1_1sandesh.html#a57944cd9e15c96e9906acebd8eb30c43":[1,0,8,0,23]
+"d0/dff/namespacecontrail_1_1sandesh.html#a3523d0873594c0affe850dbcd5f4cc7cab4ae726782657ecf4a24215e4ef4d00f":[1,0,8,0,20,1]
 };

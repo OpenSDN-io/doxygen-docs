@@ -1,5 +1,7 @@
 var NAVTREEINDEX22 =
 {
+"d1/d67/classetcdserverpb_1_1Lease_1_1Service.html#a2488975e76b8f1bb44a1cc0d0cb7f55a":[2,0,8,6,0,1],
+"d1/d67/classetcdserverpb_1_1Lease_1_1Service.html#ab0d786f0ebd55231b427fe28c279ec21":[2,0,8,6,0,4],
 "d1/d67/classetcdserverpb_1_1Lease_1_1Service.html#ae627c16193fb815ec8433c623d05349b":[2,0,8,6,0,3],
 "d1/d67/classetcdserverpb_1_1Lease_1_1Service.html#afcf872194324fbd20e07f91d1688d801":[2,0,8,6,0,2],
 "d1/d69/bitset_8h.html":[3,0,212],
@@ -247,7 +249,5 @@ var NAVTREEINDEX22 =
 "d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#add4ffefdced64fadde0bf1f28a8c7a59":[2,0,8,124,19],
 "d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#ae474e0c7a0793d267038db7b2e2a6683":[2,0,8,124,25],
 "d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#aea042cc0ab7b9c256216420ccf5ef9ed":[2,0,8,124,3],
-"d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#afd1959dd89da75c2ebc15c5b66cc5d81":[2,0,8,124,27],
-"d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#afe9793e6d70376587fba38dad8d8e652":[2,0,8,124,23],
-"d1/d8f/structInterfaceUveTable_1_1UveInterfaceState.html":[2,0,949,7]
+"d1/d8e/classetcdserverpb_1_1DefragmentResponse.html#afd1959dd89da75c2ebc15c5b66cc5d81":[2,0,8,124,27]
 };

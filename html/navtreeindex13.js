@@ -1,5 +1,7 @@
 var NAVTREEINDEX13 =
 {
+"d0/dcb/classEdgeDiscovery.html":[2,0,613],
+"d0/dcb/classEdgeDiscovery.html#a1204d35dbeea1ed75a09900e347886c4":[2,0,613,13],
 "d0/dcb/classEdgeDiscovery.html#a341e556c8a0b831c08e67fc100358acd":[2,0,613,10],
 "d0/dcb/classEdgeDiscovery.html#a360f78d6908ce90668aee09a64713f37":[2,0,613,3],
 "d0/dcb/classEdgeDiscovery.html#a4772791b78635cbecf652e747542f18c":[2,0,613,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX13 =
 "d0/dd4/classTimer_1_1TimerTask.html#a4e383ac95610e19d9221dfc33ca3af03":[2,0,1710,0,3],
 "d0/dd4/classTimer_1_1TimerTask.html#a5ffcd02cb31a95d62a2adaa2e7c9eb08":[2,0,1710,0,0],
 "d0/dd4/classTimer_1_1TimerTask.html#a6255151c8f510ce21567ae60bf2f6281":[2,0,1710,0,1],
-"d0/dd4/classTimer_1_1TimerTask.html#aa3ec79a7f25f2ab8507871f4d058892a":[2,0,1710,0,6],
-"d0/dd4/classTimer_1_1TimerTask.html#aa975556133c1724e55aefc5621eb26a9":[2,0,1710,0,5],
-"d0/dd4/routing__policy_8cc.html":[3,0,990]
+"d0/dd4/classTimer_1_1TimerTask.html#aa3ec79a7f25f2ab8507871f4d058892a":[2,0,1710,0,6]
 };

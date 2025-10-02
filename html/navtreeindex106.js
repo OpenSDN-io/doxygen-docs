@@ -1,5 +1,7 @@
 var NAVTREEINDEX106 =
 {
+"d7/d0c/classBgpPath.html":[2,0,320],
+"d7/d0c/classBgpPath.html#a04e240e9c9bb4cef693fa6d1516fd2bd":[2,0,320,26],
 "d7/d0c/classBgpPath.html#a0dc72eb8333d09faa92f855042905667":[2,0,320,29],
 "d7/d0c/classBgpPath.html#a0de93dc5382dd856005c018722574420":[2,0,320,46],
 "d7/d0c/classBgpPath.html#a1023149286466aae2fc51c4ecdf309f8":[2,0,320,50],
@@ -247,7 +249,5 @@ var NAVTREEINDEX106 =
 "d7/d18/structGracefulRestartParameters.html#a1d7fa6980454311912e9624d974a74d8":[2,0,787,15],
 "d7/d18/structGracefulRestartParameters.html#a221b4c53be3ef59e30d42991d5d44c6d":[2,0,787,7],
 "d7/d18/structGracefulRestartParameters.html#a26ad1e55cd7dfe0a2582042b7040b492":[2,0,787,5],
-"d7/d18/structGracefulRestartParameters.html#a348a8a89341a50033b6c711c43dc8426":[2,0,787,6],
-"d7/d18/structGracefulRestartParameters.html#a392b8ccac1b95a43655c34ac68ca1f4b":[2,0,787,17],
-"d7/d18/structGracefulRestartParameters.html#a3f7bf11f97040daebaa6dc61f636a946":[2,0,787,0]
+"d7/d18/structGracefulRestartParameters.html#a348a8a89341a50033b6c711c43dc8426":[2,0,787,6]
 };

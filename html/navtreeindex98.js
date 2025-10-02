@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"d6/d92/classauthpb_1_1Role.html#ab9b8a13556efe09a0713596a0ec3055e":[2,0,0,5,35],
+"d6/d92/classauthpb_1_1Role.html#abcb269c88f3bf98b974150f971425499":[2,0,0,5,19],
 "d6/d92/classauthpb_1_1Role.html#ac29cc2008a59d456b99b7f80417d28ae":[2,0,0,5,20],
 "d6/d92/classauthpb_1_1Role.html#ac382d79b59fb345eb7ae21cf700b7904":[2,0,0,5,13],
 "d6/d92/classauthpb_1_1Role.html#ac3e34fb295a2ab3c8eef3ae9ca2a1940":[2,0,0,5,43],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "d6/d9d/classAgentQosConfigTable.html#a83fd5b38db9b90168d0b35086801af3d":[2,0,109,20],
 "d6/d9d/classAgentQosConfigTable.html#a869bf67afa1ded8ef5bba8dde678a51a":[2,0,109,19],
 "d6/d9d/classAgentQosConfigTable.html#a8a56e9b489a04344f32c7c0dd63a2ede":[2,0,109,15],
-"d6/d9d/classAgentQosConfigTable.html#a93542d1cfcec153c410a76ced99ec961":[2,0,109,33],
-"d6/d9d/classAgentQosConfigTable.html#a97d20f1b1f11ed2cf268a978f3b41374":[2,0,109,27],
-"d6/d9d/classAgentQosConfigTable.html#ab2136b60f09a5ef79474ebe7012e681a":[2,0,109,0]
+"d6/d9d/classAgentQosConfigTable.html#a93542d1cfcec153c410a76ced99ec961":[2,0,109,33]
 };

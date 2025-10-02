@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a1149245c260eafd71075f9a73f2f7cd9":[2,0,1782,25,3],
+"d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a1812dc69f1e9f959cd17c13dd58a02ef":[2,0,1782,25,14],
 "d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a32a1ec9cfb42836f77b5ece57f9bce0e":[2,0,1782,25,6],
 "d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a5210c309cf36d57091061e54d3ac8bf2":[2,0,1782,25,4],
 "d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a61c77ee78d2010408f610398ba8cc17f":[2,0,1782,25,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "d1/d12/structVirtualDnsRecordConfig.html#a84a8765e6bc7b61bab45be3b861c7721":[2,0,1760,14],
 "d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3":[2,0,1760,2],
 "d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3a33b118460e1e90f2d926cd1dc7f56770":[2,0,1760,2,0],
-"d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3a9edfac7fff18bb07235c52bec8c24603":[2,0,1760,2,1],
-"d1/d12/structVirtualDnsRecordConfig.html#a922d0c451efaa00439e28e66516288fb":[2,0,1760,21],
-"d1/d12/structVirtualDnsRecordConfig.html#aa469ce7ea375c66155b60adc657134f7":[2,0,1760,25]
+"d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3a9edfac7fff18bb07235c52bec8c24603":[2,0,1760,2,1]
 };

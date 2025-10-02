@@ -1,5 +1,7 @@
 var NAVTREEINDEX173 =
 {
+"db/dd2/classAgentUtXmlGlobalVrouter.html#ab4c0ad062026b3cf31a910cda06ec32a":[2,0,137,8],
+"db/dd2/classAgentUtXmlGlobalVrouter.html#ac1257d5a6845c94be82b8c7e69c4bba7":[2,0,137,3],
 "db/dd2/classAgentUtXmlGlobalVrouter.html#ad6037f1ae8c4710b3f862dc99cfdc413":[2,0,137,4],
 "db/dd2/classAgentUtXmlGlobalVrouter.html#adc60ece9730557220c1340e68cc7d1c9":[2,0,137,7],
 "db/dd4/classRibOut.html":[2,0,1420],
@@ -247,7 +249,5 @@ var NAVTREEINDEX173 =
 "db/de3/bgp__attr__base_8h.html":[3,0,109],
 "db/de3/bgp__attr__base_8h_source.html":[3,0,109],
 "db/de3/classAgentSandeshManager.html":[2,0,122],
-"db/de3/classAgentSandeshManager.html#a000346eb96d7dde2fc933367b2559f5f":[2,0,122,1],
-"db/de3/classAgentSandeshManager.html#a1ec9d17de9ccd9663556e493cb411d20":[2,0,122,6],
-"db/de3/classAgentSandeshManager.html#a2658e8d977b6bb19c5a63dfc1476cbec":[2,0,122,3]
+"db/de3/classAgentSandeshManager.html#a000346eb96d7dde2fc933367b2559f5f":[2,0,122,1]
 };

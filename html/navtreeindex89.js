@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d5/dea/structSessionStatsParams.html":[2,0,1579],
+"d5/dea/structSessionStatsParams.html#a1a120d3a2e02e4d73e186c1fd3b58a23":[2,0,1579,2],
 "d5/dea/structSessionStatsParams.html#a696c007d8b9092e6b2d507a502b30696":[2,0,1579,3],
 "d5/dea/structSessionStatsParams.html#aaf26aecc010eb05d014285397360df03":[2,0,1579,0],
 "d5/dea/structSessionStatsParams.html#ac6a77eab64127ac418baba132b298f5e":[2,0,1579,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d5/dff/security__group_8cc.html":[3,0,1047],
 "d5/dff/security__group_8cc_source.html":[3,0,1047],
 "d6/d00/classPatriciaNode.html":[2,0,1278],
-"d6/d00/classPatriciaNode.html#a1f58a78dd1164a333d36df0bb5945a32":[2,0,1278,1],
-"d6/d00/classPatriciaNode.html#a1fb2b4ce98214d039c8caf5711cf6b32":[2,0,1278,3],
-"d6/d00/classPatriciaNode.html#a4b06b2f601b049f54f2662059a06cf8f":[2,0,1278,6]
+"d6/d00/classPatriciaNode.html#a1f58a78dd1164a333d36df0bb5945a32":[2,0,1278,1]
 };

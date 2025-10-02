@@ -1,5 +1,7 @@
 var NAVTREEINDEX36 =
 {
+"d2/d7a/classBgpYamlConfigManager.html#af2eb070105dafe56236e7156da085e37":[2,0,421,2],
+"d2/d7a/classBgpYamlConfigManager.html#af4742ed8da61aaef5b52c5626b850926":[2,0,421,10],
 "d2/d7a/classBgpYamlConfigManager.html#af9e55f2d60d55ff2c415ca8f15c091c7":[2,0,421,19],
 "d2/d7b/classPhysicalDeviceVn.html":[2,0,1294],
 "d2/d7b/classPhysicalDeviceVn.html#a157c794948ca35915a363eba67b1745d":[2,0,1294,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX36 =
 "d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a0203a82c980b5c3af39ff64b762b9658":[2,0,8,152,1],
 "d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a0574920556cf0f05af662b65fbe272b1":[2,0,8,152,19],
 "d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a0915593ca0e4947712f1c0ecf87560aa":[2,0,8,152,38],
-"d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a0ec48f01812ccf9fcce5803cf99e95a3":[2,0,8,152,28],
-"d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a1036075f6bb9865f4bb7796f7594ac61":[2,0,8,152,13],
-"d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a150a70832fa9a0bae868cc1bc37a79fa":[2,0,8,152,40]
+"d2/d8f/classetcdserverpb_1_1AuthUserChangePasswordResponse.html#a0ec48f01812ccf9fcce5803cf99e95a3":[2,0,8,152,28]
 };
