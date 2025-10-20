@@ -5,6 +5,7 @@ var classBgpAttrDB =
     [ "ReplaceCommunityAndLocate", "d7/d34/classBgpAttrDB.html#ae26d0ff179f7a53ee325001011156eeb", null ],
     [ "ReplaceEsiAndLocate", "d7/d34/classBgpAttrDB.html#ad683a0b2e002d9d80598cd761e870e50", null ],
     [ "ReplaceExtCommunityAndLocate", "d7/d34/classBgpAttrDB.html#aa0b48325968df00687b5452a9641fd1b", null ],
+    [ "ReplaceLargeCommunityAndLocate", "d7/d34/classBgpAttrDB.html#ac6f3e0f6c6fc7ad950b2919ecf5c3b30", null ],
     [ "ReplaceLeafOListAndLocate", "d7/d34/classBgpAttrDB.html#a5cb92dcbcaa838883a9e658f77c053a4", null ],
     [ "ReplaceLocalPreferenceAndLocate", "d7/d34/classBgpAttrDB.html#a3b9e04df402e72067e709a518d0ee9eb", null ],
     [ "ReplaceNexthopAndLocate", "d7/d34/classBgpAttrDB.html#a517fa916d32aa26ae794101bd51a5144", null ],

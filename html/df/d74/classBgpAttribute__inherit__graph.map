@@ -1,5 +1,5 @@
 <map id="BgpAttribute" name="BgpAttribute">
-<area shape="rect" id="node1" title=" " alt="" coords="148,664,243,691"/>
+<area shape="rect" id="node1" title=" " alt="" coords="148,689,243,716"/>
 <area shape="rect" id="node3" href="$d5/dfd/structAs4PathSpec.html" title=" " alt="" coords="323,5,425,32"/>
 <area shape="rect" id="node4" href="$dd/d24/structAsPath4ByteSpec.html" title=" " alt="" coords="309,56,439,83"/>
 <area shape="rect" id="node5" href="$d6/dbf/structAsPathSpec.html" title=" " alt="" coords="327,107,421,133"/>
@@ -25,7 +25,8 @@
 <area shape="rect" id="node25" href="$d3/deb/structEdgeDiscoverySpec.html" title=" " alt="" coords="303,1120,445,1147"/>
 <area shape="rect" id="node26" href="$d8/da5/structEdgeForwardingSpec.html" title=" " alt="" coords="301,1171,447,1197"/>
 <area shape="rect" id="node27" href="$da/dd9/classExtCommunitySpec.html" title=" " alt="" coords="305,1221,443,1248"/>
-<area shape="rect" id="node28" href="$d2/dab/structOriginVnPathSpec.html" title=" " alt="" coords="309,1272,439,1299"/>
-<area shape="rect" id="node29" href="$d2/d3e/structPmsiTunnelSpec.html" title=" " alt="" coords="314,1323,434,1349"/>
-<area shape="rect" id="node2" href="$d3/d38/classParseObject.html" title=" " alt="" coords="5,664,100,691"/>
+<area shape="rect" id="node28" href="$d8/dd6/classLargeCommunitySpec.html" title="This class encapsulates the wire&#45;format representation of a BGP Large Community attribute and provide..." alt="" coords="299,1272,449,1299"/>
+<area shape="rect" id="node29" href="$d2/dab/structOriginVnPathSpec.html" title=" " alt="" coords="309,1323,439,1349"/>
+<area shape="rect" id="node30" href="$d2/d3e/structPmsiTunnelSpec.html" title=" " alt="" coords="314,1373,434,1400"/>
+<area shape="rect" id="node2" href="$d3/d38/classParseObject.html" title=" " alt="" coords="5,689,100,716"/>
 </map>

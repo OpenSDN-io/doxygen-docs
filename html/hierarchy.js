@@ -535,6 +535,9 @@ var hierarchy =
     [ "BgpPathAttributeDB< ExtCommunity, ExtCommunityPtr, ExtCommunitySpec, ExtCommunityCompare, ExtCommunityDB >", "d6/dd7/classBgpPathAttributeDB.html", [
       [ "ExtCommunityDB", "d2/ddb/classExtCommunityDB.html", null ]
     ] ],
+    [ "BgpPathAttributeDB< LargeCommunity, LargeCommunityPtr, LargeCommunitySpec, LargeCommunityCompare, LargeCommunityDB >", "d6/dd7/classBgpPathAttributeDB.html", [
+      [ "LargeCommunityDB", "d3/d3a/classLargeCommunityDB.html", null ]
+    ] ],
     [ "BgpPathAttributeDB< OriginVnPath, OriginVnPathPtr, OriginVnPathSpec, OriginVnPathCompare, OriginVnPathDB >", "d6/dd7/classBgpPathAttributeDB.html", [
       [ "OriginVnPathDB", "d0/d28/classOriginVnPathDB.html", null ]
     ] ],
@@ -1464,6 +1467,9 @@ var hierarchy =
       [ "ProtoElement< NotificationErrorCode >", "d4/d4d/classProtoElement.html", [
         [ "NotificationErrorCode", "d3/deb/classNotificationErrorCode.html", null ]
       ] ],
+      [ "ProtoElement< BgpPathAttributeLargeCommunityList >", "d4/d4d/classProtoElement.html", [
+        [ "BgpPathAttributeLargeCommunityList", "d3/d62/classBgpPathAttributeLargeCommunityList.html", null ]
+      ] ],
       [ "ProtoElement< BgpPathAttributeExtendedCommunityList >", "d4/d4d/classProtoElement.html", [
         [ "BgpPathAttributeExtendedCommunityList", "d7/d9a/classBgpPathAttributeExtendedCommunityList.html", null ]
       ] ],
@@ -1555,6 +1561,9 @@ var hierarchy =
         ] ],
         [ "ProtoSequence< BgpPathAttributeExtendedCommunities >", "d5/d3f/classProtoSequence.html", [
           [ "BgpPathAttributeExtendedCommunities", "d0/da0/classBgpPathAttributeExtendedCommunities.html", null ]
+        ] ],
+        [ "ProtoSequence< BgpPathAttributeLargeCommunities >", "d5/d3f/classProtoSequence.html", [
+          [ "BgpPathAttributeLargeCommunities", "d4/d26/classBgpPathAttributeLargeCommunities.html", null ]
         ] ],
         [ "ProtoSequence< BgpUpdateNlri >", "d5/d3f/classProtoSequence.html", [
           [ "BgpUpdateNlri", "da/d18/classBgpUpdateNlri.html", null ]
@@ -2295,6 +2304,8 @@ var hierarchy =
     [ "L4PortBitmap", "df/d22/structL4PortBitmap.html", null ],
     [ "LabelBlock", "dc/d2b/classLabelBlock.html", null ],
     [ "LabelBlockManager", "da/dbc/classLabelBlockManager.html", null ],
+    [ "LargeCommunity", "d9/dea/classLargeCommunity.html", null ],
+    [ "LargeCommunityCompare", "df/d0c/structLargeCommunityCompare.html", null ],
     [ "etcdserverpb::Lease", "d8/d88/classetcdserverpb_1_1Lease.html", null ],
     [ "etcdserverpb::LeaseGrantRequestDefaultTypeInternal", "d3/d9e/classetcdserverpb_1_1LeaseGrantRequestDefaultTypeInternal.html", null ],
     [ "etcdserverpb::LeaseGrantResponseDefaultTypeInternal", "da/d51/classetcdserverpb_1_1LeaseGrantResponseDefaultTypeInternal.html", null ],
@@ -2758,6 +2769,7 @@ var hierarchy =
         [ "EdgeDiscoverySpec", "d3/deb/structEdgeDiscoverySpec.html", null ],
         [ "EdgeForwardingSpec", "d8/da5/structEdgeForwardingSpec.html", null ],
         [ "ExtCommunitySpec", "da/dd9/classExtCommunitySpec.html", null ],
+        [ "LargeCommunitySpec", "d8/dd6/classLargeCommunitySpec.html", null ],
         [ "OriginVnPathSpec", "d2/dab/structOriginVnPathSpec.html", null ],
         [ "PmsiTunnelSpec", "d2/d3e/structPmsiTunnelSpec.html", null ]
       ] ],

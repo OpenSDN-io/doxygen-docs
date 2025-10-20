@@ -18,6 +18,7 @@ var classBgpAttribute =
       [ "As4Path", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1a7706906d9e675184507045d538cc4906", null ],
       [ "As4Aggregator", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1ab60a93bab8e91f751727775a01f19bbc", null ],
       [ "PmsiTunnel", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1a7981008898e19b7038ee511cfaba33a0", null ],
+      [ "LargeCommunities", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1ace3415a5a2c8d7c443140d7d5ce320db", null ],
       [ "McastEdgeDiscovery", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1aeb37b97bf06686afa0a0c63963a6806d", null ],
       [ "McastEdgeForwarding", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1a485d8c1df95d3007634c48e814da9335", null ],
       [ "OriginVnPath", "d9/dc1/classBgpAttribute.html#a0f53da2f5b76912fd8742705d23faae1a305f493a8baf7a758c6de3f23f4e97cf", null ]

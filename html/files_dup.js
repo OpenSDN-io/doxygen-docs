@@ -353,6 +353,8 @@ var files_dup =
       [ "BgpPathAttributeCommunities", "d5/dbc/classBgpPathAttributeCommunities.html", "d5/dbc/classBgpPathAttributeCommunities" ],
       [ "BgpPathAttributeExtendedCommunityList", "d7/d9a/classBgpPathAttributeExtendedCommunityList.html", "d7/d9a/classBgpPathAttributeExtendedCommunityList" ],
       [ "BgpPathAttributeExtendedCommunities", "d0/da0/classBgpPathAttributeExtendedCommunities.html", "d0/da0/classBgpPathAttributeExtendedCommunities" ],
+      [ "BgpPathAttributeLargeCommunityList", "d3/d62/classBgpPathAttributeLargeCommunityList.html", "d3/d62/classBgpPathAttributeLargeCommunityList" ],
+      [ "BgpPathAttributeLargeCommunities", "d4/d26/classBgpPathAttributeLargeCommunities.html", "d4/d26/classBgpPathAttributeLargeCommunities" ],
       [ "BgpPathAttributeClusterListData", "df/dc1/classBgpPathAttributeClusterListData.html", "df/dc1/classBgpPathAttributeClusterListData" ],
       [ "BgpPathAttributeClusterList", "d4/db3/classBgpPathAttributeClusterList.html", "d4/db3/classBgpPathAttributeClusterList" ],
       [ "BgpPathAttributeOriginVnList", "dc/d60/classBgpPathAttributeOriginVnList.html", "dc/d60/classBgpPathAttributeOriginVnList" ],

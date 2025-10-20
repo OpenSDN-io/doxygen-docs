@@ -214,6 +214,18 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/classExtCommunityDB.html">ExtCommunityDB</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/classLargeCommunitySpec.html">LargeCommunitySpec</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class encapsulates the wire-format representation of a BGP Large <a class="el" href="../../db/da5/classCommunity.html">Community</a> attribute and provides encoding, comparison, and canonicalization functions for Large <a class="el" href="../../db/da5/classCommunity.html">Community</a> attributes.  <a href="../../d8/dd6/classLargeCommunitySpec.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents an array of BGP Large <a class="el" href="../../db/da5/classCommunity.html">Community</a> values. A <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> consists of one or more 12-byte tuples. This class provides manipulation (append, remove, set), comparison, hashing, and conversion to/from human-readable formats.  <a href="../../d9/dea/classLargeCommunity.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/structLargeCommunityCompare.html">LargeCommunityCompare</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A structure to compare order <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> objects.  <a href="../../df/d0c/structLargeCommunityCompare.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3a/classLargeCommunityDB.html">LargeCommunityDB</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represents a database for managing <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> objects. It is used to store, deduplicate, and retrieve canonical instances of <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a>.  <a href="../../d3/d3a/classLargeCommunityDB.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
@@ -221,6 +233,9 @@ Typedefs</h2></td></tr>
 <tr class="separator:aaf0d19e064add8d7586b3ea5f7888e22"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac0dffce10e7cbdd4ef9e5a689991344e"><td class="memItemLeft" align="right" valign="top">typedef boost::intrusive_ptr&lt; const <a class="el" href="../../da/d36/classExtCommunity.html">ExtCommunity</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#ac0dffce10e7cbdd4ef9e5a689991344e">ExtCommunityPtr</a></td></tr>
 <tr class="separator:ac0dffce10e7cbdd4ef9e5a689991344e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a5f8f63a42cb7f657a9d5a2e998aed1"><td class="memItemLeft" align="right" valign="top">typedef boost::intrusive_ptr&lt; const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#a0a5f8f63a42cb7f657a9d5a2e998aed1">LargeCommunityPtr</a></td></tr>
+<tr class="memdesc:a0a5f8f63a42cb7f657a9d5a2e998aed1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines a type for automatic storage of a <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> instance.  <a href="../../d1/da6/community_8h.html#a0a5f8f63a42cb7f657a9d5a2e998aed1">More...</a><br /></td></tr>
+<tr class="separator:a0a5f8f63a42cb7f657a9d5a2e998aed1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -236,6 +251,15 @@ Functions</h2></td></tr>
 <tr class="separator:ab13f727ecf74d0127d9a2e0b5f66a176"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2ab18631739988a6d4037d0b1d31e665"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#a2ab18631739988a6d4037d0b1d31e665">intrusive_ptr_release</a> (const <a class="el" href="../../da/d36/classExtCommunity.html">ExtCommunity</a> *cextcomm)</td></tr>
 <tr class="separator:a2ab18631739988a6d4037d0b1d31e665"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e9b3a9024b8b2357ab1d6b18babea75"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#a5e9b3a9024b8b2357ab1d6b18babea75">intrusive_ptr_add_ref</a> (const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *clargecomm)</td></tr>
+<tr class="memdesc:a5e9b3a9024b8b2357ab1d6b18babea75"><td class="mdescLeft">&#160;</td><td class="mdescRight">Increment reference count atomically.  <a href="../../d1/da6/community_8h.html#a5e9b3a9024b8b2357ab1d6b18babea75">More...</a><br /></td></tr>
+<tr class="separator:a5e9b3a9024b8b2357ab1d6b18babea75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37baafb860f7e737494aef97dd484adc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#a37baafb860f7e737494aef97dd484adc">intrusive_ptr_del_ref</a> (const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *clargecomm)</td></tr>
+<tr class="memdesc:a37baafb860f7e737494aef97dd484adc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decrement reference count of given large community.  <a href="../../d1/da6/community_8h.html#a37baafb860f7e737494aef97dd484adc">More...</a><br /></td></tr>
+<tr class="separator:a37baafb860f7e737494aef97dd484adc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab09239cbd878dcd87e59c4c40afde059"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da6/community_8h.html#ab09239cbd878dcd87e59c4c40afde059">intrusive_ptr_release</a> (const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *clargecomm)</td></tr>
+<tr class="memdesc:ab09239cbd878dcd87e59c4c40afde059"><td class="mdescLeft">&#160;</td><td class="mdescRight">Release a <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> instance when the reference count reaches zero.  <a href="../../d1/da6/community_8h.html#ab09239cbd878dcd87e59c4c40afde059">More...</a><br /></td></tr>
+<tr class="separator:ab09239cbd878dcd87e59c4c40afde059"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="aaf0d19e064add8d7586b3ea5f7888e22"></a>
@@ -250,7 +274,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00109">109</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00110">110</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
@@ -266,13 +290,31 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00448">448</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00449">449</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+
+</div>
+</div>
+<a id="a0a5f8f63a42cb7f657a9d5a2e998aed1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a5f8f63a42cb7f657a9d5a2e998aed1">&#9670;&nbsp;</a></span>LargeCommunityPtr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef boost::intrusive_ptr&lt;const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a>&gt; <a class="el" href="../../d1/da6/community_8h.html#a0a5f8f63a42cb7f657a9d5a2e998aed1">LargeCommunityPtr</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Defines a type for automatic storage of a <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> instance. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00667">667</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a8326894c8a293b759b52f3611e1fcdd0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8326894c8a293b759b52f3611e1fcdd0">&#9670;&nbsp;</a></span>intrusive_ptr_add_ref() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8326894c8a293b759b52f3611e1fcdd0">&#9670;&nbsp;</a></span>intrusive_ptr_add_ref() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -295,12 +337,12 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00091">91</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00092">92</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <a id="aa3945593b9ab095d21df633a34a20541"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa3945593b9ab095d21df633a34a20541">&#9670;&nbsp;</a></span>intrusive_ptr_add_ref() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3945593b9ab095d21df633a34a20541">&#9670;&nbsp;</a></span>intrusive_ptr_add_ref() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -323,12 +365,42 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00430">430</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00431">431</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+
+</div>
+</div>
+<a id="a5e9b3a9024b8b2357ab1d6b18babea75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e9b3a9024b8b2357ab1d6b18babea75">&#9670;&nbsp;</a></span>intrusive_ptr_add_ref() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int intrusive_ptr_add_ref </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *&#160;</td>
+          <td class="paramname"><em>clargecomm</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Increment reference count atomically. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00645">645</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <a id="aecc9c5a248b2a0ff69940f281258fe2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecc9c5a248b2a0ff69940f281258fe2a">&#9670;&nbsp;</a></span>intrusive_ptr_del_ref() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aecc9c5a248b2a0ff69940f281258fe2a">&#9670;&nbsp;</a></span>intrusive_ptr_del_ref() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -351,12 +423,12 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00095">95</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00096">96</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <a id="ab13f727ecf74d0127d9a2e0b5f66a176"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab13f727ecf74d0127d9a2e0b5f66a176">&#9670;&nbsp;</a></span>intrusive_ptr_del_ref() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab13f727ecf74d0127d9a2e0b5f66a176">&#9670;&nbsp;</a></span>intrusive_ptr_del_ref() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -379,12 +451,43 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00434">434</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00435">435</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+
+</div>
+</div>
+<a id="a37baafb860f7e737494aef97dd484adc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37baafb860f7e737494aef97dd484adc">&#9670;&nbsp;</a></span>intrusive_ptr_del_ref() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int intrusive_ptr_del_ref </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *&#160;</td>
+          <td class="paramname"><em>clargecomm</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Decrement reference count of given large community. </p>
+<p>Decrement reference count of an clargecomm. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00650">650</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <a id="a8eea1c7c12678a329c7331b4f022b800"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8eea1c7c12678a329c7331b4f022b800">&#9670;&nbsp;</a></span>intrusive_ptr_release() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8eea1c7c12678a329c7331b4f022b800">&#9670;&nbsp;</a></span>intrusive_ptr_release() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -407,12 +510,12 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00099">99</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00100">100</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>
 <a id="a2ab18631739988a6d4037d0b1d31e665"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ab18631739988a6d4037d0b1d31e665">&#9670;&nbsp;</a></span>intrusive_ptr_release() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ab18631739988a6d4037d0b1d31e665">&#9670;&nbsp;</a></span>intrusive_ptr_release() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -435,7 +538,37 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00438">438</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00439">439</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
+
+</div>
+</div>
+<a id="ab09239cbd878dcd87e59c4c40afde059"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab09239cbd878dcd87e59c4c40afde059">&#9670;&nbsp;</a></span>intrusive_ptr_release() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void intrusive_ptr_release </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/dea/classLargeCommunity.html">LargeCommunity</a> *&#160;</td>
+          <td class="paramname"><em>clargecomm</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Release a <a class="el" href="../../d9/dea/classLargeCommunity.html" title="This class represents an array of BGP Large Community values. A LargeCommunity consists of one or mor...">LargeCommunity</a> instance when the reference count reaches zero. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/da6/community_8h_source.html#l00656">656</a> of file <a class="el" href="../../d1/da6/community_8h_source.html">community.h</a>.</p>
 
 </div>
 </div>

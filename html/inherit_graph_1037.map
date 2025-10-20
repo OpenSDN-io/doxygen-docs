@@ -1,16 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html" title=" " alt="" coords="5,36,200,63"/>
-<area shape="rect" id="node2" href="$db/dd5/classOVSDB_1_1OvsdbClientSslSession.html" title=" " alt="" coords="512,5,727,32"/>
-<area shape="rect" id="node3" href="$dc/d4d/classOVSDB_1_1OvsdbClientTcpSession.html" title=" " alt="" coords="248,87,464,113"/>
-<area shape="rect" id="node4" title=" " alt="" coords="271,36,441,63"/>
-<area shape="rect" id="node5" href="$da/d27/structHttpSession.html" title=" " alt="" coords="572,75,667,101"/>
-<area shape="rect" id="node6" href="$d0/d06/classMetadataServerSession.html" title=" " alt="" coords="775,75,936,101"/>
-<area shape="rect" id="node7" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="57,188,148,215"/>
-<area shape="rect" id="node8" href="$d5/de5/classBgpSession.html" title=" " alt="" coords="310,239,402,265"/>
-<area shape="rect" id="node9" href="$d7/dab/classHttpClientSession.html" title=" " alt="" coords="292,289,420,316"/>
-<area shape="rect" id="node11" href="$df/d64/classKSyncSockTcpSession.html" title=" " alt="" coords="277,137,435,164"/>
-<area shape="rect" id="node12" href="$db/dda/classSslSession.html" title=" " alt="" coords="312,188,400,215"/>
-<area shape="rect" id="node10" href="$d1/d11/classMetadataClientSession.html" title=" " alt="" coords="541,289,698,316"/>
-<area shape="rect" id="node13" href="$d1/dfd/classSandeshSession.html" title=" " alt="" coords="559,213,679,240"/>
-<area shape="rect" id="node14" href="$d5/d13/classXmppSession.html" title=" " alt="" coords="568,163,671,189"/>
+<area shape="rect" id="node1" href="$de/d42/classOVSDB_1_1OvsdbClientIdl.html" title=" " alt="" coords="5,5,168,32"/>
 </map>
