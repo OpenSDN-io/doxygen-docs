@@ -107,24 +107,30 @@ Collaboration diagram for Trace&lt; TraceEntryT &gt;:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a022923179d4979edc004c3277991c4be"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; const std::string, boost::weak_ptr&lt; <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt; TraceEntryT &gt; &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a022923179d4979edc004c3277991c4be">TraceBufMap</a></td></tr>
-<tr class="separator:a022923179d4979edc004c3277991c4be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a333ae44413495e600ea4a5f21c65ed0f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a> = typename <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt; TraceEntryT &gt;::<a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a></td></tr>
+<tr class="memdesc:a333ae44413495e600ea4a5f21c65ed0f"><td class="mdescLeft">&#160;</td><td class="mdescRight">A link to the trace buffers table type.  <a href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">More...</a><br /></td></tr>
+<tr class="separator:a333ae44413495e600ea4a5f21c65ed0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aa665e716a69f14893bee557d6240161b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#aa665e716a69f14893bee557d6240161b">TraceOn</a> ()</td></tr>
+<tr class="memdesc:aa665e716a69f14893bee557d6240161b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enables tracing for the table.  <a href="../../d4/d8b/classTrace.html#aa665e716a69f14893bee557d6240161b">More...</a><br /></td></tr>
 <tr class="separator:aa665e716a69f14893bee557d6240161b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92d9dd36f03de7583f2ca815d5e6709e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a92d9dd36f03de7583f2ca815d5e6709e">TraceOff</a> ()</td></tr>
+<tr class="memdesc:a92d9dd36f03de7583f2ca815d5e6709e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Disables tracing for the table.  <a href="../../d4/d8b/classTrace.html#a92d9dd36f03de7583f2ca815d5e6709e">More...</a><br /></td></tr>
 <tr class="separator:a92d9dd36f03de7583f2ca815d5e6709e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9626d22a8b8069555f6ae3a7bd905c07"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a9626d22a8b8069555f6ae3a7bd905c07">IsTraceOn</a> ()</td></tr>
+<tr class="memdesc:a9626d22a8b8069555f6ae3a7bd905c07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines whether tracing is enabled for the table.  <a href="../../d4/d8b/classTrace.html#a9626d22a8b8069555f6ae3a7bd905c07">More...</a><br /></td></tr>
 <tr class="separator:a9626d22a8b8069555f6ae3a7bd905c07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1d4acfbaad8c333575d5ac994a4c8c64"><td class="memItemLeft" align="right" valign="top">boost::shared_ptr&lt; <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt; TraceEntryT &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a1d4acfbaad8c333575d5ac994a4c8c64">TraceBufGet</a> (const std::string &amp;buf_name)</td></tr>
 <tr class="separator:a1d4acfbaad8c333575d5ac994a4c8c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19e877455bf7fc168d0dcd0cfa733f70"><td class="memItemLeft" align="right" valign="top">boost::shared_ptr&lt; <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt; TraceEntryT &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a19e877455bf7fc168d0dcd0cfa733f70">TraceBufAdd</a> (const std::string &amp;buf_name, size_t size, bool trace_enable)</td></tr>
 <tr class="separator:a19e877455bf7fc168d0dcd0cfa733f70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3fffb40a2120037f50c8b81245c08aad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a3fffb40a2120037f50c8b81245c08aad">TraceBufListGet</a> (std::vector&lt; std::string &gt; &amp;trace_buf_list)</td></tr>
+<tr class="memdesc:a3fffb40a2120037f50c8b81245c08aad"><td class="mdescLeft">&#160;</td><td class="mdescRight">Requests the list of trace buffers names from the table.  <a href="../../d4/d8b/classTrace.html#a3fffb40a2120037f50c8b81245c08aad">More...</a><br /></td></tr>
 <tr class="separator:a3fffb40a2120037f50c8b81245c08aad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c5edb4dc8b53b188dd074fb89339e0f"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a9c5edb4dc8b53b188dd074fb89339e0f">TraceBufCapacityGet</a> (const std::string &amp;buf_name)</td></tr>
+<tr class="memdesc:a9c5edb4dc8b53b188dd074fb89339e0f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the capacity of the trace buffer with the given name.  <a href="../../d4/d8b/classTrace.html#a9c5edb4dc8b53b188dd074fb89339e0f">More...</a><br /></td></tr>
 <tr class="separator:a9c5edb4dc8b53b188dd074fb89339e0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6c7a6150859cb891bf15ac176e96bb52"><td class="memItemLeft" align="right" valign="top">boost::shared_ptr&lt; <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt; TraceEntryT &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a6c7a6150859cb891bf15ac176e96bb52">TraceBufCapacityReset</a> (const std::string &amp;buf_name, size_t size)</td></tr>
 <tr class="separator:a6c7a6150859cb891bf15ac176e96bb52"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -132,13 +138,16 @@ Public Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a9f5b31a9b363e91525b0f8b292d16147"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d8b/classTrace.html">Trace</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147">GetInstance</a> ()</td></tr>
+<tr class="memdesc:a9f5b31a9b363e91525b0f8b292d16147"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a pointer to the trace buffers table instance.  <a href="../../d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147">More...</a><br /></td></tr>
 <tr class="separator:a9f5b31a9b363e91525b0f8b292d16147"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:a9b09d12b07ea0ab0e5b390fc48fc85f5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5">Trace</a> ()</td></tr>
+<tr class="memdesc:a9b09d12b07ea0ab0e5b390fc48fc85f5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forbids the default ctor.  <a href="../../d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5">More...</a><br /></td></tr>
 <tr class="separator:a9b09d12b07ea0ab0e5b390fc48fc85f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0bed8612f7a63c9e0ec4a3b429d25bed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a0bed8612f7a63c9e0ec4a3b429d25bed">~Trace</a> ()</td></tr>
+<tr class="memdesc:a0bed8612f7a63c9e0ec4a3b429d25bed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroys the table.  <a href="../../d4/d8b/classTrace.html#a0bed8612f7a63c9e0ec4a3b429d25bed">More...</a><br /></td></tr>
 <tr class="separator:a0bed8612f7a63c9e0ec4a3b429d25bed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3ec44ffc15e1db036c2944c7c655b6b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#aa3ec44ffc15e1db036c2944c7c655b6b">DISALLOW_COPY_AND_ASSIGN</a> (<a class="el" href="../../d4/d8b/classTrace.html">Trace</a>)</td></tr>
 <tr class="separator:aa3ec44ffc15e1db036c2944c7c655b6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,26 +155,31 @@ Private Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a27bdd55cf72d395b046f5ebc390a7bcf"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a27bdd55cf72d395b046f5ebc390a7bcf">trace_enable_</a></td></tr>
+<tr class="memdesc:a27bdd55cf72d395b046f5ebc390a7bcf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines if the tracing is enabled for the table.  <a href="../../d4/d8b/classTrace.html#a27bdd55cf72d395b046f5ebc390a7bcf">More...</a><br /></td></tr>
 <tr class="separator:a27bdd55cf72d395b046f5ebc390a7bcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09d303620612a8b4878be3fabf969319"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d8b/classTrace.html#a022923179d4979edc004c3277991c4be">TraceBufMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a09d303620612a8b4878be3fabf969319">trace_buf_map_</a></td></tr>
+<tr class="memitem:a09d303620612a8b4878be3fabf969319"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a09d303620612a8b4878be3fabf969319">trace_buf_map_</a></td></tr>
+<tr class="memdesc:a09d303620612a8b4878be3fabf969319"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores the table of trace buffers.  <a href="../../d4/d8b/classTrace.html#a09d303620612a8b4878be3fabf969319">More...</a><br /></td></tr>
 <tr class="separator:a09d303620612a8b4878be3fabf969319"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8df1e1d287553c18820fbb5ab2509e70"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#a8df1e1d287553c18820fbb5ab2509e70">mutex_</a></td></tr>
+<tr class="memdesc:a8df1e1d287553c18820fbb5ab2509e70"><td class="mdescLeft">&#160;</td><td class="mdescRight">A mutex to protect the table from data races.  <a href="../../d4/d8b/classTrace.html#a8df1e1d287553c18820fbb5ab2509e70">More...</a><br /></td></tr>
 <tr class="separator:a8df1e1d287553c18820fbb5ab2509e70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
 <tr class="memitem:ad5cb6483ca80b7a1723b4aaf5afc8234"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d8b/classTrace.html">Trace</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8b/classTrace.html#ad5cb6483ca80b7a1723b4aaf5afc8234">trace_</a> = NULL</td></tr>
+<tr class="memdesc:ad5cb6483ca80b7a1723b4aaf5afc8234"><td class="mdescLeft">&#160;</td><td class="mdescRight">A pointer to the table (singleton) used in this program.  <a href="../../d4/d8b/classTrace.html#ad5cb6483ca80b7a1723b4aaf5afc8234">More...</a><br /></td></tr>
 <tr class="separator:ad5cb6483ca80b7a1723b4aaf5afc8234"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><h3>template&lt;typename TraceEntryT&gt;<br />
 class Trace&lt; TraceEntryT &gt;</h3>
 
+<p>The table for managing trace buffers using a map between their names and instances. The table is a singletone, the memory for its records is managed by the user (only weak pointers are stored in the table). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00220">220</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00286">286</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a022923179d4979edc004c3277991c4be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a022923179d4979edc004c3277991c4be">&#9670;&nbsp;</a></span>TraceBufMap</h2>
+<a id="a333ae44413495e600ea4a5f21c65ed0f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a333ae44413495e600ea4a5f21c65ed0f">&#9670;&nbsp;</a></span>TraceBufMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -173,12 +187,14 @@ class Trace&lt; TraceEntryT &gt;</h3>
 template&lt;typename TraceEntryT &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;const std::string, boost::weak_ptr&lt;<a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt;TraceEntryT&gt; &gt; &gt; <a class="el" href="../../d4/d8b/classTrace.html">Trace</a>&lt; TraceEntryT &gt;::<a class="el" href="../../d4/d8b/classTrace.html#a022923179d4979edc004c3277991c4be">TraceBufMap</a></td>
+          <td class="memname">using <a class="el" href="../../d4/d8b/classTrace.html">Trace</a>&lt; TraceEntryT &gt;::<a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a> =  typename <a class="el" href="../../df/d9f/classTraceBuffer.html">TraceBuffer</a>&lt;TraceEntryT&gt;::<a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00222">222</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>A link to the trace buffers table type. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00290">290</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -208,7 +224,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00310">310</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Forbids the default ctor. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00388">388</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -237,7 +255,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00314">314</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Destroys the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00393">393</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -295,14 +315,16 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00224">224</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Returns a pointer to the trace buffers table instance. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00293">293</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d4/d8b/classTrace_a9f5b31a9b363e91525b0f8b292d16147_cgraph.png" border="0" usemap="#ad4/d8b/classTrace_a9f5b31a9b363e91525b0f8b292d16147_cgraph" alt=""/></div>
 <map name="ad4/d8b/classTrace_a9f5b31a9b363e91525b0f8b292d16147_cgraph" id="ad4/d8b/classTrace_a9f5b31a9b363e91525b0f8b292d16147_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,139,32"/>
-<area shape="rect" href="../../d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="187,5,281,32"/>
+<area shape="rect" title="Returns a pointer to the trace buffers table instance." alt="" coords="5,5,139,32"/>
+<area shape="rect" href="../../d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Forbids the default ctor." alt="" coords="187,5,281,32"/>
 </map>
 </div>
 
@@ -333,7 +355,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00239">239</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Determines whether tracing is enabled for the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00311">311</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -378,8 +402,9 @@ template&lt;typename TraceEntryT &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Adds a trace buffer with the given name and size and returns a reference to it. Returns a shared_ptr of the trace buffer for the memory management. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00253">253</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00329">329</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -409,7 +434,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00279">279</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Returns the capacity of the trace buffer with the given name. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00357">357</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -448,8 +475,9 @@ template&lt;typename TraceEntryT &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Sets a new size of the trace buffer with the given name. If the trace buffer with the specified with given name is not found, then an empty trace buffer is returned. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00291">291</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00372">372</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -478,8 +506,9 @@ template&lt;typename TraceEntryT &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Returns a pointer to the trace buffer associated with the given name. If there is no such a trace buffer, then an empty one is returned. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00243">243</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00317">317</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -509,7 +538,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00271">271</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Requests the list of trace buffers names from the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00348">348</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -538,7 +569,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00235">235</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Disables tracing for the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00306">306</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -567,7 +600,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00231">231</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Enables tracing for the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00301">301</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -594,7 +629,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00321">321</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>A mutex to protect the table from data races. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00408">408</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -618,7 +655,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00318">318</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>A pointer to the table (singleton) used in this program. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00399">399</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -634,7 +673,7 @@ template&lt;typename TraceEntryT &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d8b/classTrace.html#a022923179d4979edc004c3277991c4be">TraceBufMap</a> <a class="el" href="../../d4/d8b/classTrace.html">Trace</a>&lt; TraceEntryT &gt;::trace_buf_map_</td>
+          <td class="memname"><a class="el" href="../../d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f">TraceBufMap</a> <a class="el" href="../../d4/d8b/classTrace.html">Trace</a>&lt; TraceEntryT &gt;::trace_buf_map_</td>
         </tr>
       </table>
   </td>
@@ -644,7 +683,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00320">320</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Stores the table of trace buffers. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00405">405</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>
@@ -670,7 +711,9 @@ template&lt;typename TraceEntryT &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00319">319</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
+<p>Determines if the tracing is enabled for the table. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d1b/trace_8h_source.html#l00402">402</a> of file <a class="el" href="../../d1/d1b/trace_8h_source.html">trace.h</a>.</p>
 
 </div>
 </div>

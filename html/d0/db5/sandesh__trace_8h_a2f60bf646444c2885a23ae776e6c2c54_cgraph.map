@@ -1,6 +1,6 @@
 <map id="SandeshTraceEnable" name="SandeshTraceEnable">
 <area shape="rect" id="node1" title=" " alt="" coords="5,31,151,57"/>
-<area shape="rect" id="node2" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title=" " alt="" coords="199,5,332,32"/>
-<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#aa665e716a69f14893bee557d6240161b" title=" " alt="" coords="210,56,321,83"/>
-<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="380,5,475,32"/>
+<area shape="rect" id="node2" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Returns a pointer to the trace buffers table instance." alt="" coords="199,5,332,32"/>
+<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#aa665e716a69f14893bee557d6240161b" title="Enables tracing for the table." alt="" coords="210,56,321,83"/>
+<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Forbids the default ctor." alt="" coords="380,5,475,32"/>
 </map>

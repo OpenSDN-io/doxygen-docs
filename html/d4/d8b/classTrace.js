@@ -1,6 +1,6 @@
 var classTrace =
 [
-    [ "TraceBufMap", "d4/d8b/classTrace.html#a022923179d4979edc004c3277991c4be", null ],
+    [ "TraceBufMap", "d4/d8b/classTrace.html#a333ae44413495e600ea4a5f21c65ed0f", null ],
     [ "Trace", "d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5", null ],
     [ "~Trace", "d4/d8b/classTrace.html#a0bed8612f7a63c9e0ec4a3b429d25bed", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d4/d8b/classTrace.html#aa3ec44ffc15e1db036c2944c7c655b6b", null ],

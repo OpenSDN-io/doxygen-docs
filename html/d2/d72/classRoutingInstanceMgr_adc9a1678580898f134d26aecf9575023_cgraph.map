@@ -1,7 +1,7 @@
 <map id="RoutingInstanceMgr::GetTraceBuffer" name="RoutingInstanceMgr::GetTraceBuffer">
 <area shape="rect" id="node1" title=" " alt="" coords="5,23,144,65"/>
 <area shape="rect" id="node2" href="$d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492" title=" " alt="" coords="192,31,371,57"/>
-<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title=" " alt="" coords="421,5,554,32"/>
+<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Returns a pointer to the trace buffers table instance." alt="" coords="421,5,554,32"/>
 <area shape="rect" id="node5" href="$d4/d8b/classTrace.html#a19e877455bf7fc168d0dcd0cfa733f70" title=" " alt="" coords="419,56,556,83"/>
-<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="604,5,699,32"/>
+<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Forbids the default ctor." alt="" coords="604,5,699,32"/>
 </map>

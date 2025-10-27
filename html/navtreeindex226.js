@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"df/dab/nexthop_8cc.html#a9e9fd64ef46bea7c80bafa82b27588d4":[3,0,799,0],
 "df/dab/nexthop_8cc.html#ad8f9cfe64c51dda111c3af85e75aeaab":[3,0,799,2],
 "df/dab/nexthop_8cc_source.html":[3,0,799],
 "df/dac/classAgentIfMapXmppChannel.html":[2,0,77],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "df/dc0/classIgmpProto.html#aafabcaa4d6cdef38ecc142062454e301":[2,0,879,11],
 "df/dc0/classIgmpProto.html#ac0135dbdcbbe09bb9b5ab660310b0139":[2,0,879,7],
 "df/dc0/classIgmpProto.html#ac29a519d5e7662850e8a09ad97b8ba26":[2,0,879,20],
-"df/dc0/classIgmpProto.html#ac85264afc8e53ee62ab74816ae8843c2":[2,0,879,30],
-"df/dc0/classIgmpProto.html#ac9c670c91eb9118dc19072de143ac94e":[2,0,879,18]
+"df/dc0/classIgmpProto.html#ac85264afc8e53ee62ab74816ae8843c2":[2,0,879,30]
 };

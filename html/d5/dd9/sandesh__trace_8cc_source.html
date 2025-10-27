@@ -272,48 +272,49 @@ $(document).ready(function(){initNavTree('d5/dd9/sandesh__trace_8cc_source.html'
 <div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;            trace_buf_status.set_enable_disable(<span class="stringliteral">&quot;Disabled&quot;</span>);</div>
 <div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;        }</div>
 <div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;        trace_buf_status_list.push_back(trace_buf_status);</div>
-<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;    }</div>
-<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;    SandeshTraceBufStatusRes *resp = <span class="keyword">new</span> SandeshTraceBufStatusRes;</div>
-<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;    resp-&gt;set_trace_buf_status_list(trace_buf_status_list);</div>
-<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;    resp-&gt;set_context(context());</div>
-<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;    resp-&gt;set_more(<span class="keyword">false</span>);</div>
-<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;    resp-&gt;Response();</div>
-<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;}</div>
-<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160; </div>
-<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;<span class="keywordtype">void</span> SandeshTraceBufferEnableDisableReq::HandleRequest()<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;    SandeshTraceBufferEnableDisableRes *resp = <span class="keyword">new</span></div>
-<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;        SandeshTraceBufferEnableDisableRes;</div>
-<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;    std::string status;</div>
-<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;    <a class="code" href="../../d0/db5/sandesh__trace_8h.html#acb763a6d9db22c3b4c524f1ca2131702">SandeshTraceBufferPtr</a> trace_buf(</div>
-<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;        <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a3db9b82da2cabb4cd6a995180eaf9ab1">SandeshTraceBufferGet</a>(get_trace_buf_name()));</div>
-<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;    <span class="keywordflow">if</span> (trace_buf) {</div>
-<div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;        <span class="keywordflow">if</span> (__isset.enable) {</div>
-<div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;            <span class="keywordflow">if</span> (get_enable()) {</div>
-<div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044">SandeshTraceBufferEnable</a>(trace_buf);</div>
-<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Enabled&quot;</span>;</div>
-<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;            } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901">SandeshTraceBufferDisable</a>(trace_buf);</div>
-<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Disabled&quot;</span>;</div>
-<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;            }</div>
-<div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00212"></a><span class="lineno">  212</span>&#160;            <span class="comment">// If the user has not specified whether to enable or disable</span></div>
-<div class="line"><a name="l00213"></a><span class="lineno">  213</span>&#160;            <span class="comment">// trace, then toggle the trace status.</span></div>
-<div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="../../d0/db5/sandesh__trace_8h.html#ae3bde211501e29ad56f14efb4a5fdb2c">IsSandeshTraceBufferEnabled</a>(trace_buf)) {</div>
-<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901">SandeshTraceBufferDisable</a>(trace_buf);</div>
-<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Disabled&quot;</span>;</div>
-<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;            } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00218"></a><span class="lineno">  218</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044">SandeshTraceBufferEnable</a>(trace_buf);</div>
-<div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Enabled&quot;</span>;</div>
-<div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;            }</div>
-<div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;        }</div>
-<div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;        status = <span class="stringliteral">&quot;Invalid Trace buffer&quot;</span>;</div>
-<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;    }</div>
-<div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;    resp-&gt;set_enable_disable_status(status);</div>
-<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;    resp-&gt;set_context(context());</div>
-<div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;    resp-&gt;set_more(<span class="keyword">false</span>);</div>
-<div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;    resp-&gt;Response();</div>
-<div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;}</div>
+<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;    trace_buf_status.set_buffer_length(<a class="code" href="../../d0/db5/sandesh__trace_8h.html#a60943670deb75e85607f2c440071abc8">SandeshTraceBufferSizeGet</a>(tbp));</div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;    }</div>
+<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;    SandeshTraceBufStatusRes *resp = <span class="keyword">new</span> SandeshTraceBufStatusRes;</div>
+<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;    resp-&gt;set_trace_buf_status_list(trace_buf_status_list);</div>
+<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;    resp-&gt;set_context(context());</div>
+<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;    resp-&gt;set_more(<span class="keyword">false</span>);</div>
+<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;    resp-&gt;Response();</div>
+<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;}</div>
+<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160; </div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;<span class="keywordtype">void</span> SandeshTraceBufferEnableDisableReq::HandleRequest()<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;    SandeshTraceBufferEnableDisableRes *resp = <span class="keyword">new</span></div>
+<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;        SandeshTraceBufferEnableDisableRes;</div>
+<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;    std::string status;</div>
+<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;    <a class="code" href="../../d0/db5/sandesh__trace_8h.html#acb763a6d9db22c3b4c524f1ca2131702">SandeshTraceBufferPtr</a> trace_buf(</div>
+<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;        <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a3db9b82da2cabb4cd6a995180eaf9ab1">SandeshTraceBufferGet</a>(get_trace_buf_name()));</div>
+<div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;    <span class="keywordflow">if</span> (trace_buf) {</div>
+<div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;        <span class="keywordflow">if</span> (__isset.enable) {</div>
+<div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;            <span class="keywordflow">if</span> (get_enable()) {</div>
+<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044">SandeshTraceBufferEnable</a>(trace_buf);</div>
+<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Enabled&quot;</span>;</div>
+<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;            } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901">SandeshTraceBufferDisable</a>(trace_buf);</div>
+<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Disabled&quot;</span>;</div>
+<div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;            }</div>
+<div class="line"><a name="l00212"></a><span class="lineno">  212</span>&#160;        } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00213"></a><span class="lineno">  213</span>&#160;            <span class="comment">// If the user has not specified whether to enable or disable</span></div>
+<div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;            <span class="comment">// trace, then toggle the trace status.</span></div>
+<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="../../d0/db5/sandesh__trace_8h.html#ae3bde211501e29ad56f14efb4a5fdb2c">IsSandeshTraceBufferEnabled</a>(trace_buf)) {</div>
+<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a416fd4f5416408a0f36a31257b976901">SandeshTraceBufferDisable</a>(trace_buf);</div>
+<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Disabled&quot;</span>;</div>
+<div class="line"><a name="l00218"></a><span class="lineno">  218</span>&#160;            } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;                <a class="code" href="../../d0/db5/sandesh__trace_8h.html#a8802a18b904ad4c6283707e27d10c044">SandeshTraceBufferEnable</a>(trace_buf);</div>
+<div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;                status = <span class="stringliteral">&quot;Trace buffer Enabled&quot;</span>;</div>
+<div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;            }</div>
+<div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;        }</div>
+<div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;        status = <span class="stringliteral">&quot;Invalid Trace buffer&quot;</span>;</div>
+<div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;    }</div>
+<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;    resp-&gt;set_enable_disable_status(status);</div>
+<div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;    resp-&gt;set_context(context());</div>
+<div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;    resp-&gt;set_more(<span class="keyword">false</span>);</div>
+<div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;    resp-&gt;Response();</div>
+<div class="line"><a name="l00230"></a><span class="lineno">  230</span>&#160;}</div>
 <div class="ttc" id="aclassSandeshTraceRequestRunner_html"><div class="ttname"><a href="../../d3/deb/classSandeshTraceRequestRunner.html">SandeshTraceRequestRunner</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/dd9/sandesh__trace_8cc_source.html#l00026">sandesh_trace.cc:26</a></div></div>
 <div class="ttc" id="aclassSandeshTraceRequestRunner_html_a15b5d54123454ce46bb0a2e20059cd40"><div class="ttname"><a href="../../d3/deb/classSandeshTraceRequestRunner.html#a15b5d54123454ce46bb0a2e20059cd40">SandeshTraceRequestRunner::~SandeshTraceRequestRunner</a></div><div class="ttdeci">~SandeshTraceRequestRunner()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/dd9/sandesh__trace_8cc_source.html#l00044">sandesh_trace.cc:44</a></div></div>
 <div class="ttc" id="aclassSandeshTraceRequestRunner_html_a450e6ecb0cabb416af520787e7c64607"><div class="ttname"><a href="../../d3/deb/classSandeshTraceRequestRunner.html#a450e6ecb0cabb416af520787e7c64607">SandeshTraceRequestRunner::req_buf_</a></div><div class="ttdeci">SandeshTraceBufferPtr req_buf_</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/dd9/sandesh__trace_8cc_source.html#l00075">sandesh_trace.cc:75</a></div></div>
@@ -328,8 +329,8 @@ $(document).ready(function(){initNavTree('d5/dd9/sandesh__trace_8cc_source.html'
 <div class="ttc" id="aclassSandeshTrace_html"><div class="ttname"><a href="../../d4/dc2/classSandeshTrace.html">SandeshTrace</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d2c/cpp_2sandesh_8h_source.html#l00528">cpp/sandesh.h:528</a></div></div>
 <div class="ttc" id="aclassSandeshTrace_html_a853e8a7aecc239b685109d7c94f4bdb6"><div class="ttname"><a href="../../d4/dc2/classSandeshTrace.html#a853e8a7aecc239b685109d7c94f4bdb6">SandeshTrace::SendTrace</a></div><div class="ttdeci">virtual void SendTrace(const std::string &amp;context, bool more)=0</div></div>
 <div class="ttc" id="aclassSandesh_html_afa3a20edaa227327ec1fd252ed283559"><div class="ttname"><a href="../../de/d75/classSandesh.html#afa3a20edaa227327ec1fd252ed283559">Sandesh::ToString</a></div><div class="ttdeci">virtual std::string ToString() const =0</div></div>
-<div class="ttc" id="aclassTrace_html"><div class="ttname"><a href="../../d4/d8b/classTrace.html">Trace</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1b/trace_8h_source.html#l00220">trace.h:220</a></div></div>
-<div class="ttc" id="aclassTrace_html_ad5cb6483ca80b7a1723b4aaf5afc8234"><div class="ttname"><a href="../../d4/d8b/classTrace.html#ad5cb6483ca80b7a1723b4aaf5afc8234">Trace::trace_</a></div><div class="ttdeci">static Trace * trace_</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1b/trace_8h_source.html#l00318">trace.h:318</a></div></div>
+<div class="ttc" id="aclassTrace_html"><div class="ttname"><a href="../../d4/d8b/classTrace.html">Trace</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1b/trace_8h_source.html#l00286">trace.h:286</a></div></div>
+<div class="ttc" id="aclassTrace_html_ad5cb6483ca80b7a1723b4aaf5afc8234"><div class="ttname"><a href="../../d4/d8b/classTrace.html#ad5cb6483ca80b7a1723b4aaf5afc8234">Trace::trace_</a></div><div class="ttdeci">static Trace * trace_</div><div class="ttdoc">A pointer to the table (singleton) used in this program.</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1b/trace_8h_source.html#l00399">trace.h:399</a></div></div>
 <div class="ttc" id="asandesh__trace_8cc_html_a575bb8c0ae711d2a4160d04a5dac3800"><div class="ttname"><a href="../../d5/dd9/sandesh__trace_8cc.html#a575bb8c0ae711d2a4160d04a5dac3800">SandeshTraceSend</a></div><div class="ttdeci">void SandeshTraceSend(const std::string &amp;buf_name, uint32_t trace_count)</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/dd9/sandesh__trace_8cc_source.html#l00110">sandesh_trace.cc:110</a></div></div>
 <div class="ttc" id="asandesh__trace_8cc_html_ae20d96c2bd4d53c8dcd83ca9273f7a47"><div class="ttname"><a href="../../d5/dd9/sandesh__trace_8cc.html#ae20d96c2bd4d53c8dcd83ca9273f7a47">PullSandeshTraceReq</a></div><div class="ttdeci">int PullSandeshTraceReq</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/dd9/sandesh__trace_8cc_source.html#l00022">sandesh_trace.cc:22</a></div></div>
 <div class="ttc" id="asandesh__trace_8h_html"><div class="ttname"><a href="../../d0/db5/sandesh__trace_8h.html">sandesh_trace.h</a></div></div>

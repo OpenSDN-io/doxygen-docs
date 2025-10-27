@@ -2,6 +2,7 @@ var classTraceBuffer =
 [
     [ "ContainerType", "df/d9f/classTraceBuffer.html#a42b26bf886fd6f17e8df62bfea6c5727", null ],
     [ "ReadContextMap", "df/d9f/classTraceBuffer.html#ab585c077ccabcb2bd6d428d059eff94e", null ],
+    [ "TraceBufMap", "df/d9f/classTraceBuffer.html#a130a4e4bcbeeacda18c2df1bfb99de8c", null ],
     [ "TraceBuffer", "df/d9f/classTraceBuffer.html#a181d39e046a869af4c93e2d8f3a6445d", null ],
     [ "~TraceBuffer", "df/d9f/classTraceBuffer.html#ab4874fdeb0b1c3500d841d88cdf1066c", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "df/d9f/classTraceBuffer.html#ab52deb3d61f854ac431cfc23ce25097d", null ],

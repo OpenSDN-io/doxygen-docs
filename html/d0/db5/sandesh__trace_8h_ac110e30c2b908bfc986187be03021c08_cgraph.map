@@ -1,6 +1,6 @@
 <map id="SandeshTraceBufferListGet" name="SandeshTraceBufferListGet">
 <area shape="rect" id="node1" title=" " alt="" coords="5,31,187,57"/>
-<area shape="rect" id="node2" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title=" " alt="" coords="246,5,379,32"/>
-<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a3fffb40a2120037f50c8b81245c08aad" title=" " alt="" coords="235,56,391,83"/>
-<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title=" " alt="" coords="439,5,533,32"/>
+<area shape="rect" id="node2" href="$d4/d8b/classTrace.html#a9f5b31a9b363e91525b0f8b292d16147" title="Returns a pointer to the trace buffers table instance." alt="" coords="246,5,379,32"/>
+<area shape="rect" id="node4" href="$d4/d8b/classTrace.html#a3fffb40a2120037f50c8b81245c08aad" title="Requests the list of trace buffers names from the table." alt="" coords="235,56,391,83"/>
+<area shape="rect" id="node3" href="$d4/d8b/classTrace.html#a9b09d12b07ea0ab0e5b390fc48fc85f5" title="Forbids the default ctor." alt="" coords="439,5,533,32"/>
 </map>
