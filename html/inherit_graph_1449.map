@@ -1,3 +1,24 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d1/ded/structVmInterface_1_1TagEntryList.html" title=" " alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node1" href="$d4/d21/structVmInterface_1_1ListEntry.html" title=" " alt="" coords="5,350,160,377"/>
+<area shape="rect" id="node2" href="$de/d89/structBgpAsAService_1_1BgpAsAServiceEntry.html" title=" " alt="" coords="209,5,425,47"/>
+<area shape="rect" id="node3" href="$d8/df0/structVmInterface_1_1AliasIp.html" title=" " alt="" coords="246,426,389,453"/>
+<area shape="rect" id="node4" href="$d7/d7f/structVmInterface_1_1AllowedAddressPair.html" title=" " alt="" coords="208,477,427,503"/>
+<area shape="rect" id="node5" href="$d0/dbd/structVmInterface_1_1BridgeDomain.html" title=" " alt="" coords="225,71,409,98"/>
+<area shape="rect" id="node6" href="$de/d86/structVmInterface_1_1FatFlowEntry.html" title=" " alt="" coords="227,122,408,149"/>
+<area shape="rect" id="node7" href="$d5/d24/structVmInterface_1_1FloatingIp.html" title=" " alt="" coords="238,527,397,554"/>
+<area shape="rect" id="node8" href="$de/df8/structVmInterface_1_1InstanceIp.html" title=" " alt="" coords="236,578,399,605"/>
+<area shape="rect" id="node9" href="$d3/d9c/structVmInterface_1_1LearntMacIp.html" title=" " alt="" coords="230,629,405,655"/>
+<area shape="rect" id="node10" href="$de/da8/structVmInterface_1_1SecurityGroupEntry.html" title=" " alt="" coords="225,680,410,721"/>
+<area shape="rect" id="node11" href="$da/db4/structVmInterface_1_1ServiceVlan.html" title=" " alt="" coords="231,173,404,199"/>
+<area shape="rect" id="node12" href="$dd/d91/structVmInterface_1_1StaticRoute.html" title=" " alt="" coords="232,274,403,301"/>
+<area shape="rect" id="node13" href="$d2/dc2/structVmInterface_1_1TagEntry.html" title=" " alt="" coords="240,325,395,351"/>
+<area shape="rect" id="node14" href="$d1/d07/structVmInterface_1_1VmiReceiveRoute.html" title=" " alt="" coords="214,375,421,402"/>
+<area shape="rect" id="node15" href="$da/d4e/structVmInterface_1_1VrfAssignRule.html" title=" " alt="" coords="224,223,411,250"/>
+<area shape="rect" id="node16" href="$d3/d0d/structVmInterfaceState.html" title=" " alt="" coords="20,629,145,655"/>
+<area shape="rect" id="node17" href="$de/df2/structMacVmBindingState.html" title=" " alt="" coords="247,746,388,773"/>
+<area shape="rect" id="node18" href="$df/d3e/structMetaDataIpState.html" title=" " alt="" coords="257,797,377,823"/>
+<area shape="rect" id="node19" href="$d7/dca/structNextHopState.html" title=" " alt="" coords="265,847,370,874"/>
+<area shape="rect" id="node20" href="$da/d5c/structResolveRouteState.html" title=" " alt="" coords="250,898,385,925"/>
+<area shape="rect" id="node21" href="$dd/d91/structVmiRouteState.html" title=" " alt="" coords="262,949,373,975"/>
+<area shape="rect" id="node22" href="$d9/de1/structVrfTableLabelState.html" title=" " alt="" coords="251,999,383,1026"/>
 </map>

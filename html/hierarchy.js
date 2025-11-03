@@ -497,6 +497,7 @@ var hierarchy =
     [ "BgpIfmapRoutingPolicyConfig", "d8/dbd/classBgpIfmapRoutingPolicyConfig.html", null ],
     [ "BgpIfmapRoutingPolicyLinkConfig", "d6/daf/classBgpIfmapRoutingPolicyLinkConfig.html", null ],
     [ "BgpInstanceConfig", "d6/ddf/classBgpInstanceConfig.html", null ],
+    [ "BgpLargeCommunityType", "db/d9c/structBgpLargeCommunityType.html", null ],
     [ "BgpMembershipManager", "d2/d45/classBgpMembershipManager.html", null ],
     [ "BgpNeighborConfig", "d0/dbd/classBgpNeighborConfig.html", null ],
     [ "BgpOList", "d3/d56/classBgpOList.html", null ],
@@ -3461,6 +3462,7 @@ var hierarchy =
     [ "Tag4ByteAs", "d1/d00/classTag4ByteAs.html", null ],
     [ "tag_stack_t", "d6/db2/structtag__stack__t.html", null ],
     [ "VmInterface::TagEntryList", "d1/ded/structVmInterface_1_1TagEntryList.html", null ],
+    [ "TagLC", "dc/d61/classTagLC.html", null ],
     [ "etcdserverpb::Compare::TargetUnionUnion", "dc/d67/unionetcdserverpb_1_1Compare_1_1TargetUnionUnion.html", null ],
     [ "Task", "d6/d9c/classTask.html", [
       [ "QueueTaskRunner< QueueEntryT, WorkQueue< QueueEntryT > >", "de/d7d/classQueueTaskRunner.html", null ],

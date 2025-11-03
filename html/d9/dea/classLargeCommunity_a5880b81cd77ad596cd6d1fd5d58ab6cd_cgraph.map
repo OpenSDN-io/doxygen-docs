@@ -1,0 +1,9 @@
+<map id="LargeCommunity::GetTagList" name="LargeCommunity::GetTagList">
+<area shape="rect" id="node1" title="Get the list of tags with the specified ASN." alt="" coords="5,56,196,83"/>
+<area shape="rect" id="node2" href="$dc/d61/classTagLC.html#a82ca2cbeca69f2efee1b4bd40b8da402" title="Returns the AS number." alt="" coords="455,5,587,32"/>
+<area shape="rect" id="node5" href="$d9/dea/classLargeCommunity.html#acb2414c55de755affb92e2df841d81dd" title="Check if the LargeCommunity value is tag." alt="" coords="244,31,407,57"/>
+<area shape="rect" id="node6" href="$dc/d61/classTagLC.html#ad5fc4293d60708424f1a4b61aa590e75" title="Returns true if this tag belongs to a global community." alt="" coords="267,81,383,108"/>
+<area shape="rect" id="node7" href="$dc/d61/classTagLC.html#ac2a7e063acbac050667eb5a21371466e" title="Returns the tag id." alt="" coords="477,81,564,108"/>
+<area shape="rect" id="node3" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title=" " alt="" coords="635,56,712,83"/>
+<area shape="rect" id="node4" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title=" " alt="" coords="760,56,837,83"/>
+</map>

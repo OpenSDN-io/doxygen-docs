@@ -2843,10 +2843,14 @@ var files_dup =
       [ "RouteTable", "d3/d72/classRouteTable.html", "d3/d72/classRouteTable" ]
     ] ],
     [ "bgp/extended-community/tag.cc", "d1/d0f/bgp_2extended-community_2tag_8cc.html", null ],
+    [ "bgp/large-community/tag.cc", "d4/d59/bgp_2large-community_2tag_8cc.html", null ],
     [ "vnsw/agent/oper/tag.cc", "d8/d7e/vnsw_2agent_2oper_2tag_8cc.html", null ],
     [ "bgp/extended-community/tag.h", "d6/dfd/bgp_2extended-community_2tag_8h.html", [
       [ "Tag", "db/dac/classTag.html", "db/dac/classTag" ],
       [ "Tag4ByteAs", "d1/d00/classTag4ByteAs.html", "d1/d00/classTag4ByteAs" ]
+    ] ],
+    [ "bgp/large-community/tag.h", "d8/d2d/bgp_2large-community_2tag_8h.html", [
+      [ "TagLC", "dc/d61/classTagLC.html", "dc/d61/classTagLC" ]
     ] ],
     [ "vnsw/agent/oper/tag.h", "dd/d30/vnsw_2agent_2oper_2tag_8h.html", [
       [ "TagKey", "d1/d21/structTagKey.html", "d1/d21/structTagKey" ],
@@ -3002,13 +3006,16 @@ var files_dup =
       [ "LookaheadReader", "d7/db7/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol_1_1LookaheadReader.html", "d7/db7/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol_1_1LookaheadReader" ],
       [ "TXMLProtocolFactory", "dc/df3/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocolFactory.html", "dc/df3/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocolFactory" ]
     ] ],
-    [ "types.h", "d9/d49/types_8h.html", [
+    [ "extended-community/types.h", "d1/d1a/extended-community_2types_8h.html", [
       [ "BgpExtendedCommunityType", "de/da7/structBgpExtendedCommunityType.html", "de/da7/structBgpExtendedCommunityType" ],
       [ "BgpExtendedCommunitySubType", "d6/d81/structBgpExtendedCommunitySubType.html", "d6/d81/structBgpExtendedCommunitySubType" ],
       [ "BgpExtendedCommunityOpaqueSubType", "db/d05/structBgpExtendedCommunityOpaqueSubType.html", "db/d05/structBgpExtendedCommunityOpaqueSubType" ],
       [ "BgpExtendedCommunityEvpnSubType", "d9/d5a/structBgpExtendedCommunityEvpnSubType.html", "d9/d5a/structBgpExtendedCommunityEvpnSubType" ],
       [ "BgpExtendedCommunityExperimentalSubType", "db/d36/structBgpExtendedCommunityExperimentalSubType.html", "db/d36/structBgpExtendedCommunityExperimentalSubType" ],
       [ "BgpExtendedCommunityExperimentalNonTransitiveSubType", "d9/d59/structBgpExtendedCommunityExperimentalNonTransitiveSubType.html", "d9/d59/structBgpExtendedCommunityExperimentalNonTransitiveSubType" ]
+    ] ],
+    [ "large-community/types.h", "d2/d84/large-community_2types_8h.html", [
+      [ "BgpLargeCommunityType", "db/d9c/structBgpLargeCommunityType.html", "db/d9c/structBgpLargeCommunityType" ]
     ] ],
     [ "udp_server.cc", "dc/d79/udp__server_8cc.html", [
       [ "Reader", "dc/dcf/classUdpServer_1_1Reader.html", "dc/dcf/classUdpServer_1_1Reader" ]

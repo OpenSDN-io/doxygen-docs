@@ -1,4 +1,10 @@
 <map id="FillRoutePathLargeCommunityInfo" name="FillRoutePathLargeCommunityInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,228,83"/>
 <area shape="rect" id="node2" href="$d9/dea/classLargeCommunity.html#a1457d83e4909c3adc0d188d92e9c0ea8" title="Get the list of Large Community values." alt="" coords="276,5,479,32"/>
+<area shape="rect" id="node3" href="$d9/dea/classLargeCommunity.html#acb2414c55de755affb92e2df841d81dd" title="Check if the LargeCommunity value is tag." alt="" coords="296,56,459,83"/>
+<area shape="rect" id="node4" href="$dc/d61/classTagLC.html#a5888edbf9a9359a1071830e718723264" title="Returns a string representation." alt="" coords="319,107,435,133"/>
+<area shape="rect" id="node5" href="$dc/d61/classTagLC.html#a82ca2cbeca69f2efee1b4bd40b8da402" title="Returns the AS number." alt="" coords="527,81,659,108"/>
+<area shape="rect" id="node8" href="$dc/d61/classTagLC.html#ac2a7e063acbac050667eb5a21371466e" title="Returns the tag id." alt="" coords="549,132,636,159"/>
+<area shape="rect" id="node6" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title=" " alt="" coords="707,107,784,133"/>
+<area shape="rect" id="node7" href="$d1/d66/parse__object_8h.html#ab38313a55afec1dd70a85c39f75fb07b" title=" " alt="" coords="832,107,909,133"/>
 </map>

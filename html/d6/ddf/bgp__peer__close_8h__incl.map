@@ -1,48 +1,49 @@
 <map id="bgp_peer_close.h" name="bgp_peer_close.h">
-<area shape="rect" id="node1" title=" " alt="" coords="2525,5,2651,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="2097,468,2137,495"/>
-<area shape="rect" id="node3" title=" " alt="" coords="553,550,607,577"/>
-<area shape="rect" id="node4" title=" " alt="" coords="2754,550,2811,577"/>
-<area shape="rect" id="node5" href="$d8/d86/ipeer_8h.html" title=" " alt="" coords="2806,80,2893,107"/>
-<area shape="rect" id="node6" href="$df/de9/bgp__proto_8h.html" title=" " alt="" coords="1703,155,1820,181"/>
-<area shape="rect" id="node14" title=" " alt="" coords="2569,386,2663,413"/>
-<area shape="rect" id="node21" href="$d9/d9b/address_8h.html" title=" " alt="" coords="3147,304,3258,331"/>
-<area shape="rect" id="node7" title=" " alt="" coords="1839,229,1908,256"/>
-<area shape="rect" id="node8" href="$d1/d66/parse__object_8h.html" title=" " alt="" coords="1137,468,1276,495"/>
-<area shape="rect" id="node12" href="$d7/d4d/bgp__attr_8h.html" title=" " alt="" coords="1708,229,1815,256"/>
-<area shape="rect" id="node39" href="$d1/da6/community_8h.html" title=" " alt="" coords="1601,304,1724,331"/>
-<area shape="rect" id="node9" title=" " alt="" coords="1131,550,1195,577"/>
-<area shape="rect" id="node10" title=" " alt="" coords="1219,550,1285,577"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1314,550,1361,577"/>
-<area shape="rect" id="node13" title=" " alt="" coords="2451,468,2605,495"/>
-<area shape="rect" id="node15" href="$de/d77/label__block_8h.html" title=" " alt="" coords="2840,386,2971,413"/>
-<area shape="rect" id="node19" href="$d8/d3c/util_8h.html" title=" " alt="" coords="868,550,951,577"/>
-<area shape="rect" id="node23" href="$d0/d9d/bgp__aspath_8h.html" title=" " alt="" coords="2105,304,2231,331"/>
-<area shape="rect" id="node25" href="$db/de3/bgp__attr__base_8h.html" title=" " alt="" coords="1683,386,1826,413"/>
-<area shape="rect" id="node37" href="$d1/d0b/bgp__origin__vn__path_8h.html" title=" " alt="" coords="1799,304,1971,331"/>
-<area shape="rect" id="node42" href="$d5/de5/esi_8h.html" title=" " alt="" coords="201,304,273,331"/>
-<area shape="rect" id="node43" href="$d6/d05/mac__address_8h.html" title=" " alt="" coords="481,304,615,331"/>
-<area shape="rect" id="node46" href="$dc/d2e/rd_8h.html" title=" " alt="" coords="328,304,395,331"/>
-<area shape="rect" id="node16" title=" " alt="" coords="2180,550,2271,577"/>
-<area shape="rect" id="node17" href="$d1/d69/bitset_8h.html" title=" " alt="" coords="2824,468,2920,495"/>
-<area shape="rect" id="node18" title=" " alt="" coords="2835,550,2914,577"/>
-<area shape="rect" id="node20" title=" " alt="" coords="845,632,974,659"/>
-<area shape="rect" id="node22" title=" " alt="" coords="3096,386,3267,413"/>
-<area shape="rect" id="node24" title=" " alt="" coords="2469,386,2544,413"/>
-<area shape="rect" id="node35" href="$db/d4e/bgp__common_8h.html" title=" " alt="" coords="2155,386,2293,413"/>
-<area shape="rect" id="node26" title=" " alt="" coords="1585,468,1756,495"/>
-<area shape="rect" id="node27" title=" " alt="" coords="1401,468,1561,495"/>
-<area shape="rect" id="node28" title=" " alt="" coords="2161,468,2215,495"/>
-<area shape="rect" id="node29" href="$db/da4/task_8h.html" title=" " alt="" coords="1831,468,1921,495"/>
-<area shape="rect" id="node30" title=" " alt="" coords="2009,550,2156,577"/>
-<area shape="rect" id="node31" title=" " alt="" coords="1387,550,1538,577"/>
-<area shape="rect" id="node32" title=" " alt="" coords="1562,550,1723,577"/>
-<area shape="rect" id="node33" title=" " alt="" coords="1748,550,1828,577"/>
-<area shape="rect" id="node34" title=" " alt="" coords="1853,543,1985,584"/>
-<area shape="rect" id="node36" title=" " alt="" coords="2239,468,2278,495"/>
-<area shape="rect" id="node38" title=" " alt="" coords="1243,386,1354,413"/>
-<area shape="rect" id="node40" title=" " alt="" coords="297,379,426,420"/>
-<area shape="rect" id="node41" href="$d9/d49/types_8h.html" title=" " alt="" coords="998,379,1167,420"/>
-<area shape="rect" id="node44" title=" " alt="" coords="619,386,720,413"/>
-<area shape="rect" id="node45" title=" " alt="" coords="501,386,595,413"/>
+<area shape="rect" id="node1" title=" " alt="" coords="796,5,921,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1609,468,1649,495"/>
+<area shape="rect" id="node3" title=" " alt="" coords="923,550,978,577"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2877,550,2934,577"/>
+<area shape="rect" id="node5" href="$d8/d86/ipeer_8h.html" title=" " alt="" coords="2274,80,2361,107"/>
+<area shape="rect" id="node6" href="$df/de9/bgp__proto_8h.html" title=" " alt="" coords="1604,155,1721,181"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2639,386,2734,413"/>
+<area shape="rect" id="node21" href="$d9/d9b/address_8h.html" title=" " alt="" coords="3317,304,3427,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1740,229,1809,256"/>
+<area shape="rect" id="node8" href="$d1/d66/parse__object_8h.html" title=" " alt="" coords="1097,468,1236,495"/>
+<area shape="rect" id="node12" href="$d7/d4d/bgp__attr_8h.html" title=" " alt="" coords="1609,229,1716,256"/>
+<area shape="rect" id="node39" href="$d1/da6/community_8h.html" title=" " alt="" coords="1452,304,1575,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1089,550,1153,577"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1178,550,1243,577"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1342,550,1389,577"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2714,468,2867,495"/>
+<area shape="rect" id="node15" href="$de/d77/label__block_8h.html" title=" " alt="" coords="3060,386,3191,413"/>
+<area shape="rect" id="node19" href="$d8/d3c/util_8h.html" title=" " alt="" coords="1531,550,1613,577"/>
+<area shape="rect" id="node23" href="$d0/d9d/bgp__aspath_8h.html" title=" " alt="" coords="2226,304,2353,331"/>
+<area shape="rect" id="node25" href="$db/de3/bgp__attr__base_8h.html" title=" " alt="" coords="2218,386,2361,413"/>
+<area shape="rect" id="node37" href="$d1/d0b/bgp__origin__vn__path_8h.html" title=" " alt="" coords="1931,304,2103,331"/>
+<area shape="rect" id="node43" href="$d5/de5/esi_8h.html" title=" " alt="" coords="315,304,387,331"/>
+<area shape="rect" id="node44" href="$d6/d05/mac__address_8h.html" title=" " alt="" coords="583,304,716,331"/>
+<area shape="rect" id="node47" href="$dc/d2e/rd_8h.html" title=" " alt="" coords="429,304,496,331"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3093,550,3184,577"/>
+<area shape="rect" id="node17" href="$d1/d69/bitset_8h.html" title=" " alt="" coords="2993,468,3089,495"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2990,550,3069,577"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1507,632,1637,659"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3316,386,3487,413"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2809,386,2884,413"/>
+<area shape="rect" id="node35" href="$db/d4e/bgp__common_8h.html" title=" " alt="" coords="2055,386,2193,413"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2367,468,2537,495"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2183,468,2343,495"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1839,468,1892,495"/>
+<area shape="rect" id="node29" href="$db/da4/task_8h.html" title=" " alt="" coords="2017,468,2108,495"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2284,550,2431,577"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1662,550,1813,577"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1837,550,1998,577"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2023,550,2103,577"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2127,543,2259,584"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1775,468,1814,495"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1463,386,1574,413"/>
+<area shape="rect" id="node40" title=" " alt="" coords="398,379,527,420"/>
+<area shape="rect" id="node41" href="$d1/d1a/extended-community_2types_8h.html" title=" " alt="" coords="1117,379,1286,420"/>
+<area shape="rect" id="node42" href="$d2/d84/large-community_2types_8h.html" title=" " alt="" coords="947,379,1093,420"/>
+<area shape="rect" id="node45" title=" " alt="" coords="720,386,821,413"/>
+<area shape="rect" id="node46" title=" " alt="" coords="603,386,696,413"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="BgpXmppChannel::ProcessItem" name="BgpXmppChannel::ProcessItem">
-<area shape="rect" id="node1" title=" " alt="" coords="5,895,215,921"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,928,215,955"/>
 <area shape="rect" id="node2" href="$d4/dc3/classBgpAf.html#ae2c45f2bc1070881b2c7910c5204daf1" title=" " alt="" coords="303,5,462,32"/>
 <area shape="rect" id="node3" href="$db/d26/classBgpServer.html#ad1c0d588bba7e1d3430187f5b3d2ce0b" title=" " alt="" coords="317,56,448,83"/>
 <area shape="rect" id="node4" href="$db/d26/classBgpServer.html#a936dcd6c87b2cc752c3eb37d6d4c26eb" title=" " alt="" coords="301,107,464,149"/>
@@ -17,36 +17,36 @@
 <area shape="rect" id="node22" href="$d6/d09/classSecurityGroup.html#af5f38ab84313690ade48cce7cb8dc9c6" title=" " alt="" coords="272,822,493,863"/>
 <area shape="rect" id="node23" href="$d2/dff/classSecurityGroup4ByteAs.html#a4a4ca315e2ce4393691c5fb066b40f28" title=" " alt="" coords="297,887,468,929"/>
 <area shape="rect" id="node24" href="$d7/dad/classTunnelEncap.html#a89e348afdedbd9d70f6f64b3dcb3bff7" title=" " alt="" coords="276,953,489,994"/>
-<area shape="rect" id="node25" href="$d6/d11/bgp__xmpp__channel_8cc.html#a06903d92f3c86d0af8c38d3b656cd8da" title=" " alt="" coords="306,1084,459,1111"/>
-<area shape="rect" id="node26" href="$de/ddf/classRoutingInstance.html#a19de927fab4de730df60a075ae2c3912" title=" " alt="" coords="277,1135,489,1161"/>
-<area shape="rect" id="node28" href="$db/d26/classBgpServer.html#ae1d0ed146f7e7c57a78aae18a8763fe9" title=" " alt="" coords="299,1185,466,1212"/>
-<area shape="rect" id="node29" href="$db/d21/classLoadBalance.html#a2bfa3932ed672d9bc02677c9d348e483" title=" " alt="" coords="303,1236,462,1263"/>
-<area shape="rect" id="node31" href="$d3/df5/classMacAddress.html#a86b5dd2ee52e9b90c29287a210634f33" title=" " alt="" coords="313,1287,453,1313"/>
-<area shape="rect" id="node33" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="313,1338,453,1379"/>
-<area shape="rect" id="node35" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="849,1455,992,1481"/>
-<area shape="rect" id="node36" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title=" " alt="" coords="595,1455,757,1481"/>
-<area shape="rect" id="node37" href="$d5/d70/classBgpGlobalSystemConfig.html#a4c687bd3d9d71ce5fad3736830b19f2e" title=" " alt="" coords="301,1557,465,1598"/>
-<area shape="rect" id="node38" href="$d7/df9/structDBRequest.html#abfaba02072d4c3e9917154e6be4e515f" title=" " alt="" coords="318,1623,447,1649"/>
-<area shape="rect" id="node39" href="$d3/d22/classIp4Prefix.html#ab735c6e9ec98c8cc64d8c21a2660f47c" title=" " alt="" coords="318,1732,447,1759"/>
-<area shape="rect" id="node42" href="$d7/dad/classTunnelEncap.html#abbce326d6270b4a960020f521c32f853" title=" " alt="" coords="313,1018,453,1059"/>
-<area shape="rect" id="node44" href="$d6/dbf/classBgpXmppChannel.html#ad56451d666eac8bae8014fb48daf55c9" title=" " alt="" coords="263,1505,503,1532"/>
-<area shape="rect" id="node50" href="$d6/dbf/classBgpXmppChannel.html#ae5fd280340f9bc9f93e79e576711c248" title=" " alt="" coords="275,1783,490,1825"/>
+<area shape="rect" id="node25" href="$dc/d61/classTagLC.html#a046ffc8b182c1001377b0e8ec401d3cb" title="Returns the community value as a vector of 3 32&#45;bit integers." alt="" coords="289,1018,477,1059"/>
+<area shape="rect" id="node26" href="$d6/d11/bgp__xmpp__channel_8cc.html#a06903d92f3c86d0af8c38d3b656cd8da" title=" " alt="" coords="306,1149,459,1176"/>
+<area shape="rect" id="node27" href="$de/ddf/classRoutingInstance.html#a19de927fab4de730df60a075ae2c3912" title=" " alt="" coords="277,1200,489,1227"/>
+<area shape="rect" id="node29" href="$db/d26/classBgpServer.html#ae1d0ed146f7e7c57a78aae18a8763fe9" title=" " alt="" coords="299,1251,466,1277"/>
+<area shape="rect" id="node30" href="$db/d21/classLoadBalance.html#a2bfa3932ed672d9bc02677c9d348e483" title=" " alt="" coords="303,1301,462,1328"/>
+<area shape="rect" id="node32" href="$d3/df5/classMacAddress.html#a86b5dd2ee52e9b90c29287a210634f33" title=" " alt="" coords="313,1352,453,1379"/>
+<area shape="rect" id="node34" href="$d6/dd7/classBgpPathAttributeDB.html#a44082a171f6f497d89a5cf77c240c5f6" title=" " alt="" coords="313,1403,453,1445"/>
+<area shape="rect" id="node36" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="849,1520,992,1547"/>
+<area shape="rect" id="node37" href="$d6/dbf/classBgpXmppChannel.html#a182a5ee67cbddbbe435a6fe59e738ca2" title=" " alt="" coords="595,1520,757,1547"/>
+<area shape="rect" id="node38" href="$d5/d70/classBgpGlobalSystemConfig.html#a4c687bd3d9d71ce5fad3736830b19f2e" title=" " alt="" coords="301,1622,465,1663"/>
+<area shape="rect" id="node39" href="$d7/df9/structDBRequest.html#abfaba02072d4c3e9917154e6be4e515f" title=" " alt="" coords="318,1688,447,1715"/>
+<area shape="rect" id="node40" href="$d3/d22/classIp4Prefix.html#ab735c6e9ec98c8cc64d8c21a2660f47c" title=" " alt="" coords="318,1772,447,1799"/>
+<area shape="rect" id="node43" href="$d7/dad/classTunnelEncap.html#abbce326d6270b4a960020f521c32f853" title=" " alt="" coords="313,1083,453,1125"/>
+<area shape="rect" id="node45" href="$d6/dbf/classBgpXmppChannel.html#ad56451d666eac8bae8014fb48daf55c9" title=" " alt="" coords="263,1571,503,1597"/>
+<area shape="rect" id="node50" href="$d6/dbf/classBgpXmppChannel.html#ae5fd280340f9bc9f93e79e576711c248" title=" " alt="" coords="275,1823,490,1865"/>
 <area shape="rect" id="node8" href="$dd/dd6/classDBPartition.html#ab27d48b936e4edb122ac7bf1176b24c2" title=" " alt="" coords="577,189,775,216"/>
 <area shape="rect" id="node9" href="$df/d70/classDB.html#ae5212f492f72a2bb323fe6d63231df84" title=" " alt="" coords="617,240,735,267"/>
 <area shape="rect" id="node10" href="$d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="571,291,781,317"/>
 <area shape="rect" id="node11" href="$d3/da7/classDBTablePartBase.html#ab2c2209d80e30404b505fed9efb59e92" title=" " alt="" coords="593,341,759,368"/>
 <area shape="rect" id="node14" href="$dd/dea/address_8cc.html#a88e7c1a8b588da628a397967e3658cd2" title=" " alt="" coords="618,392,734,419"/>
-<area shape="rect" id="node16" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title=" " alt="" coords="637,735,715,761"/>
-<area shape="rect" id="node27" href="$de/d6b/classAddress.html#a6e11766f8b03b2253062f00afb9d957c" title=" " alt="" coords="579,1135,773,1161"/>
-<area shape="rect" id="node30" href="$db/d21/classLoadBalance.html#a11acfbcb2cfbb5d09676b79012b834a4" title=" " alt="" coords="592,1236,760,1263"/>
-<area shape="rect" id="node32" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title=" " alt="" coords="631,1287,721,1313"/>
-<area shape="rect" id="node34" href="$d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe" title=" " alt="" coords="606,1338,746,1379"/>
-<area shape="rect" id="node40" href="$d3/d22/classIp4Prefix.html#a66a20206a407b74a98afedc7327cc688" title=" " alt="" coords="611,1789,741,1816"/>
-<area shape="rect" id="node41" href="$d3/d22/classIp4Prefix.html#a0216429eefdd5b2bdbbe376154cb96d5" title=" " alt="" coords="611,1840,741,1867"/>
-<area shape="rect" id="node43" href="$dc/d3b/classTunnelEncapType.html#a6900a5eec8f61b4eb8570e564c7c9cf0" title=" " alt="" coords="572,1018,780,1059"/>
-<area shape="rect" id="node45" href="$de/ddf/classRoutingInstance.html#a16b1960dca35e58893fd73a6e4700a32" title=" " alt="" coords="593,1556,759,1583"/>
-<area shape="rect" id="node46" href="$d6/dbf/classBgpXmppChannel.html#a8b91e862f4c1592732a653afa66d45af" title=" " alt="" coords="573,1607,779,1649"/>
-<area shape="rect" id="node47" href="$d6/dbf/classBgpXmppChannel.html#a3d8f971aebf22d1b815d2dbd9b378e1f" title=" " alt="" coords="551,1505,801,1532"/>
-<area shape="rect" id="node48" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title=" " alt="" coords="603,1673,749,1714"/>
-<area shape="rect" id="node49" href="$de/ddf/classRoutingInstance.html#adff46853277535019d5d828bc1f74628" title=" " alt="" coords="587,1739,765,1765"/>
+<area shape="rect" id="node16" href="$d1/d66/parse__object_8h.html#a7523283d5d39b27b9f1409e28887d1f0" title=" " alt="" coords="637,764,715,791"/>
+<area shape="rect" id="node28" href="$de/d6b/classAddress.html#a6e11766f8b03b2253062f00afb9d957c" title=" " alt="" coords="579,1200,773,1227"/>
+<area shape="rect" id="node31" href="$db/d21/classLoadBalance.html#a11acfbcb2cfbb5d09676b79012b834a4" title=" " alt="" coords="592,1301,760,1328"/>
+<area shape="rect" id="node33" href="$d0/de8/bgp__config_8cc.html#ab23f32f0235fb038676e5d20629163c7" title=" " alt="" coords="631,1352,721,1379"/>
+<area shape="rect" id="node35" href="$d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe" title=" " alt="" coords="606,1403,746,1445"/>
+<area shape="rect" id="node41" href="$d3/d22/classIp4Prefix.html#a66a20206a407b74a98afedc7327cc688" title=" " alt="" coords="611,1804,741,1831"/>
+<area shape="rect" id="node42" href="$d3/d22/classIp4Prefix.html#a0216429eefdd5b2bdbbe376154cb96d5" title=" " alt="" coords="611,1855,741,1881"/>
+<area shape="rect" id="node44" href="$dc/d3b/classTunnelEncapType.html#a6900a5eec8f61b4eb8570e564c7c9cf0" title=" " alt="" coords="572,1083,780,1125"/>
+<area shape="rect" id="node46" href="$de/ddf/classRoutingInstance.html#a16b1960dca35e58893fd73a6e4700a32" title=" " alt="" coords="593,1621,759,1648"/>
+<area shape="rect" id="node47" href="$d6/dbf/classBgpXmppChannel.html#a8b91e862f4c1592732a653afa66d45af" title=" " alt="" coords="573,1673,779,1714"/>
+<area shape="rect" id="node48" href="$d6/dbf/classBgpXmppChannel.html#a3d8f971aebf22d1b815d2dbd9b378e1f" title=" " alt="" coords="551,1571,801,1597"/>
+<area shape="rect" id="node49" href="$d2/d72/classRoutingInstanceMgr.html#a46ebac8012bd3458e862b6cb5b7f88a5" title=" " alt="" coords="603,1738,749,1779"/>
 </map>
