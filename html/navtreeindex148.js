@@ -1,6 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"da/d04/classBgpMembershipManager_1_1PeerRibState.html#af981b52ebb778ad9eb7007d8484f7797":[2,0,292,1,4],
 "da/d05/classBgpConfigManager.html":[2,0,258],
 "da/d05/classBgpConfigManager.html#a02b0b559f68d18973d6f543fedcc0484":[2,0,258,24],
 "da/d05/classBgpConfigManager.html#a056c775ca2585f6b3c9ad6f0e76e1023":[2,0,258,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX148 =
 "da/d10/classetcdserverpb_1_1Request.html#a55a47365f6770977a58d368140da70cf":[2,0,8,2,123],
 "da/d10/classetcdserverpb_1_1Request.html#a56363416c2bb54e9dcb96d1e480d7039":[2,0,8,2,121],
 "da/d10/classetcdserverpb_1_1Request.html#a5b03bd91e2d6cc8420cbb3f0f9352d4f":[2,0,8,2,52],
-"da/d10/classetcdserverpb_1_1Request.html#a5b1e69157d5deedccfe77b017a3cd1a1":[2,0,8,2,70]
+"da/d10/classetcdserverpb_1_1Request.html#a5b1e69157d5deedccfe77b017a3cd1a1":[2,0,8,2,70],
+"da/d10/classetcdserverpb_1_1Request.html#a5c168c66a5fc8d85d11f4ee01aeecbea":[2,0,8,2,34]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX124 =
 {
-"d8/d39/classPolicyActionAccept.html":[2,0,1331],
 "d8/d39/classPolicyActionAccept.html#a9798a64f841741d356ac15bc6c04d57f":[2,0,1331,1],
 "d8/d39/classPolicyActionAccept.html#aab05d90ab3dea5c16add18f14154d52e":[2,0,1331,0],
 "d8/d39/nexthop__server_8h.html":[3,0,809],
@@ -249,5 +248,6 @@ var NAVTREEINDEX124 =
 "d8/d51/structdetail_1_1StoreContext_3_01void_00_01ChildContextType_01_4.html#ada12152f7656c1f6b278a96cbc14aea9":[2,0,6,11,0],
 "d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html":[2,0,1085,0],
 "d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a0482b6990bc468166b9ca65efe393d02":[2,0,1085,0,1],
-"d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a05abf3080cc6e737f599d7264a96173d":[2,0,1085,0,2]
+"d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a05abf3080cc6e737f599d7264a96173d":[2,0,1085,0,2],
+"d8/d52/structMacLearningDBClient_1_1MacLearningDBState.html#a0ebfad83a0560c5b7ea0a315cb9e68fb":[2,0,1085,0,0]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX195 =
 {
-"dd/d43/classXmppServer.html#af25f9eb2e7eb44c1d19ab2de310efc74":[2,0,1931,33],
-"dd/d43/classXmppServer.html#af287d1b71033ae9099c189d328ddfdcb":[2,0,1931,63],
-"dd/d43/classXmppServer.html#af6e95fb2909f777a04996b5d858d6b73":[2,0,1931,69],
-"dd/d43/classXmppServer.html#af921791838998b4d44eea8e3571e6021":[2,0,1931,82],
 "dd/d43/classXmppServer.html#af98698c3bc1e1527cb794a6f53910ae3":[2,0,1931,84],
 "dd/d43/classXmppServer.html#afa48fea67316fbcd152fee291555984f":[2,0,1931,27],
 "dd/d43/classXmppServer.html#afa4a3875bb28abccb4ff1fd668e4a6ec":[2,0,1931,32],
@@ -249,5 +245,9 @@ var NAVTREEINDEX195 =
 "dd/d53/classCryptTunnelEntry.html#a5463ff9510e8268f0193eab73679aa31":[2,0,525,24],
 "dd/d53/classCryptTunnelEntry.html#a585fd5fecb28544bd6889adef42ee6b6":[2,0,525,18],
 "dd/d53/classCryptTunnelEntry.html#a6797322d40ffeb0028b278bc8481e635":[2,0,525,2],
-"dd/d53/classCryptTunnelEntry.html#a6ad6a62f263fcd74ed83dcd6867370c2":[2,0,525,8]
+"dd/d53/classCryptTunnelEntry.html#a6ad6a62f263fcd74ed83dcd6867370c2":[2,0,525,8],
+"dd/d53/classCryptTunnelEntry.html#a7c61efb2a5b35be078c5a4283f3eaf21":[2,0,525,6],
+"dd/d53/classCryptTunnelEntry.html#a8b6360a8e182c5ff20be8511f0a9759f":[2,0,525,16],
+"dd/d53/classCryptTunnelEntry.html#a8bc58177400dad0e158cda81a4764c63":[2,0,525,1],
+"dd/d53/classCryptTunnelEntry.html#a9cf715b43a1a63d68ebf811f4687ce51":[2,0,525,3]
 };

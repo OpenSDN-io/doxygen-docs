@@ -1,9 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"df/df0/classFlowEventKSync.html#ab6d3742ae541d842f7a68f644eb54fff":[2,0,688,0],
-"df/df0/classFlowEventKSync.html#abc54b60d8a862ad102ffba55fea4e170":[2,0,688,6],
-"df/df0/classFlowEventKSync.html#ac838a51b29129243a7e321c8aba024d2":[2,0,688,3],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html":[2,0,8,137],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a021afdf86786539caaf5521b4a42f85a":[2,0,8,137,15],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a026806d0215a8ee500ba073199d7ebc9":[2,0,8,137,52],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a031e9eb8f6eb95d4c9797fa4cd62631d":[2,0,8,137,21],
@@ -249,5 +245,9 @@ var NAVTREEINDEX230 =
 "df/df9/classInterfaceKSyncEntry.html#af6f83606268387b149436789ba337e46":[2,0,940,57],
 "df/df9/classInterfaceKSyncEntry.html#affa768ad8e7a310aa7614270e60d2cb1":[2,0,940,48],
 "df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html":[2,0,383],
-"df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#a6795d1f9337a90c537d7fa8fbb78ab83":[2,0,383,2]
+"df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#a6795d1f9337a90c537d7fa8fbb78ab83":[2,0,383,2],
+"df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#a9946cf8ce9327e83e733e772a88a34de":[2,0,383,0],
+"df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#ad30afeed5a744efc6b4821ce4c4ed3d8":[2,0,383,1],
+"df/dfa/oper__db_8h.html":[3,0,812],
+"df/dfa/oper__db_8h_source.html":[3,0,812]
 };

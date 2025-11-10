@@ -1,6 +1,5 @@
 var NAVTREEINDEX83 =
 {
-"d5/d89/structCryptTunnelAvailableData.html":[2,0,523],
 "d5/d89/structCryptTunnelAvailableData.html#a31195b61b49455d7a6e0b0328d440103":[2,0,523,2],
 "d5/d89/structCryptTunnelAvailableData.html#a59a143d6ce78dc875699a72dba1fa86d":[2,0,523,0],
 "d5/d89/structCryptTunnelAvailableData.html#a993ffe6beefdac9be49fd4e9828cf8e2":[2,0,523,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX83 =
 "d5/d94/classPktHandler.html#aef879d2a2ab2345f6cc6d2c9870527ed":[2,0,1318,43],
 "d5/d94/classPktHandler.html#af01d4924dbbcf7d0724635ca73e70067":[2,0,1318,25],
 "d5/d94/classPktHandler.html#afa93c7424a42fb45b3552e0e605235cf":[2,0,1318,59],
-"d5/d94/classPktHandler.html#afdd24821da0db51a5c000dc86181c911":[2,0,1318,48]
+"d5/d94/classPktHandler.html#afdd24821da0db51a5c000dc86181c911":[2,0,1318,48],
+"d5/d94/structBgpMsgLength_1_1Offset.html":[2,0,297,0]
 };

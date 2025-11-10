@@ -1,9 +1,5 @@
 var NAVTREEINDEX210 =
 {
-"de/d5b/classControlNodeZone.html#ae70042da85a9dc3ecc0e7693910cdbf8":[2,0,519,9],
-"de/d5b/structSessionEndpointKeyCmp.html":[2,0,1571],
-"de/d5b/structSessionEndpointKeyCmp.html#a71962acfd033d9766468274d76e05ffb":[2,0,1571,0],
-"de/d5b/structxmsm_1_1EvConnectTimerExpired.html":[2,0,24,3],
 "de/d5b/structxmsm_1_1EvConnectTimerExpired.html#a3a69af49210c9f8d454b5f400fa003f1":[2,0,24,3,0],
 "de/d5c/structBgpSenderPartition_1_1WorkRibOut.html":[2,0,406,6],
 "de/d5c/structBgpSenderPartition_1_1WorkRibOut.html#a128076b4b8fb00fbd24fd3a798070d7a":[2,0,406,6,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX210 =
 "de/d6f/classBgpMembershipManager_1_1PeerState.html#ac863ed105ea5fedeac15a4b63072bcc7":[2,0,292,2,16],
 "de/d6f/classBgpMembershipManager_1_1PeerState.html#ada04f1f55d8ecf9d2769a66e013d60f9":[2,0,292,2,2],
 "de/d6f/classBgpMembershipManager_1_1PeerState.html#ae16b9e92842a50a79ee79cfda51295fb":[2,0,292,2,15],
-"de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6":[2,0,292,2,7]
+"de/d6f/classBgpMembershipManager_1_1PeerState.html#aff37c3f6af4c93eb48078c0817ca0ca6":[2,0,292,2,7],
+"de/d70/structMulticastPolicyKey.html":[2,0,1189],
+"de/d70/structMulticastPolicyKey.html#a791b2604ae4e1fb763ee4d7c5ba35e96":[2,0,1189,2],
+"de/d70/structMulticastPolicyKey.html#acfa6d2575682a65600df46f946428950":[2,0,1189,0],
+"de/d70/structMulticastPolicyKey.html#ae6656153eb975f6cbd946e3d26e4cc3d":[2,0,1189,1]
 };

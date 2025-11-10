@@ -1,6 +1,5 @@
 var NAVTREEINDEX173 =
 {
-"db/dc6/namespacezookeeper_1_1client_1_1impl.html#a1f6931b89cc45f4de68035c2422c3b00":[1,0,35,0,0,1],
 "db/dc6/namespacezookeeper_1_1client_1_1impl.html#aadcfec6325961c10a8fffba7c1c38218":[1,0,35,0,0,2],
 "db/dc6/namespacezookeeper_1_1client_1_1impl.html#ab705a69f576d9ae142e7753f68635e95":[1,0,35,0,0,3],
 "db/dc7/classPath.html":[2,0,1272],
@@ -249,5 +248,6 @@ var NAVTREEINDEX173 =
 "db/ddc/controller__init_8h.html#ad5e4df2a7c2aacff041b63924790f8b1":[3,0,283,22],
 "db/ddc/controller__init_8h.html#afdd7f88c17a56776080c5d71ff5eb7c9":[3,0,283,12],
 "db/ddc/controller__init_8h_source.html":[3,0,283],
-"db/ddc/structAgentData.html":[2,0,66]
+"db/ddc/structAgentData.html":[2,0,66],
+"db/ddc/structAgentData.html#aa64363777fd42092ffab86e35f3953b3":[2,0,66,1]
 };

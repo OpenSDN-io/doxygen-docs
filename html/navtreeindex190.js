@@ -1,9 +1,5 @@
 var NAVTREEINDEX190 =
 {
-"dc/df9/namespaceprotobuf__rpc__2eproto.html#a0073c1bcb699820013fa9b43f98d217f":[1,0,26,12],
-"dc/df9/namespaceprotobuf__rpc__2eproto.html#a067e0662052da1301e63d5a34a648732":[1,0,26,121],
-"dc/df9/namespaceprotobuf__rpc__2eproto.html#a0841345d94b067fa9a1ae32a9830bb25":[1,0,26,91],
-"dc/df9/namespaceprotobuf__rpc__2eproto.html#a0864a1f9c38ab0777cc21d77d3e8187b":[1,0,26,2],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a566fabb3f95a5dbdfb9d8349a59435":[1,0,26,116],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a0a609dc65fa2770992f9f1f456efa763":[1,0,26,71],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a0b2131a6c454fdf42cfabf22d61dedca":[1,0,26,123],
@@ -249,5 +245,9 @@ var NAVTREEINDEX190 =
 "dc/dff/classOperDB.html#adc5907d15e4f0e0fdd26e0236b2a338b":[2,0,1238,50],
 "dc/dff/classOperDB.html#af2b0c54144bd494ab559bfc93cb1106b":[2,0,1238,14],
 "dc/dff/classOperDB.html#af6726a6b6d91fd2973e075e96c62c1c1":[2,0,1238,4],
-"dc/dff/structPeerCloseManager_1_1Stats.html":[2,0,1292,1]
+"dc/dff/structPeerCloseManager_1_1Stats.html":[2,0,1292,1],
+"dc/dff/structPeerCloseManager_1_1Stats.html#a1505ecbe010d8ccad69399f191d47140":[2,0,1292,1,6],
+"dc/dff/structPeerCloseManager_1_1Stats.html#a19c50b0bcb4491948ed36868119a6e88":[2,0,1292,1,7],
+"dc/dff/structPeerCloseManager_1_1Stats.html#a4b96d1f614750fffb8aa7b2db64800dc":[2,0,1292,1,4],
+"dc/dff/structPeerCloseManager_1_1Stats.html#a7ef390432266cda8eee01b2b18899247":[2,0,1292,1,10]
 };

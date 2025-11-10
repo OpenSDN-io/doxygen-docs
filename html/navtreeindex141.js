@@ -1,6 +1,5 @@
 var NAVTREEINDEX141 =
 {
-"d9/d80/patricia__api_8cc.html#a76fb8258181b0cee95c7be35dcb72b8d":[3,0,865,8],
 "d9/d80/patricia__api_8cc.html#a87c3c4954442b9116222f702f81b4708":[3,0,865,9],
 "d9/d80/patricia__api_8cc.html#a8e80a9728e95854cbb58226289a36d5a":[3,0,865,3],
 "d9/d80/patricia__api_8cc.html#a914a18f1103e818f9cf6c56383a3e7ca":[3,0,865,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX141 =
 "d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c":[3,0,7,3],
 "d9/d9b/address_8h.html#aa2469f56ee5f9b1b7cfd57fb6d2e1f56":[3,0,7,5],
 "d9/d9b/address_8h.html#ab31532742b06a7ab60a43f65cc57145b":[3,0,7,6],
-"d9/d9b/address_8h.html#add4611a99f56b696f5b276fc36b7e40c":[3,0,7,7]
+"d9/d9b/address_8h.html#add4611a99f56b696f5b276fc36b7e40c":[3,0,7,7],
+"d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2":[3,0,7,1]
 };

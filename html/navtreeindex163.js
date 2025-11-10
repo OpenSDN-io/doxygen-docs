@@ -1,6 +1,5 @@
 var NAVTREEINDEX163 =
 {
-"db/d28/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET6_01_4.html#aff141fbd65a586150815a6213cdffd44":[2,0,411,1,0],
 "db/d29/bfd__json__config_8h.html":[3,0,78],
 "db/d29/bfd__json__config_8h_source.html":[3,0,78],
 "db/d29/structSessionEndpointKey.html":[2,0,1570],
@@ -249,5 +248,6 @@ var NAVTREEINDEX163 =
 "db/d37/classConfigListener_1_1DependencyTracker.html#a8d64fba62f764adaf53edc0cf7e539b3":[2,0,493,0,17],
 "db/d37/classConfigListener_1_1DependencyTracker.html#aa382f7a8f83f3cf0d6c5701e43aab836":[2,0,493,0,4],
 "db/d37/classConfigListener_1_1DependencyTracker.html#aacfb02a4d25c49e71b99d9d827ce87c6":[2,0,493,0,14],
-"db/d37/classConfigListener_1_1DependencyTracker.html#ab2aaa9016fd3982ab8bef3ddfb38edcc":[2,0,493,0,21]
+"db/d37/classConfigListener_1_1DependencyTracker.html#ab2aaa9016fd3982ab8bef3ddfb38edcc":[2,0,493,0,21],
+"db/d37/classConfigListener_1_1DependencyTracker.html#ac54c67d656db59d299dbc48e592c2d46":[2,0,493,0,12]
 };

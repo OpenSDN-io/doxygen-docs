@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a58a8fda1ed09ec4782727817e3a0c593":[2,0,25,0,0,0,0],
 "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a5dd900b1017bf42eab19022003aaab27":[2,0,25,0,0,0,18],
 "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a6984bc2ac605c6da9ca625301acdd1db":[2,0,25,0,0,0,8],
 "d4/db7/classzookeeper_1_1client_1_1impl_1_1ZookeeperClientImpl.html#a73e2af05208d54cfc55c2a5fcd54c6b5":[2,0,25,0,0,0,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX68 =
 "d4/dcd/classAgentQosConfig.html#a9449bd44042fc0de6c5d559f08ce53d4":[2,0,105,13],
 "d4/dcd/classAgentQosConfig.html#a958651e3a354cc33821016525b78bd2c":[2,0,105,7],
 "d4/dcd/classAgentQosConfig.html#a95955f6086cf8d589d1b671f014d3c21":[2,0,105,15],
-"d4/dcd/classAgentQosConfig.html#ab0f3dce35fba0fea2c1fb6537378b920":[2,0,105,29]
+"d4/dcd/classAgentQosConfig.html#ab0f3dce35fba0fea2c1fb6537378b920":[2,0,105,29],
+"d4/dcd/classAgentQosConfig.html#ab29b90c7c8d7bccb98531582dd09bc37":[2,0,105,27]
 };

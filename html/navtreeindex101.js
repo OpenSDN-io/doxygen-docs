@@ -1,6 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d6/dbf/classBgpXmppChannel.html#a2364e21680dd76629242e57fe2114b05":[2,0,418,152],
 "d6/dbf/classBgpXmppChannel.html#a239ec035072afc07f3975ae8cbf0a27d":[2,0,418,87],
 "d6/dbf/classBgpXmppChannel.html#a24c62a17eafc3c8d729cd0e7cc4ba87b":[2,0,418,41],
 "d6/dbf/classBgpXmppChannel.html#a2847ed2b1cdad8e822e1fd4a3375cd86":[2,0,418,114],
@@ -249,5 +248,6 @@ var NAVTREEINDEX101 =
 "d6/dc1/classMetaDataIp.html#a1f4c74c6998cb4c6419aca2b80d67c93a2716c6b0174623139ac660003863fd76":[2,0,1134,0,1],
 "d6/dc1/classMetaDataIp.html#a1f4c74c6998cb4c6419aca2b80d67c93a61a5d3003564016ffabe0586d2e43ab7":[2,0,1134,0,0],
 "d6/dc1/classMetaDataIp.html#a1f4c74c6998cb4c6419aca2b80d67c93abfc4ab09e5e04dd1b20cdb49c0dee32e":[2,0,1134,0,2],
-"d6/dc1/classMetaDataIp.html#a1f8b13e1f7a83f246cbb53f1abbf0d5d":[2,0,1134,8]
+"d6/dc1/classMetaDataIp.html#a1f8b13e1f7a83f246cbb53f1abbf0d5d":[2,0,1134,8],
+"d6/dc1/classMetaDataIp.html#a211b9ac2a8ffea3b736c02b3ef608777":[2,0,1134,23]
 };

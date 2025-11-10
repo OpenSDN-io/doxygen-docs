@@ -1,6 +1,5 @@
 var NAVTREEINDEX162 =
 {
-"db/d26/classBgpServer.html#a43eb0f3a32d47b86eb7df4713bbb89a9":[2,0,407,121],
 "db/d26/classBgpServer.html#a4410464fd2cd59542752199d212ae657":[2,0,407,162],
 "db/d26/classBgpServer.html#a44de207d25d1cc14f50653b8e3f222fa":[2,0,407,17],
 "db/d26/classBgpServer.html#a4703d64c086854a07b65f47cf52cee4d":[2,0,407,102],
@@ -249,5 +248,6 @@ var NAVTREEINDEX162 =
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#ae900134fd5e09eae38c2b64195a5ded9":[2,0,8,151,1],
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#af410ddbc04c9979eae6aa0b0924ce601":[2,0,8,151,22],
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#af702a323205874b576e34370f3b514ef":[2,0,8,151,13],
-"db/d28/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET6_01_4.html":[2,0,411,1]
+"db/d28/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET6_01_4.html":[2,0,411,1],
+"db/d28/structBgpStaticObjectFactory_1_1ParameterCastTo_3_01IRouteAggregator_00_01Address_1_1INET6_01_4.html#aff141fbd65a586150815a6213cdffd44":[2,0,411,1,0]
 };

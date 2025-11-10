@@ -1,9 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"df/ddb/classPeerCloseManager.html#a7287cfb358650724ac49edd83f2d9d35":[2,0,1292,41],
-"df/ddb/classPeerCloseManager.html#a77868e7b8dc0a5f7b27cf1ef2bba45d2":[2,0,1292,57],
-"df/ddb/classPeerCloseManager.html#a78169c083d9ed4f8ee2ff978fe3f91c6":[2,0,1292,21],
-"df/ddb/classPeerCloseManager.html#a7c764996bb88e17c17d3c12d2509b881":[2,0,1292,43],
 "df/ddb/classPeerCloseManager.html#a81ecac82850ffffbc3f61cf69e539c5f":[2,0,1292,24],
 "df/ddb/classPeerCloseManager.html#a8904846cfc385db1f146d7e25ee8938d":[2,0,1292,56],
 "df/ddb/classPeerCloseManager.html#a8e2b5382ce5f1e69bd7f23b836054890":[2,0,1292,12],
@@ -249,5 +245,9 @@ var NAVTREEINDEX228 =
 "df/de2/classAgentUtXmlVrf.html#ab31016ff650a67f55774be983a74b9e9":[2,0,164,1],
 "df/de2/classAgentUtXmlVrf.html#aca18e4a0f3396ed5cb42f125371b50a1":[2,0,164,4],
 "df/de2/xmpp__dns__agent_8h.html":[3,0,1336],
-"df/de2/xmpp__dns__agent_8h.html#a686394ca5085c5d6c209932fe3eb1dea":[3,0,1336,2]
+"df/de2/xmpp__dns__agent_8h.html#a686394ca5085c5d6c209932fe3eb1dea":[3,0,1336,2],
+"df/de2/xmpp__dns__agent_8h.html#a86d559a10aee458e6347b9c091a41f2a":[3,0,1336,1],
+"df/de2/xmpp__dns__agent_8h_source.html":[3,0,1336],
+"df/de3/classOVSDB_1_1VrfOvsdbEntry.html":[2,0,15,55],
+"df/de3/classOVSDB_1_1VrfOvsdbEntry.html#a03de79fabcb430752dd5f526f3df39bf":[2,0,15,55,5]
 };

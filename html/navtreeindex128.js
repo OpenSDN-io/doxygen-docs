@@ -1,6 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d8/da3/classetcdserverpb_1_1TxnRequest.html#afca7130022a9d7bee5b9a12a4a2e235d":[2,0,8,96,18],
 "d8/da4/structIFMapChannelManager_1_1ConfigTaskQueueEntry.html":[2,0,832,0],
 "d8/da4/structIFMapChannelManager_1_1ConfigTaskQueueEntry.html#a2cd42e5fcd9bcd98efcdfb20819a9fb4":[2,0,832,0,0],
 "d8/da5/classPBBNHKey.html":[2,0,1289],
@@ -249,5 +248,6 @@ var NAVTREEINDEX128 =
 "d8/db9/classetcdserverpb_1_1LeaseKeepAliveResponse.html#afbe1fe071d0765d7089894e37d1a65fe":[2,0,8,113,44],
 "d8/db9/structVmInterface_1_1LearntMacIpList.html":[2,0,1790,14],
 "d8/db9/structVmInterface_1_1LearntMacIpList.html#a001f282b0f71b368e141ce1c2bafc9d6":[2,0,1790,14,4],
-"d8/db9/structVmInterface_1_1LearntMacIpList.html#a2b1d1d9b20a1f815dc4925cf4a1746d1":[2,0,1790,14,1]
+"d8/db9/structVmInterface_1_1LearntMacIpList.html#a2b1d1d9b20a1f815dc4925cf4a1746d1":[2,0,1790,14,1],
+"d8/db9/structVmInterface_1_1LearntMacIpList.html#a33842e6189ecddabc6a13ca36b7d3cec":[2,0,1790,14,5]
 };

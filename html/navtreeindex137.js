@@ -1,6 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a03986e3c19c19f049dbf52c34be3a46a":[2,0,8,145,63],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a04dcad39a7fe12db3303625ca371aa1e":[2,0,8,145,61],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a055f85a5018ff14153d83ea12bc8986e":[2,0,8,145,11],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a07e16751695a39b5d215b0cab3c29f3c":[2,0,8,145,41],
@@ -249,5 +248,6 @@ var NAVTREEINDEX137 =
 "d9/d29/bgp__config__yaml_8cc_source.html":[3,0,121],
 "d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html":[2,0,8,9,17],
 "d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#a31e9b57c4c136d0f8c0fb80e0ee366b6":[2,0,8,9,17,0],
-"d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#a35b6cc333a69635130d897fa526b6bee":[2,0,8,9,17,2]
+"d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#a35b6cc333a69635130d897fa526b6bee":[2,0,8,9,17,2],
+"d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#a4e8d8a9c1e9a58d030a3068cbc9b61b5":[2,0,8,9,17,1]
 };

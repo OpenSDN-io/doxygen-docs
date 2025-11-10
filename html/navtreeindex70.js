@@ -1,6 +1,5 @@
 var NAVTREEINDEX70 =
 {
-"d4/de8/classControllerRouteWalker.html":[2,0,511],
 "d4/de8/classControllerRouteWalker.html#a0e7e5cbb7691369f6e054a49a3fcbb6b":[2,0,511,20],
 "d4/de8/classControllerRouteWalker.html#a1427ff60a6c1e19e34768bb866976b12":[2,0,511,0],
 "d4/de8/classControllerRouteWalker.html#a1427ff60a6c1e19e34768bb866976b12a3ebb7cebd1e1016ca58e9b517e693e9d":[2,0,511,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX70 =
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ac9eb7a7782626af228b8c3e772459b3f":[2,0,8,159,20],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ace8271e2fb09ed21e98453608007fb53":[2,0,8,159,27],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ad3cfc4aaeae675d28de8899b9e314305":[2,0,8,159,16],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ad64e24f0d5867e7a1930ae0364c15fd3":[2,0,8,159,31]
+"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ad64e24f0d5867e7a1930ae0364c15fd3":[2,0,8,159,31],
+"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ada0347c744d570fc61125229f5bb09cd":[2,0,8,159,6]
 };

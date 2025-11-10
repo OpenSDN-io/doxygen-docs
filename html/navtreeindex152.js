@@ -1,6 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"da/d47/classRTargetGroupMgr.html#a14cdd868fa4382834a8992651ace8b89":[2,0,1477,29],
 "da/d47/classRTargetGroupMgr.html#a162279a21783cd4e2cd4198d9eafb543":[2,0,1477,19],
 "da/d47/classRTargetGroupMgr.html#a1b10f50fe6b244dc75c29343080bc623":[2,0,1477,38],
 "da/d47/classRTargetGroupMgr.html#a1b953a3eac664fca68d7b629b04ea336":[2,0,1477,26],
@@ -249,5 +248,6 @@ var NAVTREEINDEX152 =
 "da/d56/namespaceetcdserverpb.html#a650dd3c1ab402678f28467241b164b88":[1,0,11,243],
 "da/d56/namespaceetcdserverpb.html#a69d2012892a97fe34b52cd6142f48955":[1,0,11,170],
 "da/d56/namespaceetcdserverpb.html#a6b062f9da8ab97a255157b899c1ee6ea":[1,0,11,299],
-"da/d56/namespaceetcdserverpb.html#a6c9a672b6aa34d2b339d198f82542cc2":[1,0,11,193]
+"da/d56/namespaceetcdserverpb.html#a6c9a672b6aa34d2b339d198f82542cc2":[1,0,11,193],
+"da/d56/namespaceetcdserverpb.html#a6cf4a90b2486f71271807e799b9d3d22":[1,0,11,210]
 };

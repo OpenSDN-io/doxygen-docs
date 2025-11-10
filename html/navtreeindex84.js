@@ -1,6 +1,5 @@
 var NAVTREEINDEX84 =
 {
-"d5/d94/structBgpMsgLength_1_1Offset.html":[2,0,297,0],
 "d5/d94/structBgpMsgLength_1_1Offset.html#a8823546a9860c0e444bc565eeee3f008":[2,0,297,0,0],
 "d5/d95/inet6vpn__table_8h.html":[3,0,598],
 "d5/d95/inet6vpn__table_8h_source.html":[3,0,598],
@@ -249,5 +248,6 @@ var NAVTREEINDEX84 =
 "d5/da5/classauthpb_1_1User.html#ac641f59b41c95fb6966a3a772be26560":[2,0,0,3,10],
 "d5/da5/classauthpb_1_1User.html#aca4253ae2043246219047d5b9b087366":[2,0,0,3,9],
 "d5/da5/classauthpb_1_1User.html#acf1f098f59bc1c9c770a056d8b7b1ece":[2,0,0,3,49],
-"d5/da5/classauthpb_1_1User.html#ad01ecb10b479fbeb8e3ed3fd8248e322":[2,0,0,3,4]
+"d5/da5/classauthpb_1_1User.html#ad01ecb10b479fbeb8e3ed3fd8248e322":[2,0,0,3,4],
+"d5/da5/classauthpb_1_1User.html#ad16bd9f662f2dd52798af0468acdb242":[2,0,0,3,44]
 };

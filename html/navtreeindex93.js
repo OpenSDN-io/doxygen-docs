@@ -1,6 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"d6/d2d/classKSyncObject.html#a1c6e727e211d65971025bf4a979ef1ff":[2,0,1003,44],
 "d6/d2d/classKSyncObject.html#a1c7e2858d93195a2abd5f69fde903f0c":[2,0,1003,28],
 "d6/d2d/classKSyncObject.html#a1f74ee089636b6de58a2a87e3c46b2a0":[2,0,1003,12],
 "d6/d2d/classKSyncObject.html#a1fe0b4db1e0dce93c3d6d35cd4aeeb4e":[2,0,1003,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX93 =
 "d6/d43/classInstanceTaskQueue.html#ae4375bafb02e7a0e90560b29a7d13ba3":[2,0,929,10],
 "d6/d43/classInstanceTaskQueue.html#aeffaca11cd3deb00888bf75b4225306c":[2,0,929,14],
 "d6/d44/mac__learning__mgmt_8h.html":[3,0,727],
-"d6/d44/mac__learning__mgmt_8h.html#a2b7034c7f9f3d4f036197aefcfc925b0":[3,0,727,11]
+"d6/d44/mac__learning__mgmt_8h.html#a2b7034c7f9f3d4f036197aefcfc925b0":[3,0,727,11],
+"d6/d44/mac__learning__mgmt_8h.html#aa057d8a1a3acb320c20e990670704f34":[3,0,727,12]
 };

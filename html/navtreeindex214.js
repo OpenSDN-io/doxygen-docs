@@ -1,9 +1,5 @@
 var NAVTREEINDEX214 =
 {
-"de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#af625c7aa8768c5eb4b591074bfc7de9d":[2,0,8,140,32],
-"de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#afb15d8ed3747892aad4d6137bbfe121e":[2,0,8,140,4],
-"de/d93/structInterTaskMsg.html":[2,0,953],
-"de/d93/structInterTaskMsg.html#a556f5ac40d058d575b2984d577f16a82":[2,0,953,2],
 "de/d93/structInterTaskMsg.html#a6eee6efa2a0753ef9d3715d4eb51dd1a":[2,0,953,1],
 "de/d93/structInterTaskMsg.html#ac33a66e52276ebaaeff3b5397d8c2636":[2,0,953,0],
 "de/d94/classBgpPathAttributeCommunityList.html":[2,0,344],
@@ -249,5 +245,9 @@ var NAVTREEINDEX214 =
 "de/d9e/agent_8h.html#a9f10d76938ce130bbb4811120e057d71":[3,0,11,53],
 "de/d9e/agent_8h.html#a9f69d0250cf4d9c9f8c00c96c3f7c889":[3,0,11,13],
 "de/d9e/agent_8h.html#aa0ad4b58aaf6a9a0314c975cb15eaf7f":[3,0,11,45],
-"de/d9e/agent_8h.html#aa166a0577ac1b5a856ded0c9e5dba038":[3,0,11,71]
+"de/d9e/agent_8h.html#aa166a0577ac1b5a856ded0c9e5dba038":[3,0,11,71],
+"de/d9e/agent_8h.html#aa30a89168003bd5974a71f73eecf3fa6":[3,0,11,46],
+"de/d9e/agent_8h.html#aa34ab10514d7245f3fd6d678df08e046":[3,0,11,125],
+"de/d9e/agent_8h.html#aa4302941ec5dcd860112aad189d6919d":[3,0,11,69],
+"de/d9e/agent_8h.html#aa58b1a74e18e4566023ee73f4b02cfbf":[3,0,11,99]
 };

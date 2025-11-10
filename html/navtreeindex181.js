@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"dc/d53/classInetVpnRoute.html#aec36d4040858ec883e072ac2966bd8ef":[2,0,920,4],
 "dc/d53/classInetVpnRoute.html#aef97e932c49b41ba44afe7783e023fc9":[2,0,920,3],
 "dc/d53/classInetVpnRoute.html#af9410c3f9226a587818dbbaebf189a5e":[2,0,920,11],
 "dc/d53/classetcdserverpb_1_1Auth_1_1WithGenericMethod__UserGet.html":[2,0,8,9,31],
@@ -249,5 +248,6 @@ var NAVTREEINDEX181 =
 "dc/d5d/classNdpNH.html#ae4cc8c16e3c2000e70ed97ab37ca770c":[2,0,1209,10],
 "dc/d5d/classNdpNH.html#af1209e4583b8a1865283272a88542ef2":[2,0,1209,18],
 "dc/d5d/classNdpNH.html#afa132d762d772dff3a501de259cecac2":[2,0,1209,7],
-"dc/d5d/classNdpNH.html#afdd804990524d7fb11f02b574dafb888":[2,0,1209,8]
+"dc/d5d/classNdpNH.html#afdd804990524d7fb11f02b574dafb888":[2,0,1209,8],
+"dc/d5d/structVnKey.html":[2,0,1831]
 };

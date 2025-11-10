@@ -1,6 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"d9/d13/structConfigCassandraPartition_1_1ObjectProcessRequestType.html#a0a9172df7bb4a879dc2ca57b83ebd067":[2,0,482,3,0],
 "d9/d13/structConfigCassandraPartition_1_1ObjectProcessRequestType.html#a924f9e78d3055264f7a5040392a2058b":[2,0,482,3,3],
 "d9/d13/structConfigCassandraPartition_1_1ObjectProcessRequestType.html#aadc028dcb5591df2001bf88de4cc5e05":[2,0,482,3,2],
 "d9/d13/structConfigCassandraPartition_1_1ObjectProcessRequestType.html#aecfab437c16a588b4d5d5d49897ee40c":[2,0,482,3,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX136 =
 "d9/d1f/classBgpIfmapConfigManager.html#afbad6d6c6bd7f156f342e188114a2b38":[2,0,279,0],
 "d9/d1f/classBgpIfmapConfigManager.html#afe79108cf77a6a26cee68c260803aff0":[2,0,279,3],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html":[2,0,8,145],
-"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a03782d91b04dfdf1fcb0a8b741a3a114":[2,0,8,145,10]
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a03782d91b04dfdf1fcb0a8b741a3a114":[2,0,8,145,10],
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a03986e3c19c19f049dbf52c34be3a46a":[2,0,8,145,63]
 };

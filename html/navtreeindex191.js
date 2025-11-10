@@ -1,9 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"dc/dff/structPeerCloseManager_1_1Stats.html#a1505ecbe010d8ccad69399f191d47140":[2,0,1292,1,6],
-"dc/dff/structPeerCloseManager_1_1Stats.html#a19c50b0bcb4491948ed36868119a6e88":[2,0,1292,1,7],
-"dc/dff/structPeerCloseManager_1_1Stats.html#a4b96d1f614750fffb8aa7b2db64800dc":[2,0,1292,1,4],
-"dc/dff/structPeerCloseManager_1_1Stats.html#a7ef390432266cda8eee01b2b18899247":[2,0,1292,1,10],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a8da8d095537b2f30e04a9d39c9f5621f":[2,0,1292,1,11],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a9df9defc98a899ac02b121705a683b4f":[2,0,1292,1,1],
 "dc/dff/structPeerCloseManager_1_1Stats.html#aa17f8b5e1939ad88787bc1ab55d56aa8":[2,0,1292,1,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX191 =
 "dd/d17/structOlistTunnelEntry.html#a4b33ad088a5763744147417c497817b0":[2,0,1237,4],
 "dd/d17/structOlistTunnelEntry.html#a8ec0283eb042868b66693b6d15110c45":[2,0,1237,0],
 "dd/d17/structOlistTunnelEntry.html#ac2e771086649ee4cf178f646029e2c16":[2,0,1237,5],
-"dd/d17/structOlistTunnelEntry.html#ac7129d3e4fb27cef987f877edb4c2531":[2,0,1237,1]
+"dd/d17/structOlistTunnelEntry.html#ac7129d3e4fb27cef987f877edb4c2531":[2,0,1237,1],
+"dd/d1b/vrf__ovsdb_8cc.html":[3,0,1285],
+"dd/d1b/vrf__ovsdb_8cc_source.html":[3,0,1285],
+"dd/d1d/classDnsAgentXmppChannelManager.html":[2,0,587],
+"dd/d1d/classDnsAgentXmppChannelManager.html#a0d8266fa27b37081a6ee2108dc9a093f":[2,0,587,3]
 };
