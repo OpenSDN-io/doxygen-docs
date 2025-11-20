@@ -9,12 +9,8 @@ var classMiscUtils =
       [ "MaxModules", "d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8a68ef0d3b81cfbc80fe9cbd7c2fab2058", null ]
     ] ],
     [ "BaseName", "d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d", null ],
-    [ "GetBuildInfo", "d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c", null ],
-    [ "GetContrailVersionInfo", "d8/d93/classMiscUtils.html#adc5eb1965ecae2c242d04bace30f5566", null ],
     [ "GetHostIp", "d8/d93/classMiscUtils.html#abd2766f75401d1896ef7ab9ed71b6551", null ],
-    [ "GetPlatformInfo", "d8/d93/classMiscUtils.html#aac03601cc25211c2b7a696d6d0c7dca8", null ],
     [ "GetUpTimeSeconds", "d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49", null ],
-    [ "GetVersionInfoInternal", "d8/d93/classMiscUtils.html#ae5b6dbd16a414c7c5495f1e523c2c8fe", null ],
     [ "LogVersionInfo", "d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38", null ],
     [ "MapInit", "d8/d93/classMiscUtils.html#ab783db16b52a8bdfabf6feb8a4a31812", null ],
     [ "set_startup_time_secs", "d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087", null ],

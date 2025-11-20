@@ -1847,7 +1847,7 @@ var files_dup =
     [ "controller/src/control-node/main.cc", "d9/da9/controller_2src_2control-node_2main_8cc.html", "d9/da9/controller_2src_2control-node_2main_8cc" ],
     [ "controller/src/dns/main.cc", "d2/d76/controller_2src_2dns_2main_8cc.html", "d2/d76/controller_2src_2dns_2main_8cc" ],
     [ "controller/src/vnsw/agent/contrail/main.cc", "d7/df2/controller_2src_2vnsw_2agent_2contrail_2main_8cc.html", "d7/df2/controller_2src_2vnsw_2agent_2contrail_2main_8cc" ],
-    [ "controller/src/vnsw/agent/ovs_tor_agent/main.cc", "d7/da8/controller_2src_2vnsw_2agent_2ovs__tor__agent_2main_8cc.html", "d7/da8/controller_2src_2vnsw_2agent_2ovs__tor__agent_2main_8cc" ],
+    [ "controller/src/vnsw/agent/ovs_tor_agent/main.cc", "d7/da8/controller_2src_2vnsw_2agent_2ovs__tor__agent_2main_8cc.html", null ],
     [ "controller/src/vnsw/agent/vxlan_agent/linux/main.cc", "d5/dcc/controller_2src_2vnsw_2agent_2vxlan__agent_2linux_2main_8cc.html", "d5/dcc/controller_2src_2vnsw_2agent_2vxlan__agent_2linux_2main_8cc" ],
     [ "src/contrail-common/http/client/main.cc", "de/d43/src_2contrail-common_2http_2client_2main_8cc.html", "de/d43/src_2contrail-common_2http_2client_2main_8cc" ],
     [ "src/contrail-common/sandesh/compiler/main.cc", "d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc.html", "d0/de6/src_2contrail-common_2sandesh_2compiler_2main_8cc" ],
@@ -3208,7 +3208,7 @@ var files_dup =
     [ "vrouter_uve_entry.h", "d1/d31/vrouter__uve__entry_8h.html", [
       [ "VrouterUveEntry", "d2/d8f/classVrouterUveEntry.html", "d2/d8f/classVrouterUveEntry" ]
     ] ],
-    [ "vrouter_uve_entry_base.cc", "d5/d0c/vrouter__uve__entry__base_8cc.html", null ],
+    [ "vrouter_uve_entry_base.cc", "d5/d0c/vrouter__uve__entry__base_8cc.html", "d5/d0c/vrouter__uve__entry__base_8cc" ],
     [ "vrouter_uve_entry_base.h", "d2/d83/vrouter__uve__entry__base_8h.html", [
       [ "VrouterUveEntryBase", "dd/d26/classVrouterUveEntryBase.html", "dd/d26/classVrouterUveEntryBase" ],
       [ "VrouterUveInterfaceState", "d2/d24/structVrouterUveEntryBase_1_1VrouterUveInterfaceState.html", "d2/d24/structVrouterUveEntryBase_1_1VrouterUveInterfaceState" ],

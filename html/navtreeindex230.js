@@ -1,12 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a021afdf86786539caaf5521b4a42f85a":[2,0,8,137,15],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a026806d0215a8ee500ba073199d7ebc9":[2,0,8,137,52],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a031e9eb8f6eb95d4c9797fa4cd62631d":[2,0,8,137,21],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a03b8f62334eabe838cfb8ef5db4cc35b":[2,0,8,137,32],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a097ac1b9e129f12e61634c449dd60a6b":[2,0,8,137,13],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a0f2ec92332d2f0e31ee76b60ae818bae":[2,0,8,137,48],
-"df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a12481ed5b991bf9cf9b33c045addac2d":[2,0,8,137,29],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a1d95d48f102bc06ea0c0cf72d513be40":[2,0,8,137,45],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a206dc08c393998cde534e4b20701c8ac":[2,0,8,137,9],
 "df/df0/classetcdserverpb_1_1AuthUserGrantRoleRequest.html#a20976b8d3b227cd3f36df50cbffba30e":[2,0,8,137,6],
@@ -249,5 +242,12 @@ var NAVTREEINDEX230 =
 "df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#a9946cf8ce9327e83e733e772a88a34de":[2,0,383,0],
 "df/dfa/classBgpPathAttributePmsiTunnelIdentifier.html#ad30afeed5a744efc6b4821ce4c4ed3d8":[2,0,383,1],
 "df/dfa/oper__db_8h.html":[3,0,812],
-"df/dfa/oper__db_8h_source.html":[3,0,812]
+"df/dfa/oper__db_8h_source.html":[3,0,812],
+"df/dfa/thrift__fake__transport_8h.html":[3,0,1174],
+"df/dfa/thrift__fake__transport_8h.html#ac1f0334478511d21727d7dcc536a40b5":[3,0,1174,1],
+"df/dfa/thrift__fake__transport_8h.html#ae7191f3af49c98a1fb21a4ebcb70a653":[3,0,1174,2],
+"df/dfa/thrift__fake__transport_8h_source.html":[3,0,1174],
+"df/dfc/version_8h.html":[3,0,1221],
+"df/dfc/version_8h.html#a86e47c99b2ff4dd9094b09ad614df1f5":[3,0,1221,0],
+"df/dfc/version_8h_source.html":[3,0,1221]
 };

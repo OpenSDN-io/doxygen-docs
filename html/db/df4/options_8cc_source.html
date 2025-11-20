@@ -352,151 +352,149 @@ $(document).ready(function(){initNavTree('db/df4/options_8cc_source.html','../..
 <div class="line"><a name="l00265"></a><span class="lineno">  265</span>&#160;    }</div>
 <div class="line"><a name="l00266"></a><span class="lineno">  266</span>&#160; </div>
 <div class="line"><a name="l00267"></a><span class="lineno">  267</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;version&quot;</span>)) {</div>
-<div class="line"><a name="l00268"></a><span class="lineno">  268</span>&#160;        <span class="keywordtype">string</span> build_info;</div>
-<div class="line"><a name="l00269"></a><span class="lineno">  269</span>&#160;        cout &lt;&lt; <a class="code" href="../../d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c">MiscUtils::GetBuildInfo</a>(<a class="code" href="../../d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8acc9f21d6f4c3f8a37e78571d93e309b1">MiscUtils::ControlNode</a>, BuildInfo,</div>
-<div class="line"><a name="l00270"></a><span class="lineno">  270</span>&#160;                                        build_info) &lt;&lt; endl;</div>
-<div class="line"><a name="l00271"></a><span class="lineno">  271</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;    }</div>
-<div class="line"><a name="l00273"></a><span class="lineno">  273</span>&#160; </div>
-<div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;    <span class="comment">// Retrieve the options.</span></div>
-<div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;    GetOptValue&lt;string&gt;(var_map, bgp_config_file_, <span class="stringliteral">&quot;DEFAULT.bgp_config_file&quot;</span>);</div>
-<div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, bgp_port_, <span class="stringliteral">&quot;DEFAULT.bgp_port&quot;</span>);</div>
-<div class="line"><a name="l00277"></a><span class="lineno">  277</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map, collector_server_list_,</div>
-<div class="line"><a name="l00278"></a><span class="lineno">  278</span>&#160;                                  <span class="stringliteral">&quot;DEFAULT.collectors&quot;</span>);</div>
-<div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;    <span class="keywordtype">string</span> error_msg;</div>
-<div class="line"><a name="l00280"></a><span class="lineno">  280</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../de/d5f/address__util_8cc.html#a8cc59db30bce2056009f91cd98614656">ValidateServerEndpoints</a>(collector_server_list_, &amp;error_msg)) {</div>
-<div class="line"><a name="l00281"></a><span class="lineno">  281</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid endpoint : &quot;</span> &lt;&lt; error_msg;</div>
-<div class="line"><a name="l00282"></a><span class="lineno">  282</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00283"></a><span class="lineno">  283</span>&#160;    }</div>
-<div class="line"><a name="l00284"></a><span class="lineno">  284</span>&#160; </div>
-<div class="line"><a name="l00285"></a><span class="lineno">  285</span>&#160;    collectors_configured_ = collector_server_list_.size();</div>
-<div class="line"><a name="l00286"></a><span class="lineno">  286</span>&#160;    <span class="keywordflow">if</span> (collector_server_list_.size() == 1 &amp;&amp;</div>
-<div class="line"><a name="l00287"></a><span class="lineno">  287</span>&#160;        !collector_server_list_[0].compare(default_collector_server_list_[0])) {</div>
-<div class="line"><a name="l00288"></a><span class="lineno">  288</span>&#160;        collectors_configured_ = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00289"></a><span class="lineno">  289</span>&#160;    }</div>
-<div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160; </div>
-<div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    <span class="comment">// Randomize Collector List</span></div>
-<div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;    collector_chksum_ = GenerateHash(collector_server_list_);</div>
-<div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;    randomized_collector_server_list_ = collector_server_list_;</div>
-<div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    std::random_shuffle(randomized_collector_server_list_.begin(),</div>
-<div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;                        randomized_collector_server_list_.end());</div>
-<div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160; </div>
-<div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;    GetOptValue&lt;string&gt;(var_map, host_ip_, <span class="stringliteral">&quot;DEFAULT.hostip&quot;</span>);</div>
-<div class="line"><a name="l00298"></a><span class="lineno">  298</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../de/d5f/address__util_8cc.html#aa08c05e234a17f67f0eb5d570d53a50b">ValidateIPAddressString</a>(host_ip_, &amp;error_msg)) {</div>
-<div class="line"><a name="l00299"></a><span class="lineno">  299</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid IP address: &quot;</span> &lt;&lt; host_ip_ &lt;&lt; error_msg;</div>
-<div class="line"><a name="l00300"></a><span class="lineno">  300</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;    }</div>
+<div class="line"><a name="l00268"></a><span class="lineno">  268</span>&#160;        cout &lt;&lt; <a class="code" href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a> &lt;&lt; endl;</div>
+<div class="line"><a name="l00269"></a><span class="lineno">  269</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00270"></a><span class="lineno">  270</span>&#160;    }</div>
+<div class="line"><a name="l00271"></a><span class="lineno">  271</span>&#160; </div>
+<div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;    <span class="comment">// Retrieve the options.</span></div>
+<div class="line"><a name="l00273"></a><span class="lineno">  273</span>&#160;    GetOptValue&lt;string&gt;(var_map, bgp_config_file_, <span class="stringliteral">&quot;DEFAULT.bgp_config_file&quot;</span>);</div>
+<div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, bgp_port_, <span class="stringliteral">&quot;DEFAULT.bgp_port&quot;</span>);</div>
+<div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map, collector_server_list_,</div>
+<div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;                                  <span class="stringliteral">&quot;DEFAULT.collectors&quot;</span>);</div>
+<div class="line"><a name="l00277"></a><span class="lineno">  277</span>&#160;    <span class="keywordtype">string</span> error_msg;</div>
+<div class="line"><a name="l00278"></a><span class="lineno">  278</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../de/d5f/address__util_8cc.html#a8cc59db30bce2056009f91cd98614656">ValidateServerEndpoints</a>(collector_server_list_, &amp;error_msg)) {</div>
+<div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid endpoint : &quot;</span> &lt;&lt; error_msg;</div>
+<div class="line"><a name="l00280"></a><span class="lineno">  280</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00281"></a><span class="lineno">  281</span>&#160;    }</div>
+<div class="line"><a name="l00282"></a><span class="lineno">  282</span>&#160; </div>
+<div class="line"><a name="l00283"></a><span class="lineno">  283</span>&#160;    collectors_configured_ = collector_server_list_.size();</div>
+<div class="line"><a name="l00284"></a><span class="lineno">  284</span>&#160;    <span class="keywordflow">if</span> (collector_server_list_.size() == 1 &amp;&amp;</div>
+<div class="line"><a name="l00285"></a><span class="lineno">  285</span>&#160;        !collector_server_list_[0].compare(default_collector_server_list_[0])) {</div>
+<div class="line"><a name="l00286"></a><span class="lineno">  286</span>&#160;        collectors_configured_ = <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00287"></a><span class="lineno">  287</span>&#160;    }</div>
+<div class="line"><a name="l00288"></a><span class="lineno">  288</span>&#160; </div>
+<div class="line"><a name="l00289"></a><span class="lineno">  289</span>&#160;    <span class="comment">// Randomize Collector List</span></div>
+<div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;    collector_chksum_ = GenerateHash(collector_server_list_);</div>
+<div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    randomized_collector_server_list_ = collector_server_list_;</div>
+<div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;    std::random_shuffle(randomized_collector_server_list_.begin(),</div>
+<div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;                        randomized_collector_server_list_.end());</div>
+<div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160; </div>
+<div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;    GetOptValue&lt;string&gt;(var_map, host_ip_, <span class="stringliteral">&quot;DEFAULT.hostip&quot;</span>);</div>
+<div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../de/d5f/address__util_8cc.html#aa08c05e234a17f67f0eb5d570d53a50b">ValidateIPAddressString</a>(host_ip_, &amp;error_msg)) {</div>
+<div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid IP address: &quot;</span> &lt;&lt; host_ip_ &lt;&lt; error_msg;</div>
+<div class="line"><a name="l00298"></a><span class="lineno">  298</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00299"></a><span class="lineno">  299</span>&#160;    }</div>
+<div class="line"><a name="l00300"></a><span class="lineno">  300</span>&#160; </div>
+<div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;    GetOptValue&lt;string&gt;(var_map, hostname_, <span class="stringliteral">&quot;DEFAULT.hostname&quot;</span>);</div>
 <div class="line"><a name="l00302"></a><span class="lineno">  302</span>&#160; </div>
-<div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;    GetOptValue&lt;string&gt;(var_map, hostname_, <span class="stringliteral">&quot;DEFAULT.hostname&quot;</span>);</div>
-<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160; </div>
-<div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, http_server_port_,</div>
-<div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;                          <span class="stringliteral">&quot;DEFAULT.http_server_port&quot;</span>);</div>
-<div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160; </div>
-<div class="line"><a name="l00308"></a><span class="lineno">  308</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_category_, <span class="stringliteral">&quot;DEFAULT.log_category&quot;</span>);</div>
-<div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_file_, <span class="stringliteral">&quot;DEFAULT.log_file&quot;</span>);</div>
-<div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_property_file_, <span class="stringliteral">&quot;DEFAULT.log_property_file&quot;</span>);</div>
-<div class="line"><a name="l00311"></a><span class="lineno">  311</span>&#160;    GetOptValue&lt;int&gt;(var_map, log_files_count_, <span class="stringliteral">&quot;DEFAULT.log_files_count&quot;</span>);</div>
-<div class="line"><a name="l00312"></a><span class="lineno">  312</span>&#160;    GetOptValue&lt;long&gt;(var_map, log_file_size_, <span class="stringliteral">&quot;DEFAULT.log_file_size&quot;</span>);</div>
-<div class="line"><a name="l00313"></a><span class="lineno">  313</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_level_, <span class="stringliteral">&quot;DEFAULT.log_level&quot;</span>);</div>
-<div class="line"><a name="l00314"></a><span class="lineno">  314</span>&#160;    GetOptValue&lt;string&gt;(var_map, syslog_facility_, <span class="stringliteral">&quot;DEFAULT.syslog_facility&quot;</span>);</div>
-<div class="line"><a name="l00315"></a><span class="lineno">  315</span>&#160;    GetOptValue&lt;int&gt;(var_map, tcp_hold_time_, <span class="stringliteral">&quot;DEFAULT.tcp_hold_time&quot;</span>);</div>
-<div class="line"><a name="l00316"></a><span class="lineno">  316</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, xmpp_port_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_port&quot;</span>);</div>
-<div class="line"><a name="l00317"></a><span class="lineno">  317</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_server_cert_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_cert&quot;</span>);</div>
-<div class="line"><a name="l00318"></a><span class="lineno">  318</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_server_key_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_key&quot;</span>);</div>
-<div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_ca_cert_, <span class="stringliteral">&quot;DEFAULT.xmpp_ca_cert&quot;</span>);</div>
+<div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, http_server_port_,</div>
+<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;                          <span class="stringliteral">&quot;DEFAULT.http_server_port&quot;</span>);</div>
+<div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160; </div>
+<div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_category_, <span class="stringliteral">&quot;DEFAULT.log_category&quot;</span>);</div>
+<div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_file_, <span class="stringliteral">&quot;DEFAULT.log_file&quot;</span>);</div>
+<div class="line"><a name="l00308"></a><span class="lineno">  308</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_property_file_, <span class="stringliteral">&quot;DEFAULT.log_property_file&quot;</span>);</div>
+<div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;    GetOptValue&lt;int&gt;(var_map, log_files_count_, <span class="stringliteral">&quot;DEFAULT.log_files_count&quot;</span>);</div>
+<div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;    GetOptValue&lt;long&gt;(var_map, log_file_size_, <span class="stringliteral">&quot;DEFAULT.log_file_size&quot;</span>);</div>
+<div class="line"><a name="l00311"></a><span class="lineno">  311</span>&#160;    GetOptValue&lt;string&gt;(var_map, log_level_, <span class="stringliteral">&quot;DEFAULT.log_level&quot;</span>);</div>
+<div class="line"><a name="l00312"></a><span class="lineno">  312</span>&#160;    GetOptValue&lt;string&gt;(var_map, syslog_facility_, <span class="stringliteral">&quot;DEFAULT.syslog_facility&quot;</span>);</div>
+<div class="line"><a name="l00313"></a><span class="lineno">  313</span>&#160;    GetOptValue&lt;int&gt;(var_map, tcp_hold_time_, <span class="stringliteral">&quot;DEFAULT.tcp_hold_time&quot;</span>);</div>
+<div class="line"><a name="l00314"></a><span class="lineno">  314</span>&#160;    GetOptValue&lt;uint16_t&gt;(var_map, xmpp_port_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_port&quot;</span>);</div>
+<div class="line"><a name="l00315"></a><span class="lineno">  315</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_server_cert_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_cert&quot;</span>);</div>
+<div class="line"><a name="l00316"></a><span class="lineno">  316</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_server_key_, <span class="stringliteral">&quot;DEFAULT.xmpp_server_key&quot;</span>);</div>
+<div class="line"><a name="l00317"></a><span class="lineno">  317</span>&#160;    GetOptValue&lt;string&gt;(var_map, xmpp_ca_cert_, <span class="stringliteral">&quot;DEFAULT.xmpp_ca_cert&quot;</span>);</div>
+<div class="line"><a name="l00318"></a><span class="lineno">  318</span>&#160; </div>
+<div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;    ParseConfigOptions(var_map);</div>
 <div class="line"><a name="l00320"></a><span class="lineno">  320</span>&#160; </div>
-<div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;    ParseConfigOptions(var_map);</div>
-<div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160; </div>
-<div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;    <a class="code" href="../../db/ddd/namespacesandesh_1_1options.html#a75216467e5c632ee95370941385adc8f">sandesh::options::ProcessOptions</a>(var_map, &amp;sandesh_config_);</div>
-<div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00325"></a><span class="lineno">  325</span>&#160;}</div>
-<div class="line"><a name="l00326"></a><span class="lineno">  326</span>&#160; </div>
-<div class="line"><a name="l00327"></a><span class="lineno"><a class="line" href="../../d6/d72/classOptions.html#abc0c693b95fe20a9cdf5af2ee3b5bf91">  327</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d6/d72/classOptions.html#a8dc653a8fb92517b60d76f017f086aaf">Options::ParseReConfig</a>(<span class="keywordtype">bool</span> force_reinit) {</div>
-<div class="line"><a name="l00328"></a><span class="lineno">  328</span>&#160;    <span class="comment">// ReParse the filtered config params</span></div>
-<div class="line"><a name="l00329"></a><span class="lineno">  329</span>&#160;    opt::variables_map var_map;</div>
-<div class="line"><a name="l00330"></a><span class="lineno">  330</span>&#160;    ifstream config_file_in;</div>
-<div class="line"><a name="l00331"></a><span class="lineno">  331</span>&#160;    config_file_in.open(config_file_.c_str());</div>
-<div class="line"><a name="l00332"></a><span class="lineno">  332</span>&#160;    <span class="keywordflow">if</span> (config_file_in.good()) {</div>
-<div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;        opt::store(opt::parse_config_file(config_file_in, config_file_options_),</div>
-<div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;                   var_map);</div>
-<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;    }</div>
-<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    config_file_in.close();</div>
-<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160; </div>
-<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;    collector_server_list_.clear();</div>
-<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map, collector_server_list_,</div>
-<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;                                  <span class="stringliteral">&quot;DEFAULT.collectors&quot;</span>);</div>
-<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160; </div>
-<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    uint32_t new_chksum = GenerateHash(collector_server_list_);</div>
-<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;    <span class="keywordflow">if</span> (collector_chksum_ != new_chksum) {</div>
-<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;        collector_chksum_ = new_chksum;</div>
-<div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;        randomized_collector_server_list_.clear();</div>
-<div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;        randomized_collector_server_list_ = collector_server_list_;</div>
-<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;        std::random_shuffle(randomized_collector_server_list_.begin(),</div>
-<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;                            randomized_collector_server_list_.end());</div>
-<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    }</div>
-<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;    <span class="comment">// ReConnect Collectors irrespective of change list to achieve</span></div>
-<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;    <span class="comment">// rebalance when older collector node/s are up again.</span></div>
-<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#a42386d9194c1eb7b841ac636002d3a5c">Sandesh::ReConfigCollectors</a>(randomized_collector_server_list_);</div>
-<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160; </div>
-<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;    uint32_t old_config_chksum = configdb_chksum_;</div>
-<div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;    ParseConfigOptions(var_map);</div>
-<div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;    <span class="keywordflow">if</span> ((force_reinit || old_config_chksum != configdb_chksum_) &amp;&amp;</div>
-<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;            config_client_manager_) {</div>
-<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;        config_client_manager_-&gt;ReinitConfigClient(configdb_options());</div>
-<div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160;    }</div>
-<div class="line"><a name="l00360"></a><span class="lineno">  360</span>&#160;}</div>
-<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160; </div>
-<div class="line"><a name="l00362"></a><span class="lineno"><a class="line" href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">  362</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">Options::ParseConfigOptions</a>(<span class="keyword">const</span> boost::program_options::variables_map</div>
-<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;                                 &amp;var_map) {</div>
-<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;    configdb_options_.config_db_server_list.clear();</div>
-<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map,</div>
-<div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;                                  configdb_options_.config_db_server_list,</div>
-<div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;                                  <span class="stringliteral">&quot;CONFIGDB.config_db_server_list&quot;</span>);</div>
-<div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;                     configdb_options_.config_db_username,</div>
-<div class="line"><a name="l00370"></a><span class="lineno">  370</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_username&quot;</span>);</div>
-<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;                     configdb_options_.config_db_password,</div>
-<div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_password&quot;</span>);</div>
-<div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
-<div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;                     configdb_options_.config_db_use_ssl,</div>
-<div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_use_ssl&quot;</span>);</div>
-<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;                     configdb_options_.config_db_ca_certs,</div>
-<div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_ca_certs&quot;</span>);</div>
-<div class="line"><a name="l00380"></a><span class="lineno">  380</span>&#160;    configdb_options_.rabbitmq_server_list.clear();</div>
-<div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map,</div>
-<div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;                     configdb_options_.rabbitmq_server_list,</div>
-<div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_server_list&quot;</span>);</div>
-<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160;                     configdb_options_.rabbitmq_user,</div>
-<div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_user&quot;</span>);</div>
-<div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00388"></a><span class="lineno">  388</span>&#160;                     configdb_options_.rabbitmq_password,</div>
-<div class="line"><a name="l00389"></a><span class="lineno">  389</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_password&quot;</span>);</div>
-<div class="line"><a name="l00390"></a><span class="lineno">  390</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00391"></a><span class="lineno">  391</span>&#160;                     configdb_options_.rabbitmq_vhost,</div>
-<div class="line"><a name="l00392"></a><span class="lineno">  392</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_vhost&quot;</span>);</div>
-<div class="line"><a name="l00393"></a><span class="lineno">  393</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
-<div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;                     configdb_options_.rabbitmq_use_ssl,</div>
-<div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_use_ssl&quot;</span>);</div>
-<div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;                     configdb_options_.rabbitmq_ssl_version,</div>
-<div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_version&quot;</span>);</div>
-<div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160;                     configdb_options_.rabbitmq_ssl_keyfile,</div>
-<div class="line"><a name="l00401"></a><span class="lineno">  401</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_keyfile&quot;</span>);</div>
-<div class="line"><a name="l00402"></a><span class="lineno">  402</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00403"></a><span class="lineno">  403</span>&#160;                     configdb_options_.rabbitmq_ssl_certfile,</div>
-<div class="line"><a name="l00404"></a><span class="lineno">  404</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_certfile&quot;</span>);</div>
-<div class="line"><a name="l00405"></a><span class="lineno">  405</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
-<div class="line"><a name="l00406"></a><span class="lineno">  406</span>&#160;                     configdb_options_.rabbitmq_ssl_ca_certs,</div>
-<div class="line"><a name="l00407"></a><span class="lineno">  407</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_ca_certs&quot;</span>);</div>
-<div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
-<div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160;                     configdb_options_.config_db_use_etcd,</div>
-<div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_use_etcd&quot;</span>);</div>
-<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;    configdb_chksum_ = GenerateHash(configdb_options_);</div>
-<div class="line"><a name="l00412"></a><span class="lineno">  412</span>&#160;}</div>
+<div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;    <a class="code" href="../../db/ddd/namespacesandesh_1_1options.html#a75216467e5c632ee95370941385adc8f">sandesh::options::ProcessOptions</a>(var_map, &amp;sandesh_config_);</div>
+<div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;}</div>
+<div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160; </div>
+<div class="line"><a name="l00325"></a><span class="lineno"><a class="line" href="../../d6/d72/classOptions.html#abc0c693b95fe20a9cdf5af2ee3b5bf91">  325</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d6/d72/classOptions.html#a8dc653a8fb92517b60d76f017f086aaf">Options::ParseReConfig</a>(<span class="keywordtype">bool</span> force_reinit) {</div>
+<div class="line"><a name="l00326"></a><span class="lineno">  326</span>&#160;    <span class="comment">// ReParse the filtered config params</span></div>
+<div class="line"><a name="l00327"></a><span class="lineno">  327</span>&#160;    opt::variables_map var_map;</div>
+<div class="line"><a name="l00328"></a><span class="lineno">  328</span>&#160;    ifstream config_file_in;</div>
+<div class="line"><a name="l00329"></a><span class="lineno">  329</span>&#160;    config_file_in.open(config_file_.c_str());</div>
+<div class="line"><a name="l00330"></a><span class="lineno">  330</span>&#160;    <span class="keywordflow">if</span> (config_file_in.good()) {</div>
+<div class="line"><a name="l00331"></a><span class="lineno">  331</span>&#160;        opt::store(opt::parse_config_file(config_file_in, config_file_options_),</div>
+<div class="line"><a name="l00332"></a><span class="lineno">  332</span>&#160;                   var_map);</div>
+<div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;    }</div>
+<div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;    config_file_in.close();</div>
+<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160; </div>
+<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    collector_server_list_.clear();</div>
+<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map, collector_server_list_,</div>
+<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;                                  <span class="stringliteral">&quot;DEFAULT.collectors&quot;</span>);</div>
+<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160; </div>
+<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;    uint32_t new_chksum = GenerateHash(collector_server_list_);</div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;    <span class="keywordflow">if</span> (collector_chksum_ != new_chksum) {</div>
+<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;        collector_chksum_ = new_chksum;</div>
+<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;        randomized_collector_server_list_.clear();</div>
+<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;        randomized_collector_server_list_ = collector_server_list_;</div>
+<div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;        std::random_shuffle(randomized_collector_server_list_.begin(),</div>
+<div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;                            randomized_collector_server_list_.end());</div>
+<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;    }</div>
+<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;    <span class="comment">// ReConnect Collectors irrespective of change list to achieve</span></div>
+<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    <span class="comment">// rebalance when older collector node/s are up again.</span></div>
+<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#a42386d9194c1eb7b841ac636002d3a5c">Sandesh::ReConfigCollectors</a>(randomized_collector_server_list_);</div>
+<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160; </div>
+<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;    uint32_t old_config_chksum = configdb_chksum_;</div>
+<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;    ParseConfigOptions(var_map);</div>
+<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;    <span class="keywordflow">if</span> ((force_reinit || old_config_chksum != configdb_chksum_) &amp;&amp;</div>
+<div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;            config_client_manager_) {</div>
+<div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;        config_client_manager_-&gt;ReinitConfigClient(configdb_options());</div>
+<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;    }</div>
+<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;}</div>
+<div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160; </div>
+<div class="line"><a name="l00360"></a><span class="lineno"><a class="line" href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">  360</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">Options::ParseConfigOptions</a>(<span class="keyword">const</span> boost::program_options::variables_map</div>
+<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;                                 &amp;var_map) {</div>
+<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;    configdb_options_.config_db_server_list.clear();</div>
+<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map,</div>
+<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;                                  configdb_options_.config_db_server_list,</div>
+<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;                                  <span class="stringliteral">&quot;CONFIGDB.config_db_server_list&quot;</span>);</div>
+<div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;                     configdb_options_.config_db_username,</div>
+<div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_username&quot;</span>);</div>
+<div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00370"></a><span class="lineno">  370</span>&#160;                     configdb_options_.config_db_password,</div>
+<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_password&quot;</span>);</div>
+<div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
+<div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;                     configdb_options_.config_db_use_ssl,</div>
+<div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_use_ssl&quot;</span>);</div>
+<div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160;                     configdb_options_.config_db_ca_certs,</div>
+<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_ca_certs&quot;</span>);</div>
+<div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;    configdb_options_.rabbitmq_server_list.clear();</div>
+<div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;    GetOptValue&lt; vector&lt;string&gt; &gt;(var_map,</div>
+<div class="line"><a name="l00380"></a><span class="lineno">  380</span>&#160;                     configdb_options_.rabbitmq_server_list,</div>
+<div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_server_list&quot;</span>);</div>
+<div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;                     configdb_options_.rabbitmq_user,</div>
+<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_user&quot;</span>);</div>
+<div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160;                     configdb_options_.rabbitmq_password,</div>
+<div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_password&quot;</span>);</div>
+<div class="line"><a name="l00388"></a><span class="lineno">  388</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00389"></a><span class="lineno">  389</span>&#160;                     configdb_options_.rabbitmq_vhost,</div>
+<div class="line"><a name="l00390"></a><span class="lineno">  390</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_vhost&quot;</span>);</div>
+<div class="line"><a name="l00391"></a><span class="lineno">  391</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
+<div class="line"><a name="l00392"></a><span class="lineno">  392</span>&#160;                     configdb_options_.rabbitmq_use_ssl,</div>
+<div class="line"><a name="l00393"></a><span class="lineno">  393</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_use_ssl&quot;</span>);</div>
+<div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;                     configdb_options_.rabbitmq_ssl_version,</div>
+<div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_version&quot;</span>);</div>
+<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;                     configdb_options_.rabbitmq_ssl_keyfile,</div>
+<div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_keyfile&quot;</span>);</div>
+<div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00401"></a><span class="lineno">  401</span>&#160;                     configdb_options_.rabbitmq_ssl_certfile,</div>
+<div class="line"><a name="l00402"></a><span class="lineno">  402</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_certfile&quot;</span>);</div>
+<div class="line"><a name="l00403"></a><span class="lineno">  403</span>&#160;    GetOptValue&lt;string&gt;(var_map,</div>
+<div class="line"><a name="l00404"></a><span class="lineno">  404</span>&#160;                     configdb_options_.rabbitmq_ssl_ca_certs,</div>
+<div class="line"><a name="l00405"></a><span class="lineno">  405</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.rabbitmq_ssl_ca_certs&quot;</span>);</div>
+<div class="line"><a name="l00406"></a><span class="lineno">  406</span>&#160;    GetOptValue&lt;bool&gt;(var_map,</div>
+<div class="line"><a name="l00407"></a><span class="lineno">  407</span>&#160;                     configdb_options_.config_db_use_etcd,</div>
+<div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;                     <span class="stringliteral">&quot;CONFIGDB.config_db_use_etcd&quot;</span>);</div>
+<div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160;    configdb_chksum_ = GenerateHash(configdb_options_);</div>
+<div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;}</div>
 <div class="ttc" id="aaddress__util_8cc_html_a479eb5db1688548ad6ea91f45e2b1d45"><div class="ttname"><a href="../../de/d5f/address__util_8cc.html#a479eb5db1688548ad6ea91f45e2b1d45">GetHostIp</a></div><div class="ttdeci">std::string GetHostIp(boost::asio::io_context *io_service, const std::string &amp;hostname)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d5f/address__util_8cc_source.html#l00271">address_util.cc:271</a></div></div>
 <div class="ttc" id="aaddress__util_8cc_html_a8cc59db30bce2056009f91cd98614656"><div class="ttname"><a href="../../de/d5f/address__util_8cc.html#a8cc59db30bce2056009f91cd98614656">ValidateServerEndpoints</a></div><div class="ttdeci">bool ValidateServerEndpoints(std::vector&lt; std::string &gt; list, std::string *error_msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d5f/address__util_8cc_source.html#l00233">address_util.cc:233</a></div></div>
 <div class="ttc" id="aaddress__util_8cc_html_aa08c05e234a17f67f0eb5d570d53a50b"><div class="ttname"><a href="../../de/d5f/address__util_8cc.html#aa08c05e234a17f67f0eb5d570d53a50b">ValidateIPAddressString</a></div><div class="ttdeci">bool ValidateIPAddressString(std::string ip_address_str, std::string *error_msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d5f/address__util_8cc_source.html#l00143">address_util.cc:143</a></div></div>
@@ -506,12 +504,10 @@ $(document).ready(function(){initNavTree('db/df4/options_8cc_source.html','../..
 <div class="ttc" id="aclassContrailPorts_html_accc05e76b5518a4a49f888351f256a10"><div class="ttname"><a href="../../d0/dd6/classContrailPorts.html#accc05e76b5518a4a49f888351f256a10">ContrailPorts::ControlXmpp</a></div><div class="ttdeci">static const uint16_t ControlXmpp()</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/dac/contrail__ports_8cc_source.html#l00107">contrail_ports.cc:107</a></div></div>
 <div class="ttc" id="aclassEventManager_html"><div class="ttname"><a href="../../d2/dd9/classEventManager.html">EventManager</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d69/event__manager_8h_source.html#l00024">event_manager.h:24</a></div></div>
 <div class="ttc" id="aclassEventManager_html_a7a1c978f3464aabeda2e8e809252e128"><div class="ttname"><a href="../../d2/dd9/classEventManager.html#a7a1c978f3464aabeda2e8e809252e128">EventManager::io_service</a></div><div class="ttdeci">boost::asio::io_context * io_service()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d69/event__manager_8h_source.html#l00042">event_manager.h:42</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_a087c2aaf85eee4112680e4577bde2c4c"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c">MiscUtils::GetBuildInfo</a></div><div class="ttdeci">static bool GetBuildInfo(BuildModule id, const std::string &amp;build_info, std::string &amp;result)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00099">misc_utils.cc:99</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_ab9d02706d91a9061b2e911d8de61f9b8acc9f21d6f4c3f8a37e78571d93e309b1"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8acc9f21d6f4c3f8a37e78571d93e309b1">MiscUtils::ControlNode</a></div><div class="ttdeci">@ ControlNode</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00044">misc_utils.h:44</a></div></div>
-<div class="ttc" id="aclassOptions_html_a497fe0a9686b032705069aad9c3c850e"><div class="ttname"><a href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">Options::ParseConfigOptions</a></div><div class="ttdeci">void ParseConfigOptions(const boost::program_options::variables_map &amp;var_map)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/df4/options_8cc_source.html#l00362">options.cc:362</a></div></div>
+<div class="ttc" id="aclassOptions_html_a497fe0a9686b032705069aad9c3c850e"><div class="ttname"><a href="../../d6/d72/classOptions.html#a497fe0a9686b032705069aad9c3c850e">Options::ParseConfigOptions</a></div><div class="ttdeci">void ParseConfigOptions(const boost::program_options::variables_map &amp;var_map)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/df4/options_8cc_source.html#l00360">options.cc:360</a></div></div>
 <div class="ttc" id="aclassOptions_html_a64b7902f0f3e99395840be1c51b9598b"><div class="ttname"><a href="../../d6/d72/classOptions.html#a64b7902f0f3e99395840be1c51b9598b">Options::GenerateHash</a></div><div class="ttdeci">uint32_t GenerateHash(const std::vector&lt; std::string &gt; &amp;list)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/df4/options_8cc_source.html#l00221">options.cc:221</a></div></div>
 <div class="ttc" id="aclassOptions_html_a865685d0d3c2174b8c7c8d34bcec6b89"><div class="ttname"><a href="../../d6/d72/classOptions.html#a865685d0d3c2174b8c7c8d34bcec6b89">Options::Process</a></div><div class="ttdeci">bool Process(int argc, char *argv[], boost::program_options::options_description &amp;cmdline_options)</div></div>
-<div class="ttc" id="aclassOptions_html_a8dc653a8fb92517b60d76f017f086aaf"><div class="ttname"><a href="../../d6/d72/classOptions.html#a8dc653a8fb92517b60d76f017f086aaf">Options::ParseReConfig</a></div><div class="ttdeci">void ParseReConfig()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d49/dns__options_8cc_source.html#l00369">dns_options.cc:369</a></div></div>
+<div class="ttc" id="aclassOptions_html_a8dc653a8fb92517b60d76f017f086aaf"><div class="ttname"><a href="../../d6/d72/classOptions.html#a8dc653a8fb92517b60d76f017f086aaf">Options::ParseReConfig</a></div><div class="ttdeci">void ParseReConfig()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d49/dns__options_8cc_source.html#l00367">dns_options.cc:367</a></div></div>
 <div class="ttc" id="aclassOptions_html_a969f79f87307e328ed2077e6f7129970"><div class="ttname"><a href="../../d6/d72/classOptions.html#a969f79f87307e328ed2077e6f7129970">Options::Initialize</a></div><div class="ttdeci">void Initialize(EventManager &amp;evm, boost::program_options::options_description &amp;options)</div></div>
 <div class="ttc" id="aclassOptions_html_ab72fb640172a6109e34c8a5366563753"><div class="ttname"><a href="../../d6/d72/classOptions.html#ab72fb640172a6109e34c8a5366563753">Options::Options</a></div><div class="ttdeci">Options()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/df4/options_8cc_source.html#l00027">options.cc:27</a></div></div>
 <div class="ttc" id="aclassOptions_html_aefa24d8d14b2db53759ca51ed2c59ca1"><div class="ttname"><a href="../../d6/d72/classOptions.html#aefa24d8d14b2db53759ca51ed2c59ca1">Options::Parse</a></div><div class="ttdeci">bool Parse(EventManager &amp;evm, int argc, char **argv)</div></div>
@@ -536,6 +532,7 @@ $(document).ready(function(){initNavTree('db/df4/options_8cc_source.html','../..
 <div class="ttc" id="astructConfigClientOptions_html_ad8d895db2bfb47e8b1f389a35ffa65e7"><div class="ttname"><a href="../../da/dbf/structConfigClientOptions.html#ad8d895db2bfb47e8b1f389a35ffa65e7">ConfigClientOptions::rabbitmq_server_list</a></div><div class="ttdeci">std::vector&lt; std::string &gt; rabbitmq_server_list</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d59/config__client__options_8h_source.html#l00069">config_client_options.h:69</a></div></div>
 <div class="ttc" id="astructConfigClientOptions_html_aeda04e1b2801574f293787ceaabc9612"><div class="ttname"><a href="../../da/dbf/structConfigClientOptions.html#aeda04e1b2801574f293787ceaabc9612">ConfigClientOptions::rabbitmq_user</a></div><div class="ttdeci">std::string rabbitmq_user</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d59/config__client__options_8h_source.html#l00070">config_client_options.h:70</a></div></div>
 <div class="ttc" id="autil_8h_html"><div class="ttname"><a href="../../d8/d3c/util_8h.html">util.h</a></div></div>
+<div class="ttc" id="avrouter__uve__entry__base_8cc_html_a2c03f6d75fada819fa7f1890e88c5a0f"><div class="ttname"><a href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a></div><div class="ttdeci">const std::string BuildInfo</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

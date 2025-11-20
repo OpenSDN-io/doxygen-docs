@@ -105,174 +105,42 @@ $(document).ready(function(){initNavTree('d7/dcd/misc__utils_8cc_source.html','.
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
 <div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="keyword">const</span> std::string <a class="code" href="../../d8/d93/classMiscUtils.html#a05bb35eb219fdec258d9a50762a72972">MiscUtils::ContrailVersionCmd</a> = <span class="stringliteral">&quot;/opt/contrail/utils/contrail-version&quot;</span>;</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="keyword">const</span> map&lt;MiscUtils::BuildModule, string&gt; <a class="code" href="../../d8/d93/classMiscUtils.html#aae950b3bbe0c3ff98c52bbbdd9570ca2">MiscUtils::BuildModuleNames</a> =</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    <a class="code" href="../../d8/d93/classMiscUtils.html#ab783db16b52a8bdfabf6feb8a4a31812">MiscUtils::MapInit</a>();</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#aaee91b3d47b96088d527914afe58f9db">MiscUtils::startup_time_secs_</a> = <a class="code" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a>();</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160; </div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="../../d7/dcd/misc__utils_8cc.html#a94d3a1d466c3f33df2dcd2ccea814afd">   27</a></span>&#160;<a class="code" href="../../d0/db5/sandesh__trace_8h.html#acb763a6d9db22c3b4c524f1ca2131702">SandeshTraceBufferPtr</a> <a class="code" href="../../d7/dcd/misc__utils_8cc.html#a94d3a1d466c3f33df2dcd2ccea814afd">VersionTraceBuf</a>(<a class="code" href="../../d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492">SandeshTraceBufferCreate</a>(</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;                                       <a class="code" href="../../d9/dbd/misc__utils_8h.html#a5c32492ba5eae0229a14ba181be5623d">VERSION_TRACE_BUF</a>, 500));</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
-<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">   30</a></span>&#160;<span class="keywordtype">string</span> <a class="code" href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">MiscUtils::BaseName</a>(<span class="keywordtype">string</span> filename) {</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <span class="keywordtype">size_t</span> pos = filename.find_last_of(<span class="charliteral">&#39;/&#39;</span>);</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <span class="keywordflow">if</span> (pos != string::npos) {</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        <span class="keywordflow">return</span> filename.substr((pos+1));</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    }</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordflow">return</span> filename;</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;}</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160; </div>
-<div class="line"><a name="l00038"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">   38</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> build_info, <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">Category::type</a> categ) {</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    <a class="code" href="../../d9/dbd/misc__utils_8h.html#a15fa610c00fe21dca075deeb6ff2737c">VERSION_TRACE</a>(VersionInfoTrace, build_info);</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../d8/d11/logging_8cc.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a>()) {</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        <a class="code" href="../../d9/dbd/misc__utils_8h.html#a00ae91472f3e964b6d986515234fc380">VERSION_LOG</a>(VersionInfoLog, categ, build_info);</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    }</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;}</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160; </div>
-<div class="line"><a name="l00045"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#ae5b6dbd16a414c7c5495f1e523c2c8fe">   45</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d8/d93/classMiscUtils.html#ae5b6dbd16a414c7c5495f1e523c2c8fe">MiscUtils::GetVersionInfoInternal</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;cmd, <span class="keywordtype">string</span> &amp;rpm_version,</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                                       <span class="keywordtype">string</span> &amp;build_num) {</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    FILE *fp;</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    <span class="keywordtype">char</span> line[512];</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    fp = popen(cmd.c_str(), <span class="stringliteral">&quot;r&quot;</span>);</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <span class="keywordflow">if</span> (fp == NULL) {</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    }</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <span class="keywordtype">char</span> *ptr = fgets(line, <span class="keyword">sizeof</span>(line), fp);</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <span class="keywordflow">if</span> (ptr == NULL) {</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        pclose(fp);</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    }</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    pclose(fp);</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    ptr = strchr(line, <span class="charliteral">&#39;\n&#39;</span>);</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <span class="keywordflow">if</span> (ptr != NULL) {</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;        *ptr = <span class="charliteral">&#39;\0&#39;</span>;</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    }</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    istringstream iss(line);</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <span class="keywordflow">if</span> (iss) {</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;        iss &gt;&gt; rpm_version;</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;        <span class="keywordflow">if</span> (iss) {</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;            iss &gt;&gt; build_num;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        }</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    }</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160; </div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;}</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160; </div>
-<div class="line"><a name="l00078"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#adc5eb1965ecae2c242d04bace30f5566">   78</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d8/d93/classMiscUtils.html#adc5eb1965ecae2c242d04bace30f5566">MiscUtils::GetContrailVersionInfo</a>(<a class="code" href="../../d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8">BuildModule</a> <span class="keywordtype">id</span>, <span class="keywordtype">string</span> &amp;rpm_version,</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;                                       <span class="keywordtype">string</span> &amp;build_num) {</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    <span class="keywordtype">bool</span> ret = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    stringstream cmd;</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;    <span class="comment">//Initialize the version info here. Overide its value on finding version</span></div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    rpm_version.assign(<span class="stringliteral">&quot;unknown&quot;</span>);</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    build_num.assign(<span class="stringliteral">&quot;unknown&quot;</span>);</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160; </div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    ifstream f(ContrailVersionCmd.c_str());</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="keywordflow">if</span> (!f.good()) {</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;        f.close();</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    }</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    f.close();</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    cmd &lt;&lt; ContrailVersionCmd &lt;&lt; <span class="stringliteral">&quot; &quot;</span> &lt;&lt; BuildModuleNames.at(<span class="keywordtype">id</span>)</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;        &lt;&lt; <span class="stringliteral">&quot; | tail -1 | awk &#39;{ print $2 \&quot; \&quot; $3 }&#39;&quot;</span>;</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    ret = GetVersionInfoInternal(cmd.str(), rpm_version, build_num);</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160; </div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <span class="keywordflow">return</span> ret;</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;}</div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160; </div>
-<div class="line"><a name="l00099"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c">   99</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c">MiscUtils::GetBuildInfo</a>(<a class="code" href="../../d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8">BuildModule</a> <span class="keywordtype">id</span>, <span class="keyword">const</span> <span class="keywordtype">string</span> &amp;build_info,</div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;                             <span class="keywordtype">string</span> &amp;result) {</div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    <span class="keywordtype">string</span> rpm_version;</div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    <span class="keywordtype">string</span> build_num;</div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160; </div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    <span class="keywordtype">bool</span> ret = GetContrailVersionInfo(<span class="keywordtype">id</span>, rpm_version, build_num);</div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;    contrail_rapidjson::Document d;</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    <span class="keywordflow">if</span> (d.Parse&lt;0&gt;(<span class="keyword">const_cast&lt;</span><span class="keywordtype">char</span> *<span class="keyword">&gt;</span>(build_info.c_str())).HasParseError()) {</div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;        result = build_info;</div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;    }</div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    contrail_rapidjson::Value&amp; fields = d[<span class="stringliteral">&quot;build-info&quot;</span>];</div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    <span class="keywordflow">if</span> (!fields.IsArray()) {</div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;        result = build_info;</div>
-<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;    }</div>
-<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160; </div>
-<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;    contrail_rapidjson::Value v;</div>
-<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;    fields[0u].AddMember(<span class="stringliteral">&quot;build-id&quot;</span>,</div>
-<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;        v.SetString(rpm_version.c_str(), d.GetAllocator()), d.GetAllocator());</div>
-<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;    fields[0u].AddMember(<span class="stringliteral">&quot;build-number&quot;</span>,</div>
-<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;        v.SetString(build_num.c_str(), d.GetAllocator()), d.GetAllocator());</div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160; </div>
-<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;    contrail_rapidjson::StringBuffer strbuf;</div>
-<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;    contrail_rapidjson::Writer&lt;contrail_rapidjson::StringBuffer&gt; writer(strbuf);</div>
-<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;    d.Accept(writer);</div>
-<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;    result = strbuf.GetString();</div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;    <span class="keywordflow">return</span> ret;</div>
-<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;}</div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160; </div>
-<div class="line"><a name="l00129"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#aac03601cc25211c2b7a696d6d0c7dca8">  129</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d8/d93/classMiscUtils.html#aac03601cc25211c2b7a696d6d0c7dca8">MiscUtils::GetPlatformInfo</a>(std::string &amp;distro, std::string &amp;code_name) {</div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    FILE *fp;</div>
-<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;    <span class="keywordtype">char</span> line[512];</div>
-<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    fp = popen(<span class="stringliteral">&quot;cat /etc/*release&quot;</span>, <span class="stringliteral">&quot;r&quot;</span>);</div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    <span class="keywordflow">if</span> (fp == NULL) {</div>
-<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;    }</div>
-<div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    std::string result = <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;    <span class="keywordflow">while</span> (!feof(fp)) {</div>
-<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;        <span class="keywordflow">if</span> (fgets(line, 512, fp) != NULL) {</div>
-<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;             result += line;</div>
-<div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;        }</div>
-<div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;    }</div>
-<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;    pclose(fp);</div>
-<div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160; </div>
-<div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;    <span class="comment">// parse the strings for centos 6.4, 6.5, trusty, precise..</span></div>
-<div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;    <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;trusty&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;        distro = <span class="stringliteral">&quot;Ubuntu&quot;</span>;</div>
-<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;        code_name = <span class="stringliteral">&quot;Trusty&quot;</span>;</div>
-<div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    } <span class="keywordflow">else</span> <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;precise&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;        distro = <span class="stringliteral">&quot;Ubuntu&quot;</span>;</div>
-<div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;        code_name = <span class="stringliteral">&quot;Precise&quot;</span>;</div>
-<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;    } <span class="keywordflow">else</span> <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;rhel&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;        distro = <span class="stringliteral">&quot;rhel&quot;</span>;</div>
-<div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;        code_name = <span class="stringliteral">&quot;7.0&quot;</span>;</div>
-<div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;    } <span class="keywordflow">else</span> <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;CentOS distro 6.4&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;        distro = <span class="stringliteral">&quot;CentOS&quot;</span>;</div>
-<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;        code_name = <span class="stringliteral">&quot;6.4&quot;</span>;</div>
-<div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;    } <span class="keywordflow">else</span> <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;CentOS distro 6.5&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;        distro = <span class="stringliteral">&quot;CentOS&quot;</span>;</div>
-<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;        code_name = <span class="stringliteral">&quot;6.5&quot;</span>;</div>
-<div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;    } <span class="keywordflow">else</span> <span class="keywordflow">if</span> (result.find(<span class="stringliteral">&quot;CentOS Linux release 7&quot;</span>) != std::string::npos) {</div>
-<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;        distro = <span class="stringliteral">&quot;CentOS&quot;</span>;</div>
-<div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;        code_name = <span class="stringliteral">&quot;7.1.1503&quot;</span>;</div>
-<div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;    }</div>
-<div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;}</div>
-<div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160; </div>
-<div class="line"><a name="l00169"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">  169</a></span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">MiscUtils::GetUpTimeSeconds</a>() {</div>
-<div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="../../d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2">UTCTimestamp</a>() - startup_time_secs_);</div>
-<div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;}</div>
-<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160; </div>
-<div class="line"><a name="l00173"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">  173</a></span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a>() {</div>
-<div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;    <span class="keywordflow">return</span> (startup_time_secs_ = <a class="code" href="../../d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2">UTCTimestamp</a>());</div>
-<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;}</div>
-<div class="ttc" id="aclassMiscUtils_html_a05bb35eb219fdec258d9a50762a72972"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a05bb35eb219fdec258d9a50762a72972">MiscUtils::ContrailVersionCmd</a></div><div class="ttdeci">static const std::string ContrailVersionCmd</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00058">misc_utils.h:58</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_a087c2aaf85eee4112680e4577bde2c4c"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a087c2aaf85eee4112680e4577bde2c4c">MiscUtils::GetBuildInfo</a></div><div class="ttdeci">static bool GetBuildInfo(BuildModule id, const std::string &amp;build_info, std::string &amp;result)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00099">misc_utils.cc:99</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_a46b1c313efbb3ee8ce734ddeaba1ff38"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a></div><div class="ttdeci">static void LogVersionInfo(const std::string str, Category::type categ)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00038">misc_utils.cc:38</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_a88785563b595167567c86300d0538087"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a></div><div class="ttdeci">static time_t set_startup_time_secs()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00173">misc_utils.cc:173</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_aac03601cc25211c2b7a696d6d0c7dca8"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#aac03601cc25211c2b7a696d6d0c7dca8">MiscUtils::GetPlatformInfo</a></div><div class="ttdeci">static bool GetPlatformInfo(std::string &amp;distro, std::string &amp;code_name)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00129">misc_utils.cc:129</a></div></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="keyword">const</span> map&lt;MiscUtils::BuildModule, string&gt; <a class="code" href="../../d8/d93/classMiscUtils.html#aae950b3bbe0c3ff98c52bbbdd9570ca2">MiscUtils::BuildModuleNames</a> =</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <a class="code" href="../../d8/d93/classMiscUtils.html#ab783db16b52a8bdfabf6feb8a4a31812">MiscUtils::MapInit</a>();</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#aaee91b3d47b96088d527914afe58f9db">MiscUtils::startup_time_secs_</a> = <a class="code" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a>();</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
+<div class="line"><a name="l00025"></a><span class="lineno"><a class="line" href="../../d7/dcd/misc__utils_8cc.html#a94d3a1d466c3f33df2dcd2ccea814afd">   25</a></span>&#160;<a class="code" href="../../d0/db5/sandesh__trace_8h.html#acb763a6d9db22c3b4c524f1ca2131702">SandeshTraceBufferPtr</a> <a class="code" href="../../d7/dcd/misc__utils_8cc.html#a94d3a1d466c3f33df2dcd2ccea814afd">VersionTraceBuf</a>(<a class="code" href="../../d0/db5/sandesh__trace_8h.html#ad09ddbb00929792cd2d9164441f09492">SandeshTraceBufferCreate</a>(</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;                                       <a class="code" href="../../d9/dbd/misc__utils_8h.html#a5c32492ba5eae0229a14ba181be5623d">VERSION_TRACE_BUF</a>, 500));</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
+<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">   28</a></span>&#160;<span class="keywordtype">string</span> <a class="code" href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">MiscUtils::BaseName</a>(<span class="keywordtype">string</span> filename) {</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keywordtype">size_t</span> pos = filename.find_last_of(<span class="charliteral">&#39;/&#39;</span>);</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    <span class="keywordflow">if</span> (pos != string::npos) {</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        <span class="keywordflow">return</span> filename.substr((pos+1));</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    }</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <span class="keywordflow">return</span> filename;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;}</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160; </div>
+<div class="line"><a name="l00036"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">   36</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> build_info, <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">Category::type</a> categ) {</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <a class="code" href="../../d9/dbd/misc__utils_8h.html#a15fa610c00fe21dca075deeb6ff2737c">VERSION_TRACE</a>(VersionInfoTrace, build_info);</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    <span class="keywordflow">if</span> (!<a class="code" href="../../d8/d11/logging_8cc.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a>()) {</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        <a class="code" href="../../d9/dbd/misc__utils_8h.html#a00ae91472f3e964b6d986515234fc380">VERSION_LOG</a>(VersionInfoLog, categ, build_info);</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    }</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;}</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
+<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">   43</a></span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">MiscUtils::GetUpTimeSeconds</a>() {</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="../../d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2">UTCTimestamp</a>() - startup_time_secs_);</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;}</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
+<div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">   47</a></span>&#160;time_t <a class="code" href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a>() {</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    <span class="keywordflow">return</span> (startup_time_secs_ = <a class="code" href="../../d0/d91/time__util_8h.html#a0554f180759dcae72e6bf12be4ab4fd2">UTCTimestamp</a>());</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div>
+<div class="ttc" id="aclassMiscUtils_html_a46b1c313efbb3ee8ce734ddeaba1ff38"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a></div><div class="ttdeci">static void LogVersionInfo(const std::string str, Category::type categ)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00036">misc_utils.cc:36</a></div></div>
+<div class="ttc" id="aclassMiscUtils_html_a88785563b595167567c86300d0538087"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a88785563b595167567c86300d0538087">MiscUtils::set_startup_time_secs</a></div><div class="ttdeci">static time_t set_startup_time_secs()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00047">misc_utils.cc:47</a></div></div>
 <div class="ttc" id="aclassMiscUtils_html_aae950b3bbe0c3ff98c52bbbdd9570ca2"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#aae950b3bbe0c3ff98c52bbbdd9570ca2">MiscUtils::BuildModuleNames</a></div><div class="ttdeci">static const std::map&lt; BuildModule, std::string &gt; BuildModuleNames</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00056">misc_utils.h:56</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_aaee91b3d47b96088d527914afe58f9db"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#aaee91b3d47b96088d527914afe58f9db">MiscUtils::startup_time_secs_</a></div><div class="ttdeci">static time_t startup_time_secs_</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00075">misc_utils.h:75</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_ab24a67d1ea9d4460702fa4052cc3d88d"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">MiscUtils::BaseName</a></div><div class="ttdeci">static std::string BaseName(std::string filename)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00030">misc_utils.cc:30</a></div></div>
+<div class="ttc" id="aclassMiscUtils_html_aaee91b3d47b96088d527914afe58f9db"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#aaee91b3d47b96088d527914afe58f9db">MiscUtils::startup_time_secs_</a></div><div class="ttdeci">static time_t startup_time_secs_</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00069">misc_utils.h:69</a></div></div>
+<div class="ttc" id="aclassMiscUtils_html_ab24a67d1ea9d4460702fa4052cc3d88d"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ab24a67d1ea9d4460702fa4052cc3d88d">MiscUtils::BaseName</a></div><div class="ttdeci">static std::string BaseName(std::string filename)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00028">misc_utils.cc:28</a></div></div>
 <div class="ttc" id="aclassMiscUtils_html_ab783db16b52a8bdfabf6feb8a4a31812"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ab783db16b52a8bdfabf6feb8a4a31812">MiscUtils::MapInit</a></div><div class="ttdeci">static std::map&lt; BuildModule, std::string &gt; MapInit()</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00048">misc_utils.h:48</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_ab9d02706d91a9061b2e911d8de61f9b8"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ab9d02706d91a9061b2e911d8de61f9b8">MiscUtils::BuildModule</a></div><div class="ttdeci">BuildModule</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dbd/misc__utils_8h_source.html#l00041">misc_utils.h:41</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_acf7db22068dc5b136684908f13bbeb49"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">MiscUtils::GetUpTimeSeconds</a></div><div class="ttdeci">static time_t GetUpTimeSeconds()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00169">misc_utils.cc:169</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_adc5eb1965ecae2c242d04bace30f5566"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#adc5eb1965ecae2c242d04bace30f5566">MiscUtils::GetContrailVersionInfo</a></div><div class="ttdeci">static bool GetContrailVersionInfo(BuildModule id, std::string &amp;rpm_version, std::string &amp;build_num)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00078">misc_utils.cc:78</a></div></div>
-<div class="ttc" id="aclassMiscUtils_html_ae5b6dbd16a414c7c5495f1e523c2c8fe"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#ae5b6dbd16a414c7c5495f1e523c2c8fe">MiscUtils::GetVersionInfoInternal</a></div><div class="ttdeci">static bool GetVersionInfoInternal(const std::string &amp;cmd, std::string &amp;rpm_version, std::string &amp;build_num)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00045">misc_utils.cc:45</a></div></div>
+<div class="ttc" id="aclassMiscUtils_html_acf7db22068dc5b136684908f13bbeb49"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#acf7db22068dc5b136684908f13bbeb49">MiscUtils::GetUpTimeSeconds</a></div><div class="ttdeci">static time_t GetUpTimeSeconds()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00043">misc_utils.cc:43</a></div></div>
 <div class="ttc" id="aload__balance_8h_html_a1d127017fb298b889f4ba24752d08b8e"><div class="ttname"><a href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a></div><div class="ttdeci">uint8_t type</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dcb/load__balance_8h_source.html#l00002">load_balance.h:2</a></div></div>
 <div class="ttc" id="alogging_8cc_html_a02138ba3dcc3a4cb3bbcce09f22016d0"><div class="ttname"><a href="../../d8/d11/logging_8cc.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a></div><div class="ttdeci">bool LoggingDisabled()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00024">logging.cc:24</a></div></div>
 <div class="ttc" id="alogging_8h_html"><div class="ttname"><a href="../../d5/d77/logging_8h.html">logging.h</a></div></div>

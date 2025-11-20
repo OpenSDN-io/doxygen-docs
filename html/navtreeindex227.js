@@ -1,12 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"df/dc0/classIgmpProto.html#a1c3bdc0e15bd94150fbdf84f57d0d8ec":[2,0,880,21],
-"df/dc0/classIgmpProto.html#a211080fd3d14780e74b9cdad44f970ee":[2,0,880,5],
-"df/dc0/classIgmpProto.html#a2caee46d5c428530ab19083b0120a766":[2,0,880,14],
-"df/dc0/classIgmpProto.html#a45166650af10e376c432c7d9525377f6":[2,0,880,16],
-"df/dc0/classIgmpProto.html#a479ef6ebc4a938f55af1cd525e927c11":[2,0,880,29],
-"df/dc0/classIgmpProto.html#a47eed6d4ca6b2f4749076c73690f314f":[2,0,880,24],
-"df/dc0/classIgmpProto.html#a55a4b49ce4ef14697a3ed8e3238f5ec8":[2,0,880,12],
 "df/dc0/classIgmpProto.html#a5bf67f4eb17d8dce25404f07818d23e8":[2,0,880,3],
 "df/dc0/classIgmpProto.html#a61c6fdb39fe6d5d1e747846a0bd0152d":[2,0,880,2],
 "df/dc0/classIgmpProto.html#a6342d0586b7bbb8869731fa68831257b":[2,0,880,23],
@@ -249,5 +242,12 @@ var NAVTREEINDEX227 =
 "df/ddb/classPeerCloseManager.html#a7287cfb358650724ac49edd83f2d9d35":[2,0,1292,41],
 "df/ddb/classPeerCloseManager.html#a77868e7b8dc0a5f7b27cf1ef2bba45d2":[2,0,1292,57],
 "df/ddb/classPeerCloseManager.html#a78169c083d9ed4f8ee2ff978fe3f91c6":[2,0,1292,21],
-"df/ddb/classPeerCloseManager.html#a7c764996bb88e17c17d3c12d2509b881":[2,0,1292,43]
+"df/ddb/classPeerCloseManager.html#a7c764996bb88e17c17d3c12d2509b881":[2,0,1292,43],
+"df/ddb/classPeerCloseManager.html#a81ecac82850ffffbc3f61cf69e539c5f":[2,0,1292,24],
+"df/ddb/classPeerCloseManager.html#a8904846cfc385db1f146d7e25ee8938d":[2,0,1292,56],
+"df/ddb/classPeerCloseManager.html#a8e2b5382ce5f1e69bd7f23b836054890":[2,0,1292,12],
+"df/ddb/classPeerCloseManager.html#a8f163e61985f865126fa7c8441d0e8d4":[2,0,1292,18],
+"df/ddb/classPeerCloseManager.html#a8f73dfba5365de85b9861db3797d5fe8":[2,0,1292,28],
+"df/ddb/classPeerCloseManager.html#a9212da13fb52d23faee3dcadfa944de1":[2,0,1292,55],
+"df/ddb/classPeerCloseManager.html#a92d1dc64367aef94291d7811da1a8411":[2,0,1292,66]
 };
