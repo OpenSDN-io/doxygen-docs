@@ -1,5 +1,5 @@
 <map id="KSyncSockTcpReadTask::Run" name="KSyncSockTcpReadTask::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,173,205,200"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,173,205,200"/>
 <area shape="rect" id="node2" href="$d2/d5e/classKSyncSockTcp.html#a709ac76e677d1036992f07c9a714be6c" title=" " alt="" coords="253,173,396,200"/>
 <area shape="rect" id="node3" href="$d0/d5a/classKSyncSock.html#a0887686f05b0606185a56e13b5710fcf" title=" " alt="" coords="444,107,647,149"/>
 <area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html#a569ee37649deeb14334d00e0ee3b27e7" title=" " alt="" coords="444,173,647,200"/>

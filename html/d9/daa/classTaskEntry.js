@@ -20,8 +20,6 @@ var classTaskEntry =
     [ "GetRunCount", "d9/daa/classTaskEntry.html#af926d698bc685a0985f3be67c31e1a7b", null ],
     [ "GetSandeshData", "d9/daa/classTaskEntry.html#a886220a366614fbbf00a817034f68433", null ],
     [ "GetTaskDeferEntrySeqno", "d9/daa/classTaskEntry.html#a042afbaf7617da2e439040296200e7b1", null ],
-    [ "GetTaskId", "d9/daa/classTaskEntry.html#a468988b074cd7457b9455f01a1fe1d1e", null ],
-    [ "GetTaskInstance", "d9/daa/classTaskEntry.html#a5853cc04c018096164a5231cfb52ae72", null ],
     [ "GetTaskStats", "d9/daa/classTaskEntry.html#a7a6efd74be3a9d5586897f2ecf54af8f", null ],
     [ "IsDisabled", "d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d", null ],
     [ "RunCombinedDeferQ", "d9/daa/classTaskEntry.html#acd530e17756fa7f795dd5fea56413004", null ],
@@ -31,6 +29,8 @@ var classTaskEntry =
     [ "RunTask", "d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40", null ],
     [ "RunWaitQ", "d9/daa/classTaskEntry.html#ac4658b599daa022c59cc1f85f96823a0", null ],
     [ "SetDisable", "d9/daa/classTaskEntry.html#a20a2d5069246ccdd4802a43477d24c64", null ],
+    [ "task_code_id", "d9/daa/classTaskEntry.html#a355a098954972b32a19f86952acd7d0a", null ],
+    [ "task_data_id", "d9/daa/classTaskEntry.html#a720e7eeb8f8aa424257643113e69920f", null ],
     [ "TaskExited", "d9/daa/classTaskEntry.html#a8fe5c61168e0c5f818a0363ef58cfaa5", null ],
     [ "WaitQSize", "d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710", null ],
     [ "TaskGroup", "d9/daa/classTaskEntry.html#a39e62aed9b5707246fa08d6b717953c4", null ],
@@ -43,8 +43,8 @@ var classTaskEntry =
     [ "run_count_", "d9/daa/classTaskEntry.html#a9affec84ccd5e0d2db6b2853072f8619", null ],
     [ "run_task_", "d9/daa/classTaskEntry.html#a8e75945598c1b89d3028e19e8f2859df", null ],
     [ "stats_", "d9/daa/classTaskEntry.html#aa5bf367434b5869a3d55d20138a15d71", null ],
+    [ "task_code_id_", "d9/daa/classTaskEntry.html#aee951b9cc26c8c06efbe148deb3ba559", null ],
+    [ "task_data_id_", "d9/daa/classTaskEntry.html#a492d79400e4884216f7f0f057af2507f", null ],
     [ "task_defer_node", "d9/daa/classTaskEntry.html#ae8820387ccb40b967794fdff57cbb1e7", null ],
-    [ "task_id_", "d9/daa/classTaskEntry.html#a2464bccb290df14546c32e650edb036e", null ],
-    [ "task_instance_", "d9/daa/classTaskEntry.html#a0412b6c07361d15ba18ced93e280fca8", null ],
     [ "waitq_", "d9/daa/classTaskEntry.html#a6cb1344d680530fee3bd08479609bd1d", null ]
 ];

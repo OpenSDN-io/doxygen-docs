@@ -1,5 +1,5 @@
 <map id="ChannelEventProcTask::Run" name="ChannelEventProcTask::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,633,195,660"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,633,195,660"/>
 <area shape="rect" id="node2" href="$d7/db7/classIFMapChannelManager.html#a2c91760bbd59ddd67bf5550700d66363" title=" " alt="" coords="249,1089,433,1130"/>
 <area shape="rect" id="node34" href="$dd/d58/classIFMapXmppChannel.html#aab5780c243e4c2e7175a31d1382b79f4" title=" " alt="" coords="243,285,440,326"/>
 <area shape="rect" id="node44" href="$dd/d58/classIFMapXmppChannel.html#a4729f1c8c285c205c34f3aab4742f758" title=" " alt="" coords="243,495,440,537"/>

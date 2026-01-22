@@ -1,5 +1,5 @@
 <map id="DBPartition::QueueRunner::Run" name="DBPartition::QueueRunner::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,369,216,396"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,369,216,396"/>
 <area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html#a5bb94a9f04dad1aabc1e597b3a0660af" title=" " alt="" coords="264,5,480,32"/>
 <area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="772,374,951,415"/>
 <area shape="rect" id="node4" href="$d3/d26/classDBPartition_1_1WorkQueue.html#a70d279f4cd88f24dc0de22fbf14b312f" title=" " alt="" coords="289,107,455,149"/>

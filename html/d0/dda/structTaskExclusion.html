@@ -90,30 +90,36 @@ $(document).ready(function(){initNavTree('d0/dda/structTaskExclusion.html','../.
 </div><!--header-->
 <div class="contents">
 
+<p>The class is used to specify a <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> label for formulating a task exclusion list (an execution policy).  
+ <a href="../../d0/dda/structTaskExclusion.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="../../db/da4/task_8h_source.html">task.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab4dd590702673dde4d2c5030d9edb1d3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#ab4dd590702673dde4d2c5030d9edb1d3">TaskExclusion</a> (int task_id)</td></tr>
-<tr class="separator:ab4dd590702673dde4d2c5030d9edb1d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83a8cc2f5649a43aeccd08cbcbff9368"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#a83a8cc2f5649a43aeccd08cbcbff9368">TaskExclusion</a> (int task_id, int instance_id)</td></tr>
-<tr class="separator:a83a8cc2f5649a43aeccd08cbcbff9368"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabcfdc5b9ef488876715223a0e2a142f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#aabcfdc5b9ef488876715223a0e2a142f">TaskExclusion</a> (int task_code_id)</td></tr>
+<tr class="memdesc:aabcfdc5b9ef488876715223a0e2a142f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new task exclusion from the given task code ID value and wildcard for task data ID.  <a href="../../d0/dda/structTaskExclusion.html#aabcfdc5b9ef488876715223a0e2a142f">More...</a><br /></td></tr>
+<tr class="separator:aabcfdc5b9ef488876715223a0e2a142f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfdf148fb2344dbcd626565bb66f38fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#acfdf148fb2344dbcd626565bb66f38fa">TaskExclusion</a> (int task_code_id, int task_data_id)</td></tr>
+<tr class="memdesc:acfdf148fb2344dbcd626565bb66f38fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new task exclusion from the given task code ID and task data ID values.  <a href="../../d0/dda/structTaskExclusion.html#acfdf148fb2344dbcd626565bb66f38fa">More...</a><br /></td></tr>
+<tr class="separator:acfdf148fb2344dbcd626565bb66f38fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a367e948fd508387718f7ac9b7822a58b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#a367e948fd508387718f7ac9b7822a58b">match_id</a></td></tr>
-<tr class="memdesc:a367e948fd508387718f7ac9b7822a58b"><td class="mdescLeft">&#160;</td><td class="mdescRight">must be a valid id (&gt;= 0).  <a href="../../d0/dda/structTaskExclusion.html#a367e948fd508387718f7ac9b7822a58b">More...</a><br /></td></tr>
-<tr class="separator:a367e948fd508387718f7ac9b7822a58b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c79c8476e1bc5e52a31f3fe3552129c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#a5c79c8476e1bc5e52a31f3fe3552129c">match_instance</a></td></tr>
-<tr class="memdesc:a5c79c8476e1bc5e52a31f3fe3552129c"><td class="mdescLeft">&#160;</td><td class="mdescRight">-1 (wildcard) or user specified id.  <a href="../../d0/dda/structTaskExclusion.html#a5c79c8476e1bc5e52a31f3fe3552129c">More...</a><br /></td></tr>
-<tr class="separator:a5c79c8476e1bc5e52a31f3fe3552129c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af17f021755fc286798bc5db19b7a76b8"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#af17f021755fc286798bc5db19b7a76b8">match_code_id</a></td></tr>
+<tr class="memdesc:af17f021755fc286798bc5db19b7a76b8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies task code ID (must be a valid id &gt;= 0) for a task execution policy.  <a href="../../d0/dda/structTaskExclusion.html#af17f021755fc286798bc5db19b7a76b8">More...</a><br /></td></tr>
+<tr class="separator:af17f021755fc286798bc5db19b7a76b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a167d8a91dfcf9b30ba02dc7b6ed37291"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html#a167d8a91dfcf9b30ba02dc7b6ed37291">match_data_id</a></td></tr>
+<tr class="memdesc:a167d8a91dfcf9b30ba02dc7b6ed37291"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies task data ID for a task execution policy. The value of -1 corresponds to wildcard (any).  <a href="../../d0/dda/structTaskExclusion.html#a167d8a91dfcf9b30ba02dc7b6ed37291">More...</a><br /></td></tr>
+<tr class="separator:a167d8a91dfcf9b30ba02dc7b6ed37291"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00047">47</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<div class="textblock"><p>The class is used to specify a <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> label for formulating a task exclusion list (an execution policy). </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00244">244</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab4dd590702673dde4d2c5030d9edb1d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4dd590702673dde4d2c5030d9edb1d3">&#9670;&nbsp;</a></span>TaskExclusion() <span class="overload">[1/2]</span></h2>
+<a id="aabcfdc5b9ef488876715223a0e2a142f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabcfdc5b9ef488876715223a0e2a142f">&#9670;&nbsp;</a></span>TaskExclusion() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -125,7 +131,7 @@ Public Attributes</h2></td></tr>
           <td class="memname">TaskExclusion::TaskExclusion </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>task_id</em></td><td>)</td>
+          <td class="paramname"><em>task_code_id</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -136,12 +142,14 @@ Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00048">48</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Creates a new task exclusion from the given task code ID value and wildcard for task data ID. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00248">248</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
-<a id="a83a8cc2f5649a43aeccd08cbcbff9368"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83a8cc2f5649a43aeccd08cbcbff9368">&#9670;&nbsp;</a></span>TaskExclusion() <span class="overload">[2/2]</span></h2>
+<a id="acfdf148fb2344dbcd626565bb66f38fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfdf148fb2344dbcd626565bb66f38fa">&#9670;&nbsp;</a></span>TaskExclusion() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,13 +161,13 @@ Public Attributes</h2></td></tr>
           <td class="memname">TaskExclusion::TaskExclusion </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>task_id</em>, </td>
+          <td class="paramname"><em>task_code_id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>instance_id</em>&#160;</td>
+          <td class="paramname"><em>task_data_id</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -174,44 +182,46 @@ Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00049">49</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Creates a new task exclusion from the given task code ID and task data ID values. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00253">253</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a367e948fd508387718f7ac9b7822a58b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a367e948fd508387718f7ac9b7822a58b">&#9670;&nbsp;</a></span>match_id</h2>
+<a id="af17f021755fc286798bc5db19b7a76b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af17f021755fc286798bc5db19b7a76b8">&#9670;&nbsp;</a></span>match_code_id</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int TaskExclusion::match_id</td>
+          <td class="memname">int TaskExclusion::match_code_id</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>must be a valid id (&gt;= 0). </p>
+<p>Specifies task code ID (must be a valid id &gt;= 0) for a task execution policy. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00054">54</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00259">259</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
-<a id="a5c79c8476e1bc5e52a31f3fe3552129c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5c79c8476e1bc5e52a31f3fe3552129c">&#9670;&nbsp;</a></span>match_instance</h2>
+<a id="a167d8a91dfcf9b30ba02dc7b6ed37291"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a167d8a91dfcf9b30ba02dc7b6ed37291">&#9670;&nbsp;</a></span>match_data_id</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int TaskExclusion::match_instance</td>
+          <td class="memname">int TaskExclusion::match_data_id</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>-1 (wildcard) or user specified id. </p>
+<p>Specifies task data ID for a task execution policy. The value of -1 corresponds to wildcard (any). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00057">57</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00263">263</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>

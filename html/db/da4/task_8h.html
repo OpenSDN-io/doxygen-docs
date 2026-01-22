@@ -177,12 +177,13 @@ This graph shows which files directly or indirectly include this file:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html">TaskStats</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html">Task</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> is a class to describe a computational task within OpenSDN control plane applications. A task is a labelled sequence of instructions (code) and data processed by them in a single thread. OpenSDN <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> wraps over tbb::task. Tasks are labelled using a pair of numbers:  <a href="../../d6/d9c/classTask.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dda/structTaskExclusion.html">TaskExclusion</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The class is used to specify a <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> label for formulating a task exclusion list (an execution policy).  <a href="../../d0/dda/structTaskExclusion.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html">Task</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> is a wrapper over tbb::task to support policies.  <a href="../../d6/d9c/classTask.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/structTaskStats.html">TaskStats</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddc/classTaskScheduler.html">TaskScheduler</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <a class="el" href="../../df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ...">TaskScheduler</a> keeps track of what tasks are currently schedulable. When a task is enqueued it is added to the run queue or the pending queue depending as to whether there is a runable or pending task ahead of it that violates the mutual exclusion policies. When tasks exit the scheduler re-examines the tasks on the pending queue which may now be runnable. It is important that this process is efficient such that exit events do not scan tasks that are not waiting on a particular task id or task instance to have a 0 count.  <a href="../../df/ddc/classTaskScheduler.html#details">More...</a><br /></td></tr>
@@ -191,6 +192,7 @@ Classes</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
 <tr class="memitem:ac3bb71ae7c256ae97bf737f42568d676"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d0/dda/structTaskExclusion.html">TaskExclusion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da4/task_8h.html#ac3bb71ae7c256ae97bf737f42568d676">TaskPolicy</a></td></tr>
+<tr class="memdesc:ac3bb71ae7c256ae97bf737f42568d676"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines a type to store an execution policy (a list of task exclusions).  <a href="../../db/da4/task_8h.html#ac3bb71ae7c256ae97bf737f42568d676">More...</a><br /></td></tr>
 <tr class="separator:ac3bb71ae7c256ae97bf737f42568d676"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
@@ -206,7 +208,9 @@ Typedefs</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00059">59</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Defines a type to store an execution policy (a list of task exclusions). </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00268">268</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>

@@ -1,5 +1,5 @@
 <map id="HttpSession::RequestHandler::Run" name="HttpSession::RequestHandler::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,107,232,133"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,107,232,133"/>
 <area shape="rect" id="node2" href="$de/df9/classTcpServer.html#ac3ac2031ae976926c8a3626d784b43aa" title=" " alt="" coords="280,5,455,32"/>
 <area shape="rect" id="node6" href="$d5/d1b/classHttpRequest.html#a0612897065cc38014e11ea670eb33903" title=" " alt="" coords="299,56,435,83"/>
 <area shape="rect" id="node7" href="$dd/dab/classHttpServer.html#a6cbc3d720b2f2eb1cb012fd37e57440c" title=" " alt="" coords="288,107,447,133"/>

@@ -1,7 +1,7 @@
 <map id="TaskScheduler::DisableTaskEntry" name="TaskScheduler::DisableTaskEntry">
 <area shape="rect" id="node1" title=" " alt="" coords="5,49,193,90"/>
 <area shape="rect" id="node2" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="241,31,439,57"/>
-<area shape="rect" id="node5" href="$d9/daa/classTaskEntry.html#a20a2d5069246ccdd4802a43477d24c64" title=" " alt="" coords="263,81,417,108"/>
+<area shape="rect" id="node5" href="$d9/daa/classTaskEntry.html#a20a2d5069246ccdd4802a43477d24c64" title="Disables this task entry." alt="" coords="263,81,417,108"/>
 <area shape="rect" id="node3" href="$d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title=" " alt="" coords="499,5,674,32"/>
 <area shape="rect" id="node4" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="487,56,687,83"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask" name="OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask">
 <area shape="rect" id="node1" title=" " alt="" coords="5,619,204,660"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="158,5,209,32"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="158,5,209,32"/>
 <area shape="rect" id="node11" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="267,95,391,121"/>
 <area shape="rect" id="node3" href="$d3/d9a/classOVSDB_1_1LogicalSwitchTable.html" title=" " alt="" coords="131,529,319,556"/>
 <area shape="rect" id="node4" href="$dd/d26/classOVSDB_1_1OvsdbDBObject.html" title=" " alt="" coords="161,453,331,480"/>

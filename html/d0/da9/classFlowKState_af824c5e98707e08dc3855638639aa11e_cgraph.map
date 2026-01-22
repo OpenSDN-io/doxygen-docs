@@ -1,5 +1,5 @@
 <map id="FlowKState::Run" name="FlowKState::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,173,127,199"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,173,127,199"/>
 <area shape="rect" id="node2" href="$de/d8d/classKSyncFlowMemory.html#a2d0b023d5a03441811c4393c7c72153a" title=" " alt="" coords="175,5,375,47"/>
 <area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a87be18c0ac33cfbd1d426558401da812" title=" " alt="" coords="477,71,576,98"/>
 <area shape="rect" id="node4" href="$d7/de7/classKSync.html#a721eb384f87a278354dbe22295d85a97" title=" " alt="" coords="433,122,621,149"/>

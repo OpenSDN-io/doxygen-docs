@@ -38,9 +38,9 @@
 <area shape="rect" id="node14" href="$dc/d2b/classFlowTable.html#ab82d33941e0ce8a3492abd1be356cfab" title=" " alt="" coords="564,203,699,230"/>
 <area shape="rect" id="node15" href="$d4/d37/classVmFlowRef.html#ad2b447d206db4a02bdf73c58746147d1" title=" " alt="" coords="573,51,689,78"/>
 <area shape="rect" id="node16" href="$d3/d4f/classFlowEntry.html#a0945d3710e792e1b3536d91e992755ac" title=" " alt="" coords="577,102,686,129"/>
-<area shape="rect" id="node6" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1059,498,1177,525"/>
-<area shape="rect" id="node7" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1040,397,1196,423"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Returns a pointer to the current task the code is executing under." alt="" coords="1065,447,1171,474"/>
+<area shape="rect" id="node6" href="$d6/d9c/classTask.html#a03cc0f9b721cac040bb6334ef482acd9" title="Returns a pointer to the current task the code is executing under." alt="" coords="1065,498,1171,525"/>
+<area shape="rect" id="node7" href="$d6/d9c/classTask.html#aa79d027f39885d32a58754b3aa7acf82" title="Returns the code ID of this task." alt="" coords="1051,397,1185,423"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457" title="Returns the data ID of this task." alt="" coords="1053,447,1183,474"/>
 <area shape="rect" id="node27" href="$db/d47/classFlowTableKSyncEntry.html#aa11cc8339f3a8b7f02bb644528eb0be3" title=" " alt="" coords="556,929,707,971"/>
 <area shape="rect" id="node28" href="$dc/d2b/classFlowTable.html#a111052e9e010f71eb1eb05aee4da55b5" title=" " alt="" coords="554,995,709,1036"/>
 <area shape="rect" id="node29" href="$df/df0/classFlowEventKSync.html#abc54b60d8a862ad102ffba55fea4e170" title=" " alt="" coords="809,1117,971,1159"/>

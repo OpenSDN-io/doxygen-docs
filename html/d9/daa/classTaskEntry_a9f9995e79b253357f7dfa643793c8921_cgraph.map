@@ -6,7 +6,7 @@
 <area shape="rect" id="node10" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="257,173,407,199"/>
 <area shape="rect" id="node5" href="$df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="471,71,657,98"/>
 <area shape="rect" id="node8" href="$df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="464,122,664,149"/>
-<area shape="rect" id="node9" href="$d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title=" " alt="" coords="510,173,618,199"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html#add499b441de823e45c0923d0064d0a45" title="Returns a state value of a task." alt="" coords="521,173,607,199"/>
 <area shape="rect" id="node6" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="712,71,915,98"/>
 <area shape="rect" id="node7" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="963,64,1140,105"/>
 </map>

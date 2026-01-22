@@ -1,6 +1,6 @@
 <map id="KSyncTxQueueTask" name="KSyncTxQueueTask">
 <area shape="rect" id="node1" title=" " alt="" coords="1566,27,1707,53"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="8,64,59,91"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="8,64,59,91"/>
 <area shape="rect" id="node9" href="$de/d7d/classQueueTaskRunner.html" title=" " alt="" coords="184,209,404,250"/>
 <area shape="rect" id="node3" href="$d7/dbd/classKSyncTxQueue.html" title=" " alt="" coords="1267,196,1381,223"/>
 <area shape="rect" id="node4" href="$d0/d5a/classKSyncSock.html" title=" " alt="" coords="996,465,1087,492"/>

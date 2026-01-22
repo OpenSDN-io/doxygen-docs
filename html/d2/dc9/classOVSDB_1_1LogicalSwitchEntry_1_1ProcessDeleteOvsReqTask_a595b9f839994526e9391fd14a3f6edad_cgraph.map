@@ -1,5 +1,5 @@
 <map id="OVSDB::LogicalSwitchEntry::ProcessDeleteOvsReqTask::Run" name="OVSDB::LogicalSwitchEntry::ProcessDeleteOvsReqTask::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,1097,228,1138"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,1097,228,1138"/>
 <area shape="rect" id="node2" href="$d1/df4/classOVSDB_1_1LogicalSwitchEntry.html#ad761fcabb9fdf966ffa1e217383dfc9d" title=" " alt="" coords="276,1031,465,1073"/>
 <area shape="rect" id="node3" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#a71c4da1d827cb171d4b2e7a4016fca14" title=" " alt="" coords="288,1097,453,1138"/>
 <area shape="rect" id="node4" href="$d8/dc9/classOVSDB_1_1OvsdbDBEntry.html#aec4c6434bfe91472b899bd655b138dd1" title=" " alt="" coords="288,1162,453,1203"/>

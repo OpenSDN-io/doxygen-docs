@@ -1,5 +1,5 @@
 <map id="PhysicalSwitchSandeshTask::Run" name="PhysicalSwitchSandeshTask::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,342,227,369"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,342,227,369"/>
 <area shape="rect" id="node2" href="$dd/d92/classOVSDB_1_1OvsdbClientSession.html#aac4b8ffd31a13b422f942e0b063e2d4d" title=" " alt="" coords="276,5,471,47"/>
 <area shape="rect" id="node3" href="$d6/dfe/classOVSDB_1_1OvsdbClient.html#ad88beadeacc2353c899043c0eefd9968" title=" " alt="" coords="299,71,447,112"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="306,137,441,163"/>

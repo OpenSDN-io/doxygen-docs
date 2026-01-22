@@ -1,7 +1,7 @@
 <map id="BgpSenderPartition::Worker" name="BgpSenderPartition::Worker">
 <area shape="rect" id="node1" title=" " alt="" coords="794,5,929,47"/>
 <area shape="rect" id="node3" href="$d7/d93/classBgpSenderPartition.html" title=" " alt="" coords="1099,94,1233,121"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="485,13,536,39"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="485,13,536,39"/>
 <area shape="rect" id="node4" href="$d6/dfd/classIndexMap.html" title=" " alt="" coords="780,83,943,124"/>
 <area shape="rect" id="node5" href="$d2/d48/classBgpUpdateSender.html" title=" " alt="" coords="797,149,925,175"/>
 <area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="413,126,609,153"/>

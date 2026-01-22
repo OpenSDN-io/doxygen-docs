@@ -32,11 +32,11 @@
 <area shape="rect" id="node31" href="$d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title=" " alt="" coords="1953,325,2148,352"/>
 <area shape="rect" id="node32" href="$d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="2219,427,2370,453"/>
 <area shape="rect" id="node33" href="$d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title=" " alt="" coords="1951,376,2150,403"/>
-<area shape="rect" id="node35" href="$d6/d9c/classTask.html#aad700cb1443509885e47d92b44b3bac0" title=" " alt="" coords="1993,579,2108,605"/>
-<area shape="rect" id="node36" href="$d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1992,781,2109,808"/>
-<area shape="rect" id="node37" href="$d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1973,832,2129,859"/>
-<area shape="rect" id="node38" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1975,680,2126,707"/>
-<area shape="rect" id="node39" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1973,731,2128,757"/>
+<area shape="rect" id="node35" href="$df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="1952,579,2149,605"/>
+<area shape="rect" id="node36" href="$d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1975,781,2126,808"/>
+<area shape="rect" id="node37" href="$d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1973,832,2128,859"/>
+<area shape="rect" id="node38" href="$d6/d9c/classTask.html#aa79d027f39885d32a58754b3aa7acf82" title="Returns the code ID of this task." alt="" coords="1983,680,2118,707"/>
+<area shape="rect" id="node39" href="$d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457" title="Returns the data ID of this task." alt="" coords="1985,731,2116,757"/>
 <area shape="rect" id="node28" href="$df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2672,325,2875,352"/>
 <area shape="rect" id="node29" href="$df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2923,318,3100,359"/>
 <area shape="rect" id="node34" href="$d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="2209,883,2381,909"/>

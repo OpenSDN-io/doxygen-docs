@@ -95,7 +95,7 @@ $(document).ready(function(){initNavTree('d6/d9c/classTask.html','../../'); init
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> is a wrapper over tbb::task to support policies.  
+<p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> is a class to describe a computational task within OpenSDN control plane applications. A task is a labelled sequence of instructions (code) and data processed by them in a single thread. OpenSDN <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> wraps over tbb::task. Tasks are labelled using a pair of numbers:  
  <a href="../../d6/d9c/classTask.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="../../db/da4/task_8h_source.html">task.h</a>&gt;</code></p>
@@ -104,7 +104,7 @@ Inheritance diagram for Task:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../da/d3e/classTask__inherit__graph.png" border="0" usemap="#aTask_inherit__map" alt="Inheritance graph"/></div>
 <map name="aTask_inherit__map" id="aTask_inherit__map">
-<area shape="rect" title="Task is a wrapper over tbb::task to support policies." alt="" coords="5,1153,56,1179"/>
+<area shape="rect" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="5,1153,56,1179"/>
 <area shape="rect" href="../../de/d7d/classQueueTaskRunner.html" title=" " alt="" coords="109,5,329,47"/>
 <area shape="rect" href="../../de/d95/classBgpSenderPartition_1_1Worker.html" title=" " alt="" coords="152,71,287,112"/>
 <area shape="rect" href="../../d2/d34/classChannelEventProcTask.html" title=" " alt="" coords="140,137,299,163"/>
@@ -162,48 +162,62 @@ Public Types</h2></td></tr>
 , <a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8a081870a7091cc60a038fcda36427e2b2">WAIT</a>
 , <a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8a5c31076777df8660fd66f3f6abdbfa18">RUN</a>
  }</td></tr>
-<tr class="memdesc:afa88d99eb2a58c8f078a53f1195c53a8"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> states.  <a href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">More...</a><br /></td></tr>
+<tr class="memdesc:afa88d99eb2a58c8f078a53f1195c53a8"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> states.  <a href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">More...</a><br /></td></tr>
 <tr class="separator:afa88d99eb2a58c8f078a53f1195c53a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba2ceaa2e5d3d83899622ef7d5c12657"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a> { <a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657ab10ec185c945ca5b1600d4280908f4cc">TBB_INIT</a>
 , <a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657ac287de51c9c50d212365aa6f1a228d90">TBB_ENQUEUED</a>
 , <a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657ac0204903eb52e055551fe275938c2971">TBB_EXEC</a>
 , <a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657a5ff86284bec306c27018f8a2674adff9">TBB_DONE</a>
  }</td></tr>
+<tr class="memdesc:aba2ceaa2e5d3d83899622ef7d5c12657"><td class="mdescLeft">&#160;</td><td class="mdescRight">Describes states of a task according to TBB library.  <a href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">More...</a><br /></td></tr>
 <tr class="separator:aba2ceaa2e5d3d83899622ef7d5c12657"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab81c16013b39882ff1baf97bba8b2e4a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ab81c16013b39882ff1baf97bba8b2e4a">Task</a> (int task_id, int task_instance)</td></tr>
-<tr class="separator:ab81c16013b39882ff1baf97bba8b2e4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1ec0b7c7278d7c75b453231515c9da1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ab1ec0b7c7278d7c75b453231515c9da1">Task</a> (int task_id, int <a class="el" href="../../d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457">task_data_id</a>)</td></tr>
+<tr class="memdesc:ab1ec0b7c7278d7c75b453231515c9da1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new task with the given values of task code ID and task data ID.  <a href="../../d6/d9c/classTask.html#ab1ec0b7c7278d7c75b453231515c9da1">More...</a><br /></td></tr>
+<tr class="separator:ab1ec0b7c7278d7c75b453231515c9da1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d8cdc8344fcfb4c7e7710327b86851c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a6d8cdc8344fcfb4c7e7710327b86851c">Task</a> (int task_id)</td></tr>
+<tr class="memdesc:a6d8cdc8344fcfb4c7e7710327b86851c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new task with the given value of task code ID and wildcard for task data ID.  <a href="../../d6/d9c/classTask.html#a6d8cdc8344fcfb4c7e7710327b86851c">More...</a><br /></td></tr>
 <tr class="separator:a6d8cdc8344fcfb4c7e7710327b86851c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bff79cc05fa4511c72048d33591503b"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a7bff79cc05fa4511c72048d33591503b">~Task</a> ()</td></tr>
+<tr class="memdesc:a7bff79cc05fa4511c72048d33591503b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroys a task.  <a href="../../d6/d9c/classTask.html#a7bff79cc05fa4511c72048d33591503b">More...</a><br /></td></tr>
 <tr class="separator:a7bff79cc05fa4511c72048d33591503b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdc2037e077970c359209e582573629d"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#abdc2037e077970c359209e582573629d">Run</a> ()=0</td></tr>
-<tr class="memdesc:abdc2037e077970c359209e582573629d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Code to execute. Returns true if task is completed. Return false to reschedule the task.  <a href="../../d6/d9c/classTask.html#abdc2037e077970c359209e582573629d">More...</a><br /></td></tr>
+<tr class="memdesc:abdc2037e077970c359209e582573629d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Code to execute in a task. Returns true if task is completed. Return false to reschedule the task.  <a href="../../d6/d9c/classTask.html#abdc2037e077970c359209e582573629d">More...</a><br /></td></tr>
 <tr class="separator:abdc2037e077970c359209e582573629d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9edb7af1fb4027c5b06447f930696983"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a9edb7af1fb4027c5b06447f930696983">OnTaskCancel</a> ()</td></tr>
 <tr class="memdesc:a9edb7af1fb4027c5b06447f930696983"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called on task exit, if it is marked for cancellation. If the user wants to do any cleanup on task cancellation, then he/she can overload this function.  <a href="../../d6/d9c/classTask.html#a9edb7af1fb4027c5b06447f930696983">More...</a><br /></td></tr>
 <tr class="separator:a9edb7af1fb4027c5b06447f930696983"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a621d24f48cb5d851874273c245229edd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a621d24f48cb5d851874273c245229edd">GetState</a> () const</td></tr>
-<tr class="separator:a621d24f48cb5d851874273c245229edd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af49e04d416c1a899c93b919da7456115"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115">GetTaskId</a> () const</td></tr>
-<tr class="separator:af49e04d416c1a899c93b919da7456115"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03595f9cf6dcf2c504b62104e1da8513"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513">GetTaskInstance</a> () const</td></tr>
-<tr class="separator:a03595f9cf6dcf2c504b62104e1da8513"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad700cb1443509885e47d92b44b3bac0"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aad700cb1443509885e47d92b44b3bac0">GetSeqno</a> () const</td></tr>
-<tr class="separator:aad700cb1443509885e47d92b44b3bac0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add499b441de823e45c0923d0064d0a45"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#add499b441de823e45c0923d0064d0a45">state</a> () const</td></tr>
+<tr class="memdesc:add499b441de823e45c0923d0064d0a45"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a state value of a task.  <a href="../../d6/d9c/classTask.html#add499b441de823e45c0923d0064d0a45">More...</a><br /></td></tr>
+<tr class="separator:add499b441de823e45c0923d0064d0a45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa79d027f39885d32a58754b3aa7acf82"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aa79d027f39885d32a58754b3aa7acf82">task_code_id</a> () const</td></tr>
+<tr class="memdesc:aa79d027f39885d32a58754b3aa7acf82"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the code ID of this task.  <a href="../../d6/d9c/classTask.html#aa79d027f39885d32a58754b3aa7acf82">More...</a><br /></td></tr>
+<tr class="separator:aa79d027f39885d32a58754b3aa7acf82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaeaeb071eac555ab3e4c211a04838457"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457">task_data_id</a> () const</td></tr>
+<tr class="memdesc:aaeaeb071eac555ab3e4c211a04838457"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the data ID of this task.  <a href="../../d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457">More...</a><br /></td></tr>
+<tr class="separator:aaeaeb071eac555ab3e4c211a04838457"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d4e6efa78f9fe84255f15d191b3cb21"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a1d4e6efa78f9fe84255f15d191b3cb21">seqno</a> () const</td></tr>
+<tr class="memdesc:a1d4e6efa78f9fe84255f15d191b3cb21"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the sequence number of this task.  <a href="../../d6/d9c/classTask.html#a1d4e6efa78f9fe84255f15d191b3cb21">More...</a><br /></td></tr>
+<tr class="separator:a1d4e6efa78f9fe84255f15d191b3cb21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a58750dade8cc54aeadf9c75137a86ef4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a58750dade8cc54aeadf9c75137a86ef4">task_cancelled</a> () const</td></tr>
+<tr class="memdesc:a58750dade8cc54aeadf9c75137a86ef4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the task has been canceled.  <a href="../../d6/d9c/classTask.html#a58750dade8cc54aeadf9c75137a86ef4">More...</a><br /></td></tr>
 <tr class="separator:a58750dade8cc54aeadf9c75137a86ef4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac68fd625a40c71b86942602c7a365d25"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ac68fd625a40c71b86942602c7a365d25">Description</a> () const =0</td></tr>
+<tr class="memdesc:ac68fd625a40c71b86942602c7a365d25"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gives a description of the task.  <a href="../../d6/d9c/classTask.html#ac68fd625a40c71b86942602c7a365d25">More...</a><br /></td></tr>
 <tr class="separator:ac68fd625a40c71b86942602c7a365d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aafafb6ff953468ac1aa4de28b4b0f12e"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aafafb6ff953468ac1aa4de28b4b0f12e">enqueue_time</a> () const</td></tr>
+<tr class="memdesc:aafafb6ff953468ac1aa4de28b4b0f12e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the time when the task was enqueued for execution.  <a href="../../d6/d9c/classTask.html#aafafb6ff953468ac1aa4de28b4b0f12e">More...</a><br /></td></tr>
 <tr class="separator:aafafb6ff953468ac1aa4de28b4b0f12e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67b0dace0a30091d7f99ca35a7466477"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a67b0dace0a30091d7f99ca35a7466477">schedule_time</a> () const</td></tr>
+<tr class="memdesc:a67b0dace0a30091d7f99ca35a7466477"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the time when the task execution was started.  <a href="../../d6/d9c/classTask.html#a67b0dace0a30091d7f99ca35a7466477">More...</a><br /></td></tr>
 <tr class="separator:a67b0dace0a30091d7f99ca35a7466477"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae905a98fc518c851697eeaa063c9dd68"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ae905a98fc518c851697eeaa063c9dd68">execute_delay</a> () const</td></tr>
+<tr class="memdesc:ae905a98fc518c851697eeaa063c9dd68"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the threshold for the task execution duration.  <a href="../../d6/d9c/classTask.html#ae905a98fc518c851697eeaa063c9dd68">More...</a><br /></td></tr>
 <tr class="separator:ae905a98fc518c851697eeaa063c9dd68"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9b1fa571a0f9c9024ab4b8b285044f3c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a9b1fa571a0f9c9024ab4b8b285044f3c">schedule_delay</a> () const</td></tr>
+<tr class="memdesc:a9b1fa571a0f9c9024ab4b8b285044f3c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the time threshold for time difference between moments when the task was started and when it was enqueue.  <a href="../../d6/d9c/classTask.html#a9b1fa571a0f9c9024ab4b8b285044f3c">More...</a><br /></td></tr>
 <tr class="separator:a9b1fa571a0f9c9024ab4b8b285044f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
@@ -215,20 +229,26 @@ Static Public Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:a1688b79271b24c64de6214bbc37ee0ef"><td class="memItemLeft" align="right" valign="top">static const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a1688b79271b24c64de6214bbc37ee0ef">kTaskInstanceAny</a> = -1</td></tr>
+<tr class="memdesc:a1688b79271b24c64de6214bbc37ee0ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies value for wildcard (any or *) task data ID.  <a href="../../d6/d9c/classTask.html#a1688b79271b24c64de6214bbc37ee0ef">More...</a><br /></td></tr>
 <tr class="separator:a1688b79271b24c64de6214bbc37ee0ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a97f0d2c087639542e0935f957592f67a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a">SetSeqNo</a> (uint64_t seqno)</td></tr>
-<tr class="separator:a97f0d2c087639542e0935f957592f67a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05bf12738d2dbdab8a1a9b5202837f9a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a">SetTbbState</a> (<a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a> s)</td></tr>
-<tr class="separator:a05bf12738d2dbdab8a1a9b5202837f9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a926343848b35e794b2fc54fce7f61819"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819">SetState</a> (<a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a> s)</td></tr>
-<tr class="separator:a926343848b35e794b2fc54fce7f61819"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af451c2d930fc441d340445efc49e1c7e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#af451c2d930fc441d340445efc49e1c7e">SetTaskRecycle</a> ()</td></tr>
-<tr class="separator:af451c2d930fc441d340445efc49e1c7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae110434b9c72cc0ed9c839ccb2164e93"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ae110434b9c72cc0ed9c839ccb2164e93">SetTaskComplete</a> ()</td></tr>
-<tr class="separator:ae110434b9c72cc0ed9c839ccb2164e93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdaa5191adc43fc6f50c7329abf6b0ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#abdaa5191adc43fc6f50c7329abf6b0ff">seqno</a> (uint64_t seqno)</td></tr>
+<tr class="memdesc:abdaa5191adc43fc6f50c7329abf6b0ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets sequence number of the task.  <a href="../../d6/d9c/classTask.html#abdaa5191adc43fc6f50c7329abf6b0ff">More...</a><br /></td></tr>
+<tr class="separator:abdaa5191adc43fc6f50c7329abf6b0ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43e1301464e377e923848177f8ef1b91"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a43e1301464e377e923848177f8ef1b91">tbb_state</a> (<a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a> s)</td></tr>
+<tr class="memdesc:a43e1301464e377e923848177f8ef1b91"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets a TBB state for the task.  <a href="../../d6/d9c/classTask.html#a43e1301464e377e923848177f8ef1b91">More...</a><br /></td></tr>
+<tr class="separator:a43e1301464e377e923848177f8ef1b91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c0971c34c7a6b11aaab80cb08ea6751"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a2c0971c34c7a6b11aaab80cb08ea6751">state</a> (<a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a> s)</td></tr>
+<tr class="memdesc:a2c0971c34c7a6b11aaab80cb08ea6751"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets a state for this task.  <a href="../../d6/d9c/classTask.html#a2c0971c34c7a6b11aaab80cb08ea6751">More...</a><br /></td></tr>
+<tr class="separator:a2c0971c34c7a6b11aaab80cb08ea6751"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7db715f4eaaeeaa78882ee2585c9d72a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a7db715f4eaaeeaa78882ee2585c9d72a">set_task_recycle</a> ()</td></tr>
+<tr class="memdesc:a7db715f4eaaeeaa78882ee2585c9d72a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Marks this task for recycle.  <a href="../../d6/d9c/classTask.html#a7db715f4eaaeeaa78882ee2585c9d72a">More...</a><br /></td></tr>
+<tr class="separator:a7db715f4eaaeeaa78882ee2585c9d72a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4a34a479fec6de2acd895636ddd184"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#abb4a34a479fec6de2acd895636ddd184">set_task_complete</a> ()</td></tr>
+<tr class="memdesc:abb4a34a479fec6de2acd895636ddd184"><td class="mdescLeft">&#160;</td><td class="mdescRight">Marks this task as completed (forbids recycling)  <a href="../../d6/d9c/classTask.html#abb4a34a479fec6de2acd895636ddd184">More...</a><br /></td></tr>
+<tr class="separator:abb4a34a479fec6de2acd895636ddd184"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a36bb9c5cec123d1966e3a561a1f92a9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b">StartTask</a> (<a class="el" href="../../df/ddc/classTaskScheduler.html">TaskScheduler</a> *scheduler)</td></tr>
 <tr class="memdesc:a36bb9c5cec123d1966e3a561a1f92a9b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts execution of a task.  <a href="../../d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b">More...</a><br /></td></tr>
 <tr class="separator:a36bb9c5cec123d1966e3a561a1f92a9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -237,31 +257,41 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a11cd89d3f3fdf14467eeb1dd56ac3ce9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a11cd89d3f3fdf14467eeb1dd56ac3ce9">task_id_</a></td></tr>
-<tr class="memdesc:a11cd89d3f3fdf14467eeb1dd56ac3ce9"><td class="mdescLeft">&#160;</td><td class="mdescRight">The code path executed by the task.  <a href="../../d6/d9c/classTask.html#a11cd89d3f3fdf14467eeb1dd56ac3ce9">More...</a><br /></td></tr>
-<tr class="separator:a11cd89d3f3fdf14467eeb1dd56ac3ce9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a327d5721932bc3e22fa95f940ae0f71a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a327d5721932bc3e22fa95f940ae0f71a">task_instance_</a></td></tr>
-<tr class="memdesc:a327d5721932bc3e22fa95f940ae0f71a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The dataset id within a code path.  <a href="../../d6/d9c/classTask.html#a327d5721932bc3e22fa95f940ae0f71a">More...</a><br /></td></tr>
-<tr class="separator:a327d5721932bc3e22fa95f940ae0f71a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefe1e76931362760e469828db80ec74d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aefe1e76931362760e469828db80ec74d">task_code_id_</a></td></tr>
+<tr class="memdesc:aefe1e76931362760e469828db80ec74d"><td class="mdescLeft">&#160;</td><td class="mdescRight">The code path executed by the task.  <a href="../../d6/d9c/classTask.html#aefe1e76931362760e469828db80ec74d">More...</a><br /></td></tr>
+<tr class="separator:aefe1e76931362760e469828db80ec74d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a841746e20bb08e845664dbc90b093c4c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a841746e20bb08e845664dbc90b093c4c">task_data_id_</a></td></tr>
+<tr class="memdesc:a841746e20bb08e845664dbc90b093c4c"><td class="mdescLeft">&#160;</td><td class="mdescRight">The dataset id within a code path.  <a href="../../d6/d9c/classTask.html#a841746e20bb08e845664dbc90b093c4c">More...</a><br /></td></tr>
+<tr class="separator:a841746e20bb08e845664dbc90b093c4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaabf909738016af7170a5da0147ad561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d35/task__map_8h.html#afca84f48428e1ef070e117d4ab4e6c7d">tbb::task</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aaabf909738016af7170a5da0147ad561">task_impl_</a></td></tr>
+<tr class="memdesc:aaabf909738016af7170a5da0147ad561"><td class="mdescLeft">&#160;</td><td class="mdescRight">A pointer to an Intel TBB object storing low-level information to manage the task.  <a href="../../d6/d9c/classTask.html#aaabf909738016af7170a5da0147ad561">More...</a><br /></td></tr>
 <tr class="separator:aaabf909738016af7170a5da0147ad561"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a77c00bc4f5cf0292780c6cad7dad234d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a77c00bc4f5cf0292780c6cad7dad234d">state_</a></td></tr>
+<tr class="memdesc:a77c00bc4f5cf0292780c6cad7dad234d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores a state of the task.  <a href="../../d6/d9c/classTask.html#a77c00bc4f5cf0292780c6cad7dad234d">More...</a><br /></td></tr>
 <tr class="separator:a77c00bc4f5cf0292780c6cad7dad234d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a388aef1210d5cf1b50d6b05f5648ff95"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a388aef1210d5cf1b50d6b05f5648ff95">tbb_state_</a></td></tr>
+<tr class="memdesc:a388aef1210d5cf1b50d6b05f5648ff95"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores a state of the TBB object.  <a href="../../d6/d9c/classTask.html#a388aef1210d5cf1b50d6b05f5648ff95">More...</a><br /></td></tr>
 <tr class="separator:a388aef1210d5cf1b50d6b05f5648ff95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5507808eea068a6fc1073a137af5d6ac"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a5507808eea068a6fc1073a137af5d6ac">seqno_</a></td></tr>
+<tr class="memdesc:a5507808eea068a6fc1073a137af5d6ac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores the sequence number.  <a href="../../d6/d9c/classTask.html#a5507808eea068a6fc1073a137af5d6ac">More...</a><br /></td></tr>
 <tr class="separator:a5507808eea068a6fc1073a137af5d6ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b4bece4465f1cdffd272f10b80b12b6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a2b4bece4465f1cdffd272f10b80b12b6">task_recycle_</a></td></tr>
+<tr class="memdesc:a2b4bece4465f1cdffd272f10b80b12b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines if the task must be rescheduled (reused) after its completion.  <a href="../../d6/d9c/classTask.html#a2b4bece4465f1cdffd272f10b80b12b6">More...</a><br /></td></tr>
 <tr class="separator:a2b4bece4465f1cdffd272f10b80b12b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac83ca66ddac7c4bd0df17045fb079d1c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ac83ca66ddac7c4bd0df17045fb079d1c">task_cancel_</a></td></tr>
+<tr class="memdesc:ac83ca66ddac7c4bd0df17045fb079d1c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines if the task's execution was canceled.  <a href="../../d6/d9c/classTask.html#ac83ca66ddac7c4bd0df17045fb079d1c">More...</a><br /></td></tr>
 <tr class="separator:ac83ca66ddac7c4bd0df17045fb079d1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5a79ffe5a6450fe1cac2ba3cb7ac3b0"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#af5a79ffe5a6450fe1cac2ba3cb7ac3b0">enqueue_time_</a></td></tr>
+<tr class="memdesc:af5a79ffe5a6450fe1cac2ba3cb7ac3b0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains the time when the task was enqueued for execution.  <a href="../../d6/d9c/classTask.html#af5a79ffe5a6450fe1cac2ba3cb7ac3b0">More...</a><br /></td></tr>
 <tr class="separator:af5a79ffe5a6450fe1cac2ba3cb7ac3b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab5e041bd52cd5677fbd1b7c1c30de4b2"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ab5e041bd52cd5677fbd1b7c1c30de4b2">schedule_time_</a></td></tr>
+<tr class="memdesc:ab5e041bd52cd5677fbd1b7c1c30de4b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains the time when the task was started.  <a href="../../d6/d9c/classTask.html#ab5e041bd52cd5677fbd1b7c1c30de4b2">More...</a><br /></td></tr>
 <tr class="separator:ab5e041bd52cd5677fbd1b7c1c30de4b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:add34aa41e6823d29604cde9f7def0576"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#add34aa41e6823d29604cde9f7def0576">execute_delay_</a></td></tr>
+<tr class="memdesc:add34aa41e6823d29604cde9f7def0576"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets threshold for the task's execution time. If the threshold is exceeded, the event is logged.  <a href="../../d6/d9c/classTask.html#add34aa41e6823d29604cde9f7def0576">More...</a><br /></td></tr>
 <tr class="separator:add34aa41e6823d29604cde9f7def0576"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae70a514593c52c7465d95e7ec718d487"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#ae70a514593c52c7465d95e7ec718d487">schedule_delay_</a></td></tr>
+<tr class="memdesc:ae70a514593c52c7465d95e7ec718d487"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets threshold for delay between enqueueing and execution. If the threshold is exceeded, the event is logged.  <a href="../../d6/d9c/classTask.html#ae70a514593c52c7465d95e7ec718d487">More...</a><br /></td></tr>
 <tr class="separator:ae70a514593c52c7465d95e7ec718d487"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aff2c1602ab03acdd7b655abd67075311"><td class="memItemLeft" align="right" valign="top">boost::intrusive::list_member_hook&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#aff2c1602ab03acdd7b655abd67075311">waitq_hook_</a></td></tr>
 <tr class="separator:aff2c1602ab03acdd7b655abd67075311"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -269,35 +299,44 @@ Private Attributes</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
 <tr class="memitem:a19df1b79a183aa4aae143adca1540dcd"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a19df1b79a183aa4aae143adca1540dcd">TaskEntry</a></td></tr>
+<tr class="memdesc:a19df1b79a183aa4aae143adca1540dcd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gives access to private members for <a class="el" href="../../d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt;">TaskEntry</a> class.  <a href="../../d6/d9c/classTask.html#a19df1b79a183aa4aae143adca1540dcd">More...</a><br /></td></tr>
 <tr class="separator:a19df1b79a183aa4aae143adca1540dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9f0573c5408a663c3874787eeb7d599e"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a9f0573c5408a663c3874787eeb7d599e">TaskScheduler</a></td></tr>
+<tr class="memdesc:a9f0573c5408a663c3874787eeb7d599e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gives access to private members for <a class="el" href="../../df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ...">TaskScheduler</a> class.  <a href="../../d6/d9c/classTask.html#a9f0573c5408a663c3874787eeb7d599e">More...</a><br /></td></tr>
 <tr class="separator:a9f0573c5408a663c3874787eeb7d599e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83fba56c59ddd56237743faf05d8a71f"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a83fba56c59ddd56237743faf05d8a71f">TaskImpl</a></td></tr>
+<tr class="memdesc:a83fba56c59ddd56237743faf05d8a71f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gives access to private members for <a class="el" href="../../d1/dee/classTaskImpl.html" title="A private class used to implement tbb::task An object is created when task is ready for execution and...">TaskImpl</a> class.  <a href="../../d6/d9c/classTask.html#a83fba56c59ddd56237743faf05d8a71f">More...</a><br /></td></tr>
 <tr class="separator:a83fba56c59ddd56237743faf05d8a71f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a058c8b41dd3954a206cc8ae9275e7c96"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/classTask.html#a058c8b41dd3954a206cc8ae9275e7c96">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="../../d6/d9c/classTask.html">Task</a> &amp;<a class="el" href="../../db/d4a/task__int_8h.html#afca84f48428e1ef070e117d4ab4e6c7d">task</a>)</td></tr>
+<tr class="memdesc:a058c8b41dd3954a206cc8ae9275e7c96"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides access to private members of a task for the output stream redirection operator.  <a href="../../d6/d9c/classTask.html#a058c8b41dd3954a206cc8ae9275e7c96">More...</a><br /></td></tr>
 <tr class="separator:a058c8b41dd3954a206cc8ae9275e7c96"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> is a wrapper over tbb::task to support policies. </p>
-<p>There are two kind of tasks,</p><ul>
-<li>&lt;task-id, instance-id&gt; specifies task with a given instance-id</li>
-<li>&lt;task-id&gt; specifies task without any instance</li>
+<div class="textblock"><p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> is a class to describe a computational task within OpenSDN control plane applications. A task is a labelled sequence of instructions (code) and data processed by them in a single thread. OpenSDN <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> wraps over tbb::task. Tasks are labelled using a pair of numbers: </p>
+<ul>
+<li>task code ID (or task ID), which corresponds to a version of code to run into the task;</li>
+<li>task data ID, which corresponds to a version of data supplied to the task and processed by code.</li>
 </ul>
-<p>The policies can be specified in the form of, task(tid0) =&gt; &lt;tid1, -1&gt; &lt;tid2, 2&gt; &lt;tid3, 3&gt; The rule implies that:</p><ul>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid0, *&gt; cannot run as long as &lt;tid1, *&gt; is running</li>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid0, 2&gt; cannot run as long as task &lt;tid2, 2&gt; is running</li>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid0, 3&gt; cannot run as long as task &lt;tid3, 3&gt; is running</li>
+<p>This labelling is used to apply execution policies determining which tasks are allowed to be executed in parallel with others and which tasks are forbidden to run in parallel. The labels are expressed as &lt;tcid, tdid&gt;, where <em>tcid</em> is a task code ID and <em>tdid</em> is a task data ID.</p>
+<p>If a task with <em>tcid</em> has <em>tdid</em> equal to -1, then any number of tasks with label &lt;tcid,-1&gt; can run at a time. If a task has task data ID larger or equal to 0, then only one task with this given label (i.e. &lt;tcid,tdid&gt;) can run at a time.</p>
+<p>When there are multiple tasks ready to run, they are scheduled in their order of enqueue.</p>
+<p>Additionaly, parallel execution of tasks can be managed using task execution policies. <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> execution policies are specified per a task with the given code ID <em>tcid0</em> and arbitrary task data ID in a form of a list of task labels: &lt;tcid0,-1&gt; =&gt; &lt;tcid1,tdid1&gt;, &lt;tcid2,tdid2&gt;, ..., &lt;tcidN,tdidN&gt;.</p>
+<p>This list specifies which tasks can't be executed in parallel with a task having specified task code ID (tcid0). Each label &lt;tcidN, tdidN&gt; in a policy (i.e. the list) is called task exclusion because it specifies that the task with this task code ID and task data ID cannot run in parallel with &lt;tcid0, -1&gt;. When <em>tdid</em> is equal to -1 in a task exclusion, it corresponds to wildcard (*), i.e. all possible values of the task data ID <em>tdid</em>.</p>
+<p>For example, if we have a policy:</p><ul>
+<li>&lt;tcid0,-1&gt; =&gt; &lt;tcid1, -1&gt; &lt;tcid2, 2&gt; &lt;tcid3, 3&gt;</li>
 </ul>
-<p>The policy rules are symmetric. That is:</p><ul>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid1, *&gt; cannot run as long as &lt;tid0, *&gt; is running</li>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid2, 2&gt; cannot run as long as task &lt;tid0, 2&gt; is running</li>
-<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> &lt;tid3, 3&gt; cannot run as long as task &lt;tid0, 3&gt; is running</li>
+<p>The policy states that:</p><ul>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid0,-1&gt; cannot run as long as &lt;tcid1, -1&gt; is running;</li>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid0, 2&gt; cannot run as long as task &lt;tcid2, 2&gt; is running;</li>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid0, 3&gt; cannot run as long as task &lt;tcid3, 3&gt; is running.</li>
 </ul>
-<p>If task_instance == -1, means instance is not applicable. It implies that, any number of tasks with instance -1 can run at a time</p>
-<p>If task_instance != -1, only one task of given instnace can run at a time</p>
-<p>When there are multiple tasks ready to run, they are scheduled in their order of enqueue </p>
+<p><a class="el" href="../../d9/d8c/classPolicy.html">Policy</a> rules are symmetric. I.e., the previous example states also:</p><ul>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid1,-1&gt; cannot run as long as &lt;tcid0,-1&gt; is running;</li>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid2, 2&gt; cannot run as long as task &lt;tcid0, 2&gt; is running;</li>
+<li><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> &lt;tcid3, 3&gt; cannot run as long as task &lt;tcid0, 3&gt; is running. </li>
+</ul>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00086">86</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00077">77</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a id="afa88d99eb2a58c8f078a53f1195c53a8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afa88d99eb2a58c8f078a53f1195c53a8">&#9670;&nbsp;</a></span>State</h2>
@@ -311,14 +350,17 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies.">Task</a> states. </p>
+<p><a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> states. </p>
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a60d6b639025edd02b1269e6d3357b4db"></a>INIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a081870a7091cc60a038fcda36427e2b2"></a>WAIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a5c31076777df8660fd66f3f6abdbfa18"></a>RUN&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a60d6b639025edd02b1269e6d3357b4db"></a>INIT&#160;</td><td class="fielddoc"><p>A task was initialized. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a081870a7091cc60a038fcda36427e2b2"></a>WAIT&#160;</td><td class="fielddoc"><p>A task is waiting in a queue. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="afa88d99eb2a58c8f078a53f1195c53a8a5c31076777df8660fd66f3f6abdbfa18"></a>RUN&#160;</td><td class="fielddoc"><p>A task is being run. </p>
+</td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00089">89</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00081">81</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -333,6 +375,8 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Describes states of a task according to TBB library. </p>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aba2ceaa2e5d3d83899622ef7d5c12657ab10ec185c945ca5b1600d4280908f4cc"></a>TBB_INIT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="aba2ceaa2e5d3d83899622ef7d5c12657ac287de51c9c50d212365aa6f1a228d90"></a>TBB_ENQUEUED&#160;</td><td class="fielddoc"></td></tr>
@@ -340,13 +384,13 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="aba2ceaa2e5d3d83899622ef7d5c12657a5ff86284bec306c27018f8a2674adff9"></a>TBB_DONE&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00095">95</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00094">94</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab81c16013b39882ff1baf97bba8b2e4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab81c16013b39882ff1baf97bba8b2e4a">&#9670;&nbsp;</a></span>Task() <span class="overload">[1/2]</span></h2>
+<a id="ab1ec0b7c7278d7c75b453231515c9da1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1ec0b7c7278d7c75b453231515c9da1">&#9670;&nbsp;</a></span>Task() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -361,7 +405,7 @@ Friends</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>task_instance</em>&#160;</td>
+          <td class="paramname"><em>task_data_id</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -371,7 +415,9 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01529">1529</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Creates a new task with the given values of task code ID and task data ID. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01535">1535</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -391,7 +437,9 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01535">1535</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p>Creates a new task with the given value of task code ID and wildcard for task data ID. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01541">1541</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -418,7 +466,9 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00105">105</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Destroys a task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00114">114</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -445,6 +495,8 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Gives a description of the task. </p>
 
 <p>Implemented in <a class="el" href="../../d9/d2f/classRequestPipeline_1_1StageWorker.html#a7a4906d8db2a2314de3b88db908f24b2">RequestPipeline::StageWorker</a>, <a class="el" href="../../dc/dcf/classUdpServer_1_1Reader.html#ad69ee036499ef79f0cfd3288ef51b3d6">UdpServer::Reader</a>, <a class="el" href="../../d1/d00/classTcpSession_1_1Reader.html#a3c05bd1c60ee1e4b8baa7a23fcbb2f29">TcpSession::Reader</a>, <a class="el" href="../../d6/d9f/classSslSession_1_1SslReader.html#abbef89176ec942c143d910647a4e7ca4">SslSession::SslReader</a>, <a class="el" href="../../dc/d86/classHttpSession_1_1RequestHandler.html#a3efcd25e80b1d4c17ea5312e3e49caad">HttpSession::RequestHandler</a>, <a class="el" href="../../d1/dcd/classcass_1_1cql_1_1impl_1_1WorkerTask.html#a0521b8de5ffbbe0f2c161201bcc7fd6d">cass::cql::impl::WorkerTask</a>, <a class="el" href="../../d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#aeeafc5f52f307e4d2c010182030b6236">ConfigEtcdClient::EtcdWatcher</a>, <a class="el" href="../../d5/d73/classConfigAmqpClient_1_1RabbitMQReader.html#a8bbb95090bbb8f3684844b78be507a03">ConfigAmqpClient::RabbitMQReader</a>, <a class="el" href="../../d3/d38/structPipelineWorker.html#a3af215fc1b4810f8041399542124a0b6">PipelineWorker</a>, <a class="el" href="../../d0/dd4/classTimer_1_1TimerTask.html#a1caa1fdff7d22d3094e8c69ef035a95a">Timer::TimerTask</a>, <a class="el" href="../../d1/d42/classTaskTrigger_1_1WorkerTask.html#aee6c6d1623914c91a33b3a191445fbd9">TaskTrigger::WorkerTask</a>, <a class="el" href="../../d3/d77/classConcurrencyScope_1_1ScopeTask.html#a6c2185fef30156f4536961122a78b055">ConcurrencyScope::ScopeTask</a>, <a class="el" href="../../de/d7d/classQueueTaskRunner.html#a8953c0df8123d3fc1daecd43524c9436">QueueTaskRunner&lt; QueueEntryT, QueueT &gt;</a>, <a class="el" href="../../de/d7d/classQueueTaskRunner.html#a8953c0df8123d3fc1daecd43524c9436">QueueTaskRunner&lt; QueueEntryT, WorkQueue&lt; QueueEntryT &gt; &gt;</a>, <a class="el" href="../../d2/d2a/classSessionStatsCollector_1_1SessionTask.html#ac9fd96a0b3fc203eb6a3b29cb2b57e7a">SessionStatsCollector::SessionTask</a>, <a class="el" href="../../d2/d66/classFlowStatsCollector_1_1AgeingTask.html#a8decd2a32f6adfd5e239001a2a01fb70">FlowStatsCollector::AgeingTask</a>, <a class="el" href="../../db/d09/classMockGenerator_1_1SendSessionTask.html#a137de04cd87e2ce2491b2247f76b6f6c">MockGenerator::SendSessionTask</a>, <a class="el" href="../../d0/dab/classMockGenerator_1_1SendMessageTask.html#a7472ac23b72aa3f0fbe4115151cc0faa">MockGenerator::SendMessageTask</a>, <a class="el" href="../../d5/d8a/classRestServerGetVmCfgTask.html#ab0396ef833099fea89219f386bf7dd8f">RestServerGetVmCfgTask</a>, <a class="el" href="../../dc/d9d/classSandeshVmVnToVmiTask.html#ad2e09b4fa5fda151d9c15b12c25c4b0e">SandeshVmVnToVmiTask</a>, <a class="el" href="../../d5/df3/classSandeshVmiToVmVnTask.html#af9953e5cad0d399155fa48c546a08b79">SandeshVmiToVmVnTask</a>, <a class="el" href="../../d8/d6a/classSandeshVmVnPortSubscribeTask.html#a229018741f7945f8d043da429d5c1e33">SandeshVmVnPortSubscribeTask</a>, <a class="el" href="../../d2/d37/classSandeshVmiPortSubscribeTask.html#a3348abdcfc4c5fc24e9ffdb3aaaf924d">SandeshVmiPortSubscribeTask</a>, <a class="el" href="../../dc/d6d/classPktSandeshFlow.html#a6f24f78ddc550e5a2b80b14d51040f21">PktSandeshFlow</a>, <a class="el" href="../../d1/d04/classPhysicalSwitchSandeshTask.html#a5c77b64836bf34457b50ace921af9ee4">PhysicalSwitchSandeshTask</a>, <a class="el" href="../../d7/db9/classOVSDB_1_1OvsdbSandeshTask.html#ac941bd61aad57b7035dbf5bbb4645295">OVSDB::OvsdbSandeshTask</a>, <a class="el" href="../../d5/d4b/classOvsdbClientSandesTask.html#a677152379a7f097711673010ac3c2bc1">OvsdbClientSandesTask</a>, <a class="el" href="../../d2/dc9/classOVSDB_1_1LogicalSwitchEntry_1_1ProcessDeleteOvsReqTask.html#ab14c11c8b7362bd7d63f25474991aab1">OVSDB::LogicalSwitchEntry::ProcessDeleteOvsReqTask</a>, <a class="el" href="../../d9/d1e/classOVSDB_1_1LogicalSwitchTable_1_1ProcessDeleteTableReqTask.html#a0efaa6268e49463e685f8b88ca3e3dea">OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask</a>, <a class="el" href="../../db/df7/classVxLanConfigSandeshTask.html#af944ac14195d1f23f996a89a0c38070f">VxLanConfigSandeshTask</a>, <a class="el" href="../../d9/d75/classConfigPhysicalDeviceVnSandesh.html#adb940b662539ed80ef318b20c8d86913">ConfigPhysicalDeviceVnSandesh</a>, <a class="el" href="../../da/dc2/classMacLearningSandeshResp.html#a75c6f01fd185fff87726dabf4eb9cde6">MacLearningSandeshResp</a>, <a class="el" href="../../d0/da9/classFlowKState.html#ae32711621aa5bb968088ccb6a1d0b470">FlowKState</a>, <a class="el" href="../../d2/d94/classKSyncTxQueueTask.html#a4c1d6320d1aac513f8436e2ebf3c1124">KSyncTxQueueTask</a>, <a class="el" href="../../d4/d32/classKSyncSockUdsReadTask.html#a43a6f1a8b3286180eb015ec41f05211c">KSyncSockUdsReadTask</a>, <a class="el" href="../../dc/d9b/classKSyncSockTcpReadTask.html#a407edcf7a6b9adfdce99ea7fde29a53f">KSyncSockTcpReadTask</a>, <a class="el" href="../../d2/d34/classChannelEventProcTask.html#a1cd087c8e7e67f5b04d00393b9cbe8a5">ChannelEventProcTask</a>, <a class="el" href="../../d8/dc1/classIFMapUpdateSender_1_1SendTask.html#a8a1f6dcf658cd340f12543a96add4684">IFMapUpdateSender::SendTask</a>, <a class="el" href="../../dd/db5/classIFMapServer_1_1IFMapVmSubscribe.html#a12d16ba7dc28b18061a8fe041985b1c6">IFMapServer::IFMapVmSubscribe</a>, <a class="el" href="../../de/dfd/classIFMapServer_1_1IFMapStaleEntriesCleaner.html#ad421d9efffb05da830b8f2c090649dba">IFMapServer::IFMapStaleEntriesCleaner</a>, <a class="el" href="../../d9/d42/classIFMapAgentStaleCleaner_1_1IFMapAgentStaleCleanerWorker.html#ac4e1ebcc5c1c9d9a22690892c5b5b26c">IFMapAgentStaleCleaner::IFMapAgentStaleCleanerWorker</a>, <a class="el" href="../../d3/d64/classDBTableWalker_1_1Worker.html#ae325448abc3ca898875e51ee032ba7eb">DBTableWalker::Worker</a>, <a class="el" href="../../dc/db9/classDBTable_1_1WalkWorker.html#a1ec467332711255f145a8734db397c6e">DBTable::WalkWorker</a>, <a class="el" href="../../d2/db4/classDBPartition_1_1QueueRunner.html#a887cada13012ace8480ab7eb2974bee1">DBPartition::QueueRunner</a>, and <a class="el" href="../../de/d95/classBgpSenderPartition_1_1Worker.html#afd3dab145b606ae813a33a31dd8c1bd3">BgpSenderPartition::Worker</a>.</p>
 
@@ -499,7 +551,9 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00130">130</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Returns the time when the task was enqueued for execution. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00154">154</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -526,115 +580,9 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00132">132</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Returns the threshold for the task execution duration. </p>
 
-</div>
-</div>
-<a id="aad700cb1443509885e47d92b44b3bac0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad700cb1443509885e47d92b44b3bac0">&#9670;&nbsp;</a></span>GetSeqno()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint64_t Task::GetSeqno </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00120">120</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
-
-</div>
-</div>
-<a id="a621d24f48cb5d851874273c245229edd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a621d24f48cb5d851874273c245229edd">&#9670;&nbsp;</a></span>GetState()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a> Task::GetState </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00117">117</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
-
-</div>
-</div>
-<a id="af49e04d416c1a899c93b919da7456115"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af49e04d416c1a899c93b919da7456115">&#9670;&nbsp;</a></span>GetTaskId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int Task::GetTaskId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00118">118</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
-
-</div>
-</div>
-<a id="a03595f9cf6dcf2c504b62104e1da8513"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03595f9cf6dcf2c504b62104e1da8513">&#9670;&nbsp;</a></span>GetTaskInstance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int Task::GetTaskInstance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00119">119</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00160">160</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -665,7 +613,7 @@ Friends</h2></td></tr>
 
 <p>Reimplemented in <a class="el" href="../../d0/dd4/classTimer_1_1TimerTask.html#a2b005daaa7b475bd7b39bd356468f1c1">Timer::TimerTask</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00114">114</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00123">123</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -692,7 +640,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Code to execute. Returns true if task is completed. Return false to reschedule the task. </p>
+<p>Code to execute in a task. Returns true if task is completed. Return false to reschedule the task. </p>
 
 <p>Implemented in <a class="el" href="../../d9/d2f/classRequestPipeline_1_1StageWorker.html#a7f05690322f906af20b72a8fc33085e2">RequestPipeline::StageWorker</a>, <a class="el" href="../../dc/dcf/classUdpServer_1_1Reader.html#af1e0acefa776e7ce918e1835bd23addd">UdpServer::Reader</a>, <a class="el" href="../../d1/d00/classTcpSession_1_1Reader.html#aa863d2d72cf1612d3a6136c9f640e881">TcpSession::Reader</a>, <a class="el" href="../../d6/d9f/classSslSession_1_1SslReader.html#a9fb2b9cde3264441f0960afe1a944b64">SslSession::SslReader</a>, <a class="el" href="../../dc/d86/classHttpSession_1_1RequestHandler.html#a262c3ab341fe34f9d5abbdafb48ac112">HttpSession::RequestHandler</a>, <a class="el" href="../../d1/dcd/classcass_1_1cql_1_1impl_1_1WorkerTask.html#ae05c3ce7e93178b758b1e1edfba62936">cass::cql::impl::WorkerTask</a>, <a class="el" href="../../d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#ad0bd93e5d5462d308b359c0f7e4e85e0">ConfigEtcdClient::EtcdWatcher</a>, <a class="el" href="../../d5/d73/classConfigAmqpClient_1_1RabbitMQReader.html#a5d6bfac2252fe07697ba9689b1d812eb">ConfigAmqpClient::RabbitMQReader</a>, <a class="el" href="../../d3/d38/structPipelineWorker.html#a20daeebf901b1276a77a95f535bb4412">PipelineWorker</a>, <a class="el" href="../../d0/dd4/classTimer_1_1TimerTask.html#aa975556133c1724e55aefc5621eb26a9">Timer::TimerTask</a>, <a class="el" href="../../d1/d42/classTaskTrigger_1_1WorkerTask.html#a6e561d99f3547b7461cea28bc746bf45">TaskTrigger::WorkerTask</a>, <a class="el" href="../../d3/d77/classConcurrencyScope_1_1ScopeTask.html#a79ee661f56a60d05d19792f9521194b8">ConcurrencyScope::ScopeTask</a>, <a class="el" href="../../de/d7d/classQueueTaskRunner.html#a52b90e382c24d903457ea8ab05db6806">QueueTaskRunner&lt; QueueEntryT, QueueT &gt;</a>, <a class="el" href="../../de/d7d/classQueueTaskRunner.html#a52b90e382c24d903457ea8ab05db6806">QueueTaskRunner&lt; QueueEntryT, WorkQueue&lt; QueueEntryT &gt; &gt;</a>, <a class="el" href="../../d2/d2a/classSessionStatsCollector_1_1SessionTask.html#adf479053368db3d611295b8f2ad9274d">SessionStatsCollector::SessionTask</a>, <a class="el" href="../../d2/d66/classFlowStatsCollector_1_1AgeingTask.html#a872d612804165a9a3f4805d8160afebc">FlowStatsCollector::AgeingTask</a>, <a class="el" href="../../db/d09/classMockGenerator_1_1SendSessionTask.html#a06bc12cd56742191434aff61117085a1">MockGenerator::SendSessionTask</a>, <a class="el" href="../../d0/dab/classMockGenerator_1_1SendMessageTask.html#afc3649dd05be733c4881c65530980e22">MockGenerator::SendMessageTask</a>, <a class="el" href="../../d5/d8a/classRestServerGetVmCfgTask.html#afd9009be2de06fde3f96c94e174758f1">RestServerGetVmCfgTask</a>, <a class="el" href="../../dc/d9d/classSandeshVmVnToVmiTask.html#a135dbbb55874fef43000cd000af4680f">SandeshVmVnToVmiTask</a>, <a class="el" href="../../d5/df3/classSandeshVmiToVmVnTask.html#a255c91636e9669da9a19d0d76f4b2058">SandeshVmiToVmVnTask</a>, <a class="el" href="../../d8/d6a/classSandeshVmVnPortSubscribeTask.html#a794f59b91d05ead781d1f33886dbd7fd">SandeshVmVnPortSubscribeTask</a>, <a class="el" href="../../d2/d37/classSandeshVmiPortSubscribeTask.html#a6d7862f81c1049c49c341f6034b16bf6">SandeshVmiPortSubscribeTask</a>, <a class="el" href="../../d3/d2d/classPktSandeshFlowStats.html#a316f0b50f81dbf99b1b76df72ebca6db">PktSandeshFlowStats</a>, <a class="el" href="../../dc/d6d/classPktSandeshFlow.html#a7fdc59183b876fd65f6c023e89738909">PktSandeshFlow</a>, <a class="el" href="../../d1/d04/classPhysicalSwitchSandeshTask.html#a04739384c286bd49e8ec577b1e0beae6">PhysicalSwitchSandeshTask</a>, <a class="el" href="../../d7/db9/classOVSDB_1_1OvsdbSandeshTask.html#aff1bd338c289881db4e51bb61681abc0">OVSDB::OvsdbSandeshTask</a>, <a class="el" href="../../d5/d4b/classOvsdbClientSandesTask.html#af6cb8ad436fad07f429ef90cb30117b8">OvsdbClientSandesTask</a>, <a class="el" href="../../d2/dc9/classOVSDB_1_1LogicalSwitchEntry_1_1ProcessDeleteOvsReqTask.html#a595b9f839994526e9391fd14a3f6edad">OVSDB::LogicalSwitchEntry::ProcessDeleteOvsReqTask</a>, <a class="el" href="../../d9/d1e/classOVSDB_1_1LogicalSwitchTable_1_1ProcessDeleteTableReqTask.html#aaf994ad0fba073695f4deb2469ebb285">OVSDB::LogicalSwitchTable::ProcessDeleteTableReqTask</a>, <a class="el" href="../../db/df7/classVxLanConfigSandeshTask.html#a6802b84e1d60568c2fdff2b095afbfe6">VxLanConfigSandeshTask</a>, <a class="el" href="../../d9/d75/classConfigPhysicalDeviceVnSandesh.html#ab2a1661f10aae220475049e3816570a8">ConfigPhysicalDeviceVnSandesh</a>, <a class="el" href="../../da/dc2/classMacLearningSandeshResp.html#ac7b23840f51d18914296c77d11ab8ed0">MacLearningSandeshResp</a>, <a class="el" href="../../d0/da9/classFlowKState.html#af824c5e98707e08dc3855638639aa11e">FlowKState</a>, <a class="el" href="../../d2/d94/classKSyncTxQueueTask.html#ae8138fcad65d67a0b38dee7e6b85564c">KSyncTxQueueTask</a>, <a class="el" href="../../d4/d32/classKSyncSockUdsReadTask.html#a3df6332fbdc4946d0ac5d97ed44331a7">KSyncSockUdsReadTask</a>, <a class="el" href="../../dc/d9b/classKSyncSockTcpReadTask.html#afca0d07322c1509e90e8187b81f7a8dd">KSyncSockTcpReadTask</a>, <a class="el" href="../../d2/d34/classChannelEventProcTask.html#adc46277efff3bbd75de8fa6dbf3dd592">ChannelEventProcTask</a>, <a class="el" href="../../d8/dc1/classIFMapUpdateSender_1_1SendTask.html#a75cae22d5abb9161b85110c26a26d73b">IFMapUpdateSender::SendTask</a>, <a class="el" href="../../dd/db5/classIFMapServer_1_1IFMapVmSubscribe.html#aaf71d65114050327ed231aad86fa373c">IFMapServer::IFMapVmSubscribe</a>, <a class="el" href="../../de/dfd/classIFMapServer_1_1IFMapStaleEntriesCleaner.html#a7d47121d0aa54c918c1827a8abfaf8c6">IFMapServer::IFMapStaleEntriesCleaner</a>, <a class="el" href="../../d9/d42/classIFMapAgentStaleCleaner_1_1IFMapAgentStaleCleanerWorker.html#ac186cd8185cff6dbab8e4aacde705089">IFMapAgentStaleCleaner::IFMapAgentStaleCleanerWorker</a>, <a class="el" href="../../d3/d64/classDBTableWalker_1_1Worker.html#a76c9549c79749fcd343b87f3ca03aed8">DBTableWalker::Worker</a>, <a class="el" href="../../dc/db9/classDBTable_1_1WalkWorker.html#ace0dba1d4b147684c1fa9c99b5f99b4a">DBTable::WalkWorker</a>, <a class="el" href="../../d2/db4/classDBPartition_1_1QueueRunner.html#a644de469490dc8838df16f54baf637ab">DBPartition::QueueRunner</a>, and <a class="el" href="../../de/d95/classBgpSenderPartition_1_1Worker.html#ab1e41d83e4d8113432945702a3546419">BgpSenderPartition::Worker</a>.</p>
 
@@ -723,7 +671,7 @@ Friends</h2></td></tr>
 
 <p>Returns a pointer to the current task the code is executing under. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01562">1562</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01568">1568</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 
 </div>
 </div>
@@ -750,7 +698,9 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00133">133</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Returns the time threshold for time difference between moments when the task was started and when it was enqueue. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00164">164</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -777,12 +727,14 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00131">131</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Returns the time when the task execution was started. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00157">157</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
-<a id="a97f0d2c087639542e0935f957592f67a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97f0d2c087639542e0935f957592f67a">&#9670;&nbsp;</a></span>SetSeqNo()</h2>
+<a id="a1d4e6efa78f9fe84255f15d191b3cb21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d4e6efa78f9fe84255f15d191b3cb21">&#9670;&nbsp;</a></span>seqno() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -791,7 +743,36 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Task::SetSeqNo </td>
+          <td class="memname">uint64_t Task::seqno </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the sequence number of this task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00137">137</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="abdaa5191adc43fc6f50c7329abf6b0ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdaa5191adc43fc6f50c7329abf6b0ff">&#9670;&nbsp;</a></span>seqno() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Task::seqno </td>
           <td>(</td>
           <td class="paramtype">uint64_t&#160;</td>
           <td class="paramname"><em>seqno</em></td><td>)</td>
@@ -805,12 +786,22 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00139">139</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Sets sequence number of the task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00178">178</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d6/d9c/classTask_abdaa5191adc43fc6f50c7329abf6b0ff_cgraph.png" border="0" usemap="#ad6/d9c/classTask_abdaa5191adc43fc6f50c7329abf6b0ff_cgraph" alt=""/></div>
+<map name="ad6/d9c/classTask_abdaa5191adc43fc6f50c7329abf6b0ff_cgraph" id="ad6/d9c/classTask_abdaa5191adc43fc6f50c7329abf6b0ff_cgraph">
+<area shape="rect" title="Sets sequence number of the task." alt="" coords="5,29,97,56"/>
+</map>
+</div>
 
 </div>
 </div>
-<a id="a926343848b35e794b2fc54fce7f61819"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a926343848b35e794b2fc54fce7f61819">&#9670;&nbsp;</a></span>SetState()</h2>
+<a id="abb4a34a479fec6de2acd895636ddd184"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb4a34a479fec6de2acd895636ddd184">&#9670;&nbsp;</a></span>set_task_complete()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -819,35 +810,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Task::SetState </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00141">141</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
-
-</div>
-</div>
-<a id="ae110434b9c72cc0ed9c839ccb2164e93"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae110434b9c72cc0ed9c839ccb2164e93">&#9670;&nbsp;</a></span>SetTaskComplete()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Task::SetTaskComplete </td>
+          <td class="memname">void Task::set_task_complete </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -860,12 +823,14 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00143">143</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Marks this task as completed (forbids recycling) </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00190">190</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
-<a id="af451c2d930fc441d340445efc49e1c7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af451c2d930fc441d340445efc49e1c7e">&#9670;&nbsp;</a></span>SetTaskRecycle()</h2>
+<a id="a7db715f4eaaeeaa78882ee2585c9d72a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7db715f4eaaeeaa78882ee2585c9d72a">&#9670;&nbsp;</a></span>set_task_recycle()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -874,7 +839,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Task::SetTaskRecycle </td>
+          <td class="memname">void Task::set_task_recycle </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -887,35 +852,9 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00142">142</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Marks this task for recycle. </p>
 
-</div>
-</div>
-<a id="a05bf12738d2dbdab8a1a9b5202837f9a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05bf12738d2dbdab8a1a9b5202837f9a">&#9670;&nbsp;</a></span>SetTbbState()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Task::SetTbbState </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00140">140</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00187">187</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -945,7 +884,7 @@ Friends</h2></td></tr>
 
 <p>Starts execution of a task. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01542">1542</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l01548">1548</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -954,11 +893,70 @@ Here is the call graph for this function:</div>
 <area shape="rect" title="Starts execution of a task." alt="" coords="5,123,120,149"/>
 <area shape="rect" href="../../d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title=" " alt="" coords="179,5,325,32"/>
 <area shape="rect" href="../../df/ddc/classTaskScheduler.html#acfa31ccbc99e85a05c1cd6b1adcc2ab2" title=" " alt="" coords="168,57,336,98"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title=" " alt="" coords="198,123,306,149"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a" title=" " alt="" coords="187,173,317,200"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#add499b441de823e45c0923d0064d0a45" title="Returns a state value of a task." alt="" coords="209,123,295,149"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#a43e1301464e377e923848177f8ef1b91" title="Sets a TBB state for the task." alt="" coords="197,173,307,200"/>
 <area shape="rect" href="../../df/ddc/classTaskScheduler.html#aed4a965d6ac93a06b2353e1176e8b50a" title=" " alt="" coords="183,225,321,266"/>
 </map>
 </div>
+
+</div>
+</div>
+<a id="add499b441de823e45c0923d0064d0a45"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add499b441de823e45c0923d0064d0a45">&#9670;&nbsp;</a></span>state() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a> Task::state </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns a state value of a task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00128">128</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="a2c0971c34c7a6b11aaab80cb08ea6751"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c0971c34c7a6b11aaab80cb08ea6751">&#9670;&nbsp;</a></span>state() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Task::state </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d9c/classTask.html#afa88d99eb2a58c8f078a53f1195c53a8">State</a>&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets a state for this task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00184">184</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -985,7 +983,97 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00127">127</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Returns true if the task has been canceled. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00148">148</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="aa79d027f39885d32a58754b3aa7acf82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa79d027f39885d32a58754b3aa7acf82">&#9670;&nbsp;</a></span>task_code_id()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Task::task_code_id </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the code ID of this task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00131">131</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="aaeaeb071eac555ab3e4c211a04838457"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaeaeb071eac555ab3e4c211a04838457">&#9670;&nbsp;</a></span>task_data_id()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Task::task_data_id </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the data ID of this task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00134">134</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="a43e1301464e377e923848177f8ef1b91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43e1301464e377e923848177f8ef1b91">&#9670;&nbsp;</a></span>tbb_state()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Task::tbb_state </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d9c/classTask.html#aba2ceaa2e5d3d83899622ef7d5c12657">TbbState</a>&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets a TBB state for the task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00181">181</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1024,6 +1112,8 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Provides access to private members of a task for the output stream redirection operator. </p>
+
 </div>
 </div>
 <a id="a19df1b79a183aa4aae143adca1540dcd"></a>
@@ -1046,7 +1136,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00136">136</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Gives access to private members for <a class="el" href="../../d9/daa/classTaskEntry.html" title="A class maintaning information for every &lt;task, instance&gt;">TaskEntry</a> class. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00169">169</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1070,7 +1162,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00138">138</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Gives access to private members for <a class="el" href="../../d1/dee/classTaskImpl.html" title="A private class used to implement tbb::task An object is created when task is ready for execution and...">TaskImpl</a> class. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00175">175</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1094,7 +1188,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00137">137</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Gives access to private members for <a class="el" href="../../df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ...">TaskScheduler</a> class. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00172">172</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1119,7 +1215,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00159">159</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Contains the time when the task was enqueued for execution. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00223">223</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1143,7 +1241,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00161">161</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Sets threshold for the task's execution time. If the threshold is exceeded, the event is logged. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00230">230</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1166,6 +1266,8 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Specifies value for wildcard (any or *) task data ID. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00102">102</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
@@ -1191,7 +1293,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00162">162</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Sets threshold for delay between enqueueing and execution. If the threshold is exceeded, the event is logged. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00234">234</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1215,7 +1319,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00160">160</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Contains the time when the task was started. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00226">226</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1239,7 +1345,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00156">156</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Stores the sequence number. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00212">212</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1263,7 +1371,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00154">154</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Stores a state of the task. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00206">206</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1287,12 +1397,14 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00158">158</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Determines if the task's execution was canceled. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00219">219</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
-<a id="a11cd89d3f3fdf14467eeb1dd56ac3ce9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11cd89d3f3fdf14467eeb1dd56ac3ce9">&#9670;&nbsp;</a></span>task_id_</h2>
+<a id="aefe1e76931362760e469828db80ec74d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aefe1e76931362760e469828db80ec74d">&#9670;&nbsp;</a></span>task_code_id_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1301,7 +1413,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int Task::task_id_</td>
+          <td class="memname">int Task::task_code_id_</td>
         </tr>
       </table>
   </td>
@@ -1313,7 +1425,33 @@ Here is the call graph for this function:</div>
 
 <p>The code path executed by the task. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00149">149</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00196">196</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+
+</div>
+</div>
+<a id="a841746e20bb08e845664dbc90b093c4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a841746e20bb08e845664dbc90b093c4c">&#9670;&nbsp;</a></span>task_data_id_</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Task::task_data_id_</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The dataset id within a code path. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00199">199</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1337,33 +1475,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00153">153</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>A pointer to an Intel TBB object storing low-level information to manage the task. </p>
 
-</div>
-</div>
-<a id="a327d5721932bc3e22fa95f940ae0f71a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a327d5721932bc3e22fa95f940ae0f71a">&#9670;&nbsp;</a></span>task_instance_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int Task::task_instance_</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>The dataset id within a code path. </p>
-
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00152">152</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00203">203</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1387,7 +1501,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00157">157</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Determines if the task must be rescheduled (reused) after its completion. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00216">216</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1411,7 +1527,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00155">155</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p>Stores a state of the TBB object. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00209">209</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>
@@ -1435,7 +1553,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00164">164</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/da4/task_8h_source.html#l00237">237</a> of file <a class="el" href="../../db/da4/task_8h_source.html">task.h</a>.</p>
 
 </div>
 </div>

@@ -1,5 +1,5 @@
 <map id="ConfigEtcdClient::EtcdWatcher::Run" name="ConfigEtcdClient::EtcdWatcher::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,229,240,255"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,229,240,255"/>
 <area shape="rect" id="node2" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#a71b035312714801b2d410a96bf6767c8" title=" " alt="" coords="288,221,491,263"/>
 <area shape="rect" id="node3" href="$d4/d40/classConfigEtcdClient_1_1EtcdWatcher.html#a6397232a246a3b1a9bd466bf676d8fba" title=" " alt="" coords="539,188,741,229"/>
 <area shape="rect" id="node4" href="$d4/db8/classConfigEtcdClient.html#a34b920b50efa81e2610af5a9d16e8487" title=" " alt="" coords="552,253,728,295"/>

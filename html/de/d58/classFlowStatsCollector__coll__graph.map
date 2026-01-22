@@ -18,7 +18,7 @@
 <area shape="rect" id="node27" href="$df/ddc/classTaskScheduler.html" title="The TaskScheduler keeps track of what tasks are currently schedulable. When a task is enqueued it is ..." alt="" coords="545,1671,653,1697"/>
 <area shape="rect" id="node47" href="$dc/d2b/classFlowTable.html" title=" " alt="" coords="1881,1600,1963,1627"/>
 <area shape="rect" id="node7" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="105,431,229,457"/>
-<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="5,212,56,239"/>
+<area shape="rect" id="node8" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="5,212,56,239"/>
 <area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="1390,161,1605,202"/>
 <area shape="rect" id="node19" href="$d7/de7/classKSync.html" title=" " alt="" coords="1892,889,1952,916"/>
 <area shape="rect" id="node24" href="$de/d13/classAgentConfig.html" title=" " alt="" coords="1875,980,1969,1007"/>

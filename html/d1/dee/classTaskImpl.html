@@ -109,7 +109,7 @@ Collaboration diagram for TaskImpl:</div>
 <map name="aTaskImpl_coll__map" id="aTaskImpl_coll__map">
 <area shape="rect" title="A private class used to implement tbb::task An object is created when task is ready for execution and..." alt="" coords="47,95,122,121"/>
 <area shape="rect" title=" " alt="" coords="5,5,79,32"/>
-<area shape="rect" href="../../d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="103,5,154,32"/>
+<area shape="rect" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="103,5,154,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -192,59 +192,58 @@ Private Attributes</h2></td></tr>
 
 <p>Destructor is called when a task execution is compeleted. Invoked implicitly by tbb::task. Invokes OnTaskExit to schedule tasks pending tasks. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00400">400</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00407">407</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/dee/classTaskImpl_a4127bde095143b27570fe5c905c4fd8f_cgraph.png" border="0" usemap="#ad1/dee/classTaskImpl_a4127bde095143b27570fe5c905c4fd8f_cgraph" alt=""/></div>
 <map name="ad1/dee/classTaskImpl_a4127bde095143b27570fe5c905c4fd8f_cgraph" id="ad1/dee/classTaskImpl_a4127bde095143b27570fe5c905c4fd8f_cgraph">
-<area shape="rect" title="Destructor is called when a task execution is compeleted. Invoked implicitly by tbb::task...." alt="" coords="5,285,149,311"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1871,209,2057,235"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#abfb51fbc13c7a2d1cb58e919b9afb930" title="Method invoked on exit of a Task. Exit of a task can potentially start tasks in pendingq." alt="" coords="197,538,380,565"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2112,209,2315,235"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2363,201,2540,243"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title=" " alt="" coords="1135,927,1319,968"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="1864,697,2064,723"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a926343848b35e794b2fc54fce7f61819" title=" " alt="" coords="2159,529,2267,555"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#af49e04d416c1a899c93b919da7456115" title=" " alt="" coords="1905,1238,2023,1265"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a03595f9cf6dcf2c504b62104e1da8513" title=" " alt="" coords="1886,1086,2042,1113"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a05bf12738d2dbdab8a1a9b5202837f9a" title=" " alt="" coords="2148,82,2279,109"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a97f0d2c087639542e0935f957592f67a" title=" " alt="" coords="1417,1339,1534,1366"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a9edb7af1fb4027c5b06447f930696983" title="Called on task exit, if it is marked for cancellation. If the user wants to do any cleanup on task ca..." alt="" coords="447,77,589,103"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="428,531,608,572"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a8fe5c61168e0c5f818a0363ef58cfaa5" title=" " alt="" coords="441,346,595,373"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1635,798,1803,825"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ." alt="" coords="1383,782,1567,809"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title=" " alt="" coords="1638,529,1801,555"/>
-<area shape="rect" href="../../d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title=" " alt="" coords="2140,1307,2287,1334"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title=" " alt="" coords="1378,579,1573,606"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="1644,579,1795,606"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title=" " alt="" coords="1376,478,1575,505"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#aad700cb1443509885e47d92b44b3bac0" title=" " alt="" coords="1418,1035,1533,1062"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="1377,883,1574,910"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1400,1137,1551,1163"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1398,985,1553,1011"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="Starts a task. If there are more entries in waitq_ add them to deferq_." alt="" coords="1649,1001,1789,1027"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title=" " alt="" coords="1635,631,1803,672"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title=" " alt="" coords="1632,412,1807,453"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1633,478,1805,505"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title=" " alt="" coords="1632,899,1807,926"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="1874,303,2054,344"/>
-<area shape="rect" href="../../d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Starts execution of a task." alt="" coords="1907,1001,2021,1027"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e" title=" " alt="" coords="1882,950,2046,977"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#acfa31ccbc99e85a05c1cd6b1adcc2ab2" title=" " alt="" coords="2129,1025,2297,1067"/>
-<area shape="rect" href="../../df/ddc/classTaskScheduler.html#aed4a965d6ac93a06b2353e1176e8b50a" title=" " alt="" coords="2145,960,2282,1001"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="669,563,858,590"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#acd530e17756fa7f795dd5fea56413004" title="Starts executing tasks from deferq_ of TaskEntry and TaskGroup in the temporal order." alt="" coords="656,321,871,347"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a4ac53cb337f372974dcc217fea284bfd" title="Starts executing tasks from deferq_ of a TaskEntry." alt="" coords="921,361,1075,387"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a4e5a4878bfa8dce4b18ee85762ebbd56" title="Starts executing tasks from deferq_ of a TaskGroup." alt="" coords="919,462,1077,489"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a566e40993047d562995129ee7cd5b27f" title=" " alt="" coords="684,219,843,246"/>
-<area shape="rect" href="../../d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="691,270,835,297"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="1127,259,1326,286"/>
-<area shape="rect" href="../../d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="1125,335,1328,362"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#aab57d24bf46fe3e747eb3576721594c2" title=" " alt="" coords="1138,423,1315,450"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#ac4658b599daa022c59cc1f85f96823a0" title=" " alt="" coords="1401,731,1550,758"/>
-<area shape="rect" href="../../d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="1623,747,1816,774"/>
+<area shape="rect" title="Destructor is called when a task execution is compeleted. Invoked implicitly by tbb::task...." alt="" coords="5,1087,149,1114"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a951ae2a1d1b7700618defdcc1ea53a70" title=" " alt="" coords="1871,1095,2057,1122"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#abfb51fbc13c7a2d1cb58e919b9afb930" title="Method invoked on exit of a Task. Exit of a task can potentially start tasks in pendingq." alt="" coords="197,881,380,907"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a51698e1056f0a1694680e8fc9481a2c8" title="TaskScheduler constructor. TBB assumes it can use the &quot;thread&quot; invoking tbb::scheduler can be used fo..." alt="" coords="2112,1095,2315,1122"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a309fd50fb8c035c5346e05663c6e4377" title="Get number of tbb worker threads. For testing purposes only. Limit the number of tbb worker threads." alt="" coords="2363,1088,2540,1129"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a036341eb30a8caf89197acd5363607a5" title=" " alt="" coords="1135,544,1319,585"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a98c4400927aded3c90e81d68abdfa25b" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="1864,771,2064,798"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#add499b441de823e45c0923d0064d0a45" title="Returns a state value of a task." alt="" coords="2170,510,2257,537"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#a43e1301464e377e923848177f8ef1b91" title="Sets a TBB state for the task." alt="" coords="2158,1273,2269,1299"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#aa79d027f39885d32a58754b3aa7acf82" title="Returns the code ID of this task." alt="" coords="1897,350,2031,377"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#aaeaeb071eac555ab3e4c211a04838457" title="Returns the data ID of this task." alt="" coords="1899,70,2029,97"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#a1d4e6efa78f9fe84255f15d191b3cb21" title="Returns the sequence number of this task." alt="" coords="1429,990,1521,1017"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#a9edb7af1fb4027c5b06447f930696983" title="Called on task exit, if it is marked for cancellation. If the user wants to do any cleanup on task ca..." alt="" coords="447,70,589,97"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#aa2450ffe71d1f61ce6edb05b24181c18" title="Query TaskEntry for a task&#45;id and task&#45;instance." alt="" coords="428,1076,608,1117"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a8fe5c61168e0c5f818a0363ef58cfaa5" title=" " alt="" coords="441,881,595,907"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#ad1e299ed899484cf3345fd5796faa9f4" title="Adds a task to deferq_. Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1635,603,1803,630"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a5988850ba190eed287453464b0802638" title="Enqueue TaskEntry in disable_entry&#39;s deferQ." alt="" coords="1383,627,1567,654"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a7e0b6e3108a3ba0217cfd139874ec114" title=" " alt="" coords="1638,822,1801,849"/>
+<area shape="rect" href="../../d0/d91/time__util_8h.html#a2f270cfe648c0ce445c232fdd0c8d811" title=" " alt="" coords="2140,314,2287,341"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a9f9995e79b253357f7dfa643793c8921" title=" " alt="" coords="1378,779,1573,806"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#ada5e66d0e7cc9226a4362826c2a83710" title=" " alt="" coords="1644,705,1795,731"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a24ebbf084ed102baa1dc58c862ea59b1" title=" " alt="" coords="1376,881,1575,907"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a90b7b783be74c5bbf43be4cb4cbbac03" title="Get TaskGroup for a task_id. Grows task_entry_db_ if necessary." alt="" coords="1377,425,1574,451"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a26a37e37bbbfb17a1c756149e94c435d" title=" " alt="" coords="1400,222,1551,249"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a6f583e0f79fdda4c333fa1d2631e734b" title=" " alt="" coords="1398,273,1553,299"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#ad4805d8eb251d544bc57e719c051bf40" title="Starts a task. If there are more entries in waitq_ add them to deferq_." alt="" coords="1649,451,1789,478"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a6daa15c72a538769442fb3e7b378b77a" title=" " alt="" coords="1635,756,1803,797"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#aefeae2d792a678638f57ff708ab7e616" title=" " alt="" coords="1632,873,1807,915"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a7b09b746cd37fd33b6e66ec612aba7b0" title="Add task to deferq_ Only one task of a given instance goes into deferq_ for its policies." alt="" coords="1633,939,1805,966"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#abc77b464a3e2d2c145cd2ceede322513" title=" " alt="" coords="1632,401,1807,427"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#a3ab2594ccd7ae1114f15b17954b1081e" title="Query TaskGroup for a task_id.Assumes valid entry is present for task_id." alt="" coords="1874,1029,2054,1071"/>
+<area shape="rect" href="../../d6/d9c/classTask.html#a36bb9c5cec123d1966e3a561a1f92a9b" title="Starts execution of a task." alt="" coords="1907,451,2021,478"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e" title=" " alt="" coords="1882,401,2046,427"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#acfa31ccbc99e85a05c1cd6b1adcc2ab2" title=" " alt="" coords="2129,379,2297,420"/>
+<area shape="rect" href="../../df/ddc/classTaskScheduler.html#aed4a965d6ac93a06b2353e1176e8b50a" title=" " alt="" coords="2145,444,2282,485"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#adbbe9dbe539167ea8fec08d2d4f3ee5c" title=" " alt="" coords="669,1083,858,1110"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#acd530e17756fa7f795dd5fea56413004" title="Starts executing tasks from deferq_ of TaskEntry and TaskGroup in the temporal order." alt="" coords="656,931,871,958"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a4ac53cb337f372974dcc217fea284bfd" title="Starts executing tasks from deferq_ of a TaskEntry." alt="" coords="921,830,1075,857"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a4e5a4878bfa8dce4b18ee85762ebbd56" title="Starts executing tasks from deferq_ of a TaskGroup." alt="" coords="919,982,1077,1009"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a566e40993047d562995129ee7cd5b27f" title=" " alt="" coords="684,830,843,857"/>
+<area shape="rect" href="../../d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="691,881,835,907"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#ac00fd1b95fc5639c9fe784b7c87f618e" title="Deletes a task from deferq_." alt="" coords="1127,805,1326,831"/>
+<area shape="rect" href="../../d1/d72/classTaskGroup.html#a5a2a8cedf0b9eb9c19b1dbd8e0b23101" title="Delete task from deferq_." alt="" coords="1125,957,1328,983"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#aab57d24bf46fe3e747eb3576721594c2" title=" " alt="" coords="1138,881,1315,907"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#ac4658b599daa022c59cc1f85f96823a0" title=" " alt="" coords="1401,678,1550,705"/>
+<area shape="rect" href="../../d9/daa/classTaskEntry.html#a0a22e1c5b06a2edd312872eab4c00e63" title=" " alt="" coords="1623,654,1816,681"/>
 </map>
 </div>
 
@@ -302,7 +301,7 @@ Here is the call graph for this function:</div>
 
 <p>Method called from tbb::task to execute. Invoke Run() method of client. Supports task continuation when Run() returns false. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00345">345</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/dbd/task_8cc_source.html#l00352">352</a> of file <a class="el" href="../../dc/dbd/task_8cc_source.html">task.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">

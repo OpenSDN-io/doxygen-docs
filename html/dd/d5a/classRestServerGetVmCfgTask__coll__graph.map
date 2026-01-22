@@ -1,6 +1,6 @@
 <map id="RestServerGetVmCfgTask" name="RestServerGetVmCfgTask">
 <area shape="rect" id="node1" title=" " alt="" coords="1007,77,1185,104"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="719,5,769,32"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="719,5,769,32"/>
 <area shape="rect" id="node3" href="$de/d08/classPortIpcHandler.html" title=" " alt="" coords="331,547,441,573"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html" title=" " alt="" coords="716,1387,772,1413"/>
 <area shape="rect" id="node11" href="$d2/db9/classAgentStatsCollector.html" title=" " alt="" coords="1027,1287,1165,1313"/>

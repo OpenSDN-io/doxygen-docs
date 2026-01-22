@@ -1,7 +1,7 @@
 <map id="SessionStatsCollector::SessionTask" name="SessionStatsCollector::SessionTask">
 <area shape="rect" id="node1" title=" " alt="" coords="105,62,257,103"/>
 <area shape="rect" id="node3" href="$df/d96/classSessionStatsCollector.html" title=" " alt="" coords="2253,627,2405,653"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a wrapper over tbb::task to support policies." alt="" coords="5,532,56,559"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="5,532,56,559"/>
 <area shape="rect" id="node9" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="119,895,243,921"/>
 <area shape="rect" id="node4" href="$d1/df6/classStatsCollector.html" title=" " alt="" coords="726,677,831,704"/>
 <area shape="rect" id="node19" href="$d2/db9/classAgentStatsCollector.html" title=" " alt="" coords="1073,677,1212,704"/>

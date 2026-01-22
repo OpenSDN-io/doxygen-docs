@@ -1,5 +1,5 @@
 <map id="BgpSenderPartition::Worker::Run" name="BgpSenderPartition::Worker::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,864,140,905"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,864,140,905"/>
 <area shape="rect" id="node2" href="$d7/d93/classBgpSenderPartition.html#aa7bed314f26d88c51777b92fab3ae3ec" title=" " alt="" coords="188,864,323,905"/>
 <area shape="rect" id="node37" href="$d7/d93/classBgpSenderPartition.html#ae5fe45114928ebb1e6795f58f88b69ee" title=" " alt="" coords="387,685,522,727"/>
 <area shape="rect" id="node50" href="$d7/d93/classBgpSenderPartition.html#a18df5d697107c1f6bae547aa40a9072e" title=" " alt="" coords="188,929,323,971"/>

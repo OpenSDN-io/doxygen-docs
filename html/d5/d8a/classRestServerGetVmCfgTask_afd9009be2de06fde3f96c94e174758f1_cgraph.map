@@ -1,5 +1,5 @@
 <map id="RestServerGetVmCfgTask::Run" name="RestServerGetVmCfgTask::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,360,213,387"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,360,213,387"/>
 <area shape="rect" id="node2" href="$da/d27/structHttpSession.html#a3f990c638515a1c615ed1151b4b5e91c" title=" " alt="" coords="293,287,451,329"/>
 <area shape="rect" id="node5" href="$de/d08/classPortIpcHandler.html#ac0d16cace3b257936154532c15803b03" title=" " alt="" coords="261,187,483,213"/>
 <area shape="rect" id="node19" href="$d9/d92/namespaceREST.html#a588eb2334606dc932aa3a10416c5d01e" title=" " alt="" coords="283,419,461,445"/>

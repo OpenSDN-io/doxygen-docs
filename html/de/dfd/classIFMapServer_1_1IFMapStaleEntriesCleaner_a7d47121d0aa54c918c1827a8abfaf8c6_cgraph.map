@@ -1,5 +1,5 @@
 <map id="IFMapServer::IFMapStaleEntriesCleaner::Run" name="IFMapServer::IFMapStaleEntriesCleaner::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,811,219,853"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,811,219,853"/>
 <area shape="rect" id="node2" href="$dc/dd4/classIFMapServerTable.html#ada768a2db59d5f7600be2de2ff564b6f" title=" " alt="" coords="271,454,446,495"/>
 <area shape="rect" id="node25" href="$d5/d9c/classIFMapLinkTable.html#aa419d7344dfab4fed5b95f2bb02647b4" title=" " alt="" coords="267,575,451,601"/>
 <area shape="rect" id="node26" href="$d0/dfa/classIFMapLink.html#a90d513d18a1707f2cfe02cdc9a2eca6f" title=" " alt="" coords="537,563,676,605"/>

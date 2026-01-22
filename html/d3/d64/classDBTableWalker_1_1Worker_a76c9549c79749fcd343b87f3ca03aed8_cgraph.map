@@ -1,5 +1,5 @@
 <map id="DBTableWalker::Worker::Run" name="DBTableWalker::Worker::Run">
-<area shape="rect" id="node1" title="Code to execute. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,245,197,272"/>
+<area shape="rect" id="node1" title="Code to execute in a task. Returns true if task is completed. Return false to reschedule the task." alt="" coords="5,245,197,272"/>
 <area shape="rect" id="node2" href="$d5/d0a/classDBTable.html#a2cc4f3290d7138cfda1e03521c817840" title=" " alt="" coords="285,5,427,32"/>
 <area shape="rect" id="node3" href="$dc/d18/db__table__walker_8cc.html#a87f3db8a6cebc6d2f4470984649ccd4d" title=" " alt="" coords="301,56,411,83"/>
 <area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25" title=" " alt="" coords="245,107,467,133"/>
