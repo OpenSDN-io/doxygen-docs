@@ -1,5 +1,8 @@
 var NAVTREEINDEX182 =
 {
+"dc/d5f/classetcdserverpb_1_1DefragmentRequestDefaultTypeInternal.html":[2,0,8,47],
+"dc/d5f/classetcdserverpb_1_1DefragmentRequestDefaultTypeInternal.html#a76dd9f046319af4ed495143b025ada3d":[2,0,8,47,0],
+"dc/d5f/structVmInterfaceNovaData.html":[2,0,1803],
 "dc/d5f/structVmInterfaceNovaData.html#a0f36674461a3fdf7273c4dc3bd3496e9":[2,0,1803,11],
 "dc/d5f/structVmInterfaceNovaData.html#a24c49ed54137c8c10b9079035d9d6d8d":[2,0,1803,15],
 "dc/d5f/structVmInterfaceNovaData.html#a3b05d2d2a2d2d9a4cef02feef8fe006e":[2,0,1803,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX182 =
 "dc/d7b/classForwardingClassKSyncEntry.html#a29a35abe56dd815bdd46788a0935b603":[2,0,730,25],
 "dc/d7b/classForwardingClassKSyncEntry.html#a3c32a45b779a26f4dead7883639b651e":[2,0,730,11],
 "dc/d7b/classForwardingClassKSyncEntry.html#a4c0fd1cf76b165324c98fd53e179ac71":[2,0,730,4],
-"dc/d7b/classForwardingClassKSyncEntry.html#a4e28f3a64fc2c6e605d30ac97c489556":[2,0,730,24],
-"dc/d7b/classForwardingClassKSyncEntry.html#a502ea3b19d2d29bbef29ed903e2788f0":[2,0,730,22],
-"dc/d7b/classForwardingClassKSyncEntry.html#a61988f608f380b02386f7369fb993df2":[2,0,730,15],
-"dc/d7b/classForwardingClassKSyncEntry.html#a64011936f68618da1c96e3e90188ef8b":[2,0,730,21]
+"dc/d7b/classForwardingClassKSyncEntry.html#a4e28f3a64fc2c6e605d30ac97c489556":[2,0,730,24]
 };

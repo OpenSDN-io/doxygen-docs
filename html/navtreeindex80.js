@@ -1,5 +1,7 @@
 var NAVTREEINDEX80 =
 {
+"d5/d4b/classOvsdbClientSandesTask.html#a6b4ab0d9cc64445c2208807cf00ca68a":[2,0,1258,6],
+"d5/d4b/classOvsdbClientSandesTask.html#a7602985379f4fceefa95d157f6415a63":[2,0,1258,3],
 "d5/d4b/classOvsdbClientSandesTask.html#a873f16fde53982c2c31f18312c042767":[2,0,1258,1],
 "d5/d4b/classOvsdbClientSandesTask.html#aa0d04ae1d395a9560218cf2c05c8f392":[2,0,1258,0],
 "d5/d4b/classOvsdbClientSandesTask.html#af6cb8ad436fad07f429ef90cb30117b8":[2,0,1258,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX80 =
 "d5/d5e/classPktFlowInfo.html#aeb9254d3b8a854c9a37216fee0d99ecb":[2,0,1317,11],
 "d5/d5e/classPktFlowInfo.html#aec9919aa3beab6b49c9a9eb05d37e90d":[2,0,1317,7],
 "d5/d5e/classPktFlowInfo.html#aed7c07eb16f3f612826e5ba3643d96e1":[2,0,1317,56],
-"d5/d5e/classPktFlowInfo.html#aee878aab719da4da0cae247fb877fce2":[2,0,1317,52],
-"d5/d5e/structHealthCheckResyncInterfaceData.html":[2,0,803],
-"d5/d5e/structHealthCheckResyncInterfaceData.html#a487626afb0bc95334f8e52777bed1bda":[2,0,803,0]
+"d5/d5e/classPktFlowInfo.html#aee878aab719da4da0cae247fb877fce2":[2,0,1317,52]
 };

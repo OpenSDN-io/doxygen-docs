@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('d4/dad/agent__param_8cc_source.html','
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;}</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160; </div>
 <div class="line"><a name="l00056"></a><span class="lineno"><a class="line" href="../../dc/dd4/classAgentParam.html#a0155db47a4aeaacbfe4cb7cdcfd43649">   56</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../dc/dd4/classAgentParam.html#a0155db47a4aeaacbfe4cb7cdcfd43649">AgentParam::ParseIp</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;key, <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> *server) {</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    optional&lt;string&gt; opt_str;</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    boost::optional&lt;string&gt; opt_str;</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    <span class="keywordflow">if</span> (opt_str = tree_.get_optional&lt;<span class="keywordtype">string</span>&gt;(key)) {</div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;        <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> addr;</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;        <span class="keywordflow">if</span> (GetIpAddress(opt_str.get(), &amp;addr) == <span class="keyword">false</span>) {</div>
@@ -159,7 +159,7 @@ $(document).ready(function(){initNavTree('d4/dad/agent__param_8cc_source.html','
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160; </div>
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../dc/dd4/classAgentParam.html#a3e6781372e5d4f81a0dd4d227ffcea27">AgentParam::ParseServerList</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;key, <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> *server1,</div>
 <div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;                                 <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> *server2) {</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    optional&lt;string&gt; opt_str;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    boost::optional&lt;string&gt; opt_str;</div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> addr;</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    vector&lt;string&gt; tokens;</div>
 <div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <span class="keywordflow">if</span> (opt_str = tree_.get_optional&lt;<span class="keywordtype">string</span>&gt;(key)) {</div>
@@ -214,7 +214,7 @@ $(document).ready(function(){initNavTree('d4/dad/agent__param_8cc_source.html','
 <div class="line"><a name="l00127"></a><span class="lineno"><a class="line" href="../../dc/dd4/classAgentParam.html#a41ff2047be388e8417ba7de586c41cf6">  127</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../dc/dd4/classAgentParam.html#a3e6781372e5d4f81a0dd4d227ffcea27">AgentParam::ParseServerList</a>(<span class="keyword">const</span> std::string &amp;key,</div>
 <div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;                                 <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> *server1, uint16_t *port1,</div>
 <div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;                                 <a class="code" href="../../d9/d9b/address_8h.html#ae475599c70b47996f862faa1f265eaa2">Ip4Address</a> *server2, uint16_t *port2) {</div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    optional&lt;string&gt; opt_str;</div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    boost::optional&lt;string&gt; opt_str;</div>
 <div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;    <span class="keywordflow">if</span> (opt_str = tree_.get_optional&lt;<span class="keywordtype">string</span>&gt;(key)) {</div>
 <div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;        vector&lt;string&gt; tokens;</div>
 <div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;        boost::split(tokens, opt_str.get(), boost::is_any_of(<span class="stringliteral">&quot; \t&quot;</span>));</div>

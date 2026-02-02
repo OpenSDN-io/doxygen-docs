@@ -1,5 +1,7 @@
 var NAVTREEINDEX66 =
 {
+"d4/d85/dns__mgr_8cc.html#a52c9f3faff1641a8f1e984dcbd74820e":[3,0,360,0],
+"d4/d85/dns__mgr_8cc_source.html":[3,0,360],
 "d4/d86/xmpp__session_8h.html":[3,0,1354],
 "d4/d86/xmpp__session_8h_source.html":[3,0,1354],
 "d4/d87/bgp__server_8cc.html":[3,0,169],
@@ -247,7 +249,5 @@ var NAVTREEINDEX66 =
 "d4/da5/structDnsConfig.html#a90584b73a4df979ceeec70e90d59f711a6755c981766d0de637c94b13d86f1c71":[2,0,589,3,3],
 "d4/da5/structDnsConfig.html#a90584b73a4df979ceeec70e90d59f711ae631377ee627a6fd244554df67e3d91b":[2,0,589,3,0],
 "d4/da5/structDnsConfig.html#aa169c09a83e631e3e19bd45f028e7005":[2,0,589,2],
-"d4/da5/structDnsConfig.html#aa169c09a83e631e3e19bd45f028e7005a82be1a7b80c1113c3f95a0e2863ee530":[2,0,589,2,1],
-"d4/da5/structDnsConfig.html#aa169c09a83e631e3e19bd45f028e7005a83d5220ed1e747718345d4004e9001c0":[2,0,589,2,0],
-"d4/da5/structDnsConfig.html#aa169c09a83e631e3e19bd45f028e7005ac480cd2a8d455bcbd576b1074b78cb20":[2,0,589,2,2]
+"d4/da5/structDnsConfig.html#aa169c09a83e631e3e19bd45f028e7005a82be1a7b80c1113c3f95a0e2863ee530":[2,0,589,2,1]
 };

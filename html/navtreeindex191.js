@@ -1,5 +1,8 @@
 var NAVTREEINDEX191 =
 {
+"dc/dff/structPeerCloseManager_1_1Stats.html#acb4939243fb7819cf6d15b35db395041":[2,0,1292,1,12],
+"dc/dff/structPeerCloseManager_1_1Stats.html#acd4b2d2ed14677469cb41393960cfceb":[2,0,1292,1,5],
+"dc/dff/structPeerCloseManager_1_1Stats.html#aec6828358fdadfa4dfba94994ab50df2":[2,0,1292,1,9],
 "dc/dff/structPeerCloseManager_1_1Stats.html#af384271264dd20d56309263e77c043b4":[2,0,1292,1,8],
 "dc/dff/structPeerCloseManager_1_1Stats.html#afdcfdc0d5b2975ab2a2e25fc1c7bfc75":[2,0,1292,1,2],
 "dd/d00/unionigmp__packet__.html":[2,0,874],
@@ -246,8 +249,5 @@ var NAVTREEINDEX191 =
 "dd/d1d/classDnsAgentXmppChannelManager.html#a0d8266fa27b37081a6ee2108dc9a093f":[2,0,587,3],
 "dd/d1d/classDnsAgentXmppChannelManager.html#a30eca9cb9daa37bde8c6478d2f6d2ecd":[2,0,587,10],
 "dd/d1d/classDnsAgentXmppChannelManager.html#a431df4193a3f2bce671cd5c22af7a8b2":[2,0,587,14],
-"dd/d1d/classDnsAgentXmppChannelManager.html#a44c83651dda989ef8c7abad5d83d1d35":[2,0,587,15],
-"dd/d1d/classDnsAgentXmppChannelManager.html#a47d7872d589a8a3d2880438296cc6040":[2,0,587,16],
-"dd/d1d/classDnsAgentXmppChannelManager.html#a5c2577c9e3f018831c4f3f0e5d9b3c40":[2,0,587,7],
-"dd/d1d/classDnsAgentXmppChannelManager.html#a6909a5dbd30fb5c3dd60761f27fb4253":[2,0,587,5]
+"dd/d1d/classDnsAgentXmppChannelManager.html#a44c83651dda989ef8c7abad5d83d1d35":[2,0,587,15]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"db/d26/classBgpServer.html#a47b9c6475976fae82d1c55444a401242":[2,0,407,71],
+"db/d26/classBgpServer.html#a48b756cdfd336981e7cae20b60f788e3":[2,0,407,124],
 "db/d26/classBgpServer.html#a48cf139f97e4cea2b3757ada35125680":[2,0,407,8],
 "db/d26/classBgpServer.html#a49a5978a965a2abe2b411fab2272fe4f":[2,0,407,63],
 "db/d26/classBgpServer.html#a4a12d122ba9bd08368758d54ba9c52d3":[2,0,407,132],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "db/d29/bfd__json__config_8h.html":[3,0,78],
 "db/d29/bfd__json__config_8h_source.html":[3,0,78],
 "db/d29/structSessionEndpointKey.html":[2,0,1570],
-"db/d29/structSessionEndpointKey.html#a0f86e77504d5a2e7497eb3e926787e2f":[2,0,1570,5],
-"db/d29/structSessionEndpointKey.html#a20f68fd00400ce1da0fb0d0b458dc0ca":[2,0,1570,1],
-"db/d29/structSessionEndpointKey.html#a50bf04174275318e5036792b609f2eb5":[2,0,1570,3]
+"db/d29/structSessionEndpointKey.html#a0f86e77504d5a2e7497eb3e926787e2f":[2,0,1570,5]
 };

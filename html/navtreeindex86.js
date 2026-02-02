@@ -1,5 +1,7 @@
 var NAVTREEINDEX86 =
 {
+"d5/dab/classMvpnState.html#ad6cab9f6f922be8a38ea0ca0a52c7587":[2,0,1203,5],
+"d5/dab/classMvpnState.html#afd306e0b0a6aadc0840a912045dd5b1d":[2,0,1203,21],
 "d5/dab/classPhysicalDeviceVnTable.html":[2,0,1304],
 "d5/dab/classPhysicalDeviceVnTable.html#a0394fc1dc7c2c3b1c84b58d39ca84aac":[2,0,1304,22],
 "d5/dab/classPhysicalDeviceVnTable.html#a2c7b81087e8f10281d2eca8336b7a705":[2,0,1304,24],
@@ -247,7 +249,5 @@ var NAVTREEINDEX86 =
 "d5/dc4/bgp__session__manager_8cc.html#a2d202caf514838a1add2aac314ba481a":[3,0,173,0],
 "d5/dc4/bgp__session__manager_8cc_source.html":[3,0,173],
 "d5/dc4/classBgpPathAttributeForwardingEdgeOutAddress.html":[2,0,364],
-"d5/dc4/classBgpPathAttributeForwardingEdgeOutAddress.html#a0fb980c67479666481959efd1bd4bdca":[2,0,364,0],
-"d5/dc4/classBgpPathAttributeForwardingEdgeOutAddress.html#a608d2eca120666cc5a8bfed466449796":[2,0,364,2],
-"d5/dc4/classBgpPathAttributeForwardingEdgeOutAddress.html#abbe55138d1e51474718a194ce5d6e0de":[2,0,364,1]
+"d5/dc4/classBgpPathAttributeForwardingEdgeOutAddress.html#a0fb980c67479666481959efd1bd4bdca":[2,0,364,0]
 };

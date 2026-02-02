@@ -1,4 +1,4 @@
 var structEdgeDiscoveryCompare =
 [
-    [ "operator()", "d6/d5a/structEdgeDiscoveryCompare.html#aca379e181a97355c8fd91d2e37aeb5f7", null ]
+    [ "operator()", "d6/d5a/structEdgeDiscoveryCompare.html#a298dcf955221a6529a9838dda093bec9", null ]
 ];

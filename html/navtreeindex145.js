@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d9/dce/default__gateway_8h.html":[3,0,330],
+"d9/dce/default__gateway_8h_source.html":[3,0,330],
 "d9/dcf/ifmap__encoder_8cc.html":[3,0,532],
 "d9/dcf/ifmap__encoder_8cc_source.html":[3,0,532],
 "d9/dd0/classEvpnManagerPartition.html":[2,0,655],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d9/de6/classTagTable.html#a8054417aa40b44885906bd09b644bb42":[2,0,1688,16],
 "d9/de6/classTagTable.html#a8619ab9c0a2a4d4ddebd4eca25e0399d":[2,0,1688,11],
 "d9/de6/classTagTable.html#a9ac4e89db471f5863b8ed951e6df4648":[2,0,1688,2],
-"d9/de6/classTagTable.html#aa3ecba4b0d77b582ae30326a35a016b1":[2,0,1688,14],
-"d9/de6/classTagTable.html#aab4d025951ac084425d723dc6295f469":[2,0,1688,4],
-"d9/de6/classTagTable.html#aaf91cb580eb7994d61c7da252e4a0046":[2,0,1688,7]
+"d9/de6/classTagTable.html#aa3ecba4b0d77b582ae30326a35a016b1":[2,0,1688,14]
 };

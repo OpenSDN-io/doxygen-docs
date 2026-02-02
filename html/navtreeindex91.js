@@ -1,5 +1,7 @@
 var NAVTREEINDEX91 =
 {
+"d6/d0c/structfsm_1_1EvBgpUpdateError.html#ad7ceafc5cb20a49aa0af0266e5440ef4":[2,0,9,17,1],
+"d6/d0c/structfsm_1_1EvBgpUpdateError.html#af562962f707c9a30f7443d876bccb4bd":[2,0,9,17,4],
 "d6/d0d/classBgpOpenOptParam.html":[2,0,318],
 "d6/d0d/classBgpOpenOptParam.html#a059a0509d84596998e3609919f6208fc":[2,0,318,1],
 "d6/d0d/classBgpOpenOptParam.html#a1578b0fdd99267e87f8ec78ec8c50c87":[2,0,318,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX91 =
 "d6/d1d/classErmVpnPrefix.html#a6a4f3d320c02a1fd5a3681367cac20b4a80216fcd40fe5a0649618f0ffd76c641":[2,0,636,0,3],
 "d6/d1d/classErmVpnPrefix.html#a6a4f3d320c02a1fd5a3681367cac20b4ab31aea8edb38e4b508454da3a648eace":[2,0,636,0,2],
 "d6/d1d/classErmVpnPrefix.html#a8f299b3e5dd7fab24433add2d46f1ea4":[2,0,636,23],
-"d6/d1d/classErmVpnPrefix.html#a939a54a855e98e14871152e052296a01":[2,0,636,8],
-"d6/d1d/classErmVpnPrefix.html#a95b8985ffd40a354fd4c7fa3e5ae7ec9":[2,0,636,21],
-"d6/d1d/classErmVpnPrefix.html#aa4da990d487b733b4060240c1eb30c50":[2,0,636,11]
+"d6/d1d/classErmVpnPrefix.html#a939a54a855e98e14871152e052296a01":[2,0,636,8]
 };

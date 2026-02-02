@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d6/d7a/classVmStatDocker.html#aa69d59d1cb403ea40767525419c2291d":[2,0,1812,3],
+"d6/d7a/classVmStatDocker.html#aaaba79580af65df0e54682f2ea2117c0":[2,0,1812,9],
 "d6/d7a/classVmStatDocker.html#ab47f644e0ff986dae3211ce30cfbef90":[2,0,1812,1],
 "d6/d7a/classVmStatDocker.html#abafc869fd2c455fce4cb082a31a8aeb7":[2,0,1812,15],
 "d6/d7a/classVmStatDocker.html#ac7fed47e99fd705432e398505beb5923":[2,0,1812,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d6/d92/classauthpb_1_1Role.html#a0d42787de4d8d608d7768545717e6512":[2,0,0,5,28],
 "d6/d92/classauthpb_1_1Role.html#a1ab571e3ad529a7961dc38f226bf2b37":[2,0,0,5,7],
 "d6/d92/classauthpb_1_1Role.html#a1d346a7993b444aab82874ad06f83b56":[2,0,0,5,48],
-"d6/d92/classauthpb_1_1Role.html#a217fea360964a59e39055b80ae24c2b6":[2,0,0,5,24],
-"d6/d92/classauthpb_1_1Role.html#a222d7e3f083c4da3ce8dbfc881251882":[2,0,0,5,1],
-"d6/d92/classauthpb_1_1Role.html#a29474119af4601aa5e3b31a967a0a91c":[2,0,0,5,12]
+"d6/d92/classauthpb_1_1Role.html#a217fea360964a59e39055b80ae24c2b6":[2,0,0,5,24]
 };

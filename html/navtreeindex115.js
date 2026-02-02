@@ -1,5 +1,7 @@
 var NAVTREEINDEX115 =
 {
+"d7/db3/structStaticRouteConfig.html#a90737af4fec514933861dee30d68a396":[2,0,1629,5],
+"d7/db3/structStaticRouteConfig.html#abcbc0b7fd12131fb3a3535af42b2f422":[2,0,1629,2],
 "d7/db4/libvirt__instance__adapter_8h.html":[3,0,688],
 "d7/db4/libvirt__instance__adapter_8h_source.html":[3,0,688],
 "d7/db4/structXmlPugi_1_1xmpp__buf__write.html":[2,0,1914,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX115 =
 "d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a0b3391fb1e03c9cbe734c27b7ea53181":[2,0,8,117,35],
 "d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a183fd2fa5ff2777eca935e07b153542c":[2,0,8,117,7],
 "d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a2c65840089a48ce056ae23bd1cd1bace":[2,0,8,117,23],
-"d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a2dfef0b83d8736b80f07f4fbdb20cae3":[2,0,8,117,28],
-"d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a303b5aa404203eec8553fe9f94eb7ae9":[2,0,8,117,14],
-"d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a33f1ef3b3503724c11620025a1c5071f":[2,0,8,117,6]
+"d7/db9/classetcdserverpb_1_1MemberRemoveRequest.html#a2dfef0b83d8736b80f07f4fbdb20cae3":[2,0,8,117,28]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX126 =
 {
+"d8/d71/classt__py__generator.html#a9b58ad8a35967bc1fa70c00509aae3c4":[2,0,1668,23],
+"d8/d71/classt__py__generator.html#aa015788caccd16a4b4dce52196b6b701":[2,0,1668,40],
 "d8/d71/classt__py__generator.html#aa560facf6f186bfebd5edd8fed883959":[2,0,1668,65],
 "d8/d71/classt__py__generator.html#aa788479b7f18afe789ff680725e4b189":[2,0,1668,66],
 "d8/d71/classt__py__generator.html#aafdf12e6f854cbeff6bff8a389a9920a":[2,0,1668,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX126 =
 "d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a0ed44850192b91468a081c07da2302ef":[2,0,4,0,0,3,8],
 "d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a188248bef13cf30cd87a41b3348ae9b3":[2,0,4,0,0,3,0],
 "d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a1fe75b9b21f693f9c7c0f285f1d1859a":[2,0,4,0,0,3,6],
-"d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a37659d28bfd919a7699ad639f79cc439":[2,0,4,0,0,3,1],
-"d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a886491bd0bfc46ffc76b019a90792aaf":[2,0,4,0,0,3,2],
-"d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a8b0062571791830572ca2c9412e56f2a":[2,0,4,0,0,3,4]
+"d8/d8e/classcass_1_1cql_1_1impl_1_1CassStatementNameBinder.html#a37659d28bfd919a7699ad639f79cc439":[2,0,4,0,0,3,1]
 };

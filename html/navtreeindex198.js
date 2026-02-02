@@ -1,5 +1,8 @@
 var NAVTREEINDEX198 =
 {
+"dd/d74/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleGrantPermission.html#a546cd4e96071fe00229ae822d027b202":[2,0,8,9,41,1],
+"dd/d74/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleGrantPermission.html#a8f9713ecf4f457c4a8ce1bf2288d6197":[2,0,8,9,41,2],
+"dd/d74/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleGrantPermission.html#abae99852d671d47eb9b1dfa19d13d907":[2,0,8,9,41,4],
 "dd/d74/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__RoleGrantPermission.html#aceeda9eadb10e872bb1b66441bee8bda":[2,0,8,9,41,0],
 "dd/d74/structPhysicalDeviceDataBase.html":[2,0,1297],
 "dd/d74/structPhysicalDeviceDataBase.html#a6091aec254d6c2930c470cd861271978":[2,0,1297,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX198 =
 "dd/d91/structVmInterface_1_1StaticRoute.html#a41a82254c1e1311117574d1a88689902":[2,0,1790,21,8],
 "dd/d91/structVmInterface_1_1StaticRoute.html#a45761bede601b60c1b3d8ae9f4631cae":[2,0,1790,21,12],
 "dd/d91/structVmInterface_1_1StaticRoute.html#a51639fafd47563ccb9f37ad02d2096ca":[2,0,1790,21,7],
-"dd/d91/structVmInterface_1_1StaticRoute.html#a590928769ae186e54102f27e531c32f1":[2,0,1790,21,9],
-"dd/d91/structVmInterface_1_1StaticRoute.html#a5a8690e86443438f8aff7e6eac8c5fec":[2,0,1790,21,14],
-"dd/d91/structVmInterface_1_1StaticRoute.html#a5e0ee4dfbe3b507f232319c66488e5a4":[2,0,1790,21,5],
-"dd/d91/structVmInterface_1_1StaticRoute.html#a646898f0fc2187f93ff153cd5215eb05":[2,0,1790,21,3]
+"dd/d91/structVmInterface_1_1StaticRoute.html#a590928769ae186e54102f27e531c32f1":[2,0,1790,21,9]
 };

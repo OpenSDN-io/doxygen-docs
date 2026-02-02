@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a203a4251e9e694742dd187ccb32ba590":[2,0,8,145,42],
+"d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2092fa518675f25ae16d61a53c66c39d":[2,0,8,145,47],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2193cf5e0ecc067850090274747d4e26":[2,0,8,145,62],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a28eecb4d2c58f4d1c6b7a6321f4c9352":[2,0,8,145,15],
 "d9/d1f/classetcdserverpb_1_1AuthRoleRevokePermissionRequest.html#a2af52aa0e65769b8e70427d8941dfacb":[2,0,8,145,56],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#acbf14d5239448490e1f2508fab80b3f1":[2,0,8,9,17,4],
 "d9/d29/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserList.html#ad1e8a191e76ef61a270fe0936caa7de5":[2,0,8,9,17,3],
 "d9/d29/io__log_8h.html":[3,0,634],
-"d9/d29/io__log_8h.html#a033f7f9486a7124856a4950c3b1e9e2a":[3,0,634,11],
-"d9/d29/io__log_8h.html#a04aa55c763394f4685092527be414486":[3,0,634,17],
-"d9/d29/io__log_8h.html#a06a89c92bc1280ecdc70c2466bbfbdd4":[3,0,634,36]
+"d9/d29/io__log_8h.html#a033f7f9486a7124856a4950c3b1e9e2a":[3,0,634,11]
 };

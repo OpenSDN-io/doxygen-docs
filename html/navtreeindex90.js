@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d5/dfd/structAs4PathSpec.html#a1593a6e99d161b38f481453f778398b6":[2,0,199,9],
+"d5/dfd/structAs4PathSpec.html#a2b2c475a6890d6f394a20c6cab78b102":[2,0,199,4],
 "d5/dfd/structAs4PathSpec.html#a323b109b3107cfc46a5e814bb45867fe":[2,0,199,23],
 "d5/dfd/structAs4PathSpec.html#a4ab6c8efcf5fb638f51290d29de4fd64":[2,0,199,24],
 "d5/dfd/structAs4PathSpec.html#a5439ec5404da86c18fdc6127777340b2":[2,0,199,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d0c/structfsm_1_1EvBgpUpdateError.html":[2,0,9,17],
 "d6/d0c/structfsm_1_1EvBgpUpdateError.html#a35fcd921b97c22046b8da6821ac042c2":[2,0,9,17,2],
 "d6/d0c/structfsm_1_1EvBgpUpdateError.html#ab777165f2dfd5512784431b30f7f23b7":[2,0,9,17,0],
-"d6/d0c/structfsm_1_1EvBgpUpdateError.html#ad5e2ddcdae689e30b530813b6eeb4300":[2,0,9,17,3],
-"d6/d0c/structfsm_1_1EvBgpUpdateError.html#ad7ceafc5cb20a49aa0af0266e5440ef4":[2,0,9,17,1],
-"d6/d0c/structfsm_1_1EvBgpUpdateError.html#af562962f707c9a30f7443d876bccb4bd":[2,0,9,17,4]
+"d6/d0c/structfsm_1_1EvBgpUpdateError.html#ad5e2ddcdae689e30b530813b6eeb4300":[2,0,9,17,3]
 };

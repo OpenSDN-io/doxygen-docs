@@ -18,6 +18,8 @@ var classAgentUveBase =
     [ "interface_uve_table", "d4/d59/classAgentUveBase.html#a6cbbd075985866503943fc8e683f2577", null ],
     [ "prouter_uve_table", "d4/d59/classAgentUveBase.html#a0eac61e83a9240fb2c959564179232e1", null ],
     [ "RegisterDBClients", "d4/d59/classAgentUveBase.html#a2f268819aa2222ad286ff3ccffa6dc22", null ],
+    [ "set_default_interval", "d4/d59/classAgentUveBase.html#a9520af5155bae642fdd60eeaa3dfc84f", null ],
+    [ "set_incremental_interval", "d4/d59/classAgentUveBase.html#a6e15670b29e8d105a931b586d3c791c4", null ],
     [ "Shutdown", "d4/d59/classAgentUveBase.html#ac1e5429d23386ca2997a47a8bfdfb02a", null ],
     [ "UpdateMessage", "d4/d59/classAgentUveBase.html#a9caaea0fac3754ebe0592709ee7fdba5", null ],
     [ "vm_uve_table", "d4/d59/classAgentUveBase.html#ad394a3c59c0f1ab1e2a65a97858158fb", null ],
