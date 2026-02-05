@@ -398,7 +398,7 @@ var classVmInterface =
     [ "fatflow_ignore_addr_map_", "d5/d21/classVmInterface.html#afc3a9043afd9e9b37e95b55eb560a845", null ],
     [ "floating_ip_list_", "d5/d21/classVmInterface.html#a95514f2c6ed9f41ca3ebeaabc2ffabf2", null ],
     [ "flood_unknown_unicast_", "d5/d21/classVmInterface.html#a2af12b46a3d1e6b55f3934a00f05798b", null ],
-    [ "flow_count_", "d5/d21/classVmInterface.html#acdbec042faf86c3569379c43622210e1", null ],
+    [ "flow_count_", "d5/d21/classVmInterface.html#a71cb98f67f6be26578124d7bed2e567e", null ],
     [ "forwarding_vrf_", "d5/d21/classVmInterface.html#a35c4a77b8894ca21db4fe20a38df964d", null ],
     [ "fw_policy_list_", "d5/d21/classVmInterface.html#a063c4aa49b071a2182a65540ec226732", null ],
     [ "fwaas_fw_policy_list_", "d5/d21/classVmInterface.html#a0a506af86c07c56d94431c96d0372db7", null ],

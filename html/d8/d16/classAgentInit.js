@@ -62,7 +62,7 @@ var classAgentInit =
     [ "set_agent_param", "d8/d16/classAgentInit.html#a64d893566840753ceb5e18cce14b8f45", null ],
     [ "SetResourceManagerReady", "d8/d16/classAgentInit.html#aadffb8c2c4ca5f2c59fc1a6aacc16666", null ],
     [ "Shutdown", "d8/d16/classAgentInit.html#a5f8eedd65b8e079b89f85f82b149c81f", null ],
-    [ "Start", "d8/d16/classAgentInit.html#ac8a07c68e6c8d097361b91df7441aa36", null ],
+    [ "Start", "d8/d16/classAgentInit.html#aeb23b417025ed5ecd0e275bfa4f16df6", null ],
     [ "StatsCollectorShutdown", "d8/d16/classAgentInit.html#a5891407411881f8fbe01287d5d7ce72d", null ],
     [ "StatsCollectorShutdownBase", "d8/d16/classAgentInit.html#ab91b2b385e23db0570a6e3c8a209412d", null ],
     [ "UveShutdown", "d8/d16/classAgentInit.html#af68e6d4d69d3c67cdb0c8ee663564c04", null ],

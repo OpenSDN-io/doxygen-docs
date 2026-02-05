@@ -12,5 +12,5 @@ var classAgentRefCount =
     [ "intrusive_ptr_release", "d5/d7f/classAgentRefCount.html#a9b89c4c23fcfcbb4efdf2cf466d0820a", null ],
     [ "back_ref_mutex_", "d5/d7f/classAgentRefCount.html#ac04f5b4511a559b6fdee8e6d2a467860", null ],
     [ "back_ref_set_", "d5/d7f/classAgentRefCount.html#ac1d61cf5095091155a6da9116aeb3d89", null ],
-    [ "refcount_", "d5/d7f/classAgentRefCount.html#ae36957a70b2bac237e3dd4434c8d29b7", null ]
+    [ "refcount_", "d5/d7f/classAgentRefCount.html#a9cb27de5648ef4f31e9eeaebef7d8830", null ]
 ];

@@ -27,9 +27,9 @@ var classKSyncTxQueue =
     [ "max_queue_len_", "d7/dbd/classKSyncTxQueue.html#a893b9e97e0b0a6c7b15dae61f6cd02c5", null ],
     [ "measure_busy_time_", "d7/dbd/classKSyncTxQueue.html#a87b74e19495ecc4df41b0c80516805ea", null ],
     [ "queue_", "d7/dbd/classKSyncTxQueue.html#a7d2735fb57249c9d7dd0223e09cbfd81", null ],
-    [ "queue_len_", "d7/dbd/classKSyncTxQueue.html#ad04abbc447cf0a6cf79293ee2ef88e16", null ],
+    [ "queue_len_", "d7/dbd/classKSyncTxQueue.html#afb16ab18764ea6690889961967ed7f07", null ],
     [ "read_events_", "d7/dbd/classKSyncTxQueue.html#a4999d7a6186793f0d48ca040aaa1533d", null ],
-    [ "shutdown_", "d7/dbd/classKSyncTxQueue.html#acd6c735c3c3ca451867f0fa3dcb76f17", null ],
+    [ "shutdown_", "d7/dbd/classKSyncTxQueue.html#a2b3249ab32aa01829078819e0e16d889", null ],
     [ "sock_", "d7/dbd/classKSyncTxQueue.html#a1cd1adfa6bc0e692a45dc4c6db9f8aa7", null ],
     [ "work_queue_", "d7/dbd/classKSyncTxQueue.html#aaa94baf203a051447b9354d203f78c7e", null ],
     [ "write_events_", "d7/dbd/classKSyncTxQueue.html#ad92998d94d5f64585c6409458e5ca5c2", null ]

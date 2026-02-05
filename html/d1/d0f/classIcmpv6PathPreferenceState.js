@@ -27,7 +27,7 @@ var classIcmpv6PathPreferenceState =
     [ "mac_", "d1/d0f/classIcmpv6PathPreferenceState.html#a740f2a9b3f5003c8e1df957e29cf127b", null ],
     [ "ns_req_timer_", "d1/d0f/classIcmpv6PathPreferenceState.html#a0a4dfcd60427b8227ff59581f5713f22", null ],
     [ "plen_", "d1/d0f/classIcmpv6PathPreferenceState.html#a7b38cf9071a1de86e75d2634ba3c002f", null ],
-    [ "refcount_", "d1/d0f/classIcmpv6PathPreferenceState.html#a1b6a0e7aa7b5ae3cd2b6be8482eba15a", null ],
+    [ "refcount_", "d1/d0f/classIcmpv6PathPreferenceState.html#aa7b761f2e6aa2e77cdf1e47a48634e58", null ],
     [ "svc_ip_", "d1/d0f/classIcmpv6PathPreferenceState.html#af3102328d9173b3f9cf53b89356aaae5", null ],
     [ "vm_ip_", "d1/d0f/classIcmpv6PathPreferenceState.html#af0e7b95c6e247b1cc3b4909a1eb2ece5", null ],
     [ "vrf_id_", "d1/d0f/classIcmpv6PathPreferenceState.html#a0b88057d8e516d525c08b9d2b057bc37", null ],

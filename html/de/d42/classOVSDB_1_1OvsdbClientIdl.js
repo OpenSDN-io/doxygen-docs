@@ -96,7 +96,7 @@ var classOVSDB_1_1OvsdbClientIdl =
     [ "physical_port_table_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#aeec4d4638349183cbd67b13f1ed73f4c", null ],
     [ "physical_switch_table_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#a639455388fc1a9268550c9da3ef2f7b2", null ],
     [ "receive_queue_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#a3b8f4e69c1df0ae9cae101dabd09afbd", null ],
-    [ "refcount_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#aea170d01c7841087e6d1fca187d2e658", null ],
+    [ "refcount_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#a4ee8835c6ad322fdb278fd68ad6246ca", null ],
     [ "route_peer_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#a5dbd06b5721486ae2bc0e08c3249fbde", null ],
     [ "session_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#a52bbcfdd915255326ced50d174b02f52", null ],
     [ "stats_", "de/d42/classOVSDB_1_1OvsdbClientIdl.html#af3f339192b19678196e43884fa7680e3", null ],

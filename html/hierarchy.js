@@ -2425,6 +2425,7 @@ var hierarchy =
     [ "LoadBalance", "db/d21/classLoadBalance.html", null ],
     [ "LoadBalance::LoadBalanceAttribute", "d2/de1/structLoadBalance_1_1LoadBalanceAttribute.html", null ],
     [ "LocalSequenceNumber", "de/d83/classLocalSequenceNumber.html", null ],
+    [ "Logging", "d1/d2e/classLogging.html", null ],
     [ "ProuterUveTable::LogicalInterfaceUveEntry", "d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html", null ],
     [ "contrail::sandesh::protocol::TJSONProtocol::LookaheadReader", "df/db3/classcontrail_1_1sandesh_1_1protocol_1_1TJSONProtocol_1_1LookaheadReader.html", null ],
     [ "contrail::sandesh::protocol::TXMLProtocol::LookaheadReader", "d7/db7/classcontrail_1_1sandesh_1_1protocol_1_1TXMLProtocol_1_1LookaheadReader.html", null ],

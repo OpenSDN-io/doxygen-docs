@@ -18,5 +18,5 @@ var classTokenPool =
     [ "name_", "d3/d17/classTokenPool.html#acc5c75cb0564c32dfb3d02bf1a6d8cb7", null ],
     [ "proto_", "d3/d17/classTokenPool.html#a65c88c3c0962ad2f5c796425f320f6f4", null ],
     [ "restarts_", "d3/d17/classTokenPool.html#a36fbedd2ebdf4856d6f08c0702f89a4c", null ],
-    [ "token_count_", "d3/d17/classTokenPool.html#a51d3951a035b712ff3938a051e6a4f0f", null ]
+    [ "token_count_", "d3/d17/classTokenPool.html#a951416117e5892c797c17d4133349a45", null ]
 ];

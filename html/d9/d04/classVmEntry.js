@@ -21,9 +21,9 @@ var classVmEntry =
     [ "update_linklocal_flow_count", "d9/d04/classVmEntry.html#a1ab0b1be8e980abdd1a4d1b924cc0eee", null ],
     [ "VmTable", "d9/d04/classVmEntry.html#ae39f742000150efe913cb0a3daf53daa", null ],
     [ "drop_new_flows_", "d9/d04/classVmEntry.html#ad4f3b8c073a61757e10cd9d02020fbaa", null ],
-    [ "flow_count_", "d9/d04/classVmEntry.html#a843fcc31b7b5d120a8eb6e362e6e389a", null ],
+    [ "flow_count_", "d9/d04/classVmEntry.html#a5ced3b9a1ffc201e4de9fb119677db1a", null ],
     [ "kVectorIncreaseSize", "d9/d04/classVmEntry.html#af46cf429aceca5c7791f956402f65850", null ],
-    [ "linklocal_flow_count_", "d9/d04/classVmEntry.html#ac4dd7b9823a574bfa136524c0b800517", null ],
+    [ "linklocal_flow_count_", "d9/d04/classVmEntry.html#aa0ba3a03001781b0a12038652a4c25ef", null ],
     [ "name_", "d9/d04/classVmEntry.html#a05d4ba7a3822d353333bc8ad2ee4ef59", null ],
     [ "uuid_", "d9/d04/classVmEntry.html#a5e437fcf71acec49835ec80888da62be", null ]
 ];

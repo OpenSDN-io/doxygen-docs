@@ -79,7 +79,7 @@ var classKSyncEntry =
     [ "kDefaultMsgSize", "dc/df2/classKSyncEntry.html#aa8ad6244800ba6a6cc129afba36504de", null ],
     [ "kInvalidIndex", "dc/df2/classKSyncEntry.html#ae20374fae18d4d99df91793fddead8df", null ],
     [ "node_", "dc/df2/classKSyncEntry.html#a04d253f32d2c0323d4e7e80d7f3f3b59", null ],
-    [ "refcount_", "dc/df2/classKSyncEntry.html#a1568ca4fb8a7174a04e5af29092d99d7", null ],
+    [ "refcount_", "dc/df2/classKSyncEntry.html#ad5fb237c524b7ae0ce42f7061e932d61", null ],
     [ "seen_", "dc/df2/classKSyncEntry.html#a7f69c8321dec6ddb6edec2691d22a3c3", null ],
     [ "stale_", "dc/df2/classKSyncEntry.html#afcca91d65ba35d1e6e2273a46fa67ba5", null ],
     [ "state_", "dc/df2/classKSyncEntry.html#ac4a44cb67431b7acd2b9e8938726c0b0", null ],

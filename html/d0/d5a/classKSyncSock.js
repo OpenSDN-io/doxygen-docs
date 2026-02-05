@@ -89,14 +89,14 @@ var classKSyncSock =
     [ "rx_buff_", "d0/d5a/classKSyncSock.html#aa9caf4fc5d4306e40495360abb2dd9ae", null ],
     [ "rx_process_queue_", "d0/d5a/classKSyncSock.html#a8e4d8b60b440aa07f6f86e350443f531", null ],
     [ "send_queue_", "d0/d5a/classKSyncSock.html#ac0f6d05aab6997f5089f08b4716971f2", null ],
-    [ "seqno_", "d0/d5a/classKSyncSock.html#a6b0d61f9b66a7b2a94cf36f74cc7a43f", null ],
-    [ "shutdown_", "d0/d5a/classKSyncSock.html#aa520b4a9f205cde6085bd1bc2c95c0df", null ],
+    [ "seqno_", "d0/d5a/classKSyncSock.html#a3baea12c20159e0295b1853ac95128d8", null ],
+    [ "shutdown_", "d0/d5a/classKSyncSock.html#afe51d64cf1e2eda545d729abfacf548f", null ],
     [ "sock_", "d0/d5a/classKSyncSock.html#a0549c49927d62fdf6fbc679f4fd4b2d2", null ],
     [ "tx_count_", "d0/d5a/classKSyncSock.html#aefb5001a491b8417e0b4cd89ab08e29a", null ],
     [ "use_wait_tree_", "d0/d5a/classKSyncSock.html#acffe84e0b88a7e9986040a9a268b0312", null ],
     [ "uve_bulk_sandesh_context_", "d0/d5a/classKSyncSock.html#a8d6e84c2e5929d1883e7b252801231fe", null ],
     [ "uve_rx_queue", "d0/d5a/classKSyncSock.html#ad703c8a46fa1585235f4628565b52b56", null ],
-    [ "uve_seqno_", "d0/d5a/classKSyncSock.html#aeba8ed67b55fe75dd193548724b29c85", null ],
+    [ "uve_seqno_", "d0/d5a/classKSyncSock.html#a4707435ab1d6dc63c59c9b60f475034f", null ],
     [ "vnsw_netlink_family_id_", "d0/d5a/classKSyncSock.html#aef5e224038a0b7b687d61ab096138a7c", null ],
     [ "wait_tree_", "d0/d5a/classKSyncSock.html#ab08e5791f951613f83bd4debcb47a48e", null ]
 ];

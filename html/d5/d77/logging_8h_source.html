@@ -99,57 +99,86 @@ $(document).ready(function(){initNavTree('d5/d77/logging_8h_source.html','../../
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160; </div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &lt;log4cplus/logger.h&gt;</span></div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="preprocessor">#include &lt;log4cplus/loggingmacros.h&gt;</span></div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#pragma clang diagnostic pop</span></div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#pragma clang diagnostic push</span></div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="preprocessor">#pragma clang diagnostic ignored &quot;-Wmismatched-tags&quot;</span></div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="preprocessor">#include &lt;boost/units/detail/utility.hpp&gt;</span></div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160; </div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor">#pragma clang diagnostic pop</span></div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
-<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a0641af2a9ac55c813f2961c4b9d48619">   31</a></span>&#160;<span class="preprocessor">#define TYPE_NAME(_type) boost::units::detail::demangle(typeid(_type).name())</span></div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160; </div>
-<div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">   33</a></span>&#160;<span class="preprocessor">#define LOG(_Level, _Msg)                                        \</span></div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="preprocessor">    do {                                                         \</span></div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor">        if (LoggingDisabled()) break;                            \</span></div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="preprocessor">        log4cplus::Logger logger = log4cplus::Logger::getRoot(); \</span></div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">        LOG4CPLUS_##_Level(logger, _Msg);                        \</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">    } while (0)</span></div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160; </div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>();</div>
-<div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a8f7e969a4a7f0e0ee4ded351eef84263">   41</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>(<span class="keyword">const</span> std::string &amp;filename,</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;                 <span class="keywordtype">long</span> maxFileSize,</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                 <span class="keywordtype">int</span> maxBackupIndex,</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;                 <span class="keywordtype">bool</span> useSyslog,</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;                 <span class="keyword">const</span> std::string &amp;syslogFacility,</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                 <span class="keyword">const</span> std::string &amp;ident,</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                 log4cplus::LogLevel logLevel);</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#include &lt;log4cplus/initializer.h&gt;</span></div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="preprocessor">#pragma clang diagnostic pop</span></div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="preprocessor">#pragma clang diagnostic push</span></div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#pragma clang diagnostic ignored &quot;-Wmismatched-tags&quot;</span></div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="preprocessor">#include &lt;boost/units/detail/utility.hpp&gt;</span></div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor">#ifdef __clang__</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="preprocessor">#pragma clang diagnostic pop</span></div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160; </div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a0641af2a9ac55c813f2961c4b9d48619">   32</a></span>&#160;<span class="preprocessor">#define TYPE_NAME(_type) boost::units::detail::demangle(typeid(_type).name())</span></div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160; </div>
+<div class="line"><a name="l00034"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">   34</a></span>&#160;<span class="preprocessor">#define LOG(_Level, _Msg)                                        \</span></div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor">    do {                                                         \</span></div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="preprocessor">        if (LoggingDisabled()) break;                            \</span></div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">        log4cplus::Logger logger = log4cplus::Logger::getRoot(); \</span></div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">        LOG4CPLUS_##_Level(logger, _Msg);                        \</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor">    } while (0)</span></div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
+<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="../../d1/d2e/classLogging.html">   43</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d1/d2e/classLogging.html">Logging</a> {</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160; </div>
+<div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="../../d1/d2e/classLogging.html#a8ce4a9271347b2602bba9e8d4dbe9667">   47</a></span>&#160;    log4cplus::Initializer <a class="code" href="../../d1/d2e/classLogging.html#a8ce4a9271347b2602bba9e8d4dbe9667">initializer_</a>;</div>
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>(<span class="keyword">const</span> std::string &amp;propertyFile);</div>
-<div class="line"><a name="l00050"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a142d49530fe67cac65691a6ba5efa93e">   50</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a142d49530fe67cac65691a6ba5efa93e">SetLoggingLevel</a>(log4cplus::LogLevel logLevel);</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d5/d77/logging_8h.html#ae32ab6b38244d05548519b2366d5d231">LoggingUseSyslog</a>();</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160; </div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="comment">// Disable logging - For testing purposes only</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a>();</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#af4aab8109ddaa8b2699b74aa88382eca">SetLoggingDisabled</a>(<span class="keywordtype">bool</span> flag);</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a644013cf17021077006c9412c03602de">SetUseSysLog</a>(<span class="keywordtype">bool</span>); <span class="comment">// To be used only for testing</span></div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor">#endif </span><span class="comment">/* __LOGGING_H__ */</span><span class="preprocessor"></span></div>
-<div class="ttc" id="alogging_8h_html_a02138ba3dcc3a4cb3bbcce09f22016d0"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a></div><div class="ttdeci">bool LoggingDisabled()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00024">logging.cc:24</a></div></div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160; </div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="../../d1/d2e/classLogging.html#acc3d848a3d05076fd185cd95e9c648d5">Logging</a>();</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160; </div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <a class="code" href="../../d1/d2e/classLogging.html#af6a0971121f5b0d9d6ebfb4e69b20a4d">~Logging</a>();</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160; </div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="../../d1/d2e/classLogging.html#a1abc9accbd1b01422eb65126f778aa24">Init</a>();</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="../../d1/d2e/classLogging.html#a1abc9accbd1b01422eb65126f778aa24">Init</a>(<span class="keyword">const</span> std::string &amp;filename,</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;              <span class="keywordtype">long</span> maxFileSize,</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;              <span class="keywordtype">int</span> maxBackupIndex,</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;              <span class="keywordtype">bool</span> useSyslog,</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;              <span class="keyword">const</span> std::string &amp;syslogFacility,</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;              <span class="keyword">const</span> std::string &amp;ident,</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;              log4cplus::LogLevel logLevel);</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160; </div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="../../d1/d2e/classLogging.html#a1abc9accbd1b01422eb65126f778aa24">Init</a>(<span class="keyword">const</span> std::string &amp;propertyFile);</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;};</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160; </div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>();</div>
+<div class="line"><a name="l00080"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a8f7e969a4a7f0e0ee4ded351eef84263">   80</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>(<span class="keyword">const</span> std::string &amp;filename,</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;                 <span class="keywordtype">long</span> maxFileSize,</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;                 <span class="keywordtype">int</span> maxBackupIndex,</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;                 <span class="keywordtype">bool</span> useSyslog,</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;                 <span class="keyword">const</span> std::string &amp;syslogFacility,</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;                 <span class="keyword">const</span> std::string &amp;ident,</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                 log4cplus::LogLevel logLevel);</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160; </div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>(<span class="keyword">const</span> std::string &amp;propertyFile);</div>
+<div class="line"><a name="l00089"></a><span class="lineno"><a class="line" href="../../d5/d77/logging_8h.html#a142d49530fe67cac65691a6ba5efa93e">   89</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a142d49530fe67cac65691a6ba5efa93e">SetLoggingLevel</a>(log4cplus::LogLevel logLevel);</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d5/d77/logging_8h.html#ae32ab6b38244d05548519b2366d5d231">LoggingUseSyslog</a>();</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160; </div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="comment">//</span></div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;<span class="comment">// Disable logging - For testing purposes only</span></div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="comment">//</span></div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a>();</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#af4aab8109ddaa8b2699b74aa88382eca">SetLoggingDisabled</a>(<span class="keywordtype">bool</span> flag);</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/d77/logging_8h.html#a644013cf17021077006c9412c03602de">SetUseSysLog</a>(<span class="keywordtype">bool</span>); <span class="comment">// To be used only for testing</span></div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;<span class="preprocessor">#endif </span><span class="comment">/* __LOGGING_H__ */</span><span class="preprocessor"></span></div>
+<div class="ttc" id="aclassLogging_html"><div class="ttname"><a href="../../d1/d2e/classLogging.html">Logging</a></div><div class="ttdoc">A class providing basic control over logging capabilities in OpenSDN control plane.</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00043">logging.h:43</a></div></div>
+<div class="ttc" id="aclassLogging_html_a1abc9accbd1b01422eb65126f778aa24"><div class="ttname"><a href="../../d1/d2e/classLogging.html#a1abc9accbd1b01422eb65126f778aa24">Logging::Init</a></div><div class="ttdeci">void Init()</div><div class="ttdoc">Performs basic initialization of the logging system ( log4cplus).</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00031">logging.cc:31</a></div></div>
+<div class="ttc" id="aclassLogging_html_a8ce4a9271347b2602bba9e8d4dbe9667"><div class="ttname"><a href="../../d1/d2e/classLogging.html#a8ce4a9271347b2602bba9e8d4dbe9667">Logging::initializer_</a></div><div class="ttdeci">log4cplus::Initializer initializer_</div><div class="ttdoc">A log4cplus object to maintain multi- and singlethreaded execution of the logging library.</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00047">logging.h:47</a></div></div>
+<div class="ttc" id="aclassLogging_html_acc3d848a3d05076fd185cd95e9c648d5"><div class="ttname"><a href="../../d1/d2e/classLogging.html#acc3d848a3d05076fd185cd95e9c648d5">Logging::Logging</a></div><div class="ttdeci">Logging()</div><div class="ttdoc">Prepares log4cplus library for execution. Uses RAII to free resources after the completion of the pro...</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00024">logging.cc:24</a></div></div>
+<div class="ttc" id="aclassLogging_html_af6a0971121f5b0d9d6ebfb4e69b20a4d"><div class="ttname"><a href="../../d1/d2e/classLogging.html#af6a0971121f5b0d9d6ebfb4e69b20a4d">Logging::~Logging</a></div><div class="ttdeci">~Logging()</div><div class="ttdoc">Destroys the object and shutdowns the logging system.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00028">logging.cc:28</a></div></div>
+<div class="ttc" id="alogging_8h_html_a02138ba3dcc3a4cb3bbcce09f22016d0"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a></div><div class="ttdeci">bool LoggingDisabled()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00055">logging.cc:55</a></div></div>
 <div class="ttc" id="alogging_8h_html_a142d49530fe67cac65691a6ba5efa93e"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a142d49530fe67cac65691a6ba5efa93e">SetLoggingLevel</a></div><div class="ttdeci">void SetLoggingLevel(log4cplus::LogLevel logLevel)</div></div>
-<div class="ttc" id="alogging_8h_html_a644013cf17021077006c9412c03602de"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a644013cf17021077006c9412c03602de">SetUseSysLog</a></div><div class="ttdeci">void SetUseSysLog(bool)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00036">logging.cc:36</a></div></div>
-<div class="ttc" id="alogging_8h_html_a9df4321487e056f0344c281df8db1bac"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a></div><div class="ttdeci">void LoggingInit()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00051">logging.cc:51</a></div></div>
-<div class="ttc" id="alogging_8h_html_ae32ab6b38244d05548519b2366d5d231"><div class="ttname"><a href="../../d5/d77/logging_8h.html#ae32ab6b38244d05548519b2366d5d231">LoggingUseSyslog</a></div><div class="ttdeci">bool LoggingUseSyslog()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00032">logging.cc:32</a></div></div>
-<div class="ttc" id="alogging_8h_html_af4aab8109ddaa8b2699b74aa88382eca"><div class="ttname"><a href="../../d5/d77/logging_8h.html#af4aab8109ddaa8b2699b74aa88382eca">SetLoggingDisabled</a></div><div class="ttdeci">void SetLoggingDisabled(bool flag)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00028">logging.cc:28</a></div></div>
+<div class="ttc" id="alogging_8h_html_a644013cf17021077006c9412c03602de"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a644013cf17021077006c9412c03602de">SetUseSysLog</a></div><div class="ttdeci">void SetUseSysLog(bool)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00067">logging.cc:67</a></div></div>
+<div class="ttc" id="alogging_8h_html_a9df4321487e056f0344c281df8db1bac"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a></div><div class="ttdeci">void LoggingInit()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00082">logging.cc:82</a></div></div>
+<div class="ttc" id="alogging_8h_html_ae32ab6b38244d05548519b2366d5d231"><div class="ttname"><a href="../../d5/d77/logging_8h.html#ae32ab6b38244d05548519b2366d5d231">LoggingUseSyslog</a></div><div class="ttdeci">bool LoggingUseSyslog()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00063">logging.cc:63</a></div></div>
+<div class="ttc" id="alogging_8h_html_af4aab8109ddaa8b2699b74aa88382eca"><div class="ttname"><a href="../../d5/d77/logging_8h.html#af4aab8109ddaa8b2699b74aa88382eca">SetLoggingDisabled</a></div><div class="ttdeci">void SetLoggingDisabled(bool flag)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00059">logging.cc:59</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

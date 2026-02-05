@@ -102,64 +102,65 @@ $(document).ready(function(){initNavTree('d7/da8/controller_2src_2vnsw_2agent_2o
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keywordtype">int</span> main(<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span> *argv[]) {</div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <a class="code" href="../../d5/d1c/classTorAgentParam.html">TorAgentParam</a> params;</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keywordflow">try</span> {</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="comment">// Add ToR speicific options</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        params.<a class="code" href="../../d5/d1c/classTorAgentParam.html#ad3c399d24e6369973776f792d0e5f901">AddOptions</a>();</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        params.<a class="code" href="../../dc/dd4/classAgentParam.html#ab89d21ac42c523d98c86003f15efe005">ParseArguments</a>(argc, argv);</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    } <span class="keywordflow">catch</span> (...) {</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid arguments&quot;</span>;</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        cout &lt;&lt; params.<a class="code" href="../../dc/dd4/classAgentParam.html#a98b652fedc53bb454ff9a6a16c4ce836">options</a>() &lt;&lt; endl;</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        exit(0);</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    }</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160; </div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    opt::variables_map var_map = params.<a class="code" href="../../dc/dd4/classAgentParam.html#a471c7eb37653488d8a727f40afe0ec4a">var_map</a>();</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;help&quot;</span>)) {</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        cout &lt;&lt; params.<a class="code" href="../../dc/dd4/classAgentParam.html#a98b652fedc53bb454ff9a6a16c4ce836">options</a>() &lt;&lt; endl;</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        exit(0);</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    }</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160; </div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;version&quot;</span>)) {</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        cout &lt;&lt; <a class="code" href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a> &lt;&lt; endl;</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;        exit(0);</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    }</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160; </div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keywordtype">string</span> init_file = <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;config_file&quot;</span>)) {</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        init_file = var_map[<span class="stringliteral">&quot;config_file&quot;</span>].as&lt;<span class="keywordtype">string</span>&gt;();</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        <span class="keyword">struct </span>stat s;</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        <span class="keywordflow">if</span> (stat(init_file.c_str(), &amp;s) != 0) {</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;            <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(ERROR, <span class="stringliteral">&quot;Error opening config file &lt;&quot;</span> &lt;&lt; init_file</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                &lt;&lt; <span class="stringliteral">&quot;&gt;. Error number &lt;&quot;</span> &lt;&lt; errno &lt;&lt; <span class="stringliteral">&quot;&gt;&quot;</span>);</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;            exit(EINVAL);</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        }</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    }</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160; </div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    <span class="comment">// Read agent parameters from config file and arguments</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    params.<a class="code" href="../../dc/dd4/classAgentParam.html#acff915f9b79f1beb47dec58be5972f1e">Init</a>(init_file, argv[0]);</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160; </div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <span class="comment">// Initialize TBB</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="comment">// Call to GetScheduler::GetInstance() will also create Task Scheduler</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <a class="code" href="../../df/ddc/classTaskScheduler.html#a7dcf5cca13e496904f68a5d8ba6fbaf4">TaskScheduler::Initialize</a>(params.<a class="code" href="../../dc/dd4/classAgentParam.html#ae3eba8a8209e036af94b8693ff8963bd">tbb_thread_count</a>());</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160; </div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    <span class="comment">// Initialize the agent-init control class</span></div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <a class="code" href="../../d0/d92/classTorAgentInit.html">TorAgentInit</a> <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>;</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <a class="code" href="../../d8/dfe/classAgent.html">Agent</a> *agent = <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.agent();</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.set_agent_param(&amp;params);</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    agent-&gt;<a class="code" href="../../d8/dfe/classAgent.html#a538861c3e43ca9562cefe2ce2e74a423">set_agent_init</a>(&amp;<a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>);</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160; </div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <a class="code" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a>(<a class="code" href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a>, Category::VROUTER);</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160; </div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="comment">// kick start initialization</span></div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="keywordtype">int</span> ret = 0;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">if</span> ((ret = <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.Start()) != 0) {</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        <span class="keywordflow">return</span> ret;</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    }</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160; </div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    agent-&gt;<a class="code" href="../../d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17">event_manager</a>()-&gt;<a class="code" href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">Run</a>();</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160; </div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;}</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <a class="code" href="../../d1/d2e/classLogging.html">Logging</a> logging;</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordflow">try</span> {</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        <span class="comment">// Add ToR speicific options</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        params.<a class="code" href="../../d5/d1c/classTorAgentParam.html#ad3c399d24e6369973776f792d0e5f901">AddOptions</a>();</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        params.<a class="code" href="../../dc/dd4/classAgentParam.html#ab89d21ac42c523d98c86003f15efe005">ParseArguments</a>(argc, argv);</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    } <span class="keywordflow">catch</span> (...) {</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        cout &lt;&lt; <span class="stringliteral">&quot;Invalid arguments&quot;</span>;</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        cout &lt;&lt; params.<a class="code" href="../../dc/dd4/classAgentParam.html#a98b652fedc53bb454ff9a6a16c4ce836">options</a>() &lt;&lt; endl;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        exit(0);</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    }</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    opt::variables_map var_map = params.<a class="code" href="../../dc/dd4/classAgentParam.html#a471c7eb37653488d8a727f40afe0ec4a">var_map</a>();</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;help&quot;</span>)) {</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        cout &lt;&lt; params.<a class="code" href="../../dc/dd4/classAgentParam.html#a98b652fedc53bb454ff9a6a16c4ce836">options</a>() &lt;&lt; endl;</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        exit(0);</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    }</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160; </div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;version&quot;</span>)) {</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;        cout &lt;&lt; <a class="code" href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a> &lt;&lt; endl;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        exit(0);</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    }</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="keywordtype">string</span> init_file = <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keywordflow">if</span> (var_map.count(<span class="stringliteral">&quot;config_file&quot;</span>)) {</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        init_file = var_map[<span class="stringliteral">&quot;config_file&quot;</span>].as&lt;<span class="keywordtype">string</span>&gt;();</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        <span class="keyword">struct </span>stat s;</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;        <span class="keywordflow">if</span> (stat(init_file.c_str(), &amp;s) != 0) {</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(ERROR, <span class="stringliteral">&quot;Error opening config file &lt;&quot;</span> &lt;&lt; init_file</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                &lt;&lt; <span class="stringliteral">&quot;&gt;. Error number &lt;&quot;</span> &lt;&lt; errno &lt;&lt; <span class="stringliteral">&quot;&gt;&quot;</span>);</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            exit(EINVAL);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;        }</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    }</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160; </div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <span class="comment">// Read agent parameters from config file and arguments</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    params.<a class="code" href="../../dc/dd4/classAgentParam.html#acff915f9b79f1beb47dec58be5972f1e">Init</a>(init_file, argv[0]);</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160; </div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="comment">// Initialize TBB</span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <span class="comment">// Call to GetScheduler::GetInstance() will also create Task Scheduler</span></div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <a class="code" href="../../df/ddc/classTaskScheduler.html#a7dcf5cca13e496904f68a5d8ba6fbaf4">TaskScheduler::Initialize</a>(params.<a class="code" href="../../dc/dd4/classAgentParam.html#ae3eba8a8209e036af94b8693ff8963bd">tbb_thread_count</a>());</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160; </div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="comment">// Initialize the agent-init control class</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <a class="code" href="../../d0/d92/classTorAgentInit.html">TorAgentInit</a> <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>;</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <a class="code" href="../../d8/dfe/classAgent.html">Agent</a> *agent = <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.agent();</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.set_agent_param(&amp;params);</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    agent-&gt;<a class="code" href="../../d8/dfe/classAgent.html#a538861c3e43ca9562cefe2ce2e74a423">set_agent_init</a>(&amp;<a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>);</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160; </div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <a class="code" href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a>(<a class="code" href="../../d5/d0c/vrouter__uve__entry__base_8cc.html#a2c03f6d75fada819fa7f1890e88c5a0f">BuildInfo</a>, Category::VROUTER);</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160; </div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="comment">// kick start initialization</span></div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordtype">int</span> ret = 0;</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    <span class="keywordflow">if</span> ((ret = <a class="code" href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">init</a>.Start(logging)) != 0) {</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        <span class="keywordflow">return</span> ret;</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    }</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160; </div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    agent-&gt;<a class="code" href="../../d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17">event_manager</a>()-&gt;<a class="code" href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">Run</a>();</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160; </div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;}</div>
 <div class="ttc" id="aagent__cmn_8h_html"><div class="ttname"><a href="../../de/d18/agent__cmn_8h.html">agent_cmn.h</a></div></div>
 <div class="ttc" id="aagent__param_8h_html"><div class="ttname"><a href="../../df/d84/agent__param_8h.html">agent_param.h</a></div></div>
 <div class="ttc" id="aclassAgentParam_html_a471c7eb37653488d8a727f40afe0ec4a"><div class="ttname"><a href="../../dc/dd4/classAgentParam.html#a471c7eb37653488d8a727f40afe0ec4a">AgentParam::var_map</a></div><div class="ttdeci">const boost::program_options::variables_map &amp; var_map() const</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d84/agent__param_8h_source.html#l00371">agent_param.h:371</a></div></div>
@@ -171,12 +172,13 @@ $(document).ready(function(){initNavTree('d7/da8/controller_2src_2vnsw_2agent_2o
 <div class="ttc" id="aclassAgent_html_a538861c3e43ca9562cefe2ce2e74a423"><div class="ttname"><a href="../../d8/dfe/classAgent.html#a538861c3e43ca9562cefe2ce2e74a423">Agent::set_agent_init</a></div><div class="ttdeci">void set_agent_init(AgentInit *init)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d9e/agent_8h_source.html#l01126">agent.h:1126</a></div></div>
 <div class="ttc" id="aclassAgent_html_a5914b88a5b1f3bf18bc8b8a239420f17"><div class="ttname"><a href="../../d8/dfe/classAgent.html#a5914b88a5b1f3bf18bc8b8a239420f17">Agent::event_manager</a></div><div class="ttdeci">EventManager * event_manager() const</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d9e/agent_8h_source.html#l01105">agent.h:1105</a></div></div>
 <div class="ttc" id="aclassEventManager_html_a4e26b9d71af912ea9a124a3af95c386a"><div class="ttname"><a href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">EventManager::Run</a></div><div class="ttdeci">void Run()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/de5/event__manager_8cc_source.html#l00023">event_manager.cc:23</a></div></div>
+<div class="ttc" id="aclassLogging_html"><div class="ttname"><a href="../../d1/d2e/classLogging.html">Logging</a></div><div class="ttdoc">A class providing basic control over logging capabilities in OpenSDN control plane.</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00043">logging.h:43</a></div></div>
 <div class="ttc" id="aclassMiscUtils_html_a46b1c313efbb3ee8ce734ddeaba1ff38"><div class="ttname"><a href="../../d8/d93/classMiscUtils.html#a46b1c313efbb3ee8ce734ddeaba1ff38">MiscUtils::LogVersionInfo</a></div><div class="ttdeci">static void LogVersionInfo(const std::string str, Category::type categ)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dcd/misc__utils_8cc_source.html#l00036">misc_utils.cc:36</a></div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a7dcf5cca13e496904f68a5d8ba6fbaf4"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a7dcf5cca13e496904f68a5d8ba6fbaf4">TaskScheduler::Initialize</a></div><div class="ttdeci">static void Initialize(uint32_t thread_count=0, EventManager *evm=NULL)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/dbd/task_8cc_source.html#l00485">task.cc:485</a></div></div>
 <div class="ttc" id="aclassTorAgentInit_html"><div class="ttname"><a href="../../d0/d92/classTorAgentInit.html">TorAgentInit</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d46/tor__agent__init_8h_source.html#l00022">tor_agent_init.h:22</a></div></div>
 <div class="ttc" id="aclassTorAgentParam_html"><div class="ttname"><a href="../../d5/d1c/classTorAgentParam.html">TorAgentParam</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/def/tor__agent__param_8h_source.html#l00013">tor_agent_param.h:13</a></div></div>
 <div class="ttc" id="aclassTorAgentParam_html_ad3c399d24e6369973776f792d0e5f901"><div class="ttname"><a href="../../d5/d1c/classTorAgentParam.html#ad3c399d24e6369973776f792d0e5f901">TorAgentParam::AddOptions</a></div><div class="ttdeci">void AddOptions()</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/dec/tor__agent__param_8cc_source.html#l00027">tor_agent_param.cc:27</a></div></div>
-<div class="ttc" id="alogging_8h_html_afa4d5ba62ca08799d69d54104884902a"><div class="ttname"><a href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a></div><div class="ttdeci">#define LOG(_Level, _Msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00033">logging.h:33</a></div></div>
+<div class="ttc" id="alogging_8h_html_afa4d5ba62ca08799d69d54104884902a"><div class="ttname"><a href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a></div><div class="ttdeci">#define LOG(_Level, _Msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00034">logging.h:34</a></div></div>
 <div class="ttc" id="amisc__utils_8h_html"><div class="ttname"><a href="../../d9/dbd/misc__utils_8h.html">misc_utils.h</a></div></div>
 <div class="ttc" id="anamespacebgp__log__test_html_a40534bcb54529903f4376d0249ced7c0"><div class="ttname"><a href="../../d5/db9/namespacebgp__log__test.html#a40534bcb54529903f4376d0249ced7c0">bgp_log_test::init</a></div><div class="ttdeci">void init()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d7d/bgp__log_8cc_source.html#l00037">bgp_log.cc:37</a></div></div>
 <div class="ttc" id="ator__agent__init_8h_html"><div class="ttname"><a href="../../d5/d46/tor__agent__init_8h.html">tor_agent_init.h</a></div></div>

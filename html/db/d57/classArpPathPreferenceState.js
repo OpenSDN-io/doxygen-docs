@@ -31,7 +31,7 @@ var classArpPathPreferenceState =
     [ "l3_wait_for_traffic_map_", "db/d57/classArpPathPreferenceState.html#abc5209631179a3415d9d0d8c188cedcf", null ],
     [ "mac_", "db/d57/classArpPathPreferenceState.html#a315f11fa81c47bd93ab7085b73f815ee", null ],
     [ "plen_", "db/d57/classArpPathPreferenceState.html#abda408d86bfabbecc3eb5e09d5124434", null ],
-    [ "refcount_", "db/d57/classArpPathPreferenceState.html#aa9eda354a441714e91b4e9f4a9bfc827", null ],
+    [ "refcount_", "db/d57/classArpPathPreferenceState.html#a0f85a50083d4f00f24b6ea74684232c5", null ],
     [ "vm_ip_", "db/d57/classArpPathPreferenceState.html#accc4a6c4e1ea4710c7db1fdbd931582e", null ],
     [ "vrf_id_", "db/d57/classArpPathPreferenceState.html#a3efff61e34a66d963747980a9ae0b522", null ],
     [ "vrf_state_", "db/d57/classArpPathPreferenceState.html#ae6e3935d4b425eb0e17ad191419da218", null ]

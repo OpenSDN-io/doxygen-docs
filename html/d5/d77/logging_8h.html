@@ -82,6 +82,7 @@ $(document).ready(function(){initNavTree('d5/d77/logging_8h.html','../../'); ini
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
@@ -90,21 +91,29 @@ $(document).ready(function(){initNavTree('d5/d77/logging_8h.html','../../'); ini
 <div class="contents">
 <div class="textblock"><code>#include &lt;log4cplus/logger.h&gt;</code><br />
 <code>#include &lt;log4cplus/loggingmacros.h&gt;</code><br />
+<code>#include &lt;log4cplus/initializer.h&gt;</code><br />
 <code>#include &lt;boost/units/detail/utility.hpp&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for logging.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d60/logging_8h__incl.png" border="0" usemap="#alogging_8h" alt=""/></div>
 <map name="alogging_8h" id="alogging_8h">
-<area shape="rect" title=" " alt="" coords="207,5,282,32"/>
+<area shape="rect" title=" " alt="" coords="299,5,374,32"/>
 <area shape="rect" title=" " alt="" coords="5,87,132,114"/>
 <area shape="rect" title=" " alt="" coords="157,87,333,114"/>
-<area shape="rect" title=" " alt="" coords="357,80,479,121"/>
+<area shape="rect" title=" " alt="" coords="357,87,500,114"/>
+<area shape="rect" title=" " alt="" coords="524,80,645,121"/>
 </map>
 </div>
 </div>
 <p><a href="../../d5/d77/logging_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/classLogging.html">Logging</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A class providing basic control over logging capabilities in OpenSDN control plane.  <a href="../../d1/d2e/classLogging.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:a0641af2a9ac55c813f2961c4b9d48619"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d77/logging_8h.html#a0641af2a9ac55c813f2961c4b9d48619">TYPE_NAME</a>(_type)&#160;&#160;&#160;boost::units::detail::demangle(typeid(_type).name())</td></tr>
@@ -162,9 +171,9 @@ Functions</h2></td></tr>
 <div class="line">        log4cplus::Logger logger = log4cplus::Logger::getRoot(); \</div>
 <div class="line">        LOG4CPLUS_<span class="preprocessor">##_Level(logger, _Msg);                        \</span></div>
 <div class="line"><span class="preprocessor">    } while (0)</span></div>
-<div class="ttc" id="alogging_8h_html_a02138ba3dcc3a4cb3bbcce09f22016d0"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a></div><div class="ttdeci">bool LoggingDisabled()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00024">logging.cc:24</a></div></div>
+<div class="ttc" id="alogging_8h_html_a02138ba3dcc3a4cb3bbcce09f22016d0"><div class="ttname"><a href="../../d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0">LoggingDisabled</a></div><div class="ttdeci">bool LoggingDisabled()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00055">logging.cc:55</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d5/d77/logging_8h_source.html#l00033">33</a> of file <a class="el" href="../../d5/d77/logging_8h_source.html">logging.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d77/logging_8h_source.html#l00034">34</a> of file <a class="el" href="../../d5/d77/logging_8h_source.html">logging.h</a>.</p>
 
 </div>
 </div>
@@ -184,7 +193,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d77/logging_8h_source.html#l00031">31</a> of file <a class="el" href="../../d5/d77/logging_8h_source.html">logging.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d77/logging_8h_source.html#l00032">32</a> of file <a class="el" href="../../d5/d77/logging_8h_source.html">logging.h</a>.</p>
 
 </div>
 </div>
@@ -204,7 +213,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00024">24</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00055">55</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 
 </div>
 </div>
@@ -223,7 +232,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00051">51</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00082">82</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -311,7 +320,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00098">98</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00129">129</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -340,7 +349,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00032">32</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00063">63</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 
 </div>
 </div>
@@ -360,7 +369,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00028">28</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00059">59</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 
 </div>
 </div>
@@ -398,7 +407,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00036">36</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d11/logging_8cc_source.html#l00067">67</a> of file <a class="el" href="../../d8/d11/logging_8cc_source.html">logging.cc</a>.</p>
 
 </div>
 </div>

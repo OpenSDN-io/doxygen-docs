@@ -8,6 +8,6 @@ var structEventNotifyKey =
     [ "~EventNotifyKey", "d7/dbb/structEventNotifyKey.html#a442f4bc020ee9e98782b4783640e54b4", null ],
     [ "IsLess", "d7/dbb/structEventNotifyKey.html#a8f45e06005a8baf8bacc4b341c36f404", null ],
     [ "type", "d7/dbb/structEventNotifyKey.html#a7450cb3952fd4e40acad9aeac4c94da5", null ],
-    [ "ref_count_", "d7/dbb/structEventNotifyKey.html#a1a929e9e7760c159f3f0d50ffbe77a1a", null ],
+    [ "ref_count_", "d7/dbb/structEventNotifyKey.html#ae2ee22f25b434edcff666280482b5dcb", null ],
     [ "type_", "d7/dbb/structEventNotifyKey.html#a06cbd67569c0225f9d92d7bbbefb9106", null ]
 ];

@@ -1672,6 +1672,7 @@ var annotated_dup =
     [ "LocalVmPortPeer", "de/d0d/classLocalVmPortPeer.html", "de/d0d/classLocalVmPortPeer" ],
     [ "LocalVmRoute", "de/da5/classLocalVmRoute.html", "de/da5/classLocalVmRoute" ],
     [ "LogAction", "da/d0d/classLogAction.html", "da/d0d/classLogAction" ],
+    [ "Logging", "d1/d2e/classLogging.html", "d1/d2e/classLogging" ],
     [ "LogicalInterface", "d4/d25/classLogicalInterface.html", "d4/d25/classLogicalInterface" ],
     [ "LogicalInterfaceData", "d8/dc2/structLogicalInterfaceData.html", "d8/dc2/structLogicalInterfaceData" ],
     [ "LogicalInterfaceKey", "d8/db3/structLogicalInterfaceKey.html", "d8/db3/structLogicalInterfaceKey" ],

@@ -41,7 +41,7 @@ var classPeer =
     [ "intrusive_ptr_release", "d6/dd4/classPeer.html#a4430a6a8b8841696621268c1ffc4d1c6", null ],
     [ "export_to_controller_", "d6/dd4/classPeer.html#a2020311b513f8cadf34479efd681a6ae", null ],
     [ "name_", "d6/dd4/classPeer.html#aa2eac61a381545cfa94eaaad15767030", null ],
-    [ "refcount_", "d6/dd4/classPeer.html#a0977ec7f8474f616bd2ccea183cb85bd", null ],
+    [ "refcount_", "d6/dd4/classPeer.html#ac95b334a0b7ad2447b545e1283819927", null ],
     [ "sequence_number_", "d6/dd4/classPeer.html#a8e6c236e1b0e510641a461ce86649159", null ],
     [ "type_", "d6/dd4/classPeer.html#a538bcb82cda2ade355decde57273a159", null ]
 ];

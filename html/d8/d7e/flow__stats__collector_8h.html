@@ -87,7 +87,8 @@ $(document).ready(function(){initNavTree('d8/d7e/flow__stats__collector_8h.html'
 <div class="title">flow_stats_collector.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;boost/static_assert.hpp&gt;</code><br />
+<div class="textblock"><code>#include &lt;atomic&gt;</code><br />
+<code>#include &lt;boost/static_assert.hpp&gt;</code><br />
 <code>#include &lt;<a class="el" href="../../d7/d01/flow__table_8h_source.html">pkt/flow_table.h</a>&gt;</code><br />
 <code>#include &lt;<a class="el" href="../../de/d18/agent__cmn_8h_source.html">cmn/agent_cmn.h</a>&gt;</code><br />
 <code>#include &lt;<a class="el" href="../../db/d5d/index__vector_8h_source.html">cmn/index_vector.h</a>&gt;</code><br />
@@ -103,56 +104,56 @@ Include dependency graph for flow_stats_collector.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d6/d15/flow__stats__collector_8h__incl.png" border="0" usemap="#aflow__stats__collector_8h" alt=""/></div>
 <map name="aflow__stats__collector_8h" id="aflow__stats__collector_8h">
-<area shape="rect" title=" " alt="" coords="610,5,759,32"/>
-<area shape="rect" title=" " alt="" coords="5,87,164,114"/>
-<area shape="rect" href="../../d7/d01/flow__table_8h.html" title=" " alt="" coords="1685,266,1799,293"/>
-<area shape="rect" href="../../de/d18/agent__cmn_8h.html" title=" " alt="" coords="1889,661,2016,688"/>
-<area shape="rect" href="../../db/d5d/index__vector_8h.html" title=" " alt="" coords="240,661,375,688"/>
-<area shape="rect" title=" " alt="" coords="595,423,748,464"/>
-<area shape="rect" href="../../d9/da3/stats__collector_8h.html" title=" " alt="" coords="72,177,215,203"/>
-<area shape="rect" href="../../d4/d08/interface__uve__stats__table_8h.html" title=" " alt="" coords="861,169,1021,211"/>
-<area shape="rect" href="../../d5/d00/flowtable__ksync_8h.html" title=" " alt="" coords="376,169,532,211"/>
-<area shape="rect" href="../../db/d02/flow__export__request_8h.html" title=" " alt="" coords="1863,169,2018,211"/>
-<area shape="rect" href="../../d4/d97/flow__export__info_8h.html" title=" " alt="" coords="2059,259,2193,300"/>
-<area shape="rect" href="../../db/d0e/flow__stats__manager_8h.html" title=" " alt="" coords="607,80,762,121"/>
-<area shape="rect" title=" " alt="" coords="944,960,991,987"/>
-<area shape="rect" title=" " alt="" coords="1635,348,1849,375"/>
-<area shape="rect" title=" " alt="" coords="2859,736,3011,763"/>
-<area shape="rect" title=" " alt="" coords="3339,1035,3492,1061"/>
-<area shape="rect" title=" " alt="" coords="1163,1035,1257,1061"/>
-<area shape="rect" title=" " alt="" coords="1942,885,2033,912"/>
-<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="2881,1035,2963,1061"/>
-<area shape="rect" href="../../d9/d9b/address_8h.html" title=" " alt="" coords="2404,736,2515,763"/>
-<area shape="rect" href="../../d4/d04/db__table__walker_8h.html" title=" " alt="" coords="1665,736,1808,763"/>
-<area shape="rect" title=" " alt="" coords="2209,736,2379,763"/>
-<area shape="rect" href="../../de/db1/mirror__table_8h.html" title=" " alt="" coords="1693,512,1823,539"/>
-<area shape="rect" href="../../db/d97/traffic__action_8h.html" title=" " alt="" coords="2994,587,3130,613"/>
-<area shape="rect" href="../../d1/d8d/acl__entry_8h.html" title=" " alt="" coords="2805,587,2919,613"/>
-<area shape="rect" href="../../d5/d59/acl_8h.html" title=" " alt="" coords="3217,512,3296,539"/>
-<area shape="rect" title=" " alt="" coords="1274,430,1386,457"/>
-<area shape="rect" href="../../d3/d79/pkt__handler_8h.html" title=" " alt="" coords="1077,430,1199,457"/>
-<area shape="rect" href="../../de/d3f/nexthop_8h.html" title=" " alt="" coords="1112,512,1220,539"/>
-<area shape="rect" href="../../d3/d31/interface__common_8h.html" title=" " alt="" coords="1779,587,1950,613"/>
-<area shape="rect" href="../../da/d21/vrf_8h.html" title=" " alt="" coords="1127,587,1205,613"/>
-<area shape="rect" href="../../d2/db3/pkt__init_8h.html" title=" " alt="" coords="2703,430,2799,457"/>
-<area shape="rect" href="../../d3/daa/pkt__flow__info_8h.html" title=" " alt="" coords="1411,430,1543,457"/>
-<area shape="rect" href="../../d1/d06/flow__entry_8h.html" title=" " alt="" coords="2091,348,2206,375"/>
-<area shape="rect" href="../../de/d2b/vn_8h.html" title=" " alt="" coords="1567,430,1643,457"/>
-<area shape="rect" href="../../da/d0a/vm_8h.html" title=" " alt="" coords="1870,430,1950,457"/>
-<area shape="rect" href="../../d1/dde/route__common_8h.html" title=" " alt="" coords="2076,430,2224,457"/>
-<area shape="rect" href="../../d7/d1c/sg_8h.html" title=" " alt="" coords="2248,430,2324,457"/>
-<area shape="rect" href="../../d6/d67/db__table_8h.html" title=" " alt="" coords="1621,960,1721,987"/>
-<area shape="rect" href="../../d1/d21/db__table__partition_8h.html" title=" " alt="" coords="1550,811,1705,837"/>
-<area shape="rect" title=" " alt="" coords="1557,1035,1625,1061"/>
-<area shape="rect" href="../../dd/d61/db__entry_8h.html" title=" " alt="" coords="1159,885,1261,912"/>
-<area shape="rect" title=" " alt="" coords="1005,736,1098,763"/>
-<area shape="rect" title=" " alt="" coords="1123,736,1209,763"/>
-<area shape="rect" title=" " alt="" coords="1833,736,1915,763"/>
-<area shape="rect" title=" " alt="" coords="874,736,981,763"/>
-<area shape="rect" title=" " alt="" coords="3036,736,3171,763"/>
-<area shape="rect" title=" " alt="" coords="2539,736,2724,763"/>
-<area shape="rect" href="../../da/d69/event__manager_8h.html" title=" " alt="" coords="2589,811,2724,837"/>
-<area shape="rect" href="../../da/d4e/db_8h.html" title=" " alt="" coords="1895,811,1960,837"/>
+<area shape="rect" title=" " alt="" coords="546,5,695,32"/>
+<area shape="rect" title=" " alt="" coords="1570,661,1631,688"/>
+<area shape="rect" title=" " alt="" coords="52,87,211,114"/>
+<area shape="rect" href="../../d7/d01/flow__table_8h.html" title=" " alt="" coords="1583,266,1698,293"/>
+<area shape="rect" href="../../de/d18/agent__cmn_8h.html" title=" " alt="" coords="1841,661,1968,688"/>
+<area shape="rect" href="../../db/d5d/index__vector_8h.html" title=" " alt="" coords="456,661,591,688"/>
+<area shape="rect" title=" " alt="" coords="608,423,761,464"/>
+<area shape="rect" href="../../d9/da3/stats__collector_8h.html" title=" " alt="" coords="5,177,148,203"/>
+<area shape="rect" href="../../d4/d08/interface__uve__stats__table_8h.html" title=" " alt="" coords="817,169,977,211"/>
+<area shape="rect" href="../../d5/d00/flowtable__ksync_8h.html" title=" " alt="" coords="224,169,380,211"/>
+<area shape="rect" href="../../db/d02/flow__export__request_8h.html" title=" " alt="" coords="1590,169,1745,211"/>
+<area shape="rect" href="../../d4/d97/flow__export__info_8h.html" title=" " alt="" coords="1793,259,1926,300"/>
+<area shape="rect" href="../../db/d0e/flow__stats__manager_8h.html" title=" " alt="" coords="486,80,641,121"/>
+<area shape="rect" title=" " alt="" coords="872,960,919,987"/>
+<area shape="rect" title=" " alt="" coords="1211,348,1425,375"/>
+<area shape="rect" title=" " alt="" coords="3262,736,3414,763"/>
+<area shape="rect" title=" " alt="" coords="3375,1035,3528,1061"/>
+<area shape="rect" title=" " alt="" coords="1950,885,2041,912"/>
+<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="1811,1035,1894,1061"/>
+<area shape="rect" href="../../d9/d9b/address_8h.html" title=" " alt="" coords="2605,736,2716,763"/>
+<area shape="rect" href="../../d4/d04/db__table__walker_8h.html" title=" " alt="" coords="1147,736,1289,763"/>
+<area shape="rect" title=" " alt="" coords="951,736,1122,763"/>
+<area shape="rect" href="../../de/db1/mirror__table_8h.html" title=" " alt="" coords="2147,512,2278,539"/>
+<area shape="rect" href="../../db/d97/traffic__action_8h.html" title=" " alt="" coords="3069,587,3205,613"/>
+<area shape="rect" href="../../d1/d8d/acl__entry_8h.html" title=" " alt="" coords="2930,587,3045,613"/>
+<area shape="rect" href="../../d5/d59/acl_8h.html" title=" " alt="" coords="3269,512,3348,539"/>
+<area shape="rect" title=" " alt="" coords="1669,430,1781,457"/>
+<area shape="rect" href="../../d3/d79/pkt__handler_8h.html" title=" " alt="" coords="2586,430,2709,457"/>
+<area shape="rect" href="../../de/d3f/nexthop_8h.html" title=" " alt="" coords="2353,512,2461,539"/>
+<area shape="rect" href="../../d3/d31/interface__common_8h.html" title=" " alt="" coords="2198,587,2369,613"/>
+<area shape="rect" href="../../da/d21/vrf_8h.html" title=" " alt="" coords="1562,587,1639,613"/>
+<area shape="rect" href="../../d2/db3/pkt__init_8h.html" title=" " alt="" coords="989,430,1085,457"/>
+<area shape="rect" href="../../d3/daa/pkt__flow__info_8h.html" title=" " alt="" coords="1312,430,1444,457"/>
+<area shape="rect" href="../../d1/d06/flow__entry_8h.html" title=" " alt="" coords="2282,348,2397,375"/>
+<area shape="rect" href="../../de/d2b/vn_8h.html" title=" " alt="" coords="1568,430,1644,457"/>
+<area shape="rect" href="../../da/d0a/vm_8h.html" title=" " alt="" coords="1661,512,1741,539"/>
+<area shape="rect" href="../../d1/dde/route__common_8h.html" title=" " alt="" coords="1856,430,2004,457"/>
+<area shape="rect" href="../../d7/d1c/sg_8h.html" title=" " alt="" coords="1468,430,1544,457"/>
+<area shape="rect" href="../../d6/d67/db__table_8h.html" title=" " alt="" coords="1269,960,1369,987"/>
+<area shape="rect" href="../../d1/d21/db__table__partition_8h.html" title=" " alt="" coords="1255,811,1410,837"/>
+<area shape="rect" title=" " alt="" coords="791,1035,859,1061"/>
+<area shape="rect" href="../../dd/d61/db__entry_8h.html" title=" " alt="" coords="1269,885,1370,912"/>
+<area shape="rect" title=" " alt="" coords="2437,736,2530,763"/>
+<area shape="rect" title=" " alt="" coords="2325,736,2412,763"/>
+<area shape="rect" title=" " alt="" coords="1825,736,1907,763"/>
+<area shape="rect" title=" " alt="" coords="765,736,871,763"/>
+<area shape="rect" title=" " alt="" coords="3052,736,3187,763"/>
+<area shape="rect" title=" " alt="" coords="2843,736,3028,763"/>
+<area shape="rect" href="../../da/d69/event__manager_8h.html" title=" " alt="" coords="1723,811,1857,837"/>
+<area shape="rect" href="../../da/d4e/db_8h.html" title=" " alt="" coords="1885,811,1951,837"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">

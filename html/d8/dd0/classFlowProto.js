@@ -71,7 +71,7 @@ var classFlowProto =
     [ "kMaxTableCount", "d8/dd0/classFlowProto.html#a9105515dc2f8f76b8cfe744fc9dc102d", null ],
     [ "kMinTableCount", "d8/dd0/classFlowProto.html#aa7c51f5d311e85bdf43c6d2e569b2589", null ],
     [ "ksync_tokens_", "d8/dd0/classFlowProto.html#aac644fe278457fd75e3af332a233334d", null ],
-    [ "linklocal_flow_count_", "d8/dd0/classFlowProto.html#a6ae843a17ce076ec069f628d6e2b8cfb", null ],
+    [ "linklocal_flow_count_", "d8/dd0/classFlowProto.html#a7fbf0efc3b0e67204ff402382b584005", null ],
     [ "port_table_manager_", "d8/dd0/classFlowProto.html#a74b5cd41a2c7e5f56984e3b482a46693", null ],
     [ "stats_", "d8/dd0/classFlowProto.html#a0a80e2c2f147cd2f7da4a0fcfb0c6f74", null ],
     [ "stats_update_timer_", "d8/dd0/classFlowProto.html#a3cc798c3cadd795f544157e12fe95583", null ],

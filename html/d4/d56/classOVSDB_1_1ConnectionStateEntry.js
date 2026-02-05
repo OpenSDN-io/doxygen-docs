@@ -14,6 +14,6 @@ var classOVSDB_1_1ConnectionStateEntry =
     [ "device_uuid_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a95a54a96e3ae9cd3cdee3b7737b38edc", null ],
     [ "ha_stale_dev_vn_table_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#ac42a24d800cd1a1b92ef75af90387925", null ],
     [ "idl_list_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a3f5004cbcdc6d060fcc16c60993157d6", null ],
-    [ "refcount_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#ab7bd9df18c9071300e406f7ec91c7f18", null ],
+    [ "refcount_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a1e50dd81c4d61df2a121786ed3e7925c", null ],
     [ "table_", "d4/d56/classOVSDB_1_1ConnectionStateEntry.html#a7cad2f4eadc7215d7750ef8c29761d35", null ]
 ];

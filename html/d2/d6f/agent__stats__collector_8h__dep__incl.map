@@ -1,9 +1,10 @@
 <map id="agent_stats_collector.h" name="agent_stats_collector.h">
-<area shape="rect" id="node1" title=" " alt="" coords="448,5,605,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="461,5,619,32"/>
 <area shape="rect" id="node2" href="$d0/dc6/contrail__agent__init_8cc.html" title=" " alt="" coords="5,87,149,114"/>
-<area shape="rect" id="node3" href="$d5/dbb/agent__stats__collector_8cc.html" title=" " alt="" coords="174,87,338,114"/>
-<area shape="rect" id="node4" href="$d9/dae/agent__stats__sandesh__context_8cc.html" title=" " alt="" coords="363,80,509,121"/>
-<area shape="rect" id="node5" href="$df/dcf/drop__stats__io__context_8cc.html" title=" " alt="" coords="534,87,701,114"/>
-<area shape="rect" id="node6" href="$dd/da5/interface__stats__io__context_8cc.html" title=" " alt="" coords="725,80,851,121"/>
-<area shape="rect" id="node7" href="$d8/d1e/vrf__stats__io__context_8cc.html" title=" " alt="" coords="875,87,1034,114"/>
+<area shape="rect" id="node3" href="$db/df3/vrouter_8cc.html" title=" " alt="" coords="173,87,253,114"/>
+<area shape="rect" id="node4" href="$d5/dbb/agent__stats__collector_8cc.html" title=" " alt="" coords="278,87,442,114"/>
+<area shape="rect" id="node5" href="$d9/dae/agent__stats__sandesh__context_8cc.html" title=" " alt="" coords="467,80,613,121"/>
+<area shape="rect" id="node6" href="$df/dcf/drop__stats__io__context_8cc.html" title=" " alt="" coords="638,87,805,114"/>
+<area shape="rect" id="node7" href="$dd/da5/interface__stats__io__context_8cc.html" title=" " alt="" coords="829,80,955,121"/>
+<area shape="rect" id="node8" href="$d8/d1e/vrf__stats__io__context_8cc.html" title=" " alt="" coords="979,87,1138,114"/>
 </map>

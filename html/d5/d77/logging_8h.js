@@ -1,5 +1,6 @@
 var logging_8h =
 [
+    [ "Logging", "d1/d2e/classLogging.html", "d1/d2e/classLogging" ],
     [ "LOG", "d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a", null ],
     [ "TYPE_NAME", "d5/d77/logging_8h.html#a0641af2a9ac55c813f2961c4b9d48619", null ],
     [ "LoggingDisabled", "d5/d77/logging_8h.html#a02138ba3dcc3a4cb3bbcce09f22016d0", null ],

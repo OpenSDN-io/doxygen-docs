@@ -31,5 +31,5 @@ var classIcmpv6Handler =
     [ "kSolicitedNodeIpPrefix", "d1/d41/classIcmpv6Handler.html#a08d908f7f9b438ccac1292a73d2cff9e", null ],
     [ "kSolicitedNodeIpSuffixMask", "d1/d41/classIcmpv6Handler.html#a950bcc3c2d6b63a62d196dbf9819b09a", null ],
     [ "kSuffix", "d1/d41/classIcmpv6Handler.html#a490d529769a729e08bb2dd8785671abe", null ],
-    [ "refcount_", "d1/d41/classIcmpv6Handler.html#aa96bf7b43e1fc3dcb2ebdc42a853c77d", null ]
+    [ "refcount_", "d1/d41/classIcmpv6Handler.html#ace0df7e86f65d79a441779f3cd3b3e37", null ]
 ];

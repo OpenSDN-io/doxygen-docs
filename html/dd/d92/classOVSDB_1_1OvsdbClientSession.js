@@ -27,7 +27,7 @@ var classOVSDB_1_1OvsdbClientSession =
     [ "agent_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#ab2540e062a17a36941b44c898ba584af", null ],
     [ "client_idl_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a43769074b39f785db974e81bf29a7578", null ],
     [ "connection_time_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a78e63e4d836b01fd0071fa119187d391", null ],
-    [ "idl_inited_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a56d1123b5f661b3a9ab5f2637d5810b1", null ],
+    [ "idl_inited_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a2df2c6e9be396d7010832c199596c772", null ],
     [ "manager_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a7e2019794b0656a05ea5c95ed96caaab", null ],
     [ "ovsdb_io_task_id_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a1645f506e428aced174c649b115a11e9", null ],
     [ "parser_", "dd/d92/classOVSDB_1_1OvsdbClientSession.html#a4bfe37c8cd4d0901218600241622ce67", null ]

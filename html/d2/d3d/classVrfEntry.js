@@ -96,7 +96,7 @@ var classVrfEntry =
     [ "l2_", "d2/d3d/classVrfEntry.html#acc609721613e74be091205e32f979ea9", null ],
     [ "layer2_control_word_", "d2/d3d/classVrfEntry.html#a225b2769b3303d1b970567222d31abfb", null ],
     [ "learning_enabled_", "d2/d3d/classVrfEntry.html#ae067c385a51f9b8f825228bc888206fb", null ],
-    [ "mac_aging_time_", "d2/d3d/classVrfEntry.html#a41d550bee399f856de33df4fa6fd0106", null ],
+    [ "mac_aging_time_", "d2/d3d/classVrfEntry.html#ac3dea2fddb9497ef76c38f9ffdf05160", null ],
     [ "name_", "d2/d3d/classVrfEntry.html#abf555e8cee9f0f564cbff26916c0cbae", null ],
     [ "nh_", "d2/d3d/classVrfEntry.html#a197bff2482c8367036dc4ad7d00634df", null ],
     [ "rd_", "d2/d3d/classVrfEntry.html#a8babbcec3decab8f5d2b6db1d4d98e5f", null ],

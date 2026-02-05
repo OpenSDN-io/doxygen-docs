@@ -15,7 +15,7 @@ var classTorAgentInit =
     [ "ovsdb_client", "d0/d92/classTorAgentInit.html#aa670c0b7eea4db0044577ce6d8bf4a41", null ],
     [ "ProcessOptions", "d0/d92/classTorAgentInit.html#a59421e16ec90e4bc1f2bd9215da6d142", null ],
     [ "RegisterDBClients", "d0/d92/classTorAgentInit.html#adbbfb4986c467b1cd18a7399de433242", null ],
-    [ "Start", "d0/d92/classTorAgentInit.html#a4a039a9bc6329b2db0179022fe6a0556", null ],
+    [ "Start", "d0/d92/classTorAgentInit.html#a0c74d30863fd9fb3d8ba1608081dd075", null ],
     [ "UveShutdown", "d0/d92/classTorAgentInit.html#ac85196f5baa48536eddcacbaa00f387a", null ],
     [ "WaitForIdle", "d0/d92/classTorAgentInit.html#a187482ada3d4609055c746f3e7ba1bec", null ],
     [ "ovs_peer_manager_", "d0/d92/classTorAgentInit.html#a0d054efe3201f6477b91c5edf8c72540", null ],
