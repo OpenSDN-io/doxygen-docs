@@ -80,7 +80,7 @@ var classInterfaceTable =
     [ "active_vmi_count_", "d2/d73/classInterfaceTable.html#a7d15187cc64b4aca4e7668c2905bde6b", null ],
     [ "agent_", "d2/d73/classInterfaceTable.html#ac5c79437b72f85f888303f8c6966b5db", null ],
     [ "dhcp_snoop_map_", "d2/d73/classInterfaceTable.html#a8fe0932d8678f4c403ace47c263f3311", null ],
-    [ "dhcp_snoop_mutex_", "d2/d73/classInterfaceTable.html#a3a9110902d07cbd786f2f6f6d92df508", null ],
+    [ "dhcp_snoop_mutex_", "d2/d73/classInterfaceTable.html#acffba40b95973be1489ca8f3fff6625d", null ],
     [ "global_config_change_walk_ref_", "d2/d73/classInterfaceTable.html#ac689c54ae907c01a53348916dc79d7c7", null ],
     [ "index_table_", "d2/d73/classInterfaceTable.html#a9483bf22e215a8384c7cea57021e410b", null ],
     [ "interface_table_", "d2/d73/classInterfaceTable.html#ac6611cabaef2b82bee7f510e6011afab", null ],

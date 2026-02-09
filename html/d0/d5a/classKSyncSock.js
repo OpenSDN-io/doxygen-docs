@@ -81,7 +81,7 @@ var classKSyncSock =
     [ "ksync_rx_queue", "d0/d5a/classKSyncSock.html#a1f44b96e580858905d9deb8f552007ef", null ],
     [ "max_bulk_buf_size_", "d0/d5a/classKSyncSock.html#a4dfb74b6d82000471319e8ee43a5e6fd", null ],
     [ "max_bulk_msg_count_", "d0/d5a/classKSyncSock.html#ada81c67db4f55a73746e14738d433cbb", null ],
-    [ "mutex_", "d0/d5a/classKSyncSock.html#a36533fb213e49330822c858da4fa636a", null ],
+    [ "mutex_", "d0/d5a/classKSyncSock.html#a3fd447d5589b9313b1b6c1c1f6a1549b", null ],
     [ "nl_client_", "d0/d5a/classKSyncSock.html#abe6f38d69991f29fd0a04d2bd16e259c", null ],
     [ "pid_", "d0/d5a/classKSyncSock.html#a08a49a98b6429d3c06c3c8e6194b7026", null ],
     [ "process_data_inline_", "d0/d5a/classKSyncSock.html#afb96af59a07af59989fca3854a42d520", null ],

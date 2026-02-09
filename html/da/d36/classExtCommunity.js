@@ -69,5 +69,5 @@ var classExtCommunity =
     [ "intrusive_ptr_release", "da/d36/classExtCommunity.html#a2ab18631739988a6d4037d0b1d31e665", null ],
     [ "communities_", "da/d36/classExtCommunity.html#a0ae51869921be16941ac77d64df62157", null ],
     [ "extcomm_db_", "da/d36/classExtCommunity.html#a9e15723b5632e2a48918831317739745", null ],
-    [ "refcount_", "da/d36/classExtCommunity.html#acfd9ed0fc441f8619e5a3660219cf002", null ]
+    [ "refcount_", "da/d36/classExtCommunity.html#a47050f1a8744282e36ce17ba63bd3170", null ]
 ];

@@ -85,7 +85,7 @@ var classTaskScheduler =
     [ "kVectorGrowSize", "df/ddc/classTaskScheduler.html#add0ae454f1ba57a51db9fb790d5a5c97", null ],
     [ "log_fn_", "df/ddc/classTaskScheduler.html#a3b9be97b4f9a66832abc1a7ebe422ea7", null ],
     [ "measure_delay_", "df/ddc/classTaskScheduler.html#a0f1d3ba5adad3188ac02b9fb585433a1", null ],
-    [ "mutex_", "df/ddc/classTaskScheduler.html#a884e323e13df21a65e8b660adb33ad98", null ],
+    [ "mutex_", "df/ddc/classTaskScheduler.html#a3217b0baeccfd0195c8538e755811785", null ],
     [ "running_", "df/ddc/classTaskScheduler.html#abe7ccef700286921b0f8dec4f5b6ef1f", null ],
     [ "schedule_delay_", "df/ddc/classTaskScheduler.html#aa7a1ac4d7ac489f2de8c22498f188529", null ],
     [ "seqno_", "df/ddc/classTaskScheduler.html#a8f8acf19079ce7377878049b9ed05e48", null ],

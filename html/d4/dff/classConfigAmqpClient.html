@@ -101,14 +101,13 @@ Collaboration diagram for ConfigAmqpClient:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/de3/classConfigAmqpClient__coll__graph.png" border="0" usemap="#aConfigAmqpClient_coll__map" alt="Collaboration graph"/></div>
 <map name="aConfigAmqpClient_coll__map" id="aConfigAmqpClient_coll__map">
-<area shape="rect" title=" " alt="" coords="262,613,390,640"/>
-<area shape="rect" href="../../de/d27/classConfigClientManager.html" title=" " alt="" coords="254,524,398,551"/>
-<area shape="rect" title=" " alt="" coords="120,5,174,32"/>
-<area shape="rect" href="../../da/dbf/structConfigClientOptions.html" title=" " alt="" coords="260,243,399,269"/>
-<area shape="rect" title=" " alt="" coords="423,243,482,269"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="580,243,685,269"/>
-<area shape="rect" title=" " alt="" coords="591,5,674,32"/>
-<area shape="rect" title=" " alt="" coords="422,524,478,551"/>
+<area shape="rect" title=" " alt="" coords="137,613,265,640"/>
+<area shape="rect" href="../../de/d27/classConfigClientManager.html" title=" " alt="" coords="129,524,273,551"/>
+<area shape="rect" title=" " alt="" coords="118,5,173,32"/>
+<area shape="rect" href="../../da/dbf/structConfigClientOptions.html" title=" " alt="" coords="259,243,397,269"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="422,243,527,269"/>
+<area shape="rect" title=" " alt="" coords="433,5,516,32"/>
+<area shape="rect" title=" " alt="" coords="297,524,353,551"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -227,10 +226,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:adbef80cbca49542e2acd21dcf3098859"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae8e826d6b0d3326c2d809d83a9c02e7e"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/dff/classConfigAmqpClient.html#a337f8fee0b37f7fcdea257705edf175c">Endpoint</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dff/classConfigAmqpClient.html#ae8e826d6b0d3326c2d809d83a9c02e7e">endpoints_</a></td></tr>
 <tr class="separator:ae8e826d6b0d3326c2d809d83a9c02e7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a273c2d41f68376733ebc56f68aeaabf7"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dff/classConfigAmqpClient.html#a273c2d41f68376733ebc56f68aeaabf7">connection_status_</a></td></tr>
-<tr class="separator:a273c2d41f68376733ebc56f68aeaabf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a592d7d16007346f017b652347223bc0c"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dff/classConfigAmqpClient.html#a592d7d16007346f017b652347223bc0c">connection_status_change_at_</a></td></tr>
-<tr class="separator:a592d7d16007346f017b652347223bc0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74cae4a07d17584eac5e5519e6248721"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dff/classConfigAmqpClient.html#a74cae4a07d17584eac5e5519e6248721">connection_status_</a></td></tr>
+<tr class="separator:a74cae4a07d17584eac5e5519e6248721"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89bf7076b61ba98fa8dae1ee91a312ed"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dff/classConfigAmqpClient.html#a89bf7076b61ba98fa8dae1ee91a312ed">connection_status_change_at_</a></td></tr>
+<tr class="separator:a89bf7076b61ba98fa8dae1ee91a312ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -1205,8 +1204,8 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a273c2d41f68376733ebc56f68aeaabf7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a273c2d41f68376733ebc56f68aeaabf7">&#9670;&nbsp;</a></span>connection_status_</h2>
+<a id="a74cae4a07d17584eac5e5519e6248721"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74cae4a07d17584eac5e5519e6248721">&#9670;&nbsp;</a></span>connection_status_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1215,7 +1214,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; ConfigAmqpClient::connection_status_</td>
+          <td class="memname">std::atomic&lt;bool&gt; ConfigAmqpClient::connection_status_</td>
         </tr>
       </table>
   </td>
@@ -1229,8 +1228,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a592d7d16007346f017b652347223bc0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a592d7d16007346f017b652347223bc0c">&#9670;&nbsp;</a></span>connection_status_change_at_</h2>
+<a id="a89bf7076b61ba98fa8dae1ee91a312ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89bf7076b61ba98fa8dae1ee91a312ed">&#9670;&nbsp;</a></span>connection_status_change_at_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1239,7 +1238,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; ConfigAmqpClient::connection_status_change_at_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; ConfigAmqpClient::connection_status_change_at_</td>
         </tr>
       </table>
   </td>

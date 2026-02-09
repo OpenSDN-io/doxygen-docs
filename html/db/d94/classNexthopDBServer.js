@@ -18,6 +18,6 @@ var classNexthopDBServer =
     [ "endpoint_path_", "db/d94/classNexthopDBServer.html#a8c2b0251d2220f106a16a86120e126eb", null ],
     [ "io_server_", "db/d94/classNexthopDBServer.html#a0910654e47f560d4edda22b884907e9b", null ],
     [ "io_service_", "db/d94/classNexthopDBServer.html#a5c97eb3c59948bb76920eafef234fbee", null ],
-    [ "mutex_", "db/d94/classNexthopDBServer.html#a47e27ee0ab333f045f8432eab1f4a9a1", null ],
+    [ "mutex_", "db/d94/classNexthopDBServer.html#a8d4edc5f996ad6ab9bcc2568d36c5977", null ],
     [ "nexthop_table_", "db/d94/classNexthopDBServer.html#a3716a0e41b4d13143b93a64c7a852be3", null ]
 ];

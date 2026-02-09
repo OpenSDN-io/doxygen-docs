@@ -99,12 +99,11 @@ Collaboration diagram for DBTableWalk:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/dce/classDBTableWalk__coll__graph.png" border="0" usemap="#aDBTableWalk_coll__map" alt="Collaboration graph"/></div>
 <map name="aDBTableWalk_coll__map" id="aDBTableWalk_coll__map">
-<area shape="rect" title=" " alt="" coords="19,349,121,376"/>
-<area shape="rect" href="../../d5/d0a/classDBTable.html" title=" " alt="" coords="34,260,106,287"/>
-<area shape="rect" href="../../d7/df2/classDBTableBase.html" title=" " alt="" coords="19,184,121,211"/>
-<area shape="rect" title=" " alt="" coords="5,95,60,121"/>
-<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="87,95,128,121"/>
-<area shape="rect" title=" " alt="" coords="78,5,137,32"/>
+<area shape="rect" title=" " alt="" coords="19,260,121,287"/>
+<area shape="rect" href="../../d5/d0a/classDBTable.html" title=" " alt="" coords="34,171,106,197"/>
+<area shape="rect" href="../../d7/df2/classDBTableBase.html" title=" " alt="" coords="19,95,121,121"/>
+<area shape="rect" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="87,5,128,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -171,12 +170,12 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ab254ce536f8a93f2216aa74c428ee263"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82d4609faa4a75dd6f685f25e27221d3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d0a/classDBTable.html#aa83b13f06427b1db54f5463f67875656">DBTable::WalkCompleteFn</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#a82d4609faa4a75dd6f685f25e27221d3">walk_complete_</a></td></tr>
 <tr class="separator:a82d4609faa4a75dd6f685f25e27221d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62543fc47d8bb9339250940033b27086"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; <a class="el" href="../../d7/d3c/classDBTableWalk.html#ace3cdc013a2ba6f54998ca8ff79400e5">WalkState</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#a62543fc47d8bb9339250940033b27086">walk_state_</a></td></tr>
-<tr class="separator:a62543fc47d8bb9339250940033b27086"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a574cb68bc5c3b84d0dc3868a9c769f2e"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#a574cb68bc5c3b84d0dc3868a9c769f2e">walk_again_</a></td></tr>
-<tr class="separator:a574cb68bc5c3b84d0dc3868a9c769f2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa60379d075e9cad7fe749aacd83a8b7"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#afa60379d075e9cad7fe749aacd83a8b7">refcount_</a></td></tr>
-<tr class="separator:afa60379d075e9cad7fe749aacd83a8b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a329785f687925e4dcacb4461e285282c"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../d7/d3c/classDBTableWalk.html#ace3cdc013a2ba6f54998ca8ff79400e5">WalkState</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#a329785f687925e4dcacb4461e285282c">walk_state_</a></td></tr>
+<tr class="separator:a329785f687925e4dcacb4461e285282c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a870703c1076e87c267d577d7db14f207"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#a870703c1076e87c267d577d7db14f207">walk_again_</a></td></tr>
+<tr class="separator:a870703c1076e87c267d577d7db14f207"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef0c96c4a05da687fc4e104374e2e938"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/classDBTableWalk.html#aef0c96c4a05da687fc4e104374e2e938">refcount_</a></td></tr>
+<tr class="separator:aef0c96c4a05da687fc4e104374e2e938"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -800,8 +799,8 @@ Friends</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="afa60379d075e9cad7fe749aacd83a8b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa60379d075e9cad7fe749aacd83a8b7">&#9670;&nbsp;</a></span>refcount_</h2>
+<a id="aef0c96c4a05da687fc4e104374e2e938"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef0c96c4a05da687fc4e104374e2e938">&#9670;&nbsp;</a></span>refcount_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -810,7 +809,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;int&gt; DBTableWalk::refcount_</td>
+          <td class="memname">std::atomic&lt;int&gt; DBTableWalk::refcount_</td>
         </tr>
       </table>
   </td>
@@ -848,8 +847,8 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a id="a574cb68bc5c3b84d0dc3868a9c769f2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a574cb68bc5c3b84d0dc3868a9c769f2e">&#9670;&nbsp;</a></span>walk_again_</h2>
+<a id="a870703c1076e87c267d577d7db14f207"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a870703c1076e87c267d577d7db14f207">&#9670;&nbsp;</a></span>walk_again_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -858,7 +857,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; DBTableWalk::walk_again_</td>
+          <td class="memname">std::atomic&lt;bool&gt; DBTableWalk::walk_again_</td>
         </tr>
       </table>
   </td>
@@ -920,8 +919,8 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a id="a62543fc47d8bb9339250940033b27086"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62543fc47d8bb9339250940033b27086">&#9670;&nbsp;</a></span>walk_state_</h2>
+<a id="a329785f687925e4dcacb4461e285282c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a329785f687925e4dcacb4461e285282c">&#9670;&nbsp;</a></span>walk_state_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -930,7 +929,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;<a class="el" href="../../d7/d3c/classDBTableWalk.html#ace3cdc013a2ba6f54998ca8ff79400e5">WalkState</a>&gt; DBTableWalk::walk_state_</td>
+          <td class="memname">std::atomic&lt;<a class="el" href="../../d7/d3c/classDBTableWalk.html#ace3cdc013a2ba6f54998ca8ff79400e5">WalkState</a>&gt; DBTableWalk::walk_state_</td>
         </tr>
       </table>
   </td>

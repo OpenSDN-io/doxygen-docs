@@ -37,7 +37,7 @@ var classRoutingPolicy =
     [ "manager_delete_ref_", "dc/d96/classRoutingPolicy.html#ab96d40e0e64e34dbd53e4a0b6d6db727", null ],
     [ "mgr_", "dc/d96/classRoutingPolicy.html#ae19aa25a91bf88fb5b5448d4953e640a", null ],
     [ "name_", "dc/d96/classRoutingPolicy.html#a5689d09857864e8ab3fb22fede2e5846", null ],
-    [ "refcount_", "dc/d96/classRoutingPolicy.html#ab3f669798437d833ad42dfe17916853a", null ],
+    [ "refcount_", "dc/d96/classRoutingPolicy.html#af02ccfc7cb4c3ade06474d8c89b0d71d", null ],
     [ "server_", "dc/d96/classRoutingPolicy.html#af2ab84b305dbc35ea9dac38160bd5186", null ],
     [ "terms_", "dc/d96/classRoutingPolicy.html#a7d4866dfd72e9bff4f9a8938ad0ffe3e", null ]
 ];

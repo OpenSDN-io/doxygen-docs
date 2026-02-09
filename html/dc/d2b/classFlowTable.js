@@ -44,7 +44,6 @@ var classFlowTable =
     [ "flow_update_task_id", "dc/d2b/classFlowTable.html#a5916f39942db8a4480fae6f708989a9c", null ],
     [ "free_list", "dc/d2b/classFlowTable.html#ab82d33941e0ce8a3492abd1be356cfab", null ],
     [ "GetFlowSandeshActionParams", "dc/d2b/classFlowTable.html#a1c26385db3b714ca416920c9fc2a2d4e", null ],
-    [ "GetMutexSeq", "dc/d2b/classFlowTable.html#ac359b4bd3b929ebc13d1d0a233a58983", null ],
     [ "GrowFreeList", "dc/d2b/classFlowTable.html#ad4c806ce12b7f5ecacf1168a1a713f7c", null ],
     [ "HandleKSyncError", "dc/d2b/classFlowTable.html#aae8dea75c56c70c336a208b4c3ed1d28", null ],
     [ "HandleRevaluateDBEntry", "dc/d2b/classFlowTable.html#af5fb8485b7e5706d7a2d633a8b6d6ab1", null ],
@@ -90,7 +89,7 @@ var classFlowTable =
     [ "kPortNatFlowTableInstance", "dc/d2b/classFlowTable.html#a8df23714436fe2b1de3cba3304079f34", null ],
     [ "ksync_object_", "dc/d2b/classFlowTable.html#a2c6b8e12dc4b000b7af73f5fd274263e", null ],
     [ "linklocal_flow_info_map_", "dc/d2b/classFlowTable.html#a73ad147b2a22605f3d6228fd34f38b59", null ],
-    [ "mutex_", "dc/d2b/classFlowTable.html#a3a40ecde4f3df23199710898ba29fde3", null ],
+    [ "mutex_", "dc/d2b/classFlowTable.html#a7118c9ef53cbc450fd9639e501105e66", null ],
     [ "rand_gen_", "dc/d2b/classFlowTable.html#aba10c3eb6710a9caf74f492bb7f0daeb", null ],
     [ "table_index_", "dc/d2b/classFlowTable.html#aefa9413a52dbef497df3c84aa99007d3", null ]
 ];

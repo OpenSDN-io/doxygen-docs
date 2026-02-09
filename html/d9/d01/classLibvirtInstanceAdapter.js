@@ -15,6 +15,6 @@ var classLibvirtInstanceAdapter =
     [ "UnregisterInterfaces", "d9/d01/classLibvirtInstanceAdapter.html#afea72a13811d1d129528e2fa6e701329", null ],
     [ "agent_", "d9/d01/classLibvirtInstanceAdapter.html#aade3acc54bde3f18032d2cd85fc3859a", null ],
     [ "conn_", "d9/d01/classLibvirtInstanceAdapter.html#acb4435449fd9ec3c8f6b84079345a7d0", null ],
-    [ "conn_mutex_", "d9/d01/classLibvirtInstanceAdapter.html#afe0f32c8eaef1cfccb7ec41ccea4d26f", null ],
+    [ "conn_mutex_", "d9/d01/classLibvirtInstanceAdapter.html#aab5bcf4dc48c63490c354659cf05abbb", null ],
     [ "libvirt_conn_addr_", "d9/d01/classLibvirtInstanceAdapter.html#a63f296c6aca2f2eac59589b6dc1fd33d", null ]
 ];

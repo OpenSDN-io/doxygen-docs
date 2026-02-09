@@ -91,8 +91,8 @@ var classSandeshStateMachine =
     [ "prefix_", "d3/d36/classSandeshStateMachine.html#a4613d1af163eb9405c0435e809812efe", null ],
     [ "resource_", "d3/d36/classSandeshStateMachine.html#a2c02dcdcc70a440142da49b68f9358bb", null ],
     [ "session_", "d3/d36/classSandeshStateMachine.html#ad51ab42053438d2550aac1fc4a7d8bc7", null ],
-    [ "smutex_", "d3/d36/classSandeshStateMachine.html#ad1e18c61a37930ce000584cd23f154df", null ],
-    [ "state_", "d3/d36/classSandeshStateMachine.html#ac4af7eac49bb196ee9a6cd6978c24c85", null ],
+    [ "smutex_", "d3/d36/classSandeshStateMachine.html#a5c5f5cb300547baf39186589a5fedfb1", null ],
+    [ "state_", "d3/d36/classSandeshStateMachine.html#aa3436641b0da01f3d2a4cd46a3ac400a", null ],
     [ "state_since_", "d3/d36/classSandeshStateMachine.html#a26582a6d0d7577e810be6d7c2a53983f", null ],
     [ "work_queue_", "d3/d36/classSandeshStateMachine.html#ada782ff3738631a92b2225a4cc27e71e", null ]
 ];

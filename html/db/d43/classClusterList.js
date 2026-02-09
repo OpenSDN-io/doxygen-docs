@@ -12,6 +12,6 @@ var classClusterList =
     [ "intrusive_ptr_del_ref", "db/d43/classClusterList.html#ac1f56ac7e031ed2cc14f4979d6c6a5f0", null ],
     [ "intrusive_ptr_release", "db/d43/classClusterList.html#a463c95b5eb950f45487d6e78d07dea42", null ],
     [ "cluster_list_db_", "db/d43/classClusterList.html#a673d7db02d79688d0c6f495b17aba48e", null ],
-    [ "refcount_", "db/d43/classClusterList.html#a58553c1b14dba84918a0830e1a5087de", null ],
+    [ "refcount_", "db/d43/classClusterList.html#a22f96ab6d96fae6daf16a969b5c10b7c", null ],
     [ "spec_", "db/d43/classClusterList.html#a4615c0692f806b1eaa2dca6da945e27e", null ]
 ];

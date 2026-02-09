@@ -1,14 +1,13 @@
 <map id="SandeshClientSMImpl" name="SandeshClientSMImpl">
-<area shape="rect" id="node1" title=" " alt="" coords="789,244,941,271"/>
-<area shape="rect" id="node2" href="$dd/d68/classSandeshClientSM.html" title=" " alt="" coords="479,43,605,69"/>
-<area shape="rect" id="node3" title=" " alt="" coords="211,95,269,121"/>
-<area shape="rect" id="node9" href="$dc/dea/classTimer.html" title=" " alt="" coords="515,353,569,380"/>
-<area shape="rect" id="node4" href="$d3/de9/classSandeshClientSM_1_1Mgr.html" title=" " alt="" coords="161,5,319,32"/>
-<area shape="rect" id="node5" title=" " alt="" coords="440,156,644,212"/>
-<area shape="rect" id="node6" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="448,237,636,278"/>
-<area shape="rect" id="node7" href="$da/d7f/classSandeshEventStatistics.html" title=" " alt="" coords="461,303,623,329"/>
-<area shape="rect" id="node8" title=" " alt="" coords="213,415,267,441"/>
-<area shape="rect" id="node10" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="178,345,302,372"/>
-<area shape="rect" id="node11" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="21,320,72,347"/>
-<area shape="rect" id="node12" title=" " alt="" coords="5,371,88,397"/>
+<area shape="rect" id="node1" title=" " alt="" coords="789,175,941,201"/>
+<area shape="rect" id="node2" href="$dd/d68/classSandeshClientSM.html" title=" " alt="" coords="479,7,605,33"/>
+<area shape="rect" id="node3" href="$d3/de9/classSandeshClientSM_1_1Mgr.html" title=" " alt="" coords="161,7,319,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="440,57,644,113"/>
+<area shape="rect" id="node5" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="448,138,636,179"/>
+<area shape="rect" id="node6" href="$da/d7f/classSandeshEventStatistics.html" title=" " alt="" coords="461,204,623,231"/>
+<area shape="rect" id="node7" title=" " alt="" coords="213,300,267,327"/>
+<area shape="rect" id="node8" href="$dc/dea/classTimer.html" title=" " alt="" coords="515,349,569,376"/>
+<area shape="rect" id="node9" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="178,365,302,392"/>
+<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="21,340,72,367"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,391,88,417"/>
 </map>

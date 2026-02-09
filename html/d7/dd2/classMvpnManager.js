@@ -35,7 +35,7 @@ var classMvpnManager =
     [ "Terminate", "d7/dd2/classMvpnManager.html#a07b2d89b01d9fc4d00c53391521ce163", null ],
     [ "UpdateSecondaryTablesForReplication", "d7/dd2/classMvpnManager.html#afc2dadbebe1e2c0005f3dd12d81cb55c", null ],
     [ "MvpnManagerPartition", "d7/dd2/classMvpnManager.html#aabcc97e0aeecc2238ff517588c0c729f", null ],
-    [ "db_states_count_", "d7/dd2/classMvpnManager.html#ae402b8e24fcd572300726a32c4e6512f", null ],
+    [ "db_states_count_", "d7/dd2/classMvpnManager.html#a9ec27afb94a50b77d5ce755e3f464dda", null ],
     [ "deleter_", "d7/dd2/classMvpnManager.html#a00d0848628a5c5e55fc38c36aba5ebc0", null ],
     [ "ermvpn_table_", "d7/dd2/classMvpnManager.html#ad809a35375faa7dfd30c65b018d4d4a8", null ],
     [ "ermvpn_table_delete_ref_", "d7/dd2/classMvpnManager.html#a5a817bda478edc4ee167d3cb50c8ffdf", null ],

@@ -1,15 +1,14 @@
 <map id="BgpMembershipManager" name="BgpMembershipManager">
-<area shape="rect" id="node1" title=" " alt="" coords="5,273,172,300"/>
-<area shape="rect" id="node2" href="$db/d26/classBgpServer.html" title=" " alt="" coords="53,184,135,211"/>
-<area shape="rect" id="node3" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="301,273,444,300"/>
-<area shape="rect" id="node4" href="$de/df9/classTcpServer.html" title=" " alt="" coords="189,184,271,211"/>
-<area shape="rect" id="node5" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="432,95,543,121"/>
-<area shape="rect" id="node6" title=" " alt="" coords="127,95,181,121"/>
-<area shape="rect" id="node7" title=" " alt="" coords="147,5,206,32"/>
-<area shape="rect" id="node13" href="$df/d70/classDB.html" title=" " alt="" coords="61,95,103,121"/>
-<area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="303,95,408,121"/>
-<area shape="rect" id="node9" title=" " alt="" coords="314,5,397,32"/>
-<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="295,184,495,211"/>
-<area shape="rect" id="node11" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="519,184,714,211"/>
-<area shape="rect" id="node12" title=" " alt="" coords="739,184,807,211"/>
+<area shape="rect" id="node1" title=" " alt="" coords="899,273,1065,300"/>
+<area shape="rect" id="node2" href="$db/d26/classBgpServer.html" title=" " alt="" coords="825,184,907,211"/>
+<area shape="rect" id="node3" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="548,273,691,300"/>
+<area shape="rect" id="node4" href="$de/df9/classTcpServer.html" title=" " alt="" coords="127,184,208,211"/>
+<area shape="rect" id="node5" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,95,116,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="140,95,195,121"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="230,5,313,32"/>
+<area shape="rect" id="node9" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="233,184,433,211"/>
+<area shape="rect" id="node10" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="457,184,651,211"/>
+<area shape="rect" id="node11" title=" " alt="" coords="676,184,744,211"/>
+<area shape="rect" id="node12" href="$df/d70/classDB.html" title=" " alt="" coords="845,95,887,121"/>
 </map>

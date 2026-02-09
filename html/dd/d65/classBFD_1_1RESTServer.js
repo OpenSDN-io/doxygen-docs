@@ -22,6 +22,6 @@ var classBFD_1_1RESTServer =
     [ "UniqClientId", "dd/d65/classBFD_1_1RESTServer.html#a7625209646ec49c306dec97b2a627080", null ],
     [ "bfd_server_", "dd/d65/classBFD_1_1RESTServer.html#afd7b2de0eab6514e6039293921a84cad", null ],
     [ "client_sessions_", "dd/d65/classBFD_1_1RESTServer.html#ac1c710ce4767030cc85a2a88771b6f6b", null ],
-    [ "mutex_", "dd/d65/classBFD_1_1RESTServer.html#a3910893bad9a66deb6d533dd4ee22409", null ],
+    [ "mutex_", "dd/d65/classBFD_1_1RESTServer.html#ab5a9634ba3651a7bfc9f723ac03a12e7", null ],
     [ "RESTHandlers_", "dd/d65/classBFD_1_1RESTServer.html#a39d6f132dd00a88bf65142eaa6d5f25f", null ]
 ];

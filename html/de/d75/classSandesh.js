@@ -172,7 +172,7 @@ var classSandesh =
     [ "sampled_logger_", "de/d75/classSandesh.html#af40237dd09fb304425b34ed4bb930ae3", null ],
     [ "sampled_to_collector_", "de/d75/classSandesh.html#afd18c244e1d011f638682f5851805560", null ],
     [ "sampled_to_logger_", "de/d75/classSandesh.html#aaabfb6b786d712a7796093329327915e", null ],
-    [ "sandesh_send_ratelimit_", "de/d75/classSandesh.html#a3d1707f6f79f529dc7a22d1c0a82a918", null ],
+    [ "sandesh_send_ratelimit_", "de/d75/classSandesh.html#ac5d0da6a637ed11a826a2c170f52f6fd", null ],
     [ "scope_", "de/d75/classSandesh.html#aa4613493555f25933dc7f8fff99b145b", null ],
     [ "send_queue_enabled_", "de/d75/classSandesh.html#a9d9ecbd552ed546268e6530aca676588", null ],
     [ "seqnum_", "de/d75/classSandesh.html#a61784bc53790608afd1bc6c4efc85e71", null ],
@@ -180,7 +180,7 @@ var classSandesh =
     [ "slo_to_collector_", "de/d75/classSandesh.html#aa963d8aa51d34fdd184333b2d5c3a204", null ],
     [ "slo_to_logger_", "de/d75/classSandesh.html#a2ff08cbeae1a071f0c4c49c0b02b6da0", null ],
     [ "source_", "de/d75/classSandesh.html#ae0df065187cdeb3b98cae410768b6ec7", null ],
-    [ "stats_mutex_", "de/d75/classSandesh.html#a53b69e6f31e076b1957da3bec15ee84e", null ],
+    [ "stats_mutex_", "de/d75/classSandesh.html#a41de52dd514f68778e4b475488509e2d", null ],
     [ "timestamp_", "de/d75/classSandesh.html#a0281a1b585c1ff58b4b8ebb933c789a5", null ],
     [ "type_", "de/d75/classSandesh.html#acf4ec43b796b403ab1e9016c39524dc6", null ]
 ];

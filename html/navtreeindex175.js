@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"db/df1/classBgpXmppPeerClose.html#afd1da09e9fcec119e18d853a036d1af6":[2,0,422,13],
+"db/df2/drop__stats__kstate_8cc.html":[3,0,372],
 "db/df2/drop__stats__kstate_8cc_source.html":[3,0,372],
 "db/df3/classEvpnDerivedPath.html":[2,0,650],
 "db/df3/classEvpnDerivedPath.html#a0867964257f8657becd339539335b3bc":[2,0,650,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "dc/d00/classPolicyGraph.html#a0d4406c0b4ac70c0aaa184bfc779b31c":[2,0,1338,18],
 "dc/d00/classPolicyGraph.html#a1399ebc4956588952e99b3373fbfab27":[2,0,1338,14],
 "dc/d00/classPolicyGraph.html#a1ca5e35d0d26e08cec6ea13dc1d98e4e":[2,0,1338,26],
-"dc/d00/classPolicyGraph.html#a2185b6cd493c58461f0aeb8f1681f1ba":[2,0,1338,15],
-"dc/d00/classPolicyGraph.html#a26ef8a26f3ab1ce7c2d2bfb44cbc6ecf":[2,0,1338,7],
-"dc/d00/classPolicyGraph.html#a29ec35e08e0190a652892749a50df8e1":[2,0,1338,27]
+"dc/d00/classPolicyGraph.html#a2185b6cd493c58461f0aeb8f1681f1ba":[2,0,1338,15]
 };

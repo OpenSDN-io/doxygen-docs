@@ -30,8 +30,8 @@ var classBfdProto =
     [ "kMinTxInterval", "dd/d7a/classBfdProto.html#a11b5fb303e1701c861ddea322ca52db3", null ],
     [ "kMultiplier", "dd/d7a/classBfdProto.html#ab65b61305956bdfbb187e0a176ecb3fc", null ],
     [ "msg_", "dd/d7a/classBfdProto.html#ae2e0a06b09ca01b9bb77a18878bc53bc", null ],
-    [ "mutex_", "dd/d7a/classBfdProto.html#a2d8ad94ae4d1f9a1f548a27af13674c5", null ],
-    [ "rx_mutex_", "dd/d7a/classBfdProto.html#a65cbfc42b999b2eb2338f447c277dd43", null ],
+    [ "mutex_", "dd/d7a/classBfdProto.html#a96c0d13da51f23313cb0d57108a4b82b", null ],
+    [ "rx_mutex_", "dd/d7a/classBfdProto.html#a82ab0f22cc36629e5cb7b8ece8b7b99c", null ],
     [ "server_", "dd/d7a/classBfdProto.html#a2068d4fa41c23eecb666444f5173ed6e", null ],
     [ "sessions_", "dd/d7a/classBfdProto.html#a6ea2e0853232541b20144d8b61233a5d", null ],
     [ "stats_", "dd/d7a/classBfdProto.html#a57bc06d46db61af469ceaf3bac41429d", null ]

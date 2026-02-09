@@ -16,5 +16,5 @@ var classEdgeForwarding =
     [ "edge_forwarding_db_", "d9/da6/classEdgeForwarding.html#afa7fd0fc533023d17448c1bffe991107", null ],
     [ "edge_list", "d9/da6/classEdgeForwarding.html#a67128fb9f6252c7a911a33d8b0ee5af1", null ],
     [ "efspec_", "d9/da6/classEdgeForwarding.html#a786c870a80ecaa33ad5ac6315126bd0f", null ],
-    [ "refcount_", "d9/da6/classEdgeForwarding.html#a01c163f4ba240e44a62dd4a74b2c3530", null ]
+    [ "refcount_", "d9/da6/classEdgeForwarding.html#a54d6df8ae5c155b4bfb746cec940a247", null ]
 ];

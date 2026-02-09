@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"db/d48/structVmInterfaceData.html#a513d296fd1455755c5048f7c17c1784c":[2,0,1794,1],
+"db/d48/structVmInterfaceData.html#a67f57542df402879d69b324e874be66b":[2,0,1794,2],
 "db/d48/structVmInterfaceData.html#aa5f4a0d023d23980a8091f7afff381e7":[2,0,1794,0],
 "db/d48/structVmInterfaceData.html#aa5f4a0d023d23980a8091f7afff381e7a3a85b5bf1fc1fdcb72f205d857116dfb":[2,0,1794,0,1],
 "db/d48/structVmInterfaceData.html#aa5f4a0d023d23980a8091f7afff381e7a5302b4c2c3d8395c37369b11b0684e49":[2,0,1794,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "db/d54/classOVSDB_1_1OvsdbClientSsl.html#a1aba7cac6e9fc8581fe1e13c65150f5c":[2,0,15,16,4],
 "db/d54/classOVSDB_1_1OvsdbClientSsl.html#a211fc25c6202b7cf720c0191552c0a37":[2,0,15,16,3],
 "db/d54/classOVSDB_1_1OvsdbClientSsl.html#a27022b48d991dc2ed15240c732a9889e":[2,0,15,16,5],
-"db/d54/classOVSDB_1_1OvsdbClientSsl.html#a393f94438398dff50724238cfda622ab":[2,0,15,16,2],
-"db/d54/classOVSDB_1_1OvsdbClientSsl.html#a3ae11d99dec005b0285b0750156f4021":[2,0,15,16,18],
-"db/d54/classOVSDB_1_1OvsdbClientSsl.html#a3b1441f3f24a9cb58b2959ca08865409":[2,0,15,16,21]
+"db/d54/classOVSDB_1_1OvsdbClientSsl.html#a393f94438398dff50724238cfda622ab":[2,0,15,16,2]
 };

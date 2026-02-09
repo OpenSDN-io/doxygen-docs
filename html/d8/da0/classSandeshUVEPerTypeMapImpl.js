@@ -13,5 +13,5 @@ var classSandeshUVEPerTypeMapImpl =
     [ "UpdateUVE", "d8/da0/classSandeshUVEPerTypeMapImpl.html#a7a7d909f27ef9334795ab05b4a1f112c", null ],
     [ "cmap_", "d8/da0/classSandeshUVEPerTypeMapImpl.html#a52dc553c40034771bb0656726efbe75b", null ],
     [ "dsconf_", "d8/da0/classSandeshUVEPerTypeMapImpl.html#ac05276f6bc06fe99dd708300d754a253", null ],
-    [ "uve_mutex_", "d8/da0/classSandeshUVEPerTypeMapImpl.html#ac87fae67dd24d135cc4e8f8535b5e065", null ]
+    [ "uve_mutex_", "d8/da0/classSandeshUVEPerTypeMapImpl.html#acca64b77478e3664d94ac3e93a7b70d1", null ]
 ];

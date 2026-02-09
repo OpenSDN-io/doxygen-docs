@@ -52,7 +52,7 @@ var classPathResolver =
     [ "ResolverNexthop", "d1/d31/classPathResolver.html#a0b3eabada46fac3a5ac3d66a3e4c7070", null ],
     [ "deleter_", "d1/d31/classPathResolver.html#a60ca12bc9629c2b47ac15911f86f48e5", null ],
     [ "listener_id_", "d1/d31/classPathResolver.html#a167bf4745b588be4b14ef7471bbf53fa", null ],
-    [ "mutex_", "d1/d31/classPathResolver.html#a16023d82538a4f956259858010b94ea9", null ],
+    [ "mutex_", "d1/d31/classPathResolver.html#afbeff757504e5bca0a2a2668756e06c1", null ],
     [ "nexthop_delete_list_", "d1/d31/classPathResolver.html#a34f174df18edfe0f5cbd13ba703eea83", null ],
     [ "nexthop_longest_match_", "d1/d31/classPathResolver.html#a6d73a2ce42627bf62a4d6e2716bf4a35", null ],
     [ "nexthop_map_", "d1/d31/classPathResolver.html#ae5659b6cc2ccbfae6c45f1168d733189", null ],

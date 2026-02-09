@@ -28,10 +28,10 @@ var classDBTableWalk =
     [ "DBTableWalkMgr", "d7/d3c/classDBTableWalk.html#a68f620ca40cdccedcb6520a57cfc1231", null ],
     [ "intrusive_ptr_add_ref", "d7/d3c/classDBTableWalk.html#a6b8c357fd2a718b468c9f2de686009ba", null ],
     [ "intrusive_ptr_release", "d7/d3c/classDBTableWalk.html#a6335f45c943f7f1e5d3e0269dd319a38", null ],
-    [ "refcount_", "d7/d3c/classDBTableWalk.html#afa60379d075e9cad7fe749aacd83a8b7", null ],
+    [ "refcount_", "d7/d3c/classDBTableWalk.html#aef0c96c4a05da687fc4e104374e2e938", null ],
     [ "table_", "d7/d3c/classDBTableWalk.html#a627602fc58126d540232b464a747bd50", null ],
-    [ "walk_again_", "d7/d3c/classDBTableWalk.html#a574cb68bc5c3b84d0dc3868a9c769f2e", null ],
+    [ "walk_again_", "d7/d3c/classDBTableWalk.html#a870703c1076e87c267d577d7db14f207", null ],
     [ "walk_complete_", "d7/d3c/classDBTableWalk.html#a82d4609faa4a75dd6f685f25e27221d3", null ],
     [ "walk_fn_", "d7/d3c/classDBTableWalk.html#ab254ce536f8a93f2216aa74c428ee263", null ],
-    [ "walk_state_", "d7/d3c/classDBTableWalk.html#a62543fc47d8bb9339250940033b27086", null ]
+    [ "walk_state_", "d7/d3c/classDBTableWalk.html#a329785f687925e4dcacb4461e285282c", null ]
 ];

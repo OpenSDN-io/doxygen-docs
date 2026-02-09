@@ -23,6 +23,6 @@ var classDBTablePartition =
     [ "RemoveWithoutDelete", "df/d9e/classDBTablePartition.html#a35c60eca8336332fedf962d006565b8f", null ],
     [ "size", "df/d9e/classDBTablePartition.html#a15d2df011cbaa4c40eaad6ad96c260ce", null ],
     [ "table", "df/d9e/classDBTablePartition.html#ad2d8bc96b30dc1c6cc4fb81435b98280", null ],
-    [ "mutex_", "df/d9e/classDBTablePartition.html#a0badf08f56b889ca8d90f5e276dc8985", null ],
+    [ "mutex_", "df/d9e/classDBTablePartition.html#aa8aa678d29c9a853e5d26d2c61233e10", null ],
     [ "tree_", "df/d9e/classDBTablePartition.html#a407f8816931460a666e343e0c912bc50", null ]
 ];

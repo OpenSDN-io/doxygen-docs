@@ -100,20 +100,19 @@ Collaboration diagram for SandeshReader:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d9/dfc/classSandeshReader__coll__graph.png" border="0" usemap="#aSandeshReader_coll__map" alt="Collaboration graph"/></div>
 <map name="aSandeshReader_coll__map" id="aSandeshReader_coll__map">
-<area shape="rect" title=" " alt="" coords="83,525,197,552"/>
-<area shape="rect" href="../../d1/dfd/classSandeshSession.html" title=" " alt="" coords="449,436,569,463"/>
-<area shape="rect" href="../../d9/df3/classSandeshConnection.html" title=" " alt="" coords="545,525,684,552"/>
-<area shape="rect" href="../../db/dda/classSslSession.html" title=" " alt="" coords="351,332,439,359"/>
-<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="349,228,440,255"/>
-<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="589,95,699,121"/>
-<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="673,228,754,255"/>
-<area shape="rect" title=" " alt="" coords="219,95,274,121"/>
-<area shape="rect" title=" " alt="" coords="447,95,505,121"/>
-<area shape="rect" title=" " alt="" coords="85,95,168,121"/>
-<area shape="rect" title=" " alt="" coords="193,228,249,255"/>
-<area shape="rect" href="../../d5/dcd/classStatsClient.html" title=" " alt="" coords="466,332,553,359"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="753,95,858,121"/>
-<area shape="rect" title=" " alt="" coords="764,5,847,32"/>
+<area shape="rect" title=" " alt="" coords="423,511,538,537"/>
+<area shape="rect" href="../../d1/dfd/classSandeshSession.html" title=" " alt="" coords="247,421,367,448"/>
+<area shape="rect" href="../../d9/df3/classSandeshConnection.html" title=" " alt="" coords="133,511,271,537"/>
+<area shape="rect" href="../../db/dda/classSslSession.html" title=" " alt="" coords="299,317,387,344"/>
+<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="278,228,369,255"/>
+<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="159,95,269,121"/>
+<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="99,228,180,255"/>
+<area shape="rect" title=" " alt="" coords="317,95,372,121"/>
+<area shape="rect" title=" " alt="" coords="429,95,511,121"/>
+<area shape="rect" title=" " alt="" coords="423,228,479,255"/>
+<area shape="rect" href="../../d5/dcd/classStatsClient.html" title=" " alt="" coords="188,317,275,344"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="5,95,111,121"/>
+<area shape="rect" title=" " alt="" coords="17,5,99,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -173,8 +172,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a9588f997261f21cb1cf716d24cdf65dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a728621d1fcb9c1d681eacad0ca85527b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfd/classSandeshSession.html">SandeshSession</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d64/classSandeshReader.html#a728621d1fcb9c1d681eacad0ca85527b">session_</a></td></tr>
 <tr class="separator:a728621d1fcb9c1d681eacad0ca85527b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c381595ccafe892eeee4dc136803d36"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d64/classSandeshReader.html#a1c381595ccafe892eeee4dc136803d36">cb_mutex_</a></td></tr>
-<tr class="separator:a1c381595ccafe892eeee4dc136803d36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b7643d82fc6789f6a5ddcc78620294c"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d64/classSandeshReader.html#a4b7643d82fc6789f6a5ddcc78620294c">cb_mutex_</a></td></tr>
+<tr class="separator:a4b7643d82fc6789f6a5ddcc78620294c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a64eb3dba82d8023d73ab983a801f03a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d85/sandesh__session_8h.html#a49e457ac7b3851c44dde469c4f742c02">SandeshReceiveMsgCb</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d64/classSandeshReader.html#a64eb3dba82d8023d73ab983a801f03a2">cb_</a></td></tr>
 <tr class="separator:a64eb3dba82d8023d73ab983a801f03a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -833,8 +832,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a1c381595ccafe892eeee4dc136803d36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c381595ccafe892eeee4dc136803d36">&#9670;&nbsp;</a></span>cb_mutex_</h2>
+<a id="a4b7643d82fc6789f6a5ddcc78620294c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b7643d82fc6789f6a5ddcc78620294c">&#9670;&nbsp;</a></span>cb_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -843,7 +842,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex SandeshReader::cb_mutex_</td>
+          <td class="memname">std::mutex SandeshReader::cb_mutex_</td>
         </tr>
       </table>
   </td>

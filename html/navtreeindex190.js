@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"dc/df9/namespaceprotobuf__rpc__2eproto.html":[1,0,26],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a0073c1bcb699820013fa9b43f98d217f":[1,0,26,12],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a067e0662052da1301e63d5a34a648732":[1,0,26,121],
 "dc/df9/namespaceprotobuf__rpc__2eproto.html#a0841345d94b067fa9a1ae32a9830bb25":[1,0,26,91],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "dc/dff/classOperDB.html#ad31f5e85604c3ce92b24a1bc3520faf8":[2,0,1239,31],
 "dc/dff/classOperDB.html#adc5907d15e4f0e0fdd26e0236b2a338b":[2,0,1239,50],
 "dc/dff/classOperDB.html#af2b0c54144bd494ab559bfc93cb1106b":[2,0,1239,14],
-"dc/dff/classOperDB.html#af6726a6b6d91fd2973e075e96c62c1c1":[2,0,1239,4],
-"dc/dff/structPeerCloseManager_1_1Stats.html":[2,0,1293,1]
+"dc/dff/classOperDB.html#af6726a6b6d91fd2973e075e96c62c1c1":[2,0,1239,4]
 };

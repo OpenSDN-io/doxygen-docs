@@ -90,10 +90,11 @@ $(document).ready(function(){initNavTree('dd/d29/sandesh__http_8cc.html','../../
 <div class="title">sandesh_http.cc File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../da/d69/event__manager_8h_source.html">io/event_manager.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../dd/d95/http__server_8h_source.html">http/http_server.h</a>&quot;</code><br />
-<code>#include &lt;cstring&gt;</code><br />
+<div class="textblock"><code>#include &lt;cstring&gt;</code><br />
 <code>#include &lt;cstdlib&gt;</code><br />
+<code>#include &lt;mutex&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../da/d69/event__manager_8h_source.html">io/event_manager.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../dd/d95/http__server_8h_source.html">http/http_server.h</a>&quot;</code><br />
 <code>#include &lt;boost/bind.hpp&gt;</code><br />
 <code>#include &lt;boost/tokenizer.hpp&gt;</code><br />
 <code>#include &lt;sandesh/sandesh_types.h&gt;</code><br />
@@ -125,56 +126,56 @@ Include dependency graph for sandesh_http.cc:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/d89/sandesh__http_8cc__incl.png" border="0" usemap="#asandesh__http_8cc" alt=""/></div>
 <map name="asandesh__http_8cc" id="asandesh__http_8cc">
-<area shape="rect" title=" " alt="" coords="2757,5,2875,32"/>
-<area shape="rect" href="../../da/d69/event__manager_8h.html" title=" " alt="" coords="333,87,467,114"/>
-<area shape="rect" href="../../dd/d95/http__server_8h.html" title=" " alt="" coords="374,177,498,203"/>
-<area shape="rect" title=" " alt="" coords="1321,87,1383,114"/>
-<area shape="rect" title=" " alt="" coords="1407,87,1467,114"/>
-<area shape="rect" title=" " alt="" coords="1957,259,2064,285"/>
-<area shape="rect" title=" " alt="" coords="1491,87,1626,114"/>
-<area shape="rect" title=" " alt="" coords="1650,87,1825,114"/>
-<area shape="rect" title=" " alt="" coords="1849,87,1983,114"/>
-<area shape="rect" title=" " alt="" coords="2007,87,2171,114"/>
-<area shape="rect" title=" " alt="" coords="2196,80,2369,121"/>
-<area shape="rect" title=" " alt="" coords="2393,87,2612,114"/>
-<area shape="rect" href="../../d0/d03/sandesh__client_8h.html" title=" " alt="" coords="1127,87,1246,114"/>
-<area shape="rect" title=" " alt="" coords="2636,87,2807,114"/>
-<area shape="rect" title=" " alt="" coords="2831,80,2991,121"/>
-<area shape="rect" href="../../d2/de4/http__request_8h.html" title=" " alt="" coords="267,333,397,360"/>
-<area shape="rect" href="../../d4/dad/http__session_8h.html" title=" " alt="" coords="712,87,845,114"/>
-<area shape="rect" title=" " alt="" coords="3015,87,3201,114"/>
-<area shape="rect" title=" " alt="" coords="3225,87,3407,114"/>
-<area shape="rect" title=" " alt="" coords="3431,80,3582,121"/>
-<area shape="rect" title=" " alt="" coords="3606,80,3757,121"/>
-<area shape="rect" title=" " alt="" coords="3781,80,3936,121"/>
-<area shape="rect" title=" " alt="" coords="3960,80,4117,121"/>
-<area shape="rect" title=" " alt="" coords="4141,80,4299,121"/>
-<area shape="rect" title=" " alt="" coords="4323,87,4453,114"/>
-<area shape="rect" title=" " alt="" coords="4477,87,4640,114"/>
-<area shape="rect" title=" " alt="" coords="4665,87,4823,114"/>
-<area shape="rect" title=" " alt="" coords="4847,80,4993,121"/>
-<area shape="rect" title=" " alt="" coords="5017,80,5162,121"/>
-<area shape="rect" title=" " alt="" coords="5187,87,5285,114"/>
-<area shape="rect" title=" " alt="" coords="5309,87,5472,114"/>
-<area shape="rect" title=" " alt="" coords="33,177,154,203"/>
-<area shape="rect" title=" " alt="" coords="179,177,349,203"/>
-<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="520,408,603,435"/>
-<area shape="rect" title=" " alt="" coords="497,483,626,509"/>
-<area shape="rect" title=" " alt="" coords="411,408,458,435"/>
-<area shape="rect" title=" " alt="" coords="305,408,359,435"/>
-<area shape="rect" href="../../de/d3b/ssl__server_8h.html" title=" " alt="" coords="639,259,745,285"/>
-<area shape="rect" href="../../d2/d00/tcp__server_8h.html" title=" " alt="" coords="662,333,770,360"/>
-<area shape="rect" title=" " alt="" coords="1195,408,1285,435"/>
-<area shape="rect" title=" " alt="" coords="683,408,826,435"/>
-<area shape="rect" title=" " alt="" coords="921,408,1068,435"/>
-<area shape="rect" title=" " alt="" coords="1824,259,1931,285"/>
-<area shape="rect" title=" " alt="" coords="1329,169,1479,211"/>
-<area shape="rect" title=" " alt="" coords="1504,169,1637,211"/>
-<area shape="rect" title=" " alt="" coords="1662,177,1805,203"/>
-<area shape="rect" title=" " alt="" coords="899,259,994,285"/>
-<area shape="rect" href="../../d7/d8c/ssl__session_8h.html" title=" " alt="" coords="625,177,741,203"/>
-<area shape="rect" href="../../d5/d47/queue__task_8h.html" title=" " alt="" coords="1121,177,1253,203"/>
-<area shape="rect" href="../../d5/dd0/timer_8h.html" title=" " alt="" coords="1829,177,1923,203"/>
+<area shape="rect" title=" " alt="" coords="2163,5,2282,32"/>
+<area shape="rect" title=" " alt="" coords="5,87,67,114"/>
+<area shape="rect" title=" " alt="" coords="91,87,151,114"/>
+<area shape="rect" title=" " alt="" coords="2017,408,2076,435"/>
+<area shape="rect" href="../../da/d69/event__manager_8h.html" title=" " alt="" coords="227,87,362,114"/>
+<area shape="rect" href="../../dd/d95/http__server_8h.html" title=" " alt="" coords="567,177,691,203"/>
+<area shape="rect" title=" " alt="" coords="945,259,1052,285"/>
+<area shape="rect" title=" " alt="" coords="489,87,623,114"/>
+<area shape="rect" title=" " alt="" coords="647,87,822,114"/>
+<area shape="rect" title=" " alt="" coords="846,87,981,114"/>
+<area shape="rect" title=" " alt="" coords="1005,87,1169,114"/>
+<area shape="rect" title=" " alt="" coords="1193,80,1367,121"/>
+<area shape="rect" title=" " alt="" coords="1391,87,1609,114"/>
+<area shape="rect" href="../../d0/d03/sandesh__client_8h.html" title=" " alt="" coords="1634,87,1753,114"/>
+<area shape="rect" title=" " alt="" coords="1777,87,1948,114"/>
+<area shape="rect" title=" " alt="" coords="1972,80,2132,121"/>
+<area shape="rect" href="../../d2/de4/http__request_8h.html" title=" " alt="" coords="460,333,591,360"/>
+<area shape="rect" href="../../d4/dad/http__session_8h.html" title=" " alt="" coords="2156,87,2289,114"/>
+<area shape="rect" title=" " alt="" coords="2365,87,2550,114"/>
+<area shape="rect" title=" " alt="" coords="2575,87,2756,114"/>
+<area shape="rect" title=" " alt="" coords="2781,80,2931,121"/>
+<area shape="rect" title=" " alt="" coords="2955,80,3106,121"/>
+<area shape="rect" title=" " alt="" coords="3131,80,3285,121"/>
+<area shape="rect" title=" " alt="" coords="3309,80,3467,121"/>
+<area shape="rect" title=" " alt="" coords="3491,80,3648,121"/>
+<area shape="rect" title=" " alt="" coords="3672,87,3803,114"/>
+<area shape="rect" title=" " alt="" coords="3827,87,3989,114"/>
+<area shape="rect" title=" " alt="" coords="4014,87,4173,114"/>
+<area shape="rect" title=" " alt="" coords="4197,80,4342,121"/>
+<area shape="rect" title=" " alt="" coords="4366,80,4511,121"/>
+<area shape="rect" title=" " alt="" coords="4536,87,4635,114"/>
+<area shape="rect" title=" " alt="" coords="4659,87,4821,114"/>
+<area shape="rect" title=" " alt="" coords="422,177,543,203"/>
+<area shape="rect" title=" " alt="" coords="227,177,397,203"/>
+<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="813,408,896,435"/>
+<area shape="rect" title=" " alt="" coords="790,483,919,509"/>
+<area shape="rect" title=" " alt="" coords="502,408,549,435"/>
+<area shape="rect" title=" " alt="" coords="601,408,655,435"/>
+<area shape="rect" href="../../de/d3b/ssl__server_8h.html" title=" " alt="" coords="813,259,920,285"/>
+<area shape="rect" href="../../d2/d00/tcp__server_8h.html" title=" " alt="" coords="926,333,1034,360"/>
+<area shape="rect" title=" " alt="" coords="1185,408,1327,435"/>
+<area shape="rect" title=" " alt="" coords="1812,408,1959,435"/>
+<area shape="rect" title=" " alt="" coords="1568,259,1675,285"/>
+<area shape="rect" title=" " alt="" coords="1179,169,1330,211"/>
+<area shape="rect" title=" " alt="" coords="1355,169,1488,211"/>
+<area shape="rect" title=" " alt="" coords="1513,177,1655,203"/>
+<area shape="rect" href="../../d7/d8c/ssl__session_8h.html" title=" " alt="" coords="1953,177,2069,203"/>
+<area shape="rect" href="../../d5/d47/queue__task_8h.html" title=" " alt="" coords="1953,333,2085,360"/>
+<area shape="rect" href="../../d5/dd0/timer_8h.html" title=" " alt="" coords="1731,177,1826,203"/>
+<area shape="rect" title=" " alt="" coords="901,177,1053,203"/>
 </map>
 </div>
 </div>
@@ -227,7 +228,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00064">64</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00066">66</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 
 </div>
 </div>
@@ -250,7 +251,7 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="ac94b588436022e4f0f40c93e7f34a8caa5d38b6262cb5313af94b0cb817c0cd4a"></a>HXMLMax&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00067">67</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00069">69</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 
 </div>
 </div>
@@ -295,7 +296,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00225">225</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00227">227</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -355,7 +356,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00277">277</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00279">279</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -426,7 +427,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00085">85</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00087">87</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -456,7 +457,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00266">266</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00268">268</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 
 </div>
 </div>
@@ -480,7 +481,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00051">51</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html#l00053">53</a> of file <a class="el" href="../../dd/d29/sandesh__http_8cc_source.html">sandesh_http.cc</a>.</p>
 
 </div>
 </div>

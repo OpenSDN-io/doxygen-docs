@@ -28,7 +28,7 @@ var classConfigEtcdClient =
     [ "UUIDReader", "d4/db8/classConfigEtcdClient.html#aeb8410f3782a2186d47be7d9c9ce1378", null ],
     [ "UUIDToObjCacheShow", "d4/db8/classConfigEtcdClient.html#ad4dd016c99a2cdfb114a945bbbd2a4cc", null ],
     [ "ConfigEtcdPartition", "d4/db8/classConfigEtcdClient.html#a68bd075e7d6524bbefaf883deb61c573", null ],
-    [ "bulk_sync_status_", "d4/db8/classConfigEtcdClient.html#a2ea8387093a8c58fa37a1998eb40990d", null ],
+    [ "bulk_sync_status_", "d4/db8/classConfigEtcdClient.html#a5a52bad4b9aefe78e473252bd140e8bf", null ],
     [ "disable_watch_", "d4/db8/classConfigEtcdClient.html#aebbb3418678ca24c2d2c57ae1a242e22", null ],
     [ "eqlif_", "d4/db8/classConfigEtcdClient.html#aa3d4169db41b93f1489f85a1918e6454", null ],
     [ "num_workers_", "d4/db8/classConfigEtcdClient.html#a42ebb5cca6f08fbe5bcb2a828c239e56", null ],

@@ -128,11 +128,10 @@ Collaboration diagram for TcpSession:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d4e/classTcpSession__coll__graph.png" border="0" usemap="#aTcpSession_coll__map" alt="Collaboration graph"/></div>
 <map name="aTcpSession_coll__map" id="aTcpSession_coll__map">
-<area shape="rect" title=" " alt="" coords="185,139,275,165"/>
+<area shape="rect" title=" " alt="" coords="122,139,213,165"/>
 <area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,5,116,32"/>
 <area shape="rect" title=" " alt="" coords="140,5,195,32"/>
-<area shape="rect" title=" " alt="" coords="263,5,322,32"/>
-<area shape="rect" title=" " alt="" coords="354,5,437,32"/>
+<area shape="rect" title=" " alt="" coords="251,5,334,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -320,8 +319,8 @@ Static Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:afc93b7e2b70963012c769b863f813bd0"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#afc93b7e2b70963012c769b863f813bd0">mutex_</a></td></tr>
-<tr class="separator:afc93b7e2b70963012c769b863f813bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacd8964e9954ad1598006f4c93623d44"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aacd8964e9954ad1598006f4c93623d44">mutex_</a></td></tr>
+<tr class="separator:aacd8964e9954ad1598006f4c93623d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeebc904eae3e7a610b6a583ecde826cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/structio_1_1SocketStats.html">io::SocketStats</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aeebc904eae3e7a610b6a583ecde826cb">stats_</a></td></tr>
 <tr class="separator:aeebc904eae3e7a610b6a583ecde826cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ead9e96a9b8cceec1e929ca1a3551e6"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; <a class="el" href="../../d2/d0e/classTcpSession.html#a462d58363858ba266eebac074ddad600">Strand</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a1ead9e96a9b8cceec1e929ca1a3551e6">io_strand_</a></td></tr>
@@ -378,24 +377,24 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a6a2704057175c613ce3e59f92bee5c71"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab5e32feb600154231b0d389ef7edf1a0"><td class="memItemLeft" align="right" valign="top">boost::system::error_code&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#ab5e32feb600154231b0d389ef7edf1a0">close_reason_</a></td></tr>
 <tr class="separator:ab5e32feb600154231b0d389ef7edf1a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5828a3161e508d53c55e322c1e0d2771"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a5828a3161e508d53c55e322c1e0d2771">obs_mutex_</a></td></tr>
-<tr class="separator:a5828a3161e508d53c55e322c1e0d2771"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3eb92ab03e448327493fb01e800805e1"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a3eb92ab03e448327493fb01e800805e1">obs_mutex_</a></td></tr>
+<tr class="separator:a3eb92ab03e448327493fb01e800805e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abf3f617b4aec55ccfdd112b76c701dd9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d0e/classTcpSession.html#a90f5af97068082f27c36f0d1e6941dfe">EventObserver</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#abf3f617b4aec55ccfdd112b76c701dd9">observer_</a></td></tr>
 <tr class="separator:abf3f617b4aec55ccfdd112b76c701dd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab64abd02c740c092d72452b640df5bdc"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; <a class="el" href="../../dd/d55/classTcpMessageWriter.html">TcpMessageWriter</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#ab64abd02c740c092d72452b640df5bdc">writer_</a></td></tr>
 <tr class="separator:ab64abd02c740c092d72452b640df5bdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44cf0d4e28db863061979dd6b64e47d5"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a44cf0d4e28db863061979dd6b64e47d5">refcount_</a></td></tr>
-<tr class="separator:a44cf0d4e28db863061979dd6b64e47d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a912259476c78db99c3533716fdfd92a0"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a912259476c78db99c3533716fdfd92a0">refcount_</a></td></tr>
+<tr class="separator:a912259476c78db99c3533716fdfd92a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4b127891af2f904e5f9972d07a0ef98"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#ae4b127891af2f904e5f9972d07a0ef98">name_</a></td></tr>
 <tr class="separator:ae4b127891af2f904e5f9972d07a0ef98"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecd2d333dff1d1de19f59b3aca2dcd92"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aecd2d333dff1d1de19f59b3aca2dcd92">defer_reader_</a></td></tr>
-<tr class="separator:aecd2d333dff1d1de19f59b3aca2dcd92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30cb0df8a1ca2cf47b0a9bb8ab93c239"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a30cb0df8a1ca2cf47b0a9bb8ab93c239">defer_reader_</a></td></tr>
+<tr class="separator:a30cb0df8a1ca2cf47b0a9bb8ab93c239"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aefd4961d2ee232ba17199fa36b3dfc25"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aefd4961d2ee232ba17199fa36b3dfc25">uve_key_str_</a></td></tr>
 <tr class="separator:aefd4961d2ee232ba17199fa36b3dfc25"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af69b4e5081b64ac410504afc5b64619f"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#af69b4e5081b64ac410504afc5b64619f">write_blocked_</a></td></tr>
-<tr class="separator:af69b4e5081b64ac410504afc5b64619f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af433dc2a0dd3d7261ea8825c59f94fd2"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#af433dc2a0dd3d7261ea8825c59f94fd2">tcp_close_in_progress_</a></td></tr>
-<tr class="separator:af433dc2a0dd3d7261ea8825c59f94fd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a588a0347779ecd4508372724e3d47a9b"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a588a0347779ecd4508372724e3d47a9b">write_blocked_</a></td></tr>
+<tr class="separator:a588a0347779ecd4508372724e3d47a9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b794d1e6b651896a0e96b77e8e757f5"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a3b794d1e6b651896a0e96b77e8e757f5">tcp_close_in_progress_</a></td></tr>
+<tr class="separator:a3b794d1e6b651896a0e96b77e8e757f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -415,7 +414,7 @@ Friends</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00042">42</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00038">38</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="aadd0345915edabc2824f3118a62d891f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aadd0345915edabc2824f3118a62d891f">&#9670;&nbsp;</a></span>Buffer</h2>
@@ -429,7 +428,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00064">64</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00060">60</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -453,7 +452,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00238">238</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00234">234</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -469,7 +468,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00062">62</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00058">58</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -485,7 +484,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00063">63</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00059">59</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -501,7 +500,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00061">61</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00057">57</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -517,7 +516,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00060">60</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00056">56</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -541,7 +540,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00229">229</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00225">225</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -565,7 +564,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00184">184</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00180">180</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -586,7 +585,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="ab70fedc77295e6f7ab5b4d2e73f38a58abbcb6c7f43cc5d2504c52a5bbd26f551"></a>PASSIVE&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00055">55</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00051">51</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -609,7 +608,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a00ea3012f13ed9be96a66e9e0ea5d33baa10d420c6c38868a8fe7981dea9d5fd4"></a>CLOSE&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00047">47</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00043">43</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1237,7 +1236,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00113">113</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00109">109</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1265,7 +1264,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00116">116</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00112">112</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1352,7 +1351,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00145">145</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00141">141</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1633,7 +1632,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00212">212</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00208">208</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1718,7 +1717,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00166">166</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00162">162</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1815,7 +1814,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00162">162</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00158">158</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1843,7 +1842,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00170">170</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00166">166</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1911,7 +1910,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00125">125</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00121">121</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1938,7 +1937,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00246">246</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00242">242</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1965,7 +1964,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00120">120</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00116">116</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -1992,7 +1991,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00250">250</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00246">246</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2019,7 +2018,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00158">158</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00154">154</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2046,7 +2045,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00130">130</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00126">126</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2158,7 +2157,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00214">214</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00210">210</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2215,7 +2214,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d1/dfd/classSandeshSession.html#ae15d787546e05b3d5ad0b3db68594f95">SandeshSession</a>, <a class="el" href="../../dc/d4d/classOVSDB_1_1OvsdbClientTcpSession.html#a8b8d030507b6920beca9208742e68deb">OVSDB::OvsdbClientTcpSession</a>, and <a class="el" href="../../db/dd5/classOVSDB_1_1OvsdbClientSslSession.html#a0648c98911753813099440f7f8e6b5a7">OVSDB::OvsdbClientSslSession</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00208">208</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00204">204</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2368,7 +2367,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00139">139</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00135">135</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2395,7 +2394,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00135">135</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00131">131</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2506,7 +2505,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00088">88</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00084">84</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -2605,7 +2604,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00151">151</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00147">147</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3036,7 +3035,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00087">87</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00083">83</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3065,7 +3064,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../db/dda/classSslSession.html#a37944d3df3032ac4a974b9323a2874d8">SslSession</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00086">86</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00082">82</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3094,7 +3093,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d1/dfd/classSandeshSession.html#a0f53720c50517a99fb79c31649b53aa2">SandeshSession</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00083">83</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00079">79</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3121,7 +3120,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00178">178</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00174">174</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3289,7 +3288,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00292">292</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00288">288</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3317,7 +3316,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00296">296</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00292">292</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3341,7 +3340,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00235">235</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00231">231</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3365,7 +3364,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00234">234</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00230">230</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3390,7 +3389,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00271">271</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00267">267</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3414,7 +3413,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00272">272</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00268">268</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3438,12 +3437,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00267">267</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00263">263</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="aecd2d333dff1d1de19f59b3aca2dcd92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecd2d333dff1d1de19f59b3aca2dcd92">&#9670;&nbsp;</a></span>defer_reader_</h2>
+<a id="a30cb0df8a1ca2cf47b0a9bb8ab93c239"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30cb0df8a1ca2cf47b0a9bb8ab93c239">&#9670;&nbsp;</a></span>defer_reader_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3452,7 +3451,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; TcpSession::defer_reader_</td>
+          <td class="memname">std::atomic&lt;bool&gt; TcpSession::defer_reader_</td>
         </tr>
       </table>
   </td>
@@ -3462,7 +3461,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00284">284</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00280">280</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3486,7 +3485,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00270">270</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00266">266</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3510,7 +3509,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00266">266</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00262">262</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3534,7 +3533,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00230">230</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00226">226</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3558,7 +3557,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00044">44</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00040">40</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3582,12 +3581,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00045">45</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00041">41</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="afc93b7e2b70963012c769b863f813bd0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc93b7e2b70963012c769b863f813bd0">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="aacd8964e9954ad1598006f4c93623d44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacd8964e9954ad1598006f4c93623d44">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3596,7 +3595,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex TcpSession::mutex_</td>
+          <td class="memname">std::mutex TcpSession::mutex_</td>
         </tr>
       </table>
   </td>
@@ -3606,7 +3605,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00225">225</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00221">221</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3630,12 +3629,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00283">283</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00279">279</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="a5828a3161e508d53c55e322c1e0d2771"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5828a3161e508d53c55e322c1e0d2771">&#9670;&nbsp;</a></span>obs_mutex_</h2>
+<a id="a3eb92ab03e448327493fb01e800805e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3eb92ab03e448327493fb01e800805e1">&#9670;&nbsp;</a></span>obs_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3644,7 +3643,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex TcpSession::obs_mutex_</td>
+          <td class="memname">std::mutex TcpSession::obs_mutex_</td>
         </tr>
       </table>
   </td>
@@ -3654,7 +3653,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00277">277</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00273">273</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3678,7 +3677,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00278">278</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00274">274</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3702,7 +3701,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00263">263</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00259">259</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3726,12 +3725,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00259">259</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00255">255</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="a44cf0d4e28db863061979dd6b64e47d5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44cf0d4e28db863061979dd6b64e47d5">&#9670;&nbsp;</a></span>refcount_</h2>
+<a id="a912259476c78db99c3533716fdfd92a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a912259476c78db99c3533716fdfd92a0">&#9670;&nbsp;</a></span>refcount_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3740,7 +3739,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;int&gt; TcpSession::refcount_</td>
+          <td class="memname">std::atomic&lt;int&gt; TcpSession::refcount_</td>
         </tr>
       </table>
   </td>
@@ -3750,7 +3749,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00282">282</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00278">278</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3774,7 +3773,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00268">268</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00264">264</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3798,7 +3797,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00269">269</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00265">265</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3822,7 +3821,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00261">261</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00257">257</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3846,7 +3845,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00262">262</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00258">258</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3870,12 +3869,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00226">226</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00222">222</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="af433dc2a0dd3d7261ea8825c59f94fd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af433dc2a0dd3d7261ea8825c59f94fd2">&#9670;&nbsp;</a></span>tcp_close_in_progress_</h2>
+<a id="a3b794d1e6b651896a0e96b77e8e757f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b794d1e6b651896a0e96b77e8e757f5">&#9670;&nbsp;</a></span>tcp_close_in_progress_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3884,7 +3883,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; TcpSession::tcp_close_in_progress_</td>
+          <td class="memname">std::atomic&lt;bool&gt; TcpSession::tcp_close_in_progress_</td>
         </tr>
       </table>
   </td>
@@ -3894,7 +3893,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00287">287</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00283">283</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3918,12 +3917,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00285">285</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00281">281</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
-<a id="af69b4e5081b64ac410504afc5b64619f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af69b4e5081b64ac410504afc5b64619f">&#9670;&nbsp;</a></span>write_blocked_</h2>
+<a id="a588a0347779ecd4508372724e3d47a9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a588a0347779ecd4508372724e3d47a9b">&#9670;&nbsp;</a></span>write_blocked_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3932,7 +3931,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; TcpSession::write_blocked_</td>
+          <td class="memname">std::atomic&lt;bool&gt; TcpSession::write_blocked_</td>
         </tr>
       </table>
   </td>
@@ -3942,7 +3941,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00286">286</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00282">282</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>
@@ -3966,7 +3965,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00280">280</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d15/tcp__session_8h_source.html#l00276">276</a> of file <a class="el" href="../../de/d15/tcp__session_8h_source.html">tcp_session.h</a>.</p>
 
 </div>
 </div>

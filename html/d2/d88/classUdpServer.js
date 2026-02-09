@@ -47,12 +47,12 @@ var classUdpServer =
     [ "kDefaultBufferSize", "d2/d88/classUdpServer.html#ad17e469671edc485d5f744c960ed4fb4", null ],
     [ "name_", "d2/d88/classUdpServer.html#a19196339b54e01486f2b509aa736a1e1", null ],
     [ "pbuf_", "d2/d88/classUdpServer.html#a1f10cdbb4deae9b15322ada5b7623729", null ],
-    [ "pbuf_guard_", "d2/d88/classUdpServer.html#a197a6c9b9b3ed0148fb2541bf3ce18a9", null ],
+    [ "pbuf_guard_", "d2/d88/classUdpServer.html#a333bc473cc96ad9e4ff660a33fb32d6f", null ],
     [ "reader_task_id_", "d2/d88/classUdpServer.html#ab2ea4f9af24429ff4f9071ccf4f78184", null ],
-    [ "refcount_", "d2/d88/classUdpServer.html#a5cda238a6763adaccbce0a77a0dad938", null ],
+    [ "refcount_", "d2/d88/classUdpServer.html#ac8ccec660e99b5b9aa46d85ba71bf053", null ],
     [ "remote_endpoint_", "d2/d88/classUdpServer.html#a54b9a8a4045708d580b4389b806411ac", null ],
     [ "socket_", "d2/d88/classUdpServer.html#a5570b79420d583354a70aaad23b01cb8", null ],
     [ "state_", "d2/d88/classUdpServer.html#aeb2c4248d7ba2bf1727c6d53a226f779", null ],
-    [ "state_guard_", "d2/d88/classUdpServer.html#a4832b8aa1f468e72939a0d90d2f88baa", null ],
+    [ "state_guard_", "d2/d88/classUdpServer.html#a9db4890b78a744fb3069946ba4a66322", null ],
     [ "stats_", "d2/d88/classUdpServer.html#a73eb5fa5d98e8bf55fc644f6ef427c1a", null ]
 ];

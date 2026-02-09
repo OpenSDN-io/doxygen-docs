@@ -40,8 +40,8 @@ var classBgpXmppChannel_1_1XmppPeer =
     [ "closed_at_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a97b63b73bd6bc3924f1b57b853afd3c6", null ],
     [ "is_closed_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a9ed9e9b161655791a0f496586c05fd47", null ],
     [ "parent_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a0ec2fc580b3aca6ec8a3469dbb3b7c8f", null ],
-    [ "primary_path_count_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a38f6000108b94c536499ba59ce504b3e", null ],
+    [ "primary_path_count_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#af9af41f2837417d091d976420ad37435", null ],
     [ "send_ready_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a87a9bf2a36e162b18a3b7a31a3eab48b", null ],
     [ "server_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a7ad315ba3c6d4fa12a2d84e0dda4777b", null ],
-    [ "total_path_count_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a1fd4dd331db5c46c40eea595571816e1", null ]
+    [ "total_path_count_", "da/d07/classBgpXmppChannel_1_1XmppPeer.html#a8e9d34220c0863c910742252e7fae41b", null ]
 ];

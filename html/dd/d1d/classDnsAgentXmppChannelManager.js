@@ -14,7 +14,7 @@ var classDnsAgentXmppChannelManager =
     [ "ProcessRecord", "dd/d1d/classDnsAgentXmppChannelManager.html#ac54de33ce3ebb553802ee18f02cb7086", null ],
     [ "RemoveChannel", "dd/d1d/classDnsAgentXmppChannelManager.html#a701438ba018e514645d83fbfd01348ca", null ],
     [ "channel_map_", "dd/d1d/classDnsAgentXmppChannelManager.html#a6f70b7e883ef52ccd75d9231877d0d82", null ],
-    [ "mutex_", "dd/d1d/classDnsAgentXmppChannelManager.html#a431df4193a3f2bce671cd5c22af7a8b2", null ],
+    [ "mutex_", "dd/d1d/classDnsAgentXmppChannelManager.html#aafdb0bc02f377e5994904dbaea4dd5ec", null ],
     [ "server_", "dd/d1d/classDnsAgentXmppChannelManager.html#a44c83651dda989ef8c7abad5d83d1d35", null ],
     [ "work_queue_", "dd/d1d/classDnsAgentXmppChannelManager.html#a47d7872d589a8a3d2880438296cc6040", null ]
 ];

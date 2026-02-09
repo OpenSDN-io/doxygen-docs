@@ -95,15 +95,6 @@ $(document).ready(function(){initNavTree('d1/dec/classDBTableWalkMgr.html','../.
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="../../df/dd9/db__table__walk__mgr_8h_source.html">db_table_walk_mgr.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for DBTableWalkMgr:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d9/df6/classDBTableWalkMgr__coll__graph.png" border="0" usemap="#aDBTableWalkMgr_coll__map" alt="Collaboration graph"/></div>
-<map name="aDBTableWalkMgr_coll__map" id="aDBTableWalkMgr_coll__map">
-<area shape="rect" title=" " alt="" coords="5,95,128,121"/>
-<area shape="rect" title=" " alt="" coords="37,5,96,32"/>
-</map>
-<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
@@ -163,8 +154,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a3a2497c81e8ee4449e4d420415df8652"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9f6841507f3342178a547e0c8f0800a2"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; <a class="el" href="../../d3/d5f/classTaskTrigger.html">TaskTrigger</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a9f6841507f3342178a547e0c8f0800a2">walk_done_trigger_</a></td></tr>
 <tr class="separator:a9f6841507f3342178a547e0c8f0800a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8bce9bb9eff727770535006d444218cb"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a8bce9bb9eff727770535006d444218cb">mutex_</a></td></tr>
-<tr class="separator:a8bce9bb9eff727770535006d444218cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07d95ffb657eeb8a08a009f5040c49de"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a07d95ffb657eeb8a08a009f5040c49de">mutex_</a></td></tr>
+<tr class="separator:a07d95ffb657eeb8a08a009f5040c49de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee1b8c5b856896cb5acbbe90ab6283f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a734ab70401b01ae8ea430b741b953fb2">WalkRequestInfoList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#aee1b8c5b856896cb5acbbe90ab6283f6">walk_request_list_</a></td></tr>
 <tr class="separator:aee1b8c5b856896cb5acbbe90ab6283f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13ec42393bc4fe2551644546438642e2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a05af88a975643da53692561a3fd27b5c">WalkRequestInfoSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dec/classDBTableWalkMgr.html#a13ec42393bc4fe2551644546438642e2">walk_request_set_</a></td></tr>
@@ -771,8 +762,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a8bce9bb9eff727770535006d444218cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bce9bb9eff727770535006d444218cb">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a07d95ffb657eeb8a08a009f5040c49de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07d95ffb657eeb8a08a009f5040c49de">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -781,7 +772,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex DBTableWalkMgr::mutex_</td>
+          <td class="memname">std::mutex DBTableWalkMgr::mutex_</td>
         </tr>
       </table>
   </td>

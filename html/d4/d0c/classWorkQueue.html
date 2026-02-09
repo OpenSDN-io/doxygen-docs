@@ -100,13 +100,12 @@ Collaboration diagram for WorkQueue&lt; QueueEntryT &gt;:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d4/d23/classWorkQueue__coll__graph.png" border="0" usemap="#aWorkQueue_3_01QueueEntryT_01_4_coll__map" alt="Collaboration graph"/></div>
 <map name="aWorkQueue_3_01QueueEntryT_01_4_coll__map" id="aWorkQueue_3_01QueueEntryT_01_4_coll__map">
-<area shape="rect" title=" " alt="" coords="544,266,737,293"/>
+<area shape="rect" title=" " alt="" coords="544,222,737,249"/>
 <area shape="rect" href="../../de/d7d/classQueueTaskRunner.html" title=" " alt="" coords="181,5,401,47"/>
 <area shape="rect" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="8,13,59,39"/>
 <area shape="rect" href="../../da/d91/classWaterMarkTuple.html" title=" " alt="" coords="233,266,350,293"/>
 <area shape="rect" title=" " alt="" coords="5,229,61,255"/>
 <area shape="rect" title=" " alt="" coords="264,317,319,343"/>
-<area shape="rect" title=" " alt="" coords="262,374,321,401"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -260,10 +259,10 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:aa00d74a3e915974d4d745cc1d8d71208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d0c/classWorkQueue.html#a234d6d7c46992ba4ca81d424d45ccf0d">Queue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#aa00d74a3e915974d4d745cc1d8d71208">queue_</a></td></tr>
 <tr class="separator:aa00d74a3e915974d4d745cc1d8d71208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4776efe2d7f34dd2c3f401da13cc5c94"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; size_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a4776efe2d7f34dd2c3f401da13cc5c94">count_</a></td></tr>
-<tr class="separator:a4776efe2d7f34dd2c3f401da13cc5c94"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a952fe594beacb9fe8e1b3a4447d312d4"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a952fe594beacb9fe8e1b3a4447d312d4">mutex_</a></td></tr>
-<tr class="separator:a952fe594beacb9fe8e1b3a4447d312d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf80c7b5906192c2e0d4dec9e1af79a8"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; size_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#abf80c7b5906192c2e0d4dec9e1af79a8">count_</a></td></tr>
+<tr class="separator:abf80c7b5906192c2e0d4dec9e1af79a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a682f719b1aba91975597d8d04a70b863"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a682f719b1aba91975597d8d04a70b863">mutex_</a></td></tr>
+<tr class="separator:a682f719b1aba91975597d8d04a70b863"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8d1e9ffd9b585ba1e8db63bf37d5db96"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a8d1e9ffd9b585ba1e8db63bf37d5db96">running_</a></td></tr>
 <tr class="separator:a8d1e9ffd9b585ba1e8db63bf37d5db96"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a74b01de555ee7276372188f07b999f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a7a74b01de555ee7276372188f07b999f">taskId_</a></td></tr>
@@ -284,8 +283,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a790ca5257a9288176ed2d260916f5f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa9aac42913c32f6aa8fd16566f21dca3"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#aa9aac42913c32f6aa8fd16566f21dca3">on_entry_defer_count_</a></td></tr>
 <tr class="separator:aa9aac42913c32f6aa8fd16566f21dca3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af97bf663ddd7b867fcb46f1c76bd8f5a"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#af97bf663ddd7b867fcb46f1c76bd8f5a">disabled_</a></td></tr>
-<tr class="separator:af97bf663ddd7b867fcb46f1c76bd8f5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68e717ca4610c2baed86c62121cee5bd"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a68e717ca4610c2baed86c62121cee5bd">disabled_</a></td></tr>
+<tr class="separator:a68e717ca4610c2baed86c62121cee5bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0125a9ff8fc9a53d83513a473686ca0b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a0125a9ff8fc9a53d83513a473686ca0b">deleted_</a></td></tr>
 <tr class="separator:a0125a9ff8fc9a53d83513a473686ca0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae45a4e583bd452fc25e68a21ce7ef96b"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#ae45a4e583bd452fc25e68a21ce7ef96b">enqueues_</a></td></tr>
@@ -306,8 +305,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a9a4503c4adbfaaa763201d07af6e377f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae851f15306dff64bf96766d0280fda58"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d91/classWaterMarkTuple.html">WaterMarkTuple</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#ae851f15306dff64bf96766d0280fda58">watermarks_</a></td></tr>
 <tr class="separator:ae851f15306dff64bf96766d0280fda58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae760430343011bdb0d2b714818976090"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#ae760430343011bdb0d2b714818976090">water_mutex_</a></td></tr>
-<tr class="separator:ae760430343011bdb0d2b714818976090"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a675cdf3f92de67cb903de4efc9274e2c"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a675cdf3f92de67cb903de4efc9274e2c">water_mutex_</a></td></tr>
+<tr class="separator:a675cdf3f92de67cb903de4efc9274e2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad57acb9b9f8eb54758fabddc518db3fb"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#ad57acb9b9f8eb54758fabddc518db3fb">task_starts_</a></td></tr>
 <tr class="separator:ad57acb9b9f8eb54758fabddc518db3fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9b731db98f8fb6575aa4e00f92b7ec0f"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0c/classWorkQueue.html#a9b731db98f8fb6575aa4e00f92b7ec0f">max_queue_len_</a></td></tr>
@@ -2795,8 +2794,8 @@ template&lt;typename QueueEntryT &gt; </div>
 
 </div>
 </div>
-<a id="a4776efe2d7f34dd2c3f401da13cc5c94"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4776efe2d7f34dd2c3f401da13cc5c94">&#9670;&nbsp;</a></span>count_</h2>
+<a id="abf80c7b5906192c2e0d4dec9e1af79a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf80c7b5906192c2e0d4dec9e1af79a8">&#9670;&nbsp;</a></span>count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2807,7 +2806,7 @@ template&lt;typename QueueEntryT &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;size_t&gt; <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::count_</td>
+          <td class="memname">std::atomic&lt;size_t&gt; <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::count_</td>
         </tr>
       </table>
   </td>
@@ -2925,8 +2924,8 @@ template&lt;typename QueueEntryT &gt; </div>
 
 </div>
 </div>
-<a id="af97bf663ddd7b867fcb46f1c76bd8f5a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af97bf663ddd7b867fcb46f1c76bd8f5a">&#9670;&nbsp;</a></span>disabled_</h2>
+<a id="a68e717ca4610c2baed86c62121cee5bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68e717ca4610c2baed86c62121cee5bd">&#9670;&nbsp;</a></span>disabled_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2937,7 +2936,7 @@ template&lt;typename QueueEntryT &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::disabled_</td>
+          <td class="memname">std::atomic&lt;bool&gt; <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::disabled_</td>
         </tr>
       </table>
   </td>
@@ -3133,8 +3132,8 @@ template&lt;typename QueueEntryT &gt; </div>
 
 </div>
 </div>
-<a id="a952fe594beacb9fe8e1b3a4447d312d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a952fe594beacb9fe8e1b3a4447d312d4">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a682f719b1aba91975597d8d04a70b863"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a682f719b1aba91975597d8d04a70b863">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3145,7 +3144,7 @@ template&lt;typename QueueEntryT &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::mutex_</td>
+          <td class="memname">std::mutex <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::mutex_</td>
         </tr>
       </table>
   </td>
@@ -3471,8 +3470,8 @@ template&lt;typename QueueEntryT &gt; </div>
 
 </div>
 </div>
-<a id="ae760430343011bdb0d2b714818976090"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae760430343011bdb0d2b714818976090">&#9670;&nbsp;</a></span>water_mutex_</h2>
+<a id="a675cdf3f92de67cb903de4efc9274e2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a675cdf3f92de67cb903de4efc9274e2c">&#9670;&nbsp;</a></span>water_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3483,7 +3482,7 @@ template&lt;typename QueueEntryT &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::water_mutex_</td>
+          <td class="memname">std::mutex <a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; QueueEntryT &gt;::water_mutex_</td>
         </tr>
       </table>
   </td>

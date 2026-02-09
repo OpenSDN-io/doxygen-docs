@@ -71,7 +71,7 @@ var classDnsManager =
     [ "kNamedLoWaterMark", "dd/de1/classDnsManager.html#a2169b3e711ded9b5642cd58d97c5b5c4", null ],
     [ "kPendingRecordReScheduleTime", "dd/de1/classDnsManager.html#af8501760633d9d143e439167918cdd20", null ],
     [ "max_records_per_sandesh", "dd/de1/classDnsManager.html#ab5851dd6893c3f8d907bf43c2f9bb47f", null ],
-    [ "mutex_", "dd/de1/classDnsManager.html#a8e98d8d07394ff6f02f9d36730bcc7f6", null ],
+    [ "mutex_", "dd/de1/classDnsManager.html#a64e13370bf0a1b7ef4b220028a16bf1d", null ],
     [ "named_hi_watermark_", "dd/de1/classDnsManager.html#ac7b6916f7547a0ecede70a15a4b23bba", null ],
     [ "named_lo_watermark_", "dd/de1/classDnsManager.html#a627cecaeb9601642e568d386bfe025d3", null ],
     [ "named_max_retransmissions_", "dd/de1/classDnsManager.html#a0fd6322e7e56a640d3c8d05f6dc05f7e", null ],

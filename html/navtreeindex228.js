@@ -11,6 +11,7 @@ var NAVTREEINDEX228 =
 "df/ddb/classPeerCloseManager.html#a9212da13fb52d23faee3dcadfa944de1":[2,0,1293,55],
 "df/ddb/classPeerCloseManager.html#a92d1dc64367aef94291d7811da1a8411":[2,0,1293,66],
 "df/ddb/classPeerCloseManager.html#a94257d414185b2fc0ffa37a665dbe222":[2,0,1293,27],
+"df/ddb/classPeerCloseManager.html#a94cf71849f39f31ed25b97e5e81a3735":[2,0,1293,69],
 "df/ddb/classPeerCloseManager.html#a956d8466309e4d619f2c1e7c99bf26c1":[2,0,1293,45],
 "df/ddb/classPeerCloseManager.html#a9962c59fd2bf8d7f08758445ef175918":[2,0,1293,15],
 "df/ddb/classPeerCloseManager.html#aa066b8ddc84baa3aaf700d131bcc0d56":[2,0,1293,59],
@@ -119,6 +120,7 @@ var NAVTREEINDEX228 =
 "df/ddc/classTaskScheduler.html#a3113d6d9878cf94f27c730d48337bd43a7dbcfacd0366580a71ec01d9ac83d254":[2,0,1702,3,2],
 "df/ddc/classTaskScheduler.html#a3113d6d9878cf94f27c730d48337bd43a9fd728cc463f1b120a6b17ebced0677e":[2,0,1702,3,0],
 "df/ddc/classTaskScheduler.html#a3113d6d9878cf94f27c730d48337bd43ae6e84185dfdffbdbe5153479ca4b3c3c":[2,0,1702,3,1],
+"df/ddc/classTaskScheduler.html#a3217b0baeccfd0195c8538e755811785":[2,0,1702,81],
 "df/ddc/classTaskScheduler.html#a3490f0dcb376cafa83ab1700d17f321c":[2,0,1702,22],
 "df/ddc/classTaskScheduler.html#a36038748313c130b926b7ce1c86719d6":[2,0,1702,89],
 "df/ddc/classTaskScheduler.html#a38cf252cb030015f4cf4a69688384bcb":[2,0,1702,54],
@@ -153,7 +155,6 @@ var NAVTREEINDEX228 =
 "df/ddc/classTaskScheduler.html#a7dcf5cca13e496904f68a5d8ba6fbaf4":[2,0,1702,39],
 "df/ddc/classTaskScheduler.html#a7de4915ea03556ed492242fa80ad811a":[2,0,1702,55],
 "df/ddc/classTaskScheduler.html#a8151deeb84920f8f6fa66b48308e33e2":[2,0,1702,34],
-"df/ddc/classTaskScheduler.html#a884e323e13df21a65e8b660adb33ad98":[2,0,1702,81],
 "df/ddc/classTaskScheduler.html#a8afe9abe8a8ebeac4264458cd3c9ccce":[2,0,1702,19],
 "df/ddc/classTaskScheduler.html#a8bac382aae61e9de83f2d02bfdc40062":[2,0,1702,16],
 "df/ddc/classTaskScheduler.html#a8e46200f4143419b2e99fadfb97f5899":[2,0,1702,77],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "df/de2/classAgentUtXmlVrf.html#ab31016ff650a67f55774be983a74b9e9":[2,0,164,1],
 "df/de2/classAgentUtXmlVrf.html#aca18e4a0f3396ed5cb42f125371b50a1":[2,0,164,4],
 "df/de2/xmpp__dns__agent_8h.html":[3,0,1336],
-"df/de2/xmpp__dns__agent_8h.html#a686394ca5085c5d6c209932fe3eb1dea":[3,0,1336,2],
-"df/de2/xmpp__dns__agent_8h.html#a86d559a10aee458e6347b9c091a41f2a":[3,0,1336,1]
+"df/de2/xmpp__dns__agent_8h.html#a686394ca5085c5d6c209932fe3eb1dea":[3,0,1336,2]
 };

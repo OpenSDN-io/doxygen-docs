@@ -50,7 +50,7 @@ var classEvpnManager =
     [ "TriggerSegmentUpdate", "d4/d15/classEvpnManager.html#ab90639a78acdcc2e70c979fe3f8f7f89", null ],
     [ "BgpEvpnAliasingTest", "d4/d15/classEvpnManager.html#a197b4dd4c825c0af5c2cb884e4ff1373", null ],
     [ "BgpEvpnManagerTest", "d4/d15/classEvpnManager.html#a7fdcddd3172a4f86b1ecaf5a0dcbee6f", null ],
-    [ "db_states_count_", "d4/d15/classEvpnManager.html#a542ac757fd1d6da05e5fec5fe9c6fb16", null ],
+    [ "db_states_count_", "d4/d15/classEvpnManager.html#ad1278f5d714bd9124da246e85aab83ff", null ],
     [ "deleter_", "d4/d15/classEvpnManager.html#a719f0a82b8ba37400d9fb399ea56ab59", null ],
     [ "ermvpn_listener_id_", "d4/d15/classEvpnManager.html#aceded39847afa7ebe5b3d3e8e002a2b2", null ],
     [ "ermvpn_table_", "d4/d15/classEvpnManager.html#a085a18aa1c71cfce01667bfc634c2f54", null ],

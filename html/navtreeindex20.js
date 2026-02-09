@@ -46,6 +46,9 @@ var NAVTREEINDEX20 =
 "d1/d2e/classLogging.html#acc3d848a3d05076fd185cd95e9c648d5":[2,0,1071,0],
 "d1/d2e/classLogging.html#af6a0971121f5b0d9d6ebfb4e69b20a4d":[2,0,1071,1],
 "d1/d2e/xmpp__server_8h.html":[3,0,1350],
+"d1/d2e/xmpp__server_8h.html#a4cbf24b357341206f7122403ddd7eda7":[3,0,1350,1],
+"d1/d2e/xmpp__server_8h.html#a9a536242075090797f2e5e064a552525":[3,0,1350,2],
+"d1/d2e/xmpp__server_8h.html#ac75d2e36a80b1670934d397cc091d920":[3,0,1350,3],
 "d1/d2e/xmpp__server_8h_source.html":[3,0,1350],
 "d1/d31/classPathResolver.html":[2,0,1282],
 "d1/d31/classPathResolver.html#a01126a7fd0752bed5ab1caf85eba7727":[2,0,1282,2],
@@ -57,7 +60,6 @@ var NAVTREEINDEX20 =
 "d1/d31/classPathResolver.html#a0b3eabada46fac3a5ac3d66a3e4c7070":[2,0,1282,49],
 "d1/d31/classPathResolver.html#a0ee1245b714f03e23914c23dc176014e":[2,0,1282,40],
 "d1/d31/classPathResolver.html#a126e93f3097d36c35e54249dfcba85b8":[2,0,1282,15],
-"d1/d31/classPathResolver.html#a16023d82538a4f956259858010b94ea9":[2,0,1282,52],
 "d1/d31/classPathResolver.html#a167bf4745b588be4b14ef7471bbf53fa":[2,0,1282,51],
 "d1/d31/classPathResolver.html#a17ede22aa8f92672eb80f364c313aa89":[2,0,1282,45],
 "d1/d31/classPathResolver.html#a19f5b4e31c7d71f6554fdbb43648a098":[2,0,1282,9],
@@ -110,6 +112,7 @@ var NAVTREEINDEX20 =
 "d1/d31/classPathResolver.html#af2e38e7dc68854c76c0d86a54ffb297e":[2,0,1282,11],
 "d1/d31/classPathResolver.html#af32bdbca6f489eacbd76fc88a4a5e0f3":[2,0,1282,7],
 "d1/d31/classPathResolver.html#afbc546365af56e3e7efe4332826b2cec":[2,0,1282,23],
+"d1/d31/classPathResolver.html#afbeff757504e5bca0a2a2668756e06c1":[2,0,1282,52],
 "d1/d31/istatic__route__mgr_8h.html":[3,0,640],
 "d1/d31/istatic__route__mgr_8h_source.html":[3,0,640],
 "d1/d31/vrouter__uve__entry_8h.html":[3,0,1299],
@@ -246,8 +249,5 @@ var NAVTREEINDEX20 =
 "d1/d41/classIcmpv6Handler.html#a08d908f7f9b438ccac1292a73d2cff9e":[2,0,822,28],
 "d1/d41/classIcmpv6Handler.html#a08ea3295a124d6dc6339b8edd6511593":[2,0,822,18],
 "d1/d41/classIcmpv6Handler.html#a1a22b0eae99142d8981f6f6a6b31e162":[2,0,822,20],
-"d1/d41/classIcmpv6Handler.html#a2b6b57c8309d40aa134eefc913ce35c5":[2,0,822,19],
-"d1/d41/classIcmpv6Handler.html#a2ecfea2da6b1519bf9172d011efb1015":[2,0,822,1],
-"d1/d41/classIcmpv6Handler.html#a369b51b5353309a6c8d79836fcd06403":[2,0,822,12],
-"d1/d41/classIcmpv6Handler.html#a3813a4feefbd27ed4a5cad07e46e50aa":[2,0,822,8]
+"d1/d41/classIcmpv6Handler.html#a2b6b57c8309d40aa134eefc913ce35c5":[2,0,822,19]
 };

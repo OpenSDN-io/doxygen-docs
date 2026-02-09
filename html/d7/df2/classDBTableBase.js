@@ -57,10 +57,10 @@ var classDBTableBase =
     [ "kInvalidId", "d7/df2/classDBTableBase.html#a9f280152749cd0aa47c12b622daf6ccb", null ],
     [ "name_", "d7/df2/classDBTableBase.html#a6d738778531201e35b6415520fd458f1", null ],
     [ "notify_count_", "d7/df2/classDBTableBase.html#a882519a367cbc4851b9633fcf5914ac9", null ],
-    [ "walk_again_count_", "d7/df2/classDBTableBase.html#a1d4c8bd3a30dc94911d79ad0479e00d7", null ],
-    [ "walk_cancel_count_", "d7/df2/classDBTableBase.html#a37b91c5e2a998bfe846ee074f354b941", null ],
-    [ "walk_complete_count_", "d7/df2/classDBTableBase.html#a2cfdca0a80b49cd27d145f56b0d29632", null ],
-    [ "walk_count_", "d7/df2/classDBTableBase.html#ad7380ff4639dca40385f360ca2b92793", null ],
-    [ "walk_request_count_", "d7/df2/classDBTableBase.html#ab00757e62ae85532c28419b1cb1dbc0a", null ],
-    [ "walker_count_", "d7/df2/classDBTableBase.html#aed83baf92663ce63c60ea341af29dcf5", null ]
+    [ "walk_again_count_", "d7/df2/classDBTableBase.html#a11768dccfc834df8bf7de4f18862ced4", null ],
+    [ "walk_cancel_count_", "d7/df2/classDBTableBase.html#a8fb468f6192190d56d18031396968024", null ],
+    [ "walk_complete_count_", "d7/df2/classDBTableBase.html#a7484320f33a0e34986d7c0dc1dfe38fe", null ],
+    [ "walk_count_", "d7/df2/classDBTableBase.html#afc581d338981103e16fbcd3afb695080", null ],
+    [ "walk_request_count_", "d7/df2/classDBTableBase.html#a66a6c94f19f2e481f393e0388209466f", null ],
+    [ "walker_count_", "d7/df2/classDBTableBase.html#a24cb49342eed7a632449726872f202a5", null ]
 ];

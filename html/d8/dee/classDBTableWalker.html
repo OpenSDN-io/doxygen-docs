@@ -99,15 +99,6 @@ $(document).ready(function(){initNavTree('d8/dee/classDBTableWalker.html','../..
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for DBTableWalker:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d6/d0d/classDBTableWalker__coll__graph.png" border="0" usemap="#aDBTableWalker_coll__map" alt="Collaboration graph"/></div>
-<map name="aDBTableWalker_coll__map" id="aDBTableWalker_coll__map">
-<area shape="rect" title=" " alt="" coords="5,95,116,121"/>
-<area shape="rect" title=" " alt="" coords="31,5,90,32"/>
-</map>
-<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
@@ -171,8 +162,8 @@ Static Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a0cb4aa9b31266445beeb0e37af070566"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dee/classDBTableWalker.html#a0cb4aa9b31266445beeb0e37af070566">task_id_</a></td></tr>
 <tr class="separator:a0cb4aa9b31266445beeb0e37af070566"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76f4662b8aabb4f591e5e4cf128bf2d0"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dee/classDBTableWalker.html#a76f4662b8aabb4f591e5e4cf128bf2d0">walkers_mutex_</a></td></tr>
-<tr class="separator:a76f4662b8aabb4f591e5e4cf128bf2d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b50f7d4489d6fd61c32a11c8c758b9e"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dee/classDBTableWalker.html#a9b50f7d4489d6fd61c32a11c8c758b9e">walkers_mutex_</a></td></tr>
+<tr class="separator:a9b50f7d4489d6fd61c32a11c8c758b9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8d8d89d59f8ffed964b5ad8c9b34352d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dee/classDBTableWalker.html#a7284a3bc29f8b717ece1efa5ed56eb2e">WalkerList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dee/classDBTableWalker.html#a8d8d89d59f8ffed964b5ad8c9b34352d">walkers_</a></td></tr>
 <tr class="separator:a8d8d89d59f8ffed964b5ad8c9b34352d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a98519ad5efb2af6b4dbde5cb2233d662"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dee/classDBTableWalker.html#a125f1f4924e4587f5124fa2019945685">WalkerMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dee/classDBTableWalker.html#a98519ad5efb2af6b4dbde5cb2233d662">walker_map_</a></td></tr>
@@ -185,7 +176,7 @@ Static Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00017">17</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00019">19</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="adb2fe36c68b39943cd7f4feb2b399512"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adb2fe36c68b39943cd7f4feb2b399512">&#9670;&nbsp;</a></span>WalkCompleteFn</h2>
@@ -199,7 +190,7 @@ Static Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00028">28</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00030">30</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -223,7 +214,7 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00082">82</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00084">84</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -247,7 +238,7 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00083">83</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00085">85</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -263,7 +254,7 @@ Static Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00025">25</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00027">27</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -279,7 +270,7 @@ Static Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00030">30</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00032">32</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -341,7 +332,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00058">58</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00060">60</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -407,7 +398,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00051">51</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00053">53</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -434,7 +425,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00049">49</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00051">51</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -557,7 +548,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00033">33</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00035">35</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -581,7 +572,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00032">32</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00034">34</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -605,7 +596,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00056">56</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00058">58</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -629,7 +620,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00089">89</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00091">91</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -653,7 +644,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00092">92</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00094">94</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
@@ -677,12 +668,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00091">91</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00093">93</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>
-<a id="a76f4662b8aabb4f591e5e4cf128bf2d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76f4662b8aabb4f591e5e4cf128bf2d0">&#9670;&nbsp;</a></span>walkers_mutex_</h2>
+<a id="a9b50f7d4489d6fd61c32a11c8c758b9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b50f7d4489d6fd61c32a11c8c758b9e">&#9670;&nbsp;</a></span>walkers_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -691,7 +682,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex DBTableWalker::walkers_mutex_</td>
+          <td class="memname">std::mutex DBTableWalker::walkers_mutex_</td>
         </tr>
       </table>
   </td>
@@ -701,7 +692,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00090">90</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d04/db__table__walker_8h_source.html#l00092">92</a> of file <a class="el" href="../../d4/d04/db__table__walker_8h_source.html">db_table_walker.h</a>.</p>
 
 </div>
 </div>

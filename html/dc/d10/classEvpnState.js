@@ -25,7 +25,7 @@ var classEvpnState =
     [ "intrusive_ptr_release", "dc/d10/classEvpnState.html#a117e44da66d134fea8b7591d14a6feeb", null ],
     [ "global_ermvpn_tree_rt_", "dc/d10/classEvpnState.html#a6903a6bfe3d52b17673875e707e80f23", null ],
     [ "manager_", "dc/d10/classEvpnState.html#a6b2f41017f161062954b7f4d6699067d", null ],
-    [ "refcount_", "dc/d10/classEvpnState.html#ac55c7c2c3e178e6386c9898020937ac6", null ],
+    [ "refcount_", "dc/d10/classEvpnState.html#aee6b0570e9789945a4545c41fb33170f", null ],
     [ "sg_", "dc/d10/classEvpnState.html#aaf668e9a4adf5f98faf153f555798a4b", null ],
     [ "smet_routes_", "dc/d10/classEvpnState.html#a23f4696ad957581db4391401d508cd96", null ],
     [ "states_", "dc/d10/classEvpnState.html#abb865193eeadb2ff8cbce8d81b445261", null ]

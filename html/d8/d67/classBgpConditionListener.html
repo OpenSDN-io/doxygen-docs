@@ -100,19 +100,18 @@ Collaboration diagram for BgpConditionListener:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/db9/classBgpConditionListener__coll__graph.png" border="0" usemap="#aBgpConditionListener_coll__map" alt="Collaboration graph"/></div>
 <map name="aBgpConditionListener_coll__map" id="aBgpConditionListener_coll__map">
-<area shape="rect" title=" " alt="" coords="5,464,152,491"/>
-<area shape="rect" title=" " alt="" coords="79,95,137,121"/>
-<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="185,184,266,211"/>
-<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="115,235,157,261"/>
-<area shape="rect" href="../../db/d26/classBgpServer.html" title=" " alt="" coords="164,375,247,401"/>
-<area shape="rect" href="../../d1/df7/classBgpSessionManager.html" title=" " alt="" coords="314,285,457,312"/>
-<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="193,95,303,121"/>
-<area shape="rect" title=" " alt="" coords="327,95,382,121"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="406,95,511,121"/>
-<area shape="rect" title=" " alt="" coords="417,5,500,32"/>
-<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="291,184,491,211"/>
-<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="515,184,709,211"/>
-<area shape="rect" title=" " alt="" coords="734,184,802,211"/>
+<area shape="rect" title=" " alt="" coords="909,273,1055,300"/>
+<area shape="rect" href="../../db/d26/classBgpServer.html" title=" " alt="" coords="825,184,907,211"/>
+<area shape="rect" href="../../d1/df7/classBgpSessionManager.html" title=" " alt="" coords="548,273,691,300"/>
+<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="127,184,208,211"/>
+<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,95,116,121"/>
+<area shape="rect" title=" " alt="" coords="140,95,195,121"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
+<area shape="rect" title=" " alt="" coords="230,5,313,32"/>
+<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="233,184,433,211"/>
+<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="457,184,651,211"/>
+<area shape="rect" title=" " alt="" coords="676,184,744,211"/>
+<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="845,95,887,121"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -170,8 +169,8 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ad38572326b18a5ffad57cc86c9de148e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d26/classBgpServer.html">BgpServer</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d67/classBgpConditionListener.html#ad38572326b18a5ffad57cc86c9de148e">server_</a></td></tr>
 <tr class="separator:ad38572326b18a5ffad57cc86c9de148e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b10d39b6bb86188e7af822362e15683"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d67/classBgpConditionListener.html#a0b10d39b6bb86188e7af822362e15683">mutex_</a></td></tr>
-<tr class="separator:a0b10d39b6bb86188e7af822362e15683"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1667831e633900c677b98a479be42e89"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d67/classBgpConditionListener.html#a1667831e633900c677b98a479be42e89">mutex_</a></td></tr>
+<tr class="separator:a1667831e633900c677b98a479be42e89"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd1c6dcf775c8507baafe01afffcc9fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d67/classBgpConditionListener.html#a3b1fcbad57ddca6eda936c9fa0a8d820">TableMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d67/classBgpConditionListener.html#afd1c6dcf775c8507baafe01afffcc9fe">map_</a></td></tr>
 <tr class="separator:afd1c6dcf775c8507baafe01afffcc9fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8d837e2e2954a84e9f4d27d464f08930"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d67/classBgpConditionListener.html#a893cbab2aee42f2251dccff61a882842">PurgeTableStateList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d67/classBgpConditionListener.html#a8d837e2e2954a84e9f4d27d464f08930">purge_list_</a></td></tr>
@@ -187,7 +186,7 @@ Friends</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00156">156</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00157">157</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a893cbab2aee42f2251dccff61a882842"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a893cbab2aee42f2251dccff61a882842">&#9670;&nbsp;</a></span>PurgeTableStateList</h2>
@@ -209,7 +208,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00203">203</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00204">204</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -225,7 +224,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00161">161</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00162">162</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -241,7 +240,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00158">158</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00159">159</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -454,7 +453,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" title=" " alt="" coords="5,64,152,105"/>
 <area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ab93181b66d47a83626afad5457f25dcb" title=" " alt="" coords="200,5,375,47"/>
 <area shape="rect" href="../../d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="206,71,369,98"/>
-<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title=" " alt="" coords="200,123,375,164"/>
+<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#aa3a5d1f56098dd42b025f8c4cac0dd9f" title=" " alt="" coords="200,123,375,164"/>
 <area shape="rect" href="../../d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="439,35,617,76"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="423,101,633,127"/>
 </map>
@@ -607,7 +606,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" title=" " alt="" coords="5,64,152,105"/>
 <area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ab93181b66d47a83626afad5457f25dcb" title=" " alt="" coords="200,5,375,47"/>
 <area shape="rect" href="../../d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="206,71,369,98"/>
-<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title=" " alt="" coords="200,123,375,164"/>
+<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#aa3a5d1f56098dd42b025f8c4cac0dd9f" title=" " alt="" coords="200,123,375,164"/>
 <area shape="rect" href="../../d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="439,35,617,76"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="423,101,633,127"/>
 </map>
@@ -773,7 +772,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d1/d67/classConditionMatch.html#a815e69097d416c17b7b66d71fa260760" title=" " alt="" coords="200,234,385,275"/>
 <area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ab93181b66d47a83626afad5457f25dcb" title=" " alt="" coords="205,299,380,341"/>
 <area shape="rect" href="../../d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="211,365,374,392"/>
-<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title=" " alt="" coords="205,417,380,458"/>
+<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#aa3a5d1f56098dd42b025f8c4cac0dd9f" title=" " alt="" coords="205,417,380,458"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="439,15,636,57"/>
 <area shape="rect" href="../../d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="448,335,627,377"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a667642e40f847cf33943df9356f47dd3" title=" " alt="" coords="433,81,641,108"/>
@@ -813,7 +812,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00197">197</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00198">198</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -866,7 +865,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d44/classDBEntryBase.html#a30b3fad9d44882f47eb246c9b19cd579" title=" " alt="" coords="208,71,371,98"/>
 <area shape="rect" href="../../d1/d67/classConditionMatch.html#a969311611e574657e7f67baf3c4123e3" title=" " alt="" coords="200,173,379,215"/>
 <area shape="rect" href="../../d8/d44/classDBEntryBase.html#aecee6124adfd4bae453b29ad3e2dc067" title=" " alt="" coords="208,122,371,149"/>
-<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#ac25548eebedcb7f0ff71bc4c911ed91e" title=" " alt="" coords="202,239,377,280"/>
+<area shape="rect" href="../../d0/dd7/classConditionMatchTableState.html#aa3a5d1f56098dd42b025f8c4cac0dd9f" title=" " alt="" coords="202,239,377,280"/>
 <area shape="rect" href="../../d3/da7/classDBTablePartBase.html#a1e12e9ad101f673c3f88b8edd6f5d847" title=" " alt="" coords="443,31,621,72"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a4ee651e5f1892fa79cae0c2d3b084817" title=" " alt="" coords="427,97,637,123"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a1c1d64740259044ed75f11bb61f5c707" title=" " alt="" coords="433,148,631,189"/>
@@ -1067,7 +1066,7 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00202">202</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00203">203</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -1092,12 +1091,12 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00223">223</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00224">224</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
-<a id="a0b10d39b6bb86188e7af822362e15683"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b10d39b6bb86188e7af822362e15683">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a1667831e633900c677b98a479be42e89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1667831e633900c677b98a479be42e89">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1106,7 +1105,7 @@ template&lt;typename U &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex BgpConditionListener::mutex_</td>
+          <td class="memname">std::mutex BgpConditionListener::mutex_</td>
         </tr>
       </table>
   </td>
@@ -1116,7 +1115,7 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00222">222</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00223">223</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -1140,7 +1139,7 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00224">224</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00225">225</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -1164,7 +1163,7 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00225">225</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00226">226</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>
@@ -1188,7 +1187,7 @@ template&lt;typename U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00221">221</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html#l00222">222</a> of file <a class="el" href="../../d5/d21/bgp__condition__listener_8h_source.html">bgp_condition_listener.h</a>.</p>
 
 </div>
 </div>

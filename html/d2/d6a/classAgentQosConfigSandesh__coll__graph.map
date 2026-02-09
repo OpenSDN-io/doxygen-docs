@@ -1,18 +1,17 @@
 <map id="AgentQosConfigSandesh" name="AgentQosConfigSandesh">
-<area shape="rect" id="node1" title=" " alt="" coords="742,857,911,884"/>
-<area shape="rect" id="node2" href="$d3/d09/classAgentSandesh.html" title=" " alt="" coords="728,781,835,808"/>
-<area shape="rect" id="node3" href="$d2/d99/classSandeshResponse.html" title=" " alt="" coords="552,692,683,719"/>
-<area shape="rect" id="node4" href="$de/d75/classSandesh.html" title=" " alt="" coords="369,616,442,643"/>
-<area shape="rect" id="node5" href="$de/d7f/classSandeshContext.html" title=" " alt="" coords="483,496,602,523"/>
-<area shape="rect" id="node6" href="$d3/d7b/classSandeshClient.html" title=" " alt="" coords="352,496,459,523"/>
-<area shape="rect" id="node7" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="274,389,353,416"/>
-<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title=" " alt="" coords="273,272,354,299"/>
-<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="259,95,370,121"/>
-<area shape="rect" id="node10" title=" " alt="" coords="602,95,657,121"/>
-<area shape="rect" id="node15" href="$d5/db6/structSandeshConfig.html" title=" " alt="" coords="371,323,482,349"/>
-<area shape="rect" id="node11" title=" " alt="" coords="176,95,235,121"/>
-<area shape="rect" id="node12" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="41,95,146,121"/>
-<area shape="rect" id="node13" title=" " alt="" coords="52,5,135,32"/>
-<area shape="rect" id="node14" href="$d3/de9/classSandeshClientSM_1_1Mgr.html" title=" " alt="" coords="377,389,535,416"/>
-<area shape="rect" id="node16" href="$d2/dca/classSandeshMessageStatistics.html" title=" " alt="" coords="43,496,224,523"/>
+<area shape="rect" id="node1" title=" " alt="" coords="327,857,497,884"/>
+<area shape="rect" id="node2" href="$d3/d09/classAgentSandesh.html" title=" " alt="" coords="283,781,389,808"/>
+<area shape="rect" id="node3" href="$d2/d99/classSandeshResponse.html" title=" " alt="" coords="271,692,401,719"/>
+<area shape="rect" id="node4" href="$de/d75/classSandesh.html" title=" " alt="" coords="299,616,373,643"/>
+<area shape="rect" id="node5" href="$de/d7f/classSandeshContext.html" title=" " alt="" coords="391,496,510,523"/>
+<area shape="rect" id="node6" href="$d3/d7b/classSandeshClient.html" title=" " alt="" coords="585,496,692,523"/>
+<area shape="rect" id="node7" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="658,389,737,416"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title=" " alt="" coords="675,272,757,299"/>
+<area shape="rect" id="node9" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="659,95,770,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="346,95,401,121"/>
+<area shape="rect" id="node14" href="$d5/db6/structSandeshConfig.html" title=" " alt="" coords="186,323,297,349"/>
+<area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="794,95,899,121"/>
+<area shape="rect" id="node12" title=" " alt="" coords="805,5,888,32"/>
+<area shape="rect" id="node13" href="$d3/de9/classSandeshClientSM_1_1Mgr.html" title=" " alt="" coords="353,389,511,416"/>
+<area shape="rect" id="node15" href="$d2/dca/classSandeshMessageStatistics.html" title=" " alt="" coords="185,496,367,523"/>
 </map>

@@ -1,20 +1,19 @@
 <map id="HttpConnection" name="HttpConnection">
-<area shape="rect" id="node1" title=" " alt="" coords="399,512,512,539"/>
-<area shape="rect" id="node2" href="$d7/dab/classHttpClientSession.html" title=" " alt="" coords="527,601,655,628"/>
-<area shape="rect" id="node18" href="$da/d68/struct__ConnInfo.html" title=" " alt="" coords="209,601,291,628"/>
-<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="846,228,937,255"/>
-<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="820,95,931,121"/>
-<area shape="rect" id="node9" href="$de/df9/classTcpServer.html" title=" " alt="" coords="333,228,415,255"/>
-<area shape="rect" id="node5" title=" " alt="" coords="692,95,747,121"/>
-<area shape="rect" id="node15" href="$dc/dea/classTimer.html" title=" " alt="" coords="40,228,95,255"/>
-<area shape="rect" id="node6" title=" " alt="" coords="502,95,561,121"/>
-<area shape="rect" id="node7" title=" " alt="" coords="105,5,187,32"/>
-<area shape="rect" id="node16" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="5,95,129,121"/>
-<area shape="rect" id="node8" href="$d4/d6e/classHttpClient.html" title=" " alt="" coords="239,421,320,448"/>
-<area shape="rect" id="node12" href="$dc/da4/struct__GlobalInfo.html" title=" " alt="" coords="183,512,271,539"/>
-<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="195,95,300,121"/>
-<area shape="rect" id="node11" title=" " alt="" coords="211,5,294,32"/>
-<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="119,228,309,255"/>
-<area shape="rect" id="node14" title=" " alt="" coords="439,228,495,255"/>
-<area shape="rect" id="node17" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="30,5,81,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="367,512,480,539"/>
+<area shape="rect" id="node2" href="$d7/dab/classHttpClientSession.html" title=" " alt="" coords="546,601,674,628"/>
+<area shape="rect" id="node17" href="$da/d68/struct__ConnInfo.html" title=" " alt="" coords="274,601,357,628"/>
+<area shape="rect" id="node3" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="679,228,770,255"/>
+<area shape="rect" id="node4" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="576,95,687,121"/>
+<area shape="rect" id="node8" href="$de/df9/classTcpServer.html" title=" " alt="" coords="299,228,380,255"/>
+<area shape="rect" id="node5" title=" " alt="" coords="444,95,499,121"/>
+<area shape="rect" id="node14" href="$dc/dea/classTimer.html" title=" " alt="" coords="220,228,275,255"/>
+<area shape="rect" id="node6" title=" " alt="" coords="214,5,297,32"/>
+<area shape="rect" id="node15" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="112,95,236,121"/>
+<area shape="rect" id="node7" href="$d4/d6e/classHttpClient.html" title=" " alt="" coords="251,421,332,448"/>
+<area shape="rect" id="node11" href="$dc/da4/struct__GlobalInfo.html" title=" " alt="" coords="202,512,290,539"/>
+<area shape="rect" id="node9" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="304,95,409,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="321,5,403,32"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="5,228,196,255"/>
+<area shape="rect" id="node13" title=" " alt="" coords="405,228,461,255"/>
+<area shape="rect" id="node16" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="139,5,190,32"/>
 </map>

@@ -1,5 +1,8 @@
 var NAVTREEINDEX87 =
 {
+"d5/dc1/classResourceBackupReq.html#add9e897460871133bd026ae9178f596c":[2,0,1416,2],
+"d5/dc1/classResourceBackupReq.html#ae6eae2f9aa2693a6a75a4a45205a5c6f":[2,0,1416,9],
+"d5/dc1/classResourceBackupReq.html#ae79454331a24982f6ec1b1013d403572":[2,0,1416,7],
 "d5/dc2/qos__queue_8cc.html":[3,0,947],
 "d5/dc2/qos__queue_8cc_source.html":[3,0,947],
 "d5/dc4/bgp__session__manager_8cc.html":[3,0,173],
@@ -118,12 +121,12 @@ var NAVTREEINDEX87 =
 "d5/dcf/classBgpAttr.html#a1c3944c57751bb99d63bb5b2d3d8efd6":[2,0,228,61],
 "d5/dcf/classBgpAttr.html#a1e0f66ac9e43f1c1d2d1f225681f6a82":[2,0,228,45],
 "d5/dcf/classBgpAttr.html#a1f226e6f788e8383cbb1a58b0b69d38c":[2,0,228,80],
-"d5/dcf/classBgpAttr.html#a1fa852851be3e8a2d76e212db9ebb522":[2,0,228,118],
 "d5/dcf/classBgpAttr.html#a2122775efa81be6cc021b0a861c5c5e6":[2,0,228,5],
 "d5/dcf/classBgpAttr.html#a22fcb80ff566d89372736570e63aa59d":[2,0,228,93],
 "d5/dcf/classBgpAttr.html#a23b24ae7861eadd2f9e92b82ce27dc75":[2,0,228,28],
 "d5/dcf/classBgpAttr.html#a250e8f5c7b79fba7422f0860989b8266":[2,0,228,104],
 "d5/dcf/classBgpAttr.html#a2677e617f79d7cf49721e01bbb3afa44":[2,0,228,71],
+"d5/dcf/classBgpAttr.html#a2ad609818858c7dd9ff83e3f9f13a3b9":[2,0,228,118],
 "d5/dcf/classBgpAttr.html#a2aff79ec4a1bfc603866f9612eebf4db":[2,0,228,9],
 "d5/dcf/classBgpAttr.html#a2b756adda8df96f26d8fd382cdb8547f":[2,0,228,1],
 "d5/dcf/classBgpAttr.html#a2fb9c1b80e7378ca306987fe99abebab":[2,0,228,110],
@@ -246,8 +249,5 @@ var NAVTREEINDEX87 =
 "d5/dd2/classUpdateLocalPref.html#a9452f557a36d62f5aa3cad5d822bcda4":[2,0,1757,3],
 "d5/dd2/classUpdateLocalPref.html#aad934d98e8480beb940a26cfb2b979db":[2,0,1757,1],
 "d5/dd2/classUpdateLocalPref.html#aec3bb2076681ec436d53e523091cf0a1":[2,0,1757,5],
-"d5/dd2/structxmsm_1_1Connect.html":[2,0,24,24],
-"d5/dd2/structxmsm_1_1Connect.html#a1020d4ac47af605833847728635045bf":[2,0,24,24,10],
-"d5/dd2/structxmsm_1_1Connect.html#a1202180c66ccfded07fec5fbfb727203":[2,0,24,24,2],
-"d5/dd2/structxmsm_1_1Connect.html#a353e619f5bff1ad2f565e87680035bdd":[2,0,24,24,3]
+"d5/dd2/structxmsm_1_1Connect.html":[2,0,24,24]
 };

@@ -1,9 +1,8 @@
 <map id="RemoveQueueEntry" name="RemoveQueueEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="5,452,144,479"/>
-<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="110,363,213,389"/>
-<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="11,273,138,300"/>
-<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="23,184,126,211"/>
-<area shape="rect" id="node5" title=" " alt="" coords="10,95,65,121"/>
-<area shape="rect" id="node6" href="$df/d70/classDB.html" title=" " alt="" coords="91,95,133,121"/>
-<area shape="rect" id="node7" title=" " alt="" coords="83,5,141,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,363,144,389"/>
+<area shape="rect" id="node2" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="110,273,213,300"/>
+<area shape="rect" id="node3" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="11,184,138,211"/>
+<area shape="rect" id="node4" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="23,95,126,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="10,5,65,32"/>
+<area shape="rect" id="node6" href="$df/d70/classDB.html" title=" " alt="" coords="91,5,133,32"/>
 </map>

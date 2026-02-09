@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d6/d79/classQosBackUpResourceTable.html#af23f5734d098a6d613fcda65beba3e7f":[2,0,1378,1],
+"d6/d7a/classVmStatDocker.html":[2,0,1813],
+"d6/d7a/classVmStatDocker.html#a0e18ee2ae02c7b3f64cadc4076f753cb":[2,0,1813,10],
 "d6/d7a/classVmStatDocker.html#a10f86aebb94257a333ba44123034e57c":[2,0,1813,4],
 "d6/d7a/classVmStatDocker.html#a15896b52aff2a00c392cf208b9a18eef":[2,0,1813,16],
 "d6/d7a/classVmStatDocker.html#a2fb9b05970f87ed2fefe0408a60b3d4d":[2,0,1813,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d6/d8f/structConfigManagerNodeList_1_1Node.html#a40b40492a7f3fd3a37232ce3c0413e07":[2,0,496,0,2],
 "d6/d8f/structConfigManagerNodeList_1_1Node.html#a974f51d829e8112ca9c32967eb0d3b62":[2,0,496,0,1],
 "d6/d8f/structConfigManagerNodeList_1_1Node.html#a9a6cbf4149ac9d3c91a76fe7bc293201":[2,0,496,0,0],
-"d6/d91/sub__cluster_8cc.html":[3,0,1090],
-"d6/d91/sub__cluster_8cc_source.html":[3,0,1090],
-"d6/d92/classauthpb_1_1Role.html":[2,0,0,5],
-"d6/d92/classauthpb_1_1Role.html#a01359c5fbdc7f578e966da2a5f152d70":[2,0,0,5,26]
+"d6/d91/sub__cluster_8cc.html":[3,0,1090]
 };

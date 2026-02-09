@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"df/d85/xml__base_8h.html":[3,0,1320],
 "df/d85/xml__base_8h_source.html":[3,0,1320],
 "df/d86/classAgentUtXmlValidate.html":[2,0,155],
 "df/d86/classAgentUtXmlValidate.html#a14eded61f3f9b29135935b327beeb087":[2,0,155,2],
@@ -88,11 +89,11 @@ var NAVTREEINDEX224 =
 "df/d8f/classConfigCassandraClient.html#a254a2c30a4badb792f9effba89a87bce":[2,0,480,20],
 "df/d8f/classConfigCassandraClient.html#a294d3985580e3441e22a9b2410b1e223":[2,0,480,24],
 "df/d8f/classConfigCassandraClient.html#a331d60dc924cdfab22c3640f6294c9c3":[2,0,480,25],
+"df/d8f/classConfigCassandraClient.html#a35ccbeb5dd96326f4c5278842b1ab5e0":[2,0,480,30],
 "df/d8f/classConfigCassandraClient.html#a3792576026e5cc0812f67f08cd9363fc":[2,0,480,36],
 "df/d8f/classConfigCassandraClient.html#a389542a3d0a65f45d54287f597816168":[2,0,480,18],
 "df/d8f/classConfigCassandraClient.html#a3d5f66cf0716b6e35c120d118e5dae78":[2,0,480,5],
 "df/d8f/classConfigCassandraClient.html#a43e235237b0ce3a03619fd3f815d56c2":[2,0,480,14],
-"df/d8f/classConfigCassandraClient.html#a450108e30eab64a2cd5a63d6b02f6ed3":[2,0,480,30],
 "df/d8f/classConfigCassandraClient.html#a4e2c84dcedf4f5a0e14f7fa127a0b7b7":[2,0,480,26],
 "df/d8f/classConfigCassandraClient.html#a4f76941db10abd79f4159d56477cfa27":[2,0,480,15],
 "df/d8f/classConfigCassandraClient.html#a6036296961f4602ad013a16ad00b0946":[2,0,480,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "df/d96/classSessionStatsCollector.html#a122655ff49e9b3c419ab9292edf7b57d":[2,0,1584,67],
 "df/d96/classSessionStatsCollector.html#a18d7b14be6fb13982c724346666cdae8":[2,0,1584,39],
 "df/d96/classSessionStatsCollector.html#a1f7d9b127a1349a005bf18256fb7d5cc":[2,0,1584,95],
-"df/d96/classSessionStatsCollector.html#a1fdb2b7bfbf9aee215b7e9c90e3a4dd5":[2,0,1584,38],
-"df/d96/classSessionStatsCollector.html#a2014580e4f024143cd6fd93e9a066c14":[2,0,1584,13]
+"df/d96/classSessionStatsCollector.html#a1fdb2b7bfbf9aee215b7e9c90e3a4dd5":[2,0,1584,38]
 };

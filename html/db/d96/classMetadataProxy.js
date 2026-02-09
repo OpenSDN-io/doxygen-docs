@@ -43,7 +43,7 @@ var classMetadataProxy =
     [ "http_server_", "db/d96/classMetadataProxy.html#ab9643c83742d9525166261d151e99885", null ],
     [ "intf_table_notify_id_", "db/d96/classMetadataProxy.html#a4eedef6e954d4c820b6a850e671a340d", null ],
     [ "ipv6_service_address_", "db/d96/classMetadataProxy.html#a7f29c26991afdc8509144b1b67f05144", null ],
-    [ "ll_ipv6_addr_mutex_", "db/d96/classMetadataProxy.html#a07f2cc1d89b892efcfb82325fc90d5d8", null ],
+    [ "ll_ipv6_addr_mutex_", "db/d96/classMetadataProxy.html#afa1af15a4c707ced681d1aa1fa4ac382", null ],
     [ "ll_ipv6_addresses_", "db/d96/classMetadataProxy.html#a48c27b102f9dfc74d5126d78b35ef6e5", null ],
     [ "metadata_proxy_sessions_", "db/d96/classMetadataProxy.html#add49c44095e0f6141ec177246556b7ec", null ],
     [ "metadata_sessions_", "db/d96/classMetadataProxy.html#ae25bc99ca696fdb2bff3e50d1c1bfed8", null ],

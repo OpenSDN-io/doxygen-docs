@@ -1,5 +1,7 @@
 var NAVTREEINDEX173 =
 {
+"db/dc4/classTunnelNHKey.html#af8b2b818e0cc9bd137c1e9da90905e07":[2,0,1741,12],
+"db/dc4/classTunnelNHKey.html#afa203b4a8158486d4a41e4fbbe533041":[2,0,1741,1],
 "db/dc4/t__cpp__generator_8cc.html":[3,0,1099],
 "db/dc4/t__cpp__generator_8cc_source.html":[3,0,1099],
 "db/dc6/namespacezookeeper_1_1client_1_1impl.html":[1,0,35,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX173 =
 "db/ddc/controller__init_8h.html#ab827e0c4ac3f08d9f0935f86a1c5833c":[3,0,283,21],
 "db/ddc/controller__init_8h.html#ac3c86c1e8d03b7b8a5ce023d542727fc":[3,0,283,9],
 "db/ddc/controller__init_8h.html#ac4aa563900e248c0395dcc7b0daa3256":[3,0,283,25],
-"db/ddc/controller__init_8h.html#ac7d40ae376a89d1e4912821761b92175":[3,0,283,26],
-"db/ddc/controller__init_8h.html#ad2d8980e48a22e30e4746c840cfd9454":[3,0,283,14],
-"db/ddc/controller__init_8h.html#ad5e4df2a7c2aacff041b63924790f8b1":[3,0,283,22]
+"db/ddc/controller__init_8h.html#ac7d40ae376a89d1e4912821761b92175":[3,0,283,26]
 };

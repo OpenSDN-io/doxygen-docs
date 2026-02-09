@@ -16,6 +16,6 @@ var classprocess_1_1ConnectionState =
     [ "ConnectionStateManager", "df/d58/classprocess_1_1ConnectionState.html#a50aeb516db86709fc2431bcdbbae5b9f", null ],
     [ "connection_map_", "df/d58/classprocess_1_1ConnectionState.html#a6831673c8c039d3752325d3541b20e7d", null ],
     [ "instance_", "df/d58/classprocess_1_1ConnectionState.html#a3fe7574c5c4ac5692fdb8fac64689b2d", null ],
-    [ "mutex_", "df/d58/classprocess_1_1ConnectionState.html#ae59c4e2e7f95ee6b17e925dea23b91c1", null ],
+    [ "mutex_", "df/d58/classprocess_1_1ConnectionState.html#a1ea8a2ef57f8a3f5c12d02e361f717e7", null ],
     [ "send_uve_cb_", "df/d58/classprocess_1_1ConnectionState.html#a4e9be52aa018de53101de4b99cae7afb", null ]
 ];

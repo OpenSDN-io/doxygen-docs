@@ -19,14 +19,14 @@ var classTraceBuffer =
     [ "TraceWrite", "df/d9f/classTraceBuffer.html#a460b3d793773a9b062a2d216ff82a807", null ],
     [ "kMaxSeqno", "df/d9f/classTraceBuffer.html#acf28d80cbe0b579c68470eed1576206d", null ],
     [ "kMinSeqno", "df/d9f/classTraceBuffer.html#a644b1b24c665dd94f3fc39b9b98aae4d", null ],
-    [ "mutex_", "df/d9f/classTraceBuffer.html#a432a4a6f4f92ba8bd811fdad6bc966cd", null ],
+    [ "mutex_", "df/d9f/classTraceBuffer.html#a54dc68537fba806f1af4c4eab3be0c20", null ],
     [ "read_context_map_", "df/d9f/classTraceBuffer.html#aed71ef24b798a2d3868b139f2f01b41f", null ],
     [ "read_index_", "df/d9f/classTraceBuffer.html#a5a58ded652aad99598bf9b56417c1e0f", null ],
-    [ "seqno_", "df/d9f/classTraceBuffer.html#a0d9d2d80b8c36bd149d235728513ca12", null ],
+    [ "seqno_", "df/d9f/classTraceBuffer.html#af65666cf28e837933bcfaa54e9fd84c4", null ],
     [ "trace_buf_", "df/d9f/classTraceBuffer.html#a77a1e53f11a8f55ca9619868dccb5eaa", null ],
     [ "trace_buf_name_", "df/d9f/classTraceBuffer.html#a94c3ed7294bab3f904e31534079c52e5", null ],
     [ "trace_buf_size_", "df/d9f/classTraceBuffer.html#aa9e6a615b7071320a55d664c2a5d1628", null ],
-    [ "trace_enable_", "df/d9f/classTraceBuffer.html#ab8dd5b42664f364f50dba5d40723e99a", null ],
+    [ "trace_enable_", "df/d9f/classTraceBuffer.html#ae42b1291bb37fefc043290013b2590ee", null ],
     [ "wrap_", "df/d9f/classTraceBuffer.html#a5f43748935ec090b2f9bf7d03ae78335", null ],
     [ "write_index_", "df/d9f/classTraceBuffer.html#a3bba4a88a1e9a7963364f4fe599104bf", null ]
 ];

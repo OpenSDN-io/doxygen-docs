@@ -16,5 +16,5 @@ var classEdgeDiscovery =
     [ "edge_discovery_db_", "d0/dcb/classEdgeDiscovery.html#a1204d35dbeea1ed75a09900e347886c4", null ],
     [ "edge_list", "d0/dcb/classEdgeDiscovery.html#a4772791b78635cbecf652e747542f18c", null ],
     [ "edspec_", "d0/dcb/classEdgeDiscovery.html#aa1b34d524c5cc130323fe54c6cf3a479", null ],
-    [ "refcount_", "d0/dcb/classEdgeDiscovery.html#ad4f550fb1cf5f3ca7fbd062f48fe0f72", null ]
+    [ "refcount_", "d0/dcb/classEdgeDiscovery.html#a9301925cd7fb43d1482cde2c3edfc7ea", null ]
 ];

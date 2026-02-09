@@ -23,5 +23,5 @@ var classMacPbbLearningEntry =
     [ "key_", "d8/d8c/classMacPbbLearningEntry.html#a81e221c28c68d15adf95462ee437fd6b", null ],
     [ "list_", "d8/d8c/classMacPbbLearningEntry.html#a4f72cf01a934b34f7ce768545d421ea2", null ],
     [ "mac_learning_table_", "d8/d8c/classMacPbbLearningEntry.html#a254bced1b27f47533f1f8d8711975fc6", null ],
-    [ "mutex_", "d8/d8c/classMacPbbLearningEntry.html#a7cb2994e82f2ba467d2502fb34105d23", null ]
+    [ "mutex_", "d8/d8c/classMacPbbLearningEntry.html#a4955680bcfa9c6861676003514f94f3c", null ]
 ];

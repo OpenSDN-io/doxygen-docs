@@ -19,7 +19,7 @@ var classPmsiTunnel =
     [ "label_", "d9/d63/classPmsiTunnel.html#af9658a7dbfc49674c35e9bb7dfdd2f41", null ],
     [ "pmsi_spec_", "d9/d63/classPmsiTunnel.html#a9fcf8b401e5e451df4ab1ea6fbc62e7b", null ],
     [ "pmsi_tunnel_db_", "d9/d63/classPmsiTunnel.html#aabe3774aa0801a34e365af90b5dfb9a0", null ],
-    [ "refcount_", "d9/d63/classPmsiTunnel.html#ad6ae097831cad9a933d947a1ed07c67e", null ],
+    [ "refcount_", "d9/d63/classPmsiTunnel.html#a6685dbc7b87f6f4577ff4e0164a3d204", null ],
     [ "tunnel_flags_", "d9/d63/classPmsiTunnel.html#a080114eb1c10e421701eab6f71601430", null ],
     [ "tunnel_type_", "d9/d63/classPmsiTunnel.html#a0455b3a5cd840dea55e3270edecd2171", null ]
 ];

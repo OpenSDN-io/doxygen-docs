@@ -6,7 +6,7 @@ var classTaskTbbKeepAwake =
     [ "StartTbbKeepAwakeTask", "dd/d34/classTaskTbbKeepAwake.html#a7b5cec9073edcb8efbaefddec6943dc1", null ],
     [ "tbb_awake_val", "dd/d34/classTaskTbbKeepAwake.html#af3dede03e813e6ce4a934b0cf4ce74cd", null ],
     [ "TbbKeepAwake", "dd/d34/classTaskTbbKeepAwake.html#a5f313bcb67e4dba0bdae6a87d92c68c6", null ],
-    [ "mutex_", "dd/d34/classTaskTbbKeepAwake.html#af0f366ead52508761ebc424ac86a0b79", null ],
+    [ "mutex_", "dd/d34/classTaskTbbKeepAwake.html#a50fc40c85be8f495d3e503f2bb5de498", null ],
     [ "tbb_awake_count_", "dd/d34/classTaskTbbKeepAwake.html#ab505a6886d7fb1e415df1ea8fa3fd7d6", null ],
     [ "tbb_awake_timer_", "dd/d34/classTaskTbbKeepAwake.html#abf1551eed2a4e12f8876f13df4b60a9a", null ],
     [ "tbb_awake_val_", "dd/d34/classTaskTbbKeepAwake.html#a65eafeb570e58993607908b119dee063", null ],

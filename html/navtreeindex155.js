@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"da/d90/drop__stats__kstate_8h.html":[3,0,373],
+"da/d90/drop__stats__kstate_8h_source.html":[3,0,373],
 "da/d91/classWaterMarkTuple.html":[2,0,1904],
 "da/d91/classWaterMarkTuple.html#a1993378dca659fcd4e792fdcf6886162":[2,0,1904,16],
 "da/d91/classWaterMarkTuple.html#a27bff10cf34662a1cb53f9bea96a3d6b":[2,0,1904,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "da/d9e/classetcdserverpb_1_1RangeResponse.html#ad0467ecd45496d86aa5af4bd7c18c00c":[2,0,8,88,29],
 "da/d9e/classetcdserverpb_1_1RangeResponse.html#ad2eebc3b48168197caa461ffb36e9d55":[2,0,8,88,33],
 "da/d9e/classetcdserverpb_1_1RangeResponse.html#ae09d4d7cf85f26a31453748b7af9eef1":[2,0,8,88,54],
-"da/d9e/classetcdserverpb_1_1RangeResponse.html#ae7d4d505fef3df762e75547855663346":[2,0,8,88,21],
-"da/d9e/classetcdserverpb_1_1RangeResponse.html#aedf515499234cc83789d3849d5786048":[2,0,8,88,0],
-"da/d9e/classetcdserverpb_1_1RangeResponse.html#aefc3c5b508ee511fc6252d3bd1ce1750":[2,0,8,88,37]
+"da/d9e/classetcdserverpb_1_1RangeResponse.html#ae7d4d505fef3df762e75547855663346":[2,0,8,88,21]
 };

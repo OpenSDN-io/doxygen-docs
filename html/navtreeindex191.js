@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"dc/dff/structPeerCloseManager_1_1Stats.html":[2,0,1293,1],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a1505ecbe010d8ccad69399f191d47140":[2,0,1293,1,6],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a19c50b0bcb4491948ed36868119a6e88":[2,0,1293,1,7],
 "dc/dff/structPeerCloseManager_1_1Stats.html#a4b96d1f614750fffb8aa7b2db64800dc":[2,0,1293,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "dd/d17/structOlistTunnelEntry.html#a3305b4b441dc9f268787a93d0754d16b":[2,0,1238,2],
 "dd/d17/structOlistTunnelEntry.html#a4b33ad088a5763744147417c497817b0":[2,0,1238,4],
 "dd/d17/structOlistTunnelEntry.html#a8ec0283eb042868b66693b6d15110c45":[2,0,1238,0],
-"dd/d17/structOlistTunnelEntry.html#ac2e771086649ee4cf178f646029e2c16":[2,0,1238,5],
-"dd/d17/structOlistTunnelEntry.html#ac7129d3e4fb27cef987f877edb4c2531":[2,0,1238,1]
+"dd/d17/structOlistTunnelEntry.html#ac2e771086649ee4cf178f646029e2c16":[2,0,1238,5]
 };

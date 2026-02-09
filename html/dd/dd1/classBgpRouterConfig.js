@@ -15,11 +15,11 @@ var classBgpRouterConfig =
     [ "GetBgpRouterFromXmppServer", "dd/dd1/classBgpRouterConfig.html#a824e17df8e40d0f4f0605de37a2e56d4", null ],
     [ "GetControlNodeZoneCount", "dd/dd1/classBgpRouterConfig.html#a12156c6a99fbce85646e9ed3147d85c5", null ],
     [ "GetInetLabeledAfEnableStatus", "dd/dd1/classBgpRouterConfig.html#a724a3cebfd9dfcbb3df566c0f1587c81", null ],
-    [ "mutex", "dd/dd1/classBgpRouterConfig.html#ab9cf38379b307dbfafb9740377d1846f", null ],
+    [ "mutex", "dd/dd1/classBgpRouterConfig.html#a543a74f5e6cd8bc1e58b059eede9db18", null ],
     [ "UpdateBgpRouterConfigAf", "dd/dd1/classBgpRouterConfig.html#a7da52540a8c01360ca66c8334e02db43", null ],
     [ "UpdateControlNodeZoneConfig", "dd/dd1/classBgpRouterConfig.html#a7850aa9096e39907f74c6fe6a8ee256b", null ],
     [ "bgp_router_tree_", "dd/dd1/classBgpRouterConfig.html#ad475fe0abad019d5858fbb94936ec138", null ],
     [ "control_node_zone_tree_", "dd/dd1/classBgpRouterConfig.html#a9025fa016f429323dd3ebc663902b495", null ],
     [ "inet_labeled_af_enabled_", "dd/dd1/classBgpRouterConfig.html#aa886ddd4ab4d1193710bd1c4a6a98ec7", null ],
-    [ "mutex_", "dd/dd1/classBgpRouterConfig.html#a26d5ccf57cf3862fb5e1f8ff2cbeb04a", null ]
+    [ "mutex_", "dd/dd1/classBgpRouterConfig.html#abb91bdffcf5bd5909ec4ca65c7e3b095", null ]
 ];

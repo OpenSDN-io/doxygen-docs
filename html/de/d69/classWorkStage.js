@@ -15,7 +15,7 @@ var classWorkStage =
     [ "finished_", "de/d69/classWorkStage.html#ad0383dc942ced35811ac663a6f676d3a", null ],
     [ "inp_", "de/d69/classWorkStage.html#a2e4a24d142952780df1d43d6dfe9bb16", null ],
     [ "merger_", "de/d69/classWorkStage.html#a444442a9dbcbb24f3aef38c2e7d77ce4", null ],
-    [ "remainingInst_", "de/d69/classWorkStage.html#a7c63d1a1c7c2d7398908e27a70d41ac0", null ],
+    [ "remainingInst_", "de/d69/classWorkStage.html#a670853ad266501d0d655f443f6d0ed5a", null ],
     [ "res_", "de/d69/classWorkStage.html#ae462105803cf8837f6e73e99121f291f", null ],
     [ "running_", "de/d69/classWorkStage.html#aae534226a3a862bf802e0fe93581b65a", null ],
     [ "stage_", "de/d69/classWorkStage.html#a1f6996baba5311409509006ae21d56a0", null ],

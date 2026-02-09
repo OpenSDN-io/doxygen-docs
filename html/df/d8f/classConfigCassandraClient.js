@@ -30,7 +30,7 @@ var classConfigCassandraClient =
     [ "UpdateFQNameCache", "df/d8f/classConfigCassandraClient.html#aa3726eb07672099ab38ec638a980ccaa", null ],
     [ "UUIDToObjCacheShow", "df/d8f/classConfigCassandraClient.html#a71c64a27befcde9a4d840a49c5a57fd3", null ],
     [ "ConfigCassandraPartition", "df/d8f/classConfigCassandraClient.html#a8e420f4c57a582099a3e5b7d2a5bab7e", null ],
-    [ "bulk_sync_status_", "df/d8f/classConfigCassandraClient.html#a450108e30eab64a2cd5a63d6b02f6ed3", null ],
+    [ "bulk_sync_status_", "df/d8f/classConfigCassandraClient.html#a35ccbeb5dd96326f4c5278842b1ab5e0", null ],
     [ "dbif_", "df/d8f/classConfigCassandraClient.html#a758eb340441b8c0e0676d18347e88c75", null ],
     [ "fq_name_reader_", "df/d8f/classConfigCassandraClient.html#a7c14adb12165fcc75b7d2f40b9c489eb", null ],
     [ "kCassClientTaskId", "df/d8f/classConfigCassandraClient.html#ac19ca7d54de8ca0d168afc660fbe4115", null ],

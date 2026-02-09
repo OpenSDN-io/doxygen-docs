@@ -33,7 +33,7 @@ var classRoutingPolicyMgr =
     [ "UpdateRoutingPolicyList", "d9/d8d/classRoutingPolicyMgr.html#a1177df798225e1ec7c348efa6b397243", null ],
     [ "WalkDone", "d9/d8d/classRoutingPolicyMgr.html#a9a472399c10f29c283b1278cbf41058a", null ],
     [ "deleter_", "d9/d8d/classRoutingPolicyMgr.html#a6132aef4fda4ab20ced9ac1772ab4885", null ],
-    [ "mutex_", "d9/d8d/classRoutingPolicyMgr.html#ac66aa4aa6642dfd7619c38faa70685ee", null ],
+    [ "mutex_", "d9/d8d/classRoutingPolicyMgr.html#a352e05bfa1c8d1e0a177a7934e6875de", null ],
     [ "routing_policies_", "d9/d8d/classRoutingPolicyMgr.html#a521f2bc61ce91ba0379d2e6fa542006a", null ],
     [ "routing_policy_sync_", "d9/d8d/classRoutingPolicyMgr.html#a243b59e24812166ab0ad3e3cda4616ff", null ],
     [ "server_", "d9/d8d/classRoutingPolicyMgr.html#a22983fd4ceb1f76c7e0f7a400ea3adc4", null ],

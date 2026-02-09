@@ -1,5 +1,8 @@
 var NAVTREEINDEX130 =
 {
+"d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#a81ab38034580f67134100f8e1e8ed12d":[2,0,8,4,13,2],
+"d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#ab546a707db41d5767fabd59af0dc830f":[2,0,8,4,13,3],
+"d8/dcc/classetcdserverpb_1_1KV_1_1WithStreamedUnaryMethod__Compact.html#af09f8874f3b8dd85084e3a7dc5629960":[2,0,8,4,13,0],
 "d8/dcc/metadata__client_8h.html":[3,0,749],
 "d8/dcc/metadata__client_8h_source.html":[3,0,749],
 "d8/dcc/namespacestd.html":[1,0,32],
@@ -246,8 +249,5 @@ var NAVTREEINDEX130 =
 "d8/dd8/classBridgeRouteAuditKSyncEntry.html#adb2aa307f7469d88780d5a3c69dad3bb":[2,0,436,5],
 "d8/dd8/classBridgeRouteAuditKSyncEntry.html#aed00f2dd39ef00d5826ac8040f4a8b53":[2,0,436,2],
 "d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html":[2,0,8,9,18],
-"d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html#a18751efe5281418a96984d793f902580":[2,0,8,9,18,1],
-"d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html#a5c3e76ba1ebb1f2c225afcbffc75f733":[2,0,8,9,18,2],
-"d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html#a6e1a1eae461374c1d9450000fba813a0":[2,0,8,9,18,0],
-"d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html#a932a199127228dbdb7fc229753e0aaa9":[2,0,8,9,18,3]
+"d8/dd8/classetcdserverpb_1_1Auth_1_1WithAsyncMethod__UserRevokeRole.html#a18751efe5281418a96984d793f902580":[2,0,8,9,18,1]
 };

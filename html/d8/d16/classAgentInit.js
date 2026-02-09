@@ -77,7 +77,7 @@ var classAgentInit =
     [ "controller_", "d8/d16/classAgentInit.html#a76edde13fb7f19102d185f56976265bc", null ],
     [ "enable_controller_", "d8/d16/classAgentInit.html#a9f1640c3a53234b9de98d4882dbc998e", null ],
     [ "event_notifier_", "d8/d16/classAgentInit.html#a8cdef4e00bd4d4f4075d46e5da68fb33", null ],
-    [ "init_mutex_", "d8/d16/classAgentInit.html#aa5836a52dacb790358734c5d532a2a1c", null ],
+    [ "init_mutex_", "d8/d16/classAgentInit.html#ace56893b2251cfae90d5bf2e990fa3f3", null ],
     [ "oper_", "d8/d16/classAgentInit.html#ae88d66e189f16913ef1b61731c750ca3", null ],
     [ "resource_manager_", "d8/d16/classAgentInit.html#a049460b3102327ae7a3fab5b2dae57d6", null ],
     [ "stats_", "d8/d16/classAgentInit.html#aae32c4a4910f89f13798189d3fd45e30", null ],

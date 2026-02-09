@@ -109,15 +109,14 @@ Collaboration diagram for XmppConnectionManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d3/db7/classXmppConnectionManager__coll__graph.png" border="0" usemap="#aXmppConnectionManager_coll__map" alt="Collaboration graph"/></div>
 <map name="aXmppConnectionManager_coll__map" id="aXmppConnectionManager_coll__map">
-<area shape="rect" title=" " alt="" coords="292,363,464,389"/>
-<area shape="rect" href="../../d8/d4d/classSslServer.html" title=" " alt="" coords="247,273,325,300"/>
-<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="201,184,283,211"/>
-<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="84,95,195,121"/>
-<area shape="rect" title=" " alt="" coords="5,95,60,121"/>
-<area shape="rect" title=" " alt="" coords="349,95,407,121"/>
+<area shape="rect" title=" " alt="" coords="163,349,335,376"/>
+<area shape="rect" href="../../d8/d4d/classSslServer.html" title=" " alt="" coords="128,260,207,287"/>
+<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="127,184,208,211"/>
+<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,95,116,121"/>
+<area shape="rect" title=" " alt="" coords="140,95,195,121"/>
 <area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
 <area shape="rect" title=" " alt="" coords="230,5,313,32"/>
-<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="415,273,615,300"/>
+<area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="231,260,431,287"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -133,8 +132,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0ef923fffab2caf10cf5ef73168d0ce2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad43dc29574173d43cf118c79bcc1a52c"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dd/d9e/classLifetimeActor.html">LifetimeActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#ad43dc29574173d43cf118c79bcc1a52c">deleter</a> ()=0</td></tr>
 <tr class="separator:ad43dc29574173d43cf118c79bcc1a52c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d76ce78e310ff901492edd8a94228e7"><td class="memItemLeft" align="right" valign="top">tbb::mutex &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#a6d76ce78e310ff901492edd8a94228e7">mutex</a> () const</td></tr>
-<tr class="separator:a6d76ce78e310ff901492edd8a94228e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec2e3d52805e84900a746aa5b0ae5f5f"><td class="memItemLeft" align="right" valign="top">std::mutex &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#aec2e3d52805e84900a746aa5b0ae5f5f">mutex</a> () const</td></tr>
+<tr class="separator:aec2e3d52805e84900a746aa5b0ae5f5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classSslServer"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classSslServer')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d4d/classSslServer.html">SslServer</a></td></tr>
 <tr class="memitem:a98f7fb1b63d8fa74a61c81cbf40a4062 inherit pub_methods_classSslServer"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4d/classSslServer.html#a98f7fb1b63d8fa74a61c81cbf40a4062">SslServer</a> (<a class="el" href="../../d2/dd9/classEventManager.html">EventManager</a> *<a class="el" href="../../da/dbc/vncapi__test_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>, boost::asio::ssl::context::method m, bool ssl_enabled=true, bool ssl_handshake_delayed=false)</td></tr>
 <tr class="separator:a98f7fb1b63d8fa74a61c81cbf40a4062 inherit pub_methods_classSslServer"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -223,8 +222,8 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a20bbc58a85f0b265a87d362880d55e24"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d0c/classWorkQueue.html">WorkQueue</a>&lt; <a class="el" href="../../de/df9/classTcpServer.html#ab60ef31af9204f98fa8a3a595864c1be">TcpSessionPtr</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#a20bbc58a85f0b265a87d362880d55e24">session_queue_</a></td></tr>
 <tr class="separator:a20bbc58a85f0b265a87d362880d55e24"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a158b326c6af14ef46d71ac63f3f19dd8"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#a158b326c6af14ef46d71ac63f3f19dd8">mutex_</a></td></tr>
-<tr class="separator:a158b326c6af14ef46d71ac63f3f19dd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74f53d1e9467ffbe917d740ef7327b75"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/classXmppConnectionManager.html#a74f53d1e9467ffbe917d740ef7327b75">mutex_</a></td></tr>
+<tr class="separator:a74f53d1e9467ffbe917d740ef7327b75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -260,7 +259,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00018">18</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00019">19</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a168ddbbb393fa05d7a53c3a3043c24e2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a168ddbbb393fa05d7a53c3a3043c24e2">&#9670;&nbsp;</a></span>XmppConnectionManager()</h2>
@@ -469,8 +468,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a6d76ce78e310ff901492edd8a94228e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6d76ce78e310ff901492edd8a94228e7">&#9670;&nbsp;</a></span>mutex()</h2>
+<a id="aec2e3d52805e84900a746aa5b0ae5f5f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec2e3d52805e84900a746aa5b0ae5f5f">&#9670;&nbsp;</a></span>mutex()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -479,7 +478,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex&amp; XmppConnectionManager::mutex </td>
+          <td class="memname">std::mutex&amp; XmppConnectionManager::mutex </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -492,7 +491,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00028">28</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00029">29</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
 
 </div>
 </div>
@@ -597,8 +596,8 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a158b326c6af14ef46d71ac63f3f19dd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a158b326c6af14ef46d71ac63f3f19dd8">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a74f53d1e9467ffbe917d740ef7327b75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74f53d1e9467ffbe917d740ef7327b75">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -607,7 +606,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex XmppConnectionManager::mutex_</td>
+          <td class="memname">std::mutex XmppConnectionManager::mutex_</td>
         </tr>
       </table>
   </td>
@@ -617,7 +616,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00035">35</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00036">36</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
 
 </div>
 </div>
@@ -641,7 +640,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00034">34</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html#l00035">35</a> of file <a class="el" href="../../de/dd9/xmpp__connection__manager_8h_source.html">xmpp_connection_manager.h</a>.</p>
 
 </div>
 </div>

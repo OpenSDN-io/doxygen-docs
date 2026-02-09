@@ -40,7 +40,7 @@ var classVnUveEntry =
     [ "ace_stats_changed_", "d3/d03/classVnUveEntry.html#ac430ef4ae5b1c217d2295397762ba51e", null ],
     [ "in_bytes_", "d3/d03/classVnUveEntry.html#ad1d5e23eec3543382f1a0531b00f1303", null ],
     [ "inter_vn_stats_", "d3/d03/classVnUveEntry.html#a81eef6f423878543b4f7adedba541916", null ],
-    [ "mutex_", "d3/d03/classVnUveEntry.html#aee60931d3881f6f517f5699748792166", null ],
+    [ "mutex_", "d3/d03/classVnUveEntry.html#a2069f8eea9d844e66d6192b6bfc35bea", null ],
     [ "out_bytes_", "d3/d03/classVnUveEntry.html#a77b9a3cf4b46b7b10d43920fbeb60d5b", null ],
     [ "port_bitmap_", "d3/d03/classVnUveEntry.html#aadcffb8df43394bd172e576b37580f92", null ],
     [ "prev_in_bytes_", "d3/d03/classVnUveEntry.html#acf2707ea91d1c98dde47d8516fd9121c", null ],

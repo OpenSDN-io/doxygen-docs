@@ -46,12 +46,12 @@ var classBgpXmppChannelManager =
     [ "bgp_server_", "dd/dfb/classBgpXmppChannelManager.html#abfe5407a481384c8c7a8cf12548e88cb", null ],
     [ "channel_map_", "dd/dfb/classBgpXmppChannelManager.html#abda9aaadc0820ae9810d9889a5cf5717", null ],
     [ "channel_name_map_", "dd/dfb/classBgpXmppChannelManager.html#ada127cd2ef408755548329f2fe7e7a70", null ],
-    [ "deleting_count_", "dd/dfb/classBgpXmppChannelManager.html#a12a354b2e6738a22a7ee5eb3fddb6f27", null ],
+    [ "deleting_count_", "dd/dfb/classBgpXmppChannelManager.html#a3ea8e3134b492701068dd86e690a5ac0", null ],
     [ "dscp_listener_id_", "dd/dfb/classBgpXmppChannelManager.html#ad6f29baeb2db1b00e8212e2dca491d8b", null ],
     [ "id_", "dd/dfb/classBgpXmppChannelManager.html#a0e5a837558bcc413e27fd754eba93b71", null ],
     [ "identifier_listener_id_", "dd/dfb/classBgpXmppChannelManager.html#ae63f4ffd6941535b643bcb20933a30d0", null ],
-    [ "mutex_", "dd/dfb/classBgpXmppChannelManager.html#a4ba97bc28c7d332b5989a397829896fc", null ],
+    [ "mutex_", "dd/dfb/classBgpXmppChannelManager.html#ab025891b41600f553d1e6269177bce12", null ],
     [ "queue_", "dd/dfb/classBgpXmppChannelManager.html#a9743e75320702c38ec517bc56e499a3e", null ],
-    [ "subscription_gen_id_", "dd/dfb/classBgpXmppChannelManager.html#a06b91ffa08e4c20da6957fd88e48dbcf", null ],
+    [ "subscription_gen_id_", "dd/dfb/classBgpXmppChannelManager.html#a76088f8eef09d40a47af84d2def93b8c", null ],
     [ "xmpp_server_", "dd/dfb/classBgpXmppChannelManager.html#a799e943366f16db8f5a48e0c27c73dce", null ]
 ];

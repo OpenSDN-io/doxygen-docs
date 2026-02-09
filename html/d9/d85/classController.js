@@ -9,7 +9,7 @@ var classController =
     [ "wait_for_done", "d9/d85/classController.html#a39e073f6dc1e6d8f7b0bd553b6e6ef71", null ],
     [ "done_it_", "d9/d85/classController.html#a3d1da5d004c3ce451acf4a01ad525fa2", null ],
     [ "kill_timer_", "d9/d85/classController.html#a4c9f0ce0879ce47c0aa36aad874284d9", null ],
-    [ "more_", "d9/d85/classController.html#a425eee64f26444dc0fa34ebadc464194", null ],
+    [ "more_", "d9/d85/classController.html#a09acea6121e86cc9c8d88d189307e730", null ],
     [ "pc_", "d9/d85/classController.html#abf9b0687196025ebf710ed912517e693", null ],
     [ "poll_timer_", "d9/d85/classController.html#a2a5db2cf84b5789936a86961825db20c", null ],
     [ "resp_body_", "d9/d85/classController.html#a835662c19f7a4cd7ce0a6f8a595c2387", null ],

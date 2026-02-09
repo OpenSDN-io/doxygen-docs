@@ -40,7 +40,7 @@ var NAVTREEINDEX18 =
 "d1/d09/classIFMapTable.html#ae5adeb6831a75182c71637b072efd206":[2,0,862,6],
 "d1/d09/classUniformInt8RandomGenerator.html":[2,0,1746],
 "d1/d09/classUniformInt8RandomGenerator.html#a129307b8cfe2d2d840e598116304e296":[2,0,1746,0],
-"d1/d09/classUniformInt8RandomGenerator.html#a2a9f5319dc847436c0d82e98074ce3c9":[2,0,1746,2],
+"d1/d09/classUniformInt8RandomGenerator.html#a1494fa2b112f2fd8d37f1d82b8fa8d80":[2,0,1746,2],
 "d1/d09/classUniformInt8RandomGenerator.html#a37399f03443ce2887d825cb0018cccda":[2,0,1746,4],
 "d1/d09/classUniformInt8RandomGenerator.html#ac8347058c29464d8e07edaa61389638a":[2,0,1746,3],
 "d1/d09/classUniformInt8RandomGenerator.html#acc212b620565730123820a1ed3f87db4":[2,0,1746,1],

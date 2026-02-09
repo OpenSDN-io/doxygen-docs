@@ -16,8 +16,8 @@ var classLabelBlock =
     [ "block_manager_", "dc/d2b/classLabelBlock.html#a3302e74561103928562d0e94222ea754", null ],
     [ "first_", "dc/d2b/classLabelBlock.html#a5cd0eb840185fce2d3ab6920b72d1345", null ],
     [ "last_", "dc/d2b/classLabelBlock.html#a68109581947806c58575306aba666263", null ],
-    [ "mutex_", "dc/d2b/classLabelBlock.html#a220f399ef1886c5eef565d4269eb20b4", null ],
+    [ "mutex_", "dc/d2b/classLabelBlock.html#ab6f8b74f00ec4d397291440a4970cb94", null ],
     [ "prev_pos_", "dc/d2b/classLabelBlock.html#ad80891c623574292014507e9308f393e", null ],
-    [ "refcount_", "dc/d2b/classLabelBlock.html#a43f894c09a35c9a443719c0209f827af", null ],
+    [ "refcount_", "dc/d2b/classLabelBlock.html#a2d5b9cea9591018026ffd3cb52af9048", null ],
     [ "used_bitset_", "dc/d2b/classLabelBlock.html#a7a33dea7598d43a9da245264f2a6b144", null ]
 ];

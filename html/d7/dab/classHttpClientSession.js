@@ -6,7 +6,7 @@ var classHttpClientSession =
     [ "~HttpClientSession", "d7/dab/classHttpClientSession.html#aff56a8d53b09de28977ea680c732dc37", null ],
     [ "Connection", "d7/dab/classHttpClientSession.html#a046e20791a32665a7fc8d6e0cc4ae92b", null ],
     [ "DISALLOW_COPY_AND_ASSIGN", "d7/dab/classHttpClientSession.html#a14f12223247f63369d5ce9450f6f1377", null ],
-    [ "mutex", "d7/dab/classHttpClientSession.html#a5d059c81a76269e03fdba34cf4ec3de0", null ],
+    [ "mutex", "d7/dab/classHttpClientSession.html#aac4ca0d3629b80871ca8179bff627126", null ],
     [ "OnEvent", "d7/dab/classHttpClientSession.html#a1f7e3766a8020627bfb39d6d584e7773", null ],
     [ "OnEventInternal", "d7/dab/classHttpClientSession.html#a29e99e8535a77ae6e9b1f029e72c630e", null ],
     [ "OnRead", "d7/dab/classHttpClientSession.html#ab22f683320ffeefda2ee13864d9d0bee", null ],
@@ -15,5 +15,5 @@ var classHttpClientSession =
     [ "connection_", "d7/dab/classHttpClientSession.html#a1bdbd4af155026f20b010253d8d2666c", null ],
     [ "delete_called_", "d7/dab/classHttpClientSession.html#aa5575d689b9ebb1ec422db91f7fc7db2", null ],
     [ "event_cb_", "d7/dab/classHttpClientSession.html#a1784b64a06808f1c2d068fd7b34c4d12", null ],
-    [ "mutex_", "d7/dab/classHttpClientSession.html#aae6afada6265868b57a9671994e89a6e", null ]
+    [ "mutex_", "d7/dab/classHttpClientSession.html#a8f99352699f26d71d31d7fbb34971d91", null ]
 ];

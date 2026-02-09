@@ -26,7 +26,7 @@ var classVmUveEntryBase =
     [ "changed_", "d5/de0/classVmUveEntryBase.html#abc39d2a46917516ab61d008f36685cba", null ],
     [ "deleted_", "d5/de0/classVmUveEntryBase.html#a2b33a1e8f34ed579665167d21d583aa3", null ],
     [ "interface_tree_", "d5/de0/classVmUveEntryBase.html#a5fe80f210780e07b473e681475c191ef", null ],
-    [ "mutex_", "d5/de0/classVmUveEntryBase.html#a1c926351e5a9b456e521be9a35bd8c0e", null ],
+    [ "mutex_", "d5/de0/classVmUveEntryBase.html#a70619af5d353a53a0f7594f33c9d2834", null ],
     [ "renewed_", "d5/de0/classVmUveEntryBase.html#a7a250928cff69edd50c67095acf47252", null ],
     [ "uve_info_", "d5/de0/classVmUveEntryBase.html#a3932e80b5e1470f641e7671a717cf2f6", null ],
     [ "vm_config_name_", "d5/de0/classVmUveEntryBase.html#a907f77fde13cbb6fd6f18ecce6c2d87a", null ],

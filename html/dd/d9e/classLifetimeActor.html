@@ -130,11 +130,10 @@ Collaboration diagram for LifetimeActor:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d27/classLifetimeActor__coll__graph.png" border="0" usemap="#aLifetimeActor_coll__map" alt="Collaboration graph"/></div>
 <map name="aLifetimeActor_coll__map" id="aLifetimeActor_coll__map">
-<area shape="rect" title=" " alt="" coords="169,213,267,240"/>
+<area shape="rect" title=" " alt="" coords="179,213,278,240"/>
 <area shape="rect" href="../../dd/d0e/classLifetimeManager.html" title=" " alt="" coords="45,117,164,143"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html" title=" " alt="" coords="5,5,204,47"/>
-<area shape="rect" title=" " alt="" coords="189,117,247,143"/>
-<area shape="rect" href="../../d2/db0/classDependencyList.html" title=" " alt="" coords="272,109,447,151"/>
+<area shape="rect" href="../../d2/db0/classDependencyList.html" title=" " alt="" coords="188,109,363,151"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -197,12 +196,12 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a1e671de6990485fa754716d993870b3c"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#a1e671de6990485fa754716d993870b3c">mutex_</a></td></tr>
-<tr class="separator:a1e671de6990485fa754716d993870b3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a078681d568960e7bc19be74b145c9ec2"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#a078681d568960e7bc19be74b145c9ec2">mutex_</a></td></tr>
+<tr class="separator:a078681d568960e7bc19be74b145c9ec2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a01480ab2e6933a645e17be53f8426c97"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d0e/classLifetimeManager.html">LifetimeManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#a01480ab2e6933a645e17be53f8426c97">manager_</a></td></tr>
 <tr class="separator:a01480ab2e6933a645e17be53f8426c97"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb9d754fa724a6f98434460289c51af3"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#afb9d754fa724a6f98434460289c51af3">deleted_</a></td></tr>
-<tr class="separator:afb9d754fa724a6f98434460289c51af3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7450d3bd8b6c20fcaa5b3ff248c508a"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#ab7450d3bd8b6c20fcaa5b3ff248c508a">deleted_</a></td></tr>
+<tr class="separator:ab7450d3bd8b6c20fcaa5b3ff248c508a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae0b05e1f555d622e64c7aa7e16e7a9f6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#ae0b05e1f555d622e64c7aa7e16e7a9f6">refcount_</a></td></tr>
 <tr class="separator:ae0b05e1f555d622e64c7aa7e16e7a9f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab6b05fff72f8b837b6ff2901e9689851"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/classLifetimeActor.html#ab6b05fff72f8b837b6ff2901e9689851">shutdown_invoked_</a></td></tr>
@@ -1056,8 +1055,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="afb9d754fa724a6f98434460289c51af3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb9d754fa724a6f98434460289c51af3">&#9670;&nbsp;</a></span>deleted_</h2>
+<a id="ab7450d3bd8b6c20fcaa5b3ff248c508a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7450d3bd8b6c20fcaa5b3ff248c508a">&#9670;&nbsp;</a></span>deleted_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1066,7 +1065,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;bool&gt; LifetimeActor::deleted_</td>
+          <td class="memname">std::atomic&lt;bool&gt; LifetimeActor::deleted_</td>
         </tr>
       </table>
   </td>
@@ -1128,8 +1127,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a1e671de6990485fa754716d993870b3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e671de6990485fa754716d993870b3c">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a078681d568960e7bc19be74b145c9ec2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a078681d568960e7bc19be74b145c9ec2">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1138,7 +1137,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex LifetimeActor::mutex_</td>
+          <td class="memname">std::mutex LifetimeActor::mutex_</td>
         </tr>
       </table>
   </td>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX216 =
 {
+"de/da8/structVmInterface_1_1SecurityGroupEntry.html#a4e00d1f27f9ee1a9b3c1ce732617fab2":[2,0,1791,17,10],
 "de/da8/structVmInterface_1_1SecurityGroupEntry.html#a5529292e9a2779cf50bf650d26423150":[2,0,1791,17,3],
 "de/da8/structVmInterface_1_1SecurityGroupEntry.html#a8e81a5c725a32a82c1d0622714961cbe":[2,0,1791,17,11],
 "de/da8/structVmInterface_1_1SecurityGroupEntry.html#aa50c471abef9463b5a38eeb4eb2214a7":[2,0,1791,17,1],
@@ -69,10 +70,10 @@ var NAVTREEINDEX216 =
 "de/dad/rtarget__table_8cc.html#af0382e8fb0fd285f9dc9797a5c186628":[3,0,1010,1],
 "de/dad/rtarget__table_8cc_source.html":[3,0,1010],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html":[2,0,966,4],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a45b6655a5f057a42021896c2a384d191":[2,0,966,4,4],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a6c996ba2076f750029dcd4a3a0a4c137":[2,0,966,4,2],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a80ecc028d33d85872ae91d9233ad54ba":[2,0,966,4,1],
-"de/dad/structIPeerDebugStats_1_1SocketStats.html#a9d77995204760aa176a9b5d7ebeec0b5":[2,0,966,4,3],
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#a5134ba83646117074a7ff362a23f0cc2":[2,0,966,4,3],
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#a51f7a8ded54bee4b2e14257dca933ef8":[2,0,966,4,1],
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#a9ee5beb56c1b74a425003498025ef351":[2,0,966,4,4],
+"de/dad/structIPeerDebugStats_1_1SocketStats.html#abac5c862d3762329650ded31efdfb6b1":[2,0,966,4,2],
 "de/dad/structIPeerDebugStats_1_1SocketStats.html#adc7a679a60bd01881465429116c069b7":[2,0,966,4,0],
 "de/dae/classNhFlowMgmtEntry.html":[2,0,1226],
 "de/dae/classNhFlowMgmtEntry.html#a254730aa5ee25ce4f1c20c9db8accfe0":[2,0,1226,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX216 =
 "de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a493e19ff5ce8db499798cb8ae281720f":[2,0,8,149,14],
 "de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a4d487eff895bfa017691b7cb649ef220":[2,0,8,149,34],
 "de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a5124b5f055f83227a37e701193e9cf02":[2,0,8,149,32],
-"de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a585b080c2c38d865f45491bac0464c6a":[2,0,8,149,42],
-"de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a61e182173403365fbbcfb86aab756310":[2,0,8,149,21]
+"de/dbc/classetcdserverpb_1_1AuthUserAddResponse.html#a585b080c2c38d865f45491bac0464c6a":[2,0,8,149,42]
 };

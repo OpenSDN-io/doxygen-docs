@@ -89,7 +89,7 @@ var classBgpMembershipManager =
     [ "BgpMembershipTest", "d2/d45/classBgpMembershipManager.html#ad380529e79dc462a9c070551ac2f254e", null ],
     [ "BgpServerUnitTest", "d2/d45/classBgpMembershipManager.html#a6ea92c7ddb925ea1abbc36f075b0431e", null ],
     [ "BgpXmppUnitTest", "d2/d45/classBgpMembershipManager.html#a33cfd88fdc744d4a03304cedf7bad959", null ],
-    [ "current_jobs_count_", "d2/d45/classBgpMembershipManager.html#adaca0f8e809b2a1121ae88995520d19e", null ],
+    [ "current_jobs_count_", "d2/d45/classBgpMembershipManager.html#aab70c685bbd999695713873a344e684c", null ],
     [ "event_queue_", "d2/d45/classBgpMembershipManager.html#a6aa74d2a78a3fca1a44b782f5f4c4b5d", null ],
     [ "peer_state_map_", "d2/d45/classBgpMembershipManager.html#a223b3cceb37456e792fdf9cafb148386", null ],
     [ "registration_bmap_", "d2/d45/classBgpMembershipManager.html#ab64652f08437a5ba9479b889abd85cff", null ],
@@ -97,6 +97,6 @@ var classBgpMembershipManager =
     [ "rib_state_map_", "d2/d45/classBgpMembershipManager.html#aae84008e14fb4cfd5879580f90f294bf", null ],
     [ "rw_mutex_", "d2/d45/classBgpMembershipManager.html#a5998f50c64ba404b0107b93d455c0233", null ],
     [ "server_", "d2/d45/classBgpMembershipManager.html#ac6de24e9ecb57ca2590949ced8555593", null ],
-    [ "total_jobs_count_", "d2/d45/classBgpMembershipManager.html#aa054dc7080f789c1f43ea41d67d38f94", null ],
+    [ "total_jobs_count_", "d2/d45/classBgpMembershipManager.html#a6c79fb270f77272304cd8aa0b0840c7c", null ],
     [ "walker_", "d2/d45/classBgpMembershipManager.html#a4222bf2976abd8c72f95be53fb0032a7", null ]
 ];

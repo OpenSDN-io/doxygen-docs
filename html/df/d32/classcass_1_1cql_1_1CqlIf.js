@@ -51,8 +51,8 @@ var classcass_1_1cql_1_1CqlIf =
     [ "create_schema_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a10ee5501c49f418d098f8d24889e184b", null ],
     [ "endpoints_", "df/d32/classcass_1_1cql_1_1CqlIf.html#abf078ed536df05435b8f9d46dc29a36b", null ],
     [ "impl_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a0c632c8279194b2c121edb2f6f94e0d4", null ],
-    [ "initialized_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a35c61a67d3b55962f7978c5ecd76fd50", null ],
+    [ "initialized_", "df/d32/classcass_1_1cql_1_1CqlIf.html#ac25e987d433901075b2487b0338dc773", null ],
     [ "stats_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a5d18d9c33e0a94059dd171133c7f224d", null ],
-    [ "stats_mutex_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a1fa99758c1556430cde4ee6c5a523bb3", null ],
+    [ "stats_mutex_", "df/d32/classcass_1_1cql_1_1CqlIf.html#a23551aa5c3efa5038e33f9b441e34e1a", null ],
     [ "use_prepared_for_insert_", "df/d32/classcass_1_1cql_1_1CqlIf.html#ae21c4423c61293f5a19857498bd181f6", null ]
 ];

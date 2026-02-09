@@ -30,8 +30,8 @@ var classEvpnTable =
     [ "TableFind", "da/da4/classEvpnTable.html#a1507c1ddcdb8a1ac84d47631c9875f08", null ],
     [ "unique_mac_route_count", "da/da4/classEvpnTable.html#a45c31276485decabe0022827347223f4", null ],
     [ "evpn_manager_", "da/da4/classEvpnTable.html#a617929db23885fb30bdf446270bd52dd", null ],
-    [ "im_route_count_", "da/da4/classEvpnTable.html#a2d33c7917f0d7a1acb3cae46aa6e675d", null ],
-    [ "ip_route_count_", "da/da4/classEvpnTable.html#a6cf17ec7e892ab8505e4fe10cfd89943", null ],
-    [ "mac_route_count_", "da/da4/classEvpnTable.html#ae1d6adf3e4b6a012fce388be52d9dcbd", null ],
-    [ "unique_mac_route_count_", "da/da4/classEvpnTable.html#aa31d3b7723b9678dd4f816193ffecb76", null ]
+    [ "im_route_count_", "da/da4/classEvpnTable.html#aea7014688bbbe9543114eca0a0cecd38", null ],
+    [ "ip_route_count_", "da/da4/classEvpnTable.html#a0879336e0344beb01b69192068c105f3", null ],
+    [ "mac_route_count_", "da/da4/classEvpnTable.html#a3261a6a4e5e88e44b531e7db76e4f882", null ],
+    [ "unique_mac_route_count_", "da/da4/classEvpnTable.html#aea2b8076403ff3a8ea430a2c7b083f3f", null ]
 ];

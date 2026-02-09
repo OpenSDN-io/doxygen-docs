@@ -21,5 +21,5 @@ var classDiagProto =
     [ "stats", "dc/d8f/classDiagProto.html#a87a27f00b0c838f16764c0b03be4a620", null ],
     [ "session_map_", "dc/d8f/classDiagProto.html#aa335a7516b4e4bc2482bbaddb46b1ddd", null ],
     [ "stats_", "dc/d8f/classDiagProto.html#ad361ec852989225883f7934791a1e8d0", null ],
-    [ "stats_mutex_", "dc/d8f/classDiagProto.html#a6db4df8a5a90754435ada20b9cb39d4b", null ]
+    [ "stats_mutex_", "dc/d8f/classDiagProto.html#ae827707cbbc8aeb6c2f88688f2aeb490", null ]
 ];

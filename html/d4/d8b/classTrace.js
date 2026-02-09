@@ -13,8 +13,8 @@ var classTrace =
     [ "TraceBufListGet", "d4/d8b/classTrace.html#a3fffb40a2120037f50c8b81245c08aad", null ],
     [ "TraceOff", "d4/d8b/classTrace.html#a92d9dd36f03de7583f2ca815d5e6709e", null ],
     [ "TraceOn", "d4/d8b/classTrace.html#aa665e716a69f14893bee557d6240161b", null ],
-    [ "mutex_", "d4/d8b/classTrace.html#a8df1e1d287553c18820fbb5ab2509e70", null ],
+    [ "mutex_", "d4/d8b/classTrace.html#a75a905d9c5fcd1ef4fa3dafa00012b0e", null ],
     [ "trace_", "d4/d8b/classTrace.html#ad5cb6483ca80b7a1723b4aaf5afc8234", null ],
     [ "trace_buf_map_", "d4/d8b/classTrace.html#a09d303620612a8b4878be3fabf969319", null ],
-    [ "trace_enable_", "d4/d8b/classTrace.html#a27bdd55cf72d395b046f5ebc390a7bcf", null ]
+    [ "trace_enable_", "d4/d8b/classTrace.html#aefbe6ddef4b4a728dead01a9e0c30184", null ]
 ];

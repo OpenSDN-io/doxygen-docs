@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"db/ddc/controller__init_8h.html#ad2d8980e48a22e30e4746c840cfd9454":[3,0,283,14],
+"db/ddc/controller__init_8h.html#ad5e4df2a7c2aacff041b63924790f8b1":[3,0,283,22],
 "db/ddc/controller__init_8h.html#afdd7f88c17a56776080c5d71ff5eb7c9":[3,0,283,12],
 "db/ddc/controller__init_8h_source.html":[3,0,283],
 "db/ddc/structAgentData.html":[2,0,66],
@@ -174,7 +176,6 @@ var NAVTREEINDEX174 =
 "db/de5/classXmppClient.html#a968aba934464a488f16e019f4c3bd686":[2,0,1920,40],
 "db/de5/classXmppClient.html#a9c5f4b99fe3fc917134b15661c2fffff":[2,0,1920,25],
 "db/de5/classXmppClient.html#a9ccb68eea4dd606a2219b246a67ad5b0":[2,0,1920,39],
-"db/de5/classXmppClient.html#aa3474cc2e67f6384e4749ca402faca4f":[2,0,1920,37],
 "db/de5/classXmppClient.html#aab32bdd3c38f0c344adebdaad7935ac2":[2,0,1920,27],
 "db/de5/classXmppClient.html#ab26e1d6f301ba972e0380c4cef9c7038":[2,0,1920,17],
 "db/de5/classXmppClient.html#ab71b2eed836231ad6d09ec9559633fa1":[2,0,1920,1],
@@ -183,6 +184,7 @@ var NAVTREEINDEX174 =
 "db/de5/classXmppClient.html#ac7d7b75eb28fa0da2c942a5056e6af01":[2,0,1920,19],
 "db/de5/classXmppClient.html#ac9e77495439cc39b55cf0d69a6fc965b":[2,0,1920,9],
 "db/de5/classXmppClient.html#aca03f3e3e9aadf6832827dba3206cc1d":[2,0,1920,35],
+"db/de5/classXmppClient.html#ad12bb33932c0eb101be3a59d7e54f8ad":[2,0,1920,37],
 "db/de5/classXmppClient.html#ada251e3b9b552720cfb9234309026288":[2,0,1920,31],
 "db/de5/classXmppClient.html#adee41cd3f890bf701f550b35922ac739":[2,0,1920,32],
 "db/de5/classXmppClient.html#adf0d0646583d50c82df44eba331960fb":[2,0,1920,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "db/df1/classBgpXmppPeerClose.html#aec86f5a9c03729981f73c66c02bef692":[2,0,422,17],
 "db/df1/classBgpXmppPeerClose.html#aedef9a607d8a2dd07e456d132e57858f":[2,0,422,4],
 "db/df1/classBgpXmppPeerClose.html#aef55ab4b0367fd3813e053667444b461":[2,0,422,16],
-"db/df1/classBgpXmppPeerClose.html#afa024aa178b02d0e715e18db105f5fc9":[2,0,422,11],
-"db/df1/classBgpXmppPeerClose.html#afd1da09e9fcec119e18d853a036d1af6":[2,0,422,13],
-"db/df2/drop__stats__kstate_8cc.html":[3,0,372]
+"db/df1/classBgpXmppPeerClose.html#afa024aa178b02d0e715e18db105f5fc9":[2,0,422,11]
 };

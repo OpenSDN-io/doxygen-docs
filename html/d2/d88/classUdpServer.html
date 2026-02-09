@@ -113,12 +113,11 @@ Collaboration diagram for UdpServer:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../da/d3c/classUdpServer__coll__graph.png" border="0" usemap="#aUdpServer_coll__map" alt="Collaboration graph"/></div>
 <map name="aUdpServer_coll__map" id="aUdpServer_coll__map">
-<area shape="rect" title=" " alt="" coords="165,199,249,225"/>
+<area shape="rect" title=" " alt="" coords="125,184,209,211"/>
 <area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,95,116,121"/>
 <area shape="rect" title=" " alt="" coords="140,95,195,121"/>
-<area shape="rect" title=" " alt="" coords="219,95,278,121"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="303,95,408,121"/>
-<area shape="rect" title=" " alt="" coords="314,5,397,32"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
+<area shape="rect" title=" " alt="" coords="230,5,313,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -230,14 +229,14 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a19196339b54e01486f2b509aa736a1e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a54b9a8a4045708d580b4389b806411ac"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::udp::endpoint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a54b9a8a4045708d580b4389b806411ac">remote_endpoint_</a></td></tr>
 <tr class="separator:a54b9a8a4045708d580b4389b806411ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4832b8aa1f468e72939a0d90d2f88baa"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a4832b8aa1f468e72939a0d90d2f88baa">state_guard_</a></td></tr>
-<tr class="separator:a4832b8aa1f468e72939a0d90d2f88baa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a197a6c9b9b3ed0148fb2541bf3ce18a9"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a197a6c9b9b3ed0148fb2541bf3ce18a9">pbuf_guard_</a></td></tr>
-<tr class="separator:a197a6c9b9b3ed0148fb2541bf3ce18a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9db4890b78a744fb3069946ba4a66322"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a9db4890b78a744fb3069946ba4a66322">state_guard_</a></td></tr>
+<tr class="separator:a9db4890b78a744fb3069946ba4a66322"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a333bc473cc96ad9e4ff660a33fb32d6f"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a333bc473cc96ad9e4ff660a33fb32d6f">pbuf_guard_</a></td></tr>
+<tr class="separator:a333bc473cc96ad9e4ff660a33fb32d6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1f10cdbb4deae9b15322ada5b7623729"><td class="memItemLeft" align="right" valign="top">std::vector&lt; uint8_t * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a1f10cdbb4deae9b15322ada5b7623729">pbuf_</a></td></tr>
 <tr class="separator:a1f10cdbb4deae9b15322ada5b7623729"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5cda238a6763adaccbce0a77a0dad938"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a5cda238a6763adaccbce0a77a0dad938">refcount_</a></td></tr>
-<tr class="separator:a5cda238a6763adaccbce0a77a0dad938"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8ccec660e99b5b9aa46d85ba71bf053"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#ac8ccec660e99b5b9aa46d85ba71bf053">refcount_</a></td></tr>
+<tr class="separator:ac8ccec660e99b5b9aa46d85ba71bf053"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a73eb5fa5d98e8bf55fc644f6ef427c1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/structio_1_1SocketStats.html">io::SocketStats</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d88/classUdpServer.html#a73eb5fa5d98e8bf55fc644f6ef427c1a">stats_</a></td></tr>
 <tr class="separator:a73eb5fa5d98e8bf55fc644f6ef427c1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -255,7 +254,7 @@ Friends</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00018">18</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00021">21</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a337711d4655f33da8cc51e39fc221d6c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a337711d4655f33da8cc51e39fc221d6c">&#9670;&nbsp;</a></span>Endpoint</h2>
@@ -269,7 +268,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00020">20</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00023">23</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -285,7 +284,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00021">21</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00024">24</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -308,7 +307,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a4354aec08bc79b299a6595f46e9d8808a691b1db395b562b2f917aa745a4d3cf9"></a>SocketBindFailed&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00023">23</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00026">26</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -527,7 +526,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00068">68</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00071">71</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -580,7 +579,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00067">67</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00070">70</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -713,7 +712,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00048">48</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00051">51</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -740,7 +739,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00062">62</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00065">65</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1235,7 +1234,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00081">81</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00084">84</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1455,7 +1454,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00069">69</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00072">72</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1484,7 +1483,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00138">138</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00141">141</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1512,7 +1511,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00142">142</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00145">145</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1537,7 +1536,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00122">122</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00125">125</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1561,7 +1560,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00124">124</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00127">127</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1585,7 +1584,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00029">29</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00032">32</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1609,7 +1608,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00125">125</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00128">128</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1633,12 +1632,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00129">129</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00132">132</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
-<a id="a197a6c9b9b3ed0148fb2541bf3ce18a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a197a6c9b9b3ed0148fb2541bf3ce18a9">&#9670;&nbsp;</a></span>pbuf_guard_</h2>
+<a id="a333bc473cc96ad9e4ff660a33fb32d6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a333bc473cc96ad9e4ff660a33fb32d6f">&#9670;&nbsp;</a></span>pbuf_guard_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1647,7 +1646,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex UdpServer::pbuf_guard_</td>
+          <td class="memname">std::mutex UdpServer::pbuf_guard_</td>
         </tr>
       </table>
   </td>
@@ -1657,7 +1656,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00128">128</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00131">131</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1681,12 +1680,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00120">120</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00123">123</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
-<a id="a5cda238a6763adaccbce0a77a0dad938"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5cda238a6763adaccbce0a77a0dad938">&#9670;&nbsp;</a></span>refcount_</h2>
+<a id="ac8ccec660e99b5b9aa46d85ba71bf053"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8ccec660e99b5b9aa46d85ba71bf053">&#9670;&nbsp;</a></span>refcount_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1695,7 +1694,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;int&gt; UdpServer::refcount_</td>
+          <td class="memname">std::atomic&lt;int&gt; UdpServer::refcount_</td>
         </tr>
       </table>
   </td>
@@ -1705,7 +1704,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00130">130</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00133">133</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1729,7 +1728,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00126">126</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00129">129</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1753,7 +1752,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00121">121</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00124">124</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1777,12 +1776,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00123">123</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00126">126</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
-<a id="a4832b8aa1f468e72939a0d90d2f88baa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4832b8aa1f468e72939a0d90d2f88baa">&#9670;&nbsp;</a></span>state_guard_</h2>
+<a id="a9db4890b78a744fb3069946ba4a66322"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9db4890b78a744fb3069946ba4a66322">&#9670;&nbsp;</a></span>state_guard_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1791,7 +1790,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex UdpServer::state_guard_</td>
+          <td class="memname">std::mutex UdpServer::state_guard_</td>
         </tr>
       </table>
   </td>
@@ -1801,7 +1800,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00127">127</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00130">130</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>
@@ -1825,7 +1824,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00131">131</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/daf/udp__server_8h_source.html#l00134">134</a> of file <a class="el" href="../../da/daf/udp__server_8h_source.html">udp_server.h</a>.</p>
 
 </div>
 </div>

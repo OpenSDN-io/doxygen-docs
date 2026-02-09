@@ -37,7 +37,7 @@ var classXmppClient =
     [ "auth_enabled_", "db/de5/classXmppClient.html#a3f07a77c5331c7236bcfb423bc34cd1e", null ],
     [ "config_mgr_", "db/de5/classXmppClient.html#aca03f3e3e9aadf6832827dba3206cc1d", null ],
     [ "connection_event_map_", "db/de5/classXmppClient.html#af4a1b0d01709172aab6dd1b4fc5d75a7", null ],
-    [ "connection_event_map_mutex_", "db/de5/classXmppClient.html#aa3474cc2e67f6384e4749ca402faca4f", null ],
+    [ "connection_event_map_mutex_", "db/de5/classXmppClient.html#ad12bb33932c0eb101be3a59d7e54f8ad", null ],
     [ "connection_map_", "db/de5/classXmppClient.html#ac04e9cd9d81637b4f575fe9137d663dc", null ],
     [ "deleter_", "db/de5/classXmppClient.html#a9ccb68eea4dd606a2219b246a67ad5b0", null ],
     [ "lifetime_manager_", "db/de5/classXmppClient.html#a968aba934464a488f16e019f4c3bd686", null ],

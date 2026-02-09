@@ -1,13 +1,12 @@
 <map id="ConfigEtcdClient::EtcdWatcher" name="ConfigEtcdClient::EtcdWatcher">
-<area shape="rect" id="node1" title=" " alt="" coords="299,631,502,657"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="354,541,404,568"/>
-<area shape="rect" id="node3" href="$d4/db8/classConfigEtcdClient.html" title=" " alt="" coords="428,541,548,568"/>
-<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html" title=" " alt="" coords="308,452,418,479"/>
-<area shape="rect" id="node5" href="$de/d27/classConfigClientManager.html" title=" " alt="" coords="291,363,435,389"/>
-<area shape="rect" id="node6" title=" " alt="" coords="94,5,149,32"/>
-<area shape="rect" id="node10" href="$da/dbf/structConfigClientOptions.html" title=" " alt="" coords="235,243,374,269"/>
-<area shape="rect" id="node7" title=" " alt="" coords="398,243,456,269"/>
-<area shape="rect" id="node8" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="582,243,688,269"/>
-<area shape="rect" id="node9" title=" " alt="" coords="594,5,676,32"/>
-<area shape="rect" id="node11" title=" " alt="" coords="443,452,646,479"/>
+<area shape="rect" id="node1" title=" " alt="" coords="205,631,408,657"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="260,541,311,568"/>
+<area shape="rect" id="node3" href="$d4/db8/classConfigEtcdClient.html" title=" " alt="" coords="335,541,455,568"/>
+<area shape="rect" id="node4" href="$df/dc8/classConfigDbClient.html" title=" " alt="" coords="214,452,325,479"/>
+<area shape="rect" id="node5" href="$de/d27/classConfigClientManager.html" title=" " alt="" coords="197,363,341,389"/>
+<area shape="rect" id="node6" title=" " alt="" coords="97,5,151,32"/>
+<area shape="rect" id="node9" href="$da/dbf/structConfigClientOptions.html" title=" " alt="" coords="237,243,376,269"/>
+<area shape="rect" id="node7" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="401,243,506,269"/>
+<area shape="rect" id="node8" title=" " alt="" coords="412,5,495,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="349,452,552,479"/>
 </map>

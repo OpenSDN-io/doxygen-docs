@@ -29,9 +29,9 @@ var classDBPartition_1_1WorkQueue =
     [ "disable_", "d3/d26/classDBPartition_1_1WorkQueue.html#a65124f9cca915d91a66f2a67aee66750", null ],
     [ "kThreshold", "d3/d26/classDBPartition_1_1WorkQueue.html#aceea6cf72abb3681f545f93fecb956d7", null ],
     [ "max_request_queue_len_", "d3/d26/classDBPartition_1_1WorkQueue.html#a78b57d40f969563e5dfe9a2d84e9ca62", null ],
-    [ "mutex_", "d3/d26/classDBPartition_1_1WorkQueue.html#a83008f24a930ed2c3db0d098b031755f", null ],
+    [ "mutex_", "d3/d26/classDBPartition_1_1WorkQueue.html#a58f601abce6f2825da930db7930cad48", null ],
     [ "remove_queue_", "d3/d26/classDBPartition_1_1WorkQueue.html#ae602a25e5241351c621e8b023f7aad24", null ],
-    [ "request_count_", "d3/d26/classDBPartition_1_1WorkQueue.html#ae76838ad40c1c1299cd4b0706142828e", null ],
+    [ "request_count_", "d3/d26/classDBPartition_1_1WorkQueue.html#a158ba237773cef652968a142ddfd08b6", null ],
     [ "request_queue_", "d3/d26/classDBPartition_1_1WorkQueue.html#ae166d420a848b4c2efcf85f84bc8152e", null ],
     [ "running_", "d3/d26/classDBPartition_1_1WorkQueue.html#a19f1d8639fb2767559fa3998f19982cf", null ],
     [ "total_request_count_", "d3/d26/classDBPartition_1_1WorkQueue.html#ab8130a9302d89b5fbf8a86e4a87db574", null ]

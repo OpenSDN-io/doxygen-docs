@@ -81,7 +81,7 @@ var classVrfEntry =
     [ "VrfTable", "d2/d3d/classVrfEntry.html#aa6f3575aa049fa502b3245da0900fde3", null ],
     [ "allow_route_add_on_deleted_vrf_", "d2/d3d/classVrfEntry.html#acbe11302c9a0d642cd46a4251d0f12fe", null ],
     [ "bmac_vrf_name_", "d2/d3d/classVrfEntry.html#ad56159047d81a7b463d52db28f785082", null ],
-    [ "delete_reuse_mutex_", "d2/d3d/classVrfEntry.html#a3db40d17321990718d24635dcb1b3986", null ],
+    [ "delete_reuse_mutex_", "d2/d3d/classVrfEntry.html#aef2db637442f9eb721c23be81d891481", null ],
     [ "delete_timeout_timer_", "d2/d3d/classVrfEntry.html#af5757c4052ab5cb74c32eaa37c53d696", null ],
     [ "deleted_", "d2/d3d/classVrfEntry.html#a85dca1263b0ba0915291e35bd4482971", null ],
     [ "deleter_", "d2/d3d/classVrfEntry.html#a93862c849197b2487be7fd0f0b5d9b49", null ],

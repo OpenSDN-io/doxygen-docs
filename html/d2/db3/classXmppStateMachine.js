@@ -95,7 +95,7 @@ var classXmppStateMachine =
     [ "last_event_", "d2/db3/classXmppStateMachine.html#a0f615644a6d26802cb1cb3e92b2118d3", null ],
     [ "last_event_at_", "d2/db3/classXmppStateMachine.html#ae7c01d67ddeed82e6c0a880467896a36", null ],
     [ "last_state_", "d2/db3/classXmppStateMachine.html#ae0f28e32bfe3e3694b744f8d091341d0", null ],
-    [ "mutex_", "d2/db3/classXmppStateMachine.html#a590b6c3bf45f9022e24b5214a4c00fcb", null ],
+    [ "mutex_", "d2/db3/classXmppStateMachine.html#abb83f7e41ed9351ff66112403bf6aa09", null ],
     [ "open_timer_", "d2/db3/classXmppStateMachine.html#abbe6a05700501f83647da0bef99b3f54", null ],
     [ "openconfirm_state_", "d2/db3/classXmppStateMachine.html#a967310a55cd377e2be666de82ac4ef8d", null ],
     [ "server_", "d2/db3/classXmppStateMachine.html#a4354b4b3804c3d194b6c811ee06051fa", null ],

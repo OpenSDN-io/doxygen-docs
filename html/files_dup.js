@@ -3334,9 +3334,7 @@ var files_dup =
       [ "XmppSandeshContext", "d2/d2f/structXmppSandeshContext.html", "d2/d2f/structXmppSandeshContext" ]
     ] ],
     [ "xmpp_server.cc", "dd/d3a/xmpp__server_8cc.html", "dd/d3a/xmpp__server_8cc" ],
-    [ "xmpp_server.h", "d1/d2e/xmpp__server_8h.html", [
-      [ "XmppServer", "dd/d43/classXmppServer.html", "dd/d43/classXmppServer" ]
-    ] ],
+    [ "xmpp_server.h", "d1/d2e/xmpp__server_8h.html", "d1/d2e/xmpp__server_8h" ],
     [ "xmpp_server_address_parser.cc", "d2/d95/xmpp__server__address__parser_8cc.html", null ],
     [ "xmpp_server_address_parser.h", "d8/d6a/xmpp__server__address__parser_8h.html", [
       [ "XmppServerAddressParser", "d8/dda/classXmppServerAddressParser.html", "d8/dda/classXmppServerAddressParser" ]

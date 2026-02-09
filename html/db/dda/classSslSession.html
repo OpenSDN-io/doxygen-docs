@@ -117,13 +117,12 @@ Collaboration diagram for SslSession:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/d6d/classSslSession__coll__graph.png" border="0" usemap="#aSslSession_coll__map" alt="Collaboration graph"/></div>
 <map name="aSslSession_coll__map" id="aSslSession_coll__map">
-<area shape="rect" title=" " alt="" coords="234,228,322,255"/>
-<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="185,139,275,165"/>
+<area shape="rect" title=" " alt="" coords="171,228,259,255"/>
+<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="122,139,213,165"/>
 <area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,5,116,32"/>
 <area shape="rect" title=" " alt="" coords="140,5,195,32"/>
-<area shape="rect" title=" " alt="" coords="263,5,322,32"/>
-<area shape="rect" title=" " alt="" coords="354,5,437,32"/>
-<area shape="rect" title=" " alt="" coords="299,139,355,165"/>
+<area shape="rect" title=" " alt="" coords="251,5,334,32"/>
+<area shape="rect" title=" " alt="" coords="237,139,293,165"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -368,8 +367,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:a6b8d71a0bc156011b800779f91cd25e9 inherit pro_static_methods_classTcpSession"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a6b8d71a0bc156011b800779f91cd25e9">AsyncWriteHandler</a> (<a class="el" href="../../d2/d0e/classTcpSession.html#ad69eaca543ea5480127c63a4f864456d">TcpSessionPtr</a> session, const boost::system::error_code &amp;error, std::size_t bytes_transferred)</td></tr>
 <tr class="separator:a6b8d71a0bc156011b800779f91cd25e9 inherit pro_static_methods_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classTcpSession"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classTcpSession')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d2/d0e/classTcpSession.html">TcpSession</a></td></tr>
-<tr class="memitem:afc93b7e2b70963012c769b863f813bd0 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#afc93b7e2b70963012c769b863f813bd0">mutex_</a></td></tr>
-<tr class="separator:afc93b7e2b70963012c769b863f813bd0 inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacd8964e9954ad1598006f4c93623d44 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aacd8964e9954ad1598006f4c93623d44">mutex_</a></td></tr>
+<tr class="separator:aacd8964e9954ad1598006f4c93623d44 inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeebc904eae3e7a610b6a583ecde826cb inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/structio_1_1SocketStats.html">io::SocketStats</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aeebc904eae3e7a610b6a583ecde826cb">stats_</a></td></tr>
 <tr class="separator:aeebc904eae3e7a610b6a583ecde826cb inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ead9e96a9b8cceec1e929ca1a3551e6 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; <a class="el" href="../../d2/d0e/classTcpSession.html#a462d58363858ba266eebac074ddad600">Strand</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a1ead9e96a9b8cceec1e929ca1a3551e6">io_strand_</a></td></tr>
@@ -377,7 +376,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00016">16</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00018">18</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a3eea16bfb02a5a918d97480928c14e37"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3eea16bfb02a5a918d97480928c14e37">&#9670;&nbsp;</a></span>SslSocket</h2>
@@ -391,7 +390,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00018">18</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00020">20</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -760,7 +759,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00030">30</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00032">32</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -787,7 +786,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00034">34</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00036">36</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -814,7 +813,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00047">47</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00049">49</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -841,7 +840,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00038">38</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00040">40</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -868,7 +867,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00043">43</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00045">45</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -946,7 +945,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00085">85</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00087">87</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -974,7 +973,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00052">52</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00054">54</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1001,7 +1000,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00080">80</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00082">82</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1179,7 +1178,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00063">63</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00065">65</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1204,7 +1203,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00100">100</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00102">102</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1228,7 +1227,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00101">101</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00103">103</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1252,7 +1251,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00095">95</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00097">97</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1276,7 +1275,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00096">96</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00098">98</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1300,7 +1299,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00104">104</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00106">106</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>
@@ -1324,7 +1323,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00092">92</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d8c/ssl__session_8h_source.html#l00094">94</a> of file <a class="el" href="../../d7/d8c/ssl__session_8h_source.html">ssl_session.h</a>.</p>
 
 </div>
 </div>

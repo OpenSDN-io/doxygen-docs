@@ -29,10 +29,10 @@ var classLifetimeActor =
     [ "create_time_stamp_usecs_", "dd/d9e/classLifetimeActor.html#a5c8dd83e688a66dccb83aef98120d689", null ],
     [ "delete_paused_", "dd/d9e/classLifetimeActor.html#af774aa68b6c46bf58474b47b877638a2", null ],
     [ "delete_time_stamp_usecs_", "dd/d9e/classLifetimeActor.html#af66a1712de239b64b4801e02c4553fa8", null ],
-    [ "deleted_", "dd/d9e/classLifetimeActor.html#afb9d754fa724a6f98434460289c51af3", null ],
+    [ "deleted_", "dd/d9e/classLifetimeActor.html#ab7450d3bd8b6c20fcaa5b3ff248c508a", null ],
     [ "dependents_", "dd/d9e/classLifetimeActor.html#ae6ac8c7e3dfeac0cb4d81f220ad74063", null ],
     [ "manager_", "dd/d9e/classLifetimeActor.html#a01480ab2e6933a645e17be53f8426c97", null ],
-    [ "mutex_", "dd/d9e/classLifetimeActor.html#a1e671de6990485fa754716d993870b3c", null ],
+    [ "mutex_", "dd/d9e/classLifetimeActor.html#a078681d568960e7bc19be74b145c9ec2", null ],
     [ "refcount_", "dd/d9e/classLifetimeActor.html#ae0b05e1f555d622e64c7aa7e16e7a9f6", null ],
     [ "shutdown_invoked_", "dd/d9e/classLifetimeActor.html#ab6b05fff72f8b837b6ff2901e9689851", null ]
 ];

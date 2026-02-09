@@ -125,12 +125,11 @@ Collaboration diagram for TcpServer:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/d8a/classTcpServer__coll__graph.png" border="0" usemap="#aTcpServer_coll__map" alt="Collaboration graph"/></div>
 <map name="aTcpServer_coll__map" id="aTcpServer_coll__map">
-<area shape="rect" title=" " alt="" coords="167,184,248,211"/>
+<area shape="rect" title=" " alt="" coords="127,184,208,211"/>
 <area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="5,95,116,121"/>
 <area shape="rect" title=" " alt="" coords="140,95,195,121"/>
-<area shape="rect" title=" " alt="" coords="219,95,278,121"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="303,95,408,121"/>
-<area shape="rect" title=" " alt="" coords="314,5,397,32"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="219,95,324,121"/>
+<area shape="rect" title=" " alt="" coords="230,5,313,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -281,10 +280,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a0c1810b6ed658058e1e3675428fe6f9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad30ed0a902a6514bdc79792c3d9daead"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dd9/classEventManager.html">EventManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#ad30ed0a902a6514bdc79792c3d9daead">evm_</a></td></tr>
 <tr class="separator:ad30ed0a902a6514bdc79792c3d9daead"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdf83af5bddd24f5b0f2a315798f2076"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#acdf83af5bddd24f5b0f2a315798f2076">mutex_</a></td></tr>
-<tr class="separator:acdf83af5bddd24f5b0f2a315798f2076"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d6b35736b1086c8357fcee199766ed5"><td class="memItemLeft" align="right" valign="top">tbb::interface5::condition_variable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a2d6b35736b1086c8357fcee199766ed5">cond_var_</a></td></tr>
-<tr class="separator:a2d6b35736b1086c8357fcee199766ed5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8821900aa267be9a4c59555331151c6e"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a8821900aa267be9a4c59555331151c6e">mutex_</a></td></tr>
+<tr class="separator:a8821900aa267be9a4c59555331151c6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a402838db12bcca41a6378ec4e5074d43"><td class="memItemLeft" align="right" valign="top">std::condition_variable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a402838db12bcca41a6378ec4e5074d43">cond_var_</a></td></tr>
+<tr class="separator:a402838db12bcca41a6378ec4e5074d43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af7a2aa8bba5186a50f55da2eb53201a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/df9/classTcpServer.html#a59b6233b911bba74d5c1253f2220380f">SessionSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#af7a2aa8bba5186a50f55da2eb53201a6">session_ref_</a></td></tr>
 <tr class="separator:af7a2aa8bba5186a50f55da2eb53201a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac2d273b0406dff874193aa0666f8a54d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/df9/classTcpServer.html#a39666db5cca819147456e511ffeaf7fb">SessionMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#ac2d273b0406dff874193aa0666f8a54d">session_map_</a></td></tr>
@@ -293,8 +292,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a4967167e29cbba89e842475d85cfa636"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a655227f503550f7f2da52bfbc73b2018"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; boost::asio::ip::tcp::acceptor &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a655227f503550f7f2da52bfbc73b2018">acceptor_</a></td></tr>
 <tr class="separator:a655227f503550f7f2da52bfbc73b2018"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0be9eb4b7e87265b236dc34c1df20c23"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a0be9eb4b7e87265b236dc34c1df20c23">refcount_</a></td></tr>
-<tr class="separator:a0be9eb4b7e87265b236dc34c1df20c23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa44ce4533869c26b7cde71cfa116e264"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#aa44ce4533869c26b7cde71cfa116e264">refcount_</a></td></tr>
+<tr class="separator:aa44ce4533869c26b7cde71cfa116e264"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5d42d923b500cbecdd98cb3f4e9a233e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#a5d42d923b500cbecdd98cb3f4e9a233e">name_</a></td></tr>
 <tr class="separator:a5d42d923b500cbecdd98cb3f4e9a233e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab1db0dfc859761af6b69395cc271890f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classTcpServer.html#ab1db0dfc859761af6b69395cc271890f">socket_open_failure_</a></td></tr>
@@ -557,7 +556,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d8/d4d/classSslServer.html#a23947ded207c309cef094174be2d1e97">SslServer</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00336">336</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00337">337</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -587,7 +586,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d8/d4d/classSslServer.html#a54213829d72116f1db6e1add664ef9a9">SslServer</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00405">405</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00406">406</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -635,7 +634,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00354">354</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00355">355</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -681,7 +680,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d1/dc1/classSandeshServer.html#ab1fd668a42457dce7d1cd455fece7b18">SandeshServer</a>, <a class="el" href="../../dd/dab/classHttpServer.html#ad1ac8e9f0c8ba85add3a4f65f0476dea">HttpServer</a>, <a class="el" href="../../dd/d43/classXmppServer.html#a86bc3a62463d20d574c35dfc89b22086">XmppServer</a>, <a class="el" href="../../db/d54/classOVSDB_1_1OvsdbClientSsl.html#a1aba7cac6e9fc8581fe1e13c65150f5c">OVSDB::OvsdbClientSsl</a>, and <a class="el" href="../../d1/df7/classBgpSessionManager.html#af86571726938c2575137667007011d3f">BgpSessionManager</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00344">344</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00345">345</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -711,7 +710,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d8/d4d/classSslServer.html#a24e0baddf0548c80f1ab8124a70e5a5e">SslServer</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00319">319</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00320">320</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -776,7 +775,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00261">261</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00262">262</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -860,7 +859,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00474">474</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00475">475</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -917,7 +916,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00439">439</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00440">440</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -958,7 +957,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d8/d4d/classSslServer.html#aa452612d258a50562a247c0e9558ea2a">SslServer</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00451">451</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00452">452</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -997,7 +996,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d1/dc1/classSandeshServer.html#a0d7e7d484c60e745c458950ea2c1e432">SandeshServer</a>, <a class="el" href="../../d4/d6e/classHttpClient.html#a005a570c983352c84b10cfa3babbc274">HttpClient</a>, <a class="el" href="../../dd/d43/classXmppServer.html#aabec11c84a51ecd7f3b5f2349198d05c">XmppServer</a>, <a class="el" href="../../db/de5/classXmppClient.html#ac0f76cb0d474873bd71b5bab0f3edf98">XmppClient</a>, and <a class="el" href="../../d1/df7/classBgpSessionManager.html#a54bb4751fb4ba70bec0b7812af6e5280">BgpSessionManager</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00188">188</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00189">189</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1034,7 +1033,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00197">197</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00198">198</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1147,7 +1146,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00552">552</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00553">553</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1175,7 +1174,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00272">272</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00273">273</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1234,7 +1233,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00639">639</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00640">640</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1264,7 +1263,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00430">430</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00431">431</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1377,7 +1376,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00643">643</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00644">644</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1406,7 +1405,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00290">290</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00291">291</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1434,7 +1433,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00285">285</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00286">286</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1625,7 +1624,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00215">215</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00216">216</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1652,7 +1651,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00306">306</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00307">307</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1680,7 +1679,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00235">235</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00236">236</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1728,7 +1727,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00224">224</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00225">225</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -1776,7 +1775,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d8/d4d/classSslServer.html#a79a7e215918f4a8b57fedbe6bfe125b0">SslServer</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00340">340</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00341">341</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1860,7 +1859,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00535">535</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00536">536</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1899,7 +1898,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00574">574</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00575">575</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1928,7 +1927,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00527">527</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00528">528</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1968,7 +1967,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00517">517</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00518">518</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2014,7 +2013,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00482">482</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00483">483</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2071,7 +2070,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00566">566</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00567">567</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2184,7 +2183,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00177">177</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00178">178</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2216,7 +2215,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00254">254</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d86/tcp__server_8cc_source.html#l00255">255</a> of file <a class="el" href="../../df/d86/tcp__server_8cc_source.html">tcp_server.cc</a>.</p>
 
 </div>
 </div>
@@ -2398,8 +2397,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a2d6b35736b1086c8357fcee199766ed5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d6b35736b1086c8357fcee199766ed5">&#9670;&nbsp;</a></span>cond_var_</h2>
+<a id="a402838db12bcca41a6378ec4e5074d43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a402838db12bcca41a6378ec4e5074d43">&#9670;&nbsp;</a></span>cond_var_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2408,7 +2407,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::interface5::condition_variable TcpServer::cond_var_</td>
+          <td class="memname">std::condition_variable TcpServer::cond_var_</td>
         </tr>
       </table>
   </td>
@@ -2470,8 +2469,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="acdf83af5bddd24f5b0f2a315798f2076"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdf83af5bddd24f5b0f2a315798f2076">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="a8821900aa267be9a4c59555331151c6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8821900aa267be9a4c59555331151c6e">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2480,7 +2479,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex TcpServer::mutex_</td>
+          <td class="memname">std::mutex TcpServer::mutex_</td>
         </tr>
       </table>
   </td>
@@ -2518,8 +2517,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a0be9eb4b7e87265b236dc34c1df20c23"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0be9eb4b7e87265b236dc34c1df20c23">&#9670;&nbsp;</a></span>refcount_</h2>
+<a id="aa44ce4533869c26b7cde71cfa116e264"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa44ce4533869c26b7cde71cfa116e264">&#9670;&nbsp;</a></span>refcount_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2528,7 +2527,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;int&gt; TcpServer::refcount_</td>
+          <td class="memname">std::atomic&lt;int&gt; TcpServer::refcount_</td>
         </tr>
       </table>
   </td>

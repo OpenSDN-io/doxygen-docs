@@ -10,7 +10,7 @@ var classAgentRefCount =
     [ "intrusive_ptr_add_ref", "d5/d7f/classAgentRefCount.html#adc606fcbdf5ba7be3eecd7601c962d39", null ],
     [ "intrusive_ptr_del_back_ref", "d5/d7f/classAgentRefCount.html#aa3d15f6c7c7a3da324ac8c9f3408cd0a", null ],
     [ "intrusive_ptr_release", "d5/d7f/classAgentRefCount.html#a9b89c4c23fcfcbb4efdf2cf466d0820a", null ],
-    [ "back_ref_mutex_", "d5/d7f/classAgentRefCount.html#ac04f5b4511a559b6fdee8e6d2a467860", null ],
+    [ "back_ref_mutex_", "d5/d7f/classAgentRefCount.html#ae99addd69fb0a95b2452dd899a3a6c90", null ],
     [ "back_ref_set_", "d5/d7f/classAgentRefCount.html#ac1d61cf5095091155a6da9116aeb3d89", null ],
     [ "refcount_", "d5/d7f/classAgentRefCount.html#a9cb27de5648ef4f31e9eeaebef7d8830", null ]
 ];

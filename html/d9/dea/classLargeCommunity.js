@@ -28,5 +28,5 @@ var classLargeCommunity =
     [ "LargeCommunityDB", "d9/dea/classLargeCommunity.html#a2e7a4de53d8810abf087c84c9ba3ba1e", null ],
     [ "communities_", "d9/dea/classLargeCommunity.html#aa0320c3d1b0f1bece5ce6fe4fbd3c663", null ],
     [ "largecomm_db_", "d9/dea/classLargeCommunity.html#a66dd0c3da5c87e88f56cab4000c7782e", null ],
-    [ "refcount_", "d9/dea/classLargeCommunity.html#a54cc30a28a04be879d939ccb31cf448a", null ]
+    [ "refcount_", "d9/dea/classLargeCommunity.html#a3cf696c604223b89b5169bb74c474c3d", null ]
 ];

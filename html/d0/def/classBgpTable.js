@@ -76,13 +76,13 @@ var classBgpTable =
     [ "UpdateStalePathCount", "d0/def/classBgpTable.html#a2b3d6137f4e4a3f9521550e289de79d3", null ],
     [ "BgpTableTest", "d0/def/classBgpTable.html#af0bd60a03c995319b83365e58d50a6f3", null ],
     [ "deleter_", "d0/def/classBgpTable.html#a4594a762ed57c47201c7d0cee83e1533", null ],
-    [ "infeasible_path_count_", "d0/def/classBgpTable.html#a15221ddd337d1f40fcc03e18adf59758", null ],
+    [ "infeasible_path_count_", "d0/def/classBgpTable.html#a74fa43fc51f6843c0ec43206b7b1f4c1", null ],
     [ "instance_delete_ref_", "d0/def/classBgpTable.html#aedc27a15ffabc2aa8148339e67add893", null ],
-    [ "llgr_stale_path_count_", "d0/def/classBgpTable.html#ad09a9991154b7e482dde3c261017d06e", null ],
+    [ "llgr_stale_path_count_", "d0/def/classBgpTable.html#a3f4e183c0fb52f6536aacbe2690253db", null ],
     [ "path_resolver_", "d0/def/classBgpTable.html#af23b88f97d31c46abead3352d08893f0", null ],
-    [ "primary_path_count_", "d0/def/classBgpTable.html#a962f5fbbb29c5b8f0fc41ed94b0b6b3d", null ],
+    [ "primary_path_count_", "d0/def/classBgpTable.html#a0b47cb8baf55db54cf39c52bc5278b96", null ],
     [ "ribout_map_", "d0/def/classBgpTable.html#ab51f8dc1e3c069b8553fa28954648d88", null ],
     [ "rtinstance_", "d0/def/classBgpTable.html#a702072e315b3f0a418cbc5a2dc6cc5e9", null ],
-    [ "secondary_path_count_", "d0/def/classBgpTable.html#a31017b81706f00ab5881e11425bb1990", null ],
-    [ "stale_path_count_", "d0/def/classBgpTable.html#a8f525d3fcab2fdf785eb1cf3b2491f03", null ]
+    [ "secondary_path_count_", "d0/def/classBgpTable.html#ad48b4a3c8a06e08223a8406be1ab73d3", null ],
+    [ "stale_path_count_", "d0/def/classBgpTable.html#a2ee9defe49c9059c6d7d4bdd748f4643", null ]
 ];

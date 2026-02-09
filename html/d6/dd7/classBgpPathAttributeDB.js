@@ -10,6 +10,6 @@ var classBgpPathAttributeDB =
     [ "LocateInternal", "d6/dd7/classBgpPathAttributeDB.html#a93842f999a64eef2512fd8622363c7fe", null ],
     [ "Size", "d6/dd7/classBgpPathAttributeDB.html#a2cd5e41784b4591016a59f16439b2917", null ],
     [ "hash_size_", "d6/dd7/classBgpPathAttributeDB.html#a8c361cbf2d8d2e817378802fa94ff1a8", null ],
-    [ "mutex_", "d6/dd7/classBgpPathAttributeDB.html#aa74bf15eebd5106c03585d95c6001b4c", null ],
+    [ "mutex_", "d6/dd7/classBgpPathAttributeDB.html#a0b1049f3178e4805151a9b9835c75a55", null ],
     [ "set_", "d6/dd7/classBgpPathAttributeDB.html#a5659ecb90433fc6d7c364d316355edbe", null ]
 ];

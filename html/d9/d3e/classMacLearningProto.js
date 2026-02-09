@@ -25,6 +25,5 @@ var classMacLearningProto =
     [ "change_tokens_", "d9/d3e/classMacLearningProto.html#a0c8e2642a17fb17a5fbd37f668109ff4", null ],
     [ "delete_tokens_", "d9/d3e/classMacLearningProto.html#a43543368e0b58763d785eebac9787686", null ],
     [ "mac_ip_learning_tbl_", "d9/d3e/classMacLearningProto.html#a72b92db2af6d8e54d349a9dbf854494a", null ],
-    [ "mac_learning_partition_list_", "d9/d3e/classMacLearningProto.html#ac02d4dffacb76028d332d0d018834ffd", null ],
-    [ "mutex_", "d9/d3e/classMacLearningProto.html#a0891f1077442d501c719dab2e95776b1", null ]
+    [ "mac_learning_partition_list_", "d9/d3e/classMacLearningProto.html#ac02d4dffacb76028d332d0d018834ffd", null ]
 ];

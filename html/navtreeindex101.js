@@ -1,5 +1,8 @@
 var NAVTREEINDEX101 =
 {
+"d6/dbf/classBgpXmppChannel.html#a18f89d478fe1e275e2d351e16b5a4dba":[2,0,418,60],
+"d6/dbf/classBgpXmppChannel.html#a190dec962ceaefd707f3114c61945c0e":[2,0,418,25],
+"d6/dbf/classBgpXmppChannel.html#a19242937f4ff33c1440a0423078365d6":[2,0,418,57],
 "d6/dbf/classBgpXmppChannel.html#a1950d667958abacbec11b5886f53dcb8":[2,0,418,148],
 "d6/dbf/classBgpXmppChannel.html#a1a67c5d7ce4668c71db762fcaf486105":[2,0,418,19],
 "d6/dbf/classBgpXmppChannel.html#a1b58109aa302ba8645ee3698cb316cdd":[2,0,418,134],
@@ -194,7 +197,6 @@ var NAVTREEINDEX101 =
 "d6/dc0/classStaticRouteMgr.html#a55a6e90df3f259c1204a7ad1f54a61c1":[2,0,1633,21],
 "d6/dc0/classStaticRouteMgr.html#a56a12542fcd2a7b495e76776f62d3f33":[2,0,1633,5],
 "d6/dc0/classStaticRouteMgr.html#a59f65ab84b017673869304da93ba09f6":[2,0,1633,13],
-"d6/dc0/classStaticRouteMgr.html#a5c62c589b2b814a3dece5536ad9a6c00":[2,0,1633,48],
 "d6/dc0/classStaticRouteMgr.html#a6f123aab6816aea80fc866ab82e33d75":[2,0,1633,49],
 "d6/dc0/classStaticRouteMgr.html#a73b4b163cfedfd6c4c86204e6f973f67":[2,0,1633,31],
 "d6/dc0/classStaticRouteMgr.html#a7b2a9ddbfe47b4ad4e128b952dd6b07c":[2,0,1633,34],
@@ -207,6 +209,7 @@ var NAVTREEINDEX101 =
 "d6/dc0/classStaticRouteMgr.html#aac07cebc2b62c3c7f18fc1bbb5f7c323":[2,0,1633,32],
 "d6/dc0/classStaticRouteMgr.html#ab3b71d13f585d89f6b5f179892a8e014":[2,0,1633,9],
 "d6/dc0/classStaticRouteMgr.html#ab59b3e74a5228999113001b29b3fcce7":[2,0,1633,44],
+"d6/dc0/classStaticRouteMgr.html#ac06d94b017af14e798c959160cd1cf33":[2,0,1633,48],
 "d6/dc0/classStaticRouteMgr.html#ac95a4054d4cf0b2b246f1a9d23d4ee51":[2,0,1633,6],
 "d6/dc0/classStaticRouteMgr.html#acdda8507fe5ba0f33a988dd9021c3725":[2,0,1633,35],
 "d6/dc0/classStaticRouteMgr.html#acf595571200b7adea91476956b945238":[2,0,1633,53],
@@ -246,8 +249,5 @@ var NAVTREEINDEX101 =
 "d6/dc0/thrift__binary__protocol_8h.html#acfd27925cbb8d5754b887817c4c816f2":[3,0,1173,11],
 "d6/dc0/thrift__binary__protocol_8h.html#ad24b1c2474f0088166a91a0089b629dd":[3,0,1173,5],
 "d6/dc0/thrift__binary__protocol_8h.html#adb2ba0224088519a4fb68a53ab2f9d3d":[3,0,1173,10],
-"d6/dc0/thrift__binary__protocol_8h.html#aecbba89c8c1713f3c771e0a62e07904e":[3,0,1173,8],
-"d6/dc0/thrift__binary__protocol_8h_source.html":[3,0,1173],
-"d6/dc1/classMetaDataIp.html":[2,0,1135],
-"d6/dc1/classMetaDataIp.html#a0011e2ad40f8d5357464745e57b69382":[2,0,1135,33]
+"d6/dc0/thrift__binary__protocol_8h.html#aecbba89c8c1713f3c771e0a62e07904e":[3,0,1173,8]
 };

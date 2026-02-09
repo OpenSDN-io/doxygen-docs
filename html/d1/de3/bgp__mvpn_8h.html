@@ -96,6 +96,7 @@ $(document).ready(function(){initNavTree('d1/de3/bgp__mvpn_8h.html','../../'); i
 <code>#include &lt;sstream&gt;</code><br />
 <code>#include &lt;string&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
+<code>#include &lt;atomic&gt;</code><br />
 <code>#include &lt;boost/scoped_ptr.hpp&gt;</code><br />
 <code>#include &quot;<a class="el" href="../../dc/d11/lifetime_8h_source.html">base/lifetime.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../d9/d9b/address_8h_source.html">base/address.h</a>&quot;</code><br />
@@ -107,56 +108,56 @@ Include dependency graph for bgp_mvpn.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/df0/bgp__mvpn_8h__incl.png" border="0" usemap="#abgp__mvpn_8h" alt=""/></div>
 <map name="abgp__mvpn_8h" id="abgp__mvpn_8h">
-<area shape="rect" title=" " alt="" coords="2471,5,2565,32"/>
+<area shape="rect" title=" " alt="" coords="1929,5,2024,32"/>
 <area shape="rect" title=" " alt="" coords="5,80,167,107"/>
-<area shape="rect" title=" " alt="" coords="3849,535,3896,562"/>
-<area shape="rect" title=" " alt="" coords="1981,453,2021,480"/>
-<area shape="rect" title=" " alt="" coords="3875,453,3945,480"/>
-<area shape="rect" title=" " alt="" coords="639,535,693,562"/>
-<area shape="rect" title=" " alt="" coords="1761,535,1819,562"/>
-<area shape="rect" title=" " alt="" coords="4262,535,4409,562"/>
-<area shape="rect" href="../../dc/d11/lifetime_8h.html" title=" " alt="" coords="3157,229,3263,256"/>
-<area shape="rect" href="../../d9/d9b/address_8h.html" title=" " alt="" coords="107,304,217,331"/>
-<area shape="rect" href="../../d7/d4d/bgp__attr_8h.html" title=" " alt="" coords="1549,229,1655,256"/>
-<area shape="rect" href="../../d2/d36/bgp__table_8h.html" title=" " alt="" coords="2731,80,2847,107"/>
-<area shape="rect" href="../../dd/d61/db__entry_8h.html" title=" " alt="" coords="2975,229,3077,256"/>
-<area shape="rect" title=" " alt="" coords="2557,379,2652,405"/>
-<area shape="rect" title=" " alt="" coords="2794,535,2885,562"/>
-<area shape="rect" href="../../df/dcd/dependency_8h.html" title=" " alt="" coords="4172,453,4307,480"/>
-<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="2955,535,3038,562"/>
-<area shape="rect" href="../../d5/d47/queue__task_8h.html" title=" " alt="" coords="3152,304,3284,331"/>
-<area shape="rect" title=" " alt="" coords="3920,535,4071,562"/>
-<area shape="rect" title=" " alt="" coords="4095,528,4237,569"/>
-<area shape="rect" title=" " alt="" coords="3219,617,3348,644"/>
-<area shape="rect" title=" " alt="" coords="3333,379,3405,405"/>
-<area shape="rect" title=" " alt="" coords="2677,379,2751,405"/>
-<area shape="rect" title=" " alt="" coords="3429,379,3588,405"/>
-<area shape="rect" title=" " alt="" coords="3612,379,3755,405"/>
-<area shape="rect" href="../../db/da4/task_8h.html" title=" " alt="" coords="3130,453,3221,480"/>
-<area shape="rect" href="../../d0/d91/time__util_8h.html" title=" " alt="" coords="3779,379,3894,405"/>
-<area shape="rect" href="../../df/de0/watermark_8h.html" title=" " alt="" coords="3080,379,3207,405"/>
-<area shape="rect" title=" " alt="" coords="47,379,218,405"/>
-<area shape="rect" title=" " alt="" coords="1189,453,1343,480"/>
-<area shape="rect" href="../../de/d77/label__block_8h.html" title=" " alt="" coords="1322,379,1453,405"/>
-<area shape="rect" href="../../d1/d66/parse__object_8h.html" title=" " alt="" coords="925,453,1063,480"/>
-<area shape="rect" href="../../d0/d9d/bgp__aspath_8h.html" title=" " alt="" coords="1703,304,1829,331"/>
-<area shape="rect" href="../../db/de3/bgp__attr__base_8h.html" title=" " alt="" coords="1629,379,1772,405"/>
-<area shape="rect" href="../../d1/d0b/bgp__origin__vn__path_8h.html" title=" " alt="" coords="1455,304,1627,331"/>
-<area shape="rect" href="../../d1/da6/community_8h.html" title=" " alt="" coords="1129,304,1251,331"/>
-<area shape="rect" href="../../d5/de5/esi_8h.html" title=" " alt="" coords="2151,453,2223,480"/>
-<area shape="rect" href="../../d6/d05/mac__address_8h.html" title=" " alt="" coords="445,304,578,331"/>
-<area shape="rect" href="../../dc/d2e/rd_8h.html" title=" " alt="" coords="2405,304,2471,331"/>
-<area shape="rect" href="../../d1/d69/bitset_8h.html" title=" " alt="" coords="805,453,901,480"/>
-<area shape="rect" title=" " alt="" coords="1006,535,1070,562"/>
-<area shape="rect" title=" " alt="" coords="916,535,981,562"/>
-<area shape="rect" href="../../db/d4e/bgp__common_8h.html" title=" " alt="" coords="1007,379,1146,405"/>
-<area shape="rect" title=" " alt="" coords="1679,453,1850,480"/>
-<area shape="rect" href="../../d3/d0d/bgp__rib__policy_8h.html" title=" " alt="" coords="2648,229,2791,256"/>
-<area shape="rect" href="../../d4/d04/db__table__walker_8h.html" title=" " alt="" coords="3953,229,4096,256"/>
-<area shape="rect" href="../../dd/d98/table_8h.html" title=" " alt="" coords="2868,155,2963,181"/>
-<area shape="rect" href="../../d0/d7f/bgp__ribout_8h.html" title=" " alt="" coords="2551,155,2669,181"/>
-<area shape="rect" href="../../d6/d67/db__table_8h.html" title=" " alt="" coords="2976,304,3076,331"/>
-<area shape="rect" title=" " alt="" coords="2749,304,2901,331"/>
+<area shape="rect" title=" " alt="" coords="333,535,380,562"/>
+<area shape="rect" title=" " alt="" coords="2781,453,2821,480"/>
+<area shape="rect" title=" " alt="" coords="757,453,826,480"/>
+<area shape="rect" title=" " alt="" coords="4064,535,4119,562"/>
+<area shape="rect" title=" " alt="" coords="2617,535,2675,562"/>
+<area shape="rect" title=" " alt="" coords="2243,379,2305,405"/>
+<area shape="rect" title=" " alt="" coords="162,535,309,562"/>
+<area shape="rect" href="../../dc/d11/lifetime_8h.html" title=" " alt="" coords="1447,229,1554,256"/>
+<area shape="rect" href="../../d9/d9b/address_8h.html" title=" " alt="" coords="4591,304,4701,331"/>
+<area shape="rect" href="../../d7/d4d/bgp__attr_8h.html" title=" " alt="" coords="2801,229,2907,256"/>
+<area shape="rect" href="../../d2/d36/bgp__table_8h.html" title=" " alt="" coords="1919,80,2035,107"/>
+<area shape="rect" href="../../dd/d61/db__entry_8h.html" title=" " alt="" coords="1581,229,1682,256"/>
+<area shape="rect" title=" " alt="" coords="1394,535,1453,562"/>
+<area shape="rect" href="../../df/dcd/dependency_8h.html" title=" " alt="" coords="445,453,580,480"/>
+<area shape="rect" href="../../d8/d3c/util_8h.html" title=" " alt="" coords="1898,535,1981,562"/>
+<area shape="rect" href="../../d5/d47/queue__task_8h.html" title=" " alt="" coords="1331,304,1463,331"/>
+<area shape="rect" title=" " alt="" coords="571,535,721,562"/>
+<area shape="rect" title=" " alt="" coords="404,528,547,569"/>
+<area shape="rect" title=" " alt="" coords="1536,617,1665,644"/>
+<area shape="rect" title=" " alt="" coords="887,379,959,405"/>
+<area shape="rect" title=" " alt="" coords="2043,379,2118,405"/>
+<area shape="rect" title=" " alt="" coords="984,379,1143,405"/>
+<area shape="rect" title=" " alt="" coords="1167,379,1309,405"/>
+<area shape="rect" href="../../db/da4/task_8h.html" title=" " alt="" coords="1270,453,1361,480"/>
+<area shape="rect" href="../../d0/d91/time__util_8h.html" title=" " alt="" coords="698,379,813,405"/>
+<area shape="rect" href="../../df/de0/watermark_8h.html" title=" " alt="" coords="1588,379,1715,405"/>
+<area shape="rect" title=" " alt="" coords="4590,379,4761,405"/>
+<area shape="rect" title=" " alt="" coords="3345,453,3499,480"/>
+<area shape="rect" href="../../de/d77/label__block_8h.html" title=" " alt="" coords="2582,304,2713,331"/>
+<area shape="rect" href="../../d1/d66/parse__object_8h.html" title=" " alt="" coords="3694,453,3833,480"/>
+<area shape="rect" href="../../d0/d9d/bgp__aspath_8h.html" title=" " alt="" coords="2791,304,2917,331"/>
+<area shape="rect" href="../../db/de3/bgp__attr__base_8h.html" title=" " alt="" coords="2937,379,3080,405"/>
+<area shape="rect" href="../../d1/d0b/bgp__origin__vn__path_8h.html" title=" " alt="" coords="3440,304,3612,331"/>
+<area shape="rect" href="../../d1/da6/community_8h.html" title=" " alt="" coords="3082,304,3205,331"/>
+<area shape="rect" href="../../d5/de5/esi_8h.html" title=" " alt="" coords="2435,453,2507,480"/>
+<area shape="rect" href="../../d6/d05/mac__address_8h.html" title=" " alt="" coords="4179,453,4313,480"/>
+<area shape="rect" href="../../dc/d2e/rd_8h.html" title=" " alt="" coords="1942,453,2009,480"/>
+<area shape="rect" href="../../d1/d69/bitset_8h.html" title=" " alt="" coords="3857,453,3953,480"/>
+<area shape="rect" title=" " alt="" coords="3777,535,3841,562"/>
+<area shape="rect" title=" " alt="" coords="3687,535,3752,562"/>
+<area shape="rect" href="../../db/d4e/bgp__common_8h.html" title=" " alt="" coords="3510,379,3649,405"/>
+<area shape="rect" title=" " alt="" coords="1887,155,1981,181"/>
+<area shape="rect" href="../../d3/d0d/bgp__rib__policy_8h.html" title=" " alt="" coords="2143,229,2285,256"/>
+<area shape="rect" href="../../d4/d04/db__table__walker_8h.html" title=" " alt="" coords="1707,229,1849,256"/>
+<area shape="rect" href="../../dd/d98/table_8h.html" title=" " alt="" coords="1768,155,1863,181"/>
+<area shape="rect" href="../../d0/d7f/bgp__ribout_8h.html" title=" " alt="" coords="2057,155,2176,181"/>
+<area shape="rect" href="../../d6/d67/db__table_8h.html" title=" " alt="" coords="1851,304,1951,331"/>
+<area shape="rect" title=" " alt="" coords="1589,304,1741,331"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -257,7 +258,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="arouting__instance__log_8h_html_a2c53b36e6de95a188257cb4e55a75e98"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#a2c53b36e6de95a188257cb4e55a75e98">RTINSTANCE_LOG_FLAG_ALL</a></div><div class="ttdeci">#define RTINSTANCE_LOG_FLAG_ALL</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00030">routing_instance_log.h:30</a></div></div>
 <div class="ttc" id="arouting__instance__log_8h_html_aad289538a3639c10f0328d91dc1da1b6"><div class="ttname"><a href="../../da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6">RTINSTANCE_LOG</a></div><div class="ttdeci">#define RTINSTANCE_LOG(type, rtinstance, level, flags,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d96/routing__instance__log_8h_source.html#l00062">routing_instance_log.h:62</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00498">498</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00499">499</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -290,7 +291,7 @@ Functions</h2></td></tr>
 <div class="line">        SandeshLevel::SYS_DEBUG, <a class="code" href="../../da/d96/routing__instance__log_8h.html#a2c53b36e6de95a188257cb4e55a75e98">RTINSTANCE_LOG_FLAG_ALL</a>, ##__VA_ARGS__)</div>
 <div class="ttc" id="aload__balance_8h_html_a1d127017fb298b889f4ba24752d08b8e"><div class="ttname"><a href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a></div><div class="ttdeci">uint8_t type</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dcb/load__balance_8h_source.html#l00002">load_balance.h:2</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00506">506</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00507">507</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -327,7 +328,7 @@ Functions</h2></td></tr>
 <div class="line">                   (rt)-&gt;GetType(), (rt)-&gt;<a class="code" href="../../d3/d34/physical__device_8cc.html#abe277d7cc3127e27773b18c2e4e5e84a">ToString</a>(), ##__VA_ARGS__)</div>
 <div class="ttc" id="aclassMvpnRoute_html"><div class="ttname"><a href="../../de/d0e/classMvpnRoute.html">MvpnRoute</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d70/mvpn__route_8h_source.html#l00131">mvpn_route.h:131</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00490">490</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00491">491</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -359,7 +360,7 @@ Functions</h2></td></tr>
 <b>Value:</b><div class="fragment"><div class="line">    <a class="code" href="../../da/d96/routing__instance__log_8h.html#aad289538a3639c10f0328d91dc1da1b6">RTINSTANCE_LOG</a>(<a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>, this-&gt;table()-&gt;routing_instance(), \</div>
 <div class="line">        SandeshLevel::UT_DEBUG, <a class="code" href="../../da/d96/routing__instance__log_8h.html#a2c53b36e6de95a188257cb4e55a75e98">RTINSTANCE_LOG_FLAG_ALL</a>, ##__VA_ARGS__)</div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00510">510</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00511">511</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -376,7 +377,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00041">41</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00042">42</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -405,7 +406,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00462">462</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00463">463</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>
@@ -433,7 +434,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00470">470</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html#l00471">471</a> of file <a class="el" href="../../d1/de3/bgp__mvpn_8h_source.html">bgp_mvpn.h</a>.</p>
 
 </div>
 </div>

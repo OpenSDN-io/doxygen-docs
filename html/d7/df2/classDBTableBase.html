@@ -155,10 +155,9 @@ Collaboration diagram for DBTableBase:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d8/d64/classDBTableBase__coll__graph.png" border="0" usemap="#aDBTableBase_coll__map" alt="Collaboration graph"/></div>
 <map name="aDBTableBase_coll__map" id="aDBTableBase_coll__map">
-<area shape="rect" title=" " alt="" coords="19,184,121,211"/>
-<area shape="rect" title=" " alt="" coords="5,95,60,121"/>
-<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="87,95,128,121"/>
-<area shape="rect" title=" " alt="" coords="78,5,137,32"/>
+<area shape="rect" title=" " alt="" coords="19,95,121,121"/>
+<area shape="rect" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" href="../../df/d70/classDB.html" title=" " alt="" coords="87,5,128,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -290,18 +289,18 @@ Private Attributes</h2></td></tr>
 <tr class="separator:aef740dc352a9a5ebcf3ff86061de0299"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a882519a367cbc4851b9633fcf5914ac9"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a882519a367cbc4851b9633fcf5914ac9">notify_count_</a></td></tr>
 <tr class="separator:a882519a367cbc4851b9633fcf5914ac9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aed83baf92663ce63c60ea341af29dcf5"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#aed83baf92663ce63c60ea341af29dcf5">walker_count_</a></td></tr>
-<tr class="separator:aed83baf92663ce63c60ea341af29dcf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad7380ff4639dca40385f360ca2b92793"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#ad7380ff4639dca40385f360ca2b92793">walk_count_</a></td></tr>
-<tr class="separator:ad7380ff4639dca40385f360ca2b92793"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab00757e62ae85532c28419b1cb1dbc0a"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#ab00757e62ae85532c28419b1cb1dbc0a">walk_request_count_</a></td></tr>
-<tr class="separator:ab00757e62ae85532c28419b1cb1dbc0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2cfdca0a80b49cd27d145f56b0d29632"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a2cfdca0a80b49cd27d145f56b0d29632">walk_complete_count_</a></td></tr>
-<tr class="separator:a2cfdca0a80b49cd27d145f56b0d29632"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37b91c5e2a998bfe846ee074f354b941"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a37b91c5e2a998bfe846ee074f354b941">walk_cancel_count_</a></td></tr>
-<tr class="separator:a37b91c5e2a998bfe846ee074f354b941"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d4c8bd3a30dc94911d79ad0479e00d7"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a1d4c8bd3a30dc94911d79ad0479e00d7">walk_again_count_</a></td></tr>
-<tr class="separator:a1d4c8bd3a30dc94911d79ad0479e00d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24cb49342eed7a632449726872f202a5"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a24cb49342eed7a632449726872f202a5">walker_count_</a></td></tr>
+<tr class="separator:a24cb49342eed7a632449726872f202a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc581d338981103e16fbcd3afb695080"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#afc581d338981103e16fbcd3afb695080">walk_count_</a></td></tr>
+<tr class="separator:afc581d338981103e16fbcd3afb695080"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66a6c94f19f2e481f393e0388209466f"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a66a6c94f19f2e481f393e0388209466f">walk_request_count_</a></td></tr>
+<tr class="separator:a66a6c94f19f2e481f393e0388209466f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7484320f33a0e34986d7c0dc1dfe38fe"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a7484320f33a0e34986d7c0dc1dfe38fe">walk_complete_count_</a></td></tr>
+<tr class="separator:a7484320f33a0e34986d7c0dc1dfe38fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fb468f6192190d56d18031396968024"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a8fb468f6192190d56d18031396968024">walk_cancel_count_</a></td></tr>
+<tr class="separator:a8fb468f6192190d56d18031396968024"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11768dccfc834df8bf7de4f18862ced4"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint64_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df2/classDBTableBase.html#a11768dccfc834df8bf7de4f18862ced4">walk_again_count_</a></td></tr>
+<tr class="separator:a11768dccfc834df8bf7de4f18862ced4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -366,7 +365,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00167">167</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00169">169</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -393,7 +392,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00178">178</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00180">180</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -464,7 +463,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00212">212</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00214">214</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -629,7 +628,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00194">194</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00196">196</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -688,7 +687,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00201">201</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00203">203</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -721,7 +720,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00242">242</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00244">244</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -741,7 +740,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00216">216</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00218">218</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -760,7 +759,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00238">238</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00240">240</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -863,7 +862,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00234">234</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00236">236</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -1189,7 +1188,7 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented in <a class="el" href="../../d0/def/classBgpTable.html#a6d68bb408d76d6391772ab178092b538">BgpTable</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00220">220</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00222">222</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1285,7 +1284,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00181">181</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00183">183</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1434,7 +1433,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00207">207</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00209">209</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -1483,7 +1482,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00186">186</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00188">188</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1827,8 +1826,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a1d4c8bd3a30dc94911d79ad0479e00d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d4c8bd3a30dc94911d79ad0479e00d7">&#9670;&nbsp;</a></span>walk_again_count_</h2>
+<a id="a11768dccfc834df8bf7de4f18862ced4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11768dccfc834df8bf7de4f18862ced4">&#9670;&nbsp;</a></span>walk_again_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1837,7 +1836,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walk_again_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walk_again_count_</td>
         </tr>
       </table>
   </td>
@@ -1851,8 +1850,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a37b91c5e2a998bfe846ee074f354b941"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a37b91c5e2a998bfe846ee074f354b941">&#9670;&nbsp;</a></span>walk_cancel_count_</h2>
+<a id="a8fb468f6192190d56d18031396968024"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fb468f6192190d56d18031396968024">&#9670;&nbsp;</a></span>walk_cancel_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1861,7 +1860,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walk_cancel_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walk_cancel_count_</td>
         </tr>
       </table>
   </td>
@@ -1875,8 +1874,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a2cfdca0a80b49cd27d145f56b0d29632"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cfdca0a80b49cd27d145f56b0d29632">&#9670;&nbsp;</a></span>walk_complete_count_</h2>
+<a id="a7484320f33a0e34986d7c0dc1dfe38fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7484320f33a0e34986d7c0dc1dfe38fe">&#9670;&nbsp;</a></span>walk_complete_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1885,7 +1884,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walk_complete_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walk_complete_count_</td>
         </tr>
       </table>
   </td>
@@ -1899,8 +1898,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="ad7380ff4639dca40385f360ca2b92793"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad7380ff4639dca40385f360ca2b92793">&#9670;&nbsp;</a></span>walk_count_</h2>
+<a id="afc581d338981103e16fbcd3afb695080"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc581d338981103e16fbcd3afb695080">&#9670;&nbsp;</a></span>walk_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1909,7 +1908,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walk_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walk_count_</td>
         </tr>
       </table>
   </td>
@@ -1923,8 +1922,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="ab00757e62ae85532c28419b1cb1dbc0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab00757e62ae85532c28419b1cb1dbc0a">&#9670;&nbsp;</a></span>walk_request_count_</h2>
+<a id="a66a6c94f19f2e481f393e0388209466f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66a6c94f19f2e481f393e0388209466f">&#9670;&nbsp;</a></span>walk_request_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1933,7 +1932,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walk_request_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walk_request_count_</td>
         </tr>
       </table>
   </td>
@@ -1947,8 +1946,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="aed83baf92663ce63c60ea341af29dcf5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aed83baf92663ce63c60ea341af29dcf5">&#9670;&nbsp;</a></span>walker_count_</h2>
+<a id="a24cb49342eed7a632449726872f202a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24cb49342eed7a632449726872f202a5">&#9670;&nbsp;</a></span>walker_count_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1957,7 +1956,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint64_t&gt; DBTableBase::walker_count_</td>
+          <td class="memname">std::atomic&lt;uint64_t&gt; DBTableBase::walker_count_</td>
         </tr>
       </table>
   </td>

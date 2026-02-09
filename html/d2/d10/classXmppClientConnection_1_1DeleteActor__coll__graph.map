@@ -1,35 +1,34 @@
 <map id="XmppClientConnection::DeleteActor" name="XmppClientConnection::DeleteActor">
-<area shape="rect" id="node1" title=" " alt="" coords="2619,209,2775,251"/>
-<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title=" " alt="" coords="654,78,753,105"/>
-<area shape="rect" id="node3" href="$dd/d0e/classLifetimeManager.html" title=" " alt="" coords="352,13,471,39"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="5,5,204,47"/>
-<area shape="rect" id="node5" title=" " alt="" coords="382,219,441,246"/>
-<area shape="rect" id="node7" href="$db/de5/classXmppClient.html" title=" " alt="" coords="1696,217,1787,243"/>
-<area shape="rect" id="node8" href="$d6/d09/classXmppConnectionManager.html" title=" " alt="" coords="1313,273,1485,299"/>
-<area shape="rect" id="node10" href="$de/df9/classTcpServer.html" title=" " alt="" coords="663,563,744,590"/>
-<area shape="rect" id="node23" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="658,509,749,535"/>
-<area shape="rect" id="node28" href="$dc/dea/classTimer.html" title=" " alt="" coords="1029,417,1083,443"/>
-<area shape="rect" id="node6" href="$d2/db0/classDependencyList.html" title=" " alt="" coords="324,64,499,105"/>
-<area shape="rect" id="node21" href="$d5/d13/classXmppSession.html" title=" " alt="" coords="1690,782,1793,809"/>
-<area shape="rect" id="node9" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="1017,530,1095,557"/>
-<area shape="rect" id="node17" href="$d0/d64/classXmppConnection.html" title=" " alt="" coords="2022,754,2145,781"/>
-<area shape="rect" id="node11" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="356,599,467,626"/>
-<area shape="rect" id="node12" title=" " alt="" coords="384,811,439,838"/>
-<area shape="rect" id="node16" href="$d0/dc0/classXmppClientConnection.html" title=" " alt="" coords="2367,985,2523,1011"/>
-<area shape="rect" id="node20" href="$d0/d8b/classXmppChannelConfig.html" title=" " alt="" coords="789,1021,932,1047"/>
-<area shape="rect" id="node13" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="359,549,464,575"/>
-<area shape="rect" id="node14" title=" " alt="" coords="63,549,146,575"/>
-<area shape="rect" id="node15" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="956,222,1156,249"/>
-<area shape="rect" id="node18" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title=" " alt="" coords="1645,597,1837,623"/>
-<area shape="rect" id="node19" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title=" " alt="" coords="1647,845,1836,871"/>
-<area shape="rect" id="node22" href="$db/dda/classSslSession.html" title=" " alt="" coords="1012,597,1100,623"/>
-<area shape="rect" id="node24" title=" " alt="" coords="370,395,453,422"/>
-<area shape="rect" id="node29" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="641,373,765,399"/>
-<area shape="rect" id="node25" title=" " alt="" coords="675,677,731,703"/>
-<area shape="rect" id="node26" href="$dd/d06/classcontrail_1_1regex.html" title=" " alt="" coords="1347,889,1451,915"/>
-<area shape="rect" id="node27" title=" " alt="" coords="1009,871,1103,898"/>
-<area shape="rect" id="node30" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="386,278,437,305"/>
-<area shape="rect" id="node31" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1960,1131,2207,1158"/>
-<area shape="rect" id="node32" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="1682,1143,1801,1170"/>
-<area shape="rect" id="node33" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="1303,1139,1496,1180"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2461,123,2617,164"/>
+<area shape="rect" id="node2" href="$dd/d9e/classLifetimeActor.html" title=" " alt="" coords="2238,71,2337,98"/>
+<area shape="rect" id="node3" href="$dd/d0e/classLifetimeManager.html" title=" " alt="" coords="1867,13,1985,39"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="1465,5,1664,47"/>
+<area shape="rect" id="node5" href="$d2/db0/classDependencyList.html" title=" " alt="" coords="1839,64,2013,105"/>
+<area shape="rect" id="node6" href="$db/de5/classXmppClient.html" title=" " alt="" coords="1688,105,1779,131"/>
+<area shape="rect" id="node7" href="$d6/d09/classXmppConnectionManager.html" title=" " alt="" coords="1133,201,1305,227"/>
+<area shape="rect" id="node20" href="$d5/d13/classXmppSession.html" title=" " alt="" coords="1513,433,1616,459"/>
+<area shape="rect" id="node8" href="$d8/d4d/classSslServer.html" title=" " alt="" coords="837,178,915,205"/>
+<area shape="rect" id="node9" href="$de/df9/classTcpServer.html" title=" " alt="" coords="483,362,564,389"/>
+<area shape="rect" id="node16" href="$d0/d64/classXmppConnection.html" title=" " alt="" coords="1865,587,1987,614"/>
+<area shape="rect" id="node10" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="208,255,319,282"/>
+<area shape="rect" id="node22" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="478,235,569,262"/>
+<area shape="rect" id="node11" title=" " alt="" coords="236,526,291,553"/>
+<area shape="rect" id="node15" href="$d0/dc0/classXmppClientConnection.html" title=" " alt="" coords="2209,731,2365,758"/>
+<area shape="rect" id="node19" href="$d0/d8b/classXmppChannelConfig.html" title=" " alt="" coords="609,690,752,717"/>
+<area shape="rect" id="node27" href="$dc/dea/classTimer.html" title=" " alt="" coords="849,127,903,154"/>
+<area shape="rect" id="node12" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="211,383,316,410"/>
+<area shape="rect" id="node13" title=" " alt="" coords="5,383,88,410"/>
+<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="776,229,976,255"/>
+<area shape="rect" id="node17" href="$d2/d27/structXmppConnection_1_1ProtoStats.html" title=" " alt="" coords="1469,690,1661,717"/>
+<area shape="rect" id="node18" href="$d8/dbd/structXmppConnection_1_1ErrorStats.html" title=" " alt="" coords="1470,741,1659,767"/>
+<area shape="rect" id="node21" href="$db/dda/classSslSession.html" title=" " alt="" coords="832,279,920,306"/>
+<area shape="rect" id="node23" title=" " alt="" coords="222,143,305,170"/>
+<area shape="rect" id="node28" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="461,113,585,139"/>
+<area shape="rect" id="node24" title=" " alt="" coords="495,475,551,502"/>
+<area shape="rect" id="node25" href="$dd/d06/classcontrail_1_1regex.html" title=" " alt="" coords="1167,409,1271,435"/>
+<area shape="rect" id="node26" title=" " alt="" coords="829,394,923,421"/>
+<area shape="rect" id="node29" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="238,78,289,105"/>
+<area shape="rect" id="node30" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1803,846,2049,873"/>
+<area shape="rect" id="node31" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="1505,858,1624,885"/>
+<area shape="rect" id="node32" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="1123,853,1316,895"/>
 </map>

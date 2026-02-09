@@ -94,7 +94,7 @@ var classPeerCloseManager =
     [ "gr_timer_", "df/ddb/classPeerCloseManager.html#a92d1dc64367aef94291d7811da1a8411", null ],
     [ "graceful_", "df/ddb/classPeerCloseManager.html#a27fb35882742ebd14b5f625b0361355e", null ],
     [ "llgr_elapsed_", "df/ddb/classPeerCloseManager.html#a163f693eb22a98ae04081d6646f49c82", null ],
-    [ "membership_req_pending_", "df/ddb/classPeerCloseManager.html#a6a77aecccf3aa1ab2f5276238575cfec", null ],
+    [ "membership_req_pending_", "df/ddb/classPeerCloseManager.html#a94cf71849f39f31ed25b97e5e81a3735", null ],
     [ "membership_state_", "df/ddb/classPeerCloseManager.html#aab4508318b8ef307fbcf8527a7ccddfe", null ],
     [ "peer_close_", "df/ddb/classPeerCloseManager.html#a2139fec9d0a8848a8897fcdc9c92e5e6", null ],
     [ "state_", "df/ddb/classPeerCloseManager.html#a04adc2ddb0f1e8d3453c6719228e36e4", null ],

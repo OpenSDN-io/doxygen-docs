@@ -15,5 +15,5 @@ var classBgpOList =
     [ "elements_", "d3/d56/classBgpOList.html#a1ff81e705dfe310a9d73f0588e43169e", null ],
     [ "olist_db_", "d3/d56/classBgpOList.html#a8d7413a94dca1932f667563d94751b8f", null ],
     [ "olist_spec_", "d3/d56/classBgpOList.html#a68bc25d843092376fb0fb7b4f008d1a0", null ],
-    [ "refcount_", "d3/d56/classBgpOList.html#afc1f6647b7191fa756023a0fddb8a419", null ]
+    [ "refcount_", "d3/d56/classBgpOList.html#ab2b0c8f3c22f434c09217fe49290ed8f", null ]
 ];

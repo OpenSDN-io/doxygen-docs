@@ -1,38 +1,37 @@
 <map id="RibOut::PeerIterator" name="RibOut::PeerIterator">
-<area shape="rect" id="node1" title=" " alt="" coords="2225,903,2364,929"/>
-<area shape="rect" id="node2" href="$db/dd4/classRibOut.html" title=" " alt="" coords="2053,765,2115,792"/>
-<area shape="rect" id="node3" href="$d2/d48/classBgpUpdateSender.html" title=" " alt="" coords="1043,572,1171,599"/>
-<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="590,621,786,648"/>
-<area shape="rect" id="node5" href="$db/d26/classBgpServer.html" title=" " alt="" coords="647,571,729,597"/>
-<area shape="rect" id="node6" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="1036,772,1179,799"/>
-<area shape="rect" id="node21" href="$de/ddf/classRoutingInstance.html" title=" " alt="" coords="1049,448,1166,475"/>
-<area shape="rect" id="node22" href="$d2/d72/classRoutingInstanceMgr.html" title=" " alt="" coords="1416,404,1555,431"/>
-<area shape="rect" id="node7" href="$de/df9/classTcpServer.html" title=" " alt="" coords="647,840,729,867"/>
-<area shape="rect" id="node8" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="323,887,433,913"/>
-<area shape="rect" id="node9" title=" " alt="" coords="351,509,405,536"/>
-<area shape="rect" id="node20" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="637,333,739,360"/>
-<area shape="rect" id="node28" href="$d6/ddf/classBgpInstanceConfig.html" title=" " alt="" coords="621,384,755,411"/>
-<area shape="rect" id="node10" title=" " alt="" coords="73,247,131,273"/>
-<area shape="rect" id="node16" href="$df/d70/classDB.html" title=" " alt="" coords="357,285,399,312"/>
-<area shape="rect" id="node29" href="$d1/d31/classPathResolver.html" title=" " alt="" coords="2035,87,2133,113"/>
-<area shape="rect" id="node11" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="325,836,431,863"/>
-<area shape="rect" id="node12" title=" " alt="" coords="61,836,143,863"/>
-<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="588,739,788,765"/>
-<area shape="rect" id="node14" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="591,789,785,816"/>
-<area shape="rect" id="node15" title=" " alt="" coords="654,892,722,919"/>
-<area shape="rect" id="node34" href="$d2/d43/structRibExportPolicy.html" title=" " alt="" coords="1049,891,1166,917"/>
-<area shape="rect" id="node17" href="$d0/def/classBgpTable.html" title=" " alt="" coords="1760,189,1836,216"/>
-<area shape="rect" id="node18" href="$d3/d72/classRouteTable.html" title=" " alt="" coords="1441,201,1529,228"/>
-<area shape="rect" id="node19" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="1071,232,1143,259"/>
-<area shape="rect" id="node23" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="817,163,1012,205"/>
-<area shape="rect" id="node24" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="319,140,437,167"/>
-<area shape="rect" id="node27" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="585,283,791,309"/>
-<area shape="rect" id="node30" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1203,68,1392,95"/>
-<area shape="rect" id="node31" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="831,119,998,145"/>
-<area shape="rect" id="node25" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="5,133,199,174"/>
-<area shape="rect" id="node26" title=" " alt="" coords="1079,941,1135,968"/>
-<area shape="rect" id="node33" href="$d6/dd0/classBitSet.html" title=" " alt="" coords="1456,911,1515,937"/>
-<area shape="rect" id="node32" href="$d5/d8e/classRibPeerSet.html" title=" " alt="" coords="1754,903,1842,929"/>
-<area shape="rect" id="node35" href="$d7/dfe/structRibExportPolicy_1_1RemovePrivatePolicy.html" title=" " alt="" coords="583,949,793,990"/>
-<area shape="rect" id="node36" href="$d6/dfd/classIndexMap.html" title=" " alt="" coords="1707,758,1889,799"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2149,401,2288,428"/>
+<area shape="rect" id="node2" href="$db/dd4/classRibOut.html" title=" " alt="" coords="1977,527,2039,553"/>
+<area shape="rect" id="node3" href="$d2/d48/classBgpUpdateSender.html" title=" " alt="" coords="1043,555,1171,581"/>
+<area shape="rect" id="node4" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="590,567,786,593"/>
+<area shape="rect" id="node5" href="$db/d26/classBgpServer.html" title=" " alt="" coords="647,508,729,535"/>
+<area shape="rect" id="node6" href="$d1/df7/classBgpSessionManager.html" title=" " alt="" coords="1036,823,1179,849"/>
+<area shape="rect" id="node20" href="$de/ddf/classRoutingInstance.html" title=" " alt="" coords="1049,417,1166,444"/>
+<area shape="rect" id="node21" href="$d2/d72/classRoutingInstanceMgr.html" title=" " alt="" coords="1393,404,1532,431"/>
+<area shape="rect" id="node7" href="$de/df9/classTcpServer.html" title=" " alt="" coords="647,1003,729,1029"/>
+<area shape="rect" id="node8" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="323,1065,433,1092"/>
+<area shape="rect" id="node9" title=" " alt="" coords="351,448,405,475"/>
+<area shape="rect" id="node19" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="637,235,739,261"/>
+<area shape="rect" id="node27" href="$d6/ddf/classBgpInstanceConfig.html" title=" " alt="" coords="621,439,755,465"/>
+<area shape="rect" id="node10" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="325,1015,431,1041"/>
+<area shape="rect" id="node11" title=" " alt="" coords="61,1015,143,1041"/>
+<area shape="rect" id="node12" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="588,836,788,863"/>
+<area shape="rect" id="node13" href="$d4/d0c/classWorkQueue.html" title=" " alt="" coords="591,887,785,913"/>
+<area shape="rect" id="node14" title=" " alt="" coords="654,737,722,764"/>
+<area shape="rect" id="node33" href="$d2/d43/structRibExportPolicy.html" title=" " alt="" coords="1049,644,1166,671"/>
+<area shape="rect" id="node15" href="$df/d70/classDB.html" title=" " alt="" coords="357,280,399,307"/>
+<area shape="rect" id="node16" href="$d0/def/classBgpTable.html" title=" " alt="" coords="1684,131,1760,157"/>
+<area shape="rect" id="node28" href="$d1/d31/classPathResolver.html" title=" " alt="" coords="1959,85,2057,112"/>
+<area shape="rect" id="node17" href="$d3/d72/classRouteTable.html" title=" " alt="" coords="1419,131,1507,157"/>
+<area shape="rect" id="node18" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="1071,169,1143,196"/>
+<area shape="rect" id="node22" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="817,130,1012,171"/>
+<area shape="rect" id="node23" href="$d6/d09/classLifetimeRefBase.html" title=" " alt="" coords="319,103,437,129"/>
+<area shape="rect" id="node26" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="585,181,791,208"/>
+<area shape="rect" id="node29" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="820,13,1009,40"/>
+<area shape="rect" id="node30" href="$d1/d46/classLifetimeRef.html" title=" " alt="" coords="1203,71,1369,97"/>
+<area shape="rect" id="node24" href="$d2/db8/classDependencyRef.html" title=" " alt="" coords="5,95,199,137"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1079,251,1135,277"/>
+<area shape="rect" id="node32" href="$d6/dd0/classBitSet.html" title=" " alt="" coords="1433,324,1492,351"/>
+<area shape="rect" id="node31" href="$d5/d8e/classRibPeerSet.html" title=" " alt="" coords="1678,401,1766,428"/>
+<area shape="rect" id="node34" href="$d7/dfe/structRibExportPolicy_1_1RemovePrivatePolicy.html" title=" " alt="" coords="583,618,793,659"/>
+<area shape="rect" id="node35" href="$d6/dfd/classIndexMap.html" title=" " alt="" coords="1631,578,1813,619"/>
 </map>

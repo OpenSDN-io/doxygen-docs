@@ -1,13 +1,12 @@
 <map id="InstanceManager::InstanceManagerChildEvent" name="InstanceManager::InstanceManagerChildEvent">
 <area shape="rect" id="node1" title=" " alt="" coords="53,363,233,404"/>
 <area shape="rect" id="node2" href="$d4/d7f/classInstanceTask.html" title=" " alt="" coords="5,273,105,300"/>
-<area shape="rect" id="node3" href="$d6/d43/classInstanceTaskQueue.html" title=" " alt="" coords="193,273,331,300"/>
-<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="415,184,520,211"/>
-<area shape="rect" id="node5" title=" " alt="" coords="455,95,538,121"/>
-<area shape="rect" id="node6" href="$dc/dea/classTimer.html" title=" " alt="" coords="235,184,289,211"/>
-<area shape="rect" id="node7" title=" " alt="" coords="135,95,189,121"/>
-<area shape="rect" id="node8" title=" " alt="" coords="223,95,282,121"/>
-<area shape="rect" id="node9" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="307,95,431,121"/>
-<area shape="rect" id="node10" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="298,5,349,32"/>
-<area shape="rect" id="node11" title=" " alt="" coords="373,5,455,32"/>
+<area shape="rect" id="node3" href="$d6/d43/classInstanceTaskQueue.html" title=" " alt="" coords="186,273,325,300"/>
+<area shape="rect" id="node4" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="332,184,437,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="347,95,430,121"/>
+<area shape="rect" id="node6" href="$dc/dea/classTimer.html" title=" " alt="" coords="228,184,283,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="119,95,173,121"/>
+<area shape="rect" id="node8" href="$d0/dd4/classTimer_1_1TimerTask.html" title=" " alt="" coords="199,95,323,121"/>
+<area shape="rect" id="node9" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="190,5,241,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="265,5,347,32"/>
 </map>

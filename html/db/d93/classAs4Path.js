@@ -15,5 +15,5 @@ var classAs4Path =
     [ "intrusive_ptr_release", "db/d93/classAs4Path.html#a6594c7c3dc9ca5b021b08d8fea09e116", null ],
     [ "aspath_db_", "db/d93/classAs4Path.html#aee5280efef49e142862ad07dd9daac5d", null ],
     [ "path_", "db/d93/classAs4Path.html#a148aae15ca0995090b85087aafdb7af5", null ],
-    [ "refcount_", "db/d93/classAs4Path.html#a12b47c2cb9ea9139d426064af8885ab9", null ]
+    [ "refcount_", "db/d93/classAs4Path.html#a1c0c1e524d36c543c4ac9d76e68eb2b1", null ]
 ];

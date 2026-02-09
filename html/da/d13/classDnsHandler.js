@@ -67,7 +67,7 @@ var classDnsHandler =
     [ "items_", "da/d13/classDnsHandler.html#a331c00f4568555aa8309102a6e5ebe5f", null ],
     [ "linklocal_items_", "da/d13/classDnsHandler.html#a7786dd6f0e3cdd22d88b107994b02721", null ],
     [ "max_items_per_xmpp_msg", "da/d13/classDnsHandler.html#a2eb8cf89e17508b1b8a2a3f83acad83b", null ],
-    [ "mutex_", "da/d13/classDnsHandler.html#aef7c430cd37d9068332307ead4628e05", null ],
+    [ "mutex_", "da/d13/classDnsHandler.html#a8f490e89d93ffb6dfad54d2215f479f4", null ],
     [ "name_encoder_", "da/d13/classDnsHandler.html#a9f31f009cfb682afecc0da0b15ac113c", null ],
     [ "pend_req_", "da/d13/classDnsHandler.html#a26134f4fa9915f35a152ea2445b47756", null ],
     [ "query_name_update_", "da/d13/classDnsHandler.html#a492a0886f6bf702e2efdda0125537bc6", null ],

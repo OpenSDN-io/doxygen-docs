@@ -1,14 +1,13 @@
 <map id="AgentQosConfig" name="AgentQosConfig">
-<area shape="rect" id="node1" title=" " alt="" coords="249,693,368,720"/>
-<area shape="rect" id="node2" href="$d5/d7f/classAgentRefCount.html" title=" " alt="" coords="5,604,236,631"/>
-<area shape="rect" id="node3" href="$db/ddb/classAgentOperDBEntry.html" title=" " alt="" coords="312,604,447,631"/>
-<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="326,528,433,555"/>
-<area shape="rect" id="node5" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="343,452,416,479"/>
-<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="328,363,431,389"/>
-<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="316,273,443,300"/>
-<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="328,184,431,211"/>
-<area shape="rect" id="node9" title=" " alt="" coords="269,95,324,121"/>
-<area shape="rect" id="node10" href="$df/d70/classDB.html" title=" " alt="" coords="372,95,413,121"/>
-<area shape="rect" id="node11" title=" " alt="" coords="363,5,422,32"/>
-<area shape="rect" id="node12" title=" " alt="" coords="471,604,517,631"/>
+<area shape="rect" id="node1" title=" " alt="" coords="249,604,368,631"/>
+<area shape="rect" id="node2" href="$d5/d7f/classAgentRefCount.html" title=" " alt="" coords="5,515,236,541"/>
+<area shape="rect" id="node3" href="$db/ddb/classAgentOperDBEntry.html" title=" " alt="" coords="312,515,447,541"/>
+<area shape="rect" id="node4" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="326,439,433,465"/>
+<area shape="rect" id="node5" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="343,363,416,389"/>
+<area shape="rect" id="node6" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="328,273,431,300"/>
+<area shape="rect" id="node7" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="316,184,443,211"/>
+<area shape="rect" id="node8" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="328,95,431,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="269,5,324,32"/>
+<area shape="rect" id="node10" href="$df/d70/classDB.html" title=" " alt="" coords="372,5,413,32"/>
+<area shape="rect" id="node11" title=" " alt="" coords="471,515,517,541"/>
 </map>

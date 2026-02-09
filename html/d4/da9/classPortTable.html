@@ -187,8 +187,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a85497816d13cbca697279fdf3c37e0d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1aa3ac73c7e3b945b1ae6bf00048aedd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a1aa3ac73c7e3b945b1ae6bf00048aedd">set_timeout</a> (uint64_t timeout)</td></tr>
 <tr class="separator:a1aa3ac73c7e3b945b1ae6bf00048aedd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ec9d2b0aa5091b64944ad8b5ea8def8"><td class="memItemLeft" align="right" valign="top">tbb::recursive_mutex &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a3ec9d2b0aa5091b64944ad8b5ea8def8">mutex</a> ()</td></tr>
-<tr class="separator:a3ec9d2b0aa5091b64944ad8b5ea8def8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0225a617c5a4a537e347d0ddad0ded61"><td class="memItemLeft" align="right" valign="top">std::recursive_mutex &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a0225a617c5a4a537e347d0ddad0ded61">mutex</a> ()</td></tr>
+<tr class="separator:a0225a617c5a4a537e347d0ddad0ded61"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a38d2fbfc4af2b595ce21c454b3ef7e65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a38d2fbfc4af2b595ce21c454b3ef7e65">UpdatePortConfig</a> (const <a class="el" href="../../de/d31/structPortConfig.html">PortConfig</a> *<a class="el" href="../../d4/da9/classPortTable.html#afe42b4bf36e52534d8fe768dd099dd16">port_config</a>)</td></tr>
 <tr class="separator:a38d2fbfc4af2b595ce21c454b3ef7e65"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a49a68a95b62f6c6ba2d1121664068553"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a49a68a95b62f6c6ba2d1121664068553">GetPortIndex</a> (uint16_t port) const</td></tr>
@@ -240,8 +240,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a69d900815c26fa5718c473b2ad47559f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa5a716ebf8cb836b16bc978aeea5b3a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d31/structPortConfig.html">PortConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#aa5a716ebf8cb836b16bc978aeea5b3a6">port_config_</a></td></tr>
 <tr class="separator:aa5a716ebf8cb836b16bc978aeea5b3a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d7e0880568ef91acc40314be1ff8318"><td class="memItemLeft" align="right" valign="top">tbb::recursive_mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a2d7e0880568ef91acc40314be1ff8318">mutex_</a></td></tr>
-<tr class="separator:a2d7e0880568ef91acc40314be1ff8318"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad41f3a4ea3e607a8e06d84244c9ffc95"><td class="memItemLeft" align="right" valign="top">std::recursive_mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#ad41f3a4ea3e607a8e06d84244c9ffc95">mutex_</a></td></tr>
+<tr class="separator:ad41f3a4ea3e607a8e06d84244c9ffc95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7581a21e88acfc1b1c426b5262ac875c"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d3/d5f/classTaskTrigger.html">TaskTrigger</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/classPortTable.html#a7581a21e88acfc1b1c426b5262ac875c">task_trigger_</a></td></tr>
 <tr class="separator:a7581a21e88acfc1b1c426b5262ac875c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -477,7 +477,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="1385,531,1536,573"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1385,249,1536,276"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="1607,523,1801,549"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="1641,573,1767,600"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="1641,573,1767,600"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="1633,625,1775,666"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="1633,690,1775,731"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a5566eef7e95b7ee85e8a152b1ed197fe" title=" " alt="" coords="1625,391,1783,433"/>
@@ -564,7 +564,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d7/d54/classPortCacheTable.html#abcbd858c161ac72a0cbf6851b8b884ba" title=" " alt="" coords="615,200,761,227"/>
 <area shape="rect" href="../../dc/dea/classTimer.html#a884738fb312e353e7d89fce007f02485" title=" " alt="" coords="835,423,927,449"/>
 <area shape="rect" href="../../d4/da9/classPortTable.html#ab95475b5d16f508cf4ae078d9bdff06d" title=" " alt="" coords="825,124,937,151"/>
-<area shape="rect" href="../../d4/da9/classPortTable.html#a3ec9d2b0aa5091b64944ad8b5ea8def8" title=" " alt="" coords="820,175,943,201"/>
+<area shape="rect" href="../../d4/da9/classPortTable.html#a0225a617c5a4a537e347d0ddad0ded61" title=" " alt="" coords="820,175,943,201"/>
 <area shape="rect" href="../../d0/d91/time__util_8h.html#afd0d4d28c676a532b89ce6cfd1fc7e95" title=" " alt="" coords="809,225,953,252"/>
 <area shape="rect" href="../../d7/d54/classPortCacheTable.html#adfd1db0bf53ead58c4817a079fc08208" title=" " alt="" coords="1016,144,1177,171"/>
 <area shape="rect" href="../../da/dba/structFlowKey.html#a4cf99b74cfe7a56e87870049695eecbb" title=" " alt="" coords="1035,195,1158,221"/>
@@ -705,7 +705,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="965,418,1116,459"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="965,681,1116,708"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="1187,425,1381,452"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="1221,476,1347,503"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="1221,476,1347,503"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="1213,527,1355,569"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="1213,229,1355,270"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a5566eef7e95b7ee85e8a152b1ed197fe" title=" " alt="" coords="1205,294,1363,335"/>
@@ -792,7 +792,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="1163,493,1313,534"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1163,815,1313,841"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="1385,559,1578,585"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="1419,609,1544,636"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="1419,609,1544,636"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="1411,661,1552,702"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="1411,362,1552,403"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a5566eef7e95b7ee85e8a152b1ed197fe" title=" " alt="" coords="1402,427,1561,469"/>
@@ -1043,7 +1043,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="1640,402,1791,444"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1640,194,1791,220"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="1862,254,2055,280"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="1896,304,2021,331"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="1896,304,2021,331"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="1888,356,2029,397"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="1888,421,2029,462"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a5566eef7e95b7ee85e8a152b1ed197fe" title=" " alt="" coords="1879,486,2038,528"/>
@@ -1124,8 +1124,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a3ec9d2b0aa5091b64944ad8b5ea8def8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ec9d2b0aa5091b64944ad8b5ea8def8">&#9670;&nbsp;</a></span>mutex()</h2>
+<a id="a0225a617c5a4a537e347d0ddad0ded61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0225a617c5a4a537e347d0ddad0ded61">&#9670;&nbsp;</a></span>mutex()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1134,7 +1134,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::recursive_mutex&amp; PortTable::mutex </td>
+          <td class="memname">std::recursive_mutex&amp; PortTable::mutex </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1259,7 +1259,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="1151,566,1301,607"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1151,249,1301,276"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="1373,523,1566,549"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="1407,573,1532,600"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="1407,573,1532,600"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="1399,625,1540,666"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="1399,690,1540,731"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a5566eef7e95b7ee85e8a152b1ed197fe" title=" " alt="" coords="1390,391,1549,433"/>
@@ -1386,7 +1386,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../da/de0/classFlowEventQueueBase.html#a850ac5c2280587382ad24cef334b071f" title=" " alt="" coords="1879,200,2029,241"/>
 <area shape="rect" href="../../d4/d0c/classWorkQueue.html#a1cd8582cc7cdc534693e9278b27b5f41" title=" " alt="" coords="1879,266,2029,293"/>
 <area shape="rect" href="../../d3/d4f/classFlowEntry.html#ae2e9acb03b8a971a1c9ea3ddd56fb571" title=" " alt="" coords="2092,211,2285,238"/>
-<area shape="rect" href="../../d3/d4f/classFlowEntry.html#af76f526542c5f74bc03409e778f8f26b" title=" " alt="" coords="2126,262,2251,289"/>
+<area shape="rect" href="../../d3/d4f/classFlowEntry.html#adb1a9156eb1fc18b0877fe578dd6bac3" title=" " alt="" coords="2126,262,2251,289"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#a2d92ae38adad5b8c3cd7b921d50ebead" title=" " alt="" coords="2118,80,2259,121"/>
 <area shape="rect" href="../../d6/d3f/classFlowPendingAction.html#ace58ea1e58d8e08663f7124a1762b9e5" title=" " alt="" coords="2118,145,2259,187"/>
 <area shape="rect" href="../../d5/d26/flow__proto_8cc.html#a595f354bea76cf091f002e9d1aaaef97" title=" " alt="" coords="2382,645,2487,671"/>
@@ -1525,8 +1525,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a2d7e0880568ef91acc40314be1ff8318"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d7e0880568ef91acc40314be1ff8318">&#9670;&nbsp;</a></span>mutex_</h2>
+<a id="ad41f3a4ea3e607a8e06d84244c9ffc95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad41f3a4ea3e607a8e06d84244c9ffc95">&#9670;&nbsp;</a></span>mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1535,7 +1535,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::recursive_mutex PortTable::mutex_</td>
+          <td class="memname">std::recursive_mutex PortTable::mutex_</td>
         </tr>
       </table>
   </td>

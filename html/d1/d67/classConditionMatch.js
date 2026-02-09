@@ -16,8 +16,8 @@ var classConditionMatch =
     [ "intrusive_ptr_add_ref", "d1/d67/classConditionMatch.html#ae8bbab7ffb99d8014900bcf8cc3090b1", null ],
     [ "intrusive_ptr_release", "d1/d67/classConditionMatch.html#a810faa209c20182444e5f64d1947fc28", null ],
     [ "deleted_", "d1/d67/classConditionMatch.html#a5307f7e92ba1c556e66cb384faf50f44", null ],
-    [ "mutex_", "d1/d67/classConditionMatch.html#aff46cf555e54cfca48ead8fc07b40810", null ],
+    [ "mutex_", "d1/d67/classConditionMatch.html#ac371935d7997499eed3680a65ea6e7f0", null ],
     [ "num_matchstate_", "d1/d67/classConditionMatch.html#a1f13a56cdb7a36e6ea427e2c24591fd0", null ],
-    [ "refcount_", "d1/d67/classConditionMatch.html#ac96577cf562c4c9ad289df7dcf89e827", null ],
+    [ "refcount_", "d1/d67/classConditionMatch.html#ace05bf403c3168bd0006cfb6cba468c6", null ],
     [ "walk_done_", "d1/d67/classConditionMatch.html#aa000710706a4c3736835c41056f5b80a", null ]
 ];

@@ -53,7 +53,7 @@ var classKSyncObject =
     [ "fwd_ref_tree_", "d6/d2d/classKSyncObject.html#a34819113aab85ad6696082535826fe4a", null ],
     [ "index_table_", "d6/d2d/classKSyncObject.html#aaf84d9d9d0d7f2e1d2db7dc8ce452d4d", null ],
     [ "KSyncTraceBuf", "d6/d2d/classKSyncObject.html#ac56900db726e95fe98b7a9eacd3ee076", null ],
-    [ "lock_", "d6/d2d/classKSyncObject.html#a80c29db14783fb32f9700423cd5f8e5e", null ],
+    [ "lock_", "d6/d2d/classKSyncObject.html#abec5c6d3b36a855984ac667bebcc551f", null ],
     [ "need_index_", "d6/d2d/classKSyncObject.html#a86c12b8bfbc824c4f826bc26e44675f7", null ],
     [ "stale_entries_per_intvl_", "d6/d2d/classKSyncObject.html#a86e5957294cd1532f337113ee646c180", null ],
     [ "stale_entry_cleanup_intvl_", "d6/d2d/classKSyncObject.html#a496b4f120676b7a0cd42f3abdc63985e", null ],

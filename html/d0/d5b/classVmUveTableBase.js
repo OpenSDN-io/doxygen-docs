@@ -34,6 +34,6 @@ var classVmUveTableBase =
     [ "timer_", "d0/d5b/classVmUveTableBase.html#ac3e8ee523aa463fe3c15e2756aafdd2f", null ],
     [ "timer_last_visited_", "d0/d5b/classVmUveTableBase.html#aeb1c1053871653f2131691b6c42622bf", null ],
     [ "uve_vm_map_", "d0/d5b/classVmUveTableBase.html#aff2ceae7a2c8d6f2dedef8e2c3225420", null ],
-    [ "uve_vm_map_mutex_", "d0/d5b/classVmUveTableBase.html#aa6789df15e587a53e0cb3d58365473e9", null ],
+    [ "uve_vm_map_mutex_", "d0/d5b/classVmUveTableBase.html#accb8163b75d287b7aecb78e2640b56ea", null ],
     [ "vm_listener_id_", "d0/d5b/classVmUveTableBase.html#a781a38b5adaee3bff9e99282eec583f5", null ]
 ];

@@ -118,7 +118,7 @@ var classBgpAttr =
     [ "originator_id_", "d5/dcf/classBgpAttr.html#a0bd059fa271c95705887cde40cad542c", null ],
     [ "params_", "d5/dcf/classBgpAttr.html#a4aacaa50a26854e8bff5050688c4ddbb", null ],
     [ "pmsi_tunnel_", "d5/dcf/classBgpAttr.html#acd6117ad904124dbf695561a58a9a8ba", null ],
-    [ "refcount_", "d5/dcf/classBgpAttr.html#a1fa852851be3e8a2d76e212db9ebb522", null ],
+    [ "refcount_", "d5/dcf/classBgpAttr.html#a2ad609818858c7dd9ff83e3f9f13a3b9", null ],
     [ "source_rd_", "d5/dcf/classBgpAttr.html#a36ffd30a80d7d61a8b1369a99e8057cb", null ],
     [ "sub_protocol_", "d5/dcf/classBgpAttr.html#aacc5fba516d973f505b11efdd170cb11", null ]
 ];

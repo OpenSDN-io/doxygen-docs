@@ -82,7 +82,7 @@ var classSandeshClientSMImpl =
     [ "last_event_", "d0/da4/classSandeshClientSMImpl.html#a2d02d9e6719a168a7a7a8233ea62faa1", null ],
     [ "last_event_at_", "d0/da4/classSandeshClientSMImpl.html#ad82a33f9a3b637b05dd16e0777605c98", null ],
     [ "last_state_", "d0/da4/classSandeshClientSMImpl.html#acd1e925235a7252e2f308b11070f2fec", null ],
-    [ "mutex_", "d0/da4/classSandeshClientSMImpl.html#a6854db9570d60f005ac1bfd94698abfb", null ],
+    [ "mutex_", "d0/da4/classSandeshClientSMImpl.html#a8db276138f76e0b0fb54e36596f9aef3", null ],
     [ "periodicuve_", "d0/da4/classSandeshClientSMImpl.html#a4693e99f219a807e704e3c1d97a9f8ec", null ],
     [ "state_since_", "d0/da4/classSandeshClientSMImpl.html#a6645e5dcfe0468a398be3df772c97ddc", null ],
     [ "statistics_timer_", "d0/da4/classSandeshClientSMImpl.html#a6c169c915260fb9da2c1d43cc6a963d8", null ],

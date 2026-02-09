@@ -26,6 +26,6 @@ var classSandeshWriter =
     [ "sandesh_open_attr_length_", "d0/d8f/classSandeshWriter.html#af94d2aac87c3a58d0f5a1de383caa293", null ],
     [ "send_buf_", "d0/d8f/classSandeshWriter.html#ae1de346b909b944015d83fdd0eaa5859", null ],
     [ "send_buf_offset_", "d0/d8f/classSandeshWriter.html#a0c247a4861825fb0be854e61c36b593e", null ],
-    [ "send_mutex_", "d0/d8f/classSandeshWriter.html#a4eeff7bd464a750ede91a921f7dc8cf5", null ],
+    [ "send_mutex_", "d0/d8f/classSandeshWriter.html#af50d4117defb2cfa6783fb7b1c0cf9b3", null ],
     [ "session_", "d0/d8f/classSandeshWriter.html#a87ec724c716203971fdd6d4e0d711ba5", null ]
 ];

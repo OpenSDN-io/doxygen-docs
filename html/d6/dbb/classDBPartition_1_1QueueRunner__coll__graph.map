@@ -1,11 +1,9 @@
 <map id="DBPartition::QueueRunner" name="DBPartition::QueueRunner">
-<area shape="rect" id="node1" title=" " alt="" coords="889,93,1068,120"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="686,68,737,95"/>
-<area shape="rect" id="node3" href="$d3/d26/classDBPartition_1_1WorkQueue.html" title=" " alt="" coords="628,119,795,145"/>
-<area shape="rect" id="node4" href="$dd/dd6/classDBPartition.html" title=" " alt="" coords="345,68,435,95"/>
-<area shape="rect" id="node5" href="$df/d70/classDB.html" title=" " alt="" coords="160,68,201,95"/>
-<area shape="rect" id="node6" title=" " alt="" coords="5,43,64,69"/>
-<area shape="rect" id="node7" title=" " alt="" coords="335,119,445,145"/>
-<area shape="rect" id="node8" title=" " alt="" coords="298,170,482,211"/>
-<area shape="rect" id="node9" title=" " alt="" coords="297,235,483,277"/>
+<area shape="rect" id="node1" title=" " alt="" coords="712,40,891,67"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="509,15,559,41"/>
+<area shape="rect" id="node3" href="$d3/d26/classDBPartition_1_1WorkQueue.html" title=" " alt="" coords="451,65,617,92"/>
+<area shape="rect" id="node4" href="$dd/dd6/classDBPartition.html" title=" " alt="" coords="167,7,258,33"/>
+<area shape="rect" id="node5" href="$df/d70/classDB.html" title=" " alt="" coords="5,7,47,33"/>
+<area shape="rect" id="node6" title=" " alt="" coords="121,58,305,99"/>
+<area shape="rect" id="node7" title=" " alt="" coords="120,123,305,165"/>
 </map>

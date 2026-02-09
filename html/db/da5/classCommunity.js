@@ -22,5 +22,5 @@ var classCommunity =
     [ "intrusive_ptr_release", "db/da5/classCommunity.html#a8eea1c7c12678a329c7331b4f022b800", null ],
     [ "comm_db_", "db/da5/classCommunity.html#a80df22dfd9affac4d44e1415afd93378", null ],
     [ "communities_", "db/da5/classCommunity.html#a278ddda7539ecef14e740aabfb781bca", null ],
-    [ "refcount_", "db/da5/classCommunity.html#a42a2764a1e13c749c51d4d1939c5d778", null ]
+    [ "refcount_", "db/da5/classCommunity.html#a993711ce93227037385f606af818de3c", null ]
 ];

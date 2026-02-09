@@ -13,7 +13,7 @@ var structHttpSession =
     [ "get_client_context", "da/d27/structHttpSession.html#a3f990c638515a1c615ed1151b4b5e91c", null ],
     [ "get_context", "da/d27/structHttpSession.html#ad933621408613fdd317767744524f761", null ],
     [ "GetMap", "da/d27/structHttpSession.html#af212356fae27f9b3dbcb44e2e32c15cc", null ],
-    [ "GetPendingTaskCount", "da/d27/structHttpSession.html#a973a665e45451def9d4c6e243b3418ca", null ],
+    [ "GetPendingTaskCount", "da/d27/structHttpSession.html#acb837a8af3352f081db387f84d7f8ca5", null ],
     [ "GetSession", "da/d27/structHttpSession.html#afa34d042bf902aff4c4a12e00554770a", null ],
     [ "OnRead", "da/d27/structHttpSession.html#aa6ba1f894d299bf5e76aed3fed5f4f43", null ],
     [ "OnSessionEvent", "da/d27/structHttpSession.html#a2d7730fb83b2f987be4dacb4d06b82a7", null ],
@@ -25,7 +25,7 @@ var structHttpSession =
     [ "context_map_", "da/d27/structHttpSession.html#a284d2177a667f65bc379d4394c50ae7d", null ],
     [ "context_str_", "da/d27/structHttpSession.html#ae01b0debe176761cbbbcad6f7e619f1c", null ],
     [ "event_cb_", "da/d27/structHttpSession.html#a2dd33a4b57ad716ead64f2363ccc4245", null ],
-    [ "map_mutex_", "da/d27/structHttpSession.html#a4d284b917f166da58c1cb9ff65f5dd53", null ],
+    [ "map_mutex_", "da/d27/structHttpSession.html#a0e9ee5ffea86d93773401a56a50a8c60", null ],
     [ "OnBody", "da/d27/structHttpSession.html#a8fea12fd47fd3b3e466debbeb35c8c18", null ],
     [ "OnHeaderField", "da/d27/structHttpSession.html#aaa112ac716a4ef3323095d8235f77389", null ],
     [ "OnHeadersComplete", "da/d27/structHttpSession.html#adb3e019ed636cbfd6e7214c0848669fa", null ],
@@ -34,8 +34,8 @@ var structHttpSession =
     [ "OnStatusComplete", "da/d27/structHttpSession.html#a5ba83bcef9de5b59041f80a89899be51", null ],
     [ "OnUrl", "da/d27/structHttpSession.html#ac215f94d21c0341631281792d1ee215f", null ],
     [ "req_handler_task_id_", "da/d27/structHttpSession.html#ab11ffbff8ed4eea2f7541592006acdc7", null ],
-    [ "req_queue_empty_", "da/d27/structHttpSession.html#a2667fd7501e688743262bf3a9f279485", null ],
+    [ "req_queue_empty_", "da/d27/structHttpSession.html#ae0a011438649cbc1c309dafda9b9fe93", null ],
     [ "request_builder_", "da/d27/structHttpSession.html#a7f6d78be579d249e699aede37c2f3f82", null ],
     [ "request_queue_", "da/d27/structHttpSession.html#a827f3a7b006822ff1fa9e93cd813c9cf", null ],
-    [ "task_count_", "da/d27/structHttpSession.html#a01fb4d03a0347b2dd54bdb70ef454c9d", null ]
+    [ "task_count_", "da/d27/structHttpSession.html#a5b962fd50d4211acf6012a44ccfd0f25", null ]
 ];

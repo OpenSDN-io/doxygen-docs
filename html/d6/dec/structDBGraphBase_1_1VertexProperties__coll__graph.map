@@ -1,11 +1,10 @@
 <map id="DBGraphBase::VertexProperties" name="DBGraphBase::VertexProperties">
-<area shape="rect" id="node1" title=" " alt="" coords="5,604,217,631"/>
-<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html" title=" " alt="" coords="54,515,169,541"/>
-<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="75,439,148,465"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="60,363,163,389"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="48,273,175,300"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="60,184,163,211"/>
-<area shape="rect" id="node7" title=" " alt="" coords="47,95,101,121"/>
-<area shape="rect" id="node8" href="$df/d70/classDB.html" title=" " alt="" coords="128,95,169,121"/>
-<area shape="rect" id="node9" title=" " alt="" coords="119,5,178,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,515,217,541"/>
+<area shape="rect" id="node2" href="$d3/d0d/classDBGraphVertex.html" title=" " alt="" coords="54,425,169,452"/>
+<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="75,349,148,376"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="60,273,163,300"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="48,184,175,211"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="60,95,163,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="47,5,101,32"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html" title=" " alt="" coords="128,5,169,32"/>
 </map>

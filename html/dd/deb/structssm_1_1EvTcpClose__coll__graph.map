@@ -1,17 +1,16 @@
 <map id="ssm::EvTcpClose" name="ssm::EvTcpClose">
-<area shape="rect" id="node1" title=" " alt="" coords="85,525,211,552"/>
-<area shape="rect" id="node2" title=" " alt="" coords="51,421,199,463"/>
-<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html" title=" " alt="" coords="224,429,344,455"/>
-<area shape="rect" id="node12" href="$d9/df3/classSandeshConnection.html" title=" " alt="" coords="303,525,441,552"/>
-<area shape="rect" id="node4" href="$db/dda/classSslSession.html" title=" " alt="" coords="317,332,405,359"/>
-<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="221,228,312,255"/>
-<area shape="rect" id="node6" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="531,95,642,121"/>
-<area shape="rect" id="node13" href="$de/df9/classTcpServer.html" title=" " alt="" coords="466,228,547,255"/>
-<area shape="rect" id="node7" title=" " alt="" coords="403,95,458,121"/>
-<area shape="rect" id="node8" title=" " alt="" coords="171,95,229,121"/>
-<area shape="rect" id="node9" title=" " alt="" coords="5,95,88,121"/>
-<area shape="rect" id="node10" title=" " alt="" coords="336,228,392,255"/>
-<area shape="rect" id="node11" href="$d5/dcd/classStatsClient.html" title=" " alt="" coords="206,332,293,359"/>
-<area shape="rect" id="node14" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="673,95,778,121"/>
-<area shape="rect" id="node15" title=" " alt="" coords="684,5,767,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="83,511,210,537"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,407,181,448"/>
+<area shape="rect" id="node3" href="$d1/dfd/classSandeshSession.html" title=" " alt="" coords="205,414,325,441"/>
+<area shape="rect" id="node11" href="$d9/df3/classSandeshConnection.html" title=" " alt="" coords="292,511,431,537"/>
+<area shape="rect" id="node4" href="$db/dda/classSslSession.html" title=" " alt="" coords="161,317,249,344"/>
+<area shape="rect" id="node5" href="$d2/d0e/classTcpSession.html" title=" " alt="" coords="121,228,212,255"/>
+<area shape="rect" id="node6" href="$d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="317,95,427,121"/>
+<area shape="rect" id="node12" href="$de/df9/classTcpServer.html" title=" " alt="" coords="398,228,479,255"/>
+<area shape="rect" id="node7" title=" " alt="" coords="189,95,243,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="236,228,292,255"/>
+<area shape="rect" id="node10" href="$d5/dcd/classStatsClient.html" title=" " alt="" coords="274,317,361,344"/>
+<area shape="rect" id="node13" href="$d2/dd9/classEventManager.html" title=" " alt="" coords="458,95,563,121"/>
+<area shape="rect" id="node14" title=" " alt="" coords="469,5,552,32"/>
 </map>

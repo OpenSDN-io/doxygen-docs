@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"db/d12/structUveTagData.html#a1513ef8c0117c95498dd971828092c80":[2,0,1762,10],
+"db/d12/structUveTagData.html#a28ab70d1d6d7e075b18cb1a8b8951ea6":[2,0,1762,4],
 "db/d12/structUveTagData.html#a357923956174000c956b41cf5cd5a112":[2,0,1762,14],
 "db/d12/structUveTagData.html#a54918b2b285b0bb1af398f653dc51859":[2,0,1762,1],
 "db/d12/structUveTagData.html#a5d6d93d465c345742f16c1f1c5072450":[2,0,1762,13],
@@ -198,6 +200,7 @@ var NAVTREEINDEX161 =
 "db/d25/structProuterUveTable_1_1ProuterUveEntry.html#aea2dafc49d0d1623b08ffbe873293c85":[2,0,1375,4,12],
 "db/d26/classBgpServer.html":[2,0,407],
 "db/d26/classBgpServer.html#a00266d90c9bf93b990e10cc093ef491f":[2,0,407,72],
+"db/d26/classBgpServer.html#a00d6cfff8a9b54ef08698d4a820d3a05":[2,0,407,208],
 "db/d26/classBgpServer.html#a00f3b258d5fed33db688d0cd6281aa5b":[2,0,407,125],
 "db/d26/classBgpServer.html#a020ae22723a6c93e381f2135a6e53256":[2,0,407,36],
 "db/d26/classBgpServer.html#a022fe86da6debe126a0862ea7dc1b9e8":[2,0,407,159],
@@ -206,7 +209,6 @@ var NAVTREEINDEX161 =
 "db/d26/classBgpServer.html#a05180112f100456223934bccc05b9fa6":[2,0,407,126],
 "db/d26/classBgpServer.html#a05c2a88533c2eaf7479930e79ce3596f":[2,0,407,99],
 "db/d26/classBgpServer.html#a06a2a4c63d62bcb424e2a3a564e8bb82":[2,0,407,23],
-"db/d26/classBgpServer.html#a08ea5993935ccdfb28c7cb0d2297682d":[2,0,407,208],
 "db/d26/classBgpServer.html#a0c065586d5bd3fdbde0ffbf94565205b":[2,0,407,175],
 "db/d26/classBgpServer.html#a0cd117a168a3ae68d452897e2a6fdbf9":[2,0,407,26],
 "db/d26/classBgpServer.html#a0d68af961d57dcd813c6a1b10d7fb363":[2,0,407,58],
@@ -215,6 +217,7 @@ var NAVTREEINDEX161 =
 "db/d26/classBgpServer.html#a0e1878814bf4e7e54e11e3e9354f8dbc":[2,0,407,50],
 "db/d26/classBgpServer.html#a10a6b36ebc36938b1654900eeb561f12":[2,0,407,28],
 "db/d26/classBgpServer.html#a11d3641787a525001c39958986c10d8b":[2,0,407,45],
+"db/d26/classBgpServer.html#a125448d86f82f30b67b739a94399d02d":[2,0,407,172],
 "db/d26/classBgpServer.html#a1268481f9d8644db08b6784d14bec04c":[2,0,407,122],
 "db/d26/classBgpServer.html#a1278a9656c5d77fc43317591ff0a5f19":[2,0,407,128],
 "db/d26/classBgpServer.html#a136b2bf096a8b7cdcdfdfc1c4b3cff11":[2,0,407,116],
@@ -246,8 +249,5 @@ var NAVTREEINDEX161 =
 "db/d26/classBgpServer.html#a3791f42f287a160ddedd2020de714636":[2,0,407,141],
 "db/d26/classBgpServer.html#a38073568ca06acebcba187cdad366944":[2,0,407,38],
 "db/d26/classBgpServer.html#a392b4569098b7931ea7f00c5c25b9805":[2,0,407,198],
-"db/d26/classBgpServer.html#a39e24ba2552af0c9aa413f1bea3b691d":[2,0,407,66],
-"db/d26/classBgpServer.html#a3ac73f7a061a341133cb0de188c44ae1":[2,0,407,200],
-"db/d26/classBgpServer.html#a3ca88f309db5b79a9bbd20418f143c44":[2,0,407,152],
-"db/d26/classBgpServer.html#a3df54a85cabf78674612521ae11bebe8":[2,0,407,166]
+"db/d26/classBgpServer.html#a39e24ba2552af0c9aa413f1bea3b691d":[2,0,407,66]
 };

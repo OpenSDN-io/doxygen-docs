@@ -1,11 +1,10 @@
 <map id="DBGraphBase::EdgeProperties" name="DBGraphBase::EdgeProperties">
-<area shape="rect" id="node1" title=" " alt="" coords="5,604,209,631"/>
-<area shape="rect" id="node2" href="$d6/d21/classDBGraphEdge.html" title=" " alt="" coords="117,515,223,541"/>
-<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="152,439,225,465"/>
-<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="141,363,244,389"/>
-<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="128,273,255,300"/>
-<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="140,184,243,211"/>
-<area shape="rect" id="node7" title=" " alt="" coords="68,95,123,121"/>
-<area shape="rect" id="node8" href="$df/d70/classDB.html" title=" " alt="" coords="171,95,212,121"/>
-<area shape="rect" id="node9" title=" " alt="" coords="162,5,221,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,515,209,541"/>
+<area shape="rect" id="node2" href="$d6/d21/classDBGraphEdge.html" title=" " alt="" coords="117,425,223,452"/>
+<area shape="rect" id="node3" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="152,349,225,376"/>
+<area shape="rect" id="node4" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="141,273,244,300"/>
+<area shape="rect" id="node5" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="128,184,255,211"/>
+<area shape="rect" id="node6" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="140,95,243,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="68,5,123,32"/>
+<area shape="rect" id="node8" href="$df/d70/classDB.html" title=" " alt="" coords="171,5,212,32"/>
 </map>

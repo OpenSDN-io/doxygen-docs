@@ -1,12 +1,11 @@
 <map id="DBTable::WalkWorker" name="DBTable::WalkWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="81,452,231,479"/>
-<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="5,363,56,389"/>
-<area shape="rect" id="node3" href="$d6/de5/classDBTable_1_1TableWalker.html" title=" " alt="" coords="81,363,231,389"/>
-<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="120,273,192,300"/>
-<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="207,184,310,211"/>
-<area shape="rect" id="node10" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="217,273,343,300"/>
-<area shape="rect" id="node6" title=" " alt="" coords="211,95,266,121"/>
-<area shape="rect" id="node7" href="$df/d70/classDB.html" title=" " alt="" coords="293,95,334,121"/>
-<area shape="rect" id="node8" title=" " alt="" coords="317,5,376,32"/>
-<area shape="rect" id="node9" href="$df/d9e/classDBTablePartition.html" title=" " alt="" coords="255,363,377,389"/>
+<area shape="rect" id="node1" title=" " alt="" coords="81,363,231,389"/>
+<area shape="rect" id="node2" href="$d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications...." alt="" coords="5,273,56,300"/>
+<area shape="rect" id="node3" href="$d6/de5/classDBTable_1_1TableWalker.html" title=" " alt="" coords="81,273,231,300"/>
+<area shape="rect" id="node4" href="$d5/d0a/classDBTable.html" title=" " alt="" coords="147,184,219,211"/>
+<area shape="rect" id="node5" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="193,95,295,121"/>
+<area shape="rect" id="node9" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="247,184,374,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="179,5,234,32"/>
+<area shape="rect" id="node7" href="$df/d70/classDB.html" title=" " alt="" coords="261,5,302,32"/>
+<area shape="rect" id="node8" href="$df/d9e/classDBTablePartition.html" title=" " alt="" coords="255,273,377,300"/>
 </map>

@@ -1,12 +1,11 @@
 <map id="AgentDBState" name="AgentDBState">
-<area shape="rect" id="node1" title=" " alt="" coords="27,604,133,631"/>
-<area shape="rect" id="node2" href="$d3/def/structDBState.html" title=" " alt="" coords="5,515,77,541"/>
-<area shape="rect" id="node3" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="101,515,208,541"/>
-<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="118,439,191,465"/>
-<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="103,363,206,389"/>
-<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="91,273,218,300"/>
-<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="103,184,206,211"/>
-<area shape="rect" id="node8" title=" " alt="" coords="90,95,145,121"/>
-<area shape="rect" id="node9" href="$df/d70/classDB.html" title=" " alt="" coords="171,95,213,121"/>
-<area shape="rect" id="node10" title=" " alt="" coords="163,5,221,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="27,515,133,541"/>
+<area shape="rect" id="node2" href="$d3/def/structDBState.html" title=" " alt="" coords="5,425,77,452"/>
+<area shape="rect" id="node3" href="$db/d89/classAgentDBEntry.html" title=" " alt="" coords="101,425,208,452"/>
+<area shape="rect" id="node4" href="$d6/d7e/classDBEntry.html" title=" " alt="" coords="118,349,191,376"/>
+<area shape="rect" id="node5" href="$d8/d44/classDBEntryBase.html" title=" " alt="" coords="103,273,206,300"/>
+<area shape="rect" id="node6" href="$d3/da7/classDBTablePartBase.html" title=" " alt="" coords="91,184,218,211"/>
+<area shape="rect" id="node7" href="$d7/df2/classDBTableBase.html" title=" " alt="" coords="103,95,206,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="90,5,145,32"/>
+<area shape="rect" id="node9" href="$df/d70/classDB.html" title=" " alt="" coords="171,5,213,32"/>
 </map>

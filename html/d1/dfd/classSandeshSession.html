@@ -111,19 +111,18 @@ Collaboration diagram for SandeshSession:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../de/d8a/classSandeshSession__coll__graph.png" border="0" usemap="#aSandeshSession_coll__map" alt="Collaboration graph"/></div>
 <map name="aSandeshSession_coll__map" id="aSandeshSession_coll__map">
-<area shape="rect" title=" " alt="" coords="272,421,392,448"/>
-<area shape="rect" href="../../d9/df3/classSandeshConnection.html" title=" " alt="" coords="368,511,507,537"/>
-<area shape="rect" href="../../db/dda/classSslSession.html" title=" " alt="" coords="200,332,288,359"/>
-<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="193,228,284,255"/>
-<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="139,95,250,121"/>
-<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="478,228,559,255"/>
-<area shape="rect" title=" " alt="" coords="546,95,601,121"/>
-<area shape="rect" title=" " alt="" coords="301,95,360,121"/>
-<area shape="rect" title=" " alt="" coords="5,95,88,121"/>
-<area shape="rect" title=" " alt="" coords="83,228,139,255"/>
-<area shape="rect" href="../../d5/dcd/classStatsClient.html" title=" " alt="" coords="369,332,455,359"/>
-<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="673,95,778,121"/>
-<area shape="rect" title=" " alt="" coords="684,5,767,32"/>
+<area shape="rect" title=" " alt="" coords="178,407,298,433"/>
+<area shape="rect" href="../../d9/df3/classSandeshConnection.html" title=" " alt="" coords="98,496,237,523"/>
+<area shape="rect" href="../../db/dda/classSslSession.html" title=" " alt="" coords="289,317,377,344"/>
+<area shape="rect" href="../../d2/d0e/classTcpSession.html" title=" " alt="" coords="301,228,391,255"/>
+<area shape="rect" href="../../d2/dfc/structio_1_1SocketStats.html" title=" " alt="" coords="147,95,257,121"/>
+<area shape="rect" href="../../de/df9/classTcpServer.html" title=" " alt="" coords="83,228,164,255"/>
+<area shape="rect" title=" " alt="" coords="293,95,348,121"/>
+<area shape="rect" title=" " alt="" coords="429,95,511,121"/>
+<area shape="rect" title=" " alt="" coords="189,228,245,255"/>
+<area shape="rect" href="../../d5/dcd/classStatsClient.html" title=" " alt="" coords="177,317,264,344"/>
+<area shape="rect" href="../../d2/dd9/classEventManager.html" title=" " alt="" coords="5,95,111,121"/>
+<area shape="rect" title=" " alt="" coords="17,5,99,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -353,10 +352,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a6530ab22fec8c6b4f77adbfb423f9d32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd90b9e08a58116b951b08461e1b4266"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/df3/classSandeshConnection.html">SandeshConnection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#afd90b9e08a58116b951b08461e1b4266">connection_</a></td></tr>
 <tr class="separator:afd90b9e08a58116b951b08461e1b4266"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5966bc8e58cb0fc75eefc3eb83420c7c"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#a5966bc8e58cb0fc75eefc3eb83420c7c">conn_mutex_</a></td></tr>
-<tr class="separator:a5966bc8e58cb0fc75eefc3eb83420c7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa1e557686996a63a24650456a7df5ca9"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#aa1e557686996a63a24650456a7df5ca9">send_mutex_</a></td></tr>
-<tr class="separator:aa1e557686996a63a24650456a7df5ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2c35e21a37cd0ca65ac77d7c9896b3b"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#ab2c35e21a37cd0ca65ac77d7c9896b3b">conn_mutex_</a></td></tr>
+<tr class="separator:ab2c35e21a37cd0ca65ac77d7c9896b3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6b257c884f7a5a525e9612ca3af1782"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#ac6b257c884f7a5a525e9612ca3af1782">send_mutex_</a></td></tr>
+<tr class="separator:ac6b257c884f7a5a525e9612ca3af1782"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5a50f41f97f49937d27107ae107e8345"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#a5a50f41f97f49937d27107ae107e8345">keepalive_idle_time_</a></td></tr>
 <tr class="separator:a5a50f41f97f49937d27107ae107e8345"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a641dc56917652ec141379f000c7e11fc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfd/classSandeshSession.html#a641dc56917652ec141379f000c7e11fc">keepalive_interval_</a></td></tr>
@@ -436,8 +435,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:a6b8d71a0bc156011b800779f91cd25e9 inherit pro_static_methods_classTcpSession"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a6b8d71a0bc156011b800779f91cd25e9">AsyncWriteHandler</a> (<a class="el" href="../../d2/d0e/classTcpSession.html#ad69eaca543ea5480127c63a4f864456d">TcpSessionPtr</a> session, const boost::system::error_code &amp;error, std::size_t bytes_transferred)</td></tr>
 <tr class="separator:a6b8d71a0bc156011b800779f91cd25e9 inherit pro_static_methods_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classTcpSession"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classTcpSession')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d2/d0e/classTcpSession.html">TcpSession</a></td></tr>
-<tr class="memitem:afc93b7e2b70963012c769b863f813bd0 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">tbb::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#afc93b7e2b70963012c769b863f813bd0">mutex_</a></td></tr>
-<tr class="separator:afc93b7e2b70963012c769b863f813bd0 inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacd8964e9954ad1598006f4c93623d44 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aacd8964e9954ad1598006f4c93623d44">mutex_</a></td></tr>
+<tr class="separator:aacd8964e9954ad1598006f4c93623d44 inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeebc904eae3e7a610b6a583ecde826cb inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/structio_1_1SocketStats.html">io::SocketStats</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#aeebc904eae3e7a610b6a583ecde826cb">stats_</a></td></tr>
 <tr class="separator:aeebc904eae3e7a610b6a583ecde826cb inherit pro_attribs_classTcpSession"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ead9e96a9b8cceec1e929ca1a3551e6 inherit pro_attribs_classTcpSession"><td class="memItemLeft" align="right" valign="top">boost::scoped_ptr&lt; <a class="el" href="../../d2/d0e/classTcpSession.html#a462d58363858ba266eebac074ddad600">Strand</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/classTcpSession.html#a1ead9e96a9b8cceec1e929ca1a3551e6">io_strand_</a></td></tr>
@@ -1699,8 +1698,8 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5966bc8e58cb0fc75eefc3eb83420c7c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5966bc8e58cb0fc75eefc3eb83420c7c">&#9670;&nbsp;</a></span>conn_mutex_</h2>
+<a id="ab2c35e21a37cd0ca65ac77d7c9896b3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2c35e21a37cd0ca65ac77d7c9896b3b">&#9670;&nbsp;</a></span>conn_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1709,7 +1708,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex SandeshSession::conn_mutex_</td>
+          <td class="memname">std::mutex SandeshSession::conn_mutex_</td>
         </tr>
       </table>
   </td>
@@ -2035,8 +2034,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="aa1e557686996a63a24650456a7df5ca9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1e557686996a63a24650456a7df5ca9">&#9670;&nbsp;</a></span>send_mutex_</h2>
+<a id="ac6b257c884f7a5a525e9612ca3af1782"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6b257c884f7a5a525e9612ca3af1782">&#9670;&nbsp;</a></span>send_mutex_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2045,7 +2044,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::mutex SandeshSession::send_mutex_</td>
+          <td class="memname">std::mutex SandeshSession::send_mutex_</td>
         </tr>
       </table>
   </td>

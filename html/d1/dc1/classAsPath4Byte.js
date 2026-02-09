@@ -15,5 +15,5 @@ var classAsPath4Byte =
     [ "intrusive_ptr_release", "d1/dc1/classAsPath4Byte.html#a0c427d4dacc5457ba5399a01f896fc1c", null ],
     [ "aspath_db_", "d1/dc1/classAsPath4Byte.html#afd62e4f00ead2d509be0242c5eff4788", null ],
     [ "path_", "d1/dc1/classAsPath4Byte.html#a33c5666e8727b74489840d6a6ee78bbf", null ],
-    [ "refcount_", "d1/dc1/classAsPath4Byte.html#a1e7557dae5f8f1d354f05366039a58c7", null ]
+    [ "refcount_", "d1/dc1/classAsPath4Byte.html#ae0f14d67aaa9bfa4f353bd9fe39e07f4", null ]
 ];
