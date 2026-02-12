@@ -293,6 +293,9 @@ var hierarchy =
     [ "AsPath4ByteCompare", "d4/dab/structAsPath4ByteCompare.html", null ],
     [ "AsPathCompare", "dd/d6e/structAsPathCompare.html", null ],
     [ "cass::cql::AsyncRowGetCallbackContext", "d2/d47/structcass_1_1cql_1_1AsyncRowGetCallbackContext.html", null ],
+    [ "std::atomic", null, [
+      [ "AtomicWithCopy< _Tp >", "d7/d69/structAtomicWithCopy.html", null ]
+    ] ],
     [ "BgpPathAttrLength::AttrLen", "d0/df2/structBgpPathAttrLength_1_1AttrLen.html", null ],
     [ "BgpPathAttrLength::AttrSizeSet", "d4/d77/structBgpPathAttrLength_1_1AttrSizeSet.html", null ],
     [ "KSyncMemory::AuditEntry", "da/d44/structKSyncMemory_1_1AuditEntry.html", null ],

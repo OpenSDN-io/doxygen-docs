@@ -800,6 +800,7 @@ var annotated_dup =
     [ "AsPathCompare", "dd/d6e/structAsPathCompare.html", "dd/d6e/structAsPathCompare" ],
     [ "AsPathDB", "d6/d39/classAsPathDB.html", "d6/d39/classAsPathDB" ],
     [ "AsPathSpec", "d6/dbf/structAsPathSpec.html", "d6/dbf/structAsPathSpec" ],
+    [ "AtomicWithCopy", "d7/d69/structAtomicWithCopy.html", "d7/d69/structAtomicWithCopy" ],
     [ "AuthenticationData", "d1/df6/classAuthenticationData.html", "d1/df6/classAuthenticationData" ],
     [ "AuthenticationKey", "d8/dbc/structAuthenticationKey.html", "d8/dbc/structAuthenticationKey" ],
     [ "AutogenProperty", "da/d14/structAutogenProperty.html", "da/d14/structAutogenProperty" ],

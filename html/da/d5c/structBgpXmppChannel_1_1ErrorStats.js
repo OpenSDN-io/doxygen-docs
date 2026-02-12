@@ -9,8 +9,8 @@ var structBgpXmppChannel_1_1ErrorStats =
     [ "incr_inet6_rx_bad_nexthop_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#ad5616e0468d94edf43d505a1b0c27d10", null ],
     [ "incr_inet6_rx_bad_prefix_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a6102f643a9aa0315130a1a3f79b22cfb", null ],
     [ "incr_inet6_rx_bad_xml_token_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a265290a8173149819359634d8fde19d3", null ],
-    [ "inet6_rx_bad_afi_safi_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a2180b9d0203893da6932680e97c22465", null ],
-    [ "inet6_rx_bad_nexthop_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#af857ee3bcf59de96bc041b5597a6ffea", null ],
-    [ "inet6_rx_bad_prefix_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a88fa10989cd50b10ca4303c75f5d49d4", null ],
-    [ "inet6_rx_bad_xml_token_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a6a24ff12248422fa2f3b079e092eb908", null ]
+    [ "inet6_rx_bad_afi_safi_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a9765fb5d482c4313f587d9100161cd34", null ],
+    [ "inet6_rx_bad_nexthop_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a1822837fc2bcadd3318fd5f0143902f7", null ],
+    [ "inet6_rx_bad_prefix_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#afb4c1bf220158db2ab8d5759bde6e9cb", null ],
+    [ "inet6_rx_bad_xml_token_count", "da/d5c/structBgpXmppChannel_1_1ErrorStats.html#a9d4737e46b64ed610677b73da6b73077", null ]
 ];

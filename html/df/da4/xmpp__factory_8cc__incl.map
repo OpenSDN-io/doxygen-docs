@@ -1,52 +1,52 @@
 <map id="xmpp_factory.cc" name="xmpp_factory.cc">
-<area shape="rect" id="node1" title=" " alt="" coords="1697,5,1815,32"/>
-<area shape="rect" id="node2" href="$db/d3c/xmpp__factory_8h.html" title=" " alt="" coords="1157,80,1269,107"/>
-<area shape="rect" id="node12" href="$dd/d09/xmpp__connection_8h.html" title=" " alt="" coords="1689,80,1823,107"/>
-<area shape="rect" id="node50" href="$df/d80/xmpp__lifetime_8h.html" title=" " alt="" coords="2188,80,2303,107"/>
-<area shape="rect" id="node3" href="$de/d06/factory_8h.html" title=" " alt="" coords="582,311,687,338"/>
-<area shape="rect" id="node4" title=" " alt="" coords="318,401,397,427"/>
-<area shape="rect" id="node5" title=" " alt="" coords="1221,401,1293,427"/>
-<area shape="rect" id="node6" title=" " alt="" coords="991,572,1121,599"/>
-<area shape="rect" id="node7" title=" " alt="" coords="421,401,603,427"/>
-<area shape="rect" id="node8" title=" " alt="" coords="627,393,789,435"/>
-<area shape="rect" id="node9" title=" " alt="" coords="5,393,139,435"/>
-<area shape="rect" id="node10" title=" " alt="" coords="163,393,293,435"/>
-<area shape="rect" id="node11" href="$d8/d3c/util_8h.html" title=" " alt="" coords="2453,490,2536,517"/>
-<area shape="rect" id="node13" title=" " alt="" coords="1910,155,2053,181"/>
-<area shape="rect" id="node14" title=" " alt="" coords="1257,490,1404,517"/>
-<area shape="rect" id="node15" title=" " alt="" coords="673,155,767,181"/>
-<area shape="rect" id="node16" title=" " alt="" coords="791,155,913,181"/>
-<area shape="rect" id="node17" href="$d5/dd0/timer_8h.html" title=" " alt="" coords="1777,311,1871,338"/>
-<area shape="rect" id="node33" href="$dc/d11/lifetime_8h.html" title=" " alt="" coords="2423,229,2529,256"/>
-<area shape="rect" id="node38" href="$d9/d9b/address_8h.html" title=" " alt="" coords="1286,155,1397,181"/>
-<area shape="rect" id="node40" href="$db/d9a/xmpp__channel__mux_8h.html" title=" " alt="" coords="1600,155,1784,181"/>
-<area shape="rect" id="node43" href="$d8/da9/xmpp__state__machine_8h.html" title=" " alt="" coords="2131,229,2325,256"/>
-<area shape="rect" id="node47" href="$d4/d86/xmpp__session_8h.html" title=" " alt="" coords="2859,229,3013,256"/>
-<area shape="rect" id="node18" title=" " alt="" coords="2299,401,2360,427"/>
-<area shape="rect" id="node19" title=" " alt="" coords="2371,490,2429,517"/>
-<area shape="rect" id="node20" title=" " alt="" coords="2235,401,2275,427"/>
-<area shape="rect" id="node21" title=" " alt="" coords="1369,401,1554,427"/>
-<area shape="rect" id="node22" title=" " alt="" coords="1579,401,1685,427"/>
-<area shape="rect" id="node23" title=" " alt="" coords="1710,401,1863,427"/>
-<area shape="rect" id="node24" title=" " alt="" coords="1939,401,2045,427"/>
-<area shape="rect" id="node25" title=" " alt="" coords="1017,393,1146,435"/>
-<area shape="rect" id="node26" href="$db/da4/task_8h.html" title=" " alt="" coords="2069,401,2160,427"/>
-<area shape="rect" id="node27" title=" " alt="" coords="2583,490,2734,517"/>
-<area shape="rect" id="node28" title=" " alt="" coords="2089,490,2135,517"/>
-<area shape="rect" id="node29" title=" " alt="" coords="2160,490,2264,517"/>
-<area shape="rect" id="node30" title=" " alt="" coords="2289,490,2346,517"/>
-<area shape="rect" id="node31" title=" " alt="" coords="1828,490,1908,517"/>
-<area shape="rect" id="node32" title=" " alt="" coords="1933,483,2065,524"/>
-<area shape="rect" id="node34" href="$df/dcd/dependency_8h.html" title=" " alt="" coords="2782,401,2917,427"/>
-<area shape="rect" id="node36" href="$d5/d47/queue__task_8h.html" title=" " alt="" coords="2306,311,2438,338"/>
-<area shape="rect" id="node35" title=" " alt="" coords="2778,483,2921,524"/>
-<area shape="rect" id="node37" title=" " alt="" coords="2435,401,2504,427"/>
-<area shape="rect" id="node39" title=" " alt="" coords="915,229,1085,256"/>
-<area shape="rect" id="node41" href="$dc/dae/xmpp__channel_8h.html" title=" " alt="" coords="1409,229,1562,256"/>
-<area shape="rect" id="node42" href="$d3/d00/xmpp__proto_8h.html" title=" " alt="" coords="1615,311,1753,338"/>
-<area shape="rect" id="node44" title=" " alt="" coords="2131,304,2282,345"/>
-<area shape="rect" id="node45" href="$d7/d8c/ssl__session_8h.html" title=" " alt="" coords="2731,311,2847,338"/>
-<area shape="rect" id="node46" href="$de/d3b/ssl__server_8h.html" title=" " alt="" coords="2941,401,3048,427"/>
-<area shape="rect" id="node48" title=" " alt="" coords="3075,401,3130,427"/>
-<area shape="rect" id="node49" href="$d1/d21/regex_8h.html" title=" " alt="" coords="2973,311,3069,338"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1287,5,1405,32"/>
+<area shape="rect" id="node2" href="$db/d3c/xmpp__factory_8h.html" title=" " alt="" coords="1017,80,1129,107"/>
+<area shape="rect" id="node12" href="$dd/d09/xmpp__connection_8h.html" title=" " alt="" coords="1921,80,2056,107"/>
+<area shape="rect" id="node50" href="$df/d80/xmpp__lifetime_8h.html" title=" " alt="" coords="1289,80,1403,107"/>
+<area shape="rect" id="node3" href="$de/d06/factory_8h.html" title=" " alt="" coords="671,311,776,338"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,401,84,427"/>
+<area shape="rect" id="node5" title=" " alt="" coords="965,401,1037,427"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1673,572,1803,599"/>
+<area shape="rect" id="node7" title=" " alt="" coords="108,401,291,427"/>
+<area shape="rect" id="node8" title=" " alt="" coords="315,393,476,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="501,393,634,435"/>
+<area shape="rect" id="node10" title=" " alt="" coords="658,393,789,435"/>
+<area shape="rect" id="node11" href="$d8/d3c/util_8h.html" title=" " alt="" coords="975,490,1058,517"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1565,401,1626,427"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1729,155,1872,181"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2622,490,2769,517"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2156,155,2277,181"/>
+<area shape="rect" id="node17" href="$d5/dd0/timer_8h.html" title=" " alt="" coords="1996,311,2091,338"/>
+<area shape="rect" id="node32" href="$dc/d11/lifetime_8h.html" title=" " alt="" coords="1293,229,1399,256"/>
+<area shape="rect" id="node38" href="$d9/d9b/address_8h.html" title=" " alt="" coords="2359,155,2469,181"/>
+<area shape="rect" id="node40" href="$db/d9a/xmpp__channel__mux_8h.html" title=" " alt="" coords="1897,155,2081,181"/>
+<area shape="rect" id="node43" href="$d8/da9/xmpp__state__machine_8h.html" title=" " alt="" coords="1836,229,2029,256"/>
+<area shape="rect" id="node47" href="$d4/d86/xmpp__session_8h.html" title=" " alt="" coords="3029,229,3183,256"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1685,490,1743,517"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1751,401,1791,427"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2472,401,2657,427"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2111,401,2218,427"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2243,401,2396,427"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1815,401,1922,427"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2733,393,2863,435"/>
+<area shape="rect" id="node25" href="$db/da4/task_8h.html" title=" " alt="" coords="1997,401,2087,427"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1276,490,1427,517"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1860,490,1907,517"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1931,490,2035,517"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1552,490,1609,517"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2059,490,2139,517"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2164,483,2296,524"/>
+<area shape="rect" id="node33" href="$df/dcd/dependency_8h.html" title=" " alt="" coords="1061,401,1196,427"/>
+<area shape="rect" id="node35" href="$d5/d47/queue__task_8h.html" title=" " alt="" coords="1341,311,1473,338"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1083,483,1225,524"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1322,401,1391,427"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1415,401,1490,427"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2385,229,2555,256"/>
+<area shape="rect" id="node41" href="$dc/dae/xmpp__channel_8h.html" title=" " alt="" coords="2156,229,2309,256"/>
+<area shape="rect" id="node42" href="$d3/d00/xmpp__proto_8h.html" title=" " alt="" coords="2115,311,2252,338"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1752,304,1903,345"/>
+<area shape="rect" id="node45" href="$d7/d8c/ssl__session_8h.html" title=" " alt="" coords="2797,311,2913,338"/>
+<area shape="rect" id="node46" href="$de/d3b/ssl__server_8h.html" title=" " alt="" coords="2989,401,3095,427"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3192,401,3247,427"/>
+<area shape="rect" id="node49" href="$d1/d21/regex_8h.html" title=" " alt="" coords="3194,311,3290,338"/>
 </map>

@@ -96,17 +96,19 @@ $(document).ready(function(){initNavTree('d2/d27/structXmppConnection_1_1ProtoSt
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a60ff01405bb6918bbd2ba6692ae3235e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a60ff01405bb6918bbd2ba6692ae3235e">ProtoStats</a> ()</td></tr>
 <tr class="separator:a60ff01405bb6918bbd2ba6692ae3235e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a022336405f2c08ce051f3dbdc869c317"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a022336405f2c08ce051f3dbdc869c317">swap</a> (<a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html">ProtoStats</a> &amp;other)</td></tr>
+<tr class="separator:a022336405f2c08ce051f3dbdc869c317"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a7cd435c6d9b416e28934295d7fc36037"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a7cd435c6d9b416e28934295d7fc36037">open</a></td></tr>
-<tr class="separator:a7cd435c6d9b416e28934295d7fc36037"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e44c45cc9bf96a57af420f27e43bb77"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a7e44c45cc9bf96a57af420f27e43bb77">close</a></td></tr>
-<tr class="separator:a7e44c45cc9bf96a57af420f27e43bb77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a168a92cf4aeb7347999a0f54ad34eac6"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a168a92cf4aeb7347999a0f54ad34eac6">keepalive</a></td></tr>
-<tr class="separator:a168a92cf4aeb7347999a0f54ad34eac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc0f05e7aed3cceea3097ca501abae4e"><td class="memItemLeft" align="right" valign="top">tbb::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#abc0f05e7aed3cceea3097ca501abae4e">update</a></td></tr>
-<tr class="separator:abc0f05e7aed3cceea3097ca501abae4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52ce0eddcbd2ccb7d484226582ecb99f"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a52ce0eddcbd2ccb7d484226582ecb99f">open</a></td></tr>
+<tr class="separator:a52ce0eddcbd2ccb7d484226582ecb99f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2db1d376c37fc0878389b32da15a41bf"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a2db1d376c37fc0878389b32da15a41bf">close</a></td></tr>
+<tr class="separator:a2db1d376c37fc0878389b32da15a41bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c05f3a77a0ed72b9080e74e1a7d8fa6"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#a9c05f3a77a0ed72b9080e74e1a7d8fa6">keepalive</a></td></tr>
+<tr class="separator:a9c05f3a77a0ed72b9080e74e1a7d8fa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5966e73fe555787890973647b2ace62"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html#ac5966e73fe555787890973647b2ace62">update</a></td></tr>
+<tr class="separator:ac5966e73fe555787890973647b2ace62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -139,68 +141,97 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7e44c45cc9bf96a57af420f27e43bb77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e44c45cc9bf96a57af420f27e43bb77">&#9670;&nbsp;</a></span>close</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a022336405f2c08ce051f3dbdc869c317"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a022336405f2c08ce051f3dbdc869c317">&#9670;&nbsp;</a></span>swap()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::close</td>
+          <td class="memname">void XmppConnection::ProtoStats::swap </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d27/structXmppConnection_1_1ProtoStats.html">ProtoStats</a> &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00040">40</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
-
-</div>
-</div>
-<a id="a168a92cf4aeb7347999a0f54ad34eac6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a168a92cf4aeb7347999a0f54ad34eac6">&#9670;&nbsp;</a></span>keepalive</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">tbb::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::keepalive</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00041">41</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
-
-</div>
-</div>
-<a id="a7cd435c6d9b416e28934295d7fc36037"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7cd435c6d9b416e28934295d7fc36037">&#9670;&nbsp;</a></span>open</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">tbb::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::open</td>
-        </tr>
-      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00039">39</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
 
 </div>
 </div>
-<a id="abc0f05e7aed3cceea3097ca501abae4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc0f05e7aed3cceea3097ca501abae4e">&#9670;&nbsp;</a></span>update</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a2db1d376c37fc0878389b32da15a41bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2db1d376c37fc0878389b32da15a41bf">&#9670;&nbsp;</a></span>close</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">tbb::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::update</td>
+          <td class="memname">std::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::close</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00042">42</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00046">46</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
+
+</div>
+</div>
+<a id="a9c05f3a77a0ed72b9080e74e1a7d8fa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c05f3a77a0ed72b9080e74e1a7d8fa6">&#9670;&nbsp;</a></span>keepalive</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::keepalive</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00047">47</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
+
+</div>
+</div>
+<a id="a52ce0eddcbd2ccb7d484226582ecb99f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52ce0eddcbd2ccb7d484226582ecb99f">&#9670;&nbsp;</a></span>open</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::open</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00045">45</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
+
+</div>
+</div>
+<a id="ac5966e73fe555787890973647b2ace62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5966e73fe555787890973647b2ace62">&#9670;&nbsp;</a></span>update</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;uint32_t&gt; XmppConnection::ProtoStats::update</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html#l00048">48</a> of file <a class="el" href="../../dd/d09/xmpp__connection_8h_source.html">xmpp_connection.h</a>.</p>
 
 </div>
 </div>

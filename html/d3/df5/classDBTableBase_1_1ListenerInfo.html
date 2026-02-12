@@ -95,10 +95,10 @@ Collaboration diagram for DBTableBase::ListenerInfo:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d0f/classDBTableBase_1_1ListenerInfo__coll__graph.png" border="0" usemap="#aDBTableBase_1_1ListenerInfo_coll__map" alt="Collaboration graph"/></div>
 <map name="aDBTableBase_1_1ListenerInfo_coll__map" id="aDBTableBase_1_1ListenerInfo_coll__map">
-<area shape="rect" title=" " alt="" coords="163,109,342,136"/>
-<area shape="rect" title=" " alt="" coords="5,5,140,47"/>
-<area shape="rect" title=" " alt="" coords="165,13,341,39"/>
-<area shape="rect" title=" " alt="" coords="365,13,479,39"/>
+<area shape="rect" title=" " alt="" coords="173,109,352,136"/>
+<area shape="rect" title=" " alt="" coords="5,13,181,39"/>
+<area shape="rect" title=" " alt="" coords="206,13,319,39"/>
+<area shape="rect" title=" " alt="" coords="344,5,512,47"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -108,8 +108,8 @@ Public Types</h2></td></tr>
 <tr class="separator:ae436d514ebe2be70c64e97141975f869"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2cbd1b0792fa814fc8354ee80ea2b319"><td class="memItemLeft" align="right" valign="top">typedef vector&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#a2cbd1b0792fa814fc8354ee80ea2b319">NameList</a></td></tr>
 <tr class="separator:a2cbd1b0792fa814fc8354ee80ea2b319"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af292f2a918a74fb2e4a54bc0407829b6"><td class="memItemLeft" align="right" valign="top">typedef vector&lt; tbb::atomic&lt; uint64_t &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#af292f2a918a74fb2e4a54bc0407829b6">StateCountList</a></td></tr>
-<tr class="separator:af292f2a918a74fb2e4a54bc0407829b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae135651fd04f8009e6bc02367f103d76"><td class="memItemLeft" align="right" valign="top">typedef vector&lt; <a class="el" href="../../d7/d69/structAtomicWithCopy.html">AtomicWithCopy</a>&lt; uint64_t &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#ae135651fd04f8009e6bc02367f103d76">StateCountList</a></td></tr>
+<tr class="separator:ae135651fd04f8009e6bc02367f103d76"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -140,7 +140,7 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a4f9a044722f5ec6963371e096e81eca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6088ac9dcc8743a040e2cd7f6f80881b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#a2cbd1b0792fa814fc8354ee80ea2b319">NameList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#a6088ac9dcc8743a040e2cd7f6f80881b">names_</a></td></tr>
 <tr class="separator:a6088ac9dcc8743a040e2cd7f6f80881b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a030a557de81925dfac1e43f9dcbdd0a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#af292f2a918a74fb2e4a54bc0407829b6">StateCountList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#a030a557de81925dfac1e43f9dcbdd0a4">state_count_</a></td></tr>
+<tr class="memitem:a030a557de81925dfac1e43f9dcbdd0a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#ae135651fd04f8009e6bc02367f103d76">StateCountList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#a030a557de81925dfac1e43f9dcbdd0a4">state_count_</a></td></tr>
 <tr class="separator:a030a557de81925dfac1e43f9dcbdd0a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ade39587b963b65c034708a84b9046596"><td class="memItemLeft" align="right" valign="top">tbb::spin_rw_mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#ade39587b963b65c034708a84b9046596">rw_mutex_</a></td></tr>
 <tr class="separator:ade39587b963b65c034708a84b9046596"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -149,7 +149,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00051">51</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00072">72</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="ae436d514ebe2be70c64e97141975f869"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae436d514ebe2be70c64e97141975f869">&#9670;&nbsp;</a></span>CallbackList</h2>
@@ -163,7 +163,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00053">53</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00074">74</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -179,23 +179,23 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00054">54</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00075">75</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
-<a id="af292f2a918a74fb2e4a54bc0407829b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af292f2a918a74fb2e4a54bc0407829b6">&#9670;&nbsp;</a></span>StateCountList</h2>
+<a id="ae135651fd04f8009e6bc02367f103d76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae135651fd04f8009e6bc02367f103d76">&#9670;&nbsp;</a></span>StateCountList</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef vector&lt;tbb::atomic&lt;uint64_t&gt; &gt; <a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#af292f2a918a74fb2e4a54bc0407829b6">DBTableBase::ListenerInfo::StateCountList</a></td>
+          <td class="memname">typedef vector&lt;<a class="el" href="../../d7/d69/structAtomicWithCopy.html">AtomicWithCopy</a>&lt;uint64_t&gt; &gt; <a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#ae135651fd04f8009e6bc02367f103d76">DBTableBase::ListenerInfo::StateCountList</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00055">55</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00076">76</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -224,7 +224,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00057">57</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00078">78</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -263,7 +263,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00124">124</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00145">145</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -290,7 +290,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00150">150</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00173">173</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -318,7 +318,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00135">135</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00158">158</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -346,7 +346,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00130">130</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00152">152</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -384,7 +384,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00066">66</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00087">87</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -431,7 +431,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00113">113</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00134">134</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -458,7 +458,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00155">155</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00178">178</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -486,7 +486,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00088">88</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00109">109</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -511,7 +511,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00166">166</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00189">189</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -535,7 +535,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00162">162</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00185">185</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -559,7 +559,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00161">161</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00184">184</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -583,7 +583,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00163">163</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00186">186</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -607,7 +607,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00165">165</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00188">188</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>
@@ -621,7 +621,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#af292f2a918a74fb2e4a54bc0407829b6">StateCountList</a> DBTableBase::ListenerInfo::state_count_</td>
+          <td class="memname"><a class="el" href="../../d3/df5/classDBTableBase_1_1ListenerInfo.html#ae135651fd04f8009e6bc02367f103d76">StateCountList</a> DBTableBase::ListenerInfo::state_count_</td>
         </tr>
       </table>
   </td>
@@ -631,7 +631,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00164">164</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d9f/db__table_8cc_source.html#l00187">187</a> of file <a class="el" href="../../dc/d9f/db__table_8cc_source.html">db_table.cc</a>.</p>
 
 </div>
 </div>

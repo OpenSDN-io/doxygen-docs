@@ -289,7 +289,7 @@ var classBgpPeer =
     [ "eor_send_timer_", "d3/d2d/classBgpPeer.html#a2c469ffda39e3c510ec0ff5e41ad186d", null ],
     [ "eor_send_timer_start_time_", "d3/d2d/classBgpPeer.html#a9d0dcf4763c498416ddf0ff9fba41209", null ],
     [ "family_attributes_list_", "d3/d2d/classBgpPeer.html#ab91fda1d0c5f49a112397cff8d4d2481", null ],
-    [ "family_primary_path_count_", "d3/d2d/classBgpPeer.html#a76bcc2d6066f3c610b5b8ee7d6fc3b36", null ],
+    [ "family_primary_path_count_", "d3/d2d/classBgpPeer.html#a96bb24529fc69f64a293535181474b08", null ],
     [ "flap_count_", "d3/d2d/classBgpPeer.html#a8b73358fe15d0b6f7695fd3f50157772", null ],
     [ "graceful_close_", "d3/d2d/classBgpPeer.html#ac2dc047bb6d7480e8447744cf0e74bc1", null ],
     [ "hold_time_", "d3/d2d/classBgpPeer.html#a3d419e3aedd871d1513a715724f6572f", null ],

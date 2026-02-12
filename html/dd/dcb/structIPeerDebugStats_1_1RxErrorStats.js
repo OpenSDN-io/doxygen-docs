@@ -1,8 +1,8 @@
 var structIPeerDebugStats_1_1RxErrorStats =
 [
     [ "RxErrorStats", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a88f30343a4cd0d23ceedf7cc4d2f9e89", null ],
-    [ "inet6_bad_afi_safi_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#aaaf77cb5d09e256a45ec722c18bbf8e7", null ],
-    [ "inet6_bad_nexthop_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#abc5fa9646a4f0b0feeb049568f3100c8", null ],
-    [ "inet6_bad_prefix_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a414fbcc331df556199fb40d091bcf5ba", null ],
-    [ "inet6_bad_xml_token_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#ae4aa9b44a7cc219c3946a2bfc3033ff1", null ]
+    [ "inet6_bad_afi_safi_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a27caf18306c1c4ca0106784c17da163e", null ],
+    [ "inet6_bad_nexthop_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#ad28ca5345df3aaea5bb80b2d03be909d", null ],
+    [ "inet6_bad_prefix_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a444005d1602fc8ffe0ed25890dee6beb", null ],
+    [ "inet6_bad_xml_token_count", "dd/dcb/structIPeerDebugStats_1_1RxErrorStats.html#a847535d3d356ed7099899582d8e43b72", null ]
 ];

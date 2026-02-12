@@ -1,9 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d4/d28/classControllerWorkQueueData.html" title=" " alt="" coords="5,132,180,159"/>
-<area shape="rect" id="node2" href="$dd/d90/classControllerConnectRetryData.html" title=" " alt="" coords="228,5,415,32"/>
-<area shape="rect" id="node3" href="$d4/d32/classControllerDelPeerData.html" title=" " alt="" coords="246,56,397,83"/>
-<area shape="rect" id="node4" href="$d1/d42/classControllerReConfigData.html" title=" " alt="" coords="242,107,401,133"/>
-<area shape="rect" id="node5" href="$d3/d7f/classControllerVmiSubscribeData.html" title=" " alt="" coords="228,157,415,184"/>
-<area shape="rect" id="node6" href="$d1/d0d/classControllerXmppData.html" title=" " alt="" coords="252,208,391,235"/>
-<area shape="rect" id="node7" href="$d0/d59/classEndOfConfigData.html" title=" " alt="" coords="259,259,383,285"/>
+<area shape="rect" id="node1" href="$d7/df0/structControllerTimer.html" title=" " alt="" coords="5,107,116,133"/>
+<area shape="rect" id="node2" href="$da/d3d/structConfigCleanupTimer.html" title=" " alt="" coords="164,5,305,32"/>
+<area shape="rect" id="node3" href="$d5/d73/structEndOfConfigTimer.html" title=" " alt="" coords="169,56,300,83"/>
+<area shape="rect" id="node4" href="$db/d9e/structEndOfRibRxTimer.html" title=" " alt="" coords="170,107,299,133"/>
+<area shape="rect" id="node5" href="$d5/d42/structEndOfRibTxTimer.html" title=" " alt="" coords="171,157,298,184"/>
+<area shape="rect" id="node6" href="$d1/d5a/structLlgrStaleTimer.html" title=" " alt="" coords="181,208,288,235"/>
 </map>
