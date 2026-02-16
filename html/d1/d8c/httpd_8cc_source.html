@@ -99,243 +99,245 @@ $(document).ready(function(){initNavTree('d1/d8c/httpd_8cc_source.html','../../'
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#include &quot;http/http_message_test_types.h&quot;</span></div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &quot;http/route_test_types.h&quot;</span></div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="preprocessor">#include &quot;config/uve/virtual_network_types.h&quot;</span></div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#include &lt;boost/bind.hpp&gt;</span></div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#include &lt;boost/bind/bind.hpp&gt;</span></div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">#include &lt;boost/foreach.hpp&gt;</span></div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#include &lt;boost/tokenizer.hpp&gt;</span></div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="preprocessor">#include &lt;boost/assign/list_of.hpp&gt;</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keyword">using namespace </span>boost::assign;</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160; </div>
-<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="../../d6/d66/classServerInfo.html">   22</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/d66/classServerInfo.html">ServerInfo</a> {</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">   24</a></span>&#160;    <span class="keywordtype">void</span> <a class="code" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">HandleRequest</a>(<a class="code" href="../../da/d27/structHttpSession.html">HttpSession</a> *session, <span class="keyword">const</span> <a class="code" href="../../d5/d1b/classHttpRequest.html">HttpRequest</a> *request) {</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">char</span> response[] =</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="stringliteral">&quot;HTTP/1.1 200 OK\n&quot;</span></div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="stringliteral">&quot;Content-Type: text/html; charset=UTF-8\n&quot;</span></div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="stringliteral">&quot;Content-Length: 45\n&quot;</span></div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="stringliteral">&quot;\n&quot;</span></div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="stringliteral">&quot;&lt;html&gt;\n&quot;</span></div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="stringliteral">&quot;&lt;title&gt;Server Status&lt;/title&gt;\n&quot;</span></div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="stringliteral">&quot;&lt;/html&gt;\n&quot;</span></div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;;</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    session-&gt;<a class="code" href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">Send</a>(<span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>u_int8_t *<span class="keyword">&gt;</span>(response),</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;              <span class="keyword">sizeof</span>(response), NULL);</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        <span class="keyword">delete</span> request;</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    }</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;};</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160; </div>
-<div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">   40</a></span>&#160;<span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a>(<a class="code" href="../../dd/dab/classHttpServer.html">HttpServer</a> *http, <a class="code" href="../../da/d27/structHttpSession.html">HttpSession</a> *session,</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;               <span class="keyword">const</span> <a class="code" href="../../d5/d1b/classHttpRequest.html">HttpRequest</a> *request) {</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">char</span> response[] =</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="stringliteral">&quot;HTTP/1.1 OK\r\n&quot;</span></div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    ;</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    session-&gt;<a class="code" href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">Send</a>(<span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>u_int8_t *<span class="keyword">&gt;</span>(response),</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;          <span class="keyword">sizeof</span>(response), NULL);</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    http-&gt;<a class="code" href="../../de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5">event_manager</a>()-&gt;<a class="code" href="../../d2/dd9/classEventManager.html#a879b812c4adca36740bb33fa7cd098d8">Shutdown</a>();</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;}</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160; </div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160; </div>
-<div class="line"><a name="l00051"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html">   51</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a> : <span class="keyword">public</span> <a class="code" href="../../dc/d9d/classRequestPipeline_1_1InstData.html">RequestPipeline::InstData</a> {</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00053"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">   53</a></span>&#160;    <a class="code" href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">HttpRequestTestData</a>() : ctr(0) {}</div>
-<div class="line"><a name="l00054"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">   54</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>;</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;};</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160; </div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160; </div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>*</div>
-<div class="line"><a name="l00059"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">   59</a></span>&#160;<a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>(<span class="keywordtype">int</span> stage) {</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>;</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;}</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="keywordtype">bool</span></div>
-<div class="line"><a name="l00064"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">   64</a></span>&#160;<a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>(<span class="keyword">const</span> <a class="code" href="../../de/d75/classSandesh.html">Sandesh</a> *sr,</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;            <span class="keyword">const</span> <a class="code" href="../../d6/dc4/structRequestPipeline_1_1PipeSpec.html">RequestPipeline::PipeSpec</a> ps,</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;            <span class="keywordtype">int</span> stage, <span class="keywordtype">int</span> instNum,</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;            <a class="code" href="../../dc/d9d/classRequestPipeline_1_1InstData.html">RequestPipeline::InstData</a> * dataInAndOut) {</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>* mydata =</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        <span class="keyword">static_cast&lt;</span><a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>*<span class="keyword">&gt;</span>(dataInAndOut);</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160; </div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    <span class="keywordflow">if</span> (!mydata) {</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Callback Stage &quot;</span> &lt;&lt; stage &lt;&lt; <span class="stringliteral">&quot; has no data&quot;</span>);</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    }</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Callback Stage &quot;</span> &lt;&lt; stage &lt;&lt; <span class="stringliteral">&quot; ctr &quot;</span> &lt;&lt; mydata-&gt;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>);</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keywordflow">if</span> (instNum == 1) {</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;        <span class="keywordflow">if</span> ((++mydata-&gt;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>) &lt; 3 ) {</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;            sleep(1);</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>; </div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;        }</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;        HttpRequestTestResp *resp = <span class="keyword">new</span>(HttpRequestTestResp);</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        resp-&gt;set_name(<span class="stringliteral">&quot;TestName&quot;</span>);</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;        resp-&gt;set_num(1234);</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;        resp-&gt;set_context(sr-&gt;<a class="code" href="../../de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3">context</a>());</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;        resp-&gt;Response();</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    }</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    sleep(3);</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>; </div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;}</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160; </div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160; </div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="keywordtype">void</span></div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;HttpRequestTest::HandleRequest()<span class="keyword"> const</span>{</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Got HandleRequest! - i32Elem &quot;</span> &lt;&lt; i32Elem &lt;&lt; <span class="stringliteral">&quot; descString &quot;</span> &lt;&lt; descString &lt;&lt; <span class="stringliteral">&quot; ctx &quot;</span> &lt;&lt; context());</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <a class="code" href="../../d6/dc4/structRequestPipeline_1_1PipeSpec.html">RequestPipeline::PipeSpec</a> ps(<span class="keyword">this</span>);</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160; </div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html">RequestPipeline::StageSpec</a> s1, s2, s3;</div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 100;</div>
-<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#aec511302b517ec56c0c4583d587f8e0d">allocFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>;</div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(-1)(-1)(20);</div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160; </div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 200;</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(10)(20)(30)(40);</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160; </div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 300;</div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#aec511302b517ec56c0c4583d587f8e0d">allocFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>;</div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(5);</div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160; </div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;    ps.stages_= list_of(s1)(s2)(s3);</div>
-<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;    <a class="code" href="../../db/db2/classRequestPipeline.html">RequestPipeline</a> rp(ps);</div>
-<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;    <span class="keywordflow">return</span>;</div>
-<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;}</div>
-<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160; </div>
-<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;<span class="keywordtype">void</span></div>
-<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;VNSwitchRouteReq::HandleRequest()<span class="keyword"> const</span>{</div>
-<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;    <span class="comment">// TODO: context should be from derived class</span></div>
-<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Got HandleRequest! - &quot;</span> &lt;&lt;</div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;            <span class="stringliteral">&quot; startRoutePrefix &quot;</span> &lt;&lt; startRoutePrefix &lt;&lt;</div>
-<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;            <span class="stringliteral">&quot; endRoutePrefix &quot;</span> &lt;&lt; endRoutePrefix &lt;&lt;</div>
-<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;            <span class="stringliteral">&quot; numRoutes &quot;</span> &lt;&lt; numRoutes &lt;&lt;</div>
-<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;            <span class="stringliteral">&quot; ctx &quot;</span> &lt;&lt; <a class="code" href="../../de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3">Sandesh::context</a>());</div>
-<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;    </div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;    VNSwitchRouteResp *vsrr = <span class="keyword">new</span> VNSwitchRouteResp();</div>
-<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;    vsrr-&gt;set_vnSwitchId(100);</div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;    vsrr-&gt;set_vnId(50);</div>
-<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;    </div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    vector&lt;VNSRoute&gt; lval;</div>
-<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;    VNSRoute vsnr;</div>
-<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    vsnr.prefix = 2; vsnr.desc = <span class="stringliteral">&quot;two&quot;</span>;</div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    lval.push_back(vsnr);</div>
-<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;    vsnr.prefix = 3; vsnr.desc = <span class="stringliteral">&quot;three&quot;</span>;</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="keyword">using namespace </span>boost::assign;</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="keyword">using namespace </span>boost::placeholders;</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160; </div>
+<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="../../d6/d66/classServerInfo.html">   24</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/d66/classServerInfo.html">ServerInfo</a> {</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">   26</a></span>&#160;    <span class="keywordtype">void</span> <a class="code" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">HandleRequest</a>(<a class="code" href="../../da/d27/structHttpSession.html">HttpSession</a> *session, <span class="keyword">const</span> <a class="code" href="../../d5/d1b/classHttpRequest.html">HttpRequest</a> *request) {</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">char</span> response[] =</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="stringliteral">&quot;HTTP/1.1 200 OK\n&quot;</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="stringliteral">&quot;Content-Type: text/html; charset=UTF-8\n&quot;</span></div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="stringliteral">&quot;Content-Length: 45\n&quot;</span></div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="stringliteral">&quot;&lt;html&gt;\n&quot;</span></div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="stringliteral">&quot;&lt;title&gt;Server Status&lt;/title&gt;\n&quot;</span></div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="stringliteral">&quot;&lt;/html&gt;\n&quot;</span></div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;;</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    session-&gt;<a class="code" href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">Send</a>(<span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>u_int8_t *<span class="keyword">&gt;</span>(response),</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;              <span class="keyword">sizeof</span>(response), NULL);</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <span class="keyword">delete</span> request;</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    }</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;};</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160; </div>
+<div class="line"><a name="l00042"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">   42</a></span>&#160;<span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a>(<a class="code" href="../../dd/dab/classHttpServer.html">HttpServer</a> *http, <a class="code" href="../../da/d27/structHttpSession.html">HttpSession</a> *session,</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;               <span class="keyword">const</span> <a class="code" href="../../d5/d1b/classHttpRequest.html">HttpRequest</a> *request) {</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">char</span> response[] =</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="stringliteral">&quot;HTTP/1.1 OK\r\n&quot;</span></div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    ;</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    session-&gt;<a class="code" href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">Send</a>(<span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>u_int8_t *<span class="keyword">&gt;</span>(response),</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;          <span class="keyword">sizeof</span>(response), NULL);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    http-&gt;<a class="code" href="../../de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5">event_manager</a>()-&gt;<a class="code" href="../../d2/dd9/classEventManager.html#a879b812c4adca36740bb33fa7cd098d8">Shutdown</a>();</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;}</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160; </div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160; </div>
+<div class="line"><a name="l00053"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html">   53</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a> : <span class="keyword">public</span> <a class="code" href="../../dc/d9d/classRequestPipeline_1_1InstData.html">RequestPipeline::InstData</a> {</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00055"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">   55</a></span>&#160;    <a class="code" href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">HttpRequestTestData</a>() : ctr(0) {}</div>
+<div class="line"><a name="l00056"></a><span class="lineno"><a class="line" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">   56</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>;</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;};</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160; </div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160; </div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>*</div>
+<div class="line"><a name="l00061"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">   61</a></span>&#160;<a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>(<span class="keywordtype">int</span> stage) {</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>;</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;}</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160; </div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;<span class="keywordtype">bool</span></div>
+<div class="line"><a name="l00066"></a><span class="lineno"><a class="line" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">   66</a></span>&#160;<a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>(<span class="keyword">const</span> <a class="code" href="../../de/d75/classSandesh.html">Sandesh</a> *sr,</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;            <span class="keyword">const</span> <a class="code" href="../../d6/dc4/structRequestPipeline_1_1PipeSpec.html">RequestPipeline::PipeSpec</a> ps,</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;            <span class="keywordtype">int</span> stage, <span class="keywordtype">int</span> instNum,</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;            <a class="code" href="../../dc/d9d/classRequestPipeline_1_1InstData.html">RequestPipeline::InstData</a> * dataInAndOut) {</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    <a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>* mydata =</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;        <span class="keyword">static_cast&lt;</span><a class="code" href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a>*<span class="keyword">&gt;</span>(dataInAndOut);</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160; </div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    <span class="keywordflow">if</span> (!mydata) {</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;        <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Callback Stage &quot;</span> &lt;&lt; stage &lt;&lt; <span class="stringliteral">&quot; has no data&quot;</span>);</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    }</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Callback Stage &quot;</span> &lt;&lt; stage &lt;&lt; <span class="stringliteral">&quot; ctr &quot;</span> &lt;&lt; mydata-&gt;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>);</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <span class="keywordflow">if</span> (instNum == 1) {</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;        <span class="keywordflow">if</span> ((++mydata-&gt;<a class="code" href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">ctr</a>) &lt; 3 ) {</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;            sleep(1);</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>; </div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        }</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;        HttpRequestTestResp *resp = <span class="keyword">new</span>(HttpRequestTestResp);</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;        resp-&gt;set_name(<span class="stringliteral">&quot;TestName&quot;</span>);</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;        resp-&gt;set_num(1234);</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;        resp-&gt;set_context(sr-&gt;<a class="code" href="../../de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3">context</a>());</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;        resp-&gt;Response();</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    }</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    sleep(3);</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">true</span>; </div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;}</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160; </div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160; </div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="keywordtype">void</span></div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;HttpRequestTest::HandleRequest()<span class="keyword"> const</span>{</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Got HandleRequest! - i32Elem &quot;</span> &lt;&lt; i32Elem &lt;&lt; <span class="stringliteral">&quot; descString &quot;</span> &lt;&lt; descString &lt;&lt; <span class="stringliteral">&quot; ctx &quot;</span> &lt;&lt; context());</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <a class="code" href="../../d6/dc4/structRequestPipeline_1_1PipeSpec.html">RequestPipeline::PipeSpec</a> ps(<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160; </div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html">RequestPipeline::StageSpec</a> s1, s2, s3;</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 100;</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#aec511302b517ec56c0c4583d587f8e0d">allocFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>;</div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    s1.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(-1)(-1)(20);</div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160; </div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 200;</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;    s2.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(10)(20)(30)(40);</div>
+<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160; </div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#afb6be1d7a99f8fcc14da5baa01ef6883">taskId_</a> = 300;</div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#ac01c29bee47eecab2e1479e4b0519c00">cbFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a>;</div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#aec511302b517ec56c0c4583d587f8e0d">allocFn_</a> = <a class="code" href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a>;</div>
+<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;    s3.<a class="code" href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">instances_</a> = list_of(5);</div>
+<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160; </div>
+<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;    ps.stages_= list_of(s1)(s2)(s3);</div>
+<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;    <a class="code" href="../../db/db2/classRequestPipeline.html">RequestPipeline</a> rp(ps);</div>
+<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;    <span class="keywordflow">return</span>;</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;}</div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160; </div>
+<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="keywordtype">void</span></div>
+<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;VNSwitchRouteReq::HandleRequest()<span class="keyword"> const</span>{</div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    <span class="comment">// TODO: context should be from derived class</span></div>
+<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;    <a class="code" href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a>(DEBUG, <span class="stringliteral">&quot;Got HandleRequest! - &quot;</span> &lt;&lt;</div>
+<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;            <span class="stringliteral">&quot; startRoutePrefix &quot;</span> &lt;&lt; startRoutePrefix &lt;&lt;</div>
+<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;            <span class="stringliteral">&quot; endRoutePrefix &quot;</span> &lt;&lt; endRoutePrefix &lt;&lt;</div>
+<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;            <span class="stringliteral">&quot; numRoutes &quot;</span> &lt;&lt; numRoutes &lt;&lt;</div>
+<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;            <span class="stringliteral">&quot; ctx &quot;</span> &lt;&lt; <a class="code" href="../../de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3">Sandesh::context</a>());</div>
+<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;    </div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;    VNSwitchRouteResp *vsrr = <span class="keyword">new</span> VNSwitchRouteResp();</div>
+<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;    vsrr-&gt;set_vnSwitchId(100);</div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    vsrr-&gt;set_vnId(50);</div>
+<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;    </div>
+<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    vector&lt;VNSRoute&gt; lval;</div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    VNSRoute vsnr;</div>
+<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;    vsnr.prefix = 2; vsnr.desc = <span class="stringliteral">&quot;two&quot;</span>;</div>
 <div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;    lval.push_back(vsnr);</div>
-<div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    vsnr.prefix = 4; vsnr.desc = <span class="stringliteral">&quot;four&quot;</span>;</div>
+<div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    vsnr.prefix = 3; vsnr.desc = <span class="stringliteral">&quot;three&quot;</span>;</div>
 <div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;    lval.push_back(vsnr);</div>
-<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;    vsrr-&gt;set_vnRoutes(lval);</div>
-<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160; </div>
-<div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;    vector&lt;string&gt; vs;</div>
-<div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;    vs.push_back(<span class="stringliteral">&quot;XXX&quot;</span>);</div>
-<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;    vs.push_back(<span class="stringliteral">&quot;YYY&quot;</span>);</div>
-<div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;    vsrr-&gt;set_names(vs);</div>
-<div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160; </div>
-<div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;    vsnr.prefix = 0; vsnr.desc = <span class="stringliteral">&quot;zero&quot;</span>;</div>
-<div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;    vsrr-&gt;set_vnMarkerRoute(vsnr);</div>
-<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    vsrr-&gt;set_context(context());</div>
-<div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    <span class="keywordflow">if</span> (numRoutes &gt; 5)  vsrr-&gt;set_more(<span class="keyword">true</span>);</div>
-<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;    vsrr-&gt;Response();</div>
-<div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160; </div>
-<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;    <span class="keywordflow">if</span> (numRoutes &gt; 5) {</div>
-<div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;        VNSContainTestResp *vctr = <span class="keyword">new</span> VNSContainTestResp();</div>
-<div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;        vctr-&gt;set_desc(<span class="stringliteral">&quot;The Contained&quot;</span>);</div>
-<div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160; </div>
-<div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;        VNSContained vcd1, vcd2;</div>
-<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;        vcd1.set_magic(888);</div>
-<div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;        vcd1.set_magic1(887);</div>
-<div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;        vcd2.set_magic(999);</div>
-<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;        vcd2.set_magic1(998);</div>
-<div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160; </div>
-<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;        vector&lt;VNSContained&gt; vvcd;</div>
-<div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;        vvcd.push_back(vcd1);</div>
-<div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;        vvcd.push_back(vcd2);</div>
-<div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160; </div>
-<div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;        VNSContainer vcr1,vcr2;</div>
-<div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;        vcr1.set_magic2(8);</div>
-<div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;        vcr1.set_vnCon(vcd1);</div>
-<div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;        vcr1.set_vnLc(vvcd);</div>
-<div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160; </div>
-<div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;        vvcd.push_back(vcd1);</div>
-<div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;        vcr2.set_magic2(9);</div>
-<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;        vcr2.set_vnCon(vcd2);</div>
-<div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;        vcr2.set_vnLc(vvcd);</div>
-<div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160; </div>
-<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;        vctr-&gt;set_vnC(vcr1);</div>
-<div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;        vector&lt;VNSContainer&gt; vvc;</div>
-<div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;        vvc.push_back(vcr2);</div>
-<div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;        vvc.push_back(vcr1);</div>
-<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;        vvc.push_back(vcr1);</div>
-<div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;        vvc.push_back(vcr2);</div>
-<div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;        vctr-&gt;set_vnL(vvc);</div>
-<div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;        vctr-&gt;set_context(context());</div>
-<div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;        vctr-&gt;set_more(<span class="keyword">true</span>);</div>
-<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;        vctr-&gt;Response();</div>
-<div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160; </div>
-<div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;        VNSwitchRouteResp *vsrr2 = <span class="keyword">new</span> VNSwitchRouteResp();</div>
-<div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;        vsrr2-&gt;set_vnSwitchId(155);</div>
-<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;        vsrr2-&gt;set_vnId(66);</div>
-<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160; </div>
-<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;        vsnr.prefix = 8; vsnr.desc = <span class="stringliteral">&quot;ate&quot;</span>;</div>
-<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;        lval.push_back(vsnr);</div>
-<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;        vsrr2-&gt;set_vnRoutes(lval);</div>
-<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;        vsrr2-&gt;set_vnMarkerRoute(vsnr);</div>
-<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160; </div>
-<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;        vsrr2-&gt;set_context(context());</div>
-<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;        vsrr2-&gt;Response();</div>
-<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;    }</div>
-<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160; </div>
-<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;    <span class="keywordflow">return</span>;</div>
-<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;}</div>
-<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160; </div>
-<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;<span class="keywordtype">int</span></div>
-<div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;main(<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span> *argv[]) {</div>
-<div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;    <a class="code" href="../../d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>();</div>
-<div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160; </div>
-<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;    <a class="code" href="../../d6/d66/classServerInfo.html">ServerInfo</a> info;</div>
-<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;    <a class="code" href="../../d2/dd9/classEventManager.html">EventManager</a> <a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>;</div>
-<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;    <a class="code" href="../../dd/dab/classHttpServer.html">HttpServer</a> http(&amp;<a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>);</div>
-<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;    http.RegisterHandler(<span class="stringliteral">&quot;/server-status&quot;</span>,</div>
-<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;    boost::bind(&amp;<a class="code" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">ServerInfo::HandleRequest</a>, &amp;info, _1, _2));</div>
-<div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;    http.RegisterHandler(<span class="stringliteral">&quot;quitquitquit&quot;</span>,</div>
-<div class="line"><a name="l00212"></a><span class="lineno">  212</span>&#160;    boost::bind(&amp;<a class="code" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a>, &amp;http, _1, _2));</div>
-<div class="line"><a name="l00213"></a><span class="lineno">  213</span>&#160;    http.Initialize(8090);</div>
-<div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#ae758c67df90adf487ebdcb8fcaeb8c37">Sandesh::InitGeneratorTest</a>(<span class="stringliteral">&quot;httpd&quot;</span>, <a class="code" href="../../de/d5f/address__util_8cc.html#add239243a43f7ad75f96d06a6d5f6eb8">ResolveCanonicalName</a>(), <span class="stringliteral">&quot;httpd&quot;</span>, <span class="stringliteral">&quot;httpd&quot;</span>, &amp;<a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>, 8080);</div>
-<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9">Sandesh::SetLoggingParams</a>(<span class="keyword">true</span>, <span class="stringliteral">&quot;HttpSession&quot;</span>, SandeshLevel::UT_INFO);</div>
-<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;    <a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>.<a class="code" href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">Run</a>();</div>
-<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;    http.Shutdown();</div>
-<div class="line"><a name="l00218"></a><span class="lineno">  218</span>&#160;}</div>
+<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;    vsnr.prefix = 4; vsnr.desc = <span class="stringliteral">&quot;four&quot;</span>;</div>
+<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;    lval.push_back(vsnr);</div>
+<div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;    vsrr-&gt;set_vnRoutes(lval);</div>
+<div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160; </div>
+<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;    vector&lt;string&gt; vs;</div>
+<div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;    vs.push_back(<span class="stringliteral">&quot;XXX&quot;</span>);</div>
+<div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;    vs.push_back(<span class="stringliteral">&quot;YYY&quot;</span>);</div>
+<div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;    vsrr-&gt;set_names(vs);</div>
+<div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160; </div>
+<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    vsnr.prefix = 0; vsnr.desc = <span class="stringliteral">&quot;zero&quot;</span>;</div>
+<div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    vsrr-&gt;set_vnMarkerRoute(vsnr);</div>
+<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;    vsrr-&gt;set_context(context());</div>
+<div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    <span class="keywordflow">if</span> (numRoutes &gt; 5)  vsrr-&gt;set_more(<span class="keyword">true</span>);</div>
+<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;    vsrr-&gt;Response();</div>
+<div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160; </div>
+<div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;    <span class="keywordflow">if</span> (numRoutes &gt; 5) {</div>
+<div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;        VNSContainTestResp *vctr = <span class="keyword">new</span> VNSContainTestResp();</div>
+<div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;        vctr-&gt;set_desc(<span class="stringliteral">&quot;The Contained&quot;</span>);</div>
+<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160; </div>
+<div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;        VNSContained vcd1, vcd2;</div>
+<div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;        vcd1.set_magic(888);</div>
+<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;        vcd1.set_magic1(887);</div>
+<div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;        vcd2.set_magic(999);</div>
+<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;        vcd2.set_magic1(998);</div>
+<div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160; </div>
+<div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;        vector&lt;VNSContained&gt; vvcd;</div>
+<div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;        vvcd.push_back(vcd1);</div>
+<div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;        vvcd.push_back(vcd2);</div>
+<div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160; </div>
+<div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;        VNSContainer vcr1,vcr2;</div>
+<div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;        vcr1.set_magic2(8);</div>
+<div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;        vcr1.set_vnCon(vcd1);</div>
+<div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;        vcr1.set_vnLc(vvcd);</div>
+<div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160; </div>
+<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;        vvcd.push_back(vcd1);</div>
+<div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;        vcr2.set_magic2(9);</div>
+<div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;        vcr2.set_vnCon(vcd2);</div>
+<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;        vcr2.set_vnLc(vvcd);</div>
+<div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160; </div>
+<div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;        vctr-&gt;set_vnC(vcr1);</div>
+<div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;        vector&lt;VNSContainer&gt; vvc;</div>
+<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;        vvc.push_back(vcr2);</div>
+<div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;        vvc.push_back(vcr1);</div>
+<div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;        vvc.push_back(vcr1);</div>
+<div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;        vvc.push_back(vcr2);</div>
+<div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;        vctr-&gt;set_vnL(vvc);</div>
+<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;        vctr-&gt;set_context(context());</div>
+<div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;        vctr-&gt;set_more(<span class="keyword">true</span>);</div>
+<div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;        vctr-&gt;Response();</div>
+<div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160; </div>
+<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;        VNSwitchRouteResp *vsrr2 = <span class="keyword">new</span> VNSwitchRouteResp();</div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;        vsrr2-&gt;set_vnSwitchId(155);</div>
+<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;        vsrr2-&gt;set_vnId(66);</div>
+<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160; </div>
+<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;        vsnr.prefix = 8; vsnr.desc = <span class="stringliteral">&quot;ate&quot;</span>;</div>
+<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;        lval.push_back(vsnr);</div>
+<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;        vsrr2-&gt;set_vnRoutes(lval);</div>
+<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;        vsrr2-&gt;set_vnMarkerRoute(vsnr);</div>
+<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160; </div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;        vsrr2-&gt;set_context(context());</div>
+<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;        vsrr2-&gt;Response();</div>
+<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;    }</div>
+<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160; </div>
+<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;    <span class="keywordflow">return</span>;</div>
+<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;}</div>
+<div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160; </div>
+<div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;<span class="keywordtype">int</span></div>
+<div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;main(<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span> *argv[]) {</div>
+<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;    <a class="code" href="../../d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a>();</div>
+<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160; </div>
+<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;    <a class="code" href="../../d6/d66/classServerInfo.html">ServerInfo</a> info;</div>
+<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;    <a class="code" href="../../d2/dd9/classEventManager.html">EventManager</a> <a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>;</div>
+<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;    <a class="code" href="../../dd/dab/classHttpServer.html">HttpServer</a> http(&amp;<a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>);</div>
+<div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;    http.RegisterHandler(<span class="stringliteral">&quot;/server-status&quot;</span>,</div>
+<div class="line"><a name="l00212"></a><span class="lineno">  212</span>&#160;    boost::bind(&amp;<a class="code" href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">ServerInfo::HandleRequest</a>, &amp;info, _1, _2));</div>
+<div class="line"><a name="l00213"></a><span class="lineno">  213</span>&#160;    http.RegisterHandler(<span class="stringliteral">&quot;quitquitquit&quot;</span>,</div>
+<div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;    boost::bind(&amp;<a class="code" href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a>, &amp;http, _1, _2));</div>
+<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;    http.Initialize(8090);</div>
+<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#ae758c67df90adf487ebdcb8fcaeb8c37">Sandesh::InitGeneratorTest</a>(<span class="stringliteral">&quot;httpd&quot;</span>, <a class="code" href="../../de/d5f/address__util_8cc.html#add239243a43f7ad75f96d06a6d5f6eb8">ResolveCanonicalName</a>(), <span class="stringliteral">&quot;httpd&quot;</span>, <span class="stringliteral">&quot;httpd&quot;</span>, &amp;<a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>, 8080);</div>
+<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;    <a class="code" href="../../de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9">Sandesh::SetLoggingParams</a>(<span class="keyword">true</span>, <span class="stringliteral">&quot;HttpSession&quot;</span>, SandeshLevel::UT_INFO);</div>
+<div class="line"><a name="l00218"></a><span class="lineno">  218</span>&#160;    <a class="code" href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a>.<a class="code" href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">Run</a>();</div>
+<div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;    http.Shutdown();</div>
+<div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;}</div>
 <div class="ttc" id="aaddress__util_8cc_html_add239243a43f7ad75f96d06a6d5f6eb8"><div class="ttname"><a href="../../de/d5f/address__util_8cc.html#add239243a43f7ad75f96d06a6d5f6eb8">ResolveCanonicalName</a></div><div class="ttdeci">std::string ResolveCanonicalName()</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d5f/address__util_8cc_source.html#l00040">address_util.cc:40</a></div></div>
 <div class="ttc" id="aaddress__util_8h_html"><div class="ttname"><a href="../../d1/d95/address__util_8h.html">address_util.h</a></div></div>
 <div class="ttc" id="aclassEventManager_html"><div class="ttname"><a href="../../d2/dd9/classEventManager.html">EventManager</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d69/event__manager_8h_source.html#l00024">event_manager.h:24</a></div></div>
 <div class="ttc" id="aclassEventManager_html_a4e26b9d71af912ea9a124a3af95c386a"><div class="ttname"><a href="../../d2/dd9/classEventManager.html#a4e26b9d71af912ea9a124a3af95c386a">EventManager::Run</a></div><div class="ttdeci">void Run()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/de5/event__manager_8cc_source.html#l00023">event_manager.cc:23</a></div></div>
 <div class="ttc" id="aclassEventManager_html_a879b812c4adca36740bb33fa7cd098d8"><div class="ttname"><a href="../../d2/dd9/classEventManager.html#a879b812c4adca36740bb33fa7cd098d8">EventManager::Shutdown</a></div><div class="ttdeci">void Shutdown()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/de5/event__manager_8cc_source.html#l00018">event_manager.cc:18</a></div></div>
-<div class="ttc" id="aclassHttpRequestTestData_html"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00051">httpd.cc:51</a></div></div>
-<div class="ttc" id="aclassHttpRequestTestData_html_abdd9370e68022b6d65bc72b93cefd865"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">HttpRequestTestData::HttpRequestTestData</a></div><div class="ttdeci">HttpRequestTestData()</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00053">httpd.cc:53</a></div></div>
-<div class="ttc" id="aclassHttpRequestTestData_html_aebc3231e438f761e3337588329b24e5c"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">HttpRequestTestData::ctr</a></div><div class="ttdeci">int ctr</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00054">httpd.cc:54</a></div></div>
+<div class="ttc" id="aclassHttpRequestTestData_html"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html">HttpRequestTestData</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00053">httpd.cc:53</a></div></div>
+<div class="ttc" id="aclassHttpRequestTestData_html_abdd9370e68022b6d65bc72b93cefd865"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html#abdd9370e68022b6d65bc72b93cefd865">HttpRequestTestData::HttpRequestTestData</a></div><div class="ttdeci">HttpRequestTestData()</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00055">httpd.cc:55</a></div></div>
+<div class="ttc" id="aclassHttpRequestTestData_html_aebc3231e438f761e3337588329b24e5c"><div class="ttname"><a href="../../d3/dc2/classHttpRequestTestData.html#aebc3231e438f761e3337588329b24e5c">HttpRequestTestData::ctr</a></div><div class="ttdeci">int ctr</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00056">httpd.cc:56</a></div></div>
 <div class="ttc" id="aclassHttpRequest_html"><div class="ttname"><a href="../../d5/d1b/classHttpRequest.html">HttpRequest</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/de4/http__request_8h_source.html#l00014">http_request.h:14</a></div></div>
 <div class="ttc" id="aclassHttpServer_html"><div class="ttname"><a href="../../dd/dab/classHttpServer.html">HttpServer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d95/http__server_8h_source.html#l00035">http_server.h:35</a></div></div>
 <div class="ttc" id="aclassRequestPipeline_1_1InstData_html"><div class="ttname"><a href="../../dc/d9d/classRequestPipeline_1_1InstData.html">RequestPipeline::InstData</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d28/request__pipeline_8h_source.html#l00030">request_pipeline.h:30</a></div></div>
 <div class="ttc" id="aclassRequestPipeline_html"><div class="ttname"><a href="../../db/db2/classRequestPipeline.html">RequestPipeline</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d28/request__pipeline_8h_source.html#l00020">request_pipeline.h:20</a></div></div>
 <div class="ttc" id="aclassSandesh_html"><div class="ttname"><a href="../../de/d75/classSandesh.html">Sandesh</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d2c/cpp_2sandesh_8h_source.html#l00132">cpp/sandesh.h:132</a></div></div>
 <div class="ttc" id="aclassSandesh_html_a4ee2a192a0c51dcefae20352741707b3"><div class="ttname"><a href="../../de/d75/classSandesh.html#a4ee2a192a0c51dcefae20352741707b3">Sandesh::context</a></div><div class="ttdeci">std::string context() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d2c/cpp_2sandesh_8h_source.html#l00313">cpp/sandesh.h:313</a></div></div>
-<div class="ttc" id="aclassSandesh_html_ae758c67df90adf487ebdcb8fcaeb8c37"><div class="ttname"><a href="../../de/d75/classSandesh.html#ae758c67df90adf487ebdcb8fcaeb8c37">Sandesh::InitGeneratorTest</a></div><div class="ttdeci">static bool InitGeneratorTest(const std::string &amp;module, const std::string &amp;source, const std::string &amp;node_type, const std::string &amp;instance_id, EventManager *evm, unsigned short http_port, SandeshContext *client_context=NULL, const SandeshConfig &amp;config=SandeshConfig())</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d39/sandesh_8cc_source.html#l00310">sandesh.cc:310</a></div></div>
-<div class="ttc" id="aclassSandesh_html_af0b24eea515b865d628d57620f5907a9"><div class="ttname"><a href="../../de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9">Sandesh::SetLoggingParams</a></div><div class="ttdeci">static void SetLoggingParams(bool enable_local_log, std::string category, std::string level, bool enable_trace_print=false, bool enable_flow_log=false, bool enable_session_syslog=false)</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d39/sandesh_8cc_source.html#l00369">sandesh.cc:369</a></div></div>
-<div class="ttc" id="aclassServerInfo_html"><div class="ttname"><a href="../../d6/d66/classServerInfo.html">ServerInfo</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00022">httpd.cc:22</a></div></div>
-<div class="ttc" id="aclassServerInfo_html_aa178fde4ed15a8e12cdecc46ed16d469"><div class="ttname"><a href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">ServerInfo::HandleRequest</a></div><div class="ttdeci">void HandleRequest(HttpSession *session, const HttpRequest *request)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00024">httpd.cc:24</a></div></div>
+<div class="ttc" id="aclassSandesh_html_ae758c67df90adf487ebdcb8fcaeb8c37"><div class="ttname"><a href="../../de/d75/classSandesh.html#ae758c67df90adf487ebdcb8fcaeb8c37">Sandesh::InitGeneratorTest</a></div><div class="ttdeci">static bool InitGeneratorTest(const std::string &amp;module, const std::string &amp;source, const std::string &amp;node_type, const std::string &amp;instance_id, EventManager *evm, unsigned short http_port, SandeshContext *client_context=NULL, const SandeshConfig &amp;config=SandeshConfig())</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d39/sandesh_8cc_source.html#l00311">sandesh.cc:311</a></div></div>
+<div class="ttc" id="aclassSandesh_html_af0b24eea515b865d628d57620f5907a9"><div class="ttname"><a href="../../de/d75/classSandesh.html#af0b24eea515b865d628d57620f5907a9">Sandesh::SetLoggingParams</a></div><div class="ttdeci">static void SetLoggingParams(bool enable_local_log, std::string category, std::string level, bool enable_trace_print=false, bool enable_flow_log=false, bool enable_session_syslog=false)</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d39/sandesh_8cc_source.html#l00370">sandesh.cc:370</a></div></div>
+<div class="ttc" id="aclassServerInfo_html"><div class="ttname"><a href="../../d6/d66/classServerInfo.html">ServerInfo</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00024">httpd.cc:24</a></div></div>
+<div class="ttc" id="aclassServerInfo_html_aa178fde4ed15a8e12cdecc46ed16d469"><div class="ttname"><a href="../../d6/d66/classServerInfo.html#aa178fde4ed15a8e12cdecc46ed16d469">ServerInfo::HandleRequest</a></div><div class="ttdeci">void HandleRequest(HttpSession *session, const HttpRequest *request)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00026">httpd.cc:26</a></div></div>
 <div class="ttc" id="aclassTcpServer_html_a8f42379102a5ed6d8c89d5ccdce519f5"><div class="ttname"><a href="../../de/df9/classTcpServer.html#a8f42379102a5ed6d8c89d5ccdce519f5">TcpServer::event_manager</a></div><div class="ttdeci">EventManager * event_manager()</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d00/tcp__server_8h_source.html#l00076">tcp_server.h:76</a></div></div>
-<div class="ttc" id="aclassTcpSession_html_af181c9d6048155cb94ab3a605b56a574"><div class="ttname"><a href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">TcpSession::Send</a></div><div class="ttdeci">virtual bool Send(const uint8_t *data, size_t size, size_t *sent)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d26/tcp__session_8cc_source.html#l00428">tcp_session.cc:428</a></div></div>
-<div class="ttc" id="acontroller_2src_2control-node_2main_8cc_html_a5920681d8f6170e77057fa25752ae6da"><div class="ttname"><a href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a></div><div class="ttdeci">static EventManager evm</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/da9/controller_2src_2control-node_2main_8cc_source.html#l00068">controller/src/control-node/main.cc:68</a></div></div>
+<div class="ttc" id="aclassTcpSession_html_af181c9d6048155cb94ab3a605b56a574"><div class="ttname"><a href="../../d2/d0e/classTcpSession.html#af181c9d6048155cb94ab3a605b56a574">TcpSession::Send</a></div><div class="ttdeci">virtual bool Send(const uint8_t *data, size_t size, size_t *sent)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d26/tcp__session_8cc_source.html#l00429">tcp_session.cc:429</a></div></div>
+<div class="ttc" id="acontroller_2src_2control-node_2main_8cc_html_a5920681d8f6170e77057fa25752ae6da"><div class="ttname"><a href="../../d9/da9/controller_2src_2control-node_2main_8cc.html#a5920681d8f6170e77057fa25752ae6da">evm</a></div><div class="ttdeci">static EventManager evm</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/da9/controller_2src_2control-node_2main_8cc_source.html#l00069">controller/src/control-node/main.cc:69</a></div></div>
 <div class="ttc" id="aevent__manager_8h_html"><div class="ttname"><a href="../../da/d69/event__manager_8h.html">event_manager.h</a></div></div>
 <div class="ttc" id="ahttp__request_8h_html"><div class="ttname"><a href="../../d2/de4/http__request_8h.html">http_request.h</a></div></div>
 <div class="ttc" id="ahttp__server_8h_html"><div class="ttname"><a href="../../dd/d95/http__server_8h.html">http_server.h</a></div></div>
 <div class="ttc" id="ahttp__session_8h_html"><div class="ttname"><a href="../../d4/dad/http__session_8h.html">http_session.h</a></div></div>
-<div class="ttc" id="ahttpd_8cc_html_a3be37cee96559ce5ee8766fd30fba80a"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a></div><div class="ttdeci">bool HttpRequestTestCallback(const Sandesh *sr, const RequestPipeline::PipeSpec ps, int stage, int instNum, RequestPipeline::InstData *dataInAndOut)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00064">httpd.cc:64</a></div></div>
-<div class="ttc" id="ahttpd_8cc_html_a7fe77eb47e23671240201bbcc3b426ec"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a></div><div class="ttdeci">HttpRequestTestData * HttpRequestTestFactory(int stage)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00059">httpd.cc:59</a></div></div>
-<div class="ttc" id="ahttpd_8cc_html_a9a857d9650e93b1c03ac1a06871ed67d"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a></div><div class="ttdeci">static void ServerShutdown(HttpServer *http, HttpSession *session, const HttpRequest *request)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00040">httpd.cc:40</a></div></div>
+<div class="ttc" id="ahttpd_8cc_html_a3be37cee96559ce5ee8766fd30fba80a"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a3be37cee96559ce5ee8766fd30fba80a">HttpRequestTestCallback</a></div><div class="ttdeci">bool HttpRequestTestCallback(const Sandesh *sr, const RequestPipeline::PipeSpec ps, int stage, int instNum, RequestPipeline::InstData *dataInAndOut)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00066">httpd.cc:66</a></div></div>
+<div class="ttc" id="ahttpd_8cc_html_a7fe77eb47e23671240201bbcc3b426ec"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a7fe77eb47e23671240201bbcc3b426ec">HttpRequestTestFactory</a></div><div class="ttdeci">HttpRequestTestData * HttpRequestTestFactory(int stage)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00061">httpd.cc:61</a></div></div>
+<div class="ttc" id="ahttpd_8cc_html_a9a857d9650e93b1c03ac1a06871ed67d"><div class="ttname"><a href="../../d1/d8c/httpd_8cc.html#a9a857d9650e93b1c03ac1a06871ed67d">ServerShutdown</a></div><div class="ttdeci">static void ServerShutdown(HttpServer *http, HttpSession *session, const HttpRequest *request)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d8c/httpd_8cc_source.html#l00042">httpd.cc:42</a></div></div>
 <div class="ttc" id="alogging_8cc_html_a9df4321487e056f0344c281df8db1bac"><div class="ttname"><a href="../../d8/d11/logging_8cc.html#a9df4321487e056f0344c281df8db1bac">LoggingInit</a></div><div class="ttdeci">void LoggingInit()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d11/logging_8cc_source.html#l00082">logging.cc:82</a></div></div>
 <div class="ttc" id="alogging_8h_html"><div class="ttname"><a href="../../d5/d77/logging_8h.html">logging.h</a></div></div>
 <div class="ttc" id="alogging_8h_html_afa4d5ba62ca08799d69d54104884902a"><div class="ttname"><a href="../../d5/d77/logging_8h.html#afa4d5ba62ca08799d69d54104884902a">LOG</a></div><div class="ttdeci">#define LOG(_Level, _Msg)</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d77/logging_8h_source.html#l00034">logging.h:34</a></div></div>
 <div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00120">bgp_update.h:120</a></div></div>
-<div class="ttc" id="astructHttpSession_html"><div class="ttname"><a href="../../da/d27/structHttpSession.html">HttpSession</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d48/http__session_8cc_source.html#l00133">http_session.cc:133</a></div></div>
+<div class="ttc" id="astructHttpSession_html"><div class="ttname"><a href="../../da/d27/structHttpSession.html">HttpSession</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d48/http__session_8cc_source.html#l00134">http_session.cc:134</a></div></div>
 <div class="ttc" id="astructRequestPipeline_1_1PipeSpec_html"><div class="ttname"><a href="../../d6/dc4/structRequestPipeline_1_1PipeSpec.html">RequestPipeline::PipeSpec</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d28/request__pipeline_8h_source.html#l00063">request_pipeline.h:63</a></div></div>
 <div class="ttc" id="astructRequestPipeline_1_1StageSpec_html"><div class="ttname"><a href="../../dd/db9/structRequestPipeline_1_1StageSpec.html">RequestPipeline::StageSpec</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d28/request__pipeline_8h_source.html#l00054">request_pipeline.h:54</a></div></div>
 <div class="ttc" id="astructRequestPipeline_1_1StageSpec_html_a8ecd1109f9a5b3bb0a52829b390bb651"><div class="ttname"><a href="../../dd/db9/structRequestPipeline_1_1StageSpec.html#a8ecd1109f9a5b3bb0a52829b390bb651">RequestPipeline::StageSpec::instances_</a></div><div class="ttdeci">std::vector&lt; int &gt; instances_</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d28/request__pipeline_8h_source.html#l00056">request_pipeline.h:56</a></div></div>

@@ -1,18 +1,15 @@
 <map id="BgpSenderPartition::BuildSyncBitSet" name="BgpSenderPartition::BuildSyncBitSet">
-<area shape="rect" id="node1" title=" " alt="" coords="5,271,140,313"/>
-<area shape="rect" id="node2" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a1f0730ec22e066fa51067e229b0c3c46" title=" " alt="" coords="214,23,349,65"/>
-<area shape="rect" id="node6" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60" title=" " alt="" coords="203,89,360,130"/>
-<area shape="rect" id="node7" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a269aed25652bb26f3809b6f7d9c5dc7e" title=" " alt="" coords="214,154,349,195"/>
-<area shape="rect" id="node8" href="$db/dd4/classRibOut.html#a82c14349da7e2bdf77260489c4634884" title=" " alt="" coords="206,220,357,247"/>
-<area shape="rect" id="node10" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a259d3837d216de7445a6186b2bc27787" title=" " alt="" coords="212,271,351,313"/>
-<area shape="rect" id="node11" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ae2b5266017273135d4779f905127de5f" title=" " alt="" coords="214,337,349,378"/>
-<area shape="rect" id="node12" href="$dd/d38/classIPeerUpdate.html#ad689569d765bc68101f41b38898e6511" title=" " alt="" coords="197,403,366,429"/>
-<area shape="rect" id="node13" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title=" " alt="" coords="239,453,323,480"/>
-<area shape="rect" id="node16" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a3ecc898d70b66a6070f3bf1b06a95355" title=" " alt="" coords="188,505,375,546"/>
-<area shape="rect" id="node3" href="$d6/dd0/classBitSet.html#a582fcf1c56bbe37867274392602d875e" title=" " alt="" coords="423,31,540,57"/>
-<area shape="rect" id="node4" href="$db/d77/bitset_8cc.html#a7dcd609021045aded7edbfe33791dcdf" title=" " alt="" coords="600,5,688,32"/>
-<area shape="rect" id="node5" href="$db/d77/bitset_8cc.html#aca988bda5a586910d9c96e1b1c63cf15" title=" " alt="" coords="588,56,700,83"/>
-<area shape="rect" id="node9" href="$d6/dfd/classIndexMap.html#adf3ccb2f90c7432c7f0b414daf50ea14" title=" " alt="" coords="425,220,537,247"/>
-<area shape="rect" id="node14" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="436,428,527,455"/>
-<area shape="rect" id="node15" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="435,479,527,505"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,253,140,295"/>
+<area shape="rect" id="node2" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a1f0730ec22e066fa51067e229b0c3c46" title=" " alt="" coords="214,5,349,47"/>
+<area shape="rect" id="node3" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60" title=" " alt="" coords="203,71,360,112"/>
+<area shape="rect" id="node4" href="$d7/d26/classBgpSenderPartition_1_1RibState.html#a269aed25652bb26f3809b6f7d9c5dc7e" title=" " alt="" coords="214,136,349,177"/>
+<area shape="rect" id="node5" href="$db/dd4/classRibOut.html#a82c14349da7e2bdf77260489c4634884" title=" " alt="" coords="206,202,357,229"/>
+<area shape="rect" id="node7" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a259d3837d216de7445a6186b2bc27787" title=" " alt="" coords="212,253,351,295"/>
+<area shape="rect" id="node8" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#ae2b5266017273135d4779f905127de5f" title=" " alt="" coords="214,319,349,360"/>
+<area shape="rect" id="node9" href="$dd/d38/classIPeerUpdate.html#ad689569d765bc68101f41b38898e6511" title=" " alt="" coords="197,385,366,411"/>
+<area shape="rect" id="node10" href="$d6/dd0/classBitSet.html#ad01e4227c5244337a74b8ab53a7b6d62" title=" " alt="" coords="239,435,323,462"/>
+<area shape="rect" id="node13" href="$d8/d38/classBgpSenderPartition_1_1PeerState.html#a3ecc898d70b66a6070f3bf1b06a95355" title=" " alt="" coords="188,487,375,528"/>
+<area shape="rect" id="node6" href="$d6/dfd/classIndexMap.html#adf3ccb2f90c7432c7f0b414daf50ea14" title=" " alt="" coords="423,202,535,229"/>
+<area shape="rect" id="node11" href="$db/d77/bitset_8cc.html#a5b1e6ad393eeef89c3d67e2e46ab4f56" title=" " alt="" coords="433,410,524,437"/>
+<area shape="rect" id="node12" href="$db/d77/bitset_8cc.html#a9c2c73bb96d9b003c6e932558857120d" title=" " alt="" coords="433,461,525,487"/>
 </map>
