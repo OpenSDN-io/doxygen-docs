@@ -1,5 +1,16 @@
 <map id="VxlanRoutingManager::DeleteIpamRoutes" name="VxlanRoutingManager::DeleteIpamRoutes">
-<area shape="rect" id="node1" title="Delete routes to IPAM, specified by IP prefix and prefix length." alt="" coords="5,23,156,65"/>
-<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="204,5,375,32"/>
-<area shape="rect" id="node3" href="$d6/dd4/classPeer.html#a2a9eeed28fc53281a7985dc1f0d1826b" title=" " alt="" coords="233,56,345,83"/>
+<area shape="rect" id="node1" title="Delete routes to IPAM, specified by IP prefix and prefix length." alt="" coords="5,99,156,140"/>
+<area shape="rect" id="node2" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="204,18,375,45"/>
+<area shape="rect" id="node3" href="$d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="206,69,373,111"/>
+<area shape="rect" id="node8" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="222,135,357,162"/>
+<area shape="rect" id="node9" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="214,187,365,228"/>
+<area shape="rect" id="node4" href="$d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="429,5,602,47"/>
+<area shape="rect" id="node7" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="429,71,602,112"/>
+<area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="656,46,821,73"/>
+<area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#a2fb89a60a53895197657b6510d654abe" title=" " alt="" coords="869,46,1059,73"/>
+<area shape="rect" id="node10" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title=" " alt="" coords="423,141,608,167"/>
+<area shape="rect" id="node12" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="448,191,583,218"/>
+<area shape="rect" id="node13" href="$d8/d00/classVnEntry.html#a779fa14b8203730f503138c255da518c" title=" " alt="" coords="458,242,573,269"/>
+<area shape="rect" id="node14" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="458,293,573,319"/>
+<area shape="rect" id="node11" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="667,141,810,167"/>
 </map>
