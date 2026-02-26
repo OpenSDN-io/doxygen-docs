@@ -66,8 +66,8 @@
 <area shape="rect" id="node108" href="$d5/df5/structVrfKSyncObject_1_1VrfState.html" title=" " alt="" coords="259,1639,429,1665"/>
 <area shape="rect" id="node109" href="$dd/d6a/structVrouterUveEntryBase_1_1VrouterPhysicalDeviceState.html" title=" " alt="" coords="248,2365,440,2406"/>
 <area shape="rect" id="node110" href="$d2/d24/structVrouterUveEntryBase_1_1VrouterUveInterfaceState.html" title=" " alt="" coords="255,2430,433,2471"/>
-<area shape="rect" id="node111" href="$d5/d70/structVxlanRoutingState.html" title="This state tracks inet and evpn table listeners. The state establishes link between Inet tables of a ..." alt="" coords="279,2496,409,2523"/>
-<area shape="rect" id="node112" href="$d6/d3b/structVxlanRoutingVmiState.html" title="Tracks movement of a VmInterface amongth LRs. This is used to associate VmInterface with a LR and a V..." alt="" coords="267,2547,421,2573"/>
+<area shape="rect" id="node111" href="$d5/d70/structVxlanRoutingState.html" title="This state tracks inet and EVPN table listeners. It establishes link between inet tables of a bridge ..." alt="" coords="279,2496,409,2523"/>
+<area shape="rect" id="node112" href="$d6/d3b/structVxlanRoutingVmiState.html" title="Tracks movement of a VmInterface among LRs. This is used to associate VmInterface with a LR and a VN,..." alt="" coords="267,2547,421,2573"/>
 <area shape="rect" id="node113" href="$d0/dbd/structVxlanRoutingVnState.html" title="This state tracks all virtual machine interfaces (VmInterface) attached to a Logical Router (LR)...." alt="" coords="271,2597,417,2624"/>
 <area shape="rect" id="node9" href="$db/dc8/classEvpnLocalMcastNode.html" title="This class represents (in the context of an EVPN instance) a local vRouter that&#39;s connected to a cont..." alt="" coords="537,1869,687,1896"/>
 <area shape="rect" id="node10" href="$d0/d1b/classEvpnRemoteMcastNode.html" title="This class represents (in the context of an EVPN instance) a remote vRouter or PE discovered via BGP...." alt="" coords="530,1819,694,1845"/>

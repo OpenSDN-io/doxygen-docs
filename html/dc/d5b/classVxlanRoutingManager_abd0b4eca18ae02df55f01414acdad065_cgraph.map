@@ -1,5 +1,5 @@
 <map id="VxlanRoutingManager::VnVrf" name="VxlanRoutingManager::VnVrf">
-<area shape="rect" id="node1" title="Finds the vrf for the given virtual network." alt="" coords="5,74,156,115"/>
+<area shape="rect" id="node1" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="5,74,156,115"/>
 <area shape="rect" id="node2" href="$db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title=" " alt="" coords="204,5,389,32"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="229,56,364,83"/>
 <area shape="rect" id="node5" href="$d8/d00/classVnEntry.html#a779fa14b8203730f503138c255da518c" title=" " alt="" coords="239,107,354,133"/>

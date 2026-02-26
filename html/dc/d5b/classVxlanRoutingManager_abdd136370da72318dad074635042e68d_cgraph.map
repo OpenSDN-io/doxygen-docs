@@ -4,7 +4,7 @@
 <area shape="rect" id="node32" href="$de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title=" " alt="" coords="569,2081,721,2122"/>
 <area shape="rect" id="node33" href="$d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title=" " alt="" coords="563,1486,727,1512"/>
 <area shape="rect" id="node36" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="283,2146,441,2188"/>
-<area shape="rect" id="node39" href="$dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title=" " alt="" coords="265,1660,459,1701"/>
+<area shape="rect" id="node39" href="$dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title="Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking..." alt="" coords="265,1660,459,1701"/>
 <area shape="rect" id="node3" href="$d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title=" " alt="" coords="549,926,741,968"/>
 <area shape="rect" id="node14" href="$d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title=" " alt="" coords="552,538,739,564"/>
 <area shape="rect" id="node22" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="860,24,995,51"/>
@@ -47,6 +47,6 @@
 <area shape="rect" id="node46" href="$dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not." alt="" coords="570,1689,721,1730"/>
 <area shape="rect" id="node47" href="$d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title=" " alt="" coords="551,1536,740,1563"/>
 <area shape="rect" id="node48" href="$d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title=" " alt="" coords="838,1638,1017,1664"/>
-<area shape="rect" id="node49" href="$dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title=" " alt="" coords="517,1068,773,1109"/>
-<area shape="rect" id="node50" href="$dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title=" " alt="" coords="523,224,768,265"/>
+<area shape="rect" id="node49" href="$dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the c..." alt="" coords="517,1068,773,1109"/>
+<area shape="rect" id="node50" href="$dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="523,224,768,265"/>
 </map>

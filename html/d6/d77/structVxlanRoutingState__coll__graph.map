@@ -1,5 +1,5 @@
 <map id="VxlanRoutingState" name="VxlanRoutingState">
-<area shape="rect" id="node1" title="This state tracks inet and evpn table listeners. The state establishes link between Inet tables of a ..." alt="" coords="821,1564,952,1591"/>
+<area shape="rect" id="node1" title="This state tracks inet and EVPN table listeners. It establishes link between inet tables of a bridge ..." alt="" coords="821,1564,952,1591"/>
 <area shape="rect" id="node2" href="$d3/def/structDBState.html" title=" " alt="" coords="504,1463,576,1489"/>
 <area shape="rect" id="node3" href="$dc/d2b/classAgentRouteTable.html" title="Agent supports multiple route tables &#45; Inet&#45;unicast (IPv4/IPv6), Inet&#45;multicast, bridge,..." alt="" coords="479,1616,601,1643"/>
 <area shape="rect" id="node11" href="$de/d8b/classEvpnAgentRouteTable.html" title=" " alt="" coords="811,1677,963,1704"/>

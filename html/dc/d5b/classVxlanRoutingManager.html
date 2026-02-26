@@ -95,7 +95,7 @@ $(document).ready(function(){initNavTree('dc/d5b/classVxlanRoutingManager.html',
 </div><!--header-->
 <div class="contents">
 
-<p>This class manages routes leaking between bridge VRF instances and the routing VRF instance. Routes are leaking is bi-directional: a) first, during the forward stage interface routes with LOCAL_VM_PORT_PEER are copied from each bridge VRF inet table into the routing VRF inet and EVPN tables; b) second, routes from the routing VRF are redistributed amongst bridge VRF tables durging the backward stage. The class extensively uses events notifications to trigger routes leaking.  
+<p>This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router element. The operative state include bonds between LRs, virtual networks, VRFs and corresponding routes which support connectivity between networks connected to a LR.  
  <a href="../../dc/d5b/classVxlanRoutingManager.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>&gt;</code></p>
@@ -104,8 +104,8 @@ Collaboration diagram for VxlanRoutingManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dd/d01/classVxlanRoutingManager__coll__graph.png" border="0" usemap="#aVxlanRoutingManager_coll__map" alt="Collaboration graph"/></div>
 <map name="aVxlanRoutingManager_coll__map" id="aVxlanRoutingManager_coll__map">
-<area shape="rect" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance...." alt="" coords="983,64,1133,91"/>
-<area shape="rect" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="The class is used to store following information:" alt="" coords="1265,64,1425,91"/>
+<area shape="rect" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical&#45;router..." alt="" coords="983,64,1133,91"/>
+<area shape="rect" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical..." alt="" coords="1265,64,1425,91"/>
 <area shape="rect" href="../../d6/dd4/classPeer.html" title=" " alt="" coords="545,47,593,73"/>
 <area shape="rect" title=" " alt="" coords="26,201,81,228"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html" title=" " alt="" coords="701,1235,757,1261"/>
@@ -160,10 +160,10 @@ Collaboration diagram for VxlanRoutingManager:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:acdfade4c7dedd684cf5dcae3555434f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#acdfade4c7dedd684cf5dcae3555434f1">VxlanRoutingManager</a> (<a class="el" href="../../d8/dfe/classAgent.html">Agent</a> *agent)</td></tr>
-<tr class="memdesc:acdfade4c7dedd684cf5dcae3555434f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs instance of the class and links to the <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> class instance. Since only one agent class instance works per system process, this implies that only one instance of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance....">VxlanRoutingManager</a> exists.  <a href="../../dc/d5b/classVxlanRoutingManager.html#acdfade4c7dedd684cf5dcae3555434f1">More...</a><br /></td></tr>
+<tr class="memdesc:acdfade4c7dedd684cf5dcae3555434f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs instance of the class and links to the <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> class instance. Since only one agent class instance works per system process, this implies that only one instance of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> exists.  <a href="../../dc/d5b/classVxlanRoutingManager.html#acdfade4c7dedd684cf5dcae3555434f1">More...</a><br /></td></tr>
 <tr class="separator:acdfade4c7dedd684cf5dcae3555434f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2c040deaa2d6a147faaec350ea61f77"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ad2c040deaa2d6a147faaec350ea61f77">~VxlanRoutingManager</a> ()</td></tr>
-<tr class="memdesc:ad2c040deaa2d6a147faaec350ea61f77"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroys the <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance....">VxlanRoutingManager</a> instance.  <a href="../../dc/d5b/classVxlanRoutingManager.html#ad2c040deaa2d6a147faaec350ea61f77">More...</a><br /></td></tr>
+<tr class="memdesc:ad2c040deaa2d6a147faaec350ea61f77"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroys the <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> instance.  <a href="../../dc/d5b/classVxlanRoutingManager.html#ad2c040deaa2d6a147faaec350ea61f77">More...</a><br /></td></tr>
 <tr class="separator:ad2c040deaa2d6a147faaec350ea61f77"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8458cad3048f3f86c29408b5daea5183"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a8458cad3048f3f86c29408b5daea5183">Register</a> ()</td></tr>
 <tr class="memdesc:a8458cad3048f3f86c29408b5daea5183"><td class="mdescLeft">&#160;</td><td class="mdescRight">Registers handlers for events associated with changes in virtual networks (<a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a> class) and VRF instances (<a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a> class).  <a href="../../dc/d5b/classVxlanRoutingManager.html#a8458cad3048f3f86c29408b5daea5183">More...</a><br /></td></tr>
@@ -231,7 +231,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memdesc:a04d8e4f9112207ce69530801492c10cf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prints all virtual networks attached to logical routers.  <a href="../../dc/d5b/classVxlanRoutingManager.html#a04d8e4f9112207ce69530801492c10cf">More...</a><br /></td></tr>
 <tr class="separator:a04d8e4f9112207ce69530801492c10cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd0b4eca18ae02df55f01414acdad065"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065">VnVrf</a> (const <a class="el" href="../../d8/d00/classVnEntry.html">VnEntry</a> *vn, const std::string &amp;vrf_name)</td></tr>
-<tr class="memdesc:abd0b4eca18ae02df55f01414acdad065"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds the vrf for the given virtual network.  <a href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065">More...</a><br /></td></tr>
+<tr class="memdesc:abd0b4eca18ae02df55f01414acdad065"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds a VRF table (<a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a>) for the given virtual network (VN). Returns nullptr if no VRF table associated with this VN or there is no <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> having the given name.  <a href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065">More...</a><br /></td></tr>
 <tr class="separator:abd0b4eca18ae02df55f01414acdad065"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
@@ -312,10 +312,13 @@ Private Member Functions</h2></td></tr>
 <tr class="memdesc:ab1d09b9545d936f969786344b94f69fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between routing VRF EVPN and Inet tables.  <a href="../../dc/d5b/classVxlanRoutingManager.html#ab1d09b9545d936f969786344b94f69fe">More...</a><br /></td></tr>
 <tr class="separator:ab1d09b9545d936f969786344b94f69fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7fbdbb21c4b22986991c9381abd8bb2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2">XmppAdvertiseEvpnBgpaas</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const std::vector&lt; std::string &gt; &amp;peer_sources)</td></tr>
+<tr class="memdesc:ac7fbdbb21c4b22986991c9381abd8bb2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking occurs in the controller).  <a href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2">More...</a><br /></td></tr>
 <tr class="separator:ac7fbdbb21c4b22986991c9381abd8bb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65c644328cadbe356b1c62257c1bd7d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9">XmppAdvertiseEvpnBgpaasInterface</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, const <a class="el" href="../../d4/dec/classNextHop.html">NextHop</a> *nh)</td></tr>
+<tr class="memdesc:a65c644328cadbe356b1c62257c1bd7d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller (this routes leaking occurs in the controller).  <a href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9">More...</a><br /></td></tr>
 <tr class="separator:a65c644328cadbe356b1c62257c1bd7d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a924fd6bf235c330981d58be6166345b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7">XmppAdvertiseEvpnBgpaasComposite</a> (<a class="el" href="../../de/d8b/classEvpnAgentRouteTable.html">EvpnAgentRouteTable</a> *evpn_table, const <a class="el" href="../../d9/d9b/address_8h.html#a7055b8d880410aad1e3ba8c041397b6c">IpAddress</a> &amp;prefix_ip, const int prefix_len, uint32_t vxlan_id, const std::string vrf_name, const <a class="el" href="../../d3/dec/structRouteParameters.html">RouteParameters</a> &amp;params, const <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> *bgp_peer, <a class="el" href="../../de/d3f/nexthop_8h.html#ae9e61960a0ae6e196e4a86de633f7714">ComponentNHKeyList</a> &amp;comp_nh_list)</td></tr>
+<tr class="memdesc:a924fd6bf235c330981d58be6166345b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the controller (this routes leaking occurs in the controller).  <a href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7">More...</a><br /></td></tr>
 <tr class="separator:a924fd6bf235c330981d58be6166345b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
@@ -460,16 +463,50 @@ Friends</h2></td></tr>
 <tr class="memdesc:a39576b0b4b1f421ccd7b0eb3ddd3c9d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows access to Xmpp advertisement functions via external class.  <a href="../../dc/d5b/classVxlanRoutingManager.html#a39576b0b4b1f421ccd7b0eb3ddd3c9d6">More...</a><br /></td></tr>
 <tr class="separator:a39576b0b4b1f421ccd7b0eb3ddd3c9d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3d30edf769c1b0d6e0845183b1ac7b88"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a3d30edf769c1b0d6e0845183b1ac7b88">VxlanRoutingVrfMapper</a></td></tr>
-<tr class="memdesc:a3d30edf769c1b0d6e0845183b1ac7b88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="The class is used to store following information:">VxlanRoutingVrfMapper</a> to use private members of this class.  <a href="../../dc/d5b/classVxlanRoutingManager.html#a3d30edf769c1b0d6e0845183b1ac7b88">More...</a><br /></td></tr>
+<tr class="memdesc:a3d30edf769c1b0d6e0845183b1ac7b88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical...">VxlanRoutingVrfMapper</a> to use private members of this class.  <a href="../../dc/d5b/classVxlanRoutingManager.html#a3d30edf769c1b0d6e0845183b1ac7b88">More...</a><br /></td></tr>
 <tr class="separator:a3d30edf769c1b0d6e0845183b1ac7b88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab3bb3b6a09846c00603718d0e259b6e3"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#ab3bb3b6a09846c00603718d0e259b6e3">MetadataProxy</a></td></tr>
 <tr class="memdesc:ab3bb3b6a09846c00603718d0e259b6e3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows <a class="el" href="../../db/d96/classMetadataProxy.html">MetadataProxy</a> to use private members of this class.  <a href="../../dc/d5b/classVxlanRoutingManager.html#ab3bb3b6a09846c00603718d0e259b6e3">More...</a><br /></td></tr>
 <tr class="separator:ab3bb3b6a09846c00603718d0e259b6e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>This class manages routes leaking between bridge VRF instances and the routing VRF instance. Routes are leaking is bi-directional: a) first, during the forward stage interface routes with LOCAL_VM_PORT_PEER are copied from each bridge VRF inet table into the routing VRF inet and EVPN tables; b) second, routes from the routing VRF are redistributed amongst bridge VRF tables durging the backward stage. The class extensively uses events notifications to trigger routes leaking. </p>
+<div class="textblock"><p>This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router element. The operative state include bonds between LRs, virtual networks, VRFs and corresponding routes which support connectivity between networks connected to a LR. </p>
+<p>Given a logical router (LR), there is precisely 1 routing virtual network (VN) and a routing VRF table associated with it and zero or more bridge VNs (and corresponding VRF tables) whose states are manipulated by <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> using routes leaking process. Routes leaking is a routing tables bi-directional manipulation process during which:</p><ul>
+<li>new VM interface routes arising in the bridge VRF tables are being transferred into the routing VRF table associated with the LR (forward propagation of routes);</li>
+<li>new routes arising in the routing VRF table are redistributed among the bridge VRF tables associated with the LR (backward propagation of routes);</li>
+<li>deletion of created routes in the routing or a bridge VRF leads to the deletion of the corresponding created routes in other VRF tables associated with the LR.</li>
+</ul>
+<p>In a nutshell, routes leaking is a kind of data synchronization process between several routing tables.</p>
+<p>A bridge virtual network is a basic element in OpenSDN that manages network connectivity between several VMs within a broadcast domain. A routing virtual network is a technical virtual network associated with a LR and providing connectivity between several bridge virtual networks attached to (associated with) the LR.</p>
+<p>The information about an LR is loaded into (or unloaded from) the Agent’s operative <a class="el" href="../../df/d70/classDB.html">DB</a> when the processing of a corresponding IF-MAP node changes triggers notifications for associated tables: the interfaces tables (<a class="el" href="../../d2/d73/classInterfaceTable.html">InterfaceTable</a> class), the virtual networks table (<a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a> class) and the VRFs tables (<a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a> class). The changes to the IF-MAP nodes arise due to such events as a connection of a virtual network with an LR (or a disconnection of a VN from an LR), appearance of a first VM connected to an LR via a bridge network or a destruction of a last VM (connected to an LR) on a hypervisor. <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> links these notifications with its member functions: <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a3ef4c52834bb71d2ff72d02da6986669" title="Handler for changes (new/update/delete) in a VMI (VmInterface class).">VxlanRoutingManager::VmiNotify</a>, <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a16577ccbac8219ed3db8ec920a524fb4" title="A handler for changes (new/update/delete) in a virtual network (VnEntry class).">VxlanRoutingManager::VnNotify</a> and <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#aaa3c2de1b4df328cf5b80277ae5889ef" title="A handler for changes (new/update/delete) in a VRF instance (VrfEntry class).">VxlanRoutingManager::VrfNotify</a> and they are called VmiNotify, VnNotify and VrfNotify for brevity.</p>
+<p>Due to concurrency mechanisms, these functions can run in various order. However, only specific order guarantees lack of inconsistencies in the <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> data describing state of an LR:</p><ol type="1">
+<li>if an LR is being created or updated (e.g., a bridge network is being attached to it), then the correct notifications processing order is VmiNotify, VnNotify and VrfNotify, in this case routes leaking functions which are called by RouteNotify member of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> will not start execution until all information from IF-MAP is not correctly transferred into the operative <a class="el" href="../../df/d70/classDB.html">DB</a>;</li>
+<li>if an LR is being destroyed (or a bridge network is being detached from it), then the situation is not so obvious, because (a) on the one hand, VrfNotify should be called first to prevent unexpected routes leaking from the disconnected or destroyed bridge virtual network, however this breaks normal event-based mechanism of routes update in the LR's bridge networks due to changes in the LR's routing network (since RouteNotify handler will be disconnected) therefore, (b) the only second viable option is when VnNotify is called first.</li>
+</ol>
+<p>The preferred order of execution for functions VrfNotify, VmiNotoify and VnNotify cannot be specified explicitly from VxlanRoutingMananger, since it is controlled by (a) arrival of IF-MAP information on a hypervisor node from a controller and (b) by policies of <a class="el" href="../../d8/dfe/classAgent.html">Agent</a>'s operative <a class="el" href="../../df/d70/classDB.html">DB</a>. For some cases, the correctness of execution is guaranteed by the order of IF-MAP nodes processing, in some cases, it is guaranteed by additonal calls inside <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a>.</p>
+<p><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> acts as a kernel module in some sense: it has several member functions acting as an entry point and providing service to its caller: an information about the current state of the module, modification of the internal state, modifiction of external state (routes advertisement). These entry points are:</p><ul>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#acdfade4c7dedd684cf5dcae3555434f1" title="Constructs instance of the class and links to the Agent class instance. Since only one agent class in...">VxlanRoutingManager::VxlanRoutingManager</a>, initializes the module, modifies only the internal state;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a8458cad3048f3f86c29408b5daea5183" title="Registers handlers for events associated with changes in virtual networks (VnTable class) and VRF ins...">VxlanRoutingManager::Register</a>: sets/resets handlers for change events in VmiTable, <a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a> and <a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a>, modifies only the internal state;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a3ef4c52834bb71d2ff72d02da6986669" title="Handler for changes (new/update/delete) in a VMI (VmInterface class).">VxlanRoutingManager::VmiNotify</a>: links a VN with a VMI connecting the latter with an LR, modifies the external state (<a class="el" href="../../d8/d00/classVnEntry.html">VnEntry</a> and <a class="el" href="../../d5/d21/classVmInterface.html">VmInterface</a> states declared in <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a>) and is called whenever a VMI is being attached to an LR (or detached from an LR);</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a16577ccbac8219ed3db8ec920a524fb4" title="A handler for changes (new/update/delete) in a virtual network (VnEntry class).">VxlanRoutingManager::VnNotify</a>: establishes (updates) a mapping between an LR and VNs attached to the LR, initiates traversing of the routing and bridge VRF tables to copy (leak) routes between them, modifies the internal and external states and is called whenever a VN is modified;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#aaa3c2de1b4df328cf5b80277ae5889ef" title="A handler for changes (new/update/delete) in a VRF instance (VrfEntry class).">VxlanRoutingManager::VrfNotify</a>: links <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> member functions with changes in a modified bridge VN and routing VN routing tables, modifies only the internal state;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a15f862e441b5cc8f10502ee8daf1ecc9" title="Handler for changes (new/update/delete) in a route (EVPN or Inet). Main entry point for routes leakin...">VxlanRoutingManager::RouteNotify</a>: propagates locally-originated routes (interface or interface composites) from bridge VRF Inet tables into the routing VRF Inet table associated previously with an LR;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a67f243ef57856265fe721ce3b4480426" title="Advertises an EVPN route received using XMPP channel.">VxlanRoutingManager::XmppAdvertiseEvpnRoute</a>: advertises an external EVPN Type 5 route that came from controller via BGP/XMPP;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a2722350adb0570b4b967aa8ef8799b9c" title="Checks whether VxLAN routing manager is enabled or not.">VxlanRoutingManager::IsVxlanAvailable</a>: returns true if VxLAN is available;</li>
+<li><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html#a9b1e3bcff66d4a418943dab50e17d83e" title="Determines whether the pointer to the VRF instance is of routing type.">VxlanRoutingManager::IsRoutingVrf</a>: returns true if the given VRF table object is a VxLAN routing VRF table.</li>
+</ul>
+<p>The internal state of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> is defined by a map between an LR UUID and virtual networks / VRF tables, associated with this LR. The map is defined in <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical...">VxlanRoutingVrfMapper</a> class and stored as std::map for a pair of {boost::uuids::uuid, <a class="el" href="../../d4/de0/structVxlanRoutingVrfMapper_1_1RoutedVrfInfo.html" title="The structure holds information about virtual networks connected to a logical router (LR)">VxlanRoutingVrfMapper::RoutedVrfInfo</a>}, where <a class="el" href="../../d4/de0/structVxlanRoutingVrfMapper_1_1RoutedVrfInfo.html" title="The structure holds information about virtual networks connected to a logical router (LR)">VxlanRoutingVrfMapper::RoutedVrfInfo</a> stores:</p><ul>
+<li>a pointer to a <a class="el" href="../../d8/d00/classVnEntry.html">VnEntry</a> object containing description of the routing VN associated with the LR;</li>
+<li>a list of pointers to <a class="el" href="../../d8/d00/classVnEntry.html">VnEntry</a> objects containing description of bridge VNs associated with the LR;</li>
+<li>an array of names of <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> objects containing description of bridge and routing VRF tables linked with the corresponding VNs. In addition, <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical...">VxlanRoutingVrfMapper</a> contains a reverse map, that determines an LR UUID by a pointer to an <a class="el" href="../../d8/d00/classVnEntry.html">VnEntry</a> object, associated with an LR as a bridge or a routing VN.</li>
+</ul>
+<p>The external state, which is modified by <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a>, is characterized by:</p><ul>
+<li>VRF tables (inet and EVPN) of bridge and routing virtual networks;</li>
+<li>operative <a class="el" href="../../df/d70/classDB.html">DB</a> entries states (<a class="el" href="../../d0/dbd/structVxlanRoutingVnState.html" title="This state tracks all virtual machine interfaces (VmInterface) attached to a Logical Router (LR)....">VxlanRoutingVnState</a>, <a class="el" href="../../d6/d3b/structVxlanRoutingVmiState.html" title="Tracks movement of a VmInterface among LRs. This is used to associate VmInterface with a LR and a VN,...">VxlanRoutingVmiState</a>, <a class="el" href="../../d5/d70/structVxlanRoutingState.html" title="This state tracks inet and EVPN table listeners. It establishes link between inet tables of a bridge ...">VxlanRoutingState</a>) which are associated with a VN, a VRF table or a VMI to store additional information needed by <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a>.</li>
+</ul>
+<p>Since the aforementioned <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> entry points are executed in tasks with the same task code and task data ID (see <a class="el" href="../../d6/d9c/classTask.html" title="Task is a class to describe a computational task within OpenSDN control plane applications....">Task</a> class), their execution is mutually exclusive, i.e., they cannot run in parallel, but the order of their execution is not predetermined. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00423">423</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00545">545</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="acdfade4c7dedd684cf5dcae3555434f1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acdfade4c7dedd684cf5dcae3555434f1">&#9670;&nbsp;</a></span>VxlanRoutingManager()</h2>
@@ -487,10 +524,10 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Constructs instance of the class and links to the <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> class instance. Since only one agent class instance works per system process, this implies that only one instance of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance....">VxlanRoutingManager</a> exists. </p>
-<p><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance....">VxlanRoutingManager</a> </p>
+<p>Constructs instance of the class and links to the <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> class instance. Since only one agent class instance works per system process, this implies that only one instance of <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> exists. </p>
+<p><a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00348">348</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00350">350</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -527,9 +564,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Destroys the <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance....">VxlanRoutingManager</a> instance. </p>
+<p>Destroys the <a class="el" href="../../dc/d5b/classVxlanRoutingManager.html" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical-router...">VxlanRoutingManager</a> instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00356">356</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00358">358</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 
 </div>
 </div>
@@ -582,7 +619,7 @@ template&lt;typename NhType &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00063">63</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00069">69</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -680,7 +717,7 @@ template&lt;typename NhType &gt; </div>
 
 <p>Adds an interface or a composite of interfaces nexthops to the list of components NH keys needed for construction of the a mixed composite. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00151">151</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00157">157</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -760,7 +797,7 @@ Here is the call graph for this function:</div>
 <p>XMPP Advertising functions. </p>
 <p>Allocates and returns a new key for the VxLAN tunnel to the given router </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00019">19</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00025">25</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -829,7 +866,7 @@ Here is the call graph for this function:</div>
 
 <p>A handler for changes (new/update/delete) in the virtual network from a bridge VRF. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00464">464</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00466">466</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -858,7 +895,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#ae9322a004b638d4000b67b884392b0d4" title=" " alt="" coords="1176,379,1351,405"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="1415,1331,1585,1357"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="1417,1691,1583,1733"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="1425,1382,1575,1423"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="1425,1382,1575,1423"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="1633,2318,1807,2359"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="1633,2383,1807,2425"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="1855,2391,2020,2417"/>
@@ -916,7 +953,7 @@ Here is the call graph for this function:</div>
 
 <p>Removes redundant <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a> path from a given route. These routes might arise with small chance in a bridge VRF inet tables when tunnels in the routing VRF instance arrive later then in the bridge VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00202">202</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00208">208</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1037,7 +1074,7 @@ Here is the call graph for this function:</div>
 
 <p>Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between bridge VRF Inet and routing EVPN tables. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00689">689</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00695">695</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1157,7 +1194,7 @@ Here is the call graph for this function:</div>
 
 <p>Copies the path to the prefix address into the EVPN table with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a>. The function is used during routes leaking between routing VRF EVPN and Inet tables. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00742">742</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00748">748</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1185,7 +1222,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#ade7fb868c1f7a97fed965ec5ebf1f80a" title=" " alt="" coords="425,401,610,428"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="439,453,596,494"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="471,519,563,545"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="442,570,593,611"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="442,570,593,611"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="676,249,865,290"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="684,314,857,355"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="684,379,857,421"/>
@@ -1261,7 +1298,7 @@ Here is the call graph for this function:</div>
 
 <p>Delete routes to IPAM, specified by IP prefix and prefix length. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00795">795</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00797">797</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1271,7 +1308,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="204,18,375,45"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="206,69,373,111"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="222,135,357,162"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="214,187,365,228"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="214,187,365,228"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="429,5,602,47"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="429,71,602,112"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="656,46,821,73"/>
@@ -1335,7 +1372,7 @@ Here is the call graph for this function:</div>
 <p>Routes copying functions. </p>
 <p>Deletes interface path specified with IP prefix, prefix length and <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> from the EVPN table. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00668">668</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00674">674</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1442,7 +1479,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00721">721</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00727">727</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1539,7 +1576,7 @@ Here is the call graph for this function:</div>
 
 <p>Deletes subnet routes from a specified virtual network (VirtualNetwork) </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00830">830</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00832">832</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1551,7 +1588,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="215,317,382,358"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="231,383,366,409"/>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="227,433,370,460"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="223,99,374,141"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="223,99,374,141"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="467,157,601,184"/>
 <area shape="rect" href="../../d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title=" " alt="" coords="449,208,619,235"/>
 <area shape="rect" href="../../dc/d2b/classAgentRouteTable.html#a22fc5e10c461d89cea22c28a54328266" title=" " alt="" coords="441,259,627,285"/>
@@ -1603,7 +1640,7 @@ Here is the call graph for this function:</div>
 
 <p>Deletes subnet routes (actually, paths with <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) in the given bridge VRF. This function is demanded at vn.c:618. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00880">880</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00882">882</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1671,7 +1708,7 @@ Here is the call graph for this function:</div>
 
 <p>Performs routes leaking between the EVPN table of the routing VRF instance and the Inet table of the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00133">133</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00139">139</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1709,7 +1746,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="790,223,917,250"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a6aabd18ecb01d37dc03a850e60ee5a8a" title=" " alt="" coords="778,610,929,637"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="775,880,932,921"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="778,544,929,585"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="778,544,929,585"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="1012,771,1201,812"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="1020,600,1193,641"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="1020,665,1193,707"/>
@@ -1751,7 +1788,7 @@ Here is the call graph for this function:</div>
 <p>Updates <a class="el" href="../../de/d75/classSandesh.html">Sandesh</a> response. </p>
 <p>sandesh request </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00965">965</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00967">967</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1912,7 +1949,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path which has the BGP_PEER <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and the <a class="el" href="../../d0/dcc/classInterface.html">Interface</a> nexthop type. Such path presumably points to BGPaaS advertised route. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00393">393</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00399">399</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1976,7 +2013,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with the given <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and interface nexthop (<a class="el" href="../../de/d30/classInterfaceNH.html">InterfaceNH</a>). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00385">385</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00391">391</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2033,7 +2070,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path which has the LOCAL_VM_PEER peer type and the <a class="el" href="../../d0/dcc/classInterface.html">Interface</a> nexthop type. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00400">400</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00406">406</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2091,7 +2128,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with a specified <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00335">335</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00341">341</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2154,7 +2191,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds in the given route the path with a specified <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type and a specified nexthop type. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00355">355</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00361">361</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2201,7 +2238,7 @@ Here is the call graph for this function:</div>
 <p>Auxilliary functions. </p>
 <p>Returns new value of a local sequence. Thread safe version </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00048">48</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00054">54</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2257,7 +2294,7 @@ Here is the call graph for this function:</div>
 
 <p>Finds first occurence of a route with the given prefix (IP address and length) in Inet tables of bridge VRF instances connected to the given routing VRF instance (LR). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00139">139</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00145">145</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2268,7 +2305,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#ade7fb868c1f7a97fed965ec5ebf1f80a" title=" " alt="" coords="204,251,389,277"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="218,302,375,343"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="251,368,343,395"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="221,451,372,493"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="221,451,372,493"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="437,81,627,122"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="445,146,619,187"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="445,211,619,253"/>
@@ -2320,7 +2357,7 @@ Here is the call graph for this function:</div>
 
 <p>Handles routing routes (with <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) update in the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00778">778</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00780">780</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2341,7 +2378,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="429,226,599,253"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="431,278,597,319"/>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="443,344,585,370"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="439,110,589,151"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="439,110,589,151"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="451,176,577,202"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="655,248,829,290"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="655,314,829,355"/>
@@ -2383,7 +2420,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route has at least one path originating from BGP/XMPP (has <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> type BGP_PATH) </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00275">275</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00281">281</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2424,7 +2461,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given route has the path with a VRF nexthop (<a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00259">259</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00265">265</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2476,7 +2513,7 @@ Here is the call graph for this function:</div>
 <p>Routes leaking functions. </p>
 <p>Performs routes leaking between the Inet table of a bridge VRF instance and the EVPN table of the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00070">70</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00076">76</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2563,7 +2600,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts an IPv4 address string from the prefix string. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00077">77</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00083">83</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2593,7 +2630,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts length of IPv4 subnet address from the prefix string. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00066">66</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00072">72</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2623,7 +2660,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts an IPv6 address string from the prefix string. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00109">109</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00115">115</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2653,7 +2690,7 @@ Here is the call graph for this function:</div>
 
 <p>Extracts length of IPv6 subnet address from the prefix string. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00098">98</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00104">104</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2683,7 +2720,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the address string contains an IPv4 address as substring or not. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00057">57</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00063">63</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2713,7 +2750,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the address string contains an IPv6 address as substring or not. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00061">61</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00067">67</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2753,7 +2790,7 @@ Here is the call graph for this function:</div>
 <p>Determines whether the pointer to the VRF instance is of bridge type. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if it is routing, otherwise return value is false. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00311">311</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00317">317</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2793,7 +2830,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route points to a host or a subnet. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00194">194</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00200">200</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2844,7 +2881,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the prefix address and the prefix length point to a host route (/32 for IPv4, /128 for IPv6) or to a subnet route. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00186">186</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00192">192</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 
 </div>
 </div>
@@ -2874,7 +2911,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether the given EVPN route is a host one and belongs to a subnet of a local bridge VRF. During the search all subnets in all bridge VRF instances connected to the LR are traversed. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00201">201</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00207">207</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -2971,7 +3008,7 @@ Here is the call graph for this function:</div>
 <p>Checks whether the VRF instance with the given name is routing or not. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if this VRF is routing, otherwise return value is false. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00317">317</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00323">323</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3018,7 +3055,7 @@ Here is the call graph for this function:</div>
 <p>Determines whether the pointer to the VRF instance is of routing type. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if it is routing, otherwise return value is false. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00290">290</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00296">296</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3068,7 +3105,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines if the given EVPN route has an interface NH or a composite of interfaces NH that belongs to the given bridge VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00239">239</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00245">245</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3125,7 +3162,7 @@ Here is the call graph for this function:</div>
 
 <p>Checks whether VxLAN routing manager is enabled or not. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00128">128</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00134">134</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3168,7 +3205,7 @@ template&lt;class ItType &gt; </div>
 <p>Templates. </p>
 <p>Converts item's (EnetItemType for EVPN / ItemType for Inet) nexthops into the list of IP addresses (IpAddress) </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00004">4</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html#l00010">10</a> of file <a class="el" href="../../d7/d91/vxlan__templates_8cc_source.html">vxlan_templates.cc</a>.</p>
 
 </div>
 </div>
@@ -3218,7 +3255,7 @@ template&lt;class ItType &gt; </div>
 
 <p>Performs advertisement and deletion of routing routes (with <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) in bridge VRF instances. External tunnels and routes with a prefix that is not present in bridge VRF instance are selected for leaking. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00357">357</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00363">363</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3245,7 +3282,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d4/d3d/classAgentPath.html#a8bddfb5c69e2ce1bf8abd538cd2539b5" title=" " alt="" coords="262,1541,446,1568"/>
 <area shape="rect" href="../../d4/d3d/classAgentPath.html#a9357b002ec069ca7b033145217e437cb" title=" " alt="" coords="289,1592,419,1619"/>
 <area shape="rect" href="../../d4/d3d/classAgentPath.html#acc37fb460c971ac53eecc1ff0317dcd3" title=" " alt="" coords="287,1643,421,1669"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="279,326,429,367"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="279,326,429,367"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="291,1693,417,1720"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="534,115,669,141"/>
 <area shape="rect" href="../../d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title=" " alt="" coords="516,64,687,91"/>
@@ -3304,7 +3341,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints all virtual networks attached to logical routers. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00883">883</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00889">889</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3356,7 +3393,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the MAC address for the IP of a given neighbouring compute. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00407">407</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00413">413</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3418,7 +3455,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints EVPN table of the given VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00770">770</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00776">776</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3481,7 +3518,7 @@ Here is the call graph for this function:</div>
 
 <p>Prints IPv4 Inet table of the given VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00828">828</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00834">834</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3529,7 +3566,7 @@ Here is the call graph for this function:</div>
 
 <p>Registers handlers for events associated with changes in virtual networks (<a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a> class) and VRF instances (<a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a> class). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00359">359</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00361">361</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3618,7 +3655,7 @@ Here is the call graph for this function:</div>
 
 <p>Handler for changes (new/update/delete) in a route (EVPN or Inet). Main entry point for routes leaking. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00027">27</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00033">33</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3721,7 +3758,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and length. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00164">164</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00170">170</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3777,7 +3814,7 @@ Here is the call graph for this function:</div>
 
 <p>Determines whether route prefix of the Inet route is equal to the given pair of prefix IP address and length. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00175">175</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html#l00181">181</a> of file <a class="el" href="../../d8/d3e/vxlan__auxilliary_8cc_source.html">vxlan_auxilliary.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3819,7 +3856,7 @@ Here is the call graph for this function:</div>
 
 <p>A handler for changes (new/update/delete) in the virtual network from a routing VRF. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00625">625</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00627">627</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3863,7 +3900,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../df/d70/classDB.html#ae5bb653252e8540f1791da665c1a58b4" title=" " alt="" coords="948,1324,1081,1351"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="449,150,623,191"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="449,215,623,257"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="461,85,611,126"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="461,85,611,126"/>
 <area shape="rect" href="../../d1/d67/classVxlanRoutingVrfMapper.html#acc75098819fd6021097266266d98d30f" title="Walks given Inet tables (IPv4 and IPv6)." alt="" coords="456,333,616,374"/>
 <area shape="rect" href="../../db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title=" " alt="" coords="684,56,869,83"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="719,107,834,133"/>
@@ -3906,7 +3943,7 @@ Here is the call graph for this function:</div>
 
 <p>deletes all routes in EVPN table of routing VRF </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00558">558</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00560">560</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -3974,7 +4011,7 @@ Here is the call graph for this function:</div>
 
 <p>Unregisters handlers for events associated with changes in virtual networks (<a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a> class) and VRF instances (<a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a> class). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00376">376</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00378">378</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4029,7 +4066,7 @@ Here is the call graph for this function:</div>
 
 <p>Updates subnet routes (actually, paths with <a class="el" href="../../d8/da7/classVrfNH.html">VrfNH</a>) in the given bridge VRF. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00886">886</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00888">888</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4041,7 +4078,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="222,123,357,149"/>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="218,173,361,200"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="243,224,335,251"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="214,275,365,317"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="214,275,365,317"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="226,341,353,368"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="429,43,602,85"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="429,109,602,150"/>
@@ -4082,7 +4119,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the ID of the listener to changes in the <a class="el" href="../../d2/d73/classInterfaceTable.html">InterfaceTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00558">558</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00680">680</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -4114,7 +4151,7 @@ Here is the call graph for this function:</div>
 
 <p>Handler for changes (new/update/delete) in a VMI (<a class="el" href="../../d5/d21/classVmInterface.html">VmInterface</a> class). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00719">719</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00721">721</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4200,7 +4237,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the ID of the listener to changes in the <a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00548">548</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00670">670</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -4234,7 +4271,7 @@ Here is the call graph for this function:</div>
 <p>VNNotify Handles routing vrf i.e. VRF meant for doing evpn routing. Addition or deletion of same add/withdraws route imported from bridge vrf in routing vrf. Walk is issued for the routes of bridge vrf's evpn table.</p>
 <p>For bridge VRF, only delete of VN is handled here. Add has no operation as add of VN does not give any info on LR/Routing VRF to use. When delete is seen withdraw from the list of bridge list. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00396">396</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00398">398</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4268,7 +4305,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="984,1297,1157,1339"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="984,1363,1157,1404"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a0b9f72fec6f5454beb523e3680c75c00" title="Performs advertisement and deletion of routing routes (with VrfNH) in bridge VRF instances...." alt="" coords="972,1232,1169,1273"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="1262,969,1413,1011"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="1262,969,1413,1011"/>
 <area shape="rect" href="../../d1/d67/classVxlanRoutingVrfMapper.html#aa8311260908da6988c11bd4289673fea" title="Handles completion of route walk in the EVPN table of a routing VRF instance." alt="" coords="977,1049,1164,1091"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a739047a827ca148ceb30bc6d2cb27c0b" title="Deletes a given EVPN route from EVPN table of the routing VRF instance." alt="" coords="949,1115,1192,1156"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#acbec4b79373a009b950f3f837b9c6be8" title=" " alt="" coords="1243,1485,1432,1527"/>
@@ -4329,15 +4366,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Finds the vrf for the given virtual network. </p>
+<p>Finds a VRF table (<a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a>) for the given virtual network (VN). Returns nullptr if no VRF table associated with this VN or there is no <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> having the given name. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00927">927</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l01062">1062</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_abd0b4eca18ae02df55f01414acdad065_cgraph.png" border="0" usemap="#adc/d5b/classVxlanRoutingManager_abd0b4eca18ae02df55f01414acdad065_cgraph" alt=""/></div>
 <map name="adc/d5b/classVxlanRoutingManager_abd0b4eca18ae02df55f01414acdad065_cgraph" id="adc/d5b/classVxlanRoutingManager_abd0b4eca18ae02df55f01414acdad065_cgraph">
-<area shape="rect" title="Finds the vrf for the given virtual network." alt="" coords="5,74,156,115"/>
+<area shape="rect" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="5,74,156,115"/>
 <area shape="rect" href="../../db/d35/classVrfTable.html#a3f8ab6209c6d17674eb349c77b97fb90" title=" " alt="" coords="204,5,389,32"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="229,56,364,83"/>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#a779fa14b8203730f503138c255da518c" title=" " alt="" coords="239,107,354,133"/>
@@ -4373,7 +4410,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the ID of the listener to changes in the <a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00553">553</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00675">675</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -4402,7 +4439,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns the map between LR uuids and associated bridge and routing VRF instances. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00564">564</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00686">686</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -4433,9 +4470,9 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 
 <p>A handler for changes (new/update/delete) in a VRF instance (<a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> class). </p>
-<p>Updates (sets or deletes) <a class="el" href="../../d5/d70/structVxlanRoutingState.html" title="This state tracks inet and evpn table listeners. The state establishes link between Inet tables of a ...">VxlanRoutingState</a> for the given modified <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> </p>
+<p>Updates (sets or deletes) <a class="el" href="../../d5/d70/structVxlanRoutingState.html" title="This state tracks inet and EVPN table listeners. It establishes link between inet tables of a bridge ...">VxlanRoutingState</a> for the given modified <a class="el" href="../../d2/d3d/classVrfEntry.html">VrfEntry</a> </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00692">692</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html#l00694">694</a> of file <a class="el" href="../../d4/d9e/vxlan__routing__manager_8cc_source.html">vxlan_routing_manager.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4492,7 +4529,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns a pointer to the AgentRouteWalkerPtr object. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00569">569</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00691">691</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -4532,7 +4569,7 @@ Here is the call graph for this function:</div>
 
 <p>Handles deletion of a route in the EVPN table of the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00225">225</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00231">231</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4555,7 +4592,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="304,877,396,904"/>
 <area shape="rect" href="../../d4/d57/classAgentRoute.html#a75caf4090763ef7edc7295bc284616a2" title=" " alt="" coords="293,928,407,955"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="483,162,650,203"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="491,227,642,269"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="491,227,642,269"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="711,122,884,163"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="711,57,884,98"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="965,64,1131,91"/>
@@ -4616,7 +4653,7 @@ Here is the call graph for this function:</div>
 
 <p>Handles deletion of a route in the Inet table of the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00284">284</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00290">290</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4698,7 +4735,7 @@ Here is the call graph for this function:</div>
 
 <p>Deletes a given EVPN route from EVPN table of the routing VRF instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00329">329</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html#l00335">335</a> of file <a class="el" href="../../d9/de0/vxlan__routes__leaking_8cc_source.html">vxlan_routes_leaking.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -4798,13 +4835,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00224">224</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking occurs in the controller). </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00230">230</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph.png" border="0" usemap="#adc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph" alt=""/></div>
 <map name="adc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph" id="adc/d5b/classVxlanRoutingManager_ac7fbdbb21c4b22986991c9381abd8bb2_cgraph">
-<area shape="rect" title=" " alt="" coords="5,420,199,461"/>
+<area shape="rect" title="Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking..." alt="" coords="5,420,199,461"/>
 <area shape="rect" href="../../dd/d76/classCompositeNH.html#a28f271a0ae75a8f09440404832b34066" title=" " alt="" coords="286,5,463,47"/>
 <area shape="rect" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title=" " alt="" coords="299,71,451,112"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ae78066387bc3c3a13aad9801da7caceb" title="Extracts an IPv4 address string from the prefix string." alt="" coords="299,136,450,177"/>
@@ -4817,8 +4856,8 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title=" " alt="" coords="579,457,757,483"/>
 <area shape="rect" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title=" " alt="" coords="293,735,457,762"/>
 <area shape="rect" href="../../d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="599,862,737,889"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title=" " alt="" coords="247,996,503,1037"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title=" " alt="" coords="252,1331,497,1372"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the c..." alt="" coords="247,996,503,1037"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="252,1331,497,1372"/>
 <area shape="rect" href="../../dd/d76/classCompositeNH.html#a1fca442bdb4f869388da1990ff795736" title=" " alt="" coords="551,558,785,585"/>
 <area shape="rect" href="../../dd/d76/classCompositeNH.html#a6c7b88ddfd3655988f748f039fbe3ecd" title=" " alt="" coords="591,507,745,534"/>
 <area shape="rect" href="../../d4/dec/classNextHop.html#ad6150c04d06beebda47daa7109629305" title=" " alt="" coords="860,609,991,635"/>
@@ -4927,13 +4966,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00177">177</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the controller (this routes leaking occurs in the controller). </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00183">183</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph.png" border="0" usemap="#adc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph" alt=""/></div>
 <map name="adc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph" id="adc/d5b/classVxlanRoutingManager_a924fd6bf235c330981d58be6166345b7_cgraph">
-<area shape="rect" title=" " alt="" coords="5,180,261,221"/>
+<area shape="rect" title="Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the c..." alt="" coords="5,180,261,221"/>
 <area shape="rect" href="../../de/d8b/classEvpnAgentRouteTable.html#a551f841c60c21501f6a5d939678ad16e" title=" " alt="" coords="315,49,489,91"/>
 <area shape="rect" href="../../de/d8b/classEvpnAgentRouteTable.html#a628e5bae4588d5add39a09e27a4ab5dc" title=" " alt="" coords="314,115,490,156"/>
 <area shape="rect" href="../../df/d05/classControllerEcmpRoute.html#ae9fc54c8e8c78fe8d0b812a619f195a1" title=" " alt="" coords="323,180,481,221"/>
@@ -5023,13 +5064,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00127">127</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p>Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller (this routes leaking occurs in the controller). </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00133">133</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../dc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph.png" border="0" usemap="#adc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph" alt=""/></div>
 <map name="adc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph" id="adc/d5b/classVxlanRoutingManager_a65c644328cadbe356b1c62257c1bd7d9_cgraph">
-<area shape="rect" title=" " alt="" coords="5,327,251,369"/>
+<area shape="rect" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="5,327,251,369"/>
 <area shape="rect" href="../../d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="325,107,487,133"/>
 <area shape="rect" href="../../d5/d21/classVmInterface.html#ac9a484dacd7e9a5646c60b43eab6bf5b" title=" " alt="" coords="300,183,512,209"/>
 <area shape="rect" href="../../de/d30/classInterfaceNH.html#a7539e940158cd5a7a04599765aabbf3c" title=" " alt="" coords="329,233,483,260"/>
@@ -5121,7 +5164,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the EVPN table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00311">311</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00317">317</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5132,7 +5175,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title=" " alt="" coords="569,2081,721,2122"/>
 <area shape="rect" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title=" " alt="" coords="563,1486,727,1512"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="283,2146,441,2188"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title=" " alt="" coords="265,1660,459,1701"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title="Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking..." alt="" coords="265,1660,459,1701"/>
 <area shape="rect" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title=" " alt="" coords="549,926,741,968"/>
 <area shape="rect" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title=" " alt="" coords="552,538,739,564"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="860,24,995,51"/>
@@ -5175,8 +5218,8 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not." alt="" coords="570,1689,721,1730"/>
 <area shape="rect" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title=" " alt="" coords="551,1536,740,1563"/>
 <area shape="rect" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title=" " alt="" coords="838,1638,1017,1664"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title=" " alt="" coords="517,1068,773,1109"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title=" " alt="" coords="523,224,768,265"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the c..." alt="" coords="517,1068,773,1109"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="523,224,768,265"/>
 </map>
 </div>
 
@@ -5248,7 +5291,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises an EVPN route received using XMPP channel. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00043">43</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00049">49</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5268,7 +5311,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../de/d8b/classEvpnAgentRouteTable.html#a5c745c67753bab298ac736572cc92006" title=" " alt="" coords="801,1357,953,1398"/>
 <area shape="rect" href="../../d2/dea/vxlan__xmpp__routes_8cc.html#a64139156d33091f532e1c92b41b9ad51" title=" " alt="" coords="795,157,959,184"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="515,1422,673,1463"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title=" " alt="" coords="497,970,691,1011"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ac7fbdbb21c4b22986991c9381abd8bb2" title="Advertises in an EVPN routing table a BGPaaS route that came from the controller (this routes leaking..." alt="" coords="497,970,691,1011"/>
 <area shape="rect" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a9b10f0804ebbf94af8ae7930f6851082" title=" " alt="" coords="781,679,973,721"/>
 <area shape="rect" href="../../d8/d3e/vxlan__auxilliary_8cc.html#a187714201721e1fa4a4b67750300d991" title=" " alt="" coords="784,461,971,488"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="1082,472,1217,499"/>
@@ -5295,8 +5338,8 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#ae22b55ca5a8e2fd54029c3b7bc51b3a3" title="Determines whether the address string contains an IPv6 address as substring or not." alt="" coords="802,1291,953,1333"/>
 <area shape="rect" href="../../d7/d91/vxlan__templates_8cc.html#a6646c884088852fcd668b438bf88a2ce" title=" " alt="" coords="783,1189,972,1216"/>
 <area shape="rect" href="../../d7/d91/vxlan__templates_8cc.html#ae04f488f15b68ba55508026889f16e22" title=" " alt="" coords="1060,1007,1239,1033"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title=" " alt="" coords="749,1123,1005,1165"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title=" " alt="" coords="755,614,1000,655"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a924fd6bf235c330981d58be6166345b7" title="Advertises in an EVPN routing table a BGPaaS route with interface composite path that came from the c..." alt="" coords="749,1123,1005,1165"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a65c644328cadbe356b1c62257c1bd7d9" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="755,614,1000,655"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a98a4e38c737d40939b1fe27f12275913" title="XMPP Advertising functions." alt="" coords="499,1758,689,1799"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#ae7a09205339edcfbc430d239d2e74ed1" title=" " alt="" coords="798,1707,957,1733"/>
 <area shape="rect" href="../../d1/d05/classControllerVmRoute.html#abf722fc3652777c4dbc56babc91ee46a" title=" " alt="" coords="512,1641,676,1682"/>
@@ -5375,7 +5418,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the EVPN table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00089">89</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00095">95</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5487,7 +5530,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the Inet table an interface route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00378">378</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00384">384</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5523,7 +5566,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#ade7fb868c1f7a97fed965ec5ebf1f80a" title=" " alt="" coords="695,401,881,428"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="709,453,867,494"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="742,519,834,545"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="713,570,863,611"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="713,570,863,611"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="947,238,1136,279"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="955,303,1128,345"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="955,369,1128,410"/>
@@ -5596,7 +5639,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises an Inet route received from EVPN table. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00066">66</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00072">72</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5642,7 +5685,7 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="../../d8/d00/classVnEntry.html#ade7fb868c1f7a97fed965ec5ebf1f80a" title=" " alt="" coords="919,328,1105,355"/>
 <area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="933,379,1091,421"/>
 <area shape="rect" href="../../d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="966,445,1058,472"/>
-<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="937,107,1087,149"/>
+<area shape="rect" href="../../dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="937,107,1087,149"/>
 <area shape="rect" href="../../da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="1171,339,1360,381"/>
 <area shape="rect" href="../../d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title=" " alt="" coords="1411,347,1570,373"/>
 <area shape="rect" href="../../d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="1183,405,1347,446"/>
@@ -5773,7 +5816,7 @@ Here is the call graph for this function:</div>
 
 <p>Advertises in the Inet table a tunnel route that arrived via XMPP channel. Must be called only from XmppAdvertiseInetRoute. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00348">348</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html#l00354">354</a> of file <a class="el" href="../../d2/dea/vxlan__xmpp__routes_8cc_source.html">vxlan_xmpp_routes.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -5925,7 +5968,7 @@ Here is the call graph for this function:</div>
 
 <p>Allows <a class="el" href="../../da/d25/classAgentXmppChannel.html">AgentXmppChannel</a> to use private members of this class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00618">618</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00740">740</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -5951,7 +5994,7 @@ Here is the call graph for this function:</div>
 
 <p>Allows access to Xmpp advertisement functions via external class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00621">621</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00743">743</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -5977,7 +6020,7 @@ Here is the call graph for this function:</div>
 
 <p>Allows <a class="el" href="../../df/d05/classControllerEcmpRoute.html">ControllerEcmpRoute</a> to use private members of this class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00615">615</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00737">737</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6003,7 +6046,7 @@ Here is the call graph for this function:</div>
 
 <p>Allows <a class="el" href="../../db/d96/classMetadataProxy.html">MetadataProxy</a> to use private members of this class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00628">628</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00750">750</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6030,7 +6073,7 @@ Here is the call graph for this function:</div>
 <p>Friends declarations. </p>
 <p>Allows access to private members for the <a class="el" href="../../d4/d22/classVxlanRoutingRouteWalker.html" title="Listens to Inet routes in a bridge VRF instance. Started when l3vrf is added/deleted or when a bridge...">VxlanRoutingRouteWalker</a> class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00612">612</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00734">734</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6054,9 +6097,9 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Allows <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="The class is used to store following information:">VxlanRoutingVrfMapper</a> to use private members of this class. </p>
+<p>Allows <a class="el" href="../../d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical...">VxlanRoutingVrfMapper</a> to use private members of this class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00625">625</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00747">747</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6083,7 +6126,7 @@ Here is the call graph for this function:</div>
 
 <p>A pointer to the <a class="el" href="../../d8/dfe/classAgent.html">Agent</a> instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00585">585</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00707">707</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6109,7 +6152,7 @@ Here is the call graph for this function:</div>
 
 <p>An always increasing counter for new paths (used to signal controoler about new routes). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00606">606</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00728">728</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6136,7 +6179,7 @@ Here is the call graph for this function:</div>
 <p>Internal data of this class. </p>
 <p>A pointer to the <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> where all interface / composite of interfaces routes in routing VRF are linked to. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00579">579</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00701">701</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6162,7 +6205,7 @@ Here is the call graph for this function:</div>
 
 <p>A pointer to the <a class="el" href="../../d6/dd4/classPeer.html">Peer</a> where all BGP routes are stored. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00582">582</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00704">704</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6188,7 +6231,7 @@ Here is the call graph for this function:</div>
 
 <p>An ID of the listener to changes in <a class="el" href="../../d2/d73/classInterfaceTable.html">InterfaceTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00598">598</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00720">720</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6214,7 +6257,7 @@ Here is the call graph for this function:</div>
 
 <p>An ID of the listener to changes in <a class="el" href="../../d2/d5c/classVnTable.html">VnTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00592">592</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00714">714</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6240,7 +6283,7 @@ Here is the call graph for this function:</div>
 
 <p>An ID of the listener to changes in <a class="el" href="../../db/d35/classVrfTable.html">VrfTable</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00595">595</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00717">717</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6266,7 +6309,7 @@ Here is the call graph for this function:</div>
 
 <p>A map between LR uuids and associated bridge and routing VRF instances. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00602">602</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00724">724</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>
@@ -6292,7 +6335,7 @@ Here is the call graph for this function:</div>
 
 <p>A pointer to the walker to loop over INET tables in bridge VRF instances. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00589">589</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html#l00711">711</a> of file <a class="el" href="../../d7/de6/vxlan__routing__manager_8h_source.html">vxlan_routing_manager.h</a>.</p>
 
 </div>
 </div>

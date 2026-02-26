@@ -39,7 +39,7 @@
 <area shape="rect" id="node31" href="$d8/d00/classVnEntry.html#ade7fb868c1f7a97fed965ec5ebf1f80a" title=" " alt="" coords="919,328,1105,355"/>
 <area shape="rect" id="node32" href="$dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50" title="Determines whether route prefix in the EVPN route is equal to the given pair of prefix IP address and..." alt="" coords="933,379,1091,421"/>
 <area shape="rect" id="node35" href="$d2/d3d/classVrfEntry.html#addefcb31a754a8333b9782543acdc436" title=" " alt="" coords="966,445,1058,472"/>
-<area shape="rect" id="node36" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="937,107,1087,149"/>
+<area shape="rect" id="node36" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="937,107,1087,149"/>
 <area shape="rect" id="node29" href="$da/dcd/classInetUnicastAgentRouteTable.html#a7d8adf54c497f1c2b6ebcbae49516f38" title=" " alt="" coords="1171,339,1360,381"/>
 <area shape="rect" id="node30" href="$d2/d5e/classPatricia_1_1Tree.html#a1ef5a56898144cf874615ba06d90d9df" title=" " alt="" coords="1411,347,1570,373"/>
 <area shape="rect" id="node33" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="1183,405,1347,446"/>

@@ -14,7 +14,7 @@
 <area shape="rect" id="node12" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="429,226,599,253"/>
 <area shape="rect" id="node13" href="$d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="431,278,597,319"/>
 <area shape="rect" id="node18" href="$d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="443,344,585,370"/>
-<area shape="rect" id="node19" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="439,110,589,151"/>
+<area shape="rect" id="node19" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="439,110,589,151"/>
 <area shape="rect" id="node25" href="$d2/d3d/classVrfEntry.html#acdcd21c48fb64784997144358c97f2ac" title=" " alt="" coords="451,176,577,202"/>
 <area shape="rect" id="node14" href="$d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="655,248,829,290"/>
 <area shape="rect" id="node17" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="655,314,829,355"/>

@@ -1,6 +1,6 @@
 <map id="VxlanRoutingManager" name="VxlanRoutingManager">
-<area shape="rect" id="node1" title="This class manages routes leaking between bridge VRF instances and the routing VRF instance...." alt="" coords="983,64,1133,91"/>
-<area shape="rect" id="node50" href="$d1/d67/classVxlanRoutingVrfMapper.html" title="The class is used to store following information:" alt="" coords="1265,64,1425,91"/>
+<area shape="rect" id="node1" title="This class manages an operative state of VxLAN logical routers (LR) defined via Config logical&#45;router..." alt="" coords="983,64,1133,91"/>
+<area shape="rect" id="node50" href="$d1/d67/classVxlanRoutingVrfMapper.html" title="This class is a storage for operative state of VxLAN logical routers (LRs) defined via Config logical..." alt="" coords="1265,64,1425,91"/>
 <area shape="rect" id="node2" href="$d6/dd4/classPeer.html" title=" " alt="" coords="545,47,593,73"/>
 <area shape="rect" id="node3" title=" " alt="" coords="26,201,81,228"/>
 <area shape="rect" id="node4" href="$d8/dfe/classAgent.html" title=" " alt="" coords="701,1235,757,1261"/>

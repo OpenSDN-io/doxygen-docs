@@ -1,5 +1,5 @@
 <map id="VxlanRoutingManager::XmppAdvertiseEvpnBgpaasInterface" name="VxlanRoutingManager::XmppAdvertiseEvpnBgpaasInterface">
-<area shape="rect" id="node1" title=" " alt="" coords="5,327,251,369"/>
+<area shape="rect" id="node1" title="Advertises in an EVPN routing table a BGPaaS route with interface path that came from the controller ..." alt="" coords="5,327,251,369"/>
 <area shape="rect" id="node2" href="$d7/df2/classDBTableBase.html#a1b8bb5fe5c7b5e8a65dbca701d5f1c94" title=" " alt="" coords="325,107,487,133"/>
 <area shape="rect" id="node7" href="$d5/d21/classVmInterface.html#ac9a484dacd7e9a5646c60b43eab6bf5b" title=" " alt="" coords="300,183,512,209"/>
 <area shape="rect" id="node9" href="$de/d30/classInterfaceNH.html#a7539e940158cd5a7a04599765aabbf3c" title=" " alt="" coords="329,233,483,260"/>

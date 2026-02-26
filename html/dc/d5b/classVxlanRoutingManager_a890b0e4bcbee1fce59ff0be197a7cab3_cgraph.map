@@ -5,7 +5,7 @@
 <area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#ab656a1d71a15ac1e66e2173e18b0e97a" title=" " alt="" coords="215,317,382,358"/>
 <area shape="rect" id="node21" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="231,383,366,409"/>
 <area shape="rect" id="node22" href="$d8/d00/classVnEntry.html#a77449d4788e2922e85f973dc48f148e5" title=" " alt="" coords="227,433,370,460"/>
-<area shape="rect" id="node23" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="223,99,374,141"/>
+<area shape="rect" id="node23" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="223,99,374,141"/>
 <area shape="rect" id="node3" href="$d8/dfe/classAgent.html#ab8529257124b8dcc9273d1d77c26111b" title=" " alt="" coords="467,157,601,184"/>
 <area shape="rect" id="node4" href="$d1/d16/inet__unicast__route_8cc.html#a8de5bcd23e442dcb01687eefb822fca8" title=" " alt="" coords="449,208,619,235"/>
 <area shape="rect" id="node14" href="$dc/d2b/classAgentRouteTable.html#a22fc5e10c461d89cea22c28a54328266" title=" " alt="" coords="441,259,627,285"/>

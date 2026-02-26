@@ -4,7 +4,7 @@
 <area shape="rect" id="node5" href="$d2/d3d/classVrfEntry.html#a755e8f9ec9cce7cb1e73dac9cfda381b" title=" " alt="" coords="999,129,1172,170"/>
 <area shape="rect" id="node6" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="999,258,1172,300"/>
 <area shape="rect" id="node7" href="$dc/d5b/classVxlanRoutingManager.html#a0b9f72fec6f5454beb523e3680c75c00" title="Performs advertisement and deletion of routing routes (with VrfNH) in bridge VRF instances...." alt="" coords="236,1072,433,1113"/>
-<area shape="rect" id="node37" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds the vrf for the given virtual network." alt="" coords="532,136,683,177"/>
+<area shape="rect" id="node37" href="$dc/d5b/classVxlanRoutingManager.html#abd0b4eca18ae02df55f01414acdad065" title="Finds a VRF table (VrfEntry) for the given virtual network (VN). Returns nullptr if no VRF table asso..." alt="" coords="532,136,683,177"/>
 <area shape="rect" id="node42" href="$d1/d67/classVxlanRoutingVrfMapper.html#aa8311260908da6988c11bd4289673fea" title="Handles completion of route walk in the EVPN table of a routing VRF instance." alt="" coords="241,1137,428,1178"/>
 <area shape="rect" id="node43" href="$d5/d0a/classDBTable.html#a000743f5b39b3e1fc06dbc9f443b8ffa" title=" " alt="" coords="263,1823,406,1850"/>
 <area shape="rect" id="node47" href="$dc/d5b/classVxlanRoutingManager.html#a739047a827ca148ceb30bc6d2cb27c0b" title="Deletes a given EVPN route from EVPN table of the routing VRF instance." alt="" coords="213,352,456,393"/>
