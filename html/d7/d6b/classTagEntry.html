@@ -138,14 +138,14 @@ Public Types</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">SITE</a> = 4
 , <a class="el" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">NEUTRON_FWAAS</a> = 5
-, <a class="el" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a69b60474043c0c9f8619a111a9628cd7">INVALID</a> = 0xFFFFFFFF
+, <a class="el" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a69b60474043c0c9f8619a111a9628cd7">INVALID</a> = 0xFFFFFFFFFFFF
 <br />
  }</td></tr>
 <tr class="separator:a3b6999edc2b48769e7576ed9eb0fff61"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55c39f7c6e1ced207a910ac99056b0d3"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; uint32_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a55c39f7c6e1ced207a910ac99056b0d3">TagIdNameMap</a></td></tr>
-<tr class="separator:a55c39f7c6e1ced207a910ac99056b0d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b189aca87f50ec075f4bf619e23404c"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; uint32_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a8b189aca87f50ec075f4bf619e23404c">TagIdNamePair</a></td></tr>
-<tr class="separator:a8b189aca87f50ec075f4bf619e23404c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcd170af0fa4bac5bc78536e868a31f4"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; uint64_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#afcd170af0fa4bac5bc78536e868a31f4">TagIdNameMap</a></td></tr>
+<tr class="separator:afcd170af0fa4bac5bc78536e868a31f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefd7cd7ebd9c0adbeb9f3a9152b1ab0d"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; uint64_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#aefd7cd7ebd9c0adbeb9f3a9152b1ab0d">TagIdNamePair</a></td></tr>
+<tr class="separator:aefd7cd7ebd9c0adbeb9f3a9152b1ab0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8f1b2a9850faf31a5d7549abcc2c75df"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../de/d9e/agent_8h.html#ab9ea3f97a3325debd3935052ae3b70aa">PolicySetRef</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a8f1b2a9850faf31a5d7549abcc2c75df">PolicySetList</a></td></tr>
 <tr class="separator:a8f1b2a9850faf31a5d7549abcc2c75df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_types_classAgentDBEntry"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classAgentDBEntry')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../db/d89/classAgentDBEntry.html">AgentDBEntry</a></td></tr>
@@ -179,8 +179,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a68e5a73ac90ad93feab9f094dddf3c7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6bd76841785e571d2c583799a131906b"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../dc/dbd/policy__config__spec_8h.html#a48ee1bc5880e8af422e6f9cf40eb11dc">boost::uuids::uuid</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a6bd76841785e571d2c583799a131906b">tag_uuid</a> () const</td></tr>
 <tr class="separator:a6bd76841785e571d2c583799a131906b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b5e234f861ec99e0df3ee393e4b7fbb"><td class="memItemLeft" align="right" valign="top">const uint32_t &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a0b5e234f861ec99e0df3ee393e4b7fbb">tag_id</a> () const</td></tr>
-<tr class="separator:a0b5e234f861ec99e0df3ee393e4b7fbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca46f3e5b45cc5d82c87a9899ac2976f"><td class="memItemLeft" align="right" valign="top">const uint64_t &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#aca46f3e5b45cc5d82c87a9899ac2976f">tag_id</a> () const</td></tr>
+<tr class="separator:aca46f3e5b45cc5d82c87a9899ac2976f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ace40760b88295c84eb89ca8773d5ae2c"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d7/d6b/classTagEntry.html#a8f1b2a9850faf31a5d7549abcc2c75df">PolicySetList</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#ace40760b88295c84eb89ca8773d5ae2c">policy_set_list</a> () const</td></tr>
 <tr class="separator:ace40760b88295c84eb89ca8773d5ae2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7818026174b59641f662a29b1d764f9a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a7818026174b59641f662a29b1d764f9a">IsApplicationTag</a> () const</td></tr>
@@ -189,8 +189,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa7f8d61fce1dce08ed2f92fb95225298"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c5f9784562a4fb7559b33cd9cf9b976"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a7c5f9784562a4fb7559b33cd9cf9b976">name</a> () const</td></tr>
 <tr class="separator:a7c5f9784562a4fb7559b33cd9cf9b976"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a028a46a88f25a23e1a21f8a53e47f0bd"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a028a46a88f25a23e1a21f8a53e47f0bd">tag_type</a> () const</td></tr>
-<tr class="separator:a028a46a88f25a23e1a21f8a53e47f0bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f8016de907e25cffec9f79919cd71ff"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a7f8016de907e25cffec9f79919cd71ff">tag_type</a> () const</td></tr>
+<tr class="separator:a7f8016de907e25cffec9f79919cd71ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a064b7caf3c50bfbc59dffae52b055c91"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a064b7caf3c50bfbc59dffae52b055c91">tag_value</a> () const</td></tr>
 <tr class="separator:a064b7caf3c50bfbc59dffae52b055c91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classAgentOperDBEntry"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classAgentOperDBEntry')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/ddb/classAgentOperDBEntry.html">AgentOperDBEntry</a></td></tr>
@@ -296,19 +296,19 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ac871343ae3237ab13c3f576b8309645d"><td class="memItemLeft" align="right" valign="top">static const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#ac871343ae3237ab13c3f576b8309645d">GetTypeStr</a> (uint32_t <a class="el" href="../../d7/d6b/classTagEntry.html#a028a46a88f25a23e1a21f8a53e47f0bd">tag_type</a>)</td></tr>
-<tr class="separator:ac871343ae3237ab13c3f576b8309645d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3363c042c1964d776acd5eeabd7b4506"><td class="memItemLeft" align="right" valign="top">static uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a3363c042c1964d776acd5eeabd7b4506">GetTypeVal</a> (const std::string &amp;str, const std::string &amp;val)</td></tr>
-<tr class="separator:a3363c042c1964d776acd5eeabd7b4506"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f400cff2db48d7ffe7f2f5cf407fb04"><td class="memItemLeft" align="right" valign="top">static const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a9f400cff2db48d7ffe7f2f5cf407fb04">GetTypeStr</a> (uint64_t <a class="el" href="../../d7/d6b/classTagEntry.html#a7f8016de907e25cffec9f79919cd71ff">tag_type</a>)</td></tr>
+<tr class="separator:a9f400cff2db48d7ffe7f2f5cf407fb04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf0abe4b26f336654f85ad97564a2748"><td class="memItemLeft" align="right" valign="top">static uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#abf0abe4b26f336654f85ad97564a2748">GetTypeVal</a> (const std::string &amp;str, const std::string &amp;val)</td></tr>
+<tr class="separator:abf0abe4b26f336654f85ad97564a2748"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
-<tr class="memitem:acfab7012569944d7ebce54abaac4d15e"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#acfab7012569944d7ebce54abaac4d15e">kInvalidTagId</a> = 0xFFFFFFFF</td></tr>
-<tr class="separator:acfab7012569944d7ebce54abaac4d15e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5677a5645844d0414b7a953b0aa8293f"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a5677a5645844d0414b7a953b0aa8293f">kTagTypeBitShift</a> = 16</td></tr>
+<tr class="memitem:a61c148652e8fbb0ccc38f9b2526244bb"><td class="memItemLeft" align="right" valign="top">static const uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a61c148652e8fbb0ccc38f9b2526244bb">kInvalidTagId</a> = 0xFFFFFFFFFFFF</td></tr>
+<tr class="separator:a61c148652e8fbb0ccc38f9b2526244bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5677a5645844d0414b7a953b0aa8293f"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a5677a5645844d0414b7a953b0aa8293f">kTagTypeBitShift</a> = 32</td></tr>
 <tr class="separator:a5677a5645844d0414b7a953b0aa8293f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f82f55b6e2741e5033531a2c6422d0f"><td class="memItemLeft" align="right" valign="top">static const std::map&lt; uint32_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a0f82f55b6e2741e5033531a2c6422d0f">TagTypeStr</a></td></tr>
-<tr class="separator:a0f82f55b6e2741e5033531a2c6422d0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32454fa2d66349ca9f276bcc9406bd17"><td class="memItemLeft" align="right" valign="top">static const std::map&lt; uint64_t, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a32454fa2d66349ca9f276bcc9406bd17">TagTypeStr</a></td></tr>
+<tr class="separator:a32454fa2d66349ca9f276bcc9406bd17"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -332,10 +332,10 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:aa6969422035a781e836441c8e495b031"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dbd/policy__config__spec_8h.html#a48ee1bc5880e8af422e6f9cf40eb11dc">boost::uuids::uuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#aa6969422035a781e836441c8e495b031">tag_uuid_</a></td></tr>
 <tr class="separator:aa6969422035a781e836441c8e495b031"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af16b9f863d1419ca737f1b1466c3bec8"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#af16b9f863d1419ca737f1b1466c3bec8">tag_id_</a></td></tr>
-<tr class="separator:af16b9f863d1419ca737f1b1466c3bec8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac174dd61edc7b114e1183618966d9e8"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#aac174dd61edc7b114e1183618966d9e8">tag_type_</a></td></tr>
-<tr class="separator:aac174dd61edc7b114e1183618966d9e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35c26cbf3b5084725ba7b583ab8fa098"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a35c26cbf3b5084725ba7b583ab8fa098">tag_id_</a></td></tr>
+<tr class="separator:a35c26cbf3b5084725ba7b583ab8fa098"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abffaf2583b56c1a58cf7ecb52a648cfa"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#abffaf2583b56c1a58cf7ecb52a648cfa">tag_type_</a></td></tr>
+<tr class="separator:abffaf2583b56c1a58cf7ecb52a648cfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8c3d9719977dcad3fb3ee08a748fab28"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a8c3d9719977dcad3fb3ee08a748fab28">tag_value_</a></td></tr>
 <tr class="separator:a8c3d9719977dcad3fb3ee08a748fab28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac60ba0b5f21bde7c070c14fddfcbfb5a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#ac60ba0b5f21bde7c070c14fddfcbfb5a">name_</a></td></tr>
@@ -379,14 +379,14 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a55c39f7c6e1ced207a910ac99056b0d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55c39f7c6e1ced207a910ac99056b0d3">&#9670;&nbsp;</a></span>TagIdNameMap</h2>
+<a id="afcd170af0fa4bac5bc78536e868a31f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afcd170af0fa4bac5bc78536e868a31f4">&#9670;&nbsp;</a></span>TagIdNameMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;uint32_t, std::string&gt; <a class="el" href="../../d7/d6b/classTagEntry.html#a55c39f7c6e1ced207a910ac99056b0d3">TagEntry::TagIdNameMap</a></td>
+          <td class="memname">typedef std::map&lt;uint64_t, std::string&gt; <a class="el" href="../../d7/d6b/classTagEntry.html#afcd170af0fa4bac5bc78536e868a31f4">TagEntry::TagIdNameMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -395,14 +395,14 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a8b189aca87f50ec075f4bf619e23404c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8b189aca87f50ec075f4bf619e23404c">&#9670;&nbsp;</a></span>TagIdNamePair</h2>
+<a id="aefd7cd7ebd9c0adbeb9f3a9152b1ab0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aefd7cd7ebd9c0adbeb9f3a9152b1ab0d">&#9670;&nbsp;</a></span>TagIdNamePair</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::pair&lt;uint32_t, std::string&gt; <a class="el" href="../../d7/d6b/classTagEntry.html#a8b189aca87f50ec075f4bf619e23404c">TagEntry::TagIdNamePair</a></td>
+          <td class="memname">typedef std::pair&lt;uint64_t, std::string&gt; <a class="el" href="../../d7/d6b/classTagEntry.html#aefd7cd7ebd9c0adbeb9f3a9152b1ab0d">TagEntry::TagIdNamePair</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -528,9 +528,9 @@ Here is the call graph for this function:</div>
 <map name="ad7/d6b/classTagEntry_a585ee9f754b1d2b547cbcd9cae7ceff1_cgraph" id="ad7/d6b/classTagEntry_a585ee9f754b1d2b547cbcd9cae7ceff1_cgraph">
 <area shape="rect" title=" " alt="" coords="5,115,132,141"/>
 <area shape="rect" href="../../db/d09/classAgentDBTable.html#ab4d1cd12785d6f21a32711ea8294847a" title=" " alt="" coords="194,5,341,32"/>
-<area shape="rect" href="../../d9/de6/classTagTable.html#ae570b75a4b6ea9dff130cf876acd9714" title=" " alt="" coords="209,56,325,83"/>
+<area shape="rect" href="../../d9/de6/classTagTable.html#abd069d7b911ff0596e6d851e03001592" title=" " alt="" coords="209,56,325,83"/>
 <area shape="rect" href="../../db/d09/classAgentDBTable.html#a224ced1237aec89a4fb72dd3b0f5be13" title=" " alt="" coords="180,107,355,149"/>
-<area shape="rect" href="../../d9/de6/classTagTable.html#a7221d014e29f9645e8407a7f25c8cc49" title=" " alt="" coords="209,173,325,200"/>
+<area shape="rect" href="../../d9/de6/classTagTable.html#ab25a8341016fee22a74c37cd1a0c0958" title=" " alt="" coords="209,173,325,200"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#af2b4ac2fb27631d11cf8fc7f296569a0" title=" " alt="" coords="188,224,347,251"/>
 <area shape="rect" href="../../db/d09/classAgentDBTable.html#a863d5f6db0f0a72f6e9863b5431748d8" title=" " alt="" coords="414,93,553,120"/>
 <area shape="rect" href="../../db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f" title=" " alt="" coords="403,144,564,171"/>
@@ -683,8 +683,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="ac871343ae3237ab13c3f576b8309645d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac871343ae3237ab13c3f576b8309645d">&#9670;&nbsp;</a></span>GetTypeStr()</h2>
+<a id="a9f400cff2db48d7ffe7f2f5cf407fb04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f400cff2db48d7ffe7f2f5cf407fb04">&#9670;&nbsp;</a></span>GetTypeStr()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -695,7 +695,7 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname">const std::string &amp; TagEntry::GetTypeStr </td>
           <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramtype">uint64_t&#160;</td>
           <td class="paramname"><em>tag_type</em></td><td>)</td>
           <td></td>
         </tr>
@@ -711,8 +711,8 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../d7/d6b/classTagEntry_ac871343ae3237ab13c3f576b8309645d_cgraph.png" border="0" usemap="#ad7/d6b/classTagEntry_ac871343ae3237ab13c3f576b8309645d_cgraph" alt=""/></div>
-<map name="ad7/d6b/classTagEntry_ac871343ae3237ab13c3f576b8309645d_cgraph" id="ad7/d6b/classTagEntry_ac871343ae3237ab13c3f576b8309645d_cgraph">
+<div class="center"><img src="../../d7/d6b/classTagEntry_a9f400cff2db48d7ffe7f2f5cf407fb04_cgraph.png" border="0" usemap="#ad7/d6b/classTagEntry_a9f400cff2db48d7ffe7f2f5cf407fb04_cgraph" alt=""/></div>
+<map name="ad7/d6b/classTagEntry_a9f400cff2db48d7ffe7f2f5cf407fb04_cgraph" id="ad7/d6b/classTagEntry_a9f400cff2db48d7ffe7f2f5cf407fb04_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,153,32"/>
 <area shape="rect" href="../../d8/dfe/classAgent.html#a92f5766706070ebced378dc1b31ff049" title=" " alt="" coords="201,5,323,32"/>
 </map>
@@ -720,8 +720,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a3363c042c1964d776acd5eeabd7b4506"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3363c042c1964d776acd5eeabd7b4506">&#9670;&nbsp;</a></span>GetTypeVal()</h2>
+<a id="abf0abe4b26f336654f85ad97564a2748"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf0abe4b26f336654f85ad97564a2748">&#9670;&nbsp;</a></span>GetTypeVal()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -730,7 +730,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t TagEntry::GetTypeVal </td>
+          <td class="memname">uint64_t TagEntry::GetTypeVal </td>
           <td>(</td>
           <td class="paramtype">const std::string &amp;&#160;</td>
           <td class="paramname"><em>str</em>, </td>
@@ -910,8 +910,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a0b5e234f861ec99e0df3ee393e4b7fbb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b5e234f861ec99e0df3ee393e4b7fbb">&#9670;&nbsp;</a></span>tag_id()</h2>
+<a id="aca46f3e5b45cc5d82c87a9899ac2976f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca46f3e5b45cc5d82c87a9899ac2976f">&#9670;&nbsp;</a></span>tag_id()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -920,7 +920,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const uint32_t&amp; TagEntry::tag_id </td>
+          <td class="memname">const uint64_t&amp; TagEntry::tag_id </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -937,8 +937,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a028a46a88f25a23e1a21f8a53e47f0bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a028a46a88f25a23e1a21f8a53e47f0bd">&#9670;&nbsp;</a></span>tag_type()</h2>
+<a id="a7f8016de907e25cffec9f79919cd71ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f8016de907e25cffec9f79919cd71ff">&#9670;&nbsp;</a></span>tag_type()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -947,7 +947,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t TagEntry::tag_type </td>
+          <td class="memname">uint64_t TagEntry::tag_type </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -1073,8 +1073,8 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="acfab7012569944d7ebce54abaac4d15e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfab7012569944d7ebce54abaac4d15e">&#9670;&nbsp;</a></span>kInvalidTagId</h2>
+<a id="a61c148652e8fbb0ccc38f9b2526244bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61c148652e8fbb0ccc38f9b2526244bb">&#9670;&nbsp;</a></span>kInvalidTagId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1083,7 +1083,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const uint32_t TagEntry::kInvalidTagId = 0xFFFFFFFF</td>
+          <td class="memname">const uint64_t TagEntry::kInvalidTagId = 0xFFFFFFFFFFFF</td>
         </tr>
       </table>
   </td>
@@ -1107,7 +1107,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const uint32_t TagEntry::kTagTypeBitShift = 16</td>
+          <td class="memname">const uint32_t TagEntry::kTagTypeBitShift = 32</td>
         </tr>
       </table>
   </td>
@@ -1169,8 +1169,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="af16b9f863d1419ca737f1b1466c3bec8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af16b9f863d1419ca737f1b1466c3bec8">&#9670;&nbsp;</a></span>tag_id_</h2>
+<a id="a35c26cbf3b5084725ba7b583ab8fa098"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35c26cbf3b5084725ba7b583ab8fa098">&#9670;&nbsp;</a></span>tag_id_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1179,7 +1179,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t TagEntry::tag_id_</td>
+          <td class="memname">uint64_t TagEntry::tag_id_</td>
         </tr>
       </table>
   </td>
@@ -1193,8 +1193,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="aac174dd61edc7b114e1183618966d9e8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac174dd61edc7b114e1183618966d9e8">&#9670;&nbsp;</a></span>tag_type_</h2>
+<a id="abffaf2583b56c1a58cf7ecb52a648cfa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abffaf2583b56c1a58cf7ecb52a648cfa">&#9670;&nbsp;</a></span>tag_type_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1203,7 +1203,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t TagEntry::tag_type_</td>
+          <td class="memname">uint64_t TagEntry::tag_type_</td>
         </tr>
       </table>
   </td>
@@ -1265,8 +1265,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a0f82f55b6e2741e5033531a2c6422d0f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f82f55b6e2741e5033531a2c6422d0f">&#9670;&nbsp;</a></span>TagTypeStr</h2>
+<a id="a32454fa2d66349ca9f276bcc9406bd17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32454fa2d66349ca9f276bcc9406bd17">&#9670;&nbsp;</a></span>TagTypeStr</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1275,7 +1275,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const std::map&lt; uint32_t, std::string &gt; TagEntry::TagTypeStr</td>
+          <td class="memname">const std::map&lt; uint64_t, std::string &gt; TagEntry::TagTypeStr</td>
         </tr>
       </table>
   </td>
@@ -1285,12 +1285,12 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= boost::assign::map_list_of</div>
-<div class="line">        ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e">LABEL</a>, <span class="stringliteral">&quot;label&quot;</span>)</div>
-<div class="line">        ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1">APPLICATION</a>, <span class="stringliteral">&quot;application&quot;</span>)</div>
-<div class="line">        ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd">TIER</a>, <span class="stringliteral">&quot;tier&quot;</span>)</div>
-<div class="line">        ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2">DEPLOYMENT</a>, <span class="stringliteral">&quot;deployment&quot;</span>)</div>
-<div class="line">        ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">SITE</a>, <span class="stringliteral">&quot;site&quot;</span>)</div>
-<div class="line">    ((uint32_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">NEUTRON_FWAAS</a>, <span class="stringliteral">&quot;neutron_fwaas&quot;</span>)</div>
+<div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e">LABEL</a>, <span class="stringliteral">&quot;label&quot;</span>)</div>
+<div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1">APPLICATION</a>, <span class="stringliteral">&quot;application&quot;</span>)</div>
+<div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd">TIER</a>, <span class="stringliteral">&quot;tier&quot;</span>)</div>
+<div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2">DEPLOYMENT</a>, <span class="stringliteral">&quot;deployment&quot;</span>)</div>
+<div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">SITE</a>, <span class="stringliteral">&quot;site&quot;</span>)</div>
+<div class="line">    ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">NEUTRON_FWAAS</a>, <span class="stringliteral">&quot;neutron_fwaas&quot;</span>)</div>
 <div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1">TagEntry::APPLICATION</a></div><div class="ttdeci">@ APPLICATION</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00059">vnsw/agent/oper/tag.h:59</a></div></div>
 <div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e">TagEntry::LABEL</a></div><div class="ttdeci">@ LABEL</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00058">vnsw/agent/oper/tag.h:58</a></div></div>
 <div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">TagEntry::SITE</a></div><div class="ttdeci">@ SITE</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00062">vnsw/agent/oper/tag.h:62</a></div></div>

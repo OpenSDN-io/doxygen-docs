@@ -100,7 +100,7 @@ var agent_8h =
     [ "SgEntryRef", "de/d9e/agent_8h.html#a394f446bc0e2da9a2b5169a95a619166", null ],
     [ "TagEntryConstRef", "de/d9e/agent_8h.html#ab1f69914c4ca206a04377e55adae9dc1", null ],
     [ "TagEntryRef", "de/d9e/agent_8h.html#aa58b1a74e18e4566023ee73f4b02cfbf", null ],
-    [ "TagList", "de/d9e/agent_8h.html#a4d4f7c8957419e537a4aa6969b6eb6ab", null ],
+    [ "TagList", "de/d9e/agent_8h.html#a5bfc28a96ab414317bc03946401ad560", null ],
     [ "UuidList", "de/d9e/agent_8h.html#a32dcda756a658dd74916b52f1751832b", null ],
     [ "VmEntryBackRef", "de/d9e/agent_8h.html#a19ad7993f0f161968306e5dacacdd2c1", null ],
     [ "VmEntryConstBackRef", "de/d9e/agent_8h.html#a1f03ee54feae385d6685665069795918", null ],
