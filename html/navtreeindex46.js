@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d3/d2d/classBgpPeer.html#a56b858c2aed105fb0a7ad89ef08b541d":[2,0,389,232],
 "d3/d2d/classBgpPeer.html#a56e4bbfa5ee79e0a9009d50597b77c22":[2,0,389,204],
 "d3/d2d/classBgpPeer.html#a5938368f861250d1c58ef983d6dcb48d":[2,0,389,205],
 "d3/d2d/classBgpPeer.html#a59fd9509d981bd669566a077da53fff8":[2,0,389,118],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d3/d2e/structVnniConfig.html#a43d6b0388bbb118a3af7149e31fbd6aa":[2,0,1834,4],
 "d3/d2e/structVnniConfig.html#a48985ac582e80010f3e46050225e552f":[2,0,1834,5],
 "d3/d2e/structVnniConfig.html#a520dbab93904a7228009e5e7b8d08efe":[2,0,1834,3],
-"d3/d2e/structVnniConfig.html#a57dd29eef4ef985ff0bc9b84609c6cb9":[2,0,1834,8],
-"d3/d2e/structVnniConfig.html#a766c69bd513e31ce3b836045438ff471":[2,0,1834,12]
+"d3/d2e/structVnniConfig.html#a57dd29eef4ef985ff0bc9b84609c6cb9":[2,0,1834,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d4/de6/structPortSubscribeTable_1_1VmiEntry.html#a02f0bed80daefc65b89ccaf807b120de":[2,0,1362,2,1],
 "d4/de6/structPortSubscribeTable_1_1VmiEntry.html#a1e2db9477e60f3b8dccd2e68523f8926":[2,0,1362,2,8],
 "d4/de6/structPortSubscribeTable_1_1VmiEntry.html#a217bc999e2794beaf4013b1216d3f5d8":[2,0,1362,2,3],
 "d4/de6/structPortSubscribeTable_1_1VmiEntry.html#a21fbf352d039afdfa8bf421c788f0f66":[2,0,1362,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a9e9e0465ed8d10e54d64d4410c484494":[2,0,8,159,40],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#aa388fc139e5ab08b442d96732020ce31":[2,0,8,159,3],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#aa86c1a84b71f4b71e551e51261aad711":[2,0,8,159,37],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#aae17651cc0530da42a67a27ee0605733":[2,0,8,159,13],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ab230e4e37741a18dfe22920705550b8f":[2,0,8,159,23]
+"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#aae17651cc0530da42a67a27ee0605733":[2,0,8,159,13]
 };

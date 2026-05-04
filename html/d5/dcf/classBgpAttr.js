@@ -102,6 +102,7 @@ var classBgpAttr =
     [ "attr_db_", "d5/dcf/classBgpAttr.html#a9e16337919376a076b77c4d297f9a17b", null ],
     [ "cluster_list_", "d5/dcf/classBgpAttr.html#a82794dbe2ede4120fffec5891b944225", null ],
     [ "community_", "d5/dcf/classBgpAttr.html#ae69c8104c9200f404449763307a5cd9b", null ],
+    [ "deferred_large_spec_", "d5/dcf/classBgpAttr.html#a09f7e7c0cea3f4fa9a432b9dbf9718b4", null ],
     [ "edge_discovery_", "d5/dcf/classBgpAttr.html#a7342b23165e29bac28a9026ef035881e", null ],
     [ "edge_forwarding_", "d5/dcf/classBgpAttr.html#a69c757b46e5dca0a8344390699796a82", null ],
     [ "esi_", "d5/dcf/classBgpAttr.html#a250e8f5c7b79fba7422f0860989b8266", null ],

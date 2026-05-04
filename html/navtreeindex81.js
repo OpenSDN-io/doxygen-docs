@@ -1,5 +1,8 @@
 var NAVTREEINDEX81 =
 {
+"d5/d5e/classPktFlowInfo.html#ad1ed47af722f6d9df176974573169f1d":[2,0,1319,54],
+"d5/d5e/classPktFlowInfo.html#ad2ab006b6d8e897fabdd5b2644d802fc":[2,0,1319,83],
+"d5/d5e/classPktFlowInfo.html#ad3d56b9970d27ecec88ffc5b148b7ba0":[2,0,1319,33],
 "d5/d5e/classPktFlowInfo.html#ad4575f506112a70f380ab52e7f92bb7c":[2,0,1319,24],
 "d5/d5e/classPktFlowInfo.html#ad6776524ad20a425531c1aa1d1e90273":[2,0,1319,2],
 "d5/d5e/classPktFlowInfo.html#ae6701c0490d31872eb5d795a47b44ee3":[2,0,1319,42],
@@ -246,8 +249,5 @@ var NAVTREEINDEX81 =
 "d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html#a96f13dabc2d982117f08cf9d5badef87":[2,0,21,1,0],
 "d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html#aa19075178e796ecf4f0350457f3b5d87":[2,0,21,1,3],
 "d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html#ade18224f3d52dc15495d4409a7ebba09":[2,0,21,1,2],
-"d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html#ae19bea760aa282ebb8dde91633cc19f6":[2,0,21,1,5],
-"d5/d72/classStatsClientRemote.html":[2,0,1638],
-"d5/d72/classStatsClientRemote.html#a194d2b45e85d0fd29a82091493d03ddc":[2,0,1638,5],
-"d5/d72/classStatsClientRemote.html#a24bda6f7b3318d2c5c2740422124317b":[2,0,1638,8]
+"d5/d71/structprotobuf__rpc__2eproto_1_1TableStruct.html#ae19bea760aa282ebb8dde91633cc19f6":[2,0,21,1,5]
 };

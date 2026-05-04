@@ -193,6 +193,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a7f8016de907e25cffec9f79919cd71ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a064b7caf3c50bfbc59dffae52b055c91"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a064b7caf3c50bfbc59dffae52b055c91">tag_value</a> () const</td></tr>
 <tr class="separator:a064b7caf3c50bfbc59dffae52b055c91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a066bb8fa288d86b74461b87773c5ab5c"><td class="memItemLeft" align="right" valign="top">const bool &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a066bb8fa288d86b74461b87773c5ab5c">is_new_tag</a> () const</td></tr>
+<tr class="separator:a066bb8fa288d86b74461b87773c5ab5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classAgentOperDBEntry"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classAgentOperDBEntry')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/ddb/classAgentOperDBEntry.html">AgentOperDBEntry</a></td></tr>
 <tr class="memitem:a9c869283ce9ae9c63987689ca608211f inherit pub_methods_classAgentOperDBEntry"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/ddb/classAgentOperDBEntry.html#a9c869283ce9ae9c63987689ca608211f">AgentOperDBEntry</a> ()</td></tr>
 <tr class="separator:a9c869283ce9ae9c63987689ca608211f inherit pub_methods_classAgentOperDBEntry"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -342,6 +344,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ac60ba0b5f21bde7c070c14fddfcbfb5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0622f6d9e018e3191a9215b029d5466f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6b/classTagEntry.html#a8f1b2a9850faf31a5d7549abcc2c75df">PolicySetList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a0622f6d9e018e3191a9215b029d5466f">policy_set_list_</a></td></tr>
 <tr class="separator:a0622f6d9e018e3191a9215b029d5466f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e8d618cc2df409dae417fa49fc03d50"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6b/classTagEntry.html#a8e8d618cc2df409dae417fa49fc03d50">is_new_tag_</a></td></tr>
+<tr class="separator:a8e8d618cc2df409dae417fa49fc03d50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_attribs_classAgentRefCount"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_classAgentRefCount')"><img src="../../closed.png" alt="-"/>&#160;Private Attributes inherited from <a class="el" href="../../d5/d7f/classAgentRefCount.html">AgentRefCount&lt; TagEntry &gt;</a></td></tr>
 <tr class="memitem:ae99addd69fb0a95b2452dd899a3a6c90 inherit pub_attribs_classAgentRefCount"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d7f/classAgentRefCount.html#ae99addd69fb0a95b2452dd899a3a6c90">back_ref_mutex_</a></td></tr>
 <tr class="separator:ae99addd69fb0a95b2452dd899a3a6c90 inherit pub_attribs_classAgentRefCount"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -361,7 +365,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00055">55</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00056">56</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a8f1b2a9850faf31a5d7549abcc2c75df"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8f1b2a9850faf31a5d7549abcc2c75df">&#9670;&nbsp;</a></span>PolicySetList</h2>
@@ -375,7 +379,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00069">69</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00070">70</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -391,7 +395,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00067">67</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00068">68</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -407,7 +411,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00068">68</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00069">69</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -433,7 +437,7 @@ Additional Inherited Members</h2></td></tr>
 <tr><td class="fieldname"><a id="a3b6999edc2b48769e7576ed9eb0fff61a69b60474043c0c9f8619a111a9628cd7"></a>INVALID&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00057">57</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00058">58</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -462,7 +466,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00075">75</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00076">76</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -489,7 +493,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00077">77</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00078">78</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -520,7 +524,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00070">70</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00071">71</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -577,7 +581,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../db/d89/classAgentDBEntry.html#a2a37f8e2587d07239b2cef939cf04b61">AgentDBEntry</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00294">294</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00311">311</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -641,7 +645,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../d8/d44/classDBEntryBase.html#aacbbdf229f5c67f668c12936ae998e25">DBEntryBase</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00044">44</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00045">45</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -670,7 +674,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../db/d89/classAgentDBEntry.html#af7eed57dca3c31516371e37e3c0b06b5">AgentDBEntry</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00085">85</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00086">86</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -707,7 +711,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00125">125</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00131">131</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -754,7 +758,34 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00134">134</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00140">140</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+
+</div>
+</div>
+<a id="a066bb8fa288d86b74461b87773c5ab5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a066bb8fa288d86b74461b87773c5ab5c">&#9670;&nbsp;</a></span>is_new_tag()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const bool&amp; TagEntry::is_new_tag </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00114">114</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -773,7 +804,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00054">54</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00055">55</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -803,7 +834,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../d6/d7e/classDBEntry.html#afb46b05abbad8435687cf03023c07262">DBEntry</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00033">33</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00034">34</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -822,7 +853,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00062">62</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00063">63</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -849,7 +880,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00101">101</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00102">102</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -876,7 +907,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00093">93</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00094">94</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -906,7 +937,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../d6/d7e/classDBEntry.html#a06c9163dea3a4686f9ee21fa6cf76420">DBEntry</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00049">49</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00050">50</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -933,7 +964,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00091">91</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00092">92</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -960,7 +991,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00105">105</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00106">106</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -987,7 +1018,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00090">90</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00091">91</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1014,7 +1045,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00109">109</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00110">110</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1043,7 +1074,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="../../d8/d44/classDBEntryBase.html#a19f4005a36e617490f47cd315f61ebe5">DBEntryBase</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00038">38</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html#l00039">39</a> of file <a class="el" href="../../d8/d7e/vnsw_2agent_2oper_2tag_8cc_source.html">vnsw/agent/oper/tag.cc</a>.</p>
 
 </div>
 </div>
@@ -1068,11 +1099,35 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00118">118</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00123">123</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="a8e8d618cc2df409dae417fa49fc03d50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e8d618cc2df409dae417fa49fc03d50">&#9670;&nbsp;</a></span>is_new_tag_</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TagEntry::is_new_tag_</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00130">130</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+
+</div>
+</div>
 <a id="a61c148652e8fbb0ccc38f9b2526244bb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a61c148652e8fbb0ccc38f9b2526244bb">&#9670;&nbsp;</a></span>kInvalidTagId</h2>
 
@@ -1093,7 +1148,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00071">71</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00072">72</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1117,7 +1172,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00072">72</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00073">73</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1141,7 +1196,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00123">123</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00128">128</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1165,7 +1220,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00124">124</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00129">129</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1189,7 +1244,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00120">120</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00125">125</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1213,7 +1268,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00121">121</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00126">126</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1237,7 +1292,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00119">119</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00124">124</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1261,7 +1316,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00122">122</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00127">127</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>
@@ -1291,14 +1346,14 @@ Here is the call graph for this function:</div>
 <div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2">DEPLOYMENT</a>, <span class="stringliteral">&quot;deployment&quot;</span>)</div>
 <div class="line">        ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">SITE</a>, <span class="stringliteral">&quot;site&quot;</span>)</div>
 <div class="line">    ((uint64_t)<a class="code" href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">NEUTRON_FWAAS</a>, <span class="stringliteral">&quot;neutron_fwaas&quot;</span>)</div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1">TagEntry::APPLICATION</a></div><div class="ttdeci">@ APPLICATION</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00059">vnsw/agent/oper/tag.h:59</a></div></div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e">TagEntry::LABEL</a></div><div class="ttdeci">@ LABEL</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00058">vnsw/agent/oper/tag.h:58</a></div></div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">TagEntry::SITE</a></div><div class="ttdeci">@ SITE</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00062">vnsw/agent/oper/tag.h:62</a></div></div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2">TagEntry::DEPLOYMENT</a></div><div class="ttdeci">@ DEPLOYMENT</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00061">vnsw/agent/oper/tag.h:61</a></div></div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">TagEntry::NEUTRON_FWAAS</a></div><div class="ttdeci">@ NEUTRON_FWAAS</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00063">vnsw/agent/oper/tag.h:63</a></div></div>
-<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd">TagEntry::TIER</a></div><div class="ttdeci">@ TIER</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00060">vnsw/agent/oper/tag.h:60</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a03142f994c4098ec73a4262e17d8fcc1">TagEntry::APPLICATION</a></div><div class="ttdeci">@ APPLICATION</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00060">vnsw/agent/oper/tag.h:60</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a0fb97c0d3c98435c803e188508bf378e">TagEntry::LABEL</a></div><div class="ttdeci">@ LABEL</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00059">vnsw/agent/oper/tag.h:59</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a102f5f45fc1a3176cad4bc2f20262ca0">TagEntry::SITE</a></div><div class="ttdeci">@ SITE</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00063">vnsw/agent/oper/tag.h:63</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61a41b858dab17a13c992bc8842bf3417f2">TagEntry::DEPLOYMENT</a></div><div class="ttdeci">@ DEPLOYMENT</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00062">vnsw/agent/oper/tag.h:62</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61aba957f84b8ec92948bdc46d27652c430">TagEntry::NEUTRON_FWAAS</a></div><div class="ttdeci">@ NEUTRON_FWAAS</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00064">vnsw/agent/oper/tag.h:64</a></div></div>
+<div class="ttc" id="aclassTagEntry_html_a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd"><div class="ttname"><a href="../../d7/d6b/classTagEntry.html#a3b6999edc2b48769e7576ed9eb0fff61ae246a5e72df81a4b266b99bdcf9b6ddd">TagEntry::TIER</a></div><div class="ttdeci">@ TIER</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00061">vnsw/agent/oper/tag.h:61</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00073">73</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html#l00074">74</a> of file <a class="el" href="../../dd/d30/vnsw_2agent_2oper_2tag_8h_source.html">vnsw/agent/oper/tag.h</a>.</p>
 
 </div>
 </div>

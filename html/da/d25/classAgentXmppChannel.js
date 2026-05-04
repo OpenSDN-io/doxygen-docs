@@ -20,7 +20,7 @@ var classAgentXmppChannel =
     [ "BuildEcmpData", "da/d25/classAgentXmppChannel.html#a195d1b646f6855ab54932aa5f6132490", null ],
     [ "BuildEvpnMulticastMessage", "da/d25/classAgentXmppChannel.html#a4346ac4b400e4f8fecc8c753f5a17865", null ],
     [ "BuildEvpnUnicastMessage", "da/d25/classAgentXmppChannel.html#abb05b2b6ca000174a685dcfa9f786069", null ],
-    [ "BuildTagList", "da/d25/classAgentXmppChannel.html#a877ec6876d2e69de6bbafca91140f8bc", null ],
+    [ "BuildTagList", "da/d25/classAgentXmppChannel.html#a31927cb50bd1fb6c55c635ba9fee64ea", null ],
     [ "BuildTorMulticastMessage", "da/d25/classAgentXmppChannel.html#a2bb0c47ade1f15ac48e6a24b360fa474", null ],
     [ "CleanConfigStale", "da/d25/classAgentXmppChannel.html#a63494c12f94a2d8694de6593902c4dbe", null ],
     [ "ControllerSendCfgSubscribe", "da/d25/classAgentXmppChannel.html#a2affc64aaa1cb45b6a32dbfa296cec6b", null ],

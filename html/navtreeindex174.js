@@ -1,5 +1,13 @@
 var NAVTREEINDEX174 =
 {
+"db/ddc/controller__init_8h.html#a5ac6272926ba40280e639c26692fde4f":[3,0,283,20],
+"db/ddc/controller__init_8h.html#a5ca3067014f9f3e18690febd92ff4fd1":[3,0,283,15],
+"db/ddc/controller__init_8h.html#a633138f2535b16bc5868931ada2f4122":[3,0,283,11],
+"db/ddc/controller__init_8h.html#a99526978d716676129ea66592846b7f1":[3,0,283,10],
+"db/ddc/controller__init_8h.html#a9c0f3dd6dd79acf70bc87c599c714c62":[3,0,283,24],
+"db/ddc/controller__init_8h.html#ab577a4304a81950ee9b5ea015d96a9e9":[3,0,283,16],
+"db/ddc/controller__init_8h.html#ab76b91a9602bc62ccf8bc5e390f308ce":[3,0,283,8],
+"db/ddc/controller__init_8h.html#ab827e0c4ac3f08d9f0935f86a1c5833c":[3,0,283,21],
 "db/ddc/controller__init_8h.html#ac3c86c1e8d03b7b8a5ce023d542727fc":[3,0,283,9],
 "db/ddc/controller__init_8h.html#ac4aa563900e248c0395dcc7b0daa3256":[3,0,283,25],
 "db/ddc/controller__init_8h.html#ac7d40ae376a89d1e4912821761b92175":[3,0,283,26],
@@ -241,13 +249,5 @@ var NAVTREEINDEX174 =
 "db/df1/classBgpXmppPeerClose.html#a5e919dbf5285a4221e46f4ec50689017":[2,0,423,21],
 "db/df1/classBgpXmppPeerClose.html#a6da1eb41e71030dd3286a54226c78964":[2,0,423,8],
 "db/df1/classBgpXmppPeerClose.html#a6e15507c5932184167c0538de25e18b7":[2,0,423,7],
-"db/df1/classBgpXmppPeerClose.html#a6fa5b5a358c8355a1981f6451443aee4":[2,0,423,9],
-"db/df1/classBgpXmppPeerClose.html#a8cd81c230c85ef3d0b750ddb9c0d3416":[2,0,423,0],
-"db/df1/classBgpXmppPeerClose.html#a988fe871536aa3f93ea512e4e9ac280e":[2,0,423,10],
-"db/df1/classBgpXmppPeerClose.html#a9eb725f3cb66b0c4dd039bec15c51954":[2,0,423,23],
-"db/df1/classBgpXmppPeerClose.html#aa2925b91877d9fdbc22d831b4e568471":[2,0,423,5],
-"db/df1/classBgpXmppPeerClose.html#aa71ca0bbfc76de65ba6618d427c27a4b":[2,0,423,14],
-"db/df1/classBgpXmppPeerClose.html#ac726734de0928d17b010ed812a371905":[2,0,423,1],
-"db/df1/classBgpXmppPeerClose.html#ad15e2ae341d39b7cab65c13c090895c6":[2,0,423,2],
-"db/df1/classBgpXmppPeerClose.html#aec86f5a9c03729981f73c66c02bef692":[2,0,423,17]
+"db/df1/classBgpXmppPeerClose.html#a6fa5b5a358c8355a1981f6451443aee4":[2,0,423,9]
 };
