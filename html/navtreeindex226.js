@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"df/da7/structxmsm_1_1OpenConfirm.html":[2,0,24,26],
 "df/da7/structxmsm_1_1OpenConfirm.html#a07d709a875b92f34bf0f04fb38e211fa":[2,0,24,26,5],
 "df/da7/structxmsm_1_1OpenConfirm.html#a0e81facde28f469f36aeba78320ce2ba":[2,0,24,26,6],
 "df/da7/structxmsm_1_1OpenConfirm.html#a330a0a5c922a37112a6802ab4733ffcf":[2,0,24,26,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "df/dbf/http__curl_8cc.html#a6fe3a1fa30ac7c5a3dc634352e71abc2":[3,0,494,7],
 "df/dbf/http__curl_8cc.html#a74656c1e20a5947be487a8d32a7ae2f5":[3,0,494,9],
 "df/dbf/http__curl_8cc.html#a7a0dc29d2339e06e032b07aec1c12f61":[3,0,494,15],
-"df/dbf/http__curl_8cc.html#a7bb563a04bd9c3a27ffbf5343967249d":[3,0,494,29],
-"df/dbf/http__curl_8cc.html#a7e9435f0b6f257613fc0b9e28da84912":[3,0,494,18]
+"df/dbf/http__curl_8cc.html#a7bb563a04bd9c3a27ffbf5343967249d":[3,0,494,29]
 };

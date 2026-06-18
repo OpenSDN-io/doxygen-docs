@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"dd/d43/classXmppServer.html#ace0fdc109d7a466ae91cb1776255a336":[2,0,1933,19],
 "dd/d43/classXmppServer.html#ad1de7fbb049404669fb8dd50bec3af7b":[2,0,1933,50],
 "dd/d43/classXmppServer.html#ad23d9ed21f5a9152c87bb7fa96333317":[2,0,1933,31],
 "dd/d43/classXmppServer.html#ad6d91ab1ffd7e8e27f929b60d357034a":[2,0,1933,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "dd/d52/classResourceRestoreReq.html#a1f3a1b8c650d70fdafcecb1f990593d4":[2,0,1421,3],
 "dd/d52/classResourceRestoreReq.html#a3027a6f9588be4cec10a6dea292ed728":[2,0,1421,1],
 "dd/d52/classResourceRestoreReq.html#a3170d94f959fac04aa4fdc9ce4e142af":[2,0,1421,0],
-"dd/d52/classResourceRestoreReq.html#a5e5993447f76d68a22d14f1685f4c81f":[2,0,1421,6],
-"dd/d52/classResourceRestoreReq.html#a618001d101d274def652e7723886af1c":[2,0,1421,2]
+"dd/d52/classResourceRestoreReq.html#a5e5993447f76d68a22d14f1685f4c81f":[2,0,1421,6]
 };

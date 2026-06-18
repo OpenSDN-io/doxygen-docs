@@ -49,6 +49,7 @@ var classKSyncEntry =
     [ "IsActive", "dc/df2/classKSyncEntry.html#a0ecd6a8744c7b09ee182c72bb72e27b0", null ],
     [ "IsDataResolved", "dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d", null ],
     [ "IsDeleted", "dc/df2/classKSyncEntry.html#af36de598a24ba99f12ce403e9a473afb", null ],
+    [ "IsInSync", "dc/df2/classKSyncEntry.html#a161137dea44da29113560cdfe6c1b1ab", null ],
     [ "IsLess", "dc/df2/classKSyncEntry.html#ae2276d52abb55fdf890928a1b079443c", null ],
     [ "IsResolved", "dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975", null ],
     [ "operator<", "dc/df2/classKSyncEntry.html#ac1c1f0140c69fc36641073153273393e", null ],

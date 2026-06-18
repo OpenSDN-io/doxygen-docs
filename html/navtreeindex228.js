@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"df/ddb/classPeerCloseManager.html#a4321c66b3a03716784f578e902cbd40a":[2,0,1294,40],
 "df/ddb/classPeerCloseManager.html#a4d039c9fcdc992208ae5a7793ab038a9":[2,0,1294,47],
 "df/ddb/classPeerCloseManager.html#a4e08a746c8b6806d903feaa6a7cd2395":[2,0,1294,31],
 "df/ddb/classPeerCloseManager.html#a51da60f6dd7fa5e37f9efdb0e275e051":[2,0,1294,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a66f5639634e1fdc0b3458c765eee25fc":[2,0,25,1,0,3],
 "df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a6bc579994c17c820512c8d92975e5704":[2,0,25,1,0,9],
 "df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a73067909d517b6d150c6d0ecfee4a866":[2,0,25,1,0,7],
-"df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a8b6fd908572af582d7a00cd254d8c1c1":[2,0,25,1,0,0],
-"df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a9857070fea6fec26428c890aacb50216":[2,0,25,1,0,5]
+"df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html#a8b6fd908572af582d7a00cd254d8c1c1":[2,0,25,1,0,0]
 };

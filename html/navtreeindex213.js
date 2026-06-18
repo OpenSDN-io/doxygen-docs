@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"de/d82/structBgpSenderPartition_1_1WorkPeer.html#aef3ba0346231297334c83294b0d9a48a":[2,0,407,5,1],
 "de/d83/classLocalSequenceNumber.html":[2,0,1068],
 "de/d83/classLocalSequenceNumber.html#a0187b5986ed218be4b0eea29b1ab9e67":[2,0,1068,7],
 "de/d83/classLocalSequenceNumber.html#a0875edc4f077ef2fe874677d72e2947c":[2,0,1068,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab24474881a4b42ebb5cffea813507fc4":[2,0,8,140,43],
 "de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab317a1bf69cf30fded861dbefa2bfd8c":[2,0,8,140,5],
 "de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab3b8a5132d537daba9c2a3791ba31729":[2,0,8,140,30],
-"de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab7dca93cb5776aae60c9795d3eec332a":[2,0,8,140,6],
-"de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab9e6e741046bd7902f8e697b4ec2aebb":[2,0,8,140,35]
+"de/d92/classetcdserverpb_1_1AuthRoleGetRequest.html#ab7dca93cb5776aae60c9795d3eec332a":[2,0,8,140,6]
 };
