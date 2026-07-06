@@ -1,5 +1,7 @@
 var NAVTREEINDEX152 =
 {
+"da/d47/classKSyncSockUds.html#aaad39af4814bbcd4d982dfe68d3f9288":[2,0,1017,17],
+"da/d47/classKSyncSockUds.html#aad36a36619d65902c2cd7f67dac6e8df":[2,0,1017,18],
 "da/d47/classKSyncSockUds.html#ab921b8790cfb577cccc4b7228a246d1f":[2,0,1017,4],
 "da/d47/classKSyncSockUds.html#abb9aa32fe0bbc005783ea24da8310920":[2,0,1017,13],
 "da/d47/classKSyncSockUds.html#abba23d05e1b32570c799b9e8349e27a9":[2,0,1017,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "da/d56/namespaceetcdserverpb.html#a4129bd8f9194df460c62fcd6ef0362be":[1,0,11,282],
 "da/d56/namespaceetcdserverpb.html#a41348454c90b8bb5721439cf29984d04":[1,0,11,290],
 "da/d56/namespaceetcdserverpb.html#a4351f5639b8cfecd1671992185673f64":[1,0,11,186],
-"da/d56/namespaceetcdserverpb.html#a482775fcce603095b04e9360a8408b5e":[1,0,11,207],
-"da/d56/namespaceetcdserverpb.html#a4bf5fe811ff66f58eaa21df0c2dd5cbc":[1,0,11,255],
-"da/d56/namespaceetcdserverpb.html#a4f9633d808773e30fae4bb4d5f3ac84c":[1,0,11,172]
+"da/d56/namespaceetcdserverpb.html#a482775fcce603095b04e9360a8408b5e":[1,0,11,207]
 };

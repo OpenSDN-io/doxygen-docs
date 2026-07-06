@@ -1,5 +1,6 @@
 var NAVTREEINDEX111 =
 {
+"d7/d70/structRouteUpdatePtr_1_1Proxy.html":[2,0,1462,0],
 "d7/d70/structRouteUpdatePtr_1_1Proxy.html#a66c3ebecfa3ff8067dfb53ac6e8e810c":[2,0,1462,0,1],
 "d7/d70/structRouteUpdatePtr_1_1Proxy.html#a6d70861b8847cce2401930dfff823e8b":[2,0,1462,0,0],
 "d7/d71/dhcp__handler_8h.html":[3,0,335],
@@ -248,6 +249,5 @@ var NAVTREEINDEX111 =
 "d7/d79/classQosQueue.html#a54f1f85a9513620b5efd918d301bbdc7":[2,0,1386,22],
 "d7/d79/classQosQueue.html#a54fc835160084521f9152124629e5953":[2,0,1386,15],
 "d7/d79/classQosQueue.html#a7d630962fc4dc1c0558fb92689c775f8":[2,0,1386,18],
-"d7/d79/classQosQueue.html#a84293e1deb01fe301473b67ddf084deb":[2,0,1386,3],
-"d7/d79/classQosQueue.html#a937cc07682e7985c39fbfd3d9a14bb8f":[2,0,1386,9]
+"d7/d79/classQosQueue.html#a84293e1deb01fe301473b67ddf084deb":[2,0,1386,3]
 };

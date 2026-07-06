@@ -52,6 +52,7 @@ var classVxlanRoutingManager =
     [ "PrintEvpnTable", "dc/d5b/classVxlanRoutingManager.html#a95b81fe17b84928a39f81c2d8d35eed9", null ],
     [ "PrintInetTable", "dc/d5b/classVxlanRoutingManager.html#ae849b410dcb934904296aade883501fc", null ],
     [ "Register", "dc/d5b/classVxlanRoutingManager.html#a8458cad3048f3f86c29408b5daea5183", null ],
+    [ "RemoveRoutesFromRoutingToBridgeVrf", "dc/d5b/classVxlanRoutingManager.html#ae75f76d5ec096e2f129b1ebe289c1c8d", null ],
     [ "RouteNotify", "dc/d5b/classVxlanRoutingManager.html#a15f862e441b5cc8f10502ee8daf1ecc9", null ],
     [ "RoutePrefixIsEqualTo", "dc/d5b/classVxlanRoutingManager.html#a1a64e3170c5fc352d1cd787fc36acb50", null ],
     [ "RoutePrefixIsEqualTo", "dc/d5b/classVxlanRoutingManager.html#aefc7ecc4b898df89ca0184b7e070d91a", null ],

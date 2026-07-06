@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d2/d66/classKSyncLinuxBridgeEntry.html":[2,0,993],
 "d2/d66/classKSyncLinuxBridgeEntry.html#a135b32ab374cc6f7a394e289a79b1d8b":[2,0,993,6],
 "d2/d66/classKSyncLinuxBridgeEntry.html#a7d588e7137d3278d9bb5a0049e1ab48d":[2,0,993,8],
 "d2/d66/classKSyncLinuxBridgeEntry.html#a9c39d25b15ac8931d70a6b8cfb65df39":[2,0,993,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d2/d72/classRoutingInstanceMgr.html#a5b0dcb9d9ceeceb0618123e8a32d0669":[2,0,1465,20],
 "d2/d72/classRoutingInstanceMgr.html#a5e87341d29d10a97240e296329fb937f":[2,0,1465,99],
 "d2/d72/classRoutingInstanceMgr.html#a62daf7275ca1270c25ae49f77f898dab":[2,0,1465,61],
-"d2/d72/classRoutingInstanceMgr.html#a6541e8c07a822762cc5162ec3b23199a":[2,0,1465,19],
-"d2/d72/classRoutingInstanceMgr.html#a658c25aed8eedcc58618c727ca2cd480":[2,0,1465,92]
+"d2/d72/classRoutingInstanceMgr.html#a6541e8c07a822762cc5162ec3b23199a":[2,0,1465,19]
 };

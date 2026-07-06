@@ -1,5 +1,6 @@
 var NAVTREEINDEX51 =
 {
+"d3/d71/classServicesModule.html#a881f8192004b22352292bd2534b1a47c":[2,0,1567,23],
 "d3/d71/classServicesModule.html#a95d61290989a5363d463a2f19ebcd087":[2,0,1567,25],
 "d3/d71/classServicesModule.html#a9c00ba08414b79306737491a6ee8eee8":[2,0,1567,21],
 "d3/d71/classServicesModule.html#ab49d8f9fe40938ba77e18651cf8c1ed8":[2,0,1567,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX51 =
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a03527b1115500a51a050792d463ef1a3":[2,0,4,0,4,29],
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a054903a97edc22a2502390d0b131ad27":[2,0,4,0,4,13],
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a0bf86b84b1a772e3a9c966b0337c3a08":[2,0,4,0,4,39],
-"d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a0ca4a256689d6e3128fefa7cceb3d12c":[2,0,4,0,4,9],
-"d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a110b4fa200fa6dedd3b258d9cf9e4040":[2,0,4,0,4,36]
+"d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a0ca4a256689d6e3128fefa7cceb3d12c":[2,0,4,0,4,9]
 };

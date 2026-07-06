@@ -1,5 +1,6 @@
 var NAVTREEINDEX114 =
 {
+"d7/d9c/agent__init_8cc.html#a92cab8b8335f4abb68ece12de9abe7f0":[3,0,18,1],
 "d7/d9c/agent__init_8cc.html#a949d8b21cb215ef1c06d285f35cb455a":[3,0,18,16],
 "d7/d9c/agent__init_8cc.html#aa84de98709670282e1e156bcd54c7301":[3,0,18,15],
 "d7/d9c/agent__init_8cc.html#aba96722be7e163c0af650b86bbc6b120":[3,0,18,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX114 =
 "d7/db3/classDnsConfigManager.html#a9097a134e7a80fb378a7838944ee45ec":[2,0,592,10],
 "d7/db3/classDnsConfigManager.html#a94cabb163b13fcdf3f8839f5ea52a68d":[2,0,592,1],
 "d7/db3/classDnsConfigManager.html#a965823a8c2ba008e6a2862d908492028":[2,0,592,22],
-"d7/db3/classDnsConfigManager.html#a98c3f262cf8546535e2162391d09b561":[2,0,592,35],
-"d7/db3/classDnsConfigManager.html#a9d32a40918b7bf2596f42a9cb71f31a8":[2,0,592,8]
+"d7/db3/classDnsConfigManager.html#a98c3f262cf8546535e2162391d09b561":[2,0,592,35]
 };

@@ -1,8 +1,10 @@
 <map id="MplsKSyncEntry::UnresolvedReference" name="MplsKSyncEntry::UnresolvedReference">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,197,115"/>
-<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title=" " alt="" coords="245,56,408,83"/>
-<area shape="rect" id="node6" href="$d5/d79/classMplsKSyncEntry.html#ae1de8b39176911d636ef8ea585416014" title=" " alt="" coords="256,107,397,133"/>
-<area shape="rect" id="node3" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title=" " alt="" coords="472,5,631,32"/>
-<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title=" " alt="" coords="456,56,647,83"/>
-<area shape="rect" id="node5" href="$d6/d2d/classKSyncObject.html#a09a50e0a7121ad8af07ff30c764f370a" title=" " alt="" coords="463,107,640,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,197,94"/>
+<area shape="rect" id="node2" href="$dc/df2/classKSyncEntry.html#abfcc90946b5c8a66e2d1833ba37ac47c" title="True only when the entry is resolved AND kernel&#45;acknowledged (IN_SYNC)." alt="" coords="245,23,432,65"/>
+<area shape="rect" id="node8" href="$d5/d79/classMplsKSyncEntry.html#ae1de8b39176911d636ef8ea585416014" title=" " alt="" coords="268,89,409,116"/>
+<area shape="rect" id="node3" href="$dc/df2/classKSyncEntry.html#a161137dea44da29113560cdfe6c1b1ab" title=" " alt="" coords="486,5,637,32"/>
+<area shape="rect" id="node4" href="$dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975" title=" " alt="" coords="480,56,643,83"/>
+<area shape="rect" id="node5" href="$dc/df2/classKSyncEntry.html#a208fb0f28c0c72808715ca42240e74c2" title=" " alt="" coords="707,5,865,32"/>
+<area shape="rect" id="node6" href="$dc/df2/classKSyncEntry.html#a08c09096e307720e571790dd82a35a7d" title=" " alt="" coords="691,56,881,83"/>
+<area shape="rect" id="node7" href="$d6/d2d/classKSyncObject.html#a09a50e0a7121ad8af07ff30c764f370a" title=" " alt="" coords="697,107,875,133"/>
 </map>

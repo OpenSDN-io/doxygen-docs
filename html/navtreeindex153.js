@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"da/d56/namespaceetcdserverpb.html#a4bf5fe811ff66f58eaa21df0c2dd5cbc":[1,0,11,255],
+"da/d56/namespaceetcdserverpb.html#a4f9633d808773e30fae4bb4d5f3ac84c":[1,0,11,172],
 "da/d56/namespaceetcdserverpb.html#a5034d977f1ec5917fcc646497e723c6e":[1,0,11,274],
 "da/d56/namespaceetcdserverpb.html#a52917659988af033c900adad186c712f":[1,0,11,240],
 "da/d56/namespaceetcdserverpb.html#a53be072aadb9ca77edf19598aa95b724":[1,0,11,296],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "da/d6d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__AuthDisable.html#ab12ba3f3f4bd0094e9e003ebd746e656":[2,0,8,9,19,1],
 "da/d6d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__AuthDisable.html#ad413d9b96ef3792892fe97b3e43ce18a":[2,0,8,9,19,2],
 "da/d6d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__AuthDisable.html#ae91bf8a18cf34adece8e3f0c0c16bb77":[2,0,8,9,19,0],
-"da/d6d/structAclSpec.html":[2,0,51],
-"da/d6d/structAclSpec.html#a2e59a706d0a55f516e2cac5026e26298":[2,0,51,1],
-"da/d6d/structAclSpec.html#a57932b2a59e691e43b4f95d7555e273d":[2,0,51,4]
+"da/d6d/structAclSpec.html":[2,0,51]
 };

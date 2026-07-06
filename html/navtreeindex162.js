@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"db/d26/classBgpServer.html#a2d5c94b3a7addc589cb370f5ff025603":[2,0,408,127],
+"db/d26/classBgpServer.html#a2de3d6b483c6c029a4ff80082935721d":[2,0,408,48],
 "db/d26/classBgpServer.html#a2e873398479981e47ec1007bf0e8ecb1":[2,0,408,19],
 "db/d26/classBgpServer.html#a2ec524985a45e8b7a83a062b152cac32":[2,0,408,217],
 "db/d26/classBgpServer.html#a2f9b3a9fe6c59a1746c499c268475178":[2,0,408,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a95ec649bfae910b6c2d14b3d4873da45":[2,0,8,151,6],
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#a9eaeda65ee2bcd4645eb0c31033ed4d1":[2,0,8,151,3],
 "db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#aa4b517e8da9a91f919ffa25598d8ac7d":[2,0,8,151,23],
-"db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#aaaae5cc81cccba330909beef2a2dbc27":[2,0,8,151,18],
-"db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#aabdb9517496f8ecfd5cb6274f2aad64b":[2,0,8,151,37],
-"db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#ab7df2f8e8188cdceaec8165feb839de5":[2,0,8,151,15]
+"db/d28/classetcdserverpb_1_1AuthUserDeleteResponse.html#aaaae5cc81cccba330909beef2a2dbc27":[2,0,8,151,18]
 };

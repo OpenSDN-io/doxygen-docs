@@ -1,5 +1,6 @@
 var NAVTREEINDEX115 =
 {
+"d7/db3/classDnsConfigManager.html#a9d32a40918b7bf2596f42a9cb71f31a8":[2,0,592,8],
 "d7/db3/classDnsConfigManager.html#aa3f255159ccd4d1ea5467efe2925d6c9":[2,0,592,28],
 "d7/db3/classDnsConfigManager.html#aaaf465e7501b036d628d2b1661981e99":[2,0,592,14],
 "d7/db3/classDnsConfigManager.html#aac587f98a63d414e467d64707300fe64":[2,0,592,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX115 =
 "d7/db9/classOVSDB_1_1OvsdbSandeshTask.html#aff1bd338c289881db4e51bb61681abc0":[2,0,15,28,15],
 "d7/db9/classRouteLeakManager.html":[2,0,1449],
 "d7/db9/classRouteLeakManager.html#a00a161cb811784b537541c146db8b7ac":[2,0,1449,10],
-"d7/db9/classRouteLeakManager.html#a05659175fdb3b7727fab4676498811a1":[2,0,1449,8],
-"d7/db9/classRouteLeakManager.html#a10c51e99f9153a048e13f34a5af3bc7c":[2,0,1449,1]
+"d7/db9/classRouteLeakManager.html#a05659175fdb3b7727fab4676498811a1":[2,0,1449,8]
 };

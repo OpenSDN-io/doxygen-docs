@@ -1,5 +1,7 @@
 var NAVTREEINDEX159 =
 {
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a8c9fffb8618cd3270d420a6902152bf6":[2,0,575,0,10],
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#aa1f06f95c3d8ae5bd87603159a4a9a7a":[2,0,575,0,3],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#ab449b58263c93994d29216e7728ab62a":[2,0,575,0,8],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#ac13d52dadc80be7c92dbe6b76d88c7bb":[2,0,575,0,1],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#ac987fd45cd304a270ce9ca7e11dc8b9d":[2,0,575,0,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX159 =
 "da/df2/classRouteLeakVrfState.html#abe22de5f016ef449f7aaecb22dc962ec":[2,0,1451,4],
 "da/df2/classRouteLeakVrfState.html#ad7d2d9969904c267984b6d8180026f7a":[2,0,1451,1],
 "da/df2/classRouteLeakVrfState.html#ad9eb0ccdf59ca87eb8ec603c4e083f5d":[2,0,1451,0],
-"da/df2/classRouteLeakVrfState.html#aff59e826019a7cc5bc71e3156a27b39a":[2,0,1451,8],
-"da/df2/classRouteLeakVrfState.html#aff86f1d4b8bfd1e9d84428d1769c5e06":[2,0,1451,11],
-"da/df2/ovsdb__route__data_8h.html":[3,0,847]
+"da/df2/classRouteLeakVrfState.html#aff59e826019a7cc5bc71e3156a27b39a":[2,0,1451,8]
 };

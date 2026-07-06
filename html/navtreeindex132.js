@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d8/df2/structDnsProto_1_1DnsUpdateIpc.html#ad4baf7cd21c46508ac9b00aa63dcc387":[2,0,599,5,8],
+"d8/df3/classPeerStats.html":[2,0,1296],
 "d8/df3/classPeerStats.html#a2d49b1f2c02312876dbe2e3a4b9978a9":[2,0,1296,4],
 "d8/df3/classPeerStats.html#a519960d6ff47f3a1a277e8e5bbc1a5f9":[2,0,1296,2],
 "d8/df3/classPeerStats.html#a5a4349c5cc759676f83a45d5a40759df":[2,0,1296,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "d8/dfe/classAgent.html#a3565d469c17978d24c3c17eafe14d48a":[2,0,61,234],
 "d8/dfe/classAgent.html#a35908598a9657fa08da4afb3c23fee6c":[2,0,61,296],
 "d8/dfe/classAgent.html#a35b169c2da71b42b0188890bad9aa798":[2,0,61,90],
-"d8/dfe/classAgent.html#a367fa326fa0cc65c8aeb430798137ac7":[2,0,61,329],
-"d8/dfe/classAgent.html#a36e6ef807bb459331990e963c6905afe":[2,0,61,580],
-"d8/dfe/classAgent.html#a37882c8c59ba6c21b4c8018fd9b8f154":[2,0,61,223]
+"d8/dfe/classAgent.html#a367fa326fa0cc65c8aeb430798137ac7":[2,0,61,329]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"d9/df3/classSandeshConnection.html#a714d6e304e35c292bf81daae10c4313e":[2,0,1498,20],
+"d9/df3/classSandeshConnection.html#a7a37433f5c17e322140018c2bd2f4f54":[2,0,1498,7],
 "d9/df3/classSandeshConnection.html#a7cf50489e6373a4106d0d4bae5d8afc2":[2,0,1498,24],
 "d9/df3/classSandeshConnection.html#a7f84de518b05b93731a4f7151a3053da":[2,0,1498,12],
 "d9/df3/classSandeshConnection.html#a90385e158882134fcbfb9da5b816ce2a":[2,0,1498,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX147 =
 "da/d04/classBgpMembershipManager_1_1PeerRibState.html#a716802b0c817d16e70d30b8aa7e2d260":[2,0,293,1,24],
 "da/d04/classBgpMembershipManager_1_1PeerRibState.html#a72e99dce92473525348ee72c0b22ec8b":[2,0,293,1,36],
 "da/d04/classBgpMembershipManager_1_1PeerRibState.html#a7adfec85e11bd698310035b627b67658":[2,0,293,1,21],
-"da/d04/classBgpMembershipManager_1_1PeerRibState.html#a7d4438209ea597bc9a7dab2e3acc91b5":[2,0,293,1,32],
-"da/d04/classBgpMembershipManager_1_1PeerRibState.html#a82aed774a76e99c9de6f89defc8e336c":[2,0,293,1,28],
-"da/d04/classBgpMembershipManager_1_1PeerRibState.html#a8711b5fe4754f3f8b4da283cea74cad2":[2,0,293,1,0]
+"da/d04/classBgpMembershipManager_1_1PeerRibState.html#a7d4438209ea597bc9a7dab2e3acc91b5":[2,0,293,1,32]
 };

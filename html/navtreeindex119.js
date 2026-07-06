@@ -1,5 +1,7 @@
 var NAVTREEINDEX119 =
 {
+"d7/dee/namespaceprotobuf__etcdserver__2eproto.html#ac47cf21c94c9629bdc36568aa527d2ec":[1,0,24,9],
+"d7/dee/namespaceprotobuf__etcdserver__2eproto.html#ad6e3bd8bc681e3d464c45933bd787e08":[1,0,24,10],
 "d7/dee/namespaceprotobuf__etcdserver__2eproto.html#ae193f734ee74529e61bd5be289e73782":[1,0,24,13],
 "d7/dee/namespaceprotobuf__etcdserver__2eproto.html#af1444fe434e8e923f19bac76de639feb":[1,0,24,12],
 "d7/df0/structControllerTimer.html":[2,0,514],
@@ -247,7 +249,5 @@ var NAVTREEINDEX119 =
 "d8/d00/classVnEntry.html#a4ac89bd50150e094cc50dc1354127522":[2,0,1826,59],
 "d8/d00/classVnEntry.html#a4adbd92faf0e713792e807b513ca56f0":[2,0,1826,0],
 "d8/d00/classVnEntry.html#a4e636c3c41d9005564396988351cf6a3":[2,0,1826,86],
-"d8/d00/classVnEntry.html#a4ef5cec18383a3cab0e44bd4c806090c":[2,0,1826,71],
-"d8/d00/classVnEntry.html#a529deed7635355d664b41ba8c784dfad":[2,0,1826,72],
-"d8/d00/classVnEntry.html#a54271c9f7bcaa457b3e26717aab8ebfd":[2,0,1826,98]
+"d8/d00/classVnEntry.html#a4ef5cec18383a3cab0e44bd4c806090c":[2,0,1826,71]
 };

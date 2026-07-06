@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d5/dd2/classUpdateLocalPref.html#a9452f557a36d62f5aa3cad5d822bcda4":[2,0,1758,3],
 "d5/dd2/classUpdateLocalPref.html#aad934d98e8480beb940a26cfb2b979db":[2,0,1758,1],
 "d5/dd2/classUpdateLocalPref.html#aec3bb2076681ec436d53e523091cf0a1":[2,0,1758,5],
 "d5/dd2/structxmsm_1_1Connect.html":[2,0,24,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d5/de7/structtask__timer__.html#ac0379ae5cec5c4e23d08e3ff3d8e14de":[2,0,1693,6],
 "d5/de7/structtask__timer__.html#adac1168f2aacea8e58ea89117ca1742a":[2,0,1693,1],
 "d5/de8/classInterfaceKState.html":[2,0,940],
-"d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc":[2,0,940,2],
-"d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279":[2,0,940,1]
+"d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc":[2,0,940,2]
 };

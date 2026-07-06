@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"db/d89/classAgentDBEntry.html#af3113b2c703d19163b09ea7971388edf":[2,0,67,0],
+"db/d89/classAgentDBEntry.html#af7eed57dca3c31516371e37e3c0b06b5":[2,0,67,10],
 "db/d89/structSgKey.html":[2,0,1592],
 "db/d89/structSgKey.html#a0f8b6aaa0432b09629c3455825b0d31e":[2,0,1592,2],
 "db/d89/structSgKey.html#a5f622a084bec2b8d9985bda20b116c1b":[2,0,1592,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "db/d96/classMetadataProxy.html#ac82c2bdda680118d277881ebc47d88b1":[2,0,1139,4],
 "db/d96/classMetadataProxy.html#ad10b87a3f234535591eeddfd4f1a6a7a":[2,0,1139,6],
 "db/d96/classMetadataProxy.html#add49c44095e0f6141ec177246556b7ec":[2,0,1139,45],
-"db/d96/classMetadataProxy.html#ae25bc99ca696fdb2bff3e50d1c1bfed8":[2,0,1139,46],
-"db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53":[2,0,1139,22],
-"db/d96/classMetadataProxy.html#af40c5451bc69b59ef89de16cf8c5f5d9":[2,0,1139,31]
+"db/d96/classMetadataProxy.html#ae25bc99ca696fdb2bff3e50d1c1bfed8":[2,0,1139,46]
 };

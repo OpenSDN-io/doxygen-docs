@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"d6/ddf/classBgpInstanceConfig.html#aacbc90f87340177b481342b8e9eb0435":[2,0,288,27],
 "d6/ddf/classBgpInstanceConfig.html#aacca2637670d7904f4531b2d1ea69b87":[2,0,288,44],
 "d6/ddf/classBgpInstanceConfig.html#aaccb2c3cb3066c9172299dd894846665":[2,0,288,33],
 "d6/ddf/classBgpInstanceConfig.html#ab0a384cac498f5cdfeac71a081e123be":[2,0,288,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "d6/def/classBgpServer_1_1DeleteActor.html":[2,0,408,1],
 "d6/def/classBgpServer_1_1DeleteActor.html#a0f5806c1e50ece1ebdec9efe85088e39":[2,0,408,1,1],
 "d6/def/classBgpServer_1_1DeleteActor.html#a4323f21b22700efec0899774a14aa171":[2,0,408,1,4],
-"d6/def/classBgpServer_1_1DeleteActor.html#a7715f795c4e7eb2af2850a281ae87316":[2,0,408,1,3],
-"d6/def/classBgpServer_1_1DeleteActor.html#acbd4c23939523efba155d1baccd3f42d":[2,0,408,1,0]
+"d6/def/classBgpServer_1_1DeleteActor.html#a7715f795c4e7eb2af2850a281ae87316":[2,0,408,1,3]
 };

@@ -21,6 +21,7 @@ var classVxlanRoutingVrfMapper =
     [ "WalkBridgeInetTables", "d1/d67/classVxlanRoutingVrfMapper.html#acc75098819fd6021097266266d98d30f", null ],
     [ "WalkBridgeVrfs", "d1/d67/classVxlanRoutingVrfMapper.html#a0d9ad29990530c558f32050ced594354", null ],
     [ "WalkRoutingVrf", "d1/d67/classVxlanRoutingVrfMapper.html#ac0d0bf41a498adc70fa3639459dd527d", null ],
+    [ "WalkRoutingVrfRemoveExternalRoutes", "d1/d67/classVxlanRoutingVrfMapper.html#a8e163bc4096f802398acd5d643e319e6", null ],
     [ "VxlanRoutingManager", "d1/d67/classVxlanRoutingVrfMapper.html#af7e60e2ca1b2d5413bee3ab74070754c", null ],
     [ "inet4_table_walker_", "d1/d67/classVxlanRoutingVrfMapper.html#a4551eafe4990166fa9f7a8fb3ca84182", null ],
     [ "inet6_table_walker_", "d1/d67/classVxlanRoutingVrfMapper.html#ab217d0ad50c31c9d9cd05175d19de422", null ],

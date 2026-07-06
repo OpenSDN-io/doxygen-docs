@@ -20,6 +20,7 @@ var classKSync =
     [ "ksync_flow_index_manager", "d7/de7/classKSync.html#a34b611be9ec315aab26476cd1cb819a0", null ],
     [ "ksync_flow_memory", "d7/de7/classKSync.html#a721eb384f87a278354dbe22295d85a97", null ],
     [ "mirror_ksync_obj", "d7/de7/classKSync.html#a12f3fb51b779127b13a2313e5b02087e", null ],
+    [ "mpls_ksync_obj", "d7/de7/classKSync.html#a290e30ae88c0d9426e6ecdc913323cb6", null ],
     [ "NetlinkInit", "d7/de7/classKSync.html#a41ce6d14f78eac7ffeeee85c9fb42a79", null ],
     [ "nh_ksync_obj", "d7/de7/classKSync.html#ac8b25d35b2b8883411d25e49353c074c", null ],
     [ "qos_config_ksync_obj", "d7/de7/classKSync.html#a007ea6f58f10f39e0d73f06bfd3a5bc1", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/df6/classStatsCollector.html#a971ba577ef9cfb3008f8d5d7e34fa3e3":[2,0,1639,10],
 "d1/df6/classStatsCollector.html#aa7f35f0854225133b50f1818e5f3899d":[2,0,1639,4],
 "d1/df6/classStatsCollector.html#aa9d3a63b5f5c20ca4d3d078641810227":[2,0,1639,16],
 "d1/df6/classStatsCollector.html#ac1b7ef61a0ce13a3731d97de3b10fee6":[2,0,1639,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#aa09fd21144dc0f19d1361c1ef9f63425":[2,0,4,0,0,0,2],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ab845935d84a5a7bc07278cd73d0876c7":[2,0,4,0,0,0,0],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ad8496d5507bc1fc81bf3536883ef1f80":[2,0,4,0,0,0,4],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ae5c04fa1adb12edc45f3dd147174191b":[2,0,4,0,0,0,3],
-"d2/d00/policy__config__parser_8cc.html":[3,0,908]
+"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ae5c04fa1adb12edc45f3dd147174191b":[2,0,4,0,0,0,3]
 };

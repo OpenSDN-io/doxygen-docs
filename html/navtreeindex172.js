@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"db/da7/structEvTrafficSeen.html#a29744d6f2cbdb6e9cd4b73b8826175c4":[2,0,672,1],
+"db/da7/structEvTrafficSeen.html#ab71de0933bd8bb44daa1c4cf24b3e8a1":[2,0,672,0],
 "db/da8/structAgentQosConfigKey.html":[2,0,107],
 "db/da8/structAgentQosConfigKey.html#a57ec00e3e261ab886cfbf0acb83b640f":[2,0,107,0],
 "db/da8/structAgentQosConfigKey.html#ac0c46bda170137d13656fb7564762cf4":[2,0,107,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "db/dc4/classAgentUtXmlTask.html#aa580b46c3e8c8e8a0b2ec82b04d60232":[2,0,152,9],
 "db/dc4/classAgentUtXmlTask.html#ab16cfdd1375856f1b7eb0242a0f596a0":[2,0,152,6],
 "db/dc4/classAgentUtXmlTask.html#ac925f8d6b4984dd2dc1ac0c548b14fd5":[2,0,152,8],
-"db/dc4/classTunnelNHKey.html":[2,0,1742],
-"db/dc4/classTunnelNHKey.html#a44a7d21a40205ccae529a218c386d04d":[2,0,1742,6],
-"db/dc4/classTunnelNHKey.html#a504125aa5c1adc2cf0dc3240a695c67d":[2,0,1742,10]
+"db/dc4/classTunnelNHKey.html":[2,0,1742]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d2/db3/ifmap__node__proxy_8cc.html":[3,0,548],
 "d2/db3/ifmap__node__proxy_8cc_source.html":[3,0,548],
 "d2/db3/pkt__init_8h.html":[3,0,899],
 "d2/db3/pkt__init_8h.html#aeca0d53eb8a43b8dea3554a1cab65b01":[3,0,899,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d2/dc0/classXmppChannelMux.html#ab68c3dbf88dc891a13f436d547ff1ed8":[2,0,1920,30],
 "d2/dc0/classXmppChannelMux.html#ab91165b7c0e9dbd144873f2265938123":[2,0,1920,1],
 "d2/dc0/classXmppChannelMux.html#abd82997d1ddc9b76f37f658018b629ef":[2,0,1920,39],
-"d2/dc0/classXmppChannelMux.html#ac0488bf9e6396ba44426b71f6d48f501":[2,0,1920,21],
-"d2/dc0/classXmppChannelMux.html#ac1d9bd8a689be76a14b537d049b57b63":[2,0,1920,15]
+"d2/dc0/classXmppChannelMux.html#ac0488bf9e6396ba44426b71f6d48f501":[2,0,1920,21]
 };

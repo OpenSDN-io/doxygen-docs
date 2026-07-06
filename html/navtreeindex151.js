@@ -1,5 +1,7 @@
 var NAVTREEINDEX151 =
 {
+"da/d2c/classReceiveNH.html#a308ff97397cac85d005cafbe97f876ca":[2,0,1396,14],
+"da/d2c/classReceiveNH.html#a3646b5569aafa35e64b720be82519289":[2,0,1396,5],
 "da/d2c/classReceiveNH.html#a412affa035bff945156f7d2469a121a9":[2,0,1396,1],
 "da/d2c/classReceiveNH.html#a4ab35c6f4033987410faee274d379bbf":[2,0,1396,10],
 "da/d2c/classReceiveNH.html#a57b958dd2692e78b1918732e9d41a6f8":[2,0,1396,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX151 =
 "da/d47/classKSyncSockUds.html#a78e9122281037e155f77cec6c1280b95":[2,0,1017,19],
 "da/d47/classKSyncSockUds.html#a8353b31a62278ed537f7f14641d1b578":[2,0,1017,0],
 "da/d47/classKSyncSockUds.html#a89fee328289f99ea531521da5efcf0e9":[2,0,1017,3],
-"da/d47/classKSyncSockUds.html#a8c27a0b25496e2f21b59b07a08fa7da3":[2,0,1017,11],
-"da/d47/classKSyncSockUds.html#aaad39af4814bbcd4d982dfe68d3f9288":[2,0,1017,17],
-"da/d47/classKSyncSockUds.html#aad36a36619d65902c2cd7f67dac6e8df":[2,0,1017,18]
+"da/d47/classKSyncSockUds.html#a8c27a0b25496e2f21b59b07a08fa7da3":[2,0,1017,11]
 };

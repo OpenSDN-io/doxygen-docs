@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d2/d7a/classBgpYamlConfigManager.html#a4d2a83550bb6aa763b0029b87c27d528":[2,0,425,4],
 "d2/d7a/classBgpYamlConfigManager.html#a50292271dad81fad98eef199ab96185c":[2,0,425,14],
 "d2/d7a/classBgpYamlConfigManager.html#a50f101a830719ad38bd1439b68dd46be":[2,0,425,9],
 "d2/d7a/classBgpYamlConfigManager.html#a663f35cbd91b4cbf35786e7f845607d8":[2,0,425,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d2/d8f/classVrouterUveEntry.html#a71bc4a3993bb7476a7283fb53954f3b6":[2,0,1884,25],
 "d2/d8f/classVrouterUveEntry.html#a77988abd67c908182b8d68828c64458f":[2,0,1884,24],
 "d2/d8f/classVrouterUveEntry.html#a79ffea357a03211d040b4b5cb1925556":[2,0,1884,12],
-"d2/d8f/classVrouterUveEntry.html#aa048c38c0214146dfaa361ab2f79710c":[2,0,1884,5],
-"d2/d8f/classVrouterUveEntry.html#aabf05ba7bf7c1e91f6c3492922b10b22":[2,0,1884,7]
+"d2/d8f/classVrouterUveEntry.html#aa048c38c0214146dfaa361ab2f79710c":[2,0,1884,5]
 };

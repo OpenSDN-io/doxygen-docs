@@ -1,5 +1,7 @@
 var NAVTREEINDEX123 =
 {
+"d8/d2a/classBFD_1_1DesiredMinTxInterval.html":[2,0,2,12],
+"d8/d2a/classBFD_1_1DesiredMinTxInterval.html#a306f3ae1ad3fa54fd76c1ec93355f25a":[2,0,2,12,1],
 "d8/d2a/classServiceChainRequest.html":[2,0,1558],
 "d8/d2a/classServiceChainRequest.html#a07306cd6250fd6d869d17029e9b3a3bd":[2,0,1558,9],
 "d8/d2a/classServiceChainRequest.html#a23410b1cbe69afdf5b4efe50bbfcd9d1":[2,0,1558,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX123 =
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a61fcfffc4a03fa119a03f9ac8a0b5ec7":[2,0,407,1,16],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a664b6be19f33e407de807c0504d24290":[2,0,407,1,23],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a68b1809fd7ff099efb7f83a411e3dee3":[2,0,407,1,18],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60":[2,0,407,1,9],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a7b0e7588927ad5b9c6722a97e1e8d5ab":[2,0,407,1,5],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a89a667dd445325ca169b55c103f4091e":[2,0,407,1,26]
+"d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60":[2,0,407,1,9]
 };

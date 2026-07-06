@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"d7/d24/structBgpFamilyAttributesConfig.html#acf971f4bcca25d068d8602fd39a7a85b":[2,0,273,0],
 "d7/d26/classBgpSenderPartition_1_1RibState.html":[2,0,407,2],
 "d7/d26/classBgpSenderPartition_1_1RibState.html#a0d8dc905de31e0ed2cb704dacc6d0d28":[2,0,407,2,4],
 "d7/d26/classBgpSenderPartition_1_1RibState.html#a1e1b7a6cc0c941bb570e03152cac8bcf":[2,0,407,2,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d7/d40/classOVSDB_1_1HaStaleDevVnSandeshTask.html#abfe0b79f4b16d6304e9434967b505999":[2,0,15,36,8],
 "d7/d40/classOVSDB_1_1HaStaleDevVnSandeshTask.html#acd0e589b8fd67efde8f1faea8d9c6b6c":[2,0,15,36,9],
 "d7/d40/classOVSDB_1_1HaStaleDevVnSandeshTask.html#aea6ea346728670617ce534957c7377a1":[2,0,15,36,12],
-"d7/d41/inet__table_8cc.html":[3,0,603],
-"d7/d41/inet__table_8cc.html#a98ec2c041c7c90ef76d3cf3b325a07fd":[3,0,603,0]
+"d7/d41/inet__table_8cc.html":[3,0,603]
 };

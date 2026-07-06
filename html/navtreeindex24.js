@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d1/daa/classBgpIfmapProtocolConfig.html#abda61143dd6bfaa2a6224d7277e6ef85":[2,0,285,13],
 "d1/daa/classBgpIfmapProtocolConfig.html#ac63dc6dba40ee951659cd07f34a95f4a":[2,0,285,1],
 "d1/daa/classBgpIfmapProtocolConfig.html#acf5ab899ce71309780ba0e8fdd2a2f95":[2,0,285,10],
 "d1/daa/classBgpIfmapProtocolConfig.html#ad8e094e9e50365b5a76e3ae626256c04":[2,0,285,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#a577e2a6f5eda1aa0bac0e0df5fd772b9":[2,0,1087,1,0],
 "d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#a720b4e1412afc3ec136ad22dca9a1305":[2,0,1087,1,8],
 "d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#a8e60ec1d4ab710b4a96ebcae3f1ef198":[2,0,1087,1,4],
-"d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#a9ab113e202163ffa53da09be16e2ea71":[2,0,1087,1,3],
-"d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#aa0e6043710ec9c968cbeec9b35afaf56":[2,0,1087,1,6]
+"d1/dc3/structMacLearningDBClient_1_1MacLearningHealthCheckState.html#a9ab113e202163ffa53da09be16e2ea71":[2,0,1087,1,3]
 };

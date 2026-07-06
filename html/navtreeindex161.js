@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"db/d12/classOVSDB_1_1VlanPortBindingEntry.html#ab7da369b2f4f25a0cf6e047b6c7d4b04":[2,0,15,49,13],
+"db/d12/classOVSDB_1_1VlanPortBindingEntry.html#ac1a6c59a4c152388e1412d762377df62":[2,0,15,49,1],
 "db/d12/classOVSDB_1_1VlanPortBindingEntry.html#ad2d007f26e948e82577b9b344a97fbf9":[2,0,15,49,0],
 "db/d12/classOVSDB_1_1VlanPortBindingEntry.html#ad7974d892ebffc71b025461ca8e332a7":[2,0,15,49,9],
 "db/d12/classOVSDB_1_1VlanPortBindingEntry.html#adadbb7e8f942a18fd49a5df8963289b9":[2,0,15,49,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "db/d26/classBgpServer.html#a25823685d85a4ba486aa69412427cc27":[2,0,408,44],
 "db/d26/classBgpServer.html#a2682da2ea2d21bf3d8f425d5fea5bb82":[2,0,408,54],
 "db/d26/classBgpServer.html#a27f284457dd13f5fd87d953219be4a43":[2,0,408,39],
-"db/d26/classBgpServer.html#a2cd9c6fdff7b4c39397a98de62f0cf64":[2,0,408,47],
-"db/d26/classBgpServer.html#a2d5c94b3a7addc589cb370f5ff025603":[2,0,408,127],
-"db/d26/classBgpServer.html#a2de3d6b483c6c029a4ff80082935721d":[2,0,408,48]
+"db/d26/classBgpServer.html#a2cd9c6fdff7b4c39397a98de62f0cf64":[2,0,408,47]
 };

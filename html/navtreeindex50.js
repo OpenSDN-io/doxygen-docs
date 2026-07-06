@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d3/d56/bgp__xmpp__sandesh_8h.html#a146e3a9dc9a83c4b2acc7c25c218e6a0":[3,0,206,0],
 "d3/d56/bgp__xmpp__sandesh_8h_source.html":[3,0,206],
 "d3/d56/classBgpOList.html":[2,0,305],
 "d3/d56/classBgpOList.html#a1662ca06933485f6d2f5d3e00dbb4a97":[2,0,305,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d3/d71/classServicesModule.html#a6a392c46e18de2d57cc23b3ed7d74beb":[2,0,1567,16],
 "d3/d71/classServicesModule.html#a6dfa9940641060ba221588369d383a9a":[2,0,1567,22],
 "d3/d71/classServicesModule.html#a73f65acebbd61db5d7d8b021e6a07b94":[2,0,1567,6],
-"d3/d71/classServicesModule.html#a820bd4d0b3e9f4b4296ca971b03d47f6":[2,0,1567,27],
-"d3/d71/classServicesModule.html#a881f8192004b22352292bd2534b1a47c":[2,0,1567,23]
+"d3/d71/classServicesModule.html#a820bd4d0b3e9f4b4296ca971b03d47f6":[2,0,1567,27]
 };

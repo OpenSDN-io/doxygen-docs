@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d3/dbd/classMcastTreeManager.html#a4b94f11706794edd908d50de97f83435":[2,0,1129,40],
 "d3/dbd/classMcastTreeManager.html#a522093af8ec669f20d11902598159e21":[2,0,1129,38],
 "d3/dbd/classMcastTreeManager.html#a5a9ea48b42090bd4145370d18b8fae54":[2,0,1129,9],
 "d3/dbd/classMcastTreeManager.html#a5cc1fdd97348cce692b097ee6ce352c4":[2,0,1129,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a15762bd3b3eaefe398f30de7743c04ef":[2,0,425,0,12],
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a18b355731744dd105e3ebffb37155a02":[2,0,425,0,2],
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a18f6ffd4b17c7a8ecc1005a2d599809a":[2,0,425,0,14],
-"d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a2610e0782329486320a86635f1cd8fc8":[2,0,425,0,5],
-"d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a39ac341b4a53e6c245c3b9c676d8c35c":[2,0,425,0,11]
+"d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a2610e0782329486320a86635f1cd8fc8":[2,0,425,0,5]
 };

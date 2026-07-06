@@ -1,5 +1,6 @@
 var NAVTREEINDEX71 =
 {
+"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#aae17651cc0530da42a67a27ee0605733":[2,0,8,159,13],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ab230e4e37741a18dfe22920705550b8f":[2,0,8,159,23],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ab2eaa8b1f5dd1e87f96d26deca7ee88a":[2,0,8,159,17],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#ab8151a72844f0c4abaf5292e6d4411c0":[2,0,8,159,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d0a/classConfigManager.html#acaa51c1752c93b0f5ff044139f48c317":[2,0,495,33],
 "d5/d0a/classConfigManager.html#acbc8ee10c3a43201b96410f5061c6e85":[2,0,495,13],
 "d5/d0a/classConfigManager.html#ad07dd17fced2c565f90bef1ff472b557":[2,0,495,38],
-"d5/d0a/classConfigManager.html#ad0bc6717cac046e2e6a35d8a3e10c70f":[2,0,495,16],
-"d5/d0a/classConfigManager.html#ada0d875bd80286b2e8b6c99f0f294125":[2,0,495,14]
+"d5/d0a/classConfigManager.html#ad0bc6717cac046e2e6a35d8a3e10c70f":[2,0,495,16]
 };

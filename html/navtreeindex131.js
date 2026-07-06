@@ -1,5 +1,7 @@
 var NAVTREEINDEX131 =
 {
+"d8/dd8/classBridgeRouteAuditKSyncEntry.html#a6d67329691630de975e7860774d74131":[2,0,437,9],
+"d8/dd8/classBridgeRouteAuditKSyncEntry.html#a7601a3bc43dd06ebac97ee62b6236f1f":[2,0,437,8],
 "d8/dd8/classBridgeRouteAuditKSyncEntry.html#a90ab441d5db89abbae36c10a3d896c83":[2,0,437,13],
 "d8/dd8/classBridgeRouteAuditKSyncEntry.html#a9f4ec225f0b6e6b6e84e0864c227081b":[2,0,437,10],
 "d8/dd8/classBridgeRouteAuditKSyncEntry.html#aa3709fe8b890dfccc2a8f8098da000d7":[2,0,437,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX131 =
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a7a5c6cbcb79046f5189c804c2dec98c4":[2,0,599,5,3],
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a858e27367d84edd03fba64ce7a42835e":[2,0,599,5,7],
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a8e150d33531b3553a15d897b436f0265":[2,0,599,5,9],
-"d8/df2/structDnsProto_1_1DnsUpdateIpc.html#ad26545eac215d162c3482f0a647310c6":[2,0,599,5,6],
-"d8/df2/structDnsProto_1_1DnsUpdateIpc.html#ad4baf7cd21c46508ac9b00aa63dcc387":[2,0,599,5,8],
-"d8/df3/classPeerStats.html":[2,0,1296]
+"d8/df2/structDnsProto_1_1DnsUpdateIpc.html#ad26545eac215d162c3482f0a647310c6":[2,0,599,5,6]
 };

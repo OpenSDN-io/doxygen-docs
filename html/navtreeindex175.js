@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"db/df1/classBgpXmppPeerClose.html#a6e15507c5932184167c0538de25e18b7":[2,0,423,7],
+"db/df1/classBgpXmppPeerClose.html#a6fa5b5a358c8355a1981f6451443aee4":[2,0,423,9],
 "db/df1/classBgpXmppPeerClose.html#a8cd81c230c85ef3d0b750ddb9c0d3416":[2,0,423,0],
 "db/df1/classBgpXmppPeerClose.html#a988fe871536aa3f93ea512e4e9ac280e":[2,0,423,10],
 "db/df1/classBgpXmppPeerClose.html#a9eb725f3cb66b0c4dd039bec15c51954":[2,0,423,23],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "db/dff/classOVSDB_1_1PhysicalLocatorEntry.html":[2,0,15,39],
 "db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a1ebd594301da60aeb67574e9c3489671":[2,0,15,39,2],
 "db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a4354850c68ee77df788eff62f8b77779":[2,0,15,39,6],
-"db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a5373ddc32ddb7b32e7651509f6fd9679":[2,0,15,39,1],
-"db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a83a2d99731fe811f2a3c3f1e636ebef9":[2,0,15,39,5],
-"db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a8fbd9e0961efe960e6ac1a3321ca39ee":[2,0,15,39,7]
+"db/dff/classOVSDB_1_1PhysicalLocatorEntry.html#a5373ddc32ddb7b32e7651509f6fd9679":[2,0,15,39,1]
 };

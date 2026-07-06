@@ -52,6 +52,7 @@ var classKSyncEntry =
     [ "IsInSync", "dc/df2/classKSyncEntry.html#a161137dea44da29113560cdfe6c1b1ab", null ],
     [ "IsLess", "dc/df2/classKSyncEntry.html#ae2276d52abb55fdf890928a1b079443c", null ],
     [ "IsResolved", "dc/df2/classKSyncEntry.html#aac477395b92d982449b2cf1b7cfd7975", null ],
+    [ "IsResolvedAndInSync", "dc/df2/classKSyncEntry.html#abfcc90946b5c8a66e2d1833ba37ac47c", null ],
     [ "operator<", "dc/df2/classKSyncEntry.html#ac1c1f0140c69fc36641073153273393e", null ],
     [ "pre_alloc_rx_buffer", "dc/df2/classKSyncEntry.html#ab95f4bec0dac90d76152c18079c65a1c", null ],
     [ "RecordTransition", "dc/df2/classKSyncEntry.html#aca656703f1757f1eb35bf7f856f71093", null ],
