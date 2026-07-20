@@ -1,52 +1,52 @@
 <map id="MetadataProxy::RegisterListeners" name="MetadataProxy::RegisterListeners">
-<area shape="rect" id="node1" title="Registers callbacks to intercept Agent&#39;s events emerging when a VRF entry is modified or an Interface..." alt="" coords="5,1344,224,1371"/>
-<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="1039,1235,1195,1261"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="1041,1373,1192,1400"/>
-<area shape="rect" id="node4" href="$db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386" title="A callback which is invoked everytime any vm interface is changed. Handles deletion of routes associa..." alt="" coords="273,1143,475,1185"/>
-<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="1059,781,1174,808"/>
-<area shape="rect" id="node39" href="$db/d96/classMetadataProxy.html#a5158bc7b73d949b2d2ba461978d96e7a" title="A callback that is invoked each time when a VRF entry is modified: added, changed or deleted." alt="" coords="272,1712,476,1739"/>
-<area shape="rect" id="node49" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title=" " alt="" coords="534,2215,693,2241"/>
+<area shape="rect" id="node1" title="Registers callbacks to intercept Agent&#39;s events emerging when a VRF entry is modified or an Interface..." alt="" coords="5,1484,224,1511"/>
+<area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="1039,1316,1195,1343"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="1041,1455,1192,1481"/>
+<area shape="rect" id="node4" href="$db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386" title="A callback which is invoked everytime any vm interface is changed. Handles deletion of routes associa..." alt="" coords="273,1246,475,1287"/>
+<area shape="rect" id="node30" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="1059,1117,1174,1144"/>
+<area shape="rect" id="node39" href="$db/d96/classMetadataProxy.html#a5158bc7b73d949b2d2ba461978d96e7a" title="A callback that is invoked each time when a VRF entry is modified: added, changed or deleted." alt="" coords="272,1877,476,1904"/>
+<area shape="rect" id="node48" href="$d7/df2/classDBTableBase.html#a58ca11bafdf9674c431357ecaa893b96" title=" " alt="" coords="534,2252,693,2279"/>
 <area shape="rect" id="node5" href="$db/d96/classMetadataProxy.html#a9dee541a1187248c19409e9101dc2b14" title="Deletes an announced earlier route to a vm interface via a given IPv6 address." alt="" coords="765,470,949,511"/>
-<area shape="rect" id="node24" href="$db/d96/classMetadataProxy.html#a310d717e78d98fc95d84a7f33820c5c7" title="Deletes the LL route to vhost0 interface in the fabric VRF instance." alt="" coords="762,941,951,982"/>
-<area shape="rect" id="node27" href="$db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53" title="Initializes an HTTP server for IPv6 requests." alt="" coords="531,1143,695,1185"/>
-<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ad0906665233ed950d7ccf176587e5c44" title=" " alt="" coords="1039,832,1194,859"/>
-<area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="773,1712,940,1739"/>
-<area shape="rect" id="node6" href="$da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title=" " alt="" coords="1022,985,1211,1026"/>
-<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="1031,325,1202,352"/>
-<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#aa166dd176c87f9db039517f7ef051d17" title=" " alt="" coords="1057,680,1176,707"/>
-<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ae7a09205339edcfbc430d239d2e74ed1" title=" " alt="" coords="1037,933,1196,960"/>
-<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ac9a484dacd7e9a5646c60b43eab6bf5b" title=" " alt="" coords="1011,5,1223,32"/>
-<area shape="rect" id="node11" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="1300,123,1415,149"/>
-<area shape="rect" id="node12" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="1271,622,1444,663"/>
-<area shape="rect" id="node14" href="$d8/d00/classVnEntry.html#a8d621341e61912635c3276285d7d09cc" title=" " alt="" coords="1050,376,1183,403"/>
-<area shape="rect" id="node15" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="1049,427,1184,453"/>
-<area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#a6aabd18ecb01d37dc03a850e60ee5a8a" title=" " alt="" coords="1041,629,1192,656"/>
+<area shape="rect" id="node24" href="$db/d96/classMetadataProxy.html#a310d717e78d98fc95d84a7f33820c5c7" title="Deletes the LL route to vhost0 interface in the fabric VRF instance." alt="" coords="762,942,951,983"/>
+<area shape="rect" id="node27" href="$db/d96/classMetadataProxy.html#af0aa1a434c5411f4535d23b3c6c83a53" title="Initializes an HTTP server for IPv6 requests." alt="" coords="531,1246,695,1287"/>
+<area shape="rect" id="node29" href="$d8/dfe/classAgent.html#ad0906665233ed950d7ccf176587e5c44" title=" " alt="" coords="1039,848,1194,875"/>
+<area shape="rect" id="node38" href="$d8/d44/classDBEntryBase.html#a6e114de0b1d87e87453d6fb920aa6ce8" title=" " alt="" coords="773,1816,940,1843"/>
+<area shape="rect" id="node6" href="$da/dcd/classInetUnicastAgentRouteTable.html#a24772beed5e2fa7c8381965069715f80" title=" " alt="" coords="1022,782,1211,823"/>
+<area shape="rect" id="node7" href="$d8/dfe/classAgent.html#a8977d0b8bed50890e9faaf430c3d1402" title=" " alt="" coords="1031,157,1202,184"/>
+<area shape="rect" id="node8" href="$d8/dfe/classAgent.html#aa166dd176c87f9db039517f7ef051d17" title=" " alt="" coords="1057,1067,1176,1093"/>
+<area shape="rect" id="node9" href="$d8/dfe/classAgent.html#ae7a09205339edcfbc430d239d2e74ed1" title=" " alt="" coords="1037,899,1196,925"/>
+<area shape="rect" id="node10" href="$d5/d21/classVmInterface.html#ac9a484dacd7e9a5646c60b43eab6bf5b" title=" " alt="" coords="1011,107,1223,133"/>
+<area shape="rect" id="node11" href="$d0/dcc/classInterface.html#a72fda10b9eb89b425df5358b06059d77" title=" " alt="" coords="1300,107,1415,133"/>
+<area shape="rect" id="node12" href="$d2/d3d/classVrfEntry.html#aa9101c54f99ef72cbf53f5856bafcae2" title=" " alt="" coords="1271,673,1444,714"/>
+<area shape="rect" id="node14" href="$d8/d00/classVnEntry.html#a8d621341e61912635c3276285d7d09cc" title=" " alt="" coords="1050,208,1183,235"/>
+<area shape="rect" id="node15" href="$d2/d3d/classVrfEntry.html#a0644d3af9290456a4d19a866dc6d89d0" title=" " alt="" coords="1049,259,1184,285"/>
+<area shape="rect" id="node16" href="$d2/d3d/classVrfEntry.html#a6aabd18ecb01d37dc03a850e60ee5a8a" title=" " alt="" coords="1041,579,1192,605"/>
 <area shape="rect" id="node17" href="$d0/dcc/classInterface.html#aaba615a4a70bfa64162d40517c5bc2d9" title=" " alt="" coords="1062,731,1171,757"/>
-<area shape="rect" id="node18" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title=" " alt="" coords="1041,477,1193,504"/>
-<area shape="rect" id="node19" href="$d5/d21/classVmInterface.html#afd01734c023c5f4a64f75cc2b58a9ea0" title=" " alt="" coords="1053,528,1180,555"/>
-<area shape="rect" id="node20" href="$d5/d9f/classInetUnicastRouteEntry.html#a7fad580780242fccc9db5c419debe392" title="!" alt="" coords="1039,57,1195,98"/>
-<area shape="rect" id="node21" href="$d6/dd4/classPeer.html#a508d9f2965fe702ee626673b1b8d5bfc" title=" " alt="" coords="1035,173,1198,200"/>
-<area shape="rect" id="node22" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="1059,224,1175,251"/>
-<area shape="rect" id="node23" href="$d5/d21/classVmInterface.html#afeb53fe31d5464495a856c4a193e5e11" title=" " alt="" coords="1038,275,1195,301"/>
-<area shape="rect" id="node13" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="1492,629,1657,656"/>
-<area shape="rect" id="node25" href="$db/d96/classMetadataProxy.html#a9cbc8ab817793078cf19cc666ab97aee" title="Returns an IPv6 address of the Metadata TF link local service." alt="" coords="1023,1050,1210,1091"/>
-<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#ab6b620a6b62553a8ce8426e2ce3a4370" title=" " alt="" coords="1041,1116,1192,1143"/>
-<area shape="rect" id="node28" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance." alt="" coords="771,875,943,917"/>
-<area shape="rect" id="node31" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title=" " alt="" coords="751,1311,963,1353"/>
-<area shape="rect" id="node32" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title=" " alt="" coords="789,1057,925,1084"/>
-<area shape="rect" id="node33" href="$d8/dfe/classAgent.html#a3f89cbba8fb9e876c1a5f333ebc94b28" title=" " alt="" coords="761,1108,952,1135"/>
-<area shape="rect" id="node34" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses." alt="" coords="767,1530,946,1571"/>
-<area shape="rect" id="node35" href="$d8/dfe/classAgent.html#a7a7650115f4a9fc4dd8ac2f8c5765a65" title=" " alt="" coords="1020,1603,1213,1629"/>
-<area shape="rect" id="node36" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name." alt="" coords="1025,1537,1208,1564"/>
-<area shape="rect" id="node37" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title=" " alt="" coords="763,1007,950,1033"/>
-<area shape="rect" id="node40" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="524,1847,703,1889"/>
-<area shape="rect" id="node41" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="775,1829,939,1856"/>
-<area shape="rect" id="node42" href="$d4/d57/classAgentRoute.html#a6e333f7398c11428594f33747c20c554" title=" " alt="" coords="765,1880,948,1907"/>
-<area shape="rect" id="node43" href="$de/d30/classInterfaceNH.html#a58959a145e76232e41dd03a28542b5bc" title=" " alt="" coords="769,1931,944,1957"/>
-<area shape="rect" id="node44" href="$d5/d21/classVmInterface.html#a6cafcd1afa18945fd209b48d6e1eaab0" title=" " alt="" coords="787,1982,926,2023"/>
-<area shape="rect" id="node45" href="$db/d96/classMetadataProxy.html#aa66919db6dfadb17b89292ab99e42ba9" title="Adds routes to internal addresses of VM&#39;s interfaces." alt="" coords="766,1595,947,1637"/>
-<area shape="rect" id="node46" href="$db/d96/classMetadataProxy.html#a2dd15df80598cda1d4c8331744fa461b" title="Adds a new neighbour (an arp entry) with given IP and MAC addresses." alt="" coords="766,2047,947,2089"/>
-<area shape="rect" id="node47" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="788,2113,925,2140"/>
-<area shape="rect" id="node48" href="$d5/d9a/classAgentRoutePrefix.html#a0d06bcd789c3dab54155a0a574cd29ae" title="Returns the value of a stored prefix address (IPv4, IPv6 or MAC address)" alt="" coords="775,1763,939,1805"/>
-<area shape="rect" id="node50" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="785,2215,928,2241"/>
+<area shape="rect" id="node18" href="$d3/d08/classTunnelType.html#af345f303a9018eafaa17af68ad22e29a" title=" " alt="" coords="1041,309,1193,336"/>
+<area shape="rect" id="node19" href="$d5/d21/classVmInterface.html#afd01734c023c5f4a64f75cc2b58a9ea0" title=" " alt="" coords="1053,360,1180,387"/>
+<area shape="rect" id="node20" href="$d5/d9f/classInetUnicastRouteEntry.html#a7fad580780242fccc9db5c419debe392" title="!" alt="" coords="1039,411,1195,453"/>
+<area shape="rect" id="node21" href="$d6/dd4/classPeer.html#a508d9f2965fe702ee626673b1b8d5bfc" title=" " alt="" coords="1035,477,1198,504"/>
+<area shape="rect" id="node22" href="$d5/d21/classVmInterface.html#aaa25daa0a8e92f49a7dfa642c3345bf9" title=" " alt="" coords="1059,528,1175,555"/>
+<area shape="rect" id="node23" href="$d5/d21/classVmInterface.html#afeb53fe31d5464495a856c4a193e5e11" title=" " alt="" coords="1038,5,1195,32"/>
+<area shape="rect" id="node13" href="$d2/d3d/classVrfEntry.html#aeba107f20969f897f1e73dd12277ba73" title=" " alt="" coords="1492,680,1657,707"/>
+<area shape="rect" id="node25" href="$db/d96/classMetadataProxy.html#a9cbc8ab817793078cf19cc666ab97aee" title="Returns an IPv6 address of the Metadata TF link local service." alt="" coords="1023,1001,1210,1042"/>
+<area shape="rect" id="node26" href="$d8/dfe/classAgent.html#ab6b620a6b62553a8ce8426e2ce3a4370" title=" " alt="" coords="1041,949,1192,976"/>
+<area shape="rect" id="node28" href="$db/d96/classMetadataProxy.html#a4e50be979b62bc615b439069d533806c" title="Advertises the LL route to vhost0 interface in the fabric VRF instance." alt="" coords="771,877,943,918"/>
+<area shape="rect" id="node31" href="$db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4" title=" " alt="" coords="751,1363,963,1405"/>
+<area shape="rect" id="node32" href="$de/df9/classTcpServer.html#a85787a8952c38ab5fad0f35b1d495a87" title=" " alt="" coords="789,1160,925,1187"/>
+<area shape="rect" id="node33" href="$d8/dfe/classAgent.html#a3f89cbba8fb9e876c1a5f333ebc94b28" title=" " alt="" coords="761,1211,952,1237"/>
+<area shape="rect" id="node34" href="$db/d96/classMetadataProxy.html#a6a51ff8e1d9817a88aee90ca09e67f41" title="Adds an IP address specified in vhost_ll_ip to vhost0 interface inet6 addresses." alt="" coords="767,1582,946,1623"/>
+<area shape="rect" id="node35" href="$d8/dfe/classAgent.html#a7a7650115f4a9fc4dd8ac2f8c5765a65" title=" " alt="" coords="1020,1589,1213,1616"/>
+<area shape="rect" id="node36" href="$db/d96/classMetadataProxy.html#ab5df95a78c1722e10133f1c3f8cd60f1" title="Returns index of a network device that is specified by vhost_name." alt="" coords="1025,1707,1208,1733"/>
+<area shape="rect" id="node37" href="$dd/dab/classHttpServer.html#a262671e8e87b00772551cf352e227598" title=" " alt="" coords="763,1109,950,1136"/>
+<area shape="rect" id="node40" href="$db/d96/classMetadataProxy.html#ac2870be1f2412f1746ca4c57fca0d5fe" title="A callback that is invoked each time when a route is modified in the fabric policy VRF inet4 unicast ..." alt="" coords="524,1906,703,1947"/>
+<area shape="rect" id="node50" href="$d7/df2/classDBTableBase.html#ac129112bd99b80830a6377aa9bf1c609" title=" " alt="" coords="528,1972,699,1999"/>
+<area shape="rect" id="node41" href="$d8/d44/classDBEntryBase.html#a369484b749a2e7b3846a2eac1d489589" title=" " alt="" coords="775,2100,939,2127"/>
+<area shape="rect" id="node42" href="$d4/d57/classAgentRoute.html#a6e333f7398c11428594f33747c20c554" title=" " alt="" coords="765,2151,948,2177"/>
+<area shape="rect" id="node43" href="$de/d30/classInterfaceNH.html#a58959a145e76232e41dd03a28542b5bc" title=" " alt="" coords="769,1867,944,1893"/>
+<area shape="rect" id="node44" href="$d5/d21/classVmInterface.html#a6cafcd1afa18945fd209b48d6e1eaab0" title=" " alt="" coords="787,1918,926,1959"/>
+<area shape="rect" id="node45" href="$db/d96/classMetadataProxy.html#aa66919db6dfadb17b89292ab99e42ba9" title="Adds routes to internal addresses of VM&#39;s interfaces." alt="" coords="766,1699,947,1741"/>
+<area shape="rect" id="node46" href="$db/d96/classMetadataProxy.html#a2dd15df80598cda1d4c8331744fa461b" title="Adds a new neighbour (an arp entry) with given IP and MAC addresses." alt="" coords="766,1983,947,2025"/>
+<area shape="rect" id="node47" href="$d4/d3d/classAgentPath.html#a55804169d4a31923bc518ff2ff9eda66" title=" " alt="" coords="788,2049,925,2076"/>
+<area shape="rect" id="node49" href="$d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6" title=" " alt="" coords="785,2252,928,2279"/>
 </map>

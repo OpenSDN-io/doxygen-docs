@@ -1,7 +1,6 @@
 <map id="MetadataProxy::UnregisterListeners" name="MetadataProxy::UnregisterListeners">
-<area shape="rect" id="node1" title="Unregisters all callbacks that were registered earlier to intercept Agent&#39;s events: MetadataProxy::On..." alt="" coords="5,74,183,115"/>
+<area shape="rect" id="node1" title="Unregisters all callbacks that were registered earlier to intercept Agent&#39;s events: MetadataProxy::On..." alt="" coords="5,49,183,90"/>
 <area shape="rect" id="node2" href="$d3/d71/classServicesModule.html#a6442447171a03c4df8f7d0307205c887" title=" " alt="" coords="231,5,387,32"/>
-<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#aa166dd176c87f9db039517f7ef051d17" title=" " alt="" coords="249,56,368,83"/>
-<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="233,107,384,133"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="251,157,366,184"/>
+<area shape="rect" id="node3" href="$d8/dfe/classAgent.html#a0510a6f417119f12186f35008eac3f43" title=" " alt="" coords="233,56,384,83"/>
+<area shape="rect" id="node4" href="$d8/dfe/classAgent.html#a52cd5f7ed87f5f496ca15fb5fcbbb090" title=" " alt="" coords="251,107,366,133"/>
 </map>

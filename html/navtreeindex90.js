@@ -1,5 +1,9 @@
 var NAVTREEINDEX90 =
 {
+"d5/df9/xmpp__connection_8cc.html":[3,0,1331],
+"d5/df9/xmpp__connection_8cc.html#abea9942d9433bfc93ac6d34189406c8e":[3,0,1331,2],
+"d5/df9/xmpp__connection_8cc.html#ac0fa610ba4da90e0962a9f28a4ba8faa":[3,0,1331,3],
+"d5/df9/xmpp__connection_8cc_source.html":[3,0,1331],
 "d5/dfa/namespacezookeeper.html":[1,0,35],
 "d5/dfb/namespacePatricia.html":[1,0,21],
 "d5/dfd/classUdpPort.html":[2,0,1744],
@@ -245,9 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html":[2,0,1376,0],
 "d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a056a399b4a553e2fe1aa321ea3e6e6ab":[2,0,1376,0,6],
 "d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a0c83906f321d6e73c6352945f56f2322":[2,0,1376,0,3],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a0da16315b7d0c23c5207cec77d1bd661":[2,0,1376,0,1],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a1fef37fa58af876baabbc768f0e51330":[2,0,1376,0,8],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a3ece865eac3b7ca763f66183a03ee600":[2,0,1376,0,2],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a428e381fda824cb2d1e1cb42678b3c1e":[2,0,1376,0,7],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a637195e7b2acd1bee2fccba2a3af4f1d":[2,0,1376,0,4]
+"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a0da16315b7d0c23c5207cec77d1bd661":[2,0,1376,0,1]
 };

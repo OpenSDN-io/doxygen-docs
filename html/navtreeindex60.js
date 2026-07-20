@@ -1,5 +1,9 @@
 var NAVTREEINDEX60 =
 {
+"d4/d0c/classWorkQueue.html#ab03f8334acf92647b77ed16069ca76e6":[2,0,1908,56],
+"d4/d0c/classWorkQueue.html#ab1e9394795703dbcca84d911dbb41715":[2,0,1908,59],
+"d4/d0c/classWorkQueue.html#ab21a042b93faea754797c18d85cb6611":[2,0,1908,21],
+"d4/d0c/classWorkQueue.html#ab4e87e878e7220f41813f1f963435bf6":[2,0,1908,6],
 "d4/d0c/classWorkQueue.html#ab8756bfb44af1c241e87854b209b4182":[2,0,1908,3],
 "d4/d0c/classWorkQueue.html#abb56c7066f8d2769d32287aa887fc18e":[2,0,1908,7],
 "d4/d0c/classWorkQueue.html#abb6b4efb002ba0002095a5c60d976ec1":[2,0,1908,84],
@@ -245,9 +249,5 @@ var NAVTREEINDEX60 =
 "d4/d21/classXmppServer_1_1DeleteActor.html#a1c674babf87dd48711b29dffbdce7796":[2,0,1933,0,4],
 "d4/d21/classXmppServer_1_1DeleteActor.html#a3d3f9240b2d394ae192381c0bea7923c":[2,0,1933,0,3],
 "d4/d21/classXmppServer_1_1DeleteActor.html#a8f282121e008ff1b6f70e263e545e513":[2,0,1933,0,1],
-"d4/d21/classXmppServer_1_1DeleteActor.html#afd0db4a8e2dac1052e065a50636b00b1":[2,0,1933,0,2],
-"d4/d21/structVmInterface_1_1ListEntry.html":[2,0,1792,16],
-"d4/d21/structVmInterface_1_1ListEntry.html#a0ad16b7879a3bc1e41cc809e48b03224":[2,0,1792,16,1],
-"d4/d21/structVmInterface_1_1ListEntry.html#a132f10edd8d1fd7da1fed525dfcf1acd":[2,0,1792,16,2],
-"d4/d21/structVmInterface_1_1ListEntry.html#a2def8a2a211ac33e4e6bd15e50c789b9":[2,0,1792,16,3]
+"d4/d21/classXmppServer_1_1DeleteActor.html#afd0db4a8e2dac1052e065a50636b00b1":[2,0,1933,0,2]
 };

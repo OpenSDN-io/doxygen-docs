@@ -1,5 +1,9 @@
 var NAVTREEINDEX174 =
 {
+"db/ddc/controller__init_8h.html":[3,0,283],
+"db/ddc/controller__init_8h.html#a0084aa35c9e4dcd825beb53f5d1fee6b":[3,0,283,23],
+"db/ddc/controller__init_8h.html#a113dab5797fd8014f87d3877060f155b":[3,0,283,19],
+"db/ddc/controller__init_8h.html#a36528fb2e3e593af11f0bc717172bb43":[3,0,283,13],
 "db/ddc/controller__init_8h.html#a40b4aad48ad745b03602772d855b44b6":[3,0,283,17],
 "db/ddc/controller__init_8h.html#a4a58d3b0b42dbc51fdfde8f06573aafb":[3,0,283,18],
 "db/ddc/controller__init_8h.html#a5ac6272926ba40280e639c26692fde4f":[3,0,283,20],
@@ -245,9 +249,5 @@ var NAVTREEINDEX174 =
 "db/df1/classBgpXmppPeerClose.html#a2fedcf235ae8f1b1df69ea944e21bef0":[2,0,423,20],
 "db/df1/classBgpXmppPeerClose.html#a30a0d5bc6da695e4bb37b0084755e71f":[2,0,423,24],
 "db/df1/classBgpXmppPeerClose.html#a3416ecec72af5c5d42f55413df74645a":[2,0,423,12],
-"db/df1/classBgpXmppPeerClose.html#a3faabdaaffe0f827b95098befd050232":[2,0,423,19],
-"db/df1/classBgpXmppPeerClose.html#a44c0bca95bc5e34ccf7535365731a090":[2,0,423,3],
-"db/df1/classBgpXmppPeerClose.html#a5a2d4b61ba092d614562d18f63b05c1c":[2,0,423,6],
-"db/df1/classBgpXmppPeerClose.html#a5e919dbf5285a4221e46f4ec50689017":[2,0,423,21],
-"db/df1/classBgpXmppPeerClose.html#a6da1eb41e71030dd3286a54226c78964":[2,0,423,8]
+"db/df1/classBgpXmppPeerClose.html#a3faabdaaffe0f827b95098befd050232":[2,0,423,19]
 };

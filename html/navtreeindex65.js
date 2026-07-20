@@ -1,5 +1,9 @@
 var NAVTREEINDEX65 =
 {
+"d4/d72/classInet6VpnPrefix.html#af6f8e4b6b0b65a993f109430b2fc2536":[2,0,900,13],
+"d4/d72/classInet6VpnPrefix.html#af7078b09bfd711a5b17dd136d13ccf56":[2,0,900,3],
+"d4/d72/classInet6VpnPrefix.html#afacbaef173027b3e9f3a39781b125707":[2,0,900,7],
+"d4/d75/structUpdateInfo.html":[2,0,1754],
 "d4/d75/structUpdateInfo.html#a1c898899c7b33d4835d0d6ab44715479":[2,0,1754,6],
 "d4/d75/structUpdateInfo.html#a25db1007f8dd3247137baf57b3dd60c2":[2,0,1754,0],
 "d4/d75/structUpdateInfo.html#a3d2dc0d5e560591638e0cc93136107b8":[2,0,1754,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX65 =
 "d4/d83/classBFD_1_1Session.html#a9cb2a169e7f8868b8f72b162ba5bd496":[2,0,2,20,46],
 "d4/d83/classBFD_1_1Session.html#aae3223adec9927aa9a1eef3822ab37b6":[2,0,2,20,20],
 "d4/d83/classBFD_1_1Session.html#ac50a8576a2006f9b7bf6c76500081c90":[2,0,2,20,16],
-"d4/d83/classBFD_1_1Session.html#acfcf433f12d2e5551a5b98f32548ee8e":[2,0,2,20,11],
-"d4/d83/classBFD_1_1Session.html#ad5df47209b9e1441b2f05742ca64b28f":[2,0,2,20,39],
-"d4/d83/classBFD_1_1Session.html#adbca6088190606de630ce0ae24d6aac7":[2,0,2,20,6],
-"d4/d83/classBFD_1_1Session.html#adf0700854a09374c3f53976b159906a2":[2,0,2,20,33],
-"d4/d83/classBFD_1_1Session.html#ae22f22338da0177a01f342df4ef4ff5b":[2,0,2,20,25]
+"d4/d83/classBFD_1_1Session.html#acfcf433f12d2e5551a5b98f32548ee8e":[2,0,2,20,11]
 };

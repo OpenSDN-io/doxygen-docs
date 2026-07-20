@@ -1,5 +1,9 @@
 var NAVTREEINDEX123 =
 {
+"d8/d27/classBridgeRouteFlowMgmtTree.html#acde7201aceb7df62e5841daa6f82e307":[2,0,442,0],
+"d8/d29/classBgpOpenCapabilityCode.html":[2,0,315],
+"d8/d29/classBgpOpenCapabilityCode.html#a3d4bcf33ea580dcc6fb2406e7cb488d3":[2,0,315,1],
+"d8/d29/classBgpOpenCapabilityCode.html#ab78d8646d8ffdd14a119789d34956d6e":[2,0,315,0],
 "d8/d2a/classBFD_1_1DesiredMinTxInterval.html":[2,0,2,12],
 "d8/d2a/classBFD_1_1DesiredMinTxInterval.html#a306f3ae1ad3fa54fd76c1ec93355f25a":[2,0,2,12,1],
 "d8/d2a/classServiceChainRequest.html":[2,0,1558],
@@ -245,9 +249,5 @@ var NAVTREEINDEX123 =
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a3c5dc0978b30d1f0667e68f20a85abfd":[2,0,407,1,29],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a3ecc898d70b66a6070f3bf1b06a95355":[2,0,407,1,22],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a510cab29295ec48b9ff86aab171949c2":[2,0,407,1,31],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a601fd9b73481062f212da036751bab28":[2,0,407,1,30],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a61fcfffc4a03fa119a03f9ac8a0b5ec7":[2,0,407,1,16],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a664b6be19f33e407de807c0504d24290":[2,0,407,1,23],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a68b1809fd7ff099efb7f83a411e3dee3":[2,0,407,1,18],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a6b475d7a45b94a38cb41d92a11677e60":[2,0,407,1,9]
+"d8/d38/classBgpSenderPartition_1_1PeerState.html#a601fd9b73481062f212da036751bab28":[2,0,407,1,30]
 };

@@ -36,6 +36,7 @@ var classTaskGroup =
     [ "TaskExited", "d1/d72/classTaskGroup.html#a566e40993047d562995129ee7cd5b27f", null ],
     [ "TaskRunCount", "d1/d72/classTaskGroup.html#a46aca603e2cf99395636013c824cfd94", null ],
     [ "TaskStarted", "d1/d72/classTaskGroup.html#ae317e92461e33d5a91e2c14efa8ca81e", null ],
+    [ "tbb_group", "d1/d72/classTaskGroup.html#a5b90f4d11b1174a612e9951051da43fc", null ],
     [ "TaskEntry", "d1/d72/classTaskGroup.html#a19df1b79a183aa4aae143adca1540dcd", null ],
     [ "TaskScheduler", "d1/d72/classTaskGroup.html#a9f0573c5408a663c3874787eeb7d599e", null ],
     [ "deferq_", "d1/d72/classTaskGroup.html#ab876f54e4b968b4a1f7e02a1754be219", null ],
@@ -51,5 +52,6 @@ var classTaskGroup =
     [ "task_code_id_", "d1/d72/classTaskGroup.html#a01a4fe3ddce3315d869422e7483f7f53", null ],
     [ "task_entry_", "d1/d72/classTaskGroup.html#ac8f237bf18b4b2bd6b105d75d7caeda3", null ],
     [ "task_entry_db_", "d1/d72/classTaskGroup.html#abd110395700346df4ee633cb463c02f0", null ],
+    [ "tbb_group_", "d1/d72/classTaskGroup.html#aafa5cff0e15f4f7dd77ceb06b3037796", null ],
     [ "total_run_time_", "d1/d72/classTaskGroup.html#ac80191f3fd3ad3f92bb29d82d4acadc0", null ]
 ];

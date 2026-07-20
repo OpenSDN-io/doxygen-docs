@@ -1,5 +1,9 @@
 var NAVTREEINDEX73 =
 {
+"d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a8ecf447efe3256c2f8f60135d26def09":[2,0,8,144,23],
+"d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a926da1cba2a02b3a581457837b48f86e":[2,0,8,144,37],
+"d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a92c900d12e27b4e700b7a7cda2ddafe2":[2,0,8,144,30],
+"d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a986b7c26553ccc1f0ce9236113a8d103":[2,0,8,144,29],
 "d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a99a109495b7d6219ccd9e8e862f8b4e4":[2,0,8,144,41],
 "d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a9a188d1fde69d27c225b1ceb1121eb05":[2,0,8,144,36],
 "d5/d13/classetcdserverpb_1_1AuthRoleGrantPermissionRequest.html#a9cd77841702ed3877bfbb0ca8f193d4d":[2,0,8,144,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX73 =
 "d5/d21/classVmInterface.html#a24d3f8f807f00b1baea3c3d63239e078":[2,0,1792,263],
 "d5/d21/classVmInterface.html#a254ba48ca20c81a58c56e28ccdf54f02":[2,0,1792,126],
 "d5/d21/classVmInterface.html#a25de89d87177a40a403e2002ecd0909b":[2,0,1792,349],
-"d5/d21/classVmInterface.html#a263f1f1ba2927e33ed3c1cf84c4f5d22":[2,0,1792,93],
-"d5/d21/classVmInterface.html#a26a5fa8bb75a2e628cc6b97d56afbbc5":[2,0,1792,172],
-"d5/d21/classVmInterface.html#a27dcf85ebd90e8e66e17b91d8c4240a5":[2,0,1792,276],
-"d5/d21/classVmInterface.html#a28eb1244636b302efb0f8648c8da91da":[2,0,1792,102],
-"d5/d21/classVmInterface.html#a2921ce9a0a43aa244d3320678029dbef":[2,0,1792,141]
+"d5/d21/classVmInterface.html#a263f1f1ba2927e33ed3c1cf84c4f5d22":[2,0,1792,93]
 };

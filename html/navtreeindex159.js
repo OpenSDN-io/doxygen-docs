@@ -1,5 +1,9 @@
 var NAVTREEINDEX159 =
 {
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a6c5cbeacd12b0ccb5a98ec4492c9b22a":[2,0,575,0,7],
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a6d18352705893ae85e7d18300e7707d1":[2,0,575,0,5],
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a7ac88c9e1de02bd1022f0c9c69e8eb4c":[2,0,575,0,9],
+"da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a8ba6e1bfb0539e40f57320073f3d0999":[2,0,575,0,12],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#a8c9fffb8618cd3270d420a6902152bf6":[2,0,575,0,10],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#aa1f06f95c3d8ae5bd87603159a4a9a7a":[2,0,575,0,3],
 "da/dd9/structDhcpv6Proto_1_1DhcpStats.html#ab449b58263c93994d29216e7728ab62a":[2,0,575,0,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX159 =
 "da/df2/classRouteLeakVrfState.html#a6c6864e59056df0da2631bf469b4c349":[2,0,1451,9],
 "da/df2/classRouteLeakVrfState.html#a776d83a9512ea3beec3d00587d2408cb":[2,0,1451,14],
 "da/df2/classRouteLeakVrfState.html#a89e9b0a7a2076046d1097b8cc469abf3":[2,0,1451,10],
-"da/df2/classRouteLeakVrfState.html#a96e03f6816f33ae54e6061ae49f27256":[2,0,1451,6],
-"da/df2/classRouteLeakVrfState.html#abe22de5f016ef449f7aaecb22dc962ec":[2,0,1451,4],
-"da/df2/classRouteLeakVrfState.html#ad7d2d9969904c267984b6d8180026f7a":[2,0,1451,1],
-"da/df2/classRouteLeakVrfState.html#ad9eb0ccdf59ca87eb8ec603c4e083f5d":[2,0,1451,0],
-"da/df2/classRouteLeakVrfState.html#aff59e826019a7cc5bc71e3156a27b39a":[2,0,1451,8]
+"da/df2/classRouteLeakVrfState.html#a96e03f6816f33ae54e6061ae49f27256":[2,0,1451,6]
 };

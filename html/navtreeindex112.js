@@ -1,5 +1,9 @@
 var NAVTREEINDEX112 =
 {
+"d7/d79/classQosQueue.html#a54f1f85a9513620b5efd918d301bbdc7":[2,0,1386,22],
+"d7/d79/classQosQueue.html#a54fc835160084521f9152124629e5953":[2,0,1386,15],
+"d7/d79/classQosQueue.html#a7d630962fc4dc1c0558fb92689c775f8":[2,0,1386,18],
+"d7/d79/classQosQueue.html#a84293e1deb01fe301473b67ddf084deb":[2,0,1386,3],
 "d7/d79/classQosQueue.html#a937cc07682e7985c39fbfd3d9a14bb8f":[2,0,1386,9],
 "d7/d79/classQosQueue.html#aa5518134fd9b672e2496fa96f7e3594e":[2,0,1386,11],
 "d7/d79/classQosQueue.html#ab4c4b3fc36a0de792349ff30209d1f2e":[2,0,1386,21],
@@ -245,9 +249,5 @@ var NAVTREEINDEX112 =
 "d7/d90/classRemotePhysicalInterface.html#a40f25c53c029b2100177ad25bd7f0b20":[2,0,1400,13],
 "d7/d90/classRemotePhysicalInterface.html#a4963d8108c5918ddb71e5ea6264e04ea":[2,0,1400,0],
 "d7/d90/classRemotePhysicalInterface.html#a51869ac4ea90292412e4d532052e7fa3":[2,0,1400,4],
-"d7/d90/classRemotePhysicalInterface.html#a6f8532197d7dc79f3b29f3fbec5efe7a":[2,0,1400,11],
-"d7/d90/classRemotePhysicalInterface.html#a750956d2875151ae0d1f3fecbd98e8af":[2,0,1400,9],
-"d7/d90/classRemotePhysicalInterface.html#a8a1012c896c4a345426112cd55452652":[2,0,1400,6],
-"d7/d90/classRemotePhysicalInterface.html#a8e51d32eb914aaa30f7918816e50e7c3":[2,0,1400,8],
-"d7/d90/classRemotePhysicalInterface.html#aa26c89e0fd4a6498405f474e0447e666":[2,0,1400,3]
+"d7/d90/classRemotePhysicalInterface.html#a6f8532197d7dc79f3b29f3fbec5efe7a":[2,0,1400,11]
 };

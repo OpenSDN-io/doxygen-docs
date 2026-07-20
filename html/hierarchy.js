@@ -3529,15 +3529,13 @@ var hierarchy =
       [ "VxLanConfigSandeshTask", "db/df7/classVxLanConfigSandeshTask.html", null ],
       [ "cass::cql::impl::WorkerTask", "d1/dcd/classcass_1_1cql_1_1impl_1_1WorkerTask.html", null ]
     ] ],
-    [ "tbb::task", null, [
-      [ "TaskImpl", "d1/dee/classTaskImpl.html", null ]
-    ] ],
     [ "task_", "db/d5c/structtask__.html", null ],
     [ "task_timer_", "d5/de7/structtask__timer__.html", null ],
     [ "task_timer_root_", "d6/dd0/structtask__timer__root__.html", null ],
     [ "TaskDeferEntryCmp", "d3/d22/structTaskDeferEntryCmp.html", null ],
     [ "TaskEntry", "d9/daa/classTaskEntry.html", null ],
     [ "TaskExclusion", "d0/dda/structTaskExclusion.html", null ],
+    [ "TaskFunctor", "d1/d93/classTaskFunctor.html", null ],
     [ "TaskGroup", "d1/d72/classTaskGroup.html", null ],
     [ "TaskMap", "da/d74/classTaskMap.html", null ],
     [ "TaskMapManager", "dc/d3a/classTaskMapManager.html", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX27 =
 {
+"d1/df6/classStatsCollector.html#a3bc4bc08a99b4a4027f09732d8a9408d":[2,0,1639,7],
+"d1/df6/classStatsCollector.html#a55dbde029839afb47e9fa2e852fd3848":[2,0,1639,14],
+"d1/df6/classStatsCollector.html#a60147508e58882aafe670c416593fe7c":[2,0,1639,3],
+"d1/df6/classStatsCollector.html#a7305b984a6752e5aac420b2d58b7aa53":[2,0,1639,9],
 "d1/df6/classStatsCollector.html#a971ba577ef9cfb3008f8d5d7e34fa3e3":[2,0,1639,10],
 "d1/df6/classStatsCollector.html#aa7f35f0854225133b50f1818e5f3899d":[2,0,1639,4],
 "d1/df6/classStatsCollector.html#aa9d3a63b5f5c20ca4d3d078641810227":[2,0,1639,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX27 =
 "d1/dff/classSandeshMessageBuilder.html#a6d415ed99f891f910f04e87ce7ae2f85a9b9d7d626876781fdc653cf8d8363f3f":[2,0,1507,0,1],
 "d1/dff/classSandeshMessageBuilder.html#aaab5146e5eec02e6db29595fbd5da1c6":[2,0,1507,2],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html":[2,0,4,0,0,0],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#a8637d562a7d9a03c4c079199482bc650":[2,0,4,0,0,0,1],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#aa09fd21144dc0f19d1361c1ef9f63425":[2,0,4,0,0,0,2],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ab845935d84a5a7bc07278cd73d0876c7":[2,0,4,0,0,0,0],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ad8496d5507bc1fc81bf3536883ef1f80":[2,0,4,0,0,0,4],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ae5c04fa1adb12edc45f3dd147174191b":[2,0,4,0,0,0,3]
+"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#a8637d562a7d9a03c4c079199482bc650":[2,0,4,0,0,0,1]
 };
