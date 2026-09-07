@@ -13,5 +13,6 @@ var classprocess_1_1ConnectionStateManager =
     [ "data_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a834eb1b3d4fe4aa174d13be415835abc", null ],
     [ "instance_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a59a616b6c09e5349661885a5f7eba7f1", null ],
     [ "process_status_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a9486b0b9c487495d49a24376bae78510", null ],
-    [ "status_cb_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a0cdf6aed2742fa417c550a783b01f91b", null ]
+    [ "status_cb_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a0cdf6aed2742fa417c550a783b01f91b", null ],
+    [ "uve_mutex_", "d7/dbb/classprocess_1_1ConnectionStateManager.html#a1a8cdcb3d7c00bf894e1cf819f4f8587", null ]
 ];

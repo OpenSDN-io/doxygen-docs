@@ -1,5 +1,10 @@
 var NAVTREEINDEX228 =
 {
+"df/ddb/classPeerCloseManager.html#a09962053c93a740c6463e01d01a51e98":[2,0,1294,7],
+"df/ddb/classPeerCloseManager.html#a163f693eb22a98ae04081d6646f49c82":[2,0,1294,68],
+"df/ddb/classPeerCloseManager.html#a1e27eb9d0b907411bcc8a4c444f98929":[2,0,1294,5],
+"df/ddb/classPeerCloseManager.html#a2139fec9d0a8848a8897fcdc9c92e5e6":[2,0,1294,71],
+"df/ddb/classPeerCloseManager.html#a255133a63332564a9a539f1687a87c14":[2,0,1294,61],
 "df/ddb/classPeerCloseManager.html#a26f019ebdd2a51ebeaf0684e384ab536":[2,0,1294,39],
 "df/ddb/classPeerCloseManager.html#a27fb35882742ebd14b5f625b0361355e":[2,0,1294,67],
 "df/ddb/classPeerCloseManager.html#a2bf8c40e665c02fec5f2c839db86d78b":[2,0,1294,54],
@@ -244,10 +249,5 @@ var NAVTREEINDEX228 =
 "df/de0/classt__service.html#adaf7c2085635387ebe5abaf734b3bcbe":[2,0,1673,1],
 "df/de0/classt__service.html#afa914b560d6ad5f328a448392d96897f":[2,0,1673,4],
 "df/de0/watermark_8h.html":[3,0,1315],
-"df/de0/watermark_8h.html#a0b24b43e80a4a3554b5dc2f744c24e4c":[3,0,1315,2],
-"df/de0/watermark_8h.html#a6689c67ae203e4befebbd3fec762d720":[3,0,1315,3],
-"df/de0/watermark_8h.html#a93fdae5ea81be2ad30447be850bfa70e":[3,0,1315,4],
-"df/de0/watermark_8h.html#addafaec4d559e5b379c3652a48f112fb":[3,0,1315,5],
-"df/de0/watermark_8h_source.html":[3,0,1315],
-"df/de1/classzookeeper_1_1interface_1_1ZookeeperCBindings.html":[2,0,25,1,0]
+"df/de0/watermark_8h.html#a0b24b43e80a4a3554b5dc2f744c24e4c":[3,0,1315,2]
 };

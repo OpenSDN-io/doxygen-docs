@@ -1,5 +1,10 @@
 var NAVTREEINDEX153 =
 {
+"da/d56/namespaceetcdserverpb.html#a359e0042a3d6c74faff69ea44028b99f":[1,0,11,176],
+"da/d56/namespaceetcdserverpb.html#a36d304d0d7e2920593518b15934815ed":[1,0,11,232],
+"da/d56/namespaceetcdserverpb.html#a3d997b9d6e75729f734244496ebf6a30":[1,0,11,277],
+"da/d56/namespaceetcdserverpb.html#a4042feb82d1e36d372cb4d4adb94f9de":[1,0,11,234],
+"da/d56/namespaceetcdserverpb.html#a40825c46287752ab4b3283da4546d7f5":[1,0,11,273],
 "da/d56/namespaceetcdserverpb.html#a4129bd8f9194df460c62fcd6ef0362be":[1,0,11,282],
 "da/d56/namespaceetcdserverpb.html#a41348454c90b8bb5721439cf29984d04":[1,0,11,290],
 "da/d56/namespaceetcdserverpb.html#a4351f5639b8cfecd1671992185673f64":[1,0,11,186],
@@ -244,10 +249,5 @@ var NAVTREEINDEX153 =
 "da/d69/structMetadataProxy_1_1MetadataStats.html#a8b4d8d42b12e8e219ed15cec8575dd93":[2,0,1139,0,5],
 "da/d69/structMetadataProxy_1_1MetadataStats.html#ab58622f05604d7453107683d36e9028f":[2,0,1139,0,4],
 "da/d69/structMetadataProxy_1_1MetadataStats.html#ad9d5c2d788a96b99710a55dce5de51ab":[2,0,1139,0,2],
-"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html":[2,0,421,0],
-"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html#a82b753fec28ad67343b29bbf5e4c6c24":[2,0,421,0,2],
-"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html#aa535ac34337b7e9a7bb9c9617843f0fd":[2,0,421,0,1],
-"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html#af27f14d59eafd066dc17ed7c09073c0b":[2,0,421,0,0],
-"da/d6d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__AuthDisable.html":[2,0,8,9,19],
-"da/d6d/classetcdserverpb_1_1Auth_1_1WithGenericMethod__AuthDisable.html#a023f65fe952350d0d53330595997ff2e":[2,0,8,9,19,3]
+"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html":[2,0,421,0]
 };

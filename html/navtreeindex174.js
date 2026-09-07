@@ -1,5 +1,10 @@
 var NAVTREEINDEX174 =
 {
+"db/ddb/structProfileData_1_1FlowStats.html#ac5a5378e3e3ead5d13f1496c23fa5415":[2,0,1369,1,0],
+"db/ddb/structProfileData_1_1FlowStats.html#ad89fc146f50af74b121447fd5b3e445b":[2,0,1369,1,14],
+"db/ddb/structProfileData_1_1FlowStats.html#add49008d210e33231a331c09e061e8af":[2,0,1369,1,9],
+"db/ddb/structProfileData_1_1FlowStats.html#af017988b6a237d2f605cc7e84a38a9fd":[2,0,1369,1,13],
+"db/ddb/structProfileData_1_1FlowStats.html#af3c6f0a7b5e5a45105abcbfc4d21cf31":[2,0,1369,1,11],
 "db/ddc/controller__init_8h.html":[3,0,283],
 "db/ddc/controller__init_8h.html#a0084aa35c9e4dcd825beb53f5d1fee6b":[3,0,283,23],
 "db/ddc/controller__init_8h.html#a113dab5797fd8014f87d3877060f155b":[3,0,283,19],
@@ -244,10 +249,5 @@ var NAVTREEINDEX174 =
 "db/df1/classBgpXmppPeerClose.html":[2,0,423],
 "db/df1/classBgpXmppPeerClose.html#a0b6dbe79da37202311ce4b6a58b0e0c1":[2,0,423,22],
 "db/df1/classBgpXmppPeerClose.html#a18a688e9825559514fe6a36e0514ad93":[2,0,423,15],
-"db/df1/classBgpXmppPeerClose.html#a201796930398e4a311482ecf2523b8dd":[2,0,423,25],
-"db/df1/classBgpXmppPeerClose.html#a25d9ea9feaa2f245e3a218d156423c86":[2,0,423,18],
-"db/df1/classBgpXmppPeerClose.html#a2fedcf235ae8f1b1df69ea944e21bef0":[2,0,423,20],
-"db/df1/classBgpXmppPeerClose.html#a30a0d5bc6da695e4bb37b0084755e71f":[2,0,423,24],
-"db/df1/classBgpXmppPeerClose.html#a3416ecec72af5c5d42f55413df74645a":[2,0,423,12],
-"db/df1/classBgpXmppPeerClose.html#a3faabdaaffe0f827b95098befd050232":[2,0,423,19]
+"db/df1/classBgpXmppPeerClose.html#a201796930398e4a311482ecf2523b8dd":[2,0,423,25]
 };
