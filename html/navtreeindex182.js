@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"dc/d5b/classVxlanRoutingManager.html#afeb52436ef20af0f942c235ca59f5b8d":[2,0,1896,70],
+"dc/d5c/db__graph__vertex_8cc.html":[3,0,316],
 "dc/d5c/db__graph__vertex_8cc_source.html":[3,0,316],
 "dc/d5d/classNdpNH.html":[2,0,1211],
 "dc/d5d/classNdpNH.html#a1964055ac75ed2003a22b22fc26a25f4":[2,0,1211,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "dc/d77/classBridgeDomainEntry.html#a56c45a664ab233128a664ab048956c0d":[2,0,433,9],
 "dc/d77/classBridgeDomainEntry.html#a74c4af36a3e8722c0b15ef582c3d20db":[2,0,433,5],
 "dc/d77/classBridgeDomainEntry.html#a75d53a45c392203f9fba3cdbec3fccd5":[2,0,433,12],
-"dc/d77/classBridgeDomainEntry.html#a775cdf3fc56b10aee6081303e7cb6ce3":[2,0,433,19],
-"dc/d77/classBridgeDomainEntry.html#a7e52d56403b77fceff2172b7727aa523":[2,0,433,22],
-"dc/d77/classBridgeDomainEntry.html#a85cfb322f96a4ed43ade0d9b8e2cd7e9":[2,0,433,2]
+"dc/d77/classBridgeDomainEntry.html#a775cdf3fc56b10aee6081303e7cb6ce3":[2,0,433,19]
 };

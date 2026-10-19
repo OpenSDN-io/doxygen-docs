@@ -1,5 +1,7 @@
 var NAVTREEINDEX100 =
 {
+"d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a388e798a730ac3773b5d8193800d4d35":[2,0,8,132,24],
+"d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a41f2d170f7bad54568168846c320a846":[2,0,8,132,38],
 "d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a4f906c76adae39e9085840ea158c5e53":[2,0,8,132,31],
 "d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a50c70789f0e70664ccab77fc386072c0":[2,0,8,132,32],
 "d6/da8/classetcdserverpb_1_1AuthenticateRequest.html#a537abd8f77b25bf09203597a5561d518":[2,0,8,132,23],
@@ -247,7 +249,5 @@ var NAVTREEINDEX100 =
 "d6/dbf/classBgpXmppChannel.html#a034cd90876c30eab6a21d0ddcc0f02da":[2,0,419,50],
 "d6/dbf/classBgpXmppChannel.html#a03e60ab6a81bbc2a3e9854e948ab80ad":[2,0,419,123],
 "d6/dbf/classBgpXmppChannel.html#a062de8717766eda152ce8abeafe6ce44":[2,0,419,132],
-"d6/dbf/classBgpXmppChannel.html#a07369d5406d0aef6560beb8e39df58a2":[2,0,419,103],
-"d6/dbf/classBgpXmppChannel.html#a0754d74e9ccd86f885760f8dc308a43d":[2,0,419,96],
-"d6/dbf/classBgpXmppChannel.html#a0996db209bf9fcb8e58738d6c0ad5c26":[2,0,419,73]
+"d6/dbf/classBgpXmppChannel.html#a07369d5406d0aef6560beb8e39df58a2":[2,0,419,103]
 };

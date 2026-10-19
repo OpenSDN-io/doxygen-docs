@@ -127,6 +127,7 @@ var NAVTREEINDEX17 =
 "d1/d04/structDnsItem.html#a22bce4c0c05191edda1cc5cfc9648cab":[2,0,596,8],
 "d1/d04/structDnsItem.html#a36aec1e7f3306719c59b64e971e91a56":[2,0,596,10],
 "d1/d04/structDnsItem.html#a4106599058528d18aeea8c2f1c9221c4":[2,0,596,1],
+"d1/d04/structDnsItem.html#a64a64d4fbd77c0dae39bae340d492b74":[2,0,596,19],
 "d1/d04/structDnsItem.html#a88d8251bdce21261cd28b1b10d169797":[2,0,596,14],
 "d1/d04/structDnsItem.html#a89e06f976e4f6f092adf3176e27e611d":[2,0,596,18],
 "d1/d04/structDnsItem.html#a8eb9502ca178a2e60acea6c6ecfa7135":[2,0,596,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#aecac9a8b8660f49ab1fb4cef6036649c":[2,0,8,154,26],
 "d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#afea9f883db6d3bdabd203f5f75fe1e9d":[2,0,8,154,2],
 "d1/d07/classetcdserverpb_1_1AuthUserRevokeRoleResponse.html#aff8d889856b218b9bfc77f4feda74b7f":[2,0,8,154,33],
-"d1/d07/structVmInterface_1_1VmiReceiveRoute.html":[2,0,1792,25],
-"d1/d07/structVmInterface_1_1VmiReceiveRoute.html#a02f4c74c23e2a66d70a97fc64683241f":[2,0,1792,25,2]
+"d1/d07/structVmInterface_1_1VmiReceiveRoute.html":[2,0,1792,25]
 };

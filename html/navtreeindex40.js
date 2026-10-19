@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d2/dc0/classXmppChannelMux.html#aaec5f608112ef47fff2ab5e7fc50ccac":[2,0,1920,27],
 "d2/dc0/classXmppChannelMux.html#ab68c3dbf88dc891a13f436d547ff1ed8":[2,0,1920,30],
 "d2/dc0/classXmppChannelMux.html#ab91165b7c0e9dbd144873f2265938123":[2,0,1920,1],
 "d2/dc0/classXmppChannelMux.html#abd82997d1ddc9b76f37f658018b629ef":[2,0,1920,39],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d2/dd0/classGlobalSystemConfig.html#a7dc69ed73a35b60994e013f5b53cbdfc":[2,0,736,1],
 "d2/dd0/classGlobalSystemConfig.html#a916cd8c340085b401b01a2db39949a00":[2,0,736,13],
 "d2/dd0/classGlobalSystemConfig.html#a95d3f37c9c6518ba1eb59dceeea47140":[2,0,736,9],
-"d2/dd0/classGlobalSystemConfig.html#aa6cee9af8daf336d1d37ee47277b1c1b":[2,0,736,8],
-"d2/dd0/classGlobalSystemConfig.html#ab5d5e7169fb9fcc525bda731b938c831":[2,0,736,3]
+"d2/dd0/classGlobalSystemConfig.html#aa6cee9af8daf336d1d37ee47277b1c1b":[2,0,736,8]
 };

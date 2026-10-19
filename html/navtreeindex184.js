@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"dc/d95/classVrfKSyncEntry.html#a18ba3281a50c8207460e983e6b7361cf":[2,0,1864,6],
+"dc/d95/classVrfKSyncEntry.html#a2d5a429c03b4ce2f09fcb0fb4e4040d0":[2,0,1864,21],
 "dc/d95/classVrfKSyncEntry.html#a54153fcb21971a6abfe7d28c8161f9d4":[2,0,1864,20],
 "dc/d95/classVrfKSyncEntry.html#a6de47853d1bd9e0e473ccc3796a1ed23":[2,0,1864,16],
 "dc/d95/classVrfKSyncEntry.html#a7d876de35ae0fdac0b93f9f2966cc69e":[2,0,1864,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "dc/daf/structVrfContext.html#ade0beda15138efb1d09a94ec7231e46f":[2,0,1852,1],
 "dc/daf/structVrfContext.html#ae659bac9deb2bd17a357fc1af9a9f571":[2,0,1852,3],
 "dc/db0/classBFD_1_1VersionAndDiagnostic.html":[2,0,2,6],
-"dc/db0/classBFD_1_1VersionAndDiagnostic.html#a2393322d82768491e1bc9f9f4a059399":[2,0,2,6,4],
-"dc/db0/classBFD_1_1VersionAndDiagnostic.html#a5f20d007120c7a52881bb9cbcbb6e363":[2,0,2,6,5],
-"dc/db0/classBFD_1_1VersionAndDiagnostic.html#a6c11eb5e151b94def86b347c60822d06":[2,0,2,6,1]
+"dc/db0/classBFD_1_1VersionAndDiagnostic.html#a2393322d82768491e1bc9f9f4a059399":[2,0,2,6,4]
 };

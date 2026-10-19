@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"db/d6b/bgp__peer_8cc.html#af708dde1180c231e91c294f8e9a14740":[3,0,149,5],
+"db/d6b/bgp__peer_8cc_source.html":[3,0,149],
 "db/d6b/classRtGroup.html":[2,0,1484],
 "db/d6b/classRtGroup.html#a0eff0ed0240fab0b1707769dda9d8929":[2,0,1484,16],
 "db/d6b/classRtGroup.html#a12defaa2cfccf54352d1fc72c00b695f":[2,0,1484,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a02ff7d13d6e8b1e7c42f865b45f8d1bf":[2,0,8,153,14],
 "db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a05b1e772e0948050bc8f9d19be4443ed":[2,0,8,153,29],
 "db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a0a070bf669f15a6682d30f1222710c4e":[2,0,8,153,34],
-"db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a0bbee78b85e0716005989c411ff553ea":[2,0,8,153,6],
-"db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a0f3c8bb9858c51c219876561d19fcdaa":[2,0,8,153,22],
-"db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a22595674c2b45456ff37536edd7124e9":[2,0,8,153,10]
+"db/d78/classetcdserverpb_1_1AuthUserGrantRoleResponse.html#a0bbee78b85e0716005989c411ff553ea":[2,0,8,153,6]
 };

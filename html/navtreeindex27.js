@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/df6/classStatsCollector.html#a176f87c2032076e853c3fa888dbe09f1":[2,0,1639,13],
 "d1/df6/classStatsCollector.html#a3bc4bc08a99b4a4027f09732d8a9408d":[2,0,1639,7],
 "d1/df6/classStatsCollector.html#a55dbde029839afb47e9fa2e852fd3848":[2,0,1639,14],
 "d1/df6/classStatsCollector.html#a60147508e58882aafe670c416593fe7c":[2,0,1639,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/dff/classSandeshMessageBuilder.html#a6d415ed99f891f910f04e87ce7ae2f85a51968e63ef09d974258ffd83471051e2":[2,0,1507,0,0],
 "d1/dff/classSandeshMessageBuilder.html#a6d415ed99f891f910f04e87ce7ae2f85a9b9d7d626876781fdc653cf8d8363f3f":[2,0,1507,0,1],
 "d1/dff/classSandeshMessageBuilder.html#aaab5146e5eec02e6db29595fbd5da1c6":[2,0,1507,2],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html":[2,0,4,0,0,0],
-"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#a8637d562a7d9a03c4c079199482bc650":[2,0,4,0,0,0,1]
+"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html":[2,0,4,0,0,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX25 =
 {
+"d1/dc2/structTsnElectorState.html#ab949cc1c37d4e58760d8fb72ce46ba76":[2,0,1735,0],
 "d1/dc2/structTsnElectorState.html#aeeea3e94612f91c3bd090376340941e4":[2,0,1735,2],
 "d1/dc3/bgp__condition__listener_8cc.html":[3,0,111],
 "d1/dc3/bgp__condition__listener_8cc_source.html":[3,0,111],
@@ -248,6 +249,5 @@ var NAVTREEINDEX25 =
 "d1/de0/structDnsSOAData.html":[2,0,600],
 "d1/de0/structDnsSOAData.html#a20993eec6932eea1818a449d0ee38d0e":[2,0,600,7],
 "d1/de0/structDnsSOAData.html#a27ca0ef0b16011dcc6b39b034c39c56e":[2,0,600,6],
-"d1/de0/structDnsSOAData.html#a2d1f0a74b6bf73279f07b8825db67ee5":[2,0,600,1],
-"d1/de0/structDnsSOAData.html#a5cac3da392423fcc12a2b18d6b80cca2":[2,0,600,10]
+"d1/de0/structDnsSOAData.html#a2d1f0a74b6bf73279f07b8825db67ee5":[2,0,600,1]
 };

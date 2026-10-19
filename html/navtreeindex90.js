@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d5/df9/interface__os__params_8h.html":[3,0,625],
+"d5/df9/interface__os__params_8h_source.html":[3,0,625],
 "d5/df9/xmpp__connection_8cc.html":[3,0,1331],
 "d5/df9/xmpp__connection_8cc.html#abea9942d9433bfc93ac6d34189406c8e":[3,0,1331,2],
 "d5/df9/xmpp__connection_8cc.html#ac0fa610ba4da90e0962a9f28a4ba8faa":[3,0,1331,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d0a/structscm_1_1Established.html#aba9f66cbff3400e1923adc27f5bb027c":[2,0,22,18,5],
 "d6/d0a/structscm_1_1Established.html#ad34a00316ad27307ede0cf404d55c172":[2,0,22,18,1],
 "d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html":[2,0,1376,0],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a056a399b4a553e2fe1aa321ea3e6e6ab":[2,0,1376,0,6],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a0c83906f321d6e73c6352945f56f2322":[2,0,1376,0,3],
-"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a0da16315b7d0c23c5207cec77d1bd661":[2,0,1376,0,1]
+"d6/d0b/structProuterUveTable_1_1LogicalInterfaceUveEntry.html#a056a399b4a553e2fe1aa321ea3e6e6ab":[2,0,1376,0,6]
 };

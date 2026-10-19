@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d1/d41/classIcmpv6Handler.html#a369b51b5353309a6c8d79836fcd06403":[2,0,823,12],
 "d1/d41/classIcmpv6Handler.html#a3813a4feefbd27ed4a5cad07e46e50aa":[2,0,823,8],
 "d1/d41/classIcmpv6Handler.html#a3983cd05661c37a3a1fdac227e87a774":[2,0,823,17],
 "d1/d41/classIcmpv6Handler.html#a490d529769a729e08bb2dd8785671abe":[2,0,823,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d1/d67/classVxlanRoutingVrfMapper.html#a9b4b424c6f00f4d1536f580856f0ad92":[2,0,1901,27],
 "d1/d67/classVxlanRoutingVrfMapper.html#aa8311260908da6988c11bd4289673fea":[2,0,1901,16],
 "d1/d67/classVxlanRoutingVrfMapper.html#ab217d0ad50c31c9d9cd05175d19de422":[2,0,1901,24],
-"d1/d67/classVxlanRoutingVrfMapper.html#ab46ce80a6d87c5f15a611a32707a1a46":[2,0,1901,6],
-"d1/d67/classVxlanRoutingVrfMapper.html#aba7666b08d5b0c500e077a1ba8fb754c":[2,0,1901,8]
+"d1/d67/classVxlanRoutingVrfMapper.html#ab46ce80a6d87c5f15a611a32707a1a46":[2,0,1901,6]
 };

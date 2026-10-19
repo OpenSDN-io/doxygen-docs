@@ -18,5 +18,6 @@ var structDnsItem =
     [ "source_name", "d1/d04/structDnsItem.html#a01068ab082126d821fefdb3e99ac63e8", null ],
     [ "srv", "d1/d04/structDnsItem.html#ac233a1be0464fab1ce8c0e891af54a58", null ],
     [ "ttl", "d1/d04/structDnsItem.html#ade7c793bfbd62a125bbde2fa7f5dfd37", null ],
-    [ "type", "d1/d04/structDnsItem.html#a89e06f976e4f6f092adf3176e27e611d", null ]
+    [ "type", "d1/d04/structDnsItem.html#a89e06f976e4f6f092adf3176e27e611d", null ],
+    [ "vm_uuid", "d1/d04/structDnsItem.html#a64a64d4fbd77c0dae39bae340d492b74", null ]
 ];

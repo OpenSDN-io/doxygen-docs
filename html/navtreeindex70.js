@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d4/de5/classMacMobility.html#a85f88676527cd48926f8d31af4aafe1d":[2,0,1112,5],
+"d4/de5/classMacMobility.html#ac3e750e6105de9abb3324cb6f3c39ae0":[2,0,1112,8],
 "d4/de5/classMacMobility.html#ad0a69b1a07857396ace55ee730dfd08c":[2,0,1112,1],
 "d4/de5/classMacMobility.html#adb0e35d096d86850a16133d97276f229":[2,0,1112,7],
 "d4/de5/classMacMobility.html#ae5a28ecedfa2d5e3ce308b6d322ee81e":[2,0,1112,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a552a3a8c8045663c85071c86381a9192":[2,0,8,159,11],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a5f6e620cf1c8a2a838e3206152d61c92":[2,0,8,159,25],
 "d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a68944410d64b4a816da9a46427e7bd1a":[2,0,8,159,29],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,159,36],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a8b354558aa1973404b1bb744c9965de6":[2,0,8,159,15],
-"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a92126ce7edde968d24f70ed5ef25c966":[2,0,8,159,7]
+"d4/dfb/classetcdserverpb_1_1AuthRoleDeleteResponse.html#a7ab4b026172d58e9e7353807625013ea":[2,0,8,159,36]
 };

@@ -51,7 +51,7 @@ var classDnsManager =
     [ "StartEndofConfigTimer", "dd/de1/classDnsManager.html#a48c39a5808be88a043ac0b8ac955208b", null ],
     [ "StartPendingTimer", "dd/de1/classDnsManager.html#aa5c28daf0e38e3bfdb890a68ad36ddb4", null ],
     [ "UpdateAll", "dd/de1/classDnsManager.html#ad0a6636aef93c5a46efe64e0517ed93a", null ],
-    [ "UpdatePendingList", "dd/de1/classDnsManager.html#a481fde88328dc53db19c50daffb4d158", null ],
+    [ "UpdatePendingList", "dd/de1/classDnsManager.html#ab8b7f082379b76719abff41ef1a6d2b8", null ],
     [ "VdnsRecordsMsgHandler", "dd/de1/classDnsManager.html#adbcfecbf30254f23cd66094be3ebf879", null ],
     [ "VdnsServersMsgHandler", "dd/de1/classDnsManager.html#aaff260f8d33b41837c74d82e8ebbb790", null ],
     [ "DnsBindTest", "dd/de1/classDnsManager.html#a603553f18f9b1ad4ec359388b5159252", null ],

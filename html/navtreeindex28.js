@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#a8637d562a7d9a03c4c079199482bc650":[2,0,4,0,0,0,1],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#aa09fd21144dc0f19d1361c1ef9f63425":[2,0,4,0,0,0,2],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ab845935d84a5a7bc07278cd73d0876c7":[2,0,4,0,0,0,0],
 "d1/dff/structcass_1_1cql_1_1impl_1_1CassString.html#ad8496d5507bc1fc81bf3536883ef1f80":[2,0,4,0,0,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX28 =
 "d2/d0e/classTcpSession.html#a5d54ca8bb8677944597b8f7e71d9c2f8":[2,0,1712,22],
 "d2/d0e/classTcpSession.html#a5da29cd61a556062b135b5a2077f2204":[2,0,1712,75],
 "d2/d0e/classTcpSession.html#a5e684ad053a993b249d91380d8c2cd8f":[2,0,1712,29],
-"d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e":[2,0,1712,77],
-"d2/d0e/classTcpSession.html#a60a50ba74e5de08d75f117634f16553b":[2,0,1712,81]
+"d2/d0e/classTcpSession.html#a5ea3a03c6c4b4a506b8a3af46e3cb92e":[2,0,1712,77]
 };

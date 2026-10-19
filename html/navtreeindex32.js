@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d2/d43/structRibExportPolicy.html#a64816c24a1ef1d7df0298ffd9ad835d3":[2,0,1428,13],
 "d2/d43/structRibExportPolicy.html#a67ef9aa510671192fe844b0e5a482f1a":[2,0,1428,6],
 "d2/d43/structRibExportPolicy.html#a7de3615f315922825fffaaea7c0af546":[2,0,1428,9],
 "d2/d43/structRibExportPolicy.html#a943e4b8ec2a8bbb0a96edd4c142262e4":[2,0,1428,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a5c17cb2a2fce523e594972b54052e67e":[2,0,8,131,22],
 "d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a5edc6c614ab10301f3a91692fe25a4a5":[2,0,8,131,24],
 "d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a5fdc6f7aa98fd6d5da2b195ac3c8b6f1":[2,0,8,131,27],
-"d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a666f65e448a4338a956ff929b1019f1b":[2,0,8,131,11],
-"d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a6894c82242c8c10c92eb273631b55639":[2,0,8,131,10]
+"d2/d50/classetcdserverpb_1_1AuthDisableRequest.html#a666f65e448a4338a956ff929b1019f1b":[2,0,8,131,11]
 };

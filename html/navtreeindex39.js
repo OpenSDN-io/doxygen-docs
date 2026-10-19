@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d2/db3/classXmppStateMachine.html#af8a5520e49f9046f4f288a18461b3c17":[2,0,1938,42],
 "d2/db3/classXmppStateMachine.html#af8d01fd29261cf302508a9162b8003ab":[2,0,1938,72],
 "d2/db3/classXmppStateMachine.html#afa04190ae1b673d10a2bd97faeb79bf0":[2,0,1938,31],
 "d2/db3/classXmppStateMachine.html#afb681691927137e41590ca17b28c35c7":[2,0,1938,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d2/dc0/classXmppChannelMux.html#aa50596d1514956e4472200ce196920b1":[2,0,1920,5],
 "d2/dc0/classXmppChannelMux.html#aa6442c76b6463998d6fd6d482333913b":[2,0,1920,4],
 "d2/dc0/classXmppChannelMux.html#aa9fc85058935023914135206bdb38426":[2,0,1920,37],
-"d2/dc0/classXmppChannelMux.html#aab640849633aaa683cc82bdc23e87f60":[2,0,1920,40],
-"d2/dc0/classXmppChannelMux.html#aaec5f608112ef47fff2ab5e7fc50ccac":[2,0,1920,27]
+"d2/dc0/classXmppChannelMux.html#aab640849633aaa683cc82bdc23e87f60":[2,0,1920,40]
 };

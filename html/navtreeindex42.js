@@ -1,5 +1,6 @@
 var NAVTREEINDEX42 =
 {
+"d2/de1/structLoadBalance_1_1LoadBalanceAttribute.html#ad84579e37f0a7f698fd45b16e9f2ada3":[2,0,1067,0,9],
 "d2/de1/structLoadBalance_1_1LoadBalanceAttribute.html#add0922e91fbbab09349e9db4d94e8926":[2,0,1067,0,19],
 "d2/de1/structLoadBalance_1_1LoadBalanceAttribute.html#ade17cefe74ec371fe32d836c4da3af40":[2,0,1067,0,17],
 "d2/de1/structLoadBalance_1_1LoadBalanceAttribute.html#ae8485fcdfe92ef8de14c1063c1a44822":[2,0,1067,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX42 =
 "d2/dfc/structio_1_1SocketStats.html#adc6fe9cc307f15e036c43df42cdd644a":[2,0,13,0,12],
 "d2/dfc/structio_1_1SocketStats.html#aea12d9069466604ef64dcce6dde4e4e5":[2,0,13,0,2],
 "d2/dfc/structio_1_1SocketStats.html#aef11d77ff1a1e88bd284ad3ad83186f3":[2,0,13,0,8],
-"d2/dfd/structBgpAttrCompare.html":[2,0,235],
-"d2/dfd/structBgpAttrCompare.html#a4c11bf6fb5cb291044aa3b290fa3ff12":[2,0,235,0]
+"d2/dfd/structBgpAttrCompare.html":[2,0,235]
 };

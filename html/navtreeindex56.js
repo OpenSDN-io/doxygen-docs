@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a0b14e56824e52296262678b0009769d3":[2,0,425,0,4],
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a15762bd3b3eaefe398f30de7743c04ef":[2,0,425,0,12],
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a18b355731744dd105e3ebffb37155a02":[2,0,425,0,2],
 "d3/dd2/classBgpYamlConfigManager_1_1Configuration.html#a18f6ffd4b17c7a8ecc1005a2d599809a":[2,0,425,0,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d3/de8/structMirrorActionSpec.html#a733c552c99aaa9e9f8ea41a8dc56af58":[2,0,1143,7],
 "d3/de8/structMirrorActionSpec.html#a7b56ffb6081f19b7d3f39f2568a5aba7":[2,0,1143,3],
 "d3/de8/structMirrorActionSpec.html#a7fabae2e0fd4170bbdf75b08b658dfd9":[2,0,1143,0],
-"d3/de8/structMirrorActionSpec.html#aa4cb015412a202f6d2d1ff9bbd4b8ccb":[2,0,1143,5],
-"d3/de8/structMirrorActionSpec.html#aa9d266fc802d3e2d0ed8dcb59aafb56f":[2,0,1143,11]
+"d3/de8/structMirrorActionSpec.html#aa4cb015412a202f6d2d1ff9bbd4b8ccb":[2,0,1143,5]
 };

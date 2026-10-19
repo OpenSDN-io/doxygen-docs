@@ -1,12 +1,13 @@
 <map id="DnsProto::SendUpdateDnsEntry" name="DnsProto::SendUpdateDnsEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,219,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,219,133"/>
 <area shape="rect" id="node2" href="$d8/d1a/classBindUtil.html#a1b6c0e3781c967c9b01a1b3a0b70ce9c" title=" " alt="" coords="267,5,473,32"/>
 <area shape="rect" id="node3" href="$d8/d1a/classBindUtil.html#a332fa706b69a0834bc9f8083144953d8" title=" " alt="" coords="283,56,457,83"/>
-<area shape="rect" id="node4" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title=" " alt="" coords="271,107,469,133"/>
-<area shape="rect" id="node8" href="$d1/d04/structDnsItem.html#adb1b35525a6a8978d96ed3c14a2fcd33" title=" " alt="" coords="306,183,434,209"/>
-<area shape="rect" id="node5" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="569,31,652,57"/>
-<area shape="rect" id="node6" href="$d3/d55/classPktModule.html#a702e512b54931edf89b116338fcb240f" title=" " alt="" coords="531,81,690,108"/>
-<area shape="rect" id="node7" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title=" " alt="" coords="521,132,700,159"/>
-<area shape="rect" id="node9" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title=" " alt="" coords="543,183,678,209"/>
-<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title=" " alt="" coords="547,233,675,260"/>
+<area shape="rect" id="node4" href="$d0/dcc/classInterface.html#ad8cbff5e7a74f3aee30db0b6318019cd" title=" " alt="" coords="305,107,435,133"/>
+<area shape="rect" id="node5" href="$d6/df7/classDnsProto.html#a8698e5413d8a7d85aad5e73a9cb0cd67" title=" " alt="" coords="271,157,469,184"/>
+<area shape="rect" id="node9" href="$d1/d04/structDnsItem.html#adb1b35525a6a8978d96ed3c14a2fcd33" title=" " alt="" coords="306,233,434,260"/>
+<area shape="rect" id="node6" href="$d8/dfe/classAgent.html#af787ed7e0bd4a146b543158be03fcc85" title=" " alt="" coords="569,81,652,108"/>
+<area shape="rect" id="node7" href="$d3/d55/classPktModule.html#a702e512b54931edf89b116338fcb240f" title=" " alt="" coords="531,132,690,159"/>
+<area shape="rect" id="node8" href="$d5/d94/classPktHandler.html#ab5a99acd484c2d1099bfa8e09a074506" title=" " alt="" coords="521,183,700,209"/>
+<area shape="rect" id="node10" href="$d8/d1a/classBindUtil.html#a741b67194588a58afffad9df77962ea2" title=" " alt="" coords="543,233,678,260"/>
+<area shape="rect" id="node11" href="$d8/d1a/classBindUtil.html#a4b3c998852c0c0861f369ced35f28325" title=" " alt="" coords="547,284,675,311"/>
 </map>

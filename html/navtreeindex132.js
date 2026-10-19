@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d8/df1/classBgpSenderPartition_1_1PeerState_1_1circular__iterator.html#aead5a30ceb98fadd3031f1d3165cf57e":[2,0,407,1,0,10],
+"d8/df2/structDnsProto_1_1DnsUpdateIpc.html":[2,0,599,5],
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a2f02138f51b254ac5d2cbdfefc1208f2":[2,0,599,5,1],
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a40628380b20f07102c61bddd8d34f163":[2,0,599,5,5],
 "d8/df2/structDnsProto_1_1DnsUpdateIpc.html#a4b4ed54d535bd9a0ba8ac7b7c3d0b594":[2,0,599,5,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "d8/dfe/classAgent.html#a327a830b7b8f417dc5d0997d28cfc704":[2,0,61,397],
 "d8/dfe/classAgent.html#a330339dd84475610df48652307a9f59b":[2,0,61,111],
 "d8/dfe/classAgent.html#a332d23a1d00927984789bf28d33a8e9a":[2,0,61,601],
-"d8/dfe/classAgent.html#a33fe32c1db937e24a7bf1a0376d33af5":[2,0,61,399],
-"d8/dfe/classAgent.html#a33ff8db944d7ca473aa639b4bdf12c76":[2,0,61,618],
-"d8/dfe/classAgent.html#a34a5806d3da2001d10e73bb61126d94a":[2,0,61,470]
+"d8/dfe/classAgent.html#a33fe32c1db937e24a7bf1a0376d33af5":[2,0,61,399]
 };

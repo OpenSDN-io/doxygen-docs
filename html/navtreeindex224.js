@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"df/d80/classetcdserverpb_1_1AuthEnableResponse.html#af31be6b2c988a0680c7eda9127d27c90":[2,0,8,146,11],
+"df/d80/classetcdserverpb_1_1AuthEnableResponse.html#af37e6ac1732c5b60d93988aedeb6fbea":[2,0,8,146,18],
 "df/d80/classetcdserverpb_1_1AuthEnableResponse.html#afbd7dcb29bb133f3e2d9fe8f43c472fe":[2,0,8,146,39],
 "df/d80/classetcdserverpb_1_1AuthEnableResponse.html#afec67fde678a70e1bf61164b5c2db2b3":[2,0,8,146,6],
 "df/d80/xmpp__lifetime_8h.html":[3,0,1342],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "df/d94/namespaceprotobuf__kv__2eproto.html#ae7c6195022964d8d9ed745c1afcf8e63":[1,0,25,8],
 "df/d94/namespaceprotobuf__kv__2eproto.html#aeb284542aa4e74e52e8523798d20ab41":[1,0,25,6],
 "df/d94/namespaceprotobuf__kv__2eproto.html#aee26b1a79852785a3babe548ba7b075a":[1,0,25,3],
-"df/d94/structKSyncEntry_1_1KSyncEntryTransition.html":[2,0,985,1],
-"df/d94/structKSyncEntry_1_1KSyncEntryTransition.html#a4cd88fa49b1d9082be014aebe5e5c123":[2,0,985,1,0],
-"df/d94/structKSyncEntry_1_1KSyncEntryTransition.html#a99c9f7fa6c03bc54fbd641387cb89955":[2,0,985,1,1]
+"df/d94/structKSyncEntry_1_1KSyncEntryTransition.html":[2,0,985,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"da/d56/namespaceetcdserverpb.html#a326b57007ba26920ff084807cdc10ef0":[1,0,11,229],
+"da/d56/namespaceetcdserverpb.html#a3501b59575281a559f0f7ad2eac86795":[1,0,11,262],
 "da/d56/namespaceetcdserverpb.html#a359e0042a3d6c74faff69ea44028b99f":[1,0,11,176],
 "da/d56/namespaceetcdserverpb.html#a36d304d0d7e2920593518b15934815ed":[1,0,11,232],
 "da/d56/namespaceetcdserverpb.html#a3d997b9d6e75729f734244496ebf6a30":[1,0,11,277],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "da/d69/structMetadataProxy_1_1MetadataStats.html#a55e0f795385c6c86e1a201b65eac792b":[2,0,1139,0,0],
 "da/d69/structMetadataProxy_1_1MetadataStats.html#a7b4f280a29e28d6fd7e34c63bf5b24d6":[2,0,1139,0,1],
 "da/d69/structMetadataProxy_1_1MetadataStats.html#a8b4d8d42b12e8e219ed15cec8575dd93":[2,0,1139,0,5],
-"da/d69/structMetadataProxy_1_1MetadataStats.html#ab58622f05604d7453107683d36e9028f":[2,0,1139,0,4],
-"da/d69/structMetadataProxy_1_1MetadataStats.html#ad9d5c2d788a96b99710a55dce5de51ab":[2,0,1139,0,2],
-"da/d6c/structBgpXmppMessage_1_1MobilityInfo.html":[2,0,421,0]
+"da/d69/structMetadataProxy_1_1MetadataStats.html#ab58622f05604d7453107683d36e9028f":[2,0,1139,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3a33b118460e1e90f2d926cd1dc7f56770":[2,0,1770,2,0],
 "d1/d12/structVirtualDnsRecordConfig.html#a8f7a1752cba96ed18a7391c17507dfb3a9edfac7fff18bb07235c52bec8c24603":[2,0,1770,2,1],
 "d1/d12/structVirtualDnsRecordConfig.html#a922d0c451efaa00439e28e66516288fb":[2,0,1770,21],
 "d1/d12/structVirtualDnsRecordConfig.html#aa469ce7ea375c66155b60adc657134f7":[2,0,1770,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d29/classStatsManager.html#a9740de2d5f6002f8414da5c8500c98f1":[2,0,1640,27],
 "d1/d29/classStatsManager.html#a9be6408b9e697394c7c21b8da09c24e7":[2,0,1640,17],
 "d1/d29/classStatsManager.html#a9e51a073fa3413549e9a3ab0d3ea12a1":[2,0,1640,14],
-"d1/d29/classStatsManager.html#aa0bdf79492d60178be3351759eb5a9df":[2,0,1640,41],
-"d1/d29/classStatsManager.html#aa182ab96a19bf82530f725e7aa90f251":[2,0,1640,33]
+"d1/d29/classStatsManager.html#aa0bdf79492d60178be3351759eb5a9df":[2,0,1640,41]
 };

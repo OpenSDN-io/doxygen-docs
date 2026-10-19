@@ -1,5 +1,7 @@
 var NAVTREEINDEX192 =
 {
+"dd/d17/classEvpnSegment.html#a1afbc15bbd1c93c16dfbe5fadf41ef89":[2,0,667,8],
+"dd/d17/classEvpnSegment.html#a26c43f7e7898d958de01f4350fa028c7":[2,0,667,7],
 "dd/d17/classEvpnSegment.html#a2bd9f9f9e3dd8bae9dcd2bea00bd1d51":[2,0,667,16],
 "dd/d17/classEvpnSegment.html#a3e9cdae147deec67970e967ff2fbc5c1":[2,0,667,24],
 "dd/d17/classEvpnSegment.html#a4a2d77ae2a80edfe8fa899045a7d0c2d":[2,0,667,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX192 =
 "dd/d26/classVrouterUveEntryBase.html#af21255db3fc88da4a813a7d532080c64":[2,0,1885,3],
 "dd/d26/classVrouterUveEntryBase.html#af2fb264d9d15b836952262ea534e0c90":[2,0,1885,20],
 "dd/d26/classVrouterUveEntryBase.html#afc7e0b0cf2beb7bbb2694f8668cfa966":[2,0,1885,49],
-"dd/d27/namespaceIgmpInfo.html":[1,0,16],
-"dd/d27/structBFD_1_1SessionConfig.html":[2,0,2,4],
-"dd/d27/structBFD_1_1SessionConfig.html#a2bc05353a4ada15146969ee35856948b":[2,0,2,4,1]
+"dd/d27/namespaceIgmpInfo.html":[1,0,16]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"d2/dfd/structBgpAttrCompare.html#a4c11bf6fb5cb291044aa3b290fa3ff12":[2,0,235,0],
 "d2/dfe/proto__impl_8h.html":[3,0,936],
 "d2/dfe/proto__impl_8h.html#a4b3cb0c7a06a0ee83d4cd3c604ef0a10":[3,0,936,42],
 "d2/dfe/proto__impl_8h_source.html":[3,0,936],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "d3/d09/tree_8h.html#a52c3d63bf730d8735892aa9eeb516b3e":[3,0,1195,51],
 "d3/d09/tree_8h.html#a5b9861a8925c953340e483ae0a0f5120":[3,0,1195,17],
 "d3/d09/tree_8h.html#a5f6b92ec0c0ceccee94990625fa9a9ab":[3,0,1195,58],
-"d3/d09/tree_8h.html#a640590d10a440909b2f4d0c6c5fd4ac7":[3,0,1195,40],
-"d3/d09/tree_8h.html#a6a78e155b3b5a296ba9c0ab15b70fb8d":[3,0,1195,19]
+"d3/d09/tree_8h.html#a640590d10a440909b2f4d0c6c5fd4ac7":[3,0,1195,40]
 };

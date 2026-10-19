@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/de0/structDnsSOAData.html#a5cac3da392423fcc12a2b18d6b80cca2":[2,0,600,10],
 "d1/de0/structDnsSOAData.html#a66303fca6c463a5d08eae309f58ef04f":[2,0,600,9],
 "d1/de0/structDnsSOAData.html#a691d6b4b27b2d1a8ec38b3bea940bf3b":[2,0,600,8],
 "d1/de0/structDnsSOAData.html#a79424c74944fc3e58ca8314fe020e1ce":[2,0,600,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/df6/classAuthenticationData.html#ae8c51e0169a3f831892834b89401f2ab":[2,0,209,23],
 "d1/df6/classAuthenticationData.html#aec389ff4fd136642cc01a67ec63d7742":[2,0,209,20],
 "d1/df6/classAuthenticationData.html#af905bb56701325c069ed4b5054550eef":[2,0,209,14],
-"d1/df6/classStatsCollector.html":[2,0,1639],
-"d1/df6/classStatsCollector.html#a176f87c2032076e853c3fa888dbe09f1":[2,0,1639,13]
+"d1/df6/classStatsCollector.html":[2,0,1639]
 };

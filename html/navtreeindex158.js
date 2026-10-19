@@ -1,5 +1,7 @@
 var NAVTREEINDEX158 =
 {
+"da/dcb/structBgpProtoPrefix.html":[2,0,400],
+"da/dcb/structBgpProtoPrefix.html#a12dcdd8a5203d2bbdedaa577bfacc653":[2,0,400,2],
 "da/dcb/structBgpProtoPrefix.html#a2eb3f621b8beca7c3ea2a1aa7834add3":[2,0,400,1],
 "da/dcb/structBgpProtoPrefix.html#a397be7926008661c028f47ccc1dea702":[2,0,400,5],
 "da/dcb/structBgpProtoPrefix.html#a442451261b80bf1fba14a4a1641bf4c2":[2,0,400,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX158 =
 "da/dd9/classExtCommunitySpec.html#a52f77799dc6da70d18b5c236d9940280":[2,0,677,9],
 "da/dd9/classExtCommunitySpec.html#a5aca29d25be2a540f54844ee030a1b79":[2,0,677,7],
 "da/dd9/classExtCommunitySpec.html#a623c90e736635d1169adb910ed8e8d57":[2,0,677,3],
-"da/dd9/classExtCommunitySpec.html#abfa3019d1f120c117b76afc981bc7800":[2,0,677,0],
-"da/dd9/classExtCommunitySpec.html#ac025f2cd43de77b05f10849b3f68eda9":[2,0,677,8],
-"da/dd9/classExtCommunitySpec.html#ac2c4bbf8fd2e4aa6385803adcc88b217":[2,0,677,4]
+"da/dd9/classExtCommunitySpec.html#abfa3019d1f120c117b76afc981bc7800":[2,0,677,0]
 };

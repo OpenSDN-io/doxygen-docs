@@ -1,5 +1,7 @@
 var NAVTREEINDEX150 =
 {
+"da/d15/classBridgeRouteKey.html#ac18c59a9a18cbc2eec7c900ecdb3fa20":[2,0,443,8],
+"da/d15/classBridgeRouteKey.html#ae3ddd8ef80615c0440259a8599bc4f99":[2,0,443,2],
 "da/d15/classetcdserverpb_1_1AuthUserAddResponseDefaultTypeInternal.html":[2,0,8,73],
 "da/d15/classetcdserverpb_1_1AuthUserAddResponseDefaultTypeInternal.html#aa7f4b48471bf19bac69d695a23bedb07":[2,0,8,73,0],
 "da/d15/structBgpProto_1_1Keepalive.html":[2,0,396,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX150 =
 "da/d28/classAclEntry.html#acecb2788fb5d10a8f6a1d16abd1190bf":[2,0,41,15],
 "da/d28/classAclEntry.html#aec3c64090f24712878d5bf3240fe05eb":[2,0,41,8],
 "da/d28/classAclEntry.html#af31b8f8160a2ab8976e45c64285a731b":[2,0,41,7],
-"da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html":[2,0,8,1],
-"da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html#a9310438250eb1348038229db6a229d05":[2,0,8,1,0],
-"da/d29/structRoutingPolicyAttachInfo.html":[2,0,1471]
+"da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html":[2,0,8,1]
 };

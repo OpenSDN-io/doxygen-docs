@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d2/d9d/structGenDb_1_1DbTableStatistics_1_1TableStats.html#af01cdd0806f3248fba0be53f7148744c":[2,0,10,9,0,6],
 "d2/d9e/struct__ThriftMemoryBuffer.html":[2,0,32],
 "d2/d9e/struct__ThriftMemoryBuffer.html#a3b86449e02078fdad32f2d15bca46cef":[2,0,32,2],
 "d2/d9e/struct__ThriftMemoryBuffer.html#a99cc0a8436cd766ef51b8a6502b98749":[2,0,32,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d2/db3/classXmppStateMachine.html#af083f606eedbfba0f7c502cdb574cd99":[2,0,1938,34],
 "d2/db3/classXmppStateMachine.html#af1a4d7c81f6396146b0ea029fe49a154":[2,0,1938,78],
 "d2/db3/classXmppStateMachine.html#af22bba654bd7b93cbb60f75a4d410139":[2,0,1938,24],
-"d2/db3/classXmppStateMachine.html#af7f7f2b63f67778747b590927ff3ef5b":[2,0,1938,89],
-"d2/db3/classXmppStateMachine.html#af8a5520e49f9046f4f288a18461b3c17":[2,0,1938,42]
+"d2/db3/classXmppStateMachine.html#af7f7f2b63f67778747b590927ff3ef5b":[2,0,1938,89]
 };

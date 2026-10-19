@@ -1,5 +1,7 @@
 var NAVTREEINDEX151 =
 {
+"da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html#a9310438250eb1348038229db6a229d05":[2,0,8,1,0],
+"da/d29/structRoutingPolicyAttachInfo.html":[2,0,1471],
 "da/d29/structRoutingPolicyAttachInfo.html#a1900569f669eb0b6da1af8b2f93257de":[2,0,1471,0],
 "da/d29/structRoutingPolicyAttachInfo.html#a513b2b1e173f71f9f4e60453cb0fabd8":[2,0,1471,1],
 "da/d2a/stats__manager_8cc.html":[3,0,1087],
@@ -247,7 +249,5 @@ var NAVTREEINDEX151 =
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#a8b2a05cbce5e8c082c460440567ca86a":[2,0,8,7,13,1],
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#a9766ea4a000a0da76658cfde4fbe90c7":[2,0,8,7,13,3],
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ab20364abbdd923d196a2c213fe8b0663":[2,0,8,7,13,4],
-"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ae7bc1849b01bbea9256301919c15451c":[2,0,8,7,13,0],
-"da/d47/classKSyncSockUds.html":[2,0,1017],
-"da/d47/classKSyncSockUds.html#a0b3dca3469758720ab945e0b6256076f":[2,0,1017,8]
+"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ae7bc1849b01bbea9256301919c15451c":[2,0,8,7,13,0]
 };

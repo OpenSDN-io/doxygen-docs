@@ -1,5 +1,6 @@
 var NAVTREEINDEX61 =
 {
+"d4/d21/classXmppServer_1_1DeleteActor.html#afd0db4a8e2dac1052e065a50636b00b1":[2,0,1933,0,2],
 "d4/d21/structVmInterface_1_1ListEntry.html":[2,0,1792,16],
 "d4/d21/structVmInterface_1_1ListEntry.html#a0ad16b7879a3bc1e41cc809e48b03224":[2,0,1792,16,1],
 "d4/d21/structVmInterface_1_1ListEntry.html#a132f10edd8d1fd7da1fed525dfcf1acd":[2,0,1792,16,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX61 =
 "d4/d35/igmp__protocol_8h.html#a319282c975426b20b7f9608d6315d9e0":[3,0,581,15],
 "d4/d35/igmp__protocol_8h.html#a32bdc1b5cadf926e7444e96a362836c6":[3,0,581,9],
 "d4/d35/igmp__protocol_8h.html#a396436995188124f43da27c18920373b":[3,0,581,17],
-"d4/d35/igmp__protocol_8h.html#a3bee4bae3b84e2f348bd29b45bbad52b":[3,0,581,10],
-"d4/d35/igmp__protocol_8h.html#a3df32476629414c5ab349592ed2158af":[3,0,581,14]
+"d4/d35/igmp__protocol_8h.html#a3bee4bae3b84e2f348bd29b45bbad52b":[3,0,581,10]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"db/df1/classBgpXmppPeerClose.html#a18a688e9825559514fe6a36e0514ad93":[2,0,423,15],
+"db/df1/classBgpXmppPeerClose.html#a201796930398e4a311482ecf2523b8dd":[2,0,423,25],
 "db/df1/classBgpXmppPeerClose.html#a25d9ea9feaa2f245e3a218d156423c86":[2,0,423,18],
 "db/df1/classBgpXmppPeerClose.html#a2fedcf235ae8f1b1df69ea944e21bef0":[2,0,423,20],
 "db/df1/classBgpXmppPeerClose.html#a30a0d5bc6da695e4bb37b0084755e71f":[2,0,423,24],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a45d8e169b25beac5223e95dda07a2b6f":[3,0,1179,7,1],
 "db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a49cc7d0a22736dac8f19f59431ea9632":[3,0,1179,7,3],
 "db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a4ce49e733278396af08f9e7ddae916a0":[3,0,1179,7,0],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a8a3c6c50f57d72e2072cfdf75b108009":[3,0,1179,7,2],
-"db/dfd/thrift__xml__protocol_8h.html#a46ad6c383fd6060b66cd325c7b83db57":[3,0,1179,5],
-"db/dfd/thrift__xml__protocol_8h.html#a6b443be25c899b5eedb2d82b3f2ff1d2":[3,0,1179,4]
+"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a8a3c6c50f57d72e2072cfdf75b108009":[3,0,1179,7,2]
 };

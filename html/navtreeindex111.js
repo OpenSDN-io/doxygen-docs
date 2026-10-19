@@ -1,5 +1,7 @@
 var NAVTREEINDEX111 =
 {
+"d7/d6f/structOVSDB_1_1OvsdbClientSession_1_1OvsdbSessionEvent.html":[2,0,15,14,0],
+"d7/d6f/structOVSDB_1_1OvsdbClientSession_1_1OvsdbSessionEvent.html#a025043f23f45174e5048239072e69e3a":[2,0,15,14,0,0],
 "d7/d70/structBFD_1_1InitState.html":[2,0,2,28],
 "d7/d70/structBFD_1_1InitState.html#a176a7c9664d15b5118a58fd7623ebd42":[2,0,2,28,1],
 "d7/d70/structBFD_1_1InitState.html#a98a646f400c18ba90228281258a95b6e":[2,0,2,28,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX111 =
 "d7/d79/classQosQueue.html#a3478a266371d594b36c7bdc1c0de0fb2":[2,0,1386,7],
 "d7/d79/classQosQueue.html#a41528b6c4a5ffa0ee38fe4889932aaed":[2,0,1386,14],
 "d7/d79/classQosQueue.html#a448fe672979e2679d40531ae331e63b9":[2,0,1386,5],
-"d7/d79/classQosQueue.html#a4c0582114c93692bd6e78423e66ac997":[2,0,1386,12],
-"d7/d79/classQosQueue.html#a4d563507a30c0f4f347ff1c4a9c6cd0f":[2,0,1386,6],
-"d7/d79/classQosQueue.html#a4f9c73cb85b3da9492e5901f95038282":[2,0,1386,2]
+"d7/d79/classQosQueue.html#a4c0582114c93692bd6e78423e66ac997":[2,0,1386,12]
 };

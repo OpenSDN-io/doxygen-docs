@@ -1,5 +1,7 @@
 var NAVTREEINDEX197 =
 {
+"dd/d65/classBFD_1_1RESTServer.html#ac1c710ce4767030cc85a2a88771b6f6b":[2,0,2,35,21],
+"dd/d65/classBFD_1_1RESTServer.html#ae170a82a08fba1c142e3c33d1f48eb6b":[2,0,2,35,7],
 "dd/d65/classBFD_1_1RESTServer.html#afaf42cbcdceeafebdb01039ce65932f9":[2,0,2,35,14],
 "dd/d65/classBFD_1_1RESTServer.html#afc1728424df67f31b2d6dbf9e45bc538":[2,0,2,35,9],
 "dd/d65/classBFD_1_1RESTServer.html#afd7b2de0eab6514e6039293921a84cad":[2,0,2,35,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX197 =
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a3fb61608a2c4f9014079994ea8c386ea":[2,0,419,3,2],
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a52686f95226d26c27bda75864a703322":[2,0,419,3,17],
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a5b67b22c7707864a99182c1153c5a839":[2,0,419,3,11],
-"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a623c461904e336e4ae7abd2fcd7ca136":[2,0,419,3,1],
-"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a63b0d1485195680269c74a24424165b4":[2,0,419,3,4],
-"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a6b20dcf6594e9ffcaba5d650e456cf2c":[2,0,419,3,13]
+"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a623c461904e336e4ae7abd2fcd7ca136":[2,0,419,3,1]
 };

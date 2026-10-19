@@ -1,5 +1,7 @@
 var NAVTREEINDEX219 =
 {
+"de/dee/bgp__as__service_8h.html#afffd49d0e21566ccc04f31621892d707":[3,0,99,7],
+"de/dee/bgp__as__service_8h_source.html":[3,0,99],
 "de/dee/classShowIFMapXmppClientInfo.html":[2,0,1606],
 "de/dee/classShowIFMapXmppClientInfo.html#a5982e23af180f2183c228f6c58c63be4":[2,0,1606,5],
 "de/dee/classShowIFMapXmppClientInfo.html#a65c5be8038701340e1a0217983dd6446":[2,0,1606,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "df/d02/structInstanceManager_1_1InstanceManagerChildEvent.html#af274daa39ecb45a350e5b8cad59c57a6":[2,0,924,0,0],
 "df/d03/classVlanNHData.html":[2,0,1783],
 "df/d03/classVlanNHData.html#a4412527414fa8cc188190b43a78b4087":[2,0,1783,2],
-"df/d03/classVlanNHData.html#a54611506277eda5520e8fd27e00c4b8f":[2,0,1783,0],
-"df/d03/classVlanNHData.html#a5cff65d51542b9fc0420750dff613c64":[2,0,1783,4],
-"df/d03/classVlanNHData.html#a82f8da430e6a3d8d8c33d30b989ee94d":[2,0,1783,5]
+"df/d03/classVlanNHData.html#a54611506277eda5520e8fd27e00c4b8f":[2,0,1783,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"da/db3/classBgpPeer_1_1DeleteActor.html#ae50d6cd5cef871a9bda05eb942e249d4":[2,0,389,0,3],
+"da/db3/classSandeshUVEPerTypeMap.html":[2,0,1526],
 "da/db3/classSandeshUVEPerTypeMap.html#a1b6325bf0f3d5f40636df4d36f2b467b":[2,0,1526,4],
 "da/db3/classSandeshUVEPerTypeMap.html#a2e2ce4bee8d3321b9e137730424641cc":[2,0,1526,3],
 "da/db3/classSandeshUVEPerTypeMap.html#a384aa781cf643a59b54438b5f917b89c":[2,0,1526,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "da/dc8/classVrfMplsBackUpResourceTable.html#aa62c84042e6cf80514dab1be66d1d27b":[2,0,1866,3],
 "da/dc8/classVrfMplsBackUpResourceTable.html#abd3000f0a37423ff40a239e685f3f45a":[2,0,1866,5],
 "da/dc8/classVrfMplsBackUpResourceTable.html#afaa93b8a8588257393743077dcdeb8e7":[2,0,1866,1],
-"da/dc8/classVrfMplsBackUpResourceTable.html#afd8fee70bc3f3f8e6bd1d1a721331330":[2,0,1866,8],
-"da/dcb/structBgpProtoPrefix.html":[2,0,400],
-"da/dcb/structBgpProtoPrefix.html#a12dcdd8a5203d2bbdedaa577bfacc653":[2,0,400,2]
+"da/dc8/classVrfMplsBackUpResourceTable.html#afd8fee70bc3f3f8e6bd1d1a721331330":[2,0,1866,8]
 };

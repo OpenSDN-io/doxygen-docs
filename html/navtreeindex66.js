@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d4/d83/classBFD_1_1Session.html#acfcf433f12d2e5551a5b98f32548ee8e":[2,0,2,20,11],
 "d4/d83/classBFD_1_1Session.html#ad5df47209b9e1441b2f05742ca64b28f":[2,0,2,20,39],
 "d4/d83/classBFD_1_1Session.html#adbca6088190606de630ce0ae24d6aac7":[2,0,2,20,6],
 "d4/d83/classBFD_1_1Session.html#adf0700854a09374c3f53976b159906a2":[2,0,2,20,33],
@@ -15,7 +16,8 @@ var NAVTREEINDEX66 =
 "d4/d83/classShowMvpnManagerDetailHandler.html#aae9304af7cc27fdcb780a21ca8dd1a6e":[2,0,1608,2],
 "d4/d83/classShowMvpnManagerDetailHandler.html#abb5c696bdb86b371186c942f5a5422fe":[2,0,1608,4],
 "d4/d85/dns__mgr_8cc.html":[3,0,360],
-"d4/d85/dns__mgr_8cc.html#a52c9f3faff1641a8f1e984dcbd74820e":[3,0,360,0],
+"d4/d85/dns__mgr_8cc.html#a52c9f3faff1641a8f1e984dcbd74820e":[3,0,360,1],
+"d4/d85/dns__mgr_8cc.html#adca34ac80e5a08fd6a22c677665609aa":[3,0,360,0],
 "d4/d85/dns__mgr_8cc_source.html":[3,0,360],
 "d4/d86/xmpp__session_8h.html":[3,0,1354],
 "d4/d86/xmpp__session_8h_source.html":[3,0,1354],
@@ -247,7 +249,5 @@ var NAVTREEINDEX66 =
 "d4/da3/classBgpPathAttrAsPath4ByteSegmentValue.html#aefafb649e2a0d47a041579df3341b730":[2,0,328,0],
 "d4/da5/structDnsConfig.html":[2,0,590],
 "d4/da5/structDnsConfig.html#a08d76973cf9d0d8f4f766dae69c1c019":[2,0,590,11],
-"d4/da5/structDnsConfig.html#a0a2fdeebd785b6b0576952aebef3ac28":[2,0,590,5],
-"d4/da5/structDnsConfig.html#a0ca918ee9281949db83c39d77c356c2d":[2,0,590,0],
-"d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49":[2,0,590,13]
+"d4/da5/structDnsConfig.html#a0a2fdeebd785b6b0576952aebef3ac28":[2,0,590,5]
 };

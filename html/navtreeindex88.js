@@ -1,5 +1,7 @@
 var NAVTREEINDEX88 =
 {
+"d5/dd1/db__entry_8cc.html":[3,0,308],
+"d5/dd1/db__entry_8cc_source.html":[3,0,308],
 "d5/dd2/classUpdateLocalPref.html":[2,0,1758],
 "d5/dd2/classUpdateLocalPref.html#a2fd0a5c460ac29dd6198baeacff5a221":[2,0,1758,0],
 "d5/dd2/classUpdateLocalPref.html#a52a082023b06036f6d48d643a5d864eb":[2,0,1758,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX88 =
 "d5/de7/structtask__timer__.html#a11b9b2f8445903c6de6f96948c38c32a":[2,0,1693,3],
 "d5/de7/structtask__timer__.html#a56bbd714dbfa72264da67f45de6e580e":[2,0,1693,4],
 "d5/de7/structtask__timer__.html#a718c147c0729802a2aecbe250aaf5895":[2,0,1693,5],
-"d5/de7/structtask__timer__.html#aaa4e9f4eca065340fbc5c9d032200d21":[2,0,1693,0],
-"d5/de7/structtask__timer__.html#ab0826bde5fca1b5d6e1ace38776c0bef":[2,0,1693,2],
-"d5/de7/structtask__timer__.html#abaac9c952b1e940774a0e310547f9c46":[2,0,1693,7]
+"d5/de7/structtask__timer__.html#aaa4e9f4eca065340fbc5c9d032200d21":[2,0,1693,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"df/dbf/http__curl_8cc.html#a14c971fa6395f0ffe4768d86e1f3ee64":[3,0,494,25],
+"df/dbf/http__curl_8cc.html#a18a8861e3e0baf67017f4c0665f5868b":[3,0,494,6],
 "df/dbf/http__curl_8cc.html#a365e983cf474483cc780f6012a011758":[3,0,494,11],
 "df/dbf/http__curl_8cc.html#a36f8c321b927b633494f742219621cb4":[3,0,494,1],
 "df/dbf/http__curl_8cc.html#a3e88c09914082b5d5fd075c7de30ccb7":[3,0,494,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "df/ddb/classPeerCloseManager.html":[2,0,1294],
 "df/ddb/classPeerCloseManager.html#a0184b5a97c1b0237f24e0e2807a047c9":[2,0,1294,16],
 "df/ddb/classPeerCloseManager.html#a04adc2ddb0f1e8d3453c6719228e36e4":[2,0,1294,72],
-"df/ddb/classPeerCloseManager.html#a06dad8d555be412edc2f75aa8aa535ad":[2,0,1294,52],
-"df/ddb/classPeerCloseManager.html#a06ec0a7d50bbe737127a2721f91a09ca":[2,0,1294,36],
-"df/ddb/classPeerCloseManager.html#a06fe1b0abacebf45b216f828ced58861":[2,0,1294,34]
+"df/ddb/classPeerCloseManager.html#a06dad8d555be412edc2f75aa8aa535ad":[2,0,1294,52]
 };
