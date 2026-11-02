@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d8/d38/classBgpSenderPartition_1_1PeerState.html#a17add12feb025f8f9ac782eba11709f2":[2,0,407,1,12],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a259d3837d216de7445a6186b2bc27787":[2,0,407,1,13],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a3428341dd725efea8789184860f1a4f7":[2,0,407,1,25],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a381bf38ea51fe5aa7fab361465ae3988":[2,0,407,1,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d8/d4e/classHealthCheckInstanceBase.html#a71ca03fa76947b6bf2e4d288e8bf7e06":[2,0,799,26],
 "d8/d4e/classHealthCheckInstanceBase.html#a77174aa0123f5bd8f44619cc1bfb54bc":[2,0,799,20],
 "d8/d4e/classHealthCheckInstanceBase.html#a7ab2a8fe0dd582ebfd3ca72d4846e4ab":[2,0,799,37],
-"d8/d4e/classHealthCheckInstanceBase.html#a7f2346d6d9c77b6291a05c4b869d196a":[2,0,799,15],
-"d8/d4e/classHealthCheckInstanceBase.html#a863fbba6ab88b9ae3e092f59767f0388":[2,0,799,2]
+"d8/d4e/classHealthCheckInstanceBase.html#a7f2346d6d9c77b6291a05c4b869d196a":[2,0,799,15]
 };

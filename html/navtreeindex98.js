@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d6/d8a/structEdgeForwardingEdgeCompare.html#a77e4fd63d44df8c593122a6f71d4ac72":[2,0,626,0],
 "d6/d8c/structAccessor_3_01C_00_01std_1_1string_00_01Member_01_4.html":[2,0,36],
 "d6/d8c/structAccessor_3_01C_00_01std_1_1string_00_01Member_01_4.html#a684ce25634b7df8befdff597631ede3f":[2,0,36,0],
 "d6/d8c/structAccessor_3_01C_00_01std_1_1string_00_01Member_01_4.html#a6a5ca1b756b38b2bfa6dc9272b18e13d":[2,0,36,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d6/d9c/classTask.html#a7bff79cc05fa4511c72048d33591503b":[2,0,1691,4],
 "d6/d9c/classTask.html#a7db715f4eaaeeaa78882ee2585c9d72a":[2,0,1691,17],
 "d6/d9c/classTask.html#a81fe5cf74f935c9d4f9a3f5b3e083816":[2,0,1691,27],
-"d6/d9c/classTask.html#a841746e20bb08e845664dbc90b093c4c":[2,0,1691,38],
-"d6/d9c/classTask.html#a88c209471e6fdd2983e1eaff3ad5c5ec":[2,0,1691,39]
+"d6/d9c/classTask.html#a841746e20bb08e845664dbc90b093c4c":[2,0,1691,38]
 };

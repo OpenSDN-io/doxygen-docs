@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d6/dbf/classBgpXmppChannel.html#a07369d5406d0aef6560beb8e39df58a2":[2,0,419,103],
 "d6/dbf/classBgpXmppChannel.html#a0754d74e9ccd86f885760f8dc308a43d":[2,0,419,96],
 "d6/dbf/classBgpXmppChannel.html#a0996db209bf9fcb8e58738d6c0ad5c26":[2,0,419,73],
 "d6/dbf/classBgpXmppChannel.html#a0dbd07ce59f3e40bb0c147fc6b715a3e":[2,0,419,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d6/dc0/test__xml_8h.html#ae11e1b3234117bf140c621c75552e49a":[3,0,1162,7],
 "d6/dc0/test__xml_8h_source.html":[3,0,1162],
 "d6/dc0/thrift__binary__protocol_8h.html":[3,0,1173],
-"d6/dc0/thrift__binary__protocol_8h.html#a298dd4bdf6a8380e1887285909937b60":[3,0,1173,7],
-"d6/dc0/thrift__binary__protocol_8h.html#a2c2275d2d32504efefe097d553f8d3a9":[3,0,1173,2]
+"d6/dc0/thrift__binary__protocol_8h.html#a298dd4bdf6a8380e1887285909937b60":[3,0,1173,7]
 };

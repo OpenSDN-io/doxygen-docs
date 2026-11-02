@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ae7bc1849b01bbea9256301919c15451c":[2,0,8,7,13,0],
 "da/d47/classKSyncSockUds.html":[2,0,1017],
 "da/d47/classKSyncSockUds.html#a0b3dca3469758720ab945e0b6256076f":[2,0,1017,8],
 "da/d47/classKSyncSockUds.html#a10d49469fc438a8466fe2b0742b3ae76":[2,0,1017,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "da/d56/namespaceetcdserverpb.html#a31cbee21ba18f3eaf7762279d9907456a7a46de1a8e81ce6efef6d2312fa9a756":[1,0,11,164,2],
 "da/d56/namespaceetcdserverpb.html#a31cbee21ba18f3eaf7762279d9907456a870228cb9b5190bb3ec96c2ae49b143c":[1,0,11,164,4],
 "da/d56/namespaceetcdserverpb.html#a31cbee21ba18f3eaf7762279d9907456aa6761c1e58ea815aa5fa8a3e28a1cbb9":[1,0,11,164,0],
-"da/d56/namespaceetcdserverpb.html#a31cbee21ba18f3eaf7762279d9907456ae9d85917d01a1b1bca6a7105a4599202":[1,0,11,164,1],
-"da/d56/namespaceetcdserverpb.html#a3234eb44bebca6b50df2229f42cc50de":[1,0,11,233]
+"da/d56/namespaceetcdserverpb.html#a31cbee21ba18f3eaf7762279d9907456ae9d85917d01a1b1bca6a7105a4599202":[1,0,11,164,1]
 };

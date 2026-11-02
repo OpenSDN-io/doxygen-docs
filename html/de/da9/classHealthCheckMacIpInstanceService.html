@@ -146,6 +146,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aecf5a400f89d3e45f6b53bc1397c8ecd inherit pub_methods_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5feefd9d2caaa843ff9e1b41d621dbd8 inherit pub_methods_classHealthCheckInstanceService"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#a5feefd9d2caaa843ff9e1b41d621dbd8">EnqueueMacIpLearningHCStatus</a> (const <a class="el" href="../../dd/df6/classHealthCheckService.html">HealthCheckService</a> *<a class="el" href="../../d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef">service</a>) const</td></tr>
 <tr class="separator:a5feefd9d2caaa843ff9e1b41d621dbd8 inherit pub_methods_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7cd0540ee24b6ecdfa218d25e26ecb3 inherit pub_methods_classHealthCheckInstanceService"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#ac7cd0540ee24b6ecdfa218d25e26ecb3">SetBfdDownCallback</a> (const <a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#af793d75e8e79e4a8b3b0b0cea706361b">BfdDownCallback</a> &amp;callback)</td></tr>
+<tr class="separator:ac7cd0540ee24b6ecdfa218d25e26ecb3 inherit pub_methods_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af602cf366c3f75d760a6dad534267be2 inherit pub_methods_classHealthCheckInstanceService"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#af602cf366c3f75d760a6dad534267be2">BfdStateChange</a> (bool up)</td></tr>
+<tr class="separator:af602cf366c3f75d760a6dad534267be2 inherit pub_methods_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5348af4c9a1bd4314d88c88330f1138a inherit pub_methods_classHealthCheckInstanceService"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#a5348af4c9a1bd4314d88c88330f1138a">is_multi_hop</a> () const</td></tr>
 <tr class="separator:a5348af4c9a1bd4314d88c88330f1138a inherit pub_methods_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classHealthCheckInstanceBase"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classHealthCheckInstanceBase')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d4e/classHealthCheckInstanceBase.html">HealthCheckInstanceBase</a></td></tr>
@@ -211,6 +215,9 @@ Friends</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_types_classHealthCheckInstanceService"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classHealthCheckInstanceService')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../de/dc4/classHealthCheckInstanceService.html">HealthCheckInstanceService</a></td></tr>
+<tr class="memitem:af793d75e8e79e4a8b3b0b0cea706361b inherit pub_types_classHealthCheckInstanceService"><td class="memItemLeft" align="right" valign="top">typedef boost::function&lt; void()&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#af793d75e8e79e4a8b3b0b0cea706361b">BfdDownCallback</a></td></tr>
+<tr class="separator:af793d75e8e79e4a8b3b0b0cea706361b inherit pub_types_classHealthCheckInstanceService"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_classHealthCheckInstanceBase"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classHealthCheckInstanceBase')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d8/d4e/classHealthCheckInstanceBase.html">HealthCheckInstanceBase</a></td></tr>
 <tr class="memitem:afcbb7d95e84f7b103d425c3ccd0913a0 inherit pro_methods_classHealthCheckInstanceBase"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4e/classHealthCheckInstanceBase.html#afcbb7d95e84f7b103d425c3ccd0913a0">EnqueueResync</a> (const <a class="el" href="../../dd/df6/classHealthCheckService.html">HealthCheckService</a> *<a class="el" href="../../d8/d4e/classHealthCheckInstanceBase.html#af1fce932b79e298732a26c12419a4fef">service</a>, <a class="el" href="../../d0/dcc/classInterface.html">Interface</a> *itf) const</td></tr>
 <tr class="separator:afcbb7d95e84f7b103d425c3ccd0913a0 inherit pro_methods_classHealthCheckInstanceBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -236,7 +243,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00249">249</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00260">260</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a58eae57333a4eae069ac7a6ea6ee87b3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a58eae57333a4eae069ac7a6ea6ee87b3">&#9670;&nbsp;</a></span>HealthCheckMacIpInstanceService()</h2>
@@ -288,7 +295,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00352">352</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00370">370</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
 
 </div>
 </div>
@@ -315,7 +322,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00364">364</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00382">382</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
 
 </div>
 </div>
@@ -343,7 +350,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00261">261</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00272">272</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
 
 </div>
 </div>
@@ -399,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../de/dc4/classHealthCheckInstanceService.html#a6fed334664e7eae11fe19dca3b0165fb">HealthCheckInstanceService</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00367">367</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dde/health__check_8cc_source.html#l00385">385</a> of file <a class="el" href="../../dd/dde/health__check_8cc_source.html">health_check.cc</a>.</p>
 
 </div>
 </div>
@@ -427,7 +434,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00258">258</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00269">269</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
 
 </div>
 </div>
@@ -452,7 +459,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00264">264</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00275">275</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
 
 </div>
 </div>
@@ -477,7 +484,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00266">266</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d82/health__check_8h_source.html#l00277">277</a> of file <a class="el" href="../../d6/d82/health__check_8h_source.html">health_check.h</a>.</p>
 
 </div>
 </div>

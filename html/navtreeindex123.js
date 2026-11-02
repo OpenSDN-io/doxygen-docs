@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d8/d26/bgp__xmpp__sandesh_8cc.html#adab9b8edf46cbf8279d99df12a6956ee":[3,0,205,4],
 "d8/d26/bgp__xmpp__sandesh_8cc_source.html":[3,0,205],
 "d8/d27/classBridgeRouteFlowMgmtTree.html":[2,0,442],
 "d8/d27/classBridgeRouteFlowMgmtTree.html#a04a2442a3b87eace12e6b4a838085dce":[2,0,442,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d8/d36/classetcdserverpb_1_1Auth_1_1WithStreamedUnaryMethod__UserGrantRole.html#af7b7e1a78655ed59a8a4ab3d39b3084a":[2,0,8,9,48,4],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html":[2,0,407,1],
 "d8/d38/classBgpSenderPartition_1_1PeerState.html#a0617716f355b354de5b976eae6455de2":[2,0,407,1,3],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a0adddcf26a90c1c7a0dcd7c32ab4df79":[2,0,407,1,33],
-"d8/d38/classBgpSenderPartition_1_1PeerState.html#a17add12feb025f8f9ac782eba11709f2":[2,0,407,1,12]
+"d8/d38/classBgpSenderPartition_1_1PeerState.html#a0adddcf26a90c1c7a0dcd7c32ab4df79":[2,0,407,1,33]
 };

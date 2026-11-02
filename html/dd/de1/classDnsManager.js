@@ -36,6 +36,7 @@ var classDnsManager =
     [ "NotifyReverseDnsRecords", "dd/de1/classDnsManager.html#a5a7ec42a694305e83c2dd9a9b0fd8ef1", null ],
     [ "NotifyThrottledDnsRecords", "dd/de1/classDnsManager.html#acae0d47bb783f2c7b6d868a0bb3c6a9d", null ],
     [ "PendingDone", "dd/de1/classDnsManager.html#ab8beb0ceec7c5330e5a82d8abf901c23", null ],
+    [ "PendingListReverseDelete", "dd/de1/classDnsManager.html#aaf2035a55ed048fd8176dc777641ad8c", null ],
     [ "PendingListViewDelete", "dd/de1/classDnsManager.html#a0d97953593ab2242065d233c2057e5a8", null ],
     [ "PendingListZoneDelete", "dd/de1/classDnsManager.html#a5bd79fe18219fa94a26cd27e7fd96ca6", null ],
     [ "PendingTimerExpiry", "dd/de1/classDnsManager.html#a07e1dbe0508afd609ea69fe96494752e", null ],

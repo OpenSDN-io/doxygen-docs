@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d4/d72/classInet6VpnPrefix.html#abb5e2a18e6171fae1065e68dda6d57a5":[2,0,900,5],
 "d4/d72/classInet6VpnPrefix.html#ad5fe5503367c65f959ffee6d882d00ff":[2,0,900,15],
 "d4/d72/classInet6VpnPrefix.html#af6f8e4b6b0b65a993f109430b2fc2536":[2,0,900,13],
 "d4/d72/classInet6VpnPrefix.html#af7078b09bfd711a5b17dd136d13ccf56":[2,0,900,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d4/d83/classBFD_1_1Session.html#a94e1cf2c6d1678e4f9920df7126b0f4b":[2,0,2,20,8],
 "d4/d83/classBFD_1_1Session.html#a98eda7737f47d72b3bbfa7a39a66cc63":[2,0,2,20,1],
 "d4/d83/classBFD_1_1Session.html#a9cb2a169e7f8868b8f72b162ba5bd496":[2,0,2,20,46],
-"d4/d83/classBFD_1_1Session.html#aae3223adec9927aa9a1eef3822ab37b6":[2,0,2,20,20],
-"d4/d83/classBFD_1_1Session.html#ac50a8576a2006f9b7bf6c76500081c90":[2,0,2,20,16]
+"d4/d83/classBFD_1_1Session.html#aae3223adec9927aa9a1eef3822ab37b6":[2,0,2,20,20]
 };

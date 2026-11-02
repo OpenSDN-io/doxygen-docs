@@ -30,6 +30,7 @@ var classNamedConfig =
     [ "named_config_dir", "d3/d00/classNamedConfig.html#ac13408a3b491e7c521855ae58b4298b1", null ],
     [ "named_config_file", "d3/d00/classNamedConfig.html#a235b452f68575d6c0908a99b26598ae5", null ],
     [ "named_sessionkey_file", "d3/d00/classNamedConfig.html#a5337e8af646efdc8b541b2c3fe865606", null ],
+    [ "RemoveReverseZoneFiles", "d3/d00/classNamedConfig.html#a9f947ecde9f15712eb0bbeb03704ebbf", null ],
     [ "RemoveZoneFile", "d3/d00/classNamedConfig.html#abaa348115e7b28458e60f68a5fa17a0f", null ],
     [ "RemoveZoneFiles", "d3/d00/classNamedConfig.html#aef606862dea40cf976d50ac82c8d10aa", null ],
     [ "Reset", "d3/d00/classNamedConfig.html#ad885728d426a2f5634ae4a6deaee6863", null ],

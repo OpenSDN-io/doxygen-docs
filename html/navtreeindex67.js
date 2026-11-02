@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"d4/da5/structDnsConfig.html#a0a2fdeebd785b6b0576952aebef3ac28":[2,0,590,5],
 "d4/da5/structDnsConfig.html#a0ca918ee9281949db83c39d77c356c2d":[2,0,590,0],
 "d4/da5/structDnsConfig.html#a12f89591cfd75252a5ef1fe53ad07a49":[2,0,590,13],
 "d4/da5/structDnsConfig.html#a1ff0a0b365461390e223587cc5de2919":[2,0,590,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "d4/db4/classPathPreferenceSM.html#acf3592992f57e88ebc91289ec0c1c7b5":[2,0,1280,34],
 "d4/db4/classPathPreferenceSM.html#ad3d7628d3afa7e72017e4cafa8a80afd":[2,0,1280,7],
 "d4/db4/classPathPreferenceSM.html#ad77269733e398f7d3f3321fa17485c84":[2,0,1280,32],
-"d4/db4/classPathPreferenceSM.html#ada623355ce7d60bc7ded639d42214017":[2,0,1280,26],
-"d4/db4/classPathPreferenceSM.html#ae0ef27ac03b6a3d64e4ea56e62b18dcd":[2,0,1280,22]
+"d4/db4/classPathPreferenceSM.html#ada623355ce7d60bc7ded639d42214017":[2,0,1280,26]
 };

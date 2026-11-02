@@ -1,5 +1,9 @@
 var NAVTREEINDEX175 =
 {
+"db/def/classPathResolverPartition.html#af5e9b9ccfd73944e140b0aef0237127d":[2,0,1284,26],
+"db/def/classPathResolverPartition.html#af8c23c5618fad93d6718d92da8554795":[2,0,1284,3],
+"db/df1/classBgpXmppPeerClose.html":[2,0,423],
+"db/df1/classBgpXmppPeerClose.html#a0b6dbe79da37202311ce4b6a58b0e0c1":[2,0,423,22],
 "db/df1/classBgpXmppPeerClose.html#a18a688e9825559514fe6a36e0514ad93":[2,0,423,15],
 "db/df1/classBgpXmppPeerClose.html#a201796930398e4a311482ecf2523b8dd":[2,0,423,25],
 "db/df1/classBgpXmppPeerClose.html#a25d9ea9feaa2f245e3a218d156423c86":[2,0,423,18],
@@ -245,9 +249,5 @@ var NAVTREEINDEX175 =
 "db/dfd/icmpv6__error__handler_8h.html":[3,0,512],
 "db/dfd/icmpv6__error__handler_8h_source.html":[3,0,512],
 "db/dfd/thrift__xml__protocol_8h.html":[3,0,1179],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31":[3,0,1179,7],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a45d8e169b25beac5223e95dda07a2b6f":[3,0,1179,7,1],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a49cc7d0a22736dac8f19f59431ea9632":[3,0,1179,7,3],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a4ce49e733278396af08f9e7ddae916a0":[3,0,1179,7,0],
-"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31a8a3c6c50f57d72e2072cfdf75b108009":[3,0,1179,7,2]
+"db/dfd/thrift__xml__protocol_8h.html#a2029d5d9e654dc91aa4c94e3fffefc31":[3,0,1179,7]
 };

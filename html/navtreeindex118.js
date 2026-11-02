@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"d7/dd5/classOperDhcpOptions.html#a2ac1097656fcd5029232b5287c33943e":[2,0,1241,6],
 "d7/dd5/classOperDhcpOptions.html#a58d1a76034fa04c141c6d430da063cdb":[2,0,1241,2],
 "d7/dd5/classOperDhcpOptions.html#a5de7f62c294b377f3cf527ff28b24125":[2,0,1241,11],
 "d7/dd5/classOperDhcpOptions.html#a77cdabb47279f59275f8342b9ecf33a8":[2,0,1241,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "d7/ded/classResourceSandeshMaps.html#adc99df583d94abf166424a04495bb7a5":[2,0,1422,2],
 "d7/ded/classResourceSandeshMaps.html#aea7e827c7fe497f9f9a48deb56769117":[2,0,1422,27],
 "d7/ded/classResourceSandeshMaps.html#af575fe04dc35fa966e60b1cb27065231":[2,0,1422,14],
-"d7/ded/classResourceSandeshMaps.html#af9bd360ab19aee503c40a79d46a1fb88":[2,0,1422,42],
-"d7/ded/classResourceSandeshMaps.html#afea1bcd236fcdbff96cc6dccf2a1ed20":[2,0,1422,31]
+"d7/ded/classResourceSandeshMaps.html#af9bd360ab19aee503c40a79d46a1fb88":[2,0,1422,42]
 };

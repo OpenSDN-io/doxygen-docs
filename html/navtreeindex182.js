@@ -1,5 +1,9 @@
 var NAVTREEINDEX182 =
 {
+"dc/d5b/classVxlanRoutingManager.html#af5ccd0d46a2cd034d260f88c1492e25c":[2,0,1896,96],
+"dc/d5b/classVxlanRoutingManager.html#af7076953732d7647cfba086dc1de969d":[2,0,1896,16],
+"dc/d5b/classVxlanRoutingManager.html#af94bc3cd45e0e22279657097db866565":[2,0,1896,93],
+"dc/d5b/classVxlanRoutingManager.html#afa2a124315cbddb7bb3528ebd1a0cfca":[2,0,1896,10],
 "dc/d5b/classVxlanRoutingManager.html#afeb52436ef20af0f942c235ca59f5b8d":[2,0,1896,70],
 "dc/d5c/db__graph__vertex_8cc.html":[3,0,316],
 "dc/d5c/db__graph__vertex_8cc_source.html":[3,0,316],
@@ -245,9 +249,5 @@ var NAVTREEINDEX182 =
 "dc/d77/classBridgeDomainEntry.html#a35ca29d3754d8233189248c024bd7b99":[2,0,433,11],
 "dc/d77/classBridgeDomainEntry.html#a3d9fc6fc4d80768b40458f3908eaea30":[2,0,433,27],
 "dc/d77/classBridgeDomainEntry.html#a3f119b0741b1f2d37de20f1d9fe320dc":[2,0,433,21],
-"dc/d77/classBridgeDomainEntry.html#a4cf3fea1be0bb115e9be3fb933f6a930":[2,0,433,10],
-"dc/d77/classBridgeDomainEntry.html#a56c45a664ab233128a664ab048956c0d":[2,0,433,9],
-"dc/d77/classBridgeDomainEntry.html#a74c4af36a3e8722c0b15ef582c3d20db":[2,0,433,5],
-"dc/d77/classBridgeDomainEntry.html#a75d53a45c392203f9fba3cdbec3fccd5":[2,0,433,12],
-"dc/d77/classBridgeDomainEntry.html#a775cdf3fc56b10aee6081303e7cb6ce3":[2,0,433,19]
+"dc/d77/classBridgeDomainEntry.html#a4cf3fea1be0bb115e9be3fb933f6a930":[2,0,433,10]
 };

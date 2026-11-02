@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html":[2,0,8,1],
 "da/d28/classetcdserverpb_1_1MetadataDefaultTypeInternal.html#a9310438250eb1348038229db6a229d05":[2,0,8,1,0],
 "da/d29/structRoutingPolicyAttachInfo.html":[2,0,1471],
 "da/d29/structRoutingPolicyAttachInfo.html#a1900569f669eb0b6da1af8b2f93257de":[2,0,1471,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX151 =
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#a2389ced979b5afbc1c4750dba59934b4":[2,0,8,7,13,2],
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#a8b2a05cbce5e8c082c460440567ca86a":[2,0,8,7,13,1],
 "da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#a9766ea4a000a0da76658cfde4fbe90c7":[2,0,8,7,13,3],
-"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ab20364abbdd923d196a2c213fe8b0663":[2,0,8,7,13,4],
-"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ae7bc1849b01bbea9256301919c15451c":[2,0,8,7,13,0]
+"da/d46/classetcdserverpb_1_1Cluster_1_1WithStreamedUnaryMethod__MemberRemove.html#ab20364abbdd923d196a2c213fe8b0663":[2,0,8,7,13,4]
 };

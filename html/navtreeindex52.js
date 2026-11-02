@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html":[2,0,4,0,4],
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a0092fadab87993058ccd55b8b25b7748":[2,0,4,0,4,49],
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a03527b1115500a51a050792d463ef1a3":[2,0,4,0,4,29],
 "d3/d7b/classcass_1_1cql_1_1CqlIfImpl.html#a054903a97edc22a2502390d0b131ad27":[2,0,4,0,4,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d3/d8d/structgmpp__io__context__.html#a01221735eb715b46a780d1fb60e6605f":[2,0,763,0],
 "d3/d8d/structgmpp__io__context__.html#a825cca2d4ce98c71a74ad0ce1401e141":[2,0,763,1],
 "d3/d8d/vgw_8cc.html":[3,0,1222],
-"d3/d8d/vgw_8cc_source.html":[3,0,1222],
-"d3/d8f/config__cass2json__adapter_8h.html":[3,0,239]
+"d3/d8d/vgw_8cc_source.html":[3,0,1222]
 };

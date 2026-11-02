@@ -1,5 +1,9 @@
 var NAVTREEINDEX170 =
 {
+"db/d88/agent__xmpp__init_8h_source.html":[3,0,52],
+"db/d89/classAgentDBEntry.html":[2,0,67],
+"db/d89/classAgentDBEntry.html#a26e11b70fe404f8304a5f6e32a93c0ea":[2,0,67,1],
+"db/d89/classAgentDBEntry.html#a2a37f8e2587d07239b2cef939cf04b61":[2,0,67,5],
 "db/d89/classAgentDBEntry.html#a2f241baf0bc18b31cf09b042e6bfc81f":[2,0,67,11],
 "db/d89/classAgentDBEntry.html#a3e24395c212c2931dc903ce5116a9d6c":[2,0,67,7],
 "db/d89/classAgentDBEntry.html#a487cba2fda1ab176a10bdb386042e930":[2,0,67,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX170 =
 "db/d96/classMetadataProxy.html#a7c6627e3825cc7b99623b6bc50cdc386":[2,0,1139,29],
 "db/d96/classMetadataProxy.html#a7f29c26991afdc8509144b1b67f05144":[2,0,1139,42],
 "db/d96/classMetadataProxy.html#a80a4bdc274a79abb42b5a0eb5fce03f6":[2,0,1139,32],
-"db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4":[2,0,1139,20],
-"db/d96/classMetadataProxy.html#a87cc6852511965ff397869a165de3807":[2,0,1139,5],
-"db/d96/classMetadataProxy.html#a97aa74c5b4acda3908dce18eac3aa913":[2,0,1139,35],
-"db/d96/classMetadataProxy.html#a9cbc8ab817793078cf19cc666ab97aee":[2,0,1139,23],
-"db/d96/classMetadataProxy.html#a9dee541a1187248c19409e9101dc2b14":[2,0,1139,15]
+"db/d96/classMetadataProxy.html#a8562903300a2a43fd47870b4c8e5a6e4":[2,0,1139,20]
 };

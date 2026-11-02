@@ -1,5 +1,9 @@
 var NAVTREEINDEX198 =
 {
+"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a3fb61608a2c4f9014079994ea8c386ea":[2,0,419,3,2],
+"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a52686f95226d26c27bda75864a703322":[2,0,419,3,17],
+"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a5b67b22c7707864a99182c1153c5a839":[2,0,419,3,11],
+"dd/d73/classBgpXmppChannel_1_1PeerStats.html#a623c461904e336e4ae7abd2fcd7ca136":[2,0,419,3,1],
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a63b0d1485195680269c74a24424165b4":[2,0,419,3,4],
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a6b20dcf6594e9ffcaba5d650e456cf2c":[2,0,419,3,13],
 "dd/d73/classBgpXmppChannel_1_1PeerStats.html#a80c574f1aabb1a2c263f7ac8f62d88b1":[2,0,419,3,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX198 =
 "dd/d8a/structConfigEtcdPartition_1_1UUIDProcessRequestType.html#a57b0ffd5540b7a8248de5b09d6e3dafb":[2,0,490,1,0],
 "dd/d8a/structConfigEtcdPartition_1_1UUIDProcessRequestType.html#a7c3697d1bed3fe610a4efc1a87e570b5":[2,0,490,1,3],
 "dd/d8a/structConfigEtcdPartition_1_1UUIDProcessRequestType.html#ad5929636b8db0b011dae36c09357ce8f":[2,0,490,1,2],
-"dd/d8d/structDBGraphBase_1_1EdgeProperties.html":[2,0,541,0],
-"dd/d8d/structDBGraphBase_1_1EdgeProperties.html#a0f49d92e5fd3365d6edb62ac91a691da":[2,0,541,0,3],
-"dd/d8d/structDBGraphBase_1_1EdgeProperties.html#a274de09c325dba92e4dafd8b6b0beffe":[2,0,541,0,1],
-"dd/d8d/structDBGraphBase_1_1EdgeProperties.html#a97837a9cadc94882f2cd24295fd82bc7":[2,0,541,0,2],
-"dd/d8d/structDBGraphBase_1_1EdgeProperties.html#aeb6e7a86ecf1f6678f4c5688665fcce4":[2,0,541,0,0]
+"dd/d8d/structDBGraphBase_1_1EdgeProperties.html":[2,0,541,0]
 };
