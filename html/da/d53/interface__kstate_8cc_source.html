@@ -87,117 +87,118 @@ $(document).ready(function(){initNavTree('da/d53/interface__kstate_8cc_source.ht
 <div class="contents">
 <a href="../../da/d53/interface__kstate_8cc.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2013 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d0/d54/kstate_8h.html">kstate.h</a>&quot;</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../db/d70/interface__kstate_8h.html">interface_kstate.h</a>&quot;</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &lt;iomanip&gt;</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;sstream&gt;</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &quot;vr_interface.h&quot;</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160; </div>
-<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">   13</a></span>&#160;<a class="code" href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">InterfaceKState::InterfaceKState</a>(KInterfaceResp *obj, <span class="keyword">const</span> std::string &amp;ctx,</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;                                 vr_interface_req &amp;req, <span class="keywordtype">int</span> <span class="keywordtype">id</span>) :</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;                                 <a class="code" href="../../dc/dc6/classKState.html">KState</a>(ctx, obj) {</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> &gt;= 0) {</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        req.set_h_op(sandesh_op::GET);</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        req.set_vifr_idx(<span class="keywordtype">id</span>);</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InitDumpRequest</a>(req);</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        req.set_vifr_marker(-1);</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    }</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;}</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
-<div class="line"><a name="l00025"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">   25</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InterfaceKState::InitDumpRequest</a>(vr_interface_req &amp;req)<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    req.set_h_op(sandesh_op::DUMP);</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    req.set_vifr_idx(0);</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;}</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
-<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">   30</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">InterfaceKState::Handler</a>() {</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    KInterfaceResp *resp = <span class="keyword">static_cast&lt;</span>KInterfaceResp *<span class="keyword">&gt;</span>(<a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a>);</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <span class="keywordflow">if</span> (resp) {</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="../../dc/dc6/classKState.html#a2895ef9b5057956363c7d5b6f1993970">MoreData</a>()) {</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;            <span class="comment">/* There are more interfaces in Kernel. We need to query them from</span></div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="comment">             * Kernel and send it to Sandesh.</span></div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="comment">             */</span></div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;            <a class="code" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">SendResponse</a>();</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;            <a class="code" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">SendNextRequest</a>();</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;            resp-&gt;set_context(<a class="code" href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">response_context_</a>);</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            resp-&gt;Response();</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;            <a class="code" href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">more_context_</a> = boost::any();</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        }</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    }</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;}</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
-<div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">   47</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">InterfaceKState::SendNextRequest</a>() {</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    vr_interface_req req;</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InitDumpRequest</a>(req);</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    int32_t idx = boost::any_cast&lt;int32_t&gt;(<a class="code" href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">more_context_</a>);</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    req.set_vifr_marker(idx);</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <a class="code" href="../../dc/dc6/classKState.html#acf0a3cc7e2073c1e12d8a58e74ac8c54">EncodeAndSend</a>(req);</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;}</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160; </div>
-<div class="line"><a name="l00055"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">   55</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">InterfaceKState::SendResponse</a>() {</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160; </div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    KInterfaceResp *resp = <span class="keyword">static_cast&lt;</span>KInterfaceResp *<span class="keyword">&gt;</span>(<a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a>);</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    resp-&gt;set_context(<a class="code" href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">response_context_</a>);</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    resp-&gt;set_more(<span class="keyword">true</span>);</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    resp-&gt;Response();</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160; </div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a> = <span class="keyword">new</span> KInterfaceResp();</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;}</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160; </div>
-<div class="line"><a name="l00065"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">   65</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">string</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">InterfaceKState::TypeToString</a>(<span class="keywordtype">int</span> if_type)<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="keywordtype">unsigned</span> <span class="keywordtype">short</span> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a> = if_type;</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="keywordflow">switch</span>(<a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>) {</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_HOST:</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;HOST&quot;</span>;</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_AGENT:</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;AGENT&quot;</span>;</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_PHYSICAL:</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;PHYSICAL&quot;</span>;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_VIRTUAL:</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;VIRTUAL&quot;</span>;</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;        <span class="keywordflow">default</span>:</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;INVALID&quot;</span>;</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    }</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;}</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160; </div>
-<div class="line"><a name="l00081"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">   81</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">string</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">InterfaceKState::FlagsToString</a>(<span class="keywordtype">int</span> flags)<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;    <span class="keywordtype">string</span> str(<span class="stringliteral">&quot;&quot;</span>);;</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    <span class="keywordflow">if</span> (flags == 0) {</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;NIL&quot;</span>;</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    }</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_POLICY_ENABLED) {</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;        str += <span class="stringliteral">&quot;POLICY &quot;</span>;</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    }</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_MIRROR_RX) {</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;        str += <span class="stringliteral">&quot;MIRR_RX &quot;</span>;</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    }</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_MIRROR_TX) {</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;        str += <span class="stringliteral">&quot;MIRR_TX &quot;</span>;</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    }</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <span class="keywordflow">return</span> str;</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;}</div>
-<div class="ttc" id="aclassInterfaceKState_html_a16d3f22517c06ec98c734962565c5fdc"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">InterfaceKState::Handler</a></div><div class="ttdeci">virtual void Handler()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00030">interface_kstate.cc:30</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_a2214ec27f721616f44c4a9ed330e3279"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">InterfaceKState::FlagsToString</a></div><div class="ttdeci">const std::string FlagsToString(int flags) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00081">interface_kstate.cc:81</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_a555a4fef90c7c342ee99a21ef64c7497"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">InterfaceKState::TypeToString</a></div><div class="ttdeci">const std::string TypeToString(int type) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00065">interface_kstate.cc:65</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_a7091b91ad4aa4452cc3a33c6d4bfd5c9"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">InterfaceKState::SendResponse</a></div><div class="ttdeci">virtual void SendResponse()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00055">interface_kstate.cc:55</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_a9bd0c534c6ca4162cc0d298723373511"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InterfaceKState::InitDumpRequest</a></div><div class="ttdeci">void InitDumpRequest(vr_interface_req &amp;req) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00025">interface_kstate.cc:25</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_ad27cde452892c3bd3fdcb656aab57a0e"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">InterfaceKState::SendNextRequest</a></div><div class="ttdeci">virtual void SendNextRequest()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00047">interface_kstate.cc:47</a></div></div>
-<div class="ttc" id="aclassInterfaceKState_html_ad4e22d73b9208221bd460917c2b030d2"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">InterfaceKState::InterfaceKState</a></div><div class="ttdeci">InterfaceKState(KInterfaceResp *obj, const std::string &amp;resp_ctx, vr_interface_req &amp;encoder, int id)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00013">interface_kstate.cc:13</a></div></div>
-<div class="ttc" id="aclassKState_html"><div class="ttname"><a href="../../dc/dc6/classKState.html">KState</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00024">kstate.h:24</a></div></div>
-<div class="ttc" id="aclassKState_html_a2895ef9b5057956363c7d5b6f1993970"><div class="ttname"><a href="../../dc/dc6/classKState.html#a2895ef9b5057956363c7d5b6f1993970">KState::MoreData</a></div><div class="ttdeci">bool MoreData() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d33/kstate_8cc_source.html#l00029">kstate.cc:29</a></div></div>
-<div class="ttc" id="aclassKState_html_a57222d7fc613ed345fbb99868df0207c"><div class="ttname"><a href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">KState::response_context_</a></div><div class="ttdeci">std::string response_context_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00063">kstate.h:63</a></div></div>
-<div class="ttc" id="aclassKState_html_a8051919cd99bd736d003eb77324db6f6"><div class="ttname"><a href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">KState::more_context_</a></div><div class="ttdeci">boost::any more_context_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00066">kstate.h:66</a></div></div>
-<div class="ttc" id="aclassKState_html_a97633a63436fa91f99f801c38593acba"><div class="ttname"><a href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">KState::response_object_</a></div><div class="ttdeci">Sandesh * response_object_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00064">kstate.h:64</a></div></div>
-<div class="ttc" id="aclassKState_html_acf0a3cc7e2073c1e12d8a58e74ac8c54"><div class="ttname"><a href="../../dc/dc6/classKState.html#acf0a3cc7e2073c1e12d8a58e74ac8c54">KState::EncodeAndSend</a></div><div class="ttdeci">void EncodeAndSend(Sandesh &amp;encoder)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d33/kstate_8cc_source.html#l00063">kstate.cc:63</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d0/d54/kstate_8h.html">kstate.h</a>&quot;</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../db/d70/interface__kstate_8h.html">interface_kstate.h</a>&quot;</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;iomanip&gt;</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;sstream&gt;</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &quot;vr_interface.h&quot;</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
+<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">   14</a></span>&#160;<a class="code" href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">InterfaceKState::InterfaceKState</a>(KInterfaceResp *obj, <span class="keyword">const</span> std::string &amp;ctx,</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;                                 vr_interface_req &amp;req, <span class="keywordtype">int</span> <span class="keywordtype">id</span>) :</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;                                 <a class="code" href="../../dc/dc6/classKState.html">KState</a>(ctx, obj) {</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> &gt;= 0) {</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        req.set_h_op(sandesh_op::GET);</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;        req.set_vifr_idx(<span class="keywordtype">id</span>);</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InitDumpRequest</a>(req);</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        req.set_vifr_marker(-1);</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    }</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;}</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
+<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">   26</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InterfaceKState::InitDumpRequest</a>(vr_interface_req &amp;req)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    req.set_h_op(sandesh_op::DUMP);</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    req.set_vifr_idx(0);</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;}</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
+<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">   31</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">InterfaceKState::Handler</a>() {</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    KInterfaceResp *resp = <span class="keyword">static_cast&lt;</span>KInterfaceResp *<span class="keyword">&gt;</span>(<a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a>);</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <span class="keywordflow">if</span> (resp) {</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="../../dc/dc6/classKState.html#a2895ef9b5057956363c7d5b6f1993970">MoreData</a>()) {</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;            <span class="comment">/* There are more interfaces in Kernel. We need to query them from</span></div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="comment">             * Kernel and send it to Sandesh.</span></div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="comment">             */</span></div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;            <a class="code" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">SendResponse</a>();</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            <a class="code" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">SendNextRequest</a>();</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            resp-&gt;set_context(<a class="code" href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">response_context_</a>);</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;            resp-&gt;Response();</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;            <a class="code" href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">more_context_</a> = boost::any();</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        }</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    }</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;}</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160; </div>
+<div class="line"><a name="l00048"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">   48</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">InterfaceKState::SendNextRequest</a>() {</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    vr_interface_req req;</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <a class="code" href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InitDumpRequest</a>(req);</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    int32_t idx = boost::any_cast&lt;int32_t&gt;(<a class="code" href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">more_context_</a>);</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    req.set_vifr_marker(idx);</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="../../dc/dc6/classKState.html#acf0a3cc7e2073c1e12d8a58e74ac8c54">EncodeAndSend</a>(req);</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;}</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160; </div>
+<div class="line"><a name="l00056"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">   56</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">InterfaceKState::SendResponse</a>() {</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160; </div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    KInterfaceResp *resp = <span class="keyword">static_cast&lt;</span>KInterfaceResp *<span class="keyword">&gt;</span>(<a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a>);</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    resp-&gt;set_context(<a class="code" href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">response_context_</a>);</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    resp-&gt;set_more(<span class="keyword">true</span>);</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    resp-&gt;Response();</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    <a class="code" href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">response_object_</a> = <span class="keyword">new</span> KInterfaceResp();</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;}</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160; </div>
+<div class="line"><a name="l00066"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">   66</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">string</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">InterfaceKState::TypeToString</a>(<span class="keywordtype">int</span> if_type)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="keywordtype">unsigned</span> <span class="keywordtype">short</span> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a> = if_type;</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">switch</span>(<a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>) {</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_HOST:</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;HOST&quot;</span>;</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_AGENT:</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;AGENT&quot;</span>;</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_PHYSICAL:</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;PHYSICAL&quot;</span>;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;        <span class="keywordflow">case</span> VIF_TYPE_VIRTUAL:</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;VIRTUAL&quot;</span>;</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;        <span class="keywordflow">default</span>:</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;            <span class="keywordflow">return</span> <span class="stringliteral">&quot;INVALID&quot;</span>;</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    }</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;}</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160; </div>
+<div class="line"><a name="l00082"></a><span class="lineno"><a class="line" href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">   82</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">string</span> <a class="code" href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">InterfaceKState::FlagsToString</a>(<span class="keywordtype">int</span> flags)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    <span class="keywordtype">string</span> str(<span class="stringliteral">&quot;&quot;</span>);;</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    <span class="keywordflow">if</span> (flags == 0) {</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;NIL&quot;</span>;</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    }</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_POLICY_ENABLED) {</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;        str += <span class="stringliteral">&quot;POLICY &quot;</span>;</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    }</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_MIRROR_RX) {</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        str += <span class="stringliteral">&quot;MIRR_RX &quot;</span>;</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    }</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    <span class="keywordflow">if</span> (flags &amp; VIF_FLAG_MIRROR_TX) {</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;        str += <span class="stringliteral">&quot;MIRR_TX &quot;</span>;</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    }</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <span class="keywordflow">return</span> str;</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;}</div>
+<div class="ttc" id="aclassInterfaceKState_html_a16d3f22517c06ec98c734962565c5fdc"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a16d3f22517c06ec98c734962565c5fdc">InterfaceKState::Handler</a></div><div class="ttdeci">virtual void Handler()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00031">interface_kstate.cc:31</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_a2214ec27f721616f44c4a9ed330e3279"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a2214ec27f721616f44c4a9ed330e3279">InterfaceKState::FlagsToString</a></div><div class="ttdeci">const std::string FlagsToString(int flags) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00082">interface_kstate.cc:82</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_a555a4fef90c7c342ee99a21ef64c7497"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a555a4fef90c7c342ee99a21ef64c7497">InterfaceKState::TypeToString</a></div><div class="ttdeci">const std::string TypeToString(int type) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00066">interface_kstate.cc:66</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_a7091b91ad4aa4452cc3a33c6d4bfd5c9"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a7091b91ad4aa4452cc3a33c6d4bfd5c9">InterfaceKState::SendResponse</a></div><div class="ttdeci">virtual void SendResponse()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00056">interface_kstate.cc:56</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_a9bd0c534c6ca4162cc0d298723373511"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#a9bd0c534c6ca4162cc0d298723373511">InterfaceKState::InitDumpRequest</a></div><div class="ttdeci">void InitDumpRequest(vr_interface_req &amp;req) const</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00026">interface_kstate.cc:26</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_ad27cde452892c3bd3fdcb656aab57a0e"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#ad27cde452892c3bd3fdcb656aab57a0e">InterfaceKState::SendNextRequest</a></div><div class="ttdeci">virtual void SendNextRequest()</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00048">interface_kstate.cc:48</a></div></div>
+<div class="ttc" id="aclassInterfaceKState_html_ad4e22d73b9208221bd460917c2b030d2"><div class="ttname"><a href="../../d5/de8/classInterfaceKState.html#ad4e22d73b9208221bd460917c2b030d2">InterfaceKState::InterfaceKState</a></div><div class="ttdeci">InterfaceKState(KInterfaceResp *obj, const std::string &amp;resp_ctx, vr_interface_req &amp;encoder, int id)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d53/interface__kstate_8cc_source.html#l00014">interface_kstate.cc:14</a></div></div>
+<div class="ttc" id="aclassKState_html"><div class="ttname"><a href="../../dc/dc6/classKState.html">KState</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00025">kstate.h:25</a></div></div>
+<div class="ttc" id="aclassKState_html_a2895ef9b5057956363c7d5b6f1993970"><div class="ttname"><a href="../../dc/dc6/classKState.html#a2895ef9b5057956363c7d5b6f1993970">KState::MoreData</a></div><div class="ttdeci">bool MoreData() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d33/kstate_8cc_source.html#l00030">kstate.cc:30</a></div></div>
+<div class="ttc" id="aclassKState_html_a57222d7fc613ed345fbb99868df0207c"><div class="ttname"><a href="../../dc/dc6/classKState.html#a57222d7fc613ed345fbb99868df0207c">KState::response_context_</a></div><div class="ttdeci">std::string response_context_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00064">kstate.h:64</a></div></div>
+<div class="ttc" id="aclassKState_html_a8051919cd99bd736d003eb77324db6f6"><div class="ttname"><a href="../../dc/dc6/classKState.html#a8051919cd99bd736d003eb77324db6f6">KState::more_context_</a></div><div class="ttdeci">boost::any more_context_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00067">kstate.h:67</a></div></div>
+<div class="ttc" id="aclassKState_html_a97633a63436fa91f99f801c38593acba"><div class="ttname"><a href="../../dc/dc6/classKState.html#a97633a63436fa91f99f801c38593acba">KState::response_object_</a></div><div class="ttdeci">Sandesh * response_object_</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d54/kstate_8h_source.html#l00065">kstate.h:65</a></div></div>
+<div class="ttc" id="aclassKState_html_acf0a3cc7e2073c1e12d8a58e74ac8c54"><div class="ttname"><a href="../../dc/dc6/classKState.html#acf0a3cc7e2073c1e12d8a58e74ac8c54">KState::EncodeAndSend</a></div><div class="ttdeci">void EncodeAndSend(Sandesh &amp;encoder)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d33/kstate_8cc_source.html#l00064">kstate.cc:64</a></div></div>
 <div class="ttc" id="ainterface__kstate_8h_html"><div class="ttname"><a href="../../db/d70/interface__kstate_8h.html">interface_kstate.h</a></div></div>
 <div class="ttc" id="akstate_8h_html"><div class="ttname"><a href="../../d0/d54/kstate_8h.html">kstate.h</a></div></div>
 <div class="ttc" id="aload__balance_8h_html_a1d127017fb298b889f4ba24752d08b8e"><div class="ttname"><a href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a></div><div class="ttdeci">uint8_t type</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dcb/load__balance_8h_source.html#l00002">load_balance.h:2</a></div></div>
-<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00120">bgp_update.h:120</a></div></div>
+<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00121">bgp_update.h:121</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

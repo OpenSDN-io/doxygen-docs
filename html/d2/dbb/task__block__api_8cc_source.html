@@ -87,44 +87,45 @@ $(document).ready(function(){initNavTree('d2/dbb/task__block__api_8cc_source.htm
 <div class="contents">
 <a href="../../d2/dbb/task__block__api_8cc.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2017 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;string.h&gt;</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#ifdef __cplusplus</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> {</div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d4/d6e/task__block__api_8h.html">task_block_api.h</a>&quot;</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#ifdef __cplusplus</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;}</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">   14</a></span>&#160;<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> <a class="code" href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">task_block_init</a>(<span class="keywordtype">size_t</span> size, <span class="keyword">const</span> <span class="keywordtype">char</span> *name)</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;{</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a>)size;</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;}</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
-<div class="line"><a name="l00019"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">   19</a></span>&#160;<span class="keywordtype">void</span> *<a class="code" href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">task_block_alloc</a>(<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> block)</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;{</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordtype">void</span> *memory = malloc((<span class="keywordtype">size_t</span>)block);</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordflow">if</span> (!memory) {</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        <span class="keywordflow">return</span> NULL;</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    }</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    memset(memory, 0x00, block);</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    <span class="keywordflow">return</span> memory;</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;}</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
-<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">   31</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">task_block_free</a>(<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> block, <span class="keywordtype">void</span> *mem)</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;{</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    free(mem);</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;}</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160; </div>
-<div class="ttc" id="atask__block__api_8cc_html_a7e5a4eea5ac2d2232253855ce899c99c"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">task_block_alloc</a></div><div class="ttdeci">void * task_block_alloc(block_t block)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00019">task_block_api.cc:19</a></div></div>
-<div class="ttc" id="atask__block__api_8cc_html_a93623a2ce0e361f7322e6de006fd5994"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">task_block_init</a></div><div class="ttdeci">block_t task_block_init(size_t size, const char *name)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00014">task_block_api.cc:14</a></div></div>
-<div class="ttc" id="atask__block__api_8cc_html_ab486ec0c847b12d32a9b948eb80c65cc"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">task_block_free</a></div><div class="ttdeci">void task_block_free(block_t block, void *mem)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00031">task_block_api.cc:31</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;string.h&gt;</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#ifdef __cplusplus</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> {</div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d4/d6e/task__block__api_8h.html">task_block_api.h</a>&quot;</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#ifdef __cplusplus</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;}</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160; </div>
+<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">   15</a></span>&#160;<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> <a class="code" href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">task_block_init</a>(<span class="keywordtype">size_t</span> size, <span class="keyword">const</span> <span class="keywordtype">char</span> *name)</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;{</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a>)size;</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;}</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
+<div class="line"><a name="l00020"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">   20</a></span>&#160;<span class="keywordtype">void</span> *<a class="code" href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">task_block_alloc</a>(<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> block)</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;{</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordtype">void</span> *memory = malloc((<span class="keywordtype">size_t</span>)block);</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    <span class="keywordflow">if</span> (!memory) {</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        <span class="keywordflow">return</span> NULL;</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    }</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160; </div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    memset(memory, 0x00, block);</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160; </div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keywordflow">return</span> memory;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;}</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160; </div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">   32</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">task_block_free</a>(<a class="code" href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a> block, <span class="keywordtype">void</span> *mem)</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;{</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    free(mem);</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;}</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160; </div>
+<div class="ttc" id="atask__block__api_8cc_html_a7e5a4eea5ac2d2232253855ce899c99c"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#a7e5a4eea5ac2d2232253855ce899c99c">task_block_alloc</a></div><div class="ttdeci">void * task_block_alloc(block_t block)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00020">task_block_api.cc:20</a></div></div>
+<div class="ttc" id="atask__block__api_8cc_html_a93623a2ce0e361f7322e6de006fd5994"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#a93623a2ce0e361f7322e6de006fd5994">task_block_init</a></div><div class="ttdeci">block_t task_block_init(size_t size, const char *name)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00015">task_block_api.cc:15</a></div></div>
+<div class="ttc" id="atask__block__api_8cc_html_ab486ec0c847b12d32a9b948eb80c65cc"><div class="ttname"><a href="../../d2/dbb/task__block__api_8cc.html#ab486ec0c847b12d32a9b948eb80c65cc">task_block_free</a></div><div class="ttdeci">void task_block_free(block_t block, void *mem)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbb/task__block__api_8cc_source.html#l00032">task_block_api.cc:32</a></div></div>
 <div class="ttc" id="atask__block__api_8h_html"><div class="ttname"><a href="../../d4/d6e/task__block__api_8h.html">task_block_api.h</a></div></div>
-<div class="ttc" id="atask__block__api_8h_html_a86c7a193042fa7603b76b0fafda30e27"><div class="ttname"><a href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a></div><div class="ttdeci">unsigned long block_t</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6e/task__block__api_8h_source.html#l00010">task_block_api.h:10</a></div></div>
+<div class="ttc" id="atask__block__api_8h_html_a86c7a193042fa7603b76b0fafda30e27"><div class="ttname"><a href="../../d4/d6e/task__block__api_8h.html#a86c7a193042fa7603b76b0fafda30e27">block_t</a></div><div class="ttdeci">unsigned long block_t</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6e/task__block__api_8h_source.html#l00011">task_block_api.h:11</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

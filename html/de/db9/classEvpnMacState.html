@@ -215,7 +215,7 @@ Private Attributes</h2></td></tr>
 <div class="textblock"><p>This class represents the <a class="el" href="../../d4/d15/classEvpnManager.html" title="This class represents the EVPN manager for an EvpnTable in a VRF.">EvpnManager</a> state associated with a MAC route. </p>
 <p>In the steady state, a <a class="el" href="../../de/db9/classEvpnMacState.html" title="This class represents the EvpnManager state associated with a MAC route.">EvpnMacState</a> should exist only for MAC routes that have a non-zero ESI. The segment_ field is a pointer to the <a class="el" href="../../dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it....">EvpnSegment</a> for the ESI in question. A <a class="el" href="../../de/db9/classEvpnMacState.html" title="This class represents the EvpnManager state associated with a MAC route.">EvpnMacState</a> is created from the route listener when we see a MAC route with a non-zero ESI. It is deleted after processing the MAC route if the route has been deleted or if it has a zero ESI. The AliasedPathList keeps track of the aliased BgpPaths that we've added. An aliased <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a> is added for each remote PE for all-active <a class="el" href="../../dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it....">EvpnSegment</a>. The contents of the AliasedPathList are updated when the ESI for the MAC route changes or when the list of remote PEs for the <a class="el" href="../../dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it....">EvpnSegment</a> changes. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00288">288</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00289">289</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a5712a330ed293490f54a8dfbaf1896f9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5712a330ed293490f54a8dfbaf1896f9">&#9670;&nbsp;</a></span>AliasedPathList</h2>
@@ -237,7 +237,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00304">304</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00305">305</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -268,7 +268,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00588">588</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00589">589</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 
 </div>
 </div>
@@ -287,7 +287,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00595">595</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00596">596</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 
 </div>
 </div>
@@ -318,7 +318,7 @@ Private Attributes</h2></td></tr>
 
 <p>Add the <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a> specified by the iterator to the aliased path list. Also inserts the <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a> to the <a class="el" href="../../d6/dbd/classBgpRoute.html">BgpRoute</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00604">604</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00605">605</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -402,7 +402,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00301">301</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00302">302</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -432,7 +432,7 @@ Here is the call graph for this function:</div>
 
 <p>Delete the <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a> specified by the iterator from the aliased path list. Also deletes the <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a> from the <a class="el" href="../../d6/dbd/classBgpRoute.html">BgpRoute</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00621">621</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00622">622</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -555,7 +555,7 @@ Here is the call graph for this function:</div>
 
 <p>Find or create the matching aliased <a class="el" href="../../d7/d0c/classBgpPath.html">BgpPath</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00637">637</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00638">638</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -588,7 +588,7 @@ Here is the call graph for this function:</div>
 
 <p>Update aliased BgpPaths for the <a class="el" href="../../d1/d3a/classEvpnRoute.html">EvpnRoute</a> based on the remote PEs for the <a class="el" href="../../dd/d17/classEvpnSegment.html" title="This class represents a remote EVPN segment that has 2 or more PEs that are multi-homed to it....">EvpnSegment</a>. Return true if the list of aliased paths is modified. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00662">662</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html#l00663">663</a> of file <a class="el" href="../../db/d04/bgp__evpn_8cc_source.html">bgp_evpn.cc</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -672,7 +672,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00298">298</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00299">299</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -699,7 +699,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00299">299</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00300">300</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -727,7 +727,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00300">300</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00301">301</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -761,7 +761,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00321">321</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00322">322</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -785,7 +785,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00318">318</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00319">319</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -809,7 +809,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00319">319</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00320">320</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>
@@ -833,7 +833,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00320">320</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html#l00321">321</a> of file <a class="el" href="../../d6/dc5/bgp__evpn_8h_source.html">bgp_evpn.h</a>.</p>
 
 </div>
 </div>

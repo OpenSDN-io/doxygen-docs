@@ -87,25 +87,26 @@ $(document).ready(function(){initNavTree('df/dc8/sandesh__util_8h_source.html','
 <div class="contents">
 <a href="../../df/dc8/sandesh__util_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2016 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment">// sandesh_util.h</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#ifndef __SANDESH_UTIL_H__</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#define __SANDESH_UTIL_H__</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d2/d00/tcp__server_8h.html">io/tcp_server.h</a>&gt;</span></div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../da/daf/udp__server_8h.html">io/udp_server.h</a>&gt;</span></div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160; </div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a>(<a class="code" href="../../de/df9/classTcpServer.html#a30845e8d7dcd49350992d0df05a27a44">TcpServer::Endpoint</a>* ep, <span class="keyword">const</span> std::string&amp; ep_str);</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a>(<a class="code" href="../../d2/d88/classUdpServer.html#a337711d4655f33da8cc51e39fc221d6c">UdpServer::Endpoint</a>* ep, <span class="keyword">const</span> std::string&amp; ep_str);</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// __SANDESH_UTIL_H__</span></div>
-<div class="ttc" id="aclassTcpServer_html_a30845e8d7dcd49350992d0df05a27a44"><div class="ttname"><a href="../../de/df9/classTcpServer.html#a30845e8d7dcd49350992d0df05a27a44">TcpServer::Endpoint</a></div><div class="ttdeci">boost::asio::ip::tcp::endpoint Endpoint</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d00/tcp__server_8h_source.html#l00030">tcp_server.h:30</a></div></div>
-<div class="ttc" id="aclassUdpServer_html_a337711d4655f33da8cc51e39fc221d6c"><div class="ttname"><a href="../../d2/d88/classUdpServer.html#a337711d4655f33da8cc51e39fc221d6c">UdpServer::Endpoint</a></div><div class="ttdeci">boost::asio::ip::udp::endpoint Endpoint</div><div class="ttdef"><b>Definition:</b> <a href="../../da/daf/udp__server_8h_source.html#l00023">udp_server.h:23</a></div></div>
-<div class="ttc" id="asandesh__util_8h_html_a931ad6234e0d95a1e207cd2dceb50454"><div class="ttname"><a href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a></div><div class="ttdeci">bool MakeEndpoint(TcpServer::Endpoint *ep, const std::string &amp;ep_str)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/dae/sandesh__util_8cc_source.html#l00018">sandesh_util.cc:18</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment">//</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment">// sandesh_util.h</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="comment">//</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#ifndef __SANDESH_UTIL_H__</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#define __SANDESH_UTIL_H__</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160; </div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d2/d00/tcp__server_8h.html">io/tcp_server.h</a>&gt;</span></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../da/daf/udp__server_8h.html">io/udp_server.h</a>&gt;</span></div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a>(<a class="code" href="../../de/df9/classTcpServer.html#a30845e8d7dcd49350992d0df05a27a44">TcpServer::Endpoint</a>* ep, <span class="keyword">const</span> std::string&amp; ep_str);</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="keywordtype">bool</span> <a class="code" href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a>(<a class="code" href="../../d2/d88/classUdpServer.html#a337711d4655f33da8cc51e39fc221d6c">UdpServer::Endpoint</a>* ep, <span class="keyword">const</span> std::string&amp; ep_str);</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// __SANDESH_UTIL_H__</span></div>
+<div class="ttc" id="aclassTcpServer_html_a30845e8d7dcd49350992d0df05a27a44"><div class="ttname"><a href="../../de/df9/classTcpServer.html#a30845e8d7dcd49350992d0df05a27a44">TcpServer::Endpoint</a></div><div class="ttdeci">boost::asio::ip::tcp::endpoint Endpoint</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d00/tcp__server_8h_source.html#l00031">tcp_server.h:31</a></div></div>
+<div class="ttc" id="aclassUdpServer_html_a337711d4655f33da8cc51e39fc221d6c"><div class="ttname"><a href="../../d2/d88/classUdpServer.html#a337711d4655f33da8cc51e39fc221d6c">UdpServer::Endpoint</a></div><div class="ttdeci">boost::asio::ip::udp::endpoint Endpoint</div><div class="ttdef"><b>Definition:</b> <a href="../../da/daf/udp__server_8h_source.html#l00024">udp_server.h:24</a></div></div>
+<div class="ttc" id="asandesh__util_8h_html_a931ad6234e0d95a1e207cd2dceb50454"><div class="ttname"><a href="../../df/dc8/sandesh__util_8h.html#a931ad6234e0d95a1e207cd2dceb50454">MakeEndpoint</a></div><div class="ttdeci">bool MakeEndpoint(TcpServer::Endpoint *ep, const std::string &amp;ep_str)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/dae/sandesh__util_8cc_source.html#l00019">sandesh_util.cc:19</a></div></div>
 <div class="ttc" id="atcp__server_8h_html"><div class="ttname"><a href="../../d2/d00/tcp__server_8h.html">tcp_server.h</a></div></div>
 <div class="ttc" id="audp__server_8h_html"><div class="ttname"><a href="../../da/daf/udp__server_8h.html">udp_server.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

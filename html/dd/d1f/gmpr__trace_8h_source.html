@@ -92,51 +92,52 @@ $(document).ready(function(){initNavTree('dd/d1f/gmpr__trace_8h_source.html','..
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="comment"> * Dave Katz, March 2008</span></div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment"> *</span></div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment"> * Copyright (c) 2008, Juniper Networks, Inc.</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="comment"> * All rights reserved.</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment"> * Conditional tracing</span></div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a0f32f02f6eeb1f43867837bf620fd5fc">   14</a></span>&#160;<span class="preprocessor">#define gmpr_trace(instance, flag, ...) \</span></div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">    if (instance-&gt;rinst_traceflags &amp; (flag)) \</span></div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">        gmpx_trace(instance-&gt;rinst_context, __VA_ARGS__)</span></div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> * Unconditional tracing</span></div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a90d8739c31c9ec7fcff94c7399dcfcaa">   21</a></span>&#160;<span class="preprocessor">#define gmpr_trace_uncond(instance, ...) \</span></div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="preprocessor">    gmpx_trace(instance-&gt;rinst_context, __VA_ARGS__)</span></div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160; </div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="comment"> * Tracing in Contrail Agent</span></div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af9c3744c11fb9db718e3f49ca60685a0">   27</a></span>&#160;<span class="preprocessor">#define gmpr_trace_agent(...) \</span></div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor">    gmpx_trace(NULL, __VA_ARGS__)</span></div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="comment"> * Error event</span></div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a1c81d73c3bafa86504667b43089ca415">   33</a></span>&#160;<span class="preprocessor">#define gmpr_post_event(instance, ev, ...) \</span></div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="preprocessor">    gmpx_post_event(instance-&gt;rinst_context, ev, __VA_ARGS__)</span></div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160; </div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="comment"> * All rights reserved.</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="comment"> * Conditional tracing</span></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a0f32f02f6eeb1f43867837bf620fd5fc">   15</a></span>&#160;<span class="preprocessor">#define gmpr_trace(instance, flag, ...) \</span></div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">    if (instance-&gt;rinst_traceflags &amp; (flag)) \</span></div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">        gmpx_trace(instance-&gt;rinst_context, __VA_ARGS__)</span></div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> * Unconditional tracing</span></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a90d8739c31c9ec7fcff94c7399dcfcaa">   22</a></span>&#160;<span class="preprocessor">#define gmpr_trace_uncond(instance, ...) \</span></div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">    gmpx_trace(instance-&gt;rinst_context, __VA_ARGS__)</span></div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="comment"> * Tracing in Contrail Agent</span></div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af9c3744c11fb9db718e3f49ca60685a0">   28</a></span>&#160;<span class="preprocessor">#define gmpr_trace_agent(...) \</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="preprocessor">    gmpx_trace(NULL, __VA_ARGS__)</span></div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment"> * Error event</span></div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00034"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a1c81d73c3bafa86504667b43089ca415">   34</a></span>&#160;<span class="preprocessor">#define gmpr_post_event(instance, ev, ...) \</span></div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor">    gmpx_post_event(instance-&gt;rinst_context, ev, __VA_ARGS__)</span></div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160; </div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="comment"> * Event tracing flags.</span></div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="comment"> *</span></div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="comment"> * Beware that the low order bits are defined in gmp_trace.h!</span></div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
-<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af75fd748f476ccd310f631573e879fdd">   43</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_GROUP    0x00000100 </span><span class="comment">/* Group activity */</span><span class="preprocessor"></span></div>
-<div class="line"><a name="l00044"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a437d655197b459379777e3b993268c0a">   44</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_HOST_NOTIFY    0x00000200 </span><span class="comment">/* Host notification */</span><span class="preprocessor"></span></div>
-<div class="line"><a name="l00045"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af17f5fcd2f270cdc09ae2c08db674d30">   45</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_CLIENT_NOTIFY 0x00000400 </span><span class="comment">/* Client notification */</span><span class="preprocessor"></span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="keyword">extern</span> <span class="keyword">const</span> <span class="keywordtype">char</span> *</div>
-<div class="line"><a name="l00048"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#ac1a8b30be78cb952cd41d8addf680abe">   48</a></span>&#160;    <a class="code" href="../../dd/d1f/gmpr__trace_8h.html#ac1a8b30be78cb952cd41d8addf680abe">gmpr_client_notif_string</a>(<a class="code" href="../../d4/d00/gmp__router_8h.html#a30fbb0f5f0fe80f94e3a3cd428c731b2">gmpr_client_notification_type</a> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>);</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="keyword">extern</span> <span class="keyword">const</span> <span class="keywordtype">char</span> *</div>
-<div class="line"><a name="l00050"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#ad1267e5b48c09387c21c63fd362c95b4">   50</a></span>&#160;    <a class="code" href="../../dd/d1f/gmpr__trace_8h.html#ad1267e5b48c09387c21c63fd362c95b4">gmpr_host_notif_string</a>(<a class="code" href="../../d4/d00/gmp__router_8h.html#a379fc56950f739c45e0aea568675e23c">gmpr_client_host_notification_type</a> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>);</div>
-<div class="ttc" id="agmp__router_8h_html_a30fbb0f5f0fe80f94e3a3cd428c731b2"><div class="ttname"><a href="../../d4/d00/gmp__router_8h.html#a30fbb0f5f0fe80f94e3a3cd428c731b2">gmpr_client_notification_type</a></div><div class="ttdeci">gmpr_client_notification_type</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d00/gmp__router_8h_source.html#l00231">gmp_router.h:231</a></div></div>
-<div class="ttc" id="agmp__router_8h_html_a379fc56950f739c45e0aea568675e23c"><div class="ttname"><a href="../../d4/d00/gmp__router_8h.html#a379fc56950f739c45e0aea568675e23c">gmpr_client_host_notification_type</a></div><div class="ttdeci">gmpr_client_host_notification_type</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d00/gmp__router_8h_source.html#l00261">gmp_router.h:261</a></div></div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160; </div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="comment"> * Event tracing flags.</span></div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="comment"> *</span></div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="comment"> * Beware that the low order bits are defined in gmp_trace.h!</span></div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160; </div>
+<div class="line"><a name="l00044"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af75fd748f476ccd310f631573e879fdd">   44</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_GROUP    0x00000100 </span><span class="comment">/* Group activity */</span><span class="preprocessor"></span></div>
+<div class="line"><a name="l00045"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#a437d655197b459379777e3b993268c0a">   45</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_HOST_NOTIFY    0x00000200 </span><span class="comment">/* Host notification */</span><span class="preprocessor"></span></div>
+<div class="line"><a name="l00046"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#af17f5fcd2f270cdc09ae2c08db674d30">   46</a></span>&#160;<span class="preprocessor">#define GMPR_TRACE_CLIENT_NOTIFY 0x00000400 </span><span class="comment">/* Client notification */</span><span class="preprocessor"></span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160; </div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="keyword">extern</span> <span class="keyword">const</span> <span class="keywordtype">char</span> *</div>
+<div class="line"><a name="l00049"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#ac1a8b30be78cb952cd41d8addf680abe">   49</a></span>&#160;    <a class="code" href="../../dd/d1f/gmpr__trace_8h.html#ac1a8b30be78cb952cd41d8addf680abe">gmpr_client_notif_string</a>(<a class="code" href="../../d4/d00/gmp__router_8h.html#a30fbb0f5f0fe80f94e3a3cd428c731b2">gmpr_client_notification_type</a> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>);</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="keyword">extern</span> <span class="keyword">const</span> <span class="keywordtype">char</span> *</div>
+<div class="line"><a name="l00051"></a><span class="lineno"><a class="line" href="../../dd/d1f/gmpr__trace_8h.html#ad1267e5b48c09387c21c63fd362c95b4">   51</a></span>&#160;    <a class="code" href="../../dd/d1f/gmpr__trace_8h.html#ad1267e5b48c09387c21c63fd362c95b4">gmpr_host_notif_string</a>(<a class="code" href="../../d4/d00/gmp__router_8h.html#a379fc56950f739c45e0aea568675e23c">gmpr_client_host_notification_type</a> <a class="code" href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a>);</div>
+<div class="ttc" id="agmp__router_8h_html_a30fbb0f5f0fe80f94e3a3cd428c731b2"><div class="ttname"><a href="../../d4/d00/gmp__router_8h.html#a30fbb0f5f0fe80f94e3a3cd428c731b2">gmpr_client_notification_type</a></div><div class="ttdeci">gmpr_client_notification_type</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d00/gmp__router_8h_source.html#l00232">gmp_router.h:232</a></div></div>
+<div class="ttc" id="agmp__router_8h_html_a379fc56950f739c45e0aea568675e23c"><div class="ttname"><a href="../../d4/d00/gmp__router_8h.html#a379fc56950f739c45e0aea568675e23c">gmpr_client_host_notification_type</a></div><div class="ttdeci">gmpr_client_host_notification_type</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d00/gmp__router_8h_source.html#l00262">gmp_router.h:262</a></div></div>
 <div class="ttc" id="agmpr__trace_8h_html_ac1a8b30be78cb952cd41d8addf680abe"><div class="ttname"><a href="../../dd/d1f/gmpr__trace_8h.html#ac1a8b30be78cb952cd41d8addf680abe">gmpr_client_notif_string</a></div><div class="ttdeci">const char * gmpr_client_notif_string(gmpr_client_notification_type type)</div></div>
 <div class="ttc" id="agmpr__trace_8h_html_ad1267e5b48c09387c21c63fd362c95b4"><div class="ttname"><a href="../../dd/d1f/gmpr__trace_8h.html#ad1267e5b48c09387c21c63fd362c95b4">gmpr_host_notif_string</a></div><div class="ttdeci">const char * gmpr_host_notif_string(gmpr_client_host_notification_type type)</div></div>
 <div class="ttc" id="aload__balance_8h_html_a1d127017fb298b889f4ba24752d08b8e"><div class="ttname"><a href="../../de/dcb/load__balance_8h.html#a1d127017fb298b889f4ba24752d08b8e">type</a></div><div class="ttdeci">uint8_t type</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dcb/load__balance_8h_source.html#l00002">load_balance.h:2</a></div></div>

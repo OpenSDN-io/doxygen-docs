@@ -87,28 +87,29 @@ $(document).ready(function(){initNavTree('d9/d25/routing-policy_2policy_8h_sourc
 <div class="contents">
 <a href="../../d9/d25/routing-policy_2policy_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2013 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#ifndef ctrlplane_policy_h</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#define ctrlplane_policy_h</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160; </div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;boost/scoped_ptr.hpp&gt;</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d9/d73/policy__graph_8h.html">routing-policy/policy_graph.h</a>&quot;</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
-<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html">   12</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/d81/classPolicyGraphBuilder.html">PolicyGraphBuilder</a> {</div>
-<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#ad2ebb4239daefff9d49c53f471388e77">   13</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#ad2ebb4239daefff9d49c53f471388e77">AddTerm</a>();</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160; </div>
-<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#aea1506d453e3b7b521a69eaf22dbb6ab">   15</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#aea1506d453e3b7b521a69eaf22dbb6ab">AddDefaultAction</a>();</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
-<div class="line"><a name="l00017"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#a7df9145491287bc39468448ab304604f">   17</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#a7df9145491287bc39468448ab304604f">FlushGraph</a>();</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keyword">private</span>:</div>
-<div class="line"><a name="l00020"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">   20</a></span>&#160;    boost::scoped_ptr&lt;PolicyGraph&gt; <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">graph</a>;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;};</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//ctrlplane_policy_h</span></div>
-<div class="ttc" id="aclassPolicyGraphBuilder_html"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html">PolicyGraphBuilder</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d25/routing-policy_2policy_8h_source.html#l00012">routing-policy/policy.h:12</a></div></div>
-<div class="ttc" id="aclassPolicyGraphBuilder_html_a0b365aa252fdbd7358e8cfa14b73924d"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">PolicyGraphBuilder::graph</a></div><div class="ttdeci">boost::scoped_ptr&lt; PolicyGraph &gt; graph</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d25/routing-policy_2policy_8h_source.html#l00020">routing-policy/policy.h:20</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#ifndef ctrlplane_policy_h</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#define ctrlplane_policy_h</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;boost/scoped_ptr.hpp&gt;</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d9/d73/policy__graph_8h.html">routing-policy/policy_graph.h</a>&quot;</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160; </div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html">   13</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/d81/classPolicyGraphBuilder.html">PolicyGraphBuilder</a> {</div>
+<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#ad2ebb4239daefff9d49c53f471388e77">   14</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#ad2ebb4239daefff9d49c53f471388e77">AddTerm</a>();</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
+<div class="line"><a name="l00016"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#aea1506d453e3b7b521a69eaf22dbb6ab">   16</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#aea1506d453e3b7b521a69eaf22dbb6ab">AddDefaultAction</a>();</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
+<div class="line"><a name="l00018"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#a7df9145491287bc39468448ab304604f">   18</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#a7df9145491287bc39468448ab304604f">FlushGraph</a>();</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="keyword">private</span>:</div>
+<div class="line"><a name="l00021"></a><span class="lineno"><a class="line" href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">   21</a></span>&#160;    boost::scoped_ptr&lt;PolicyGraph&gt; <a class="code" href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">graph</a>;</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;};</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//ctrlplane_policy_h</span></div>
+<div class="ttc" id="aclassPolicyGraphBuilder_html"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html">PolicyGraphBuilder</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d25/routing-policy_2policy_8h_source.html#l00013">routing-policy/policy.h:13</a></div></div>
+<div class="ttc" id="aclassPolicyGraphBuilder_html_a0b365aa252fdbd7358e8cfa14b73924d"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html#a0b365aa252fdbd7358e8cfa14b73924d">PolicyGraphBuilder::graph</a></div><div class="ttdeci">boost::scoped_ptr&lt; PolicyGraph &gt; graph</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d25/routing-policy_2policy_8h_source.html#l00021">routing-policy/policy.h:21</a></div></div>
 <div class="ttc" id="aclassPolicyGraphBuilder_html_a7df9145491287bc39468448ab304604f"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html#a7df9145491287bc39468448ab304604f">PolicyGraphBuilder::FlushGraph</a></div><div class="ttdeci">bool FlushGraph()</div></div>
 <div class="ttc" id="aclassPolicyGraphBuilder_html_ad2ebb4239daefff9d49c53f471388e77"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html#ad2ebb4239daefff9d49c53f471388e77">PolicyGraphBuilder::AddTerm</a></div><div class="ttdeci">bool AddTerm()</div></div>
 <div class="ttc" id="aclassPolicyGraphBuilder_html_aea1506d453e3b7b521a69eaf22dbb6ab"><div class="ttname"><a href="../../d6/d81/classPolicyGraphBuilder.html#aea1506d453e3b7b521a69eaf22dbb6ab">PolicyGraphBuilder::AddDefaultAction</a></div><div class="ttdeci">bool AddDefaultAction()</div></div>

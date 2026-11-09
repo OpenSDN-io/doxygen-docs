@@ -234,7 +234,7 @@ Protected Attributes</h2></td></tr>
 <div class="textblock"><p>Base class for all transports that use read/write buffers for performance.</p>
 <p><a class="el" href="../../dc/df2/classcontrail_1_1sandesh_1_1transport_1_1TBufferBase.html">TBufferBase</a> is designed to implement the fast-path "memcpy" style operations that work in the common case. It does so with small and (eventually) nonvirtual, inlinable methods. <a class="el" href="../../dc/df2/classcontrail_1_1sandesh_1_1transport_1_1TBufferBase.html">TBufferBase</a> is an abstract class. Subclasses are expected to define the "slow path" operations that have to be done when the buffers are full or empty. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00050">50</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00053">53</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a4097d71b03ae98ddc57e47815f906df7"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4097d71b03ae98ddc57e47815f906df7">&#9670;&nbsp;</a></span>TBufferBase()</h2>
@@ -261,7 +261,7 @@ Protected Attributes</h2></td></tr>
 <p>Trivial constructor.</p>
 <p>Initialize pointers safely. Constructing is not a very performance-sensitive operation, so it is okay to just leave it to the concrete class to set up pointers correctly. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00163">163</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00166">166</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -288,7 +288,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00170">170</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00173">173</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -328,7 +328,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Fast-path borrow. A lot like the fast-path read. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00107">107</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00110">110</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -406,7 +406,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <p>Consume doesn't require a slow path. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00120">120</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00123">123</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -446,7 +446,7 @@ Here is the call graph for this function:</div>
 <p>Fast-path read.</p>
 <p>When we have enough data buffered to fulfill the read, we can satisfy it with a single memcpy, then adjust our internal pointers. If the buffer is empty, we call out to our slow path, implemented by a subclass. This method is meant to eventually be nonvirtual and inlinable. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00062">62</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00065">65</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -494,7 +494,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <p>Shortcutted version of readAll. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00075">75</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00078">78</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -583,7 +583,7 @@ Here is the call graph for this function:</div>
 
 <p>Convenience mutator for setting the read buffer. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00130">130</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00133">133</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -623,7 +623,7 @@ Here is the call graph for this function:</div>
 
 <p>Convenience mutator for setting the write buffer. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00136">136</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00139">139</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -663,7 +663,7 @@ Here is the call graph for this function:</div>
 <p>Fast-path write.</p>
 <p>When we have enough empty space in our buffer to accomodate the write, we can satisfy it with a single memcpy, then adjust our internal pointers. If the buffer is full, we call out to our slow path, implemented by a subclass. This method is meant to eventually be nonvirtual and inlinable. Returns 0 on success, non-zero otherwise. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00094">94</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00097">97</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -739,7 +739,7 @@ Here is the call graph for this function:</div>
 
 <p>Reads begin here. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00173">173</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00176">176</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -765,7 +765,7 @@ Here is the call graph for this function:</div>
 
 <p>Reads may extend to just before here. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00175">175</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00178">178</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -791,7 +791,7 @@ Here is the call graph for this function:</div>
 
 <p>Writes begin here. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00178">178</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00181">181</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>
@@ -817,7 +817,7 @@ Here is the call graph for this function:</div>
 
 <p>Writes may extend to just before here. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00180">180</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html#l00183">183</a> of file <a class="el" href="../../d7/d11/TBufferTransports_8h_source.html">TBufferTransports.h</a>.</p>
 
 </div>
 </div>

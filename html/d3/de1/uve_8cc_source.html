@@ -87,56 +87,57 @@ $(document).ready(function(){initNavTree('d3/de1/uve_8cc_source.html','../../');
 <div class="contents">
 <a href="../../d3/de1/uve_8cc.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2013 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d9/dbd/misc__utils_8h.html">base/misc_utils.h</a>&gt;</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d5/d2e/dns_8h.html">cmn/dns.h</a>&gt;</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d6/d6b/uve_8h.html">uve/uve.h</a>&gt;</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;string&gt;</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;vector&gt;</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;DnsState <a class="code" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a>;</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">   14</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a>(uint64_t <a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>) {</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    DnsState state;</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    boost::system::error_code ec;</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">bool</span> first = <span class="keyword">true</span>, build_info_set = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="keywordtype">bool</span> changed = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    state.set_name(<a class="code" href="../../d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b">Dns::GetHostName</a>());</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordflow">if</span> (first) {</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        state.set_start_time(<a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>);</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        state.set_collector(<a class="code" href="../../d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662">Dns::GetCollector</a>());</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        vector&lt;string&gt; ip_list;</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        ip_list.push_back(<a class="code" href="../../d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b">Dns::GetSelfIp</a>());</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        state.set_self_ip_list(ip_list);</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        first = <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        changed = <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    }</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160; </div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <span class="keywordflow">if</span> (!build_info_set) {</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        <span class="keywordtype">string</span> build_info_str;</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        build_info_set = <a class="code" href="../../d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e">Dns::GetVersion</a>(build_info_str);</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;        state.set_build_info(build_info_str);</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    }</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keywordflow">if</span> (changed) {</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        assert(!state.get_name().empty());</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        UveDnsInfo::Send(state);</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    }</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;}</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
-<div class="ttc" id="aclassDnsUveClient_html_a792ed25036efa851d378533c8aabcbbe"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a></div><div class="ttdeci">static void SendDnsUve(uint64_t start_time)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/de1/uve_8cc_source.html#l00014">uve.cc:14</a></div></div>
-<div class="ttc" id="aclassDnsUveClient_html_ad15507bfdc3102e702105de0467569b6"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a></div><div class="ttdeci">static DnsState prev_state_</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00011">uve.h:11</a></div></div>
-<div class="ttc" id="aclassDns_html_a41391f31047346f5cd97c42e43c67f7b"><div class="ttname"><a href="../../d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b">Dns::GetSelfIp</a></div><div class="ttdeci">static std::string GetSelfIp()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00065">dns.h:65</a></div></div>
-<div class="ttc" id="aclassDns_html_aafd58bcef5d9716f66993aac7ff9e61b"><div class="ttname"><a href="../../d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b">Dns::GetHostName</a></div><div class="ttdeci">static const std::string &amp; GetHostName()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00055">dns.h:55</a></div></div>
-<div class="ttc" id="aclassDns_html_abc8be94bed12fd0f06e603bdba4f716e"><div class="ttname"><a href="../../d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e">Dns::GetVersion</a></div><div class="ttdeci">static bool GetVersion(std::string &amp;build_info_str)</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/dfe/dns_8cc_source.html#l00032">dns.cc:32</a></div></div>
-<div class="ttc" id="aclassDns_html_ad0d30278795d7b505f3ce5e052b68662"><div class="ttname"><a href="../../d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662">Dns::GetCollector</a></div><div class="ttdeci">static const std::string &amp; GetCollector()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00059">dns.h:59</a></div></div>
-<div class="ttc" id="acontroller_2src_2dns_2main_8cc_html_a5b11efea935978e9f1913e964a5e5396"><div class="ttname"><a href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a></div><div class="ttdeci">uint64_t start_time</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d76/controller_2src_2dns_2main_8cc_source.html#l00053">controller/src/dns/main.cc:53</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d9/dbd/misc__utils_8h.html">base/misc_utils.h</a>&gt;</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d5/d2e/dns_8h.html">cmn/dns.h</a>&gt;</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d6/d6b/uve_8h.html">uve/uve.h</a>&gt;</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;string&gt;</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &lt;vector&gt;</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;DnsState <a class="code" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a>;</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160; </div>
+<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">   15</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a>(uint64_t <a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>) {</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    DnsState state;</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    boost::system::error_code ec;</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">bool</span> first = <span class="keyword">true</span>, build_info_set = <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keywordtype">bool</span> changed = <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    state.set_name(<a class="code" href="../../d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b">Dns::GetHostName</a>());</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordflow">if</span> (first) {</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        state.set_start_time(<a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>);</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        state.set_collector(<a class="code" href="../../d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662">Dns::GetCollector</a>());</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        vector&lt;string&gt; ip_list;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        ip_list.push_back(<a class="code" href="../../d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b">Dns::GetSelfIp</a>());</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        state.set_self_ip_list(ip_list);</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        first = <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        changed = <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    }</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160; </div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <span class="keywordflow">if</span> (!build_info_set) {</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        <span class="keywordtype">string</span> build_info_str;</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;        build_info_set = <a class="code" href="../../d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e">Dns::GetVersion</a>(build_info_str);</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        state.set_build_info(build_info_str);</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    }</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    <span class="keywordflow">if</span> (changed) {</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        assert(!state.get_name().empty());</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        UveDnsInfo::Send(state);</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    }</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;}</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160; </div>
+<div class="ttc" id="aclassDnsUveClient_html_a792ed25036efa851d378533c8aabcbbe"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a></div><div class="ttdeci">static void SendDnsUve(uint64_t start_time)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/de1/uve_8cc_source.html#l00015">uve.cc:15</a></div></div>
+<div class="ttc" id="aclassDnsUveClient_html_ad15507bfdc3102e702105de0467569b6"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a></div><div class="ttdeci">static DnsState prev_state_</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00012">uve.h:12</a></div></div>
+<div class="ttc" id="aclassDns_html_a41391f31047346f5cd97c42e43c67f7b"><div class="ttname"><a href="../../d9/d13/classDns.html#a41391f31047346f5cd97c42e43c67f7b">Dns::GetSelfIp</a></div><div class="ttdeci">static std::string GetSelfIp()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00066">dns.h:66</a></div></div>
+<div class="ttc" id="aclassDns_html_aafd58bcef5d9716f66993aac7ff9e61b"><div class="ttname"><a href="../../d9/d13/classDns.html#aafd58bcef5d9716f66993aac7ff9e61b">Dns::GetHostName</a></div><div class="ttdeci">static const std::string &amp; GetHostName()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00056">dns.h:56</a></div></div>
+<div class="ttc" id="aclassDns_html_abc8be94bed12fd0f06e603bdba4f716e"><div class="ttname"><a href="../../d9/d13/classDns.html#abc8be94bed12fd0f06e603bdba4f716e">Dns::GetVersion</a></div><div class="ttdeci">static bool GetVersion(std::string &amp;build_info_str)</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/dfe/dns_8cc_source.html#l00033">dns.cc:33</a></div></div>
+<div class="ttc" id="aclassDns_html_ad0d30278795d7b505f3ce5e052b68662"><div class="ttname"><a href="../../d9/d13/classDns.html#ad0d30278795d7b505f3ce5e052b68662">Dns::GetCollector</a></div><div class="ttdeci">static const std::string &amp; GetCollector()</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d2e/dns_8h_source.html#l00060">dns.h:60</a></div></div>
+<div class="ttc" id="acontroller_2src_2dns_2main_8cc_html_a5b11efea935978e9f1913e964a5e5396"><div class="ttname"><a href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a></div><div class="ttdeci">uint64_t start_time</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d76/controller_2src_2dns_2main_8cc_source.html#l00054">controller/src/dns/main.cc:54</a></div></div>
 <div class="ttc" id="adns_8h_html"><div class="ttname"><a href="../../d5/d2e/dns_8h.html">dns.h</a></div></div>
 <div class="ttc" id="amisc__utils_8h_html"><div class="ttname"><a href="../../d9/dbd/misc__utils_8h.html">misc_utils.h</a></div></div>
-<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00120">bgp_update.h:120</a></div></div>
+<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00121">bgp_update.h:121</a></div></div>
 <div class="ttc" id="auve_8h_html"><div class="ttname"><a href="../../d6/d6b/uve_8h.html">uve.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

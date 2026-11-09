@@ -87,24 +87,25 @@ $(document).ready(function(){initNavTree('d6/d6b/uve_8h_source.html','../../'); 
 <div class="contents">
 <a href="../../d6/d6b/uve_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2013 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#ifndef __DNS_UVE_H_</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#define __DNS_UVE_H_</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160; </div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;uve/uve_types.h&gt;</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
-<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html">   10</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../da/dae/classDnsUveClient.html">DnsUveClient</a> {</div>
-<div class="line"><a name="l00011"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">   11</a></span>&#160;    <span class="keyword">static</span> DnsState <a class="code" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">prev_state_</a>;</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">SendDnsUve</a>(uint64_t <a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>);</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;};</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// __DNS_UVE_H_</span></div>
-<div class="ttc" id="aclassDnsUveClient_html"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html">DnsUveClient</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00010">uve.h:10</a></div></div>
-<div class="ttc" id="aclassDnsUveClient_html_a792ed25036efa851d378533c8aabcbbe"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a></div><div class="ttdeci">static void SendDnsUve(uint64_t start_time)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/de1/uve_8cc_source.html#l00014">uve.cc:14</a></div></div>
-<div class="ttc" id="aclassDnsUveClient_html_ad15507bfdc3102e702105de0467569b6"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a></div><div class="ttdeci">static DnsState prev_state_</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00011">uve.h:11</a></div></div>
-<div class="ttc" id="acontroller_2src_2dns_2main_8cc_html_a5b11efea935978e9f1913e964a5e5396"><div class="ttname"><a href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a></div><div class="ttdeci">uint64_t start_time</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d76/controller_2src_2dns_2main_8cc_source.html#l00053">controller/src/dns/main.cc:53</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#ifndef __DNS_UVE_H_</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#define __DNS_UVE_H_</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;uve/uve_types.h&gt;</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
+<div class="line"><a name="l00011"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html">   11</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../da/dae/classDnsUveClient.html">DnsUveClient</a> {</div>
+<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">   12</a></span>&#160;    <span class="keyword">static</span> DnsState <a class="code" href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">prev_state_</a>;</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">SendDnsUve</a>(uint64_t <a class="code" href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a>);</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;};</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// __DNS_UVE_H_</span></div>
+<div class="ttc" id="aclassDnsUveClient_html"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html">DnsUveClient</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00011">uve.h:11</a></div></div>
+<div class="ttc" id="aclassDnsUveClient_html_a792ed25036efa851d378533c8aabcbbe"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#a792ed25036efa851d378533c8aabcbbe">DnsUveClient::SendDnsUve</a></div><div class="ttdeci">static void SendDnsUve(uint64_t start_time)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/de1/uve_8cc_source.html#l00015">uve.cc:15</a></div></div>
+<div class="ttc" id="aclassDnsUveClient_html_ad15507bfdc3102e702105de0467569b6"><div class="ttname"><a href="../../da/dae/classDnsUveClient.html#ad15507bfdc3102e702105de0467569b6">DnsUveClient::prev_state_</a></div><div class="ttdeci">static DnsState prev_state_</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d6b/uve_8h_source.html#l00012">uve.h:12</a></div></div>
+<div class="ttc" id="acontroller_2src_2dns_2main_8cc_html_a5b11efea935978e9f1913e964a5e5396"><div class="ttname"><a href="../../d2/d76/controller_2src_2dns_2main_8cc.html#a5b11efea935978e9f1913e964a5e5396">start_time</a></div><div class="ttdeci">uint64_t start_time</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d76/controller_2src_2dns_2main_8cc_source.html#l00054">controller/src/dns/main.cc:54</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

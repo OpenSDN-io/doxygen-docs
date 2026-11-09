@@ -87,91 +87,92 @@ $(document).ready(function(){initNavTree('da/dec/bgp__as__service__utils_8cc_sou
 <div class="contents">
 <a href="../../da/dec/bgp__as__service__utils_8cc.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2017 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d1/dc4/bgp__as__service__utils_8h.html">base/bgp_as_service_utils.h</a>&gt;</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment">/*</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment"> *  This utils apis will be used by BGP As A Service feature to map</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="comment"> *  between the original service port allocated for the given BgpAsAService</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="comment"> *  session and the derived service port for each VMI who is sharing the same</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="comment"> *  session</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment"> *  GetDerivedBgpaasServicePortRange - From the given config port range and max</span></div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment"> *  session, derive the internal port range</span></div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="comment"> *  Port range and maximum number of VMIs who is sharing the given BgpAsAService</span></div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="comment"> *  session will be given by config</span></div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="comment"> *  EncodeBgpaasServicePort - For the given original service port and</span></div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="comment"> *  index, derive the service port which will be used by the corresponding</span></div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="comment"> *  flow which is associated with the corresponding VMI.</span></div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment"> *  DecodeBgpaasServicePort - For the given service port, decode the</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> *  original service port and the index for the given port.</span></div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> *  From the given range, the dervied port will be defined as follows,</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> *   Ex : User Configured Range : 50000 - 50512</span></div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="comment"> *        Session:1 : config allocates : 50000 for VMI1</span></div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="comment"> *        Sharing the session-1 for VMI2: allocates 50513</span></div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="comment"> *        Sharing the session-1 for VMI3: allocates 51026</span></div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="comment"> *</span></div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="comment"> *        Session:2 : config allocates : 50001 for VMI4</span></div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="comment"> *        Sharing the session-2 for VMI5: allocates 50514</span></div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="comment"> *        Sharing the session-2 for VMI6: allocates 51027</span></div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
-<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">   31</a></span>&#160;<a class="code" href="../../de/ddb/classBGPaaSUtils.html#a110ff4cac0766787cd5dce961d24fe05">BGPaaSUtils::BgpAsServicePortIndexPair</a> <a class="code" href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">BGPaaSUtils::DecodeBgpaasServicePort</a>(</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;                                            <span class="keyword">const</span> uint32_t sport,</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_start,</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_end) {</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordtype">size_t</span>   index = 0;</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    uint32_t original_sport;</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160; </div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    <span class="keywordflow">if</span> (!port_range_start || !port_range_end || sport &lt; port_range_start) {</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        <span class="keywordflow">return</span> std::make_pair(sport, index);</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    }</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160; </div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keywordflow">if</span> ((sport &gt;= port_range_start) &amp;&amp;</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        (sport &lt;= port_range_end)) {</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        <span class="keywordflow">return</span> std::make_pair(sport, index);</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    }</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    uint16_t port_range = port_range_end - port_range_start + 1;</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    <span class="comment">/*</span></div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="comment">     *  From the given derived port, the original port will be</span></div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="comment">     *  calculated based on posisiton in the the given port range in</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="comment">     *  addition to the port range start.</span></div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">     *  Ex : given port is 51026 and the range is 50000-50512</span></div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="comment">     *       original port will be 50000 and index will be 2</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    original_sport = (((sport - port_range_end) % port_range) - 1)</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;                                        + port_range_start;</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    index = ((sport - port_range_end) / port_range) + 1;</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160; </div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <span class="keywordflow">return</span> std::make_pair(original_sport, index);</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;}</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
-<div class="line"><a name="l00063"></a><span class="lineno"><a class="line" href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">   63</a></span>&#160;uint32_t <a class="code" href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">BGPaaSUtils::EncodeBgpaasServicePort</a>(<span class="keyword">const</span> uint32_t sport,</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;                                            <span class="keyword">const</span> <span class="keywordtype">size_t</span>   index,</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_start,</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_end) {</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="keywordflow">if</span> (!index || !port_range_start || !port_range_end) {</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;        <span class="keywordflow">return</span> sport;</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    }</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160; </div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    uint16_t port_range = port_range_end - port_range_start + 1;</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    <span class="comment">/*</span></div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;<span class="comment">     *  From the given original port and index, the derived port will be</span></div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;<span class="comment">     *  calculated based on selection of derived range which is the multiple</span></div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;<span class="comment">     *  of given port range by the given index in addition to the position of</span></div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="comment">     *  the original port with respect to port range start.</span></div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="comment">     *  Ex : given port, index : 50000, 2 and the range is 50000-50512</span></div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;<span class="comment">     *       derived port port will be 51026</span></div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(port_range_start + (port_range * index)</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;        + (sport - port_range_start));</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;}</div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../d1/dc4/bgp__as__service__utils_8h.html">base/bgp_as_service_utils.h</a>&gt;</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment">/*</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="comment"> *  This utils apis will be used by BGP As A Service feature to map</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="comment"> *  between the original service port allocated for the given BgpAsAService</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="comment"> *  session and the derived service port for each VMI who is sharing the same</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment"> *  session</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment"> *  GetDerivedBgpaasServicePortRange - From the given config port range and max</span></div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="comment"> *  session, derive the internal port range</span></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="comment"> *  Port range and maximum number of VMIs who is sharing the given BgpAsAService</span></div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="comment"> *  session will be given by config</span></div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="comment"> *  EncodeBgpaasServicePort - For the given original service port and</span></div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="comment"> *  index, derive the service port which will be used by the corresponding</span></div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment"> *  flow which is associated with the corresponding VMI.</span></div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> *  DecodeBgpaasServicePort - For the given service port, decode the</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> *  original service port and the index for the given port.</span></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> *  From the given range, the dervied port will be defined as follows,</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="comment"> *   Ex : User Configured Range : 50000 - 50512</span></div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="comment"> *        Session:1 : config allocates : 50000 for VMI1</span></div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="comment"> *        Sharing the session-1 for VMI2: allocates 50513</span></div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="comment"> *        Sharing the session-1 for VMI3: allocates 51026</span></div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="comment"> *</span></div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="comment"> *        Session:2 : config allocates : 50001 for VMI4</span></div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="comment"> *        Sharing the session-2 for VMI5: allocates 50514</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="comment"> *        Sharing the session-2 for VMI6: allocates 51027</span></div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="keyword">using namespace </span><a class="code" href="../../d8/dcc/namespacestd.html">std</a>;</div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">   32</a></span>&#160;<a class="code" href="../../de/ddb/classBGPaaSUtils.html#a110ff4cac0766787cd5dce961d24fe05">BGPaaSUtils::BgpAsServicePortIndexPair</a> <a class="code" href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">BGPaaSUtils::DecodeBgpaasServicePort</a>(</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;                                            <span class="keyword">const</span> uint32_t sport,</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_start,</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_end) {</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="keywordtype">size_t</span>   index = 0;</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    uint32_t original_sport;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160; </div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    <span class="keywordflow">if</span> (!port_range_start || !port_range_end || sport &lt; port_range_start) {</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        <span class="keywordflow">return</span> std::make_pair(sport, index);</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    }</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    <span class="keywordflow">if</span> ((sport &gt;= port_range_start) &amp;&amp;</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        (sport &lt;= port_range_end)) {</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;        <span class="keywordflow">return</span> std::make_pair(sport, index);</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    }</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160; </div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    uint16_t port_range = port_range_end - port_range_start + 1;</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160; </div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <span class="comment">/*</span></div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="comment">     *  From the given derived port, the original port will be</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="comment">     *  calculated based on posisiton in the the given port range in</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">     *  addition to the port range start.</span></div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="comment">     *  Ex : given port is 51026 and the range is 50000-50512</span></div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="comment">     *       original port will be 50000 and index will be 2</span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    original_sport = (((sport - port_range_end) % port_range) - 1)</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                        + port_range_start;</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    index = ((sport - port_range_end) / port_range) + 1;</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160; </div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordflow">return</span> std::make_pair(original_sport, index);</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;}</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160; </div>
+<div class="line"><a name="l00064"></a><span class="lineno"><a class="line" href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">   64</a></span>&#160;uint32_t <a class="code" href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">BGPaaSUtils::EncodeBgpaasServicePort</a>(<span class="keyword">const</span> uint32_t sport,</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                                            <span class="keyword">const</span> <span class="keywordtype">size_t</span>   index,</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_start,</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;                                            <span class="keyword">const</span> uint16_t port_range_end) {</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">if</span> (!index || !port_range_start || !port_range_end) {</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        <span class="keywordflow">return</span> sport;</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    }</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160; </div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    uint16_t port_range = port_range_end - port_range_start + 1;</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    <span class="comment">/*</span></div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;<span class="comment">     *  From the given original port and index, the derived port will be</span></div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;<span class="comment">     *  calculated based on selection of derived range which is the multiple</span></div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="comment">     *  of given port range by the given index in addition to the position of</span></div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="comment">     *  the original port with respect to port range start.</span></div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;<span class="comment">     *  Ex : given port, index : 50000, 2 and the range is 50000-50512</span></div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="comment">     *       derived port port will be 51026</span></div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(port_range_start + (port_range * index)</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        + (sport - port_range_start));</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;}</div>
 <div class="ttc" id="abgp__as__service__utils_8h_html"><div class="ttname"><a href="../../d1/dc4/bgp__as__service__utils_8h.html">bgp_as_service_utils.h</a></div></div>
-<div class="ttc" id="aclassBGPaaSUtils_html_a110ff4cac0766787cd5dce961d24fe05"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#a110ff4cac0766787cd5dce961d24fe05">BGPaaSUtils::BgpAsServicePortIndexPair</a></div><div class="ttdeci">std::pair&lt; uint32_t, size_t &gt; BgpAsServicePortIndexPair</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/dc4/bgp__as__service__utils_8h_source.html#l00014">bgp_as_service_utils.h:14</a></div></div>
-<div class="ttc" id="aclassBGPaaSUtils_html_a23ef665832565e14189341748d9bad44"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">BGPaaSUtils::DecodeBgpaasServicePort</a></div><div class="ttdeci">static BgpAsServicePortIndexPair DecodeBgpaasServicePort(const uint32_t sport, const uint16_t port_range_start, const uint16_t port_range_end)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/dec/bgp__as__service__utils_8cc_source.html#l00031">bgp_as_service_utils.cc:31</a></div></div>
-<div class="ttc" id="aclassBGPaaSUtils_html_adbab9ececbf344836b27cb9b4942e513"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">BGPaaSUtils::EncodeBgpaasServicePort</a></div><div class="ttdeci">static uint32_t EncodeBgpaasServicePort(const uint32_t sport, const size_t index, const uint16_t port_range_start, const uint16_t port_range_end)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/dec/bgp__as__service__utils_8cc_source.html#l00063">bgp_as_service_utils.cc:63</a></div></div>
-<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00120">bgp_update.h:120</a></div></div>
+<div class="ttc" id="aclassBGPaaSUtils_html_a110ff4cac0766787cd5dce961d24fe05"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#a110ff4cac0766787cd5dce961d24fe05">BGPaaSUtils::BgpAsServicePortIndexPair</a></div><div class="ttdeci">std::pair&lt; uint32_t, size_t &gt; BgpAsServicePortIndexPair</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/dc4/bgp__as__service__utils_8h_source.html#l00015">bgp_as_service_utils.h:15</a></div></div>
+<div class="ttc" id="aclassBGPaaSUtils_html_a23ef665832565e14189341748d9bad44"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#a23ef665832565e14189341748d9bad44">BGPaaSUtils::DecodeBgpaasServicePort</a></div><div class="ttdeci">static BgpAsServicePortIndexPair DecodeBgpaasServicePort(const uint32_t sport, const uint16_t port_range_start, const uint16_t port_range_end)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/dec/bgp__as__service__utils_8cc_source.html#l00032">bgp_as_service_utils.cc:32</a></div></div>
+<div class="ttc" id="aclassBGPaaSUtils_html_adbab9ececbf344836b27cb9b4942e513"><div class="ttname"><a href="../../de/ddb/classBGPaaSUtils.html#adbab9ececbf344836b27cb9b4942e513">BGPaaSUtils::EncodeBgpaasServicePort</a></div><div class="ttdeci">static uint32_t EncodeBgpaasServicePort(const uint32_t sport, const size_t index, const uint16_t port_range_start, const uint16_t port_range_end)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/dec/bgp__as__service__utils_8cc_source.html#l00064">bgp_as_service_utils.cc:64</a></div></div>
+<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="../../d8/dcc/namespacestd.html">std</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/bgp__update_8h_source.html#l00121">bgp_update.h:121</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

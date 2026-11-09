@@ -102,43 +102,46 @@ $(document).ready(function(){initNavTree('d7/dd0/t__doc_8h_source.html','../../'
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="comment"> * KIND, either express or implied. See the License for the</span></div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="comment"> * specific language governing permissions and limitations</span></div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="comment"> * under the License.</span></div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#ifndef T_DOC_H</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#define T_DOC_H</span></div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment"> *</span></div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> * Modifications Copyright (c) Juniper Networks, Inc.</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> */</span></div>
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html">   27</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/dac/classt__doc.html">t_doc</a> {</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160; </div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">   30</a></span>&#160;  <a class="code" href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">t_doc</a>() : <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>(false) {}</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#ifndef T_DOC_H</span></div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="preprocessor">#define T_DOC_H</span></div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
+<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html">   30</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d6/dac/classt__doc.html">t_doc</a> {</div>
 <div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160; </div>
-<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">   32</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">set_doc</a>(<span class="keyword">const</span> std::string&amp; doc) {</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a> = doc;</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a> = <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;  }</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160; </div>
-<div class="line"><a name="l00037"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">   37</a></span>&#160;  <span class="keyword">const</span> std::string&amp; <a class="code" href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">get_doc</a>()<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a>;</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;  }</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
-<div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">   41</a></span>&#160;  <span class="keywordtype">bool</span> <a class="code" href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">has_doc</a>() {</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>;</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;  }</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160; </div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160; <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00046"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">   46</a></span>&#160;  std::string <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a>;</div>
-<div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">   47</a></span>&#160;  <span class="keywordtype">bool</span> <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>;</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;};</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160; </div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="ttc" id="aclasst__doc_html"><div class="ttname"><a href="../../d6/dac/classt__doc.html">t_doc</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00027">t_doc.h:27</a></div></div>
-<div class="ttc" id="aclasst__doc_html_a06d77f7c22e80b031796e97d0ff0a473"><div class="ttname"><a href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">t_doc::t_doc</a></div><div class="ttdeci">t_doc()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00030">t_doc.h:30</a></div></div>
-<div class="ttc" id="aclasst__doc_html_a0f142bfd5ee79af2db3ffbef8843d155"><div class="ttname"><a href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">t_doc::has_doc</a></div><div class="ttdeci">bool has_doc()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00041">t_doc.h:41</a></div></div>
-<div class="ttc" id="aclasst__doc_html_aa2388266b677d843deb6ffa5ce12f95d"><div class="ttname"><a href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">t_doc::get_doc</a></div><div class="ttdeci">const std::string &amp; get_doc() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00037">t_doc.h:37</a></div></div>
-<div class="ttc" id="aclasst__doc_html_ab933ee4c2e3d8124064a69cd69bd227e"><div class="ttname"><a href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">t_doc::has_doc_</a></div><div class="ttdeci">bool has_doc_</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00047">t_doc.h:47</a></div></div>
-<div class="ttc" id="aclasst__doc_html_abd07f80e634dffa99871632b0f2e0abd"><div class="ttname"><a href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">t_doc::doc_</a></div><div class="ttdeci">std::string doc_</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00046">t_doc.h:46</a></div></div>
-<div class="ttc" id="aclasst__doc_html_ad277ece71c24d4d65de5364161a22bb2"><div class="ttname"><a href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">t_doc::set_doc</a></div><div class="ttdeci">void set_doc(const std::string &amp;doc)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00032">t_doc.h:32</a></div></div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160; <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">   33</a></span>&#160;  <a class="code" href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">t_doc</a>() : <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>(false) {}</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160; </div>
+<div class="line"><a name="l00035"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">   35</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">set_doc</a>(<span class="keyword">const</span> std::string&amp; doc) {</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a> = doc;</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a> = <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  }</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160; </div>
+<div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">   40</a></span>&#160;  <span class="keyword">const</span> std::string&amp; <a class="code" href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">get_doc</a>()<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a>;</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;  }</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160; </div>
+<div class="line"><a name="l00044"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">   44</a></span>&#160;  <span class="keywordtype">bool</span> <a class="code" href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">has_doc</a>() {</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>;</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;  }</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160; </div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00049"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">   49</a></span>&#160;  std::string <a class="code" href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">doc_</a>;</div>
+<div class="line"><a name="l00050"></a><span class="lineno"><a class="line" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">   50</a></span>&#160;  <span class="keywordtype">bool</span> <a class="code" href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">has_doc_</a>;</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160; </div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;};</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160; </div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclasst__doc_html"><div class="ttname"><a href="../../d6/dac/classt__doc.html">t_doc</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00030">t_doc.h:30</a></div></div>
+<div class="ttc" id="aclasst__doc_html_a06d77f7c22e80b031796e97d0ff0a473"><div class="ttname"><a href="../../d6/dac/classt__doc.html#a06d77f7c22e80b031796e97d0ff0a473">t_doc::t_doc</a></div><div class="ttdeci">t_doc()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00033">t_doc.h:33</a></div></div>
+<div class="ttc" id="aclasst__doc_html_a0f142bfd5ee79af2db3ffbef8843d155"><div class="ttname"><a href="../../d6/dac/classt__doc.html#a0f142bfd5ee79af2db3ffbef8843d155">t_doc::has_doc</a></div><div class="ttdeci">bool has_doc()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00044">t_doc.h:44</a></div></div>
+<div class="ttc" id="aclasst__doc_html_aa2388266b677d843deb6ffa5ce12f95d"><div class="ttname"><a href="../../d6/dac/classt__doc.html#aa2388266b677d843deb6ffa5ce12f95d">t_doc::get_doc</a></div><div class="ttdeci">const std::string &amp; get_doc() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00040">t_doc.h:40</a></div></div>
+<div class="ttc" id="aclasst__doc_html_ab933ee4c2e3d8124064a69cd69bd227e"><div class="ttname"><a href="../../d6/dac/classt__doc.html#ab933ee4c2e3d8124064a69cd69bd227e">t_doc::has_doc_</a></div><div class="ttdeci">bool has_doc_</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00050">t_doc.h:50</a></div></div>
+<div class="ttc" id="aclasst__doc_html_abd07f80e634dffa99871632b0f2e0abd"><div class="ttname"><a href="../../d6/dac/classt__doc.html#abd07f80e634dffa99871632b0f2e0abd">t_doc::doc_</a></div><div class="ttdeci">std::string doc_</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00049">t_doc.h:49</a></div></div>
+<div class="ttc" id="aclasst__doc_html_ad277ece71c24d4d65de5364161a22bb2"><div class="ttname"><a href="../../d6/dac/classt__doc.html#ad277ece71c24d4d65de5364161a22bb2">t_doc::set_doc</a></div><div class="ttdeci">void set_doc(const std::string &amp;doc)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dd0/t__doc_8h_source.html#l00035">t_doc.h:35</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

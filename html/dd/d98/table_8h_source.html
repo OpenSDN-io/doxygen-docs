@@ -87,29 +87,30 @@ $(document).ready(function(){initNavTree('dd/d98/table_8h_source.html','../../')
 <div class="contents">
 <a href="../../dd/d98/table_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * Copyright (c) 2013 Juniper Networks, Inc. All rights reserved.</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> */</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160; </div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#ifndef ctrlplane_table_h</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#define ctrlplane_table_h</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160; </div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d6/d67/db__table_8h.html">db/db_table.h</a>&quot;</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="comment">// Table interface.</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment">// A Routing table is part of a database.</span></div>
-<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html">   12</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d3/d72/classRouteTable.html">RouteTable</a> : <span class="keyword">public</span> <a class="code" href="../../d5/d0a/classDBTable.html">DBTable</a> {</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">   14</a></span>&#160;    <a class="code" href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">RouteTable</a>(<a class="code" href="../../df/d70/classDB.html">DB</a> *db, <span class="keyword">const</span> std::string &amp;<a class="code" href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">name</a>) : <a class="code" href="../../d5/d0a/classDBTable.html">DBTable</a>(db, <a class="code" href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">name</a>) { }</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keyword">private</span>:</div>
-<div class="line"><a name="l00017"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html#ade2a78a57e9b2f8f3d832f88ad7e4022">   17</a></span>&#160;    <a class="code" href="../../d3/d72/classRouteTable.html#ade2a78a57e9b2f8f3d832f88ad7e4022">DISALLOW_COPY_AND_ASSIGN</a>(<a class="code" href="../../d3/d72/classRouteTable.html">RouteTable</a>);</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;};</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="ttc" id="aclassDBTableBase_html_af607278191728ac8360828fa7a01d4a6"><div class="ttname"><a href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">DBTableBase::name</a></div><div class="ttdeci">const std::string &amp; name() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00110">db_table.h:110</a></div></div>
-<div class="ttc" id="aclassDBTable_html"><div class="ttname"><a href="../../d5/d0a/classDBTable.html">DBTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00167">db_table.h:167</a></div></div>
-<div class="ttc" id="aclassDB_html"><div class="ttname"><a href="../../df/d70/classDB.html">DB</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d4e/db_8h_source.html#l00024">db.h:24</a></div></div>
-<div class="ttc" id="aclassRouteTable_html"><div class="ttname"><a href="../../d3/d72/classRouteTable.html">RouteTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d98/table_8h_source.html#l00012">table.h:12</a></div></div>
-<div class="ttc" id="aclassRouteTable_html_a573a4c20428751645e0df10da9bae4db"><div class="ttname"><a href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">RouteTable::RouteTable</a></div><div class="ttdeci">RouteTable(DB *db, const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d98/table_8h_source.html#l00014">table.h:14</a></div></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> * Copyright Contributors to the OpenSDN project</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> */</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#ifndef ctrlplane_table_h</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#define ctrlplane_table_h</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d6/d67/db__table_8h.html">db/db_table.h</a>&quot;</span></div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment">// Table interface.</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment">// A Routing table is part of a database.</span></div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html">   13</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d3/d72/classRouteTable.html">RouteTable</a> : <span class="keyword">public</span> <a class="code" href="../../d5/d0a/classDBTable.html">DBTable</a> {</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">   15</a></span>&#160;    <a class="code" href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">RouteTable</a>(<a class="code" href="../../df/d70/classDB.html">DB</a> *db, <span class="keyword">const</span> std::string &amp;<a class="code" href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">name</a>) : <a class="code" href="../../d5/d0a/classDBTable.html">DBTable</a>(db, <a class="code" href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">name</a>) { }</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="keyword">private</span>:</div>
+<div class="line"><a name="l00018"></a><span class="lineno"><a class="line" href="../../d3/d72/classRouteTable.html#ade2a78a57e9b2f8f3d832f88ad7e4022">   18</a></span>&#160;    <a class="code" href="../../d3/d72/classRouteTable.html#ade2a78a57e9b2f8f3d832f88ad7e4022">DISALLOW_COPY_AND_ASSIGN</a>(<a class="code" href="../../d3/d72/classRouteTable.html">RouteTable</a>);</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;};</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclassDBTableBase_html_af607278191728ac8360828fa7a01d4a6"><div class="ttname"><a href="../../d7/df2/classDBTableBase.html#af607278191728ac8360828fa7a01d4a6">DBTableBase::name</a></div><div class="ttdeci">const std::string &amp; name() const</div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00111">db_table.h:111</a></div></div>
+<div class="ttc" id="aclassDBTable_html"><div class="ttname"><a href="../../d5/d0a/classDBTable.html">DBTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d67/db__table_8h_source.html#l00168">db_table.h:168</a></div></div>
+<div class="ttc" id="aclassDB_html"><div class="ttname"><a href="../../df/d70/classDB.html">DB</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d4e/db_8h_source.html#l00025">db.h:25</a></div></div>
+<div class="ttc" id="aclassRouteTable_html"><div class="ttname"><a href="../../d3/d72/classRouteTable.html">RouteTable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d98/table_8h_source.html#l00013">table.h:13</a></div></div>
+<div class="ttc" id="aclassRouteTable_html_a573a4c20428751645e0df10da9bae4db"><div class="ttname"><a href="../../d3/d72/classRouteTable.html#a573a4c20428751645e0df10da9bae4db">RouteTable::RouteTable</a></div><div class="ttdeci">RouteTable(DB *db, const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d98/table_8h_source.html#l00015">table.h:15</a></div></div>
 <div class="ttc" id="aclassRouteTable_html_ade2a78a57e9b2f8f3d832f88ad7e4022"><div class="ttname"><a href="../../d3/d72/classRouteTable.html#ade2a78a57e9b2f8f3d832f88ad7e4022">RouteTable::DISALLOW_COPY_AND_ASSIGN</a></div><div class="ttdeci">DISALLOW_COPY_AND_ASSIGN(RouteTable)</div></div>
 <div class="ttc" id="adb__table_8h_html"><div class="ttname"><a href="../../d6/d67/db__table_8h.html">db_table.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
